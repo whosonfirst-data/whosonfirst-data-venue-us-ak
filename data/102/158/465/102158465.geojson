@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.316428,57.051284,-135.316428,57.051284",
+    "geom:latitude":57.051284,
+    "geom:longitude":-135.316428,
+    "iso:country":"US",
+    "sg:address":"1302 Sawmill Creek Rd",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 9333",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qM86I5xvh08Do1iVYjhAF_57.051284_-135.316428@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8e5c1000eaf4c042ce595623f832875d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102158465"
+        }
+    ],
+    "wof:id":"102158465",
+    "wof:lastmodified":1449069394,
+    "wof:name":"CBC Construction",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.316428,57.051284,-135.316428,57.051284],
+  "geometry": {"coordinates":[-135.316428,57.051284],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-133.140275,55.477261,-133.140275,55.477261",
+    "geom:latitude":55.477261,
+    "geom:longitude":-133.140275,
+    "iso:country":"US",
+    "sg:address":"101 Cold Storage Rd",
+    "sg:city":"Craig",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Seafood",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 826 3241",
+    "sg:postcode":"99921",
+    "sg:province":"AK",
+    "sg:tags":[
+        "fish"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916099,
+        85633793,
+        85688573,
+        102081403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IICGzwKiA7l11zyiPUdJK_55.477261_-133.140275@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"003a1b48532cccc11bfc350f250a1dcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081403,
+            "locality_id":85916099,
+            "region_id":85688573,
+            "venue_id":"102196173"
+        }
+    ],
+    "wof:id":"102196173",
+    "wof:lastmodified":1449068336,
+    "wof:name":"Craig Fisheries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-133.140275,55.477261,-133.140275,55.477261],
+  "geometry": {"coordinates":[-133.140275,55.477261],"type":"Point"}
+}

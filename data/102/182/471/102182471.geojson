@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.934292,56.820176,-132.934292,56.820176",
+    "geom:latitude":56.820176,
+    "geom:longitude":-132.934292,
+    "iso:country":"US",
+    "sg:address":"1404 14th St",
+    "sg:city":"Petersburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 772 3787",
+    "sg:postcode":"99833",
+    "sg:province":"AK",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916033,
+        85633793,
+        85688573,
+        102081899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qscCR0BQQcZQU1ogTVYc6_56.820176_-132.934292@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8f8875587e26d7bda3d3f9d7e5d11629",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081899,
+            "locality_id":85916033,
+            "region_id":85688573,
+            "venue_id":"102182471"
+        }
+    ],
+    "wof:id":"102182471",
+    "wof:lastmodified":1449069280,
+    "wof:name":"Petersburg City Waste Water",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.934292,56.820176,-132.934292,56.820176],
+  "geometry": {"coordinates":[-132.934292,56.820176],"type":"Point"}
+}

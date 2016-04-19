@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.625843,58.393682,-134.625843,58.393682",
+    "geom:latitude":58.393682,
+    "geom:longitude":-134.625843,
+    "iso:country":"US",
+    "sg:address":"11585 Mendenhall Loop Rd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 780 5295",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915729,
+        85633793,
+        85688573,
+        102081399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S4o1zKnw5SVvC3JimXbHQ_58.393682_-134.625843@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8e71b8e4d1217b4618290e1a428e5e3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "region_id":85688573,
+            "venue_id":"102189121"
+        }
+    ],
+    "wof:id":"102189121",
+    "wof:lastmodified":1449069499,
+    "wof:name":"Mr Color",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.625843,58.393682,-134.625843,58.393682],
+  "geometry": {"coordinates":[-134.625843,58.393682],"type":"Point"}
+}

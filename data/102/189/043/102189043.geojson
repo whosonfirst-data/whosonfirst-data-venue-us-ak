@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.723667,64.845226,-147.723667,64.845226",
+    "geom:latitude":64.845226,
+    "geom:longitude":-147.723667,
+    "iso:country":"US",
+    "sg:address":"126 N Turner St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 3222",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RvO6cBcU5yLMiFFknQ259_64.845226_-147.723667@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"38c3116b660e8a84cc5795c1b98a7d5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102189043"
+        }
+    ],
+    "wof:id":"102189043",
+    "wof:lastmodified":1449069498,
+    "wof:name":"Bobby's",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.723667,64.845226,-147.723667,64.845226],
+  "geometry": {"coordinates":[-147.723667,64.845226],"type":"Point"}
+}

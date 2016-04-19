@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.778446,61.194622,-149.778446,61.194622",
+    "geom:latitude":61.194622,
+    "geom:longitude":-149.778446,
+    "iso:country":"US",
+    "sg:address":"2932 Boniface Pkwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 2373",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806647,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BaAB8HpYcR3zNhPVVk6bQ_61.194622_-149.778446@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"20886340b57a5557afdb00f7fbafdaa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85806647,
+            "region_id":85688573,
+            "venue_id":"102150211"
+        }
+    ],
+    "wof:id":"102150211",
+    "wof:lastmodified":1449067789,
+    "wof:name":"Amore Pizza",
+    "wof:parent_id":85806647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.778446,61.194622,-149.778446,61.194622],
+  "geometry": {"coordinates":[-149.778446,61.194622],"type":"Point"}
+}

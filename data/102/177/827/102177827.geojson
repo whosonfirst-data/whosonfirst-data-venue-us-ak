@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.328605,61.568723,-149.328605,61.568723",
+    "geom:latitude":61.568723,
+    "geom:longitude":-149.328605,
+    "iso:country":"US",
+    "sg:address":"4901 E Parks Hwy",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 7910",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.churchak.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916253,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bFltlyVRdnvGMuUle7xeO_61.568723_-149.328605@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dc16713c6dca121744820e02c8b53dfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916253,
+            "region_id":85688573,
+            "venue_id":"102177827"
+        }
+    ],
+    "wof:id":"102177827",
+    "wof:lastmodified":1449070208,
+    "wof:name":"Church Of The Rock Wasilla",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.328605,61.568723,-149.328605,61.568723],
+  "geometry": {"coordinates":[-149.328605,61.568723],"type":"Point"}
+}

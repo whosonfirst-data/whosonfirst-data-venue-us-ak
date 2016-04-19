@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.086975,60.494989,-151.086975,60.494989",
+    "geom:latitude":60.494989,
+    "geom:longitude":-151.086975,
+    "iso:country":"US",
+    "sg:address":"300 W Marydale Dr",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 4865",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.soldotnabiblechapel.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gemECt9bK0M6NmgKM8GAr_60.494989_-151.086975@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d38d3458ec2b9fd3c0dd031df806af1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102194349"
+        }
+    ],
+    "wof:id":"102194349",
+    "wof:lastmodified":1449069827,
+    "wof:name":"Soldotna Bible Chapel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.086975,60.494989,-151.086975,60.494989],
+  "geometry": {"coordinates":[-151.086975,60.494989],"type":"Point"}
+}

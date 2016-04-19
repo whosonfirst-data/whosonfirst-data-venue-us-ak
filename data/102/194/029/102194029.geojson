@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.684077,64.849478,-147.684077,64.849478",
+    "geom:latitude":64.849478,
+    "geom:longitude":-147.684077,
+    "iso:country":"US",
+    "sg:address":"820 Joyce Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 4814",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XuLTGikc5PLaAmGTjDq0Z_64.849478_-147.684077@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8de300cae959a173e764cdb42d8746cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102194029"
+        }
+    ],
+    "wof:id":"102194029",
+    "wof:lastmodified":1449069828,
+    "wof:name":"Sleepy Moose Bed & Breakfast",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.684077,64.849478,-147.684077,64.849478],
+  "geometry": {"coordinates":[-147.684077,64.849478],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.768789,61.085954,-149.768789,61.085954",
+    "geom:latitude":61.085954,
+    "geom:longitude":-149.768789,
+    "iso:country":"US",
+    "sg:address":"14830 Zircon Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 348 0565",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873751,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YFwPjW18HqYvbq8MrDh73_61.085954_-149.768789@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6ebb878a865190054ee6b93b65b9f33b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873751,
+            "region_id":85688573,
+            "venue_id":"102192743"
+        }
+    ],
+    "wof:id":"102192743",
+    "wof:lastmodified":1449069504,
+    "wof:name":"Robert Pascal",
+    "wof:parent_id":85873751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.768789,61.085954,-149.768789,61.085954],
+  "geometry": {"coordinates":[-149.768789,61.085954],"type":"Point"}
+}

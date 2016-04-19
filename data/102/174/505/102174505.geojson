@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.440583,60.102347,-149.440583,60.102347",
+    "geom:latitude":60.102347,
+    "geom:longitude":-149.440583,
+    "iso:country":"US",
+    "sg:address":"229 4th Ave",
+    "sg:city":"Seward",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 224 3092",
+    "sg:postcode":"99664",
+    "sg:province":"AK",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915769,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DyvaCxB66Xes3Grt6F7Nu_60.102347_-149.440583@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a71844418a8931710963fd55e3b14d6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915769,
+            "region_id":85688573,
+            "venue_id":"102174505"
+        }
+    ],
+    "wof:id":"102174505",
+    "wof:lastmodified":1449068141,
+    "wof:name":"Apollo Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.440583,60.102347,-149.440583,60.102347],
+  "geometry": {"coordinates":[-149.440583,60.102347],"type":"Point"}
+}

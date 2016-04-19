@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.049681,60.487866,-151.049681,60.487866",
+    "geom:latitude":60.487866,
+    "geom:longitude":-151.049681,
+    "iso:country":"US",
+    "sg:address":"370 E Redoubt Ave",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 260 7424",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JxAWRLZjGwCb4i2MVOrXH_60.487866_-151.049681@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c6154c510ad2afb6f9a7166f279cdc17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102183841"
+        }
+    ],
+    "wof:id":"102183841",
+    "wof:lastmodified":1449069041,
+    "wof:name":"Auto Wash Express",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.049681,60.487866,-151.049681,60.487866],
+  "geometry": {"coordinates":[-151.049681,60.487866],"type":"Point"}
+}

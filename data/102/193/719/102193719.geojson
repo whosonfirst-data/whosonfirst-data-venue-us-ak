@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.751148,64.816115,-147.751148,64.816115",
+    "geom:latitude":64.816115,
+    "geom:longitude":-147.751148,
+    "iso:country":"US",
+    "sg:address":"3400 International St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 6413",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "roofing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qDWnSQK9HiupBzpkvCg1x_64.816115_-147.751148@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d29143ebc96c37b36a7559fef7e702d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102193719"
+        }
+    ],
+    "wof:id":"102193719",
+    "wof:lastmodified":1449068192,
+    "wof:name":"Ridgetop Hawaii Inc",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.751148,64.816115,-147.751148,64.816115],
+  "geometry": {"coordinates":[-147.751148,64.816115],"type":"Point"}
+}

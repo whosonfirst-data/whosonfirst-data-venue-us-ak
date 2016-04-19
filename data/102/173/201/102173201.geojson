@@ -1,0 +1,71 @@
+{
+  "id": "102173201",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.808269,61.210775,-149.808269,61.210775",
+    "geom:latitude":61.210775,
+    "geom:longitude":-149.808269,
+    "iso:country":"US",
+    "sg:address":"1255 S Bragaw St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 1197",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85915707,
+        102085881,
+        85873729
+    ],
+    "wof:brand_id":420574101,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kyTn0eAc07TbzujHDcEA0_61.210775_-149.808269@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ca7038cddceaed5150163828ab60fc7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102173201"
+        }
+    ],
+    "wof:id":"102173201",
+    "wof:lastmodified":1457208478,
+    "wof:name":"Midas Auto Svc Experts",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.808269,
+    61.210775,
+    -149.808269,
+    61.210775
+],
+  "geometry": {"coordinates":[-149.808269,61.210775],"type":"Point"}
+}

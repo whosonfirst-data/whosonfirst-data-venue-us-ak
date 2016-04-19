@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.487816,58.343165,-134.487816,58.343165",
+    "geom:latitude":58.343165,
+    "geom:longitude":-134.487816,
+    "iso:country":"US",
+    "sg:address":"4478 Mountainside Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 780 6404",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "heavy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853509,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_319Yj9SvvHt4aSsf1QqcV1_58.343165_-134.487816@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0c546584275b86d4467175fa208e4fb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85853509,
+            "region_id":85688573,
+            "venue_id":"102162073"
+        }
+    ],
+    "wof:id":"102162073",
+    "wof:lastmodified":1449069822,
+    "wof:name":"Greenwaters Marine Surveyors",
+    "wof:parent_id":85853509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.487816,58.343165,-134.487816,58.343165],
+  "geometry": {"coordinates":[-134.487816,58.343165],"type":"Point"}
+}

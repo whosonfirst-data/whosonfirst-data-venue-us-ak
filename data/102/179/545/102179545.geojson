@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.43323,58.307361,-134.43323,58.307361",
+    "geom:latitude":58.307361,
+    "geom:longitude":-134.43323,
+    "iso:country":"US",
+    "sg:address":"1800 Glacier Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 463 3030",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pjQO2AHDPRjvyj2KlwOsS_58.307361_-134.433230@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"084d4504450e198a1cf5306616a97e44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102179545"
+        }
+    ],
+    "wof:id":"102179545",
+    "wof:lastmodified":1449069941,
+    "wof:name":"ABC Ctr",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.43323,58.307361,-134.43323,58.307361],
+  "geometry": {"coordinates":[-134.43323,58.307361],"type":"Point"}
+}

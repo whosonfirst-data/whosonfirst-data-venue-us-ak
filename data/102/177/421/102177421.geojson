@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.893498,61.217565,-149.893498,61.217565",
+    "geom:latitude":61.217565,
+    "geom:longitude":-149.893498,
+    "iso:country":"US",
+    "sg:address":"500 W 5th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 5333",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "notion"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LFkrAri8dM7hwkERHbSmc_61.217565_-149.893498@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1a8bc29b5be86ce03502d781df494dbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102177421"
+        }
+    ],
+    "wof:id":"102177421",
+    "wof:lastmodified":1449070208,
+    "wof:name":"Kimballs Store",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.893498,61.217565,-149.893498,61.217565],
+  "geometry": {"coordinates":[-149.893498,61.217565],"type":"Point"}
+}

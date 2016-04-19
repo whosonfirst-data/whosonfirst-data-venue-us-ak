@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.733398,61.194714,-149.733398,61.194714",
+    "geom:latitude":61.194714,
+    "geom:longitude":-149.733398,
+    "iso:country":"US",
+    "sg:address":"3131 Muldoon Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 566 3329",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873735,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56ZrLNdbU8ORhz5p0f84R7_61.194714_-149.733398@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d11830917591cf95b682cd7836c938b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873735,
+            "region_id":85688573,
+            "venue_id":"102150487"
+        }
+    ],
+    "wof:id":"102150487",
+    "wof:lastmodified":1449067790,
+    "wof:name":"Totem 8",
+    "wof:parent_id":85873735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.733398,61.194714,-149.733398,61.194714],
+  "geometry": {"coordinates":[-149.733398,61.194714],"type":"Point"}
+}

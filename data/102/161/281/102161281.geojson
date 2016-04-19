@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.440285,59.228451,-135.440285,59.228451",
+    "geom:latitude":59.228451,
+    "geom:longitude":-135.440285,
+    "iso:country":"US",
+    "sg:address":"5 Blacksmith St",
+    "sg:city":"Haines",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 766 2157",
+    "sg:postcode":"99827",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company",
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842771,
+        85633793,
+        85916629,
+        102083767,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lbFPbSKCS4pkran7zUgHG_59.228451_-135.440285@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3a9739a324baed3a84f84cd47141f938",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083767,
+            "locality_id":85916629,
+            "neighbourhood_id":85842771,
+            "region_id":85688573,
+            "venue_id":"102161281"
+        }
+    ],
+    "wof:id":"102161281",
+    "wof:lastmodified":1449068713,
+    "wof:name":"Leo Smith Logging Co",
+    "wof:parent_id":85842771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.440285,59.228451,-135.440285,59.228451],
+  "geometry": {"coordinates":[-135.440285,59.228451],"type":"Point"}
+}

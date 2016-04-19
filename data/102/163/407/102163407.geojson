@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.868013,61.174074,-149.868013,61.174074",
+    "geom:latitude":61.174074,
+    "geom:longitude":-149.868013,
+    "iso:country":"US",
+    "sg:address":"4751 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 2266",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "sg:website":"www.uhaul.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2v77ogVAZBmAEe0ekfdE6B_61.174074_-149.868013@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cc46eca4972d537edc776601fb20cd9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102163407"
+        }
+    ],
+    "wof:id":"102163407",
+    "wof:lastmodified":1449070164,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.868013,61.174074,-149.868013,61.174074],
+  "geometry": {"coordinates":[-149.868013,61.174074],"type":"Point"}
+}

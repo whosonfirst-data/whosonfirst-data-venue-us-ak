@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.236231,60.51824,-151.236231,60.51824",
+    "geom:latitude":60.51824,
+    "geom:longitude":-151.236231,
+    "iso:country":"US",
+    "sg:address":"2835 Watergate Way",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 9518",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2v7EcwHVcWxMmy6Ayvv4vM_60.518240_-151.236231@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a28e832f4a2199c806e9678e6b2634f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102163583"
+        }
+    ],
+    "wof:id":"102163583",
+    "wof:lastmodified":1449070164,
+    "wof:name":"Asphalt Marking Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.236231,60.51824,-151.236231,60.51824],
+  "geometry": {"coordinates":[-151.236231,60.51824],"type":"Point"}
+}

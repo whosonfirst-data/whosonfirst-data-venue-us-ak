@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.868057,61.179962,-149.868057,61.179962",
+    "geom:latitude":61.179962,
+    "geom:longitude":-149.868057,
+    "iso:country":"US",
+    "sg:address":"4417 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 3877",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.alaskafurexchange.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vCCNDFrx6JrvBQIPulaMd_61.179962_-149.868057@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd525f2d00012f3629a9ea5f05ca6785",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102171817"
+        }
+    ],
+    "wof:id":"102171817",
+    "wof:lastmodified":1449070224,
+    "wof:name":"Alaska Fur Exchange",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.868057,61.179962,-149.868057,61.179962],
+  "geometry": {"coordinates":[-149.868057,61.179962],"type":"Point"}
+}

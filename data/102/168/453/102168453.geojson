@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.930919,61.149571,-149.930919,61.149571",
+    "geom:latitude":61.149571,
+    "geom:longitude":-149.930919,
+    "iso:country":"US",
+    "sg:address":"7920 Honeysuckle Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 5372",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "house",
+        "c"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rH6J1WLxAJdbVGuKG1V9j_61.149571_-149.930919@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"04c64ee4c628e24c0bc0bc753bf05870",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102168453"
+        }
+    ],
+    "wof:id":"102168453",
+    "wof:lastmodified":1449069009,
+    "wof:name":"Kenley Construction",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.930919,61.149571,-149.930919,61.149571],
+  "geometry": {"coordinates":[-149.930919,61.149571],"type":"Point"}
+}

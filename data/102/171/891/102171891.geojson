@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.879974,61.171668,-149.879974,61.171668",
+    "geom:latitude":61.171668,
+    "geom:longitude":-149.879974,
+    "iso:country":"US",
+    "sg:address":"5401 Cordova St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 3683",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XdDQozqjgCMQP4xK50NKz_61.171668_-149.879974@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a55b7a3593898f8d8d93350cf6cd7552",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102171891"
+        }
+    ],
+    "wof:id":"102171891",
+    "wof:lastmodified":1449070223,
+    "wof:name":"Cook Inlet Copy Shop",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.879974,61.171668,-149.879974,61.171668],
+  "geometry": {"coordinates":[-149.879974,61.171668],"type":"Point"}
+}

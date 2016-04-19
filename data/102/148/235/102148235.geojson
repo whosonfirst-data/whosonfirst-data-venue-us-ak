@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.861053,64.845344,-147.861053,64.845344",
+    "geom:latitude":64.845344,
+    "geom:longitude":-147.861053,
+    "iso:country":"US",
+    "sg:address":"228 Woodridge Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 455 8250",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916609,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KqK73ebmhHL0koyQjoLPT_64.845344_-147.861053@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"09b4d402e69edbbdd19ae19e0eccf9c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "region_id":85688573,
+            "venue_id":"102148235"
+        }
+    ],
+    "wof:id":"102148235",
+    "wof:lastmodified":1449069785,
+    "wof:name":"Flying School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.861053,64.845344,-147.861053,64.845344],
+  "geometry": {"coordinates":[-147.861053,64.845344],"type":"Point"}
+}

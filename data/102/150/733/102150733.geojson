@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.714073,64.827383,-147.714073,64.827383",
+    "geom:latitude":64.827383,
+    "geom:longitude":-147.714073,
+    "iso:country":"US",
+    "sg:address":"2222 S Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 5005",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WMNmysCNeCD5x9ObFDxDW_64.827383_-147.714073@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e5bb8179cc5a8238d251fd8b568e28d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102150733"
+        }
+    ],
+    "wof:id":"102150733",
+    "wof:lastmodified":1449067789,
+    "wof:name":"Dental Care Access Program",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.714073,64.827383,-147.714073,64.827383],
+  "geometry": {"coordinates":[-147.714073,64.827383],"type":"Point"}
+}

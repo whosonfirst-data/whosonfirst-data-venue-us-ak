@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.710653,64.810358,-147.710653,64.810358",
+    "geom:latitude":64.810358,
+    "geom:longitude":-147.710653,
+    "iso:country":"US",
+    "sg:address":"3801 S Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 0265",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33XBmMPRXM7uDP6ADhVTkF_64.810358_-147.710653@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6f3c95686d0f77456ededa6dfad2af59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102157487"
+        }
+    ],
+    "wof:id":"102157487",
+    "wof:lastmodified":1449069831,
+    "wof:name":"MVI Realty",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.710653,64.810358,-147.710653,64.810358],
+  "geometry": {"coordinates":[-147.710653,64.810358],"type":"Point"}
+}

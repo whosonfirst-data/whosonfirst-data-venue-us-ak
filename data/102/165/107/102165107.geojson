@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.889667,61.162972,-149.889667,61.162972",
+    "geom:latitude":61.162972,
+    "geom:longitude":-149.889667,
+    "iso:country":"US",
+    "sg:address":"6324 Nielson Way",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 8343",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "auction",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64PsTqE18TtF30R6fgjtVy_61.162972_-149.889667@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"38e82c8ba2641e9e2dc6f982809ee7af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102165107"
+        }
+    ],
+    "wof:id":"102165107",
+    "wof:lastmodified":1449070212,
+    "wof:name":"Dealers Auto Auction Of Alaska",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.889667,61.162972,-149.889667,61.162972],
+  "geometry": {"coordinates":[-149.889667,61.162972],"type":"Point"}
+}

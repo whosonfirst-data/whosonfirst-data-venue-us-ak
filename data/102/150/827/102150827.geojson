@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.710701,64.814422,-147.710701,64.814422",
+    "geom:latitude":64.814422,
+    "geom:longitude":-147.710701,
+    "iso:country":"US",
+    "sg:address":"3419 S Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 2050",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "recreational",
+        "sport",
+        "power"
+    ],
+    "sg:website":"www.fairbanksmotorsports.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a4gCLAaDYfcitPc5LPZ8O_64.814422_-147.710701@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"633baeb1bb0d74bddda9ef17fd6600fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102150827"
+        }
+    ],
+    "wof:id":"102150827",
+    "wof:lastmodified":1449067791,
+    "wof:name":"Fairbanks Motorsports",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.710701,64.814422,-147.710701,64.814422],
+  "geometry": {"coordinates":[-147.710701,64.814422],"type":"Point"}
+}

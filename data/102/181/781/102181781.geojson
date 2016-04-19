@@ -1,0 +1,71 @@
+{
+  "id": "102181781",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.841939,61.182576,-149.841939,61.182576",
+    "geom:latitude":61.182576,
+    "geom:longitude":-149.841939,
+    "iso:country":"US",
+    "sg:address":"2200 E 42nd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 269 0810",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "sg:website":"www.dot.state.ak.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85915707,
+        102085881,
+        85873715
+    ],
+    "wof:brand_id":420574155,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WoMLYyzySs69yEEmzT0KM_61.182576_-149.841939@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4e5ffbf8e46a7bf0cfbf5caf4d056b0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102181781"
+        }
+    ],
+    "wof:id":"102181781",
+    "wof:lastmodified":1457208560,
+    "wof:name":"Transportation Dept",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.841939,
+    61.182576,
+    -149.841939,
+    61.182576
+],
+  "geometry": {"coordinates":[-149.841939,61.182576],"type":"Point"}
+}

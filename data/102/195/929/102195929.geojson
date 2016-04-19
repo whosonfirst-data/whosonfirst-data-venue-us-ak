@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.91681,61.188081,-149.91681,61.188081",
+    "geom:latitude":61.188081,
+    "geom:longitude":-149.91681,
+    "iso:country":"US",
+    "sg:address":"1703 W 36th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 9100",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KWxZD48kCAP1UUei1htMh_61.188081_-149.916810@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"78a33c2314519d9ef7541e5277467819",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102195929"
+        }
+    ],
+    "wof:id":"102195929",
+    "wof:lastmodified":1449069363,
+    "wof:name":"Wondzell Investment Co",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.91681,61.188081,-149.91681,61.188081],
+  "geometry": {"coordinates":[-149.91681,61.188081],"type":"Point"}
+}

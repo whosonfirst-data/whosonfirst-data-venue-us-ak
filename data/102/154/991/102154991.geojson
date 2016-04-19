@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.720193,64.841111,-147.720193,64.841111",
+    "geom:latitude":64.841111,
+    "geom:longitude":-147.720193,
+    "iso:country":"US",
+    "sg:address":"610 Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 7368",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4O1kM293K9HzjpVHfdGO6w_64.841111_-147.720193@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"78e2fe3d6c3f4bceae183fdf84197e10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102154991"
+        }
+    ],
+    "wof:id":"102154991",
+    "wof:lastmodified":1449070244,
+    "wof:name":"Furniture Enterprises",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.720193,64.841111,-147.720193,64.841111],
+  "geometry": {"coordinates":[-147.720193,64.841111],"type":"Point"}
+}

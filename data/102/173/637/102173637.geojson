@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.889181,61.181767,-149.889181,61.181767",
+    "geom:latitude":61.181767,
+    "geom:longitude":-149.889181,
+    "iso:country":"US",
+    "sg:address":"4101 Credit Union Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 0800",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:website":"www.seagalleyalaska.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25xvFywkk0pPuelTLWEs5g_61.181767_-149.889181@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f5120a15ca032a293059649fd94a155a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102173637"
+        }
+    ],
+    "wof:id":"102173637",
+    "wof:lastmodified":1449068263,
+    "wof:name":"Pepper Mill",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.889181,61.181767,-149.889181,61.181767],
+  "geometry": {"coordinates":[-149.889181,61.181767],"type":"Point"}
+}

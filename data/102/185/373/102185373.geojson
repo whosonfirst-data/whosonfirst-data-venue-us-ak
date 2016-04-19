@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.440301,61.409,-149.440301,61.409",
+    "geom:latitude":61.409,
+    "geom:longitude":-149.440301,
+    "iso:country":"US",
+    "sg:address":"20935 Eastside Dr",
+    "sg:city":"Chugiak",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 688 4939",
+    "sg:postcode":"99567",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869049,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hRDIz8DAG47mBFKOGiQ9g_61.409000_-149.440301@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d9af73a06b9ccd503fe4ea7aee54c36b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869049,
+            "region_id":85688573,
+            "venue_id":"102185373"
+        }
+    ],
+    "wof:id":"102185373",
+    "wof:lastmodified":1449068196,
+    "wof:name":"N S Svc",
+    "wof:parent_id":85869049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.440301,61.409,-149.440301,61.409],
+  "geometry": {"coordinates":[-149.440301,61.409],"type":"Point"}
+}

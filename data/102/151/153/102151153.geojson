@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.811214,64.855833,-147.811214,64.855833",
+    "geom:latitude":64.855833,
+    "geom:longitude":-147.811214,
+    "iso:country":"US",
+    "sg:address":"3677 College Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 2696",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aY5yyxHdJ0Fecl3VCaD6s_64.855833_-147.811214@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"277687b88aa64eaf8e73fb3226eb0515",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102151153"
+        }
+    ],
+    "wof:id":"102151153",
+    "wof:lastmodified":1449067781,
+    "wof:name":"B & C Laundromat",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.811214,64.855833,-147.811214,64.855833],
+  "geometry": {"coordinates":[-147.811214,64.855833],"type":"Point"}
+}

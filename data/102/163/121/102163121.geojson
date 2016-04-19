@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.963415,61.157125,-149.963415,61.157125",
+    "geom:latitude":61.157125,
+    "geom:longitude":-149.963415,
+    "iso:country":"US",
+    "sg:address":"7032 Whitehall St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 3753",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VBZkW9zKJknkmrE6CQWXh_61.157125_-149.963415@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"095b6fb2eb5e9f02e848c862b3e820e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102163121"
+        }
+    ],
+    "wof:id":"102163121",
+    "wof:lastmodified":1449070164,
+    "wof:name":"Octagon Co",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.963415,61.157125,-149.963415,61.157125],
+  "geometry": {"coordinates":[-149.963415,61.157125],"type":"Point"}
+}

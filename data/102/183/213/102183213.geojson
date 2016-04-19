@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.669573,64.846529,-147.669573,64.846529",
+    "geom:latitude":64.846529,
+    "geom:longitude":-147.669573,
+    "iso:country":"US",
+    "sg:address":"537 Dunbar Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 5525",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FRAZXAFt7rkNPaRVF3ct9_64.846529_-147.669573@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a4596d3ebb907eb1c6aedd1f24493fd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102183213"
+        }
+    ],
+    "wof:id":"102183213",
+    "wof:lastmodified":1449069041,
+    "wof:name":"Newall Taping",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.669573,64.846529,-147.669573,64.846529],
+  "geometry": {"coordinates":[-147.669573,64.846529],"type":"Point"}
+}

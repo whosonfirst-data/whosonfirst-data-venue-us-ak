@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.93799,61.138123,-149.93799,61.138123",
+    "geom:latitude":61.138123,
+    "geom:longitude":-149.93799,
+    "iso:country":"US",
+    "sg:address":"9131 Ticia Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 3397",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VQTR6IHGy5xl3bxc7dbAm_61.138123_-149.937990@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"064cf8f92045f6742ebbd95afc265aa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102189875"
+        }
+    ],
+    "wof:id":"102189875",
+    "wof:lastmodified":1449069498,
+    "wof:name":"Morning Star Carpet Cleaner",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.93799,61.138123,-149.93799,61.138123],
+  "geometry": {"coordinates":[-149.93799,61.138123],"type":"Point"}
+}

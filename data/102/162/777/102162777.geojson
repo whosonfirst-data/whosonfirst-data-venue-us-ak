@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.496217,58.355797,-134.496217,58.355797",
+    "geom:latitude":58.355797,
+    "geom:longitude":-134.496217,
+    "iso:country":"US",
+    "sg:address":"5636 Glacier Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 6838",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kiqrF1PvZqdPYkC6uPraz_58.355797_-134.496217@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b2261d7807a0f672f3f7bc0df118c38c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102162777"
+        }
+    ],
+    "wof:id":"102162777",
+    "wof:lastmodified":1449069823,
+    "wof:name":"Cornerstone Home Health",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.496217,58.355797,-134.496217,58.355797],
+  "geometry": {"coordinates":[-134.496217,58.355797],"type":"Point"}
+}

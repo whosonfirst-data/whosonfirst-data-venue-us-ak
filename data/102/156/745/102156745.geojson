@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.726579,64.840848,-147.726579,64.840848",
+    "geom:latitude":64.840848,
+    "geom:longitude":-147.726579,
+    "iso:country":"US",
+    "sg:address":"782 7th Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 8626",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47mKUwzjnAOn4RCS8inkm9_64.840848_-147.726579@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"821135a07a744c4534e855d3cf93ca2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102156745"
+        }
+    ],
+    "wof:id":"102156745",
+    "wof:lastmodified":1449068284,
+    "wof:name":"Just Gumbo",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.726579,64.840848,-147.726579,64.840848],
+  "geometry": {"coordinates":[-147.726579,64.840848],"type":"Point"}
+}

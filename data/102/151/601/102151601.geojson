@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.742027,61.195892,-149.742027,61.195892",
+    "geom:latitude":61.195892,
+    "geom:longitude":-149.742027,
+    "iso:country":"US",
+    "sg:address":"7431 Tutna Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 9490",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "sharpening"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873735,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PgEhkAd5npZv54yS37oaY_61.195892_-149.742027@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"30d9f3e5c78bf2e6bd72be9f8bc1afc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873735,
+            "region_id":85688573,
+            "venue_id":"102151601"
+        }
+    ],
+    "wof:id":"102151601",
+    "wof:lastmodified":1449067779,
+    "wof:name":"Accu-Sharp",
+    "wof:parent_id":85873735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.742027,61.195892,-149.742027,61.195892],
+  "geometry": {"coordinates":[-149.742027,61.195892],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.761192,61.209795,-149.761192,61.209795",
+    "geom:latitude":61.209795,
+    "geom:longitude":-149.761192,
+    "iso:country":"US",
+    "sg:address":"6505 Debarr Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 5516",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:website":"www.acsedu.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869053,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vEmySEplxHCvWWbMOlLgM_61.209795_-149.761192@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7145c4e3712ad9f24eb194124fb91f5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869053,
+            "region_id":85688573,
+            "venue_id":"102151355"
+        }
+    ],
+    "wof:id":"102151355",
+    "wof:lastmodified":1449067780,
+    "wof:name":"Anchorage Christian Preschool",
+    "wof:parent_id":85869053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.761192,61.209795,-149.761192,61.209795],
+  "geometry": {"coordinates":[-149.761192,61.209795],"type":"Point"}
+}

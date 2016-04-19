@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.435535,61.57945,-149.435535,61.57945",
+    "geom:latitude":61.57945,
+    "geom:longitude":-149.435535,
+    "iso:country":"US",
+    "sg:address":"440 Denali St",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 3001",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1y02jqbtFclBsH1wJrMKvv_61.579450_-149.435535@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"14cdcca5883c2947c67c681a0a0cdbbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102176501"
+        }
+    ],
+    "wof:id":"102176501",
+    "wof:lastmodified":1449069350,
+    "wof:name":"Don's Auto & Radiator",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.435535,61.57945,-149.435535,61.57945],
+  "geometry": {"coordinates":[-149.435535,61.57945],"type":"Point"}
+}

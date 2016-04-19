@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.748138,64.844032,-147.748138,64.844032",
+    "geom:latitude":64.844032,
+    "geom:longitude":-147.748138,
+    "iso:country":"US",
+    "sg:address":"1840 2nd Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 8347",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Emjg3Zo3BITpw6z2OoSYw_64.844032_-147.748138@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4cb2777195d36ae298da03b12615edf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102171001"
+        }
+    ],
+    "wof:id":"102171001",
+    "wof:lastmodified":1449070221,
+    "wof:name":"Mechanical Contractors",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.748138,64.844032,-147.748138,64.844032],
+  "geometry": {"coordinates":[-147.748138,64.844032],"type":"Point"}
+}

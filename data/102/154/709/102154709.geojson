@@ -1,0 +1,72 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.702986,64.813019,-147.702986,64.813019",
+    "geom:latitude":64.813019,
+    "geom:longitude":-147.702986,
+    "iso:country":"US",
+    "sg:address":"220 E Van Horn Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 1000",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "excavation",
+        "equipment",
+        "machine",
+        "shop",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2awz3HulpJpqUx6mcXZIK3_64.813019_-147.702986@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a31a53ca3a35ca0349b91a454ae4a5b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102154709"
+        }
+    ],
+    "wof:id":"102154709",
+    "wof:lastmodified":1449070243,
+    "wof:name":"Hydraulic Center The",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.702986,64.813019,-147.702986,64.813019],
+  "geometry": {"coordinates":[-147.702986,64.813019],"type":"Point"}
+}

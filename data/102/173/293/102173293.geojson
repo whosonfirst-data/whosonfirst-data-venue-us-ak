@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.861008,61.152034,-149.861008,61.152034",
+    "geom:latitude":61.152034,
+    "geom:longitude":-149.861008,
+    "iso:country":"US",
+    "sg:address":"1151 E 76th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 868 1514",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UzshXc2b1exlKi43a9T3N_61.152034_-149.861008@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9b47703507fcabcbe3aa05930ac7f8f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102173293"
+        }
+    ],
+    "wof:id":"102173293",
+    "wof:lastmodified":1449068263,
+    "wof:name":"Herbie's Auto Body",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.861008,61.152034,-149.861008,61.152034],
+  "geometry": {"coordinates":[-149.861008,61.152034],"type":"Point"}
+}

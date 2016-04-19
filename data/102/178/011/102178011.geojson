@@ -1,0 +1,67 @@
+{
+  "id": "102178011",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-147.751291,64.836689,-147.751291,64.836689",
+    "geom:latitude":64.836689,
+    "geom:longitude":-147.751291,
+    "iso:country":"US",
+    "sg:address":"1909 Airport Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 8888",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:website":"www.super8.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85915635,
+        102081397,
+        85848979
+    ],
+    "wof:brand_id":420573963,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_382ecxrE5AoQPArDielwDZ_64.836689_-147.751291@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"36effd87eb7ad641430edff0aa7d7575",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102178011"
+        }
+    ],
+    "wof:id":"102178011",
+    "wof:lastmodified":1457208017,
+    "wof:name":"Super 8 Motel",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -147.751291,
+    64.836689,
+    -147.751291,
+    64.836689
+],
+  "geometry": {"coordinates":[-147.75129100000001,64.83668900000001],"type":"Point"}
+}

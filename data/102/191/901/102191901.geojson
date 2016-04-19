@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.410959,58.301829,-134.410959,58.301829",
+    "geom:latitude":58.301829,
+    "geom:longitude":-134.410959,
+    "iso:country":"US",
+    "sg:address":"426 Main St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 1790",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:website":"www.ashnha.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56tEkm7Kt1F5os3g0y3e5Q_58.301829_-134.410959@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dcf229476a825acb6bfa5f76fe04f36f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102191901"
+        }
+    ],
+    "wof:id":"102191901",
+    "wof:lastmodified":1449069202,
+    "wof:name":"Alaska State Hospital",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.410959,58.301829,-134.410959,58.301829],
+  "geometry": {"coordinates":[-134.410959,58.301829],"type":"Point"}
+}

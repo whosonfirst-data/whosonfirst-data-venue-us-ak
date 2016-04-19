@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.425187,58.300039,-134.425187,58.300039",
+    "geom:latitude":58.300039,
+    "geom:longitude":-134.425187,
+    "iso:country":"US",
+    "sg:address":"1250 W 9th St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 5566",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XYJQZd4ItSw0jhEkc7Sxn_58.300039_-134.425187@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1bdcc022f48f1604bf869b513fbca169",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102166027"
+        }
+    ],
+    "wof:id":"102166027",
+    "wof:lastmodified":1449069083,
+    "wof:name":"Juneau Hotel",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.425187,58.300039,-134.425187,58.300039],
+  "geometry": {"coordinates":[-134.425187,58.300039],"type":"Point"}
+}

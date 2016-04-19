@@ -1,0 +1,72 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.839863,61.222541,-149.839863,61.222541",
+    "geom:latitude":61.222541,
+    "geom:longitude":-149.839863,
+    "iso:country":"US",
+    "sg:address":"2009 Spar Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 3221",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "industrial",
+        "truck",
+        "welding"
+    ],
+    "sg:website":"www.bobsservices.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Nv1GCXE7WdmmacdTV3JwL_61.222541_-149.839863@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"535f4873993d77e015d6b62bf8bfd6c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102161955"
+        }
+    ],
+    "wof:id":"102161955",
+    "wof:lastmodified":1449068711,
+    "wof:name":"Bob's Services Inc",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.839863,61.222541,-149.839863,61.222541],
+  "geometry": {"coordinates":[-149.839863,61.222541],"type":"Point"}
+}

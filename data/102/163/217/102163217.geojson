@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.778399,64.807325,-147.778399,64.807325",
+    "geom:latitude":64.807325,
+    "geom:longitude":-147.778399,
+    "iso:country":"US",
+    "sg:address":"3917 Peger Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 8697",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916551,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qXyLxdjKebOXKCKw3S2n9_64.807325_-147.778399@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0b8dc2019a8c43d438100a38f669a6db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916551,
+            "region_id":85688573,
+            "venue_id":"102163217"
+        }
+    ],
+    "wof:id":"102163217",
+    "wof:lastmodified":1449070164,
+    "wof:name":"Borealis Towing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.778399,64.807325,-147.778399,64.807325],
+  "geometry": {"coordinates":[-147.778399,64.807325],"type":"Point"}
+}

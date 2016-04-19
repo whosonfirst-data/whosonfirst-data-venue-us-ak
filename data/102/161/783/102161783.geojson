@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.111577,61.603338,-149.111577,61.603338",
+    "geom:latitude":61.603338,
+    "geom:longitude":-149.111577,
+    "iso:country":"US",
+    "sg:address":"237 S Valley Way",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 4567",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915577,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1E8BBxnnfcCe6wULGb1jnv_61.603338_-149.111577@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f5995f82874b1f0e9af2f7ead3c73ad7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915577,
+            "region_id":85688573,
+            "venue_id":"102161783"
+        }
+    ],
+    "wof:id":"102161783",
+    "wof:lastmodified":1449068707,
+    "wof:name":"Johns Building Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.111577,61.603338,-149.111577,61.603338],
+  "geometry": {"coordinates":[-149.111577,61.603338],"type":"Point"}
+}

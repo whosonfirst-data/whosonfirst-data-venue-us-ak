@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.862419,61.152033,-149.862419,61.152033",
+    "geom:latitude":61.152033,
+    "geom:longitude":-149.862419,
+    "iso:country":"US",
+    "sg:address":"1041 E 76th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 677 8790",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "quilting"
+    ],
+    "sg:website":"www.akseamslikehome.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Eg1K0nzFo2kP6mcClxpdl_61.152033_-149.862419@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"deb059b7787976d0d0fb8fc6105e79dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102184755"
+        }
+    ],
+    "wof:id":"102184755",
+    "wof:lastmodified":1449068215,
+    "wof:name":"Seams Like Home",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.862419,61.152033,-149.862419,61.152033],
+  "geometry": {"coordinates":[-149.862419,61.152033],"type":"Point"}
+}

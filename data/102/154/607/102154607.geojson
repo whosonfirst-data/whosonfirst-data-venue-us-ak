@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.875478,61.110348,-149.875478,61.110348",
+    "geom:latitude":61.110348,
+    "geom:longitude":-149.875478,
+    "iso:country":"US",
+    "sg:address":"350 Dailey Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 222 4990",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "property",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873755,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IkVYQ3XvjPxy577Tt5SpW_61.110348_-149.875478@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f79fda44f8be6b8abe22f026091a447e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873755,
+            "region_id":85688573,
+            "venue_id":"102154607"
+        }
+    ],
+    "wof:id":"102154607",
+    "wof:lastmodified":1449070241,
+    "wof:name":"Greatland Site Maintenance",
+    "wof:parent_id":85873755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.875478,61.110348,-149.875478,61.110348],
+  "geometry": {"coordinates":[-149.875478,61.110348],"type":"Point"}
+}

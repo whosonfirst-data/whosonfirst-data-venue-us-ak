@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.906527,61.199805,-149.906527,61.199805",
+    "geom:latitude":61.199805,
+    "geom:longitude":-149.906527,
+    "iso:country":"US",
+    "sg:address":"2207 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 3171",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "information",
+        "tourist"
+    ],
+    "sg:website":"www.awrta.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hnMwu9NF00Njeyn0ajBdm_61.199805_-149.906527@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"20cb0a4c05f47e55b2644dbda6478dc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102168777"
+        }
+    ],
+    "wof:id":"102168777",
+    "wof:lastmodified":1449069006,
+    "wof:name":"Alaska Wilderness Recreation",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.906527,61.199805,-149.906527,61.199805],
+  "geometry": {"coordinates":[-149.906527,61.199805],"type":"Point"}
+}

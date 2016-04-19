@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.419922,58.30054,-134.419922,58.30054",
+    "geom:latitude":58.30054,
+    "geom:longitude":-134.419922,
+    "iso:country":"US",
+    "sg:address":"800 Glacier Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 463 6721",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MB396YmvYhkgqJjzlqVbO_58.300540_-134.419922@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"96ec19c2e3c7dc9c666b48ceafef9e1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102163875"
+        }
+    ],
+    "wof:id":"102163875",
+    "wof:lastmodified":1449070164,
+    "wof:name":"Gorman Engineers",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.419922,58.30054,-134.419922,58.30054],
+  "geometry": {"coordinates":[-134.419922,58.30054],"type":"Point"}
+}

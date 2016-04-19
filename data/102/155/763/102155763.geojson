@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.556821,58.39623,-134.556821,58.39623",
+    "geom:latitude":58.39623,
+    "geom:longitude":-134.556821,
+    "iso:country":"US",
+    "sg:address":"8186 Thunder St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 8085",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "marine",
+        "hydraulic",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0B1PxbyZezTVFSm4eMXFy3_58.396230_-134.556821@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b9c1ecd287ec86e6d35e73473b025c13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102155763"
+        }
+    ],
+    "wof:id":"102155763",
+    "wof:lastmodified":1449069747,
+    "wof:name":"Maritime Hydraulics Inc",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.556821,58.39623,-134.556821,58.39623],
+  "geometry": {"coordinates":[-134.556821,58.39623],"type":"Point"}
+}

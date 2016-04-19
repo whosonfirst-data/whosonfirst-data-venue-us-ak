@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.763653,64.812956,-147.763653,64.812956",
+    "geom:latitude":64.812956,
+    "geom:longitude":-147.763653,
+    "iso:country":"US",
+    "sg:address":"2090 Van Horn Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 2009",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oLF5zNPb8uc7RSVwl9o4K_64.812956_-147.763653@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aa0d8a1c83e602fc44a1f1a66dfc1520",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102183253"
+        }
+    ],
+    "wof:id":"102183253",
+    "wof:lastmodified":1449069043,
+    "wof:name":"Waste Management-Star",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.763653,64.812956,-147.763653,64.812956],
+  "geometry": {"coordinates":[-147.763653,64.812956],"type":"Point"}
+}

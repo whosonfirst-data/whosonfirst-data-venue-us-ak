@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.867176,61.165482,-149.867176,61.165482",
+    "geom:latitude":61.165482,
+    "geom:longitude":-149.867176,
+    "iso:country":"US",
+    "sg:address":"6001 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 2886",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.parkandsellamerica.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ED51oO6sS3VHIuvHlbZ5D_61.165482_-149.867176@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3877d85a6e9c2ea13b903bc69c25f690",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102170629"
+        }
+    ],
+    "wof:id":"102170629",
+    "wof:lastmodified":1449068019,
+    "wof:name":"Fleet Liquidators",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.867176,61.165482,-149.867176,61.165482],
+  "geometry": {"coordinates":[-149.867176,61.165482],"type":"Point"}
+}

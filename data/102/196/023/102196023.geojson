@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.834523,61.149096,-149.834523,61.149096",
+    "geom:latitude":61.149096,
+    "geom:longitude":-149.834523,
+    "iso:country":"US",
+    "sg:address":"2040 E 79th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 0099",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2afElifWNk1bwqRIrmXJPh_61.149096_-149.834523@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a750e90a52f2d207f0018c129d05ecb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102196023"
+        }
+    ],
+    "wof:id":"102196023",
+    "wof:lastmodified":1449068339,
+    "wof:name":"Roadway Express Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.834523,61.149096,-149.834523,61.149096],
+  "geometry": {"coordinates":[-149.834523,61.149096],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.926176,61.187986,-149.926176,61.187986",
+    "geom:latitude":61.187986,
+    "geom:longitude":-149.926176,
+    "iso:country":"US",
+    "sg:address":"2300 W 36th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 5437",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:website":"www.bgcalaska.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uGNmOVxqoC5VfG56skAqm_61.187986_-149.926176@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f82f12578c2db5126ab85181cb15e853",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102190009"
+        }
+    ],
+    "wof:id":"102190009",
+    "wof:lastmodified":1449070036,
+    "wof:name":"Boy's & Girl's Clubs-Anchorage",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.926176,61.187986,-149.926176,61.187986],
+  "geometry": {"coordinates":[-149.926176,61.187986],"type":"Point"}
+}

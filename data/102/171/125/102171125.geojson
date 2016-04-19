@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.855471,61.1494,-149.855471,61.1494",
+    "geom:latitude":61.1494,
+    "geom:longitude":-149.855471,
+    "iso:country":"US",
+    "sg:address":"7741 Brayton Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 3100",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NnUIp299oY5VNFIDxURAZ_61.149400_-149.855471@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3c30efcf1410e5c1d34e8c2692ebbf9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102171125"
+        }
+    ],
+    "wof:id":"102171125",
+    "wof:lastmodified":1449070227,
+    "wof:name":"Dimond Mini Storage",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.855471,61.1494,-149.855471,61.1494],
+  "geometry": {"coordinates":[-149.855471,61.1494],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-145.758644,60.546708,-145.758644,60.546708",
+    "geom:latitude":60.546708,
+    "geom:longitude":-145.758644,
+    "iso:country":"US",
+    "sg:address":"405 1st St",
+    "sg:city":"Cordova",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 424 3199",
+    "sg:postcode":"99574",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839707,
+        85633793,
+        85915567,
+        102081911,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5COI2KQRNmMs3MtoBhMOlN_60.546708_-145.758644@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d1a401510b858c1c42af316ccbf45976",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915567,
+            "neighbourhood_id":85839707,
+            "region_id":85688573,
+            "venue_id":"102179989"
+        }
+    ],
+    "wof:id":"102179989",
+    "wof:lastmodified":1449069943,
+    "wof:name":"Cordova Realty",
+    "wof:parent_id":85839707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-145.758644,60.546708,-145.758644,60.546708],
+  "geometry": {"coordinates":[-145.758644,60.546708],"type":"Point"}
+}

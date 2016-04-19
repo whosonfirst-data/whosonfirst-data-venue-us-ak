@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.335709,57.050974,-135.335709,57.050974",
+    "geom:latitude":57.050974,
+    "geom:longitude":-135.335709,
+    "iso:country":"US",
+    "sg:address":"315 Seward St",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 7166",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company",
+        "title"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KkYGuGRSbeq8598ZVpHVq_57.050974_-135.335709@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"953b06697bd194028fe7c1132d781c70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102149771"
+        }
+    ],
+    "wof:id":"102149771",
+    "wof:lastmodified":1449067769,
+    "wof:name":"First American Title-Alaska",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.335709,57.050974,-135.335709,57.050974],
+  "geometry": {"coordinates":[-135.335709,57.050974],"type":"Point"}
+}

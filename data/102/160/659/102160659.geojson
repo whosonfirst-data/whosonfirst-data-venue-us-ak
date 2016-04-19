@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.844168,61.118915,-149.844168,61.118915",
+    "geom:latitude":61.118915,
+    "geom:longitude":-149.844168,
+    "iso:country":"US",
+    "sg:address":"11300 Hawkins Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 3728",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Nz4p4zrb28UclfRzKDGH9_61.118915_-149.844168@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"575f23f41dcb723c1caf7a38ddb534a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102160659"
+        }
+    ],
+    "wof:id":"102160659",
+    "wof:lastmodified":1449069774,
+    "wof:name":"B&D Construction",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.844168,61.118915,-149.844168,61.118915],
+  "geometry": {"coordinates":[-149.844168,61.118915],"type":"Point"}
+}

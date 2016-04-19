@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.717522,64.841836,-147.717522,64.841836",
+    "geom:latitude":64.841836,
+    "geom:longitude":-147.717522,
+    "iso:country":"US",
+    "sg:address":"529 5th Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 458 6800",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "state",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lPy0IqDrNPGsi5LjSTCip_64.841836_-147.717522@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"856723397c9512275b38576b1ad3e367",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102155209"
+        }
+    ],
+    "wof:id":"102155209",
+    "wof:lastmodified":1449069745,
+    "wof:name":"Alaska Public Defender's Ofc",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.717522,64.841836,-147.717522,64.841836],
+  "geometry": {"coordinates":[-147.717522,64.841836],"type":"Point"}
+}

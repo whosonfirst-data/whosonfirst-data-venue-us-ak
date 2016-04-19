@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.316597,57.05147,-135.316597,57.05147",
+    "geom:latitude":57.05147,
+    "geom:longitude":-135.316597,
+    "iso:country":"US",
+    "sg:address":"1308 Sawmill Creek Rd",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 6850",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:website":"www.nsraa.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RgKMRHoMoPT07L12kZXzW_57.051470_-135.316597@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"02f9501c625922e7afc527d49f392145",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102167791"
+        }
+    ],
+    "wof:id":"102167791",
+    "wof:lastmodified":1449069003,
+    "wof:name":"Northern Se Aquaculture Assn",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.316597,57.05147,-135.316597,57.05147],
+  "geometry": {"coordinates":[-135.316597,57.05147],"type":"Point"}
+}

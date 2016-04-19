@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.716081,64.836699,-147.716081,64.836699",
+    "geom:latitude":64.836699,
+    "geom:longitude":-147.716081,
+    "iso:country":"US",
+    "sg:address":"517 Gaffney Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 5246",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0adN74uSGUjYBEsyQn8Abk_64.836699_-147.716081@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b9259411823ee275198d5c161c5f677a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102177115"
+        }
+    ],
+    "wof:id":"102177115",
+    "wof:lastmodified":1449070204,
+    "wof:name":"Too Good To Be Threw",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.716081,64.836699,-147.716081,64.836699],
+  "geometry": {"coordinates":[-147.716081,64.836699],"type":"Point"}
+}

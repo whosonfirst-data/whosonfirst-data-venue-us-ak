@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.509605,61.399178,-149.509605,61.399178",
+    "geom:latitude":61.399178,
+    "geom:longitude":-149.509605,
+    "iso:country":"US",
+    "sg:address":"20049 Tenada Ave",
+    "sg:city":"Chugiak",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 694 4977",
+    "sg:postcode":"99567",
+    "sg:province":"AK",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xDVT67NA607BCDKOWqYhf_61.399178_-149.509605@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7a65264d3d47e6991ff6d335bb90907d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102178013"
+        }
+    ],
+    "wof:id":"102178013",
+    "wof:lastmodified":1449069531,
+    "wof:name":"American Overhead Garage Door",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.509605,61.399178,-149.509605,61.399178],
+  "geometry": {"coordinates":[-149.509605,61.399178],"type":"Point"}
+}

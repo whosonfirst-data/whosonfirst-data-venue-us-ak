@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.594468,58.366502,-134.594468,58.366502",
+    "geom:latitude":58.366502,
+    "geom:longitude":-134.594468,
+    "iso:country":"US",
+    "sg:address":"9482 Eagle St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 790 3589",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nlD3BIfQkHh8vBiH8HLxn_58.366502_-134.594468@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4b0ed7d21e1ef5662d380590b9798cca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102194259"
+        }
+    ],
+    "wof:id":"102194259",
+    "wof:lastmodified":1449069828,
+    "wof:name":"Control Contractors Inc",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.594468,58.366502,-134.594468,58.366502],
+  "geometry": {"coordinates":[-134.594468,58.366502],"type":"Point"}
+}

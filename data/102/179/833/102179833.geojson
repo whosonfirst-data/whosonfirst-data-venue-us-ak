@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.934042,61.190721,-149.934042,61.190721",
+    "geom:latitude":61.190721,
+    "geom:longitude":-149.934042,
+    "iso:country":"US",
+    "sg:address":"2706 W 33rd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 0432",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "craft",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MrBxaGvjwJBePLVbP4FZd_61.190721_-149.934042@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1a3636f2102fb63f11f48be5f990d982",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102179833"
+        }
+    ],
+    "wof:id":"102179833",
+    "wof:lastmodified":1449069941,
+    "wof:name":"Alaska Eggery & Finnidee",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.934042,61.190721,-149.934042,61.190721],
+  "geometry": {"coordinates":[-149.934042,61.190721],"type":"Point"}
+}

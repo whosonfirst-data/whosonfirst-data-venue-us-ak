@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.816075,61.207464,-149.816075,61.207464",
+    "geom:latitude":61.207464,
+    "geom:longitude":-149.816075,
+    "iso:country":"US",
+    "sg:address":"1574 Wintergreen St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 223 1577",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zMX0u9W4Ji5wtUmynGVLr_61.207464_-149.816075@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"40cb11413e5810eae4078b5f2883df51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102160717"
+        }
+    ],
+    "wof:id":"102160717",
+    "wof:lastmodified":1449069772,
+    "wof:name":"Paragon Cstm Crpntry Cnstr LLC",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.816075,61.207464,-149.816075,61.207464],
+  "geometry": {"coordinates":[-149.816075,61.207464],"type":"Point"}
+}

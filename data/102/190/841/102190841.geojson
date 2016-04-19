@@ -1,0 +1,73 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.877346,61.222495,-149.877346,61.222495",
+    "geom:latitude":61.222495,
+    "geom:longitude":-149.877346,
+    "iso:country":"US",
+    "sg:address":"507 E Ship Creek Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 3541",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dealer",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573,
+        85873711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CHpSeApqdPaeXabHabwLm_61.222495_-149.877346@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f91e5b310d33b3a28b09fc042a02e035",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102190841"
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873711,
+            "region_id":85688573,
+            "venue_id":"102190841"
+        }
+    ],
+    "wof:id":"102190841",
+    "wof:lastmodified":1449070033,
+    "wof:name":"Brady's Floor Covering",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.877346,61.222495,-149.877346,61.222495],
+  "geometry": {"coordinates":[-149.877346,61.222495],"type":"Point"}
+}

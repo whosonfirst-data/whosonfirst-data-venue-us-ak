@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.407107,58.301478,-134.407107,58.301478",
+    "geom:latitude":58.301478,
+    "geom:longitude":-134.407107,
+    "iso:country":"US",
+    "sg:address":"214 N Franklin St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 463 1232",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2feujA7up8mBraxI2Xw5hy_58.301478_-134.407107@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3359dfb307340e9fc9cdcbc3d5c203d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102159653"
+        }
+    ],
+    "wof:id":"102159653",
+    "wof:lastmodified":1449068091,
+    "wof:name":"Inner Garden",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.407107,58.301478,-134.407107,58.301478],
+  "geometry": {"coordinates":[-134.407107,58.301478],"type":"Point"}
+}

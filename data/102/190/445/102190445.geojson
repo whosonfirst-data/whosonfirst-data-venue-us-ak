@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.761073,61.209645,-149.761073,61.209645",
+    "geom:latitude":61.209645,
+    "geom:longitude":-149.761073,
+    "iso:country":"US",
+    "sg:address":"6470 Debarr Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 9000",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869053,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yAwHWhytvsVOgDTxZffLt_61.209645_-149.761073@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d8eaf99b67d57be0a27ba980d7e8b4a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869053,
+            "region_id":85688573,
+            "venue_id":"102190445"
+        }
+    ],
+    "wof:id":"102190445",
+    "wof:lastmodified":1449070032,
+    "wof:name":"Indian Hills Chevron",
+    "wof:parent_id":85869053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.761073,61.209645,-149.761073,61.209645],
+  "geometry": {"coordinates":[-149.761073,61.209645],"type":"Point"}
+}

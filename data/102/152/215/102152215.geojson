@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.878349,64.81384,-147.878349,64.81384",
+    "geom:latitude":64.81384,
+    "geom:longitude":-147.878349,
+    "iso:country":"US",
+    "sg:address":"5245 Airport Industrial Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 450 7200",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916551,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vGxFDvcdIz0o73nGafs8x_64.813840_-147.878349@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6cffa6f89ce2687d3118dd6cdb4da8ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916551,
+            "region_id":85688573,
+            "venue_id":"102152215"
+        }
+    ],
+    "wof:id":"102152215",
+    "wof:lastmodified":1449069635,
+    "wof:name":"Frontier Flying Svc Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.878349,64.81384,-147.878349,64.81384],
+  "geometry": {"coordinates":[-147.878349,64.81384],"type":"Point"}
+}

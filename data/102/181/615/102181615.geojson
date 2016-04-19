@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.750326,64.811677,-147.750326,64.811677",
+    "geom:latitude":64.811677,
+    "geom:longitude":-147.750326,
+    "iso:country":"US",
+    "sg:address":"1825 Sheldon Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 8872",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "industrial",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mZeFP8hsq37JNsJVR4itb_64.811677_-147.750326@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9cf4a5ec4fb48e5ea7d4b40c30e5386e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102181615"
+        }
+    ],
+    "wof:id":"102181615",
+    "wof:lastmodified":1449069235,
+    "wof:name":"John & Barbara Gaston",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.750326,64.811677,-147.750326,64.811677],
+  "geometry": {"coordinates":[-147.750326,64.811677],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.838069,61.167035,-149.838069,61.167035",
+    "geom:latitude":61.167035,
+    "geom:longitude":-149.838069,
+    "iso:country":"US",
+    "sg:address":"5855 Lake Otis Pkwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 000 1111",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gCJ6Id7M4GWiPeaTO2ZYu_61.167035_-149.838069@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b8ca1effee0829d8e4b8818b56568fab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102165567"
+        }
+    ],
+    "wof:id":"102165567",
+    "wof:lastmodified":1449070218,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.838069,61.167035,-149.838069,61.167035],
+  "geometry": {"coordinates":[-149.838069,61.167035],"type":"Point"}
+}

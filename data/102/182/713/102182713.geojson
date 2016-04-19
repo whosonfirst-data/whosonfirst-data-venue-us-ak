@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.771002,61.212784,-149.771002,61.212784",
+    "geom:latitude":61.212784,
+    "geom:longitude":-149.771002,
+    "iso:country":"US",
+    "sg:address":"1060 Norman St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 5147",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "guide"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869053,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DZzDsKFJfsoEBGRTxCRLA_61.212784_-149.771002@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9a9e3dd8a8069a66ecba8e5a87a57f85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869053,
+            "region_id":85688573,
+            "venue_id":"102182713"
+        }
+    ],
+    "wof:id":"102182713",
+    "wof:lastmodified":1449069282,
+    "wof:name":"Bob Stuvek Salmon Fishing",
+    "wof:parent_id":85869053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.771002,61.212784,-149.771002,61.212784],
+  "geometry": {"coordinates":[-149.771002,61.212784],"type":"Point"}
+}

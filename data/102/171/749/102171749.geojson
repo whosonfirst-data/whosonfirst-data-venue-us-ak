@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.427746,58.305079,-134.427746,58.305079",
+    "geom:latitude":58.305079,
+    "geom:longitude":-134.427746,
+    "iso:country":"US",
+    "sg:address":"1639 Glacier Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 523 1500",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:website":"www.jsd.k12.ak.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Rny7JcCuY7EQbZfYet3Uy_58.305079_-134.427746@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"31182db9d5f019dd7b5356e4d164607e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102171749"
+        }
+    ],
+    "wof:id":"102171749",
+    "wof:lastmodified":1449070222,
+    "wof:name":"Juneau-Douglas High School",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.427746,58.305079,-134.427746,58.305079],
+  "geometry": {"coordinates":[-134.427746,58.305079],"type":"Point"}
+}

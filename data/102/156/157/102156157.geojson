@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.721152,61.073721,-149.721152,61.073721",
+    "geom:latitude":61.073721,
+    "geom:longitude":-149.721152,
+    "iso:country":"US",
+    "sg:address":"16310 Kings Way Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Watercraft",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 9353",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repair",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873741,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ut1bgekngZlmrdwKwWbdF_61.073721_-149.721152@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c5c17958f2aeff447ccd85586f28818c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873741,
+            "region_id":85688573,
+            "venue_id":"102156157"
+        }
+    ],
+    "wof:id":"102156157",
+    "wof:lastmodified":1449068284,
+    "wof:name":"Bering Sea Boatworks",
+    "wof:parent_id":85873741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.721152,61.073721,-149.721152,61.073721],
+  "geometry": {"coordinates":[-149.721152,61.073721],"type":"Point"}
+}

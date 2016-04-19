@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.81816,64.877209,-147.81816,64.877209",
+    "geom:latitude":64.877209,
+    "geom:longitude":-147.81816,
+    "iso:country":"US",
+    "sg:address":"1735 Farmers Loop Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 6555",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916609,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DfJuNg8UWQH3fUU9zHEkR_64.877209_-147.818160@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"79a0b5ca4d16f244967b784c60daca6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "region_id":85688573,
+            "venue_id":"102151705"
+        }
+    ],
+    "wof:id":"102151705",
+    "wof:lastmodified":1449067781,
+    "wof:name":"Fairbanks Golf & Country Club",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.81816,64.877209,-147.81816,64.877209],
+  "geometry": {"coordinates":[-147.81816,64.877209],"type":"Point"}
+}

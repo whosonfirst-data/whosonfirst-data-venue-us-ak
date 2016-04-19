@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.718314,64.859543,-147.718314,64.859543",
+    "geom:latitude":64.859543,
+    "geom:longitude":-147.718314,
+    "iso:country":"US",
+    "sg:address":"16 Blanche Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 3597",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tackle",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830247,
+        85633793,
+        85916559,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4w9o18FHmOatCiI4Mhfn3u_64.859543_-147.718314@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"50b72a0bcfeb6286507df35d4271b1ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "neighbourhood_id":85830247,
+            "region_id":85688573,
+            "venue_id":"102173451"
+        }
+    ],
+    "wof:id":"102173451",
+    "wof:lastmodified":1449068265,
+    "wof:name":"Fly Hatch",
+    "wof:parent_id":85830247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.718314,64.859543,-147.718314,64.859543],
+  "geometry": {"coordinates":[-147.718314,64.859543],"type":"Point"}
+}

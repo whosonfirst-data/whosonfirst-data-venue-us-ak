@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.434915,61.624798,-149.434915,61.624798",
+    "geom:latitude":61.624798,
+    "geom:longitude":-149.434915,
+    "iso:country":"US",
+    "sg:address":"700 E McAdoo Way",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 7281",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916185,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7002bXK9oH6FEBoahE9Axb_61.624798_-149.434915@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5d6b49bbee155bcd87c63b685a3641a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916185,
+            "region_id":85688573,
+            "venue_id":"102179305"
+        }
+    ],
+    "wof:id":"102179305",
+    "wof:lastmodified":1449069942,
+    "wof:name":"Bear Paw Masonry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.434915,61.624798,-149.434915,61.624798],
+  "geometry": {"coordinates":[-149.434915,61.624798],"type":"Point"}
+}

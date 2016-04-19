@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.560199,58.392093,-134.560199,58.392093",
+    "geom:latitude":58.392093,
+    "geom:longitude":-134.560199,
+    "iso:country":"US",
+    "sg:address":"4044 Delta Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 2900",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "resurfacing",
+        "laying",
+        "refinishing",
+        "floor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M43TmGZ1RfQlEVe55pHZn_58.392093_-134.560199@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"29d998445ce5047de7ac1271aa27c7bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102185365"
+        }
+    ],
+    "wof:id":"102185365",
+    "wof:lastmodified":1449068196,
+    "wof:name":"Woods Construction",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.560199,58.392093,-134.560199,58.392093],
+  "geometry": {"coordinates":[-134.560199,58.392093],"type":"Point"}
+}

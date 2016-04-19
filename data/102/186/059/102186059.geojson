@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.407204,58.300735,-134.407204,58.300735",
+    "geom:latitude":58.300735,
+    "geom:longitude":-134.407204,
+    "iso:country":"US",
+    "sg:address":"113 Seward St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 463 2665",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "book",
+        "rare",
+        "dealer"
+    ],
+    "sg:website":"www.juneaubooks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cEkgiFrQazCOyx2mhvzqZ_58.300735_-134.407204@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a20f751fb9320974dc647363bd1101e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102186059"
+        }
+    ],
+    "wof:id":"102186059",
+    "wof:lastmodified":1449069654,
+    "wof:name":"Rainy Day Books",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.407204,58.300735,-134.407204,58.300735],
+  "geometry": {"coordinates":[-134.407204,58.300735],"type":"Point"}
+}

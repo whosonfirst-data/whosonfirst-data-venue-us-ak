@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.420515,61.585859,-149.420515,61.585859",
+    "geom:latitude":61.585859,
+    "geom:longitude":-149.420515,
+    "iso:country":"US",
+    "sg:address":"756 N Peck St",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 0977",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26GyvNp8eu3RmrS7lK2IVl_61.585859_-149.420515@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5f63a7e8294111b992cd1415836af490",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102164033"
+        }
+    ],
+    "wof:id":"102164033",
+    "wof:lastmodified":1449068089,
+    "wof:name":"Elect Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.420515,61.585859,-149.420515,61.585859],
+  "geometry": {"coordinates":[-149.420515,61.585859],"type":"Point"}
+}

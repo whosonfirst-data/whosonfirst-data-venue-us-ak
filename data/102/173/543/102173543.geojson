@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.886672,61.188796,-149.886672,61.188796",
+    "geom:latitude":61.188796,
+    "geom:longitude":-149.886672,
+    "iso:country":"US",
+    "sg:address":"3500 C St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 2796",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7S5jko4GPHqG1GzENh2ERI_61.188796_-149.886672@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"29f85ac28a7e7ccbfbd529adc704c390",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102173543"
+        }
+    ],
+    "wof:id":"102173543",
+    "wof:lastmodified":1449068263,
+    "wof:name":"Holiday",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.886672,61.188796,-149.886672,61.188796],
+  "geometry": {"coordinates":[-149.886672,61.188796],"type":"Point"}
+}

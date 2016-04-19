@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.894779,61.191093,-149.894779,61.191093",
+    "geom:latitude":61.191093,
+    "geom:longitude":-149.894779,
+    "iso:country":"US",
+    "sg:address":"3205 Montclaire Ct",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 830 4447",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "nurseryman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6es87tN6Csv2EwesyLQQjt_61.191093_-149.894779@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"00570603910e0b06acdb32b900473d51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102153315"
+        }
+    ],
+    "wof:id":"102153315",
+    "wof:lastmodified":1449069463,
+    "wof:name":"Johnson Nursery",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.894779,61.191093,-149.894779,61.191093],
+  "geometry": {"coordinates":[-149.894779,61.191093],"type":"Point"}
+}

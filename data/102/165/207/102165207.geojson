@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.390214,61.572229,-149.390214,61.572229",
+    "geom:latitude":61.572229,
+    "geom:longitude":-149.390214,
+    "iso:country":"US",
+    "sg:address":"2400 E Parks Hwy",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 5845",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "snowmobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RoXy7flzFs6zKq4YQaAUw_61.572229_-149.390214@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a65da9728142dc32dc96dfbc22415a35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102165207"
+        }
+    ],
+    "wof:id":"102165207",
+    "wof:lastmodified":1449070218,
+    "wof:name":"Wasilla Arctic Cat",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.390214,61.572229,-149.390214,61.572229],
+  "geometry": {"coordinates":[-149.390214,61.572229],"type":"Point"}
+}

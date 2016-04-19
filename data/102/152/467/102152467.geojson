@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.733399,61.195375,-149.733399,61.195375",
+    "geom:latitude":61.195375,
+    "geom:longitude":-149.733399,
+    "iso:country":"US",
+    "sg:address":"2221 Muldoon Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 230 4523",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "automobile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873735,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uWTINggjiJSEWPi21QlEV_61.195375_-149.733399@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db432ec0fe8d3e372e8ac18577154471",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873735,
+            "region_id":85688573,
+            "venue_id":"102152467"
+        }
+    ],
+    "wof:id":"102152467",
+    "wof:lastmodified":1449069637,
+    "wof:name":"Shipton's Used Vehicle Sales",
+    "wof:parent_id":85873735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.733399,61.195375,-149.733399,61.195375],
+  "geometry": {"coordinates":[-149.733399,61.195375],"type":"Point"}
+}

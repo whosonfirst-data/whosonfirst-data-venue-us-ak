@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.798379,64.881077,-147.798379,64.881077",
+    "geom:latitude":64.881077,
+    "geom:longitude":-147.798379,
+    "iso:country":"US",
+    "sg:address":"1570 Farmers Loop Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 3801",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "building",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916609,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eQVMxQckdATyUVvLjulxo_64.881077_-147.798379@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b9408cd2fd4f2446c8e3145986fe83ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "region_id":85688573,
+            "venue_id":"102150109"
+        }
+    ],
+    "wof:id":"102150109",
+    "wof:lastmodified":1449067790,
+    "wof:name":"Arctic Consultants",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.798379,64.881077,-147.798379,64.881077],
+  "geometry": {"coordinates":[-147.798379,64.881077],"type":"Point"}
+}

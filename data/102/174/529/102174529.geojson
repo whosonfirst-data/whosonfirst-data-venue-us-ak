@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.80305,61.137441,-149.80305,61.137441",
+    "geom:latitude":61.137441,
+    "geom:longitude":-149.80305,
+    "iso:country":"US",
+    "sg:address":"4240 Abbott Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 346 2625",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873745,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7M3d0gYjPrKQfpp5kgyZUV_61.137441_-149.803050@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"526c68cbc8383201ac13323f1bfad58c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873745,
+            "region_id":85688573,
+            "venue_id":"102174529"
+        }
+    ],
+    "wof:id":"102174529",
+    "wof:lastmodified":1449068137,
+    "wof:name":"Country Rose Manor",
+    "wof:parent_id":85873745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.80305,61.137441,-149.80305,61.137441],
+  "geometry": {"coordinates":[-149.80305,61.137441],"type":"Point"}
+}

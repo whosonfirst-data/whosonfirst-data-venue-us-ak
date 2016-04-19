@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.844156,64.845997,-147.844156,64.845997",
+    "geom:latitude":64.845997,
+    "geom:longitude":-147.844156,
+    "iso:country":"US",
+    "sg:address":"554 Loftus Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 6963",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O11VKoGKHiixCZOt9bNpF_64.845997_-147.844156@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ac87cbb50cd239c6c54a592bd49327a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102155645"
+        }
+    ],
+    "wof:id":"102155645",
+    "wof:lastmodified":1449069742,
+    "wof:name":"University Park Elementary",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.844156,64.845997,-147.844156,64.845997],
+  "geometry": {"coordinates":[-147.844156,64.845997],"type":"Point"}
+}

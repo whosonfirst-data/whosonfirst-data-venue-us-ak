@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.479453,61.389077,-149.479453,61.389077",
+    "geom:latitude":61.389077,
+    "geom:longitude":-149.479453,
+    "iso:country":"US",
+    "sg:address":"18606 Old Glenn Hwy",
+    "sg:city":"Chugiak",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 688 3275",
+    "sg:postcode":"99567",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806187,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SHghfNQ1jpQgftWQI9TRp_61.389077_-149.479453@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6fb4e469b669c606d62abcd85a031d1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85806187,
+            "region_id":85688573,
+            "venue_id":"102178771"
+        }
+    ],
+    "wof:id":"102178771",
+    "wof:lastmodified":1449069531,
+    "wof:name":"Chugiak Benefit Assn",
+    "wof:parent_id":85806187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.479453,61.389077,-149.479453,61.389077],
+  "geometry": {"coordinates":[-149.479453,61.389077],"type":"Point"}
+}

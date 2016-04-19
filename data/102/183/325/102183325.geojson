@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.771663,61.05675,-149.771663,61.05675",
+    "geom:latitude":61.05675,
+    "geom:longitude":-149.771663,
+    "iso:country":"US",
+    "sg:address":"5931 Romania Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 2083",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "consultant",
+        "designer"
+    ],
+    "sg:website":"www.visualinfosystems.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873751,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17jzmLVGJ1s0g5Mwfp2rb6_61.056750_-149.771663@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e644aea0c6b4ef196f7fd1efe602372b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873751,
+            "region_id":85688573,
+            "venue_id":"102183325"
+        }
+    ],
+    "wof:id":"102183325",
+    "wof:lastmodified":1449069043,
+    "wof:name":"Visual Information Systems",
+    "wof:parent_id":85873751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.771663,61.05675,-149.771663,61.05675],
+  "geometry": {"coordinates":[-149.771663,61.05675],"type":"Point"}
+}

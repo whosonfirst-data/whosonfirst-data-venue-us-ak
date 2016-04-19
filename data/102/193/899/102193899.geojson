@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.892041,61.164687,-149.892041,61.164687",
+    "geom:latitude":61.164687,
+    "geom:longitude":-149.892041,
+    "iso:country":"US",
+    "sg:address":"6209 Mike St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 770 3566",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ms8902Zf8na809yEdBzkP_61.164687_-149.892041@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"11ba6de1d4949aadf3c7bb36d1cbb36d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102193899"
+        }
+    ],
+    "wof:id":"102193899",
+    "wof:lastmodified":1449068193,
+    "wof:name":"Golden Days Pet Grooming & Dog",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.892041,61.164687,-149.892041,61.164687],
+  "geometry": {"coordinates":[-149.892041,61.164687],"type":"Point"}
+}

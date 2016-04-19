@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.949772,61.145854,-149.949772,61.145854",
+    "geom:latitude":61.145854,
+    "geom:longitude":-149.949772,
+    "iso:country":"US",
+    "sg:address":"8327 Loganberry St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 7425",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uZyeTXa5Jl8uFBQKUE2lV_61.145854_-149.949772@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f6be28cbab64e9575afd2a8c9aa73827",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102158237"
+        }
+    ],
+    "wof:id":"102158237",
+    "wof:lastmodified":1449069388,
+    "wof:name":"Bloom-In Alaska",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.949772,61.145854,-149.949772,61.145854],
+  "geometry": {"coordinates":[-149.949772,61.145854],"type":"Point"}
+}

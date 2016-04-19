@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.583918,58.37345,-134.583918,58.37345",
+    "geom:latitude":58.37345,
+    "geom:longitude":-134.583918,
+    "iso:country":"US",
+    "sg:address":"9148 James Blvd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 5166",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "nurseryman"
+    ],
+    "sg:website":"www.glaciergardens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GGVCosQAzy7murN5xQHPW_58.373450_-134.583918@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0b6efb937795a6799baeebf2db1864ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102182487"
+        }
+    ],
+    "wof:id":"102182487",
+    "wof:lastmodified":1449069279,
+    "wof:name":"Glacier Gardens/Yard Doctor",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.583918,58.37345,-134.583918,58.37345],
+  "geometry": {"coordinates":[-134.583918,58.37345],"type":"Point"}
+}

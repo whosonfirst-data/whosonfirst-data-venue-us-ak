@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.960338,61.190195,-149.960338,61.190195",
+    "geom:latitude":61.190195,
+    "geom:longitude":-149.960338,
+    "iso:country":"US",
+    "sg:address":"4030 Galactica Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 7282",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tours",
+        "promoter"
+    ],
+    "sg:website":"www.anchoragebirding.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852831,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qftiGnfm0QW2I5Vb2m4x1_61.190195_-149.960338@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2aae138d4c2d9b31ec8566c768d4e37e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":"102170585"
+        }
+    ],
+    "wof:id":"102170585",
+    "wof:lastmodified":1449068020,
+    "wof:name":"Bird Watching Tours-Anchorage",
+    "wof:parent_id":85852831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.960338,61.190195,-149.960338,61.190195],
+  "geometry": {"coordinates":[-149.960338,61.190195],"type":"Point"}
+}

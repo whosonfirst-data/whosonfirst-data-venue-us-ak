@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.894971,61.16414,-149.894971,61.16414",
+    "geom:latitude":61.16414,
+    "geom:longitude":-149.894971,
+    "iso:country":"US",
+    "sg:address":"6601 Arctic Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 1894",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "snowmobile",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4J00YuLUsishcjVBGq7vLX_61.164140_-149.894971@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3a954467d54a77dffcaa988957378867",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102158347"
+        }
+    ],
+    "wof:id":"102158347",
+    "wof:lastmodified":1449069393,
+    "wof:name":"J Kimberly Svc",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.894971,61.16414,-149.894971,61.16414],
+  "geometry": {"coordinates":[-149.894971,61.16414],"type":"Point"}
+}

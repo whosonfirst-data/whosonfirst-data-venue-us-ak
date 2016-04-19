@@ -1,0 +1,67 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.924295,61.191641,-149.924295,61.191641",
+    "geom:latitude":61.191641,
+    "geom:longitude":-149.924295,
+    "iso:country":"US",
+    "sg:address":"3101 Willow St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 6789",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "residential",
+        "builder",
+        "co",
+        "operative",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IZ45M4Y9qSdoSN1k1NqLl_61.191641_-149.924295@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8cbdcf96a6941ed8d63ceb7bbba4d190",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102182425"
+        }
+    ],
+    "wof:id":"102182425",
+    "wof:lastmodified":1449069280,
+    "wof:name":"Alaska Weatherbeaters",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.924295,61.191641,-149.924295,61.191641],
+  "geometry": {"coordinates":[-149.924295,61.191641],"type":"Point"}
+}

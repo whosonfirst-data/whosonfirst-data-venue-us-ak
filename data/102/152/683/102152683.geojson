@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.87542,64.923583,-147.87542,64.923583",
+    "geom:latitude":64.923583,
+    "geom:longitude":-147.87542,
+    "iso:country":"US",
+    "sg:address":"2295 Stevens Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 455 6201",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "woodworker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916569,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RYP07JBI9ota387ozyGIc_64.923583_-147.875420@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8678f9ae50601850082e0bf3a9e9b449",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916569,
+            "region_id":85688573,
+            "venue_id":"102152683"
+        }
+    ],
+    "wof:id":"102152683",
+    "wof:lastmodified":1449069635,
+    "wof:name":"Z-Woodworkers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.87542,64.923583,-147.87542,64.923583],
+  "geometry": {"coordinates":[-147.87542,64.923583],"type":"Point"}
+}

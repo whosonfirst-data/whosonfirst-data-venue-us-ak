@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.909384,61.17639,-149.909384,61.17639",
+    "geom:latitude":61.17639,
+    "geom:longitude":-149.909384,
+    "iso:country":"US",
+    "sg:address":"5051 Southampton Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 9048",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "control",
+        "crane",
+        "hoist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QvNJJc47yMMq909nUFxBt_61.176390_-149.909384@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"765449175897606c1fecc1dfc2c18ecb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102178805"
+        }
+    ],
+    "wof:id":"102178805",
+    "wof:lastmodified":1449069530,
+    "wof:name":"Northern Dawn Equipment",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.909384,61.17639,-149.909384,61.17639],
+  "geometry": {"coordinates":[-149.909384,61.17639],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.471667,58.328328,-134.471667,58.328328",
+    "geom:latitude":58.328328,
+    "geom:longitude":-134.471667,
+    "iso:country":"US",
+    "sg:address":"3151 Channel Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 1642",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"www.world-widemovers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853509,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aU6w02SaJaGBxNOLATJg8_58.328328_-134.471667@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8e548675346cf2551656656c417e5935",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85853509,
+            "region_id":85688573,
+            "venue_id":"102159537"
+        }
+    ],
+    "wof:id":"102159537",
+    "wof:lastmodified":1449068093,
+    "wof:name":"Worldwide Movers Inc",
+    "wof:parent_id":85853509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.471667,58.328328,-134.471667,58.328328],
+  "geometry": {"coordinates":[-134.471667,58.328328],"type":"Point"}
+}

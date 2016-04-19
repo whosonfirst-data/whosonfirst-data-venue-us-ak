@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.711874,64.849779,-147.711874,64.849779",
+    "geom:latitude":64.849779,
+    "geom:longitude":-147.711874,
+    "iso:country":"US",
+    "sg:address":"215 Charles St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 6488",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZoOZ7tvFKWpwDQRvMWajf_64.849779_-147.711874@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a46d40ec4c44c2f3506653b0d13d594e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102188203"
+        }
+    ],
+    "wof:id":"102188203",
+    "wof:lastmodified":1449068946,
+    "wof:name":"Abacus Appraisals",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.711874,64.849779,-147.711874,64.849779],
+  "geometry": {"coordinates":[-147.711874,64.849779],"type":"Point"}
+}

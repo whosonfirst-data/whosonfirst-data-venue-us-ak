@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-146.20072,61.09905,-146.20072,61.09905",
+    "geom:latitude":61.09905,
+    "geom:longitude":-146.20072,
+    "iso:country":"US",
+    "sg:address":"3455 Falcon Ave",
+    "sg:city":"Valdez",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 835 2702",
+    "sg:postcode":"99686",
+    "sg:province":"AK",
+    "sg:tags":[
+        "outboard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915585,
+        85633793,
+        85688573,
+        102081911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56VoBh8a45m6whlX8UfrCO_61.099050_-146.200720@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6e61529e0338ea7cdd64f4251e207a3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915585,
+            "region_id":85688573,
+            "venue_id":"102190277"
+        }
+    ],
+    "wof:id":"102190277",
+    "wof:lastmodified":1449070034,
+    "wof:name":"Alaska Boat & Motor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-146.20072,61.09905,-146.20072,61.09905],
+  "geometry": {"coordinates":[-146.20072,61.09905],"type":"Point"}
+}

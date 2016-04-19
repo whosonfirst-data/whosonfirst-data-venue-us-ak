@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.718664,64.826201,-147.718664,64.826201",
+    "geom:latitude":64.826201,
+    "geom:longitude":-147.718664,
+    "iso:country":"US",
+    "sg:address":"700 23rd Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 1000",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V7J6RI6BAGD6rWa4ilTDh_64.826201_-147.718664@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4f52ffda00d82ed7a2b172fa0208d9ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102195413"
+        }
+    ],
+    "wof:id":"102195413",
+    "wof:lastmodified":1449069361,
+    "wof:name":"Appliance Service Co",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.718664,64.826201,-147.718664,64.826201],
+  "geometry": {"coordinates":[-147.718664,64.826201],"type":"Point"}
+}

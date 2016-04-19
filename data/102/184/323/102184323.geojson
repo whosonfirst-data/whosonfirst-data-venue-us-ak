@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.721239,55.408796,-131.721239,55.408796",
+    "geom:latitude":55.408796,
+    "geom:longitude":-131.721239,
+    "iso:country":"US",
+    "sg:address":"7446 N Tongass Hwy",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 5561",
+    "sg:postcode":"99928",
+    "sg:province":"AK",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aTcl9XRsItrKMLPgJSUPG_55.408796_-131.721239@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ff7258c4b6e72ba33c38f7d24f861567",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "region_id":85688573,
+            "venue_id":"102184323"
+        }
+    ],
+    "wof:id":"102184323",
+    "wof:lastmodified":1449068216,
+    "wof:name":"Tongass Sanitation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.721239,55.408796,-131.721239,55.408796],
+  "geometry": {"coordinates":[-131.721239,55.408796],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.774235,61.092131,-149.774235,61.092131",
+    "geom:latitude":61.092131,
+    "geom:longitude":-149.774235,
+    "iso:country":"US",
+    "sg:address":"14361 Golden View Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 5238",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "building",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873751,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_293TIVXAJr3iKxBreuUTtF_61.092131_-149.774235@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2a1ebc2e7421cb81dad5c7a4ab49fdb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873751,
+            "region_id":85688573,
+            "venue_id":"102174565"
+        }
+    ],
+    "wof:id":"102174565",
+    "wof:lastmodified":1449068141,
+    "wof:name":"Blind Monkey Design",
+    "wof:parent_id":85873751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.774235,61.092131,-149.774235,61.092131],
+  "geometry": {"coordinates":[-149.774235,61.092131],"type":"Point"}
+}

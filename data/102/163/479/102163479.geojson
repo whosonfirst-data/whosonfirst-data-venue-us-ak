@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.914705,64.913618,-147.914705,64.913618",
+    "geom:latitude":64.913618,
+    "geom:longitude":-147.914705,
+    "iso:country":"US",
+    "sg:address":"2590 Goldstream Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 455 6222",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home",
+        "log",
+        "cabin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916569,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Gmh9hvkb5ZFMKFCw3l9TZ_64.913618_-147.914705@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"88cb44d0792b7ae27ced410ec8d9b2a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916569,
+            "region_id":85688573,
+            "venue_id":"102163479"
+        }
+    ],
+    "wof:id":"102163479",
+    "wof:lastmodified":1449070165,
+    "wof:name":"Rustic Alaskan Homes",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.914705,64.913618,-147.914705,64.913618],
+  "geometry": {"coordinates":[-147.914705,64.913618],"type":"Point"}
+}

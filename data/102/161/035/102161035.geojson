@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.679755,64.802685,-147.679755,64.802685",
+    "geom:latitude":64.802685,
+    "geom:longitude":-147.679755,
+    "iso:country":"US",
+    "sg:address":"2022 Lakeview Ter",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 7459",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916551,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FPIoZ2KwwrSQuct0GXGKv_64.802685_-147.679755@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4a1a0acbf05355bfb0bc1328297be8d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916551,
+            "region_id":85688573,
+            "venue_id":"102161035"
+        }
+    ],
+    "wof:id":"102161035",
+    "wof:lastmodified":1449068713,
+    "wof:name":"Thompson's Photo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.679755,64.802685,-147.679755,64.802685],
+  "geometry": {"coordinates":[-147.679755,64.802685],"type":"Point"}
+}

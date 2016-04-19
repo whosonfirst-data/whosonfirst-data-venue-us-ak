@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.483825,58.33804,-134.483825,58.33804",
+    "geom:latitude":58.33804,
+    "geom:longitude":-134.483825,
+    "iso:country":"US",
+    "sg:address":"4018 Ridge Way",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 780 5132",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853509,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nBxkyf12XnAJnXdasRWuD_58.338040_-134.483825@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8c9fc2686a9ac790df95aadf10e02172",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85853509,
+            "region_id":85688573,
+            "venue_id":"102162923"
+        }
+    ],
+    "wof:id":"102162923",
+    "wof:lastmodified":1449069823,
+    "wof:name":"Twin Lakes Bed & Breakfast",
+    "wof:parent_id":85853509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.483825,58.33804,-134.483825,58.33804],
+  "geometry": {"coordinates":[-134.483825,58.33804],"type":"Point"}
+}

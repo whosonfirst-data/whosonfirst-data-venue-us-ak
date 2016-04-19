@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.838551,61.235123,-149.838551,61.235123",
+    "geom:latitude":61.235123,
+    "geom:longitude":-149.838551,
+    "iso:country":"US",
+    "sg:address":"5250 Gibson Ave",
+    "sg:city":"Elmendorf Afb",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 271 3640",
+    "sg:postcode":"99506",
+    "sg:province":"AK",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820221,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I8B5g6Un4Au26QHRB8qct_61.235123_-149.838551@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d17ed9ab0bc6f8eafc5a17371f457d8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85820221,
+            "region_id":85688573,
+            "venue_id":"102156217"
+        }
+    ],
+    "wof:id":"102156217",
+    "wof:lastmodified":1449068283,
+    "wof:name":"US General Svc Adm",
+    "wof:parent_id":85820221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.838551,61.235123,-149.838551,61.235123],
+  "geometry": {"coordinates":[-149.838551,61.235123],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.682547,55.351888,-131.682547,55.351888",
+    "geom:latitude":55.351888,
+    "geom:longitude":-131.682547,
+    "iso:country":"US",
+    "sg:address":"2930 Tongass Ave",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 1000",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "sg:website":"www.kputel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TydCCPKp0Y4mqLn4v6iS1_55.351888_-131.682547@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5588e543d60aae98b94d11e507c19ecf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102173855"
+        }
+    ],
+    "wof:id":"102173855",
+    "wof:lastmodified":1449068266,
+    "wof:name":"Ketchikan Public Utilities",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.682547,55.351888,-131.682547,55.351888],
+  "geometry": {"coordinates":[-131.682547,55.351888],"type":"Point"}
+}

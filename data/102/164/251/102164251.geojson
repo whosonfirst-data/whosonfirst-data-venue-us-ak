@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.838012,61.182564,-149.838012,61.182564",
+    "geom:latitude":61.182564,
+    "geom:longitude":-149.838012,
+    "iso:country":"US",
+    "sg:address":"2490 E 42nd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 4325",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09lkfmzdNkqf6CS18S1Amz_61.182564_-149.838012@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"38f23164bbbd34701bcf364603a6bfda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102164251"
+        }
+    ],
+    "wof:id":"102164251",
+    "wof:lastmodified":1449068085,
+    "wof:name":"Alaska Healing Arts Chiro Inc",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.838012,61.182564,-149.838012,61.182564],
+  "geometry": {"coordinates":[-149.838012,61.182564],"type":"Point"}
+}

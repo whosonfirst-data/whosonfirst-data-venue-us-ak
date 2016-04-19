@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.740549,64.849805,-147.740549,64.849805",
+    "geom:latitude":64.849805,
+    "geom:longitude":-147.740549,
+    "iso:country":"US",
+    "sg:address":"1733 Well St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 1192",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.craigtaylorequipment.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cscoFlGoJo7lHvwD9UAT3_64.849805_-147.740549@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1303f8d6f5f93a7bef2b0f39a9ea2427",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102180269"
+        }
+    ],
+    "wof:id":"102180269",
+    "wof:lastmodified":1449067878,
+    "wof:name":"Craig Taylor Equipment",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.740549,64.849805,-147.740549,64.849805],
+  "geometry": {"coordinates":[-147.740549,64.849805],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.523855,55.326951,-131.523855,55.326951",
+    "geom:latitude":55.326951,
+    "geom:longitude":-131.523855,
+    "iso:country":"US",
+    "sg:address":"10 Power House Rd",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 9466",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GvFbrQKRi1pusmSJWaJkh_55.326951_-131.523855@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e9f60e9b649da5babf9cc94ce8929b5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "region_id":85688573,
+            "venue_id":"102158471"
+        }
+    ],
+    "wof:id":"102158471",
+    "wof:lastmodified":1449069393,
+    "wof:name":"Ketchikan Mechanical Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.523855,55.326951,-131.523855,55.326951],
+  "geometry": {"coordinates":[-131.523855,55.326951],"type":"Point"}
+}

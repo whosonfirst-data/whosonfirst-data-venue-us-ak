@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.430234,61.580783,-149.430234,61.580783",
+    "geom:latitude":61.580783,
+    "geom:longitude":-149.430234,
+    "iso:country":"US",
+    "sg:address":"813 E Parks Hwy",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 357 2864",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Yc5rjqZbD98lLS1XMEJoX_61.580783_-149.430234@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6fdd0a0e30082e72c84f3550bde4b1e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102183763"
+        }
+    ],
+    "wof:id":"102183763",
+    "wof:lastmodified":1449069044,
+    "wof:name":"M & B Plumbing & Heating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.430234,61.580783,-149.430234,61.580783],
+  "geometry": {"coordinates":[-149.430234,61.580783],"type":"Point"}
+}

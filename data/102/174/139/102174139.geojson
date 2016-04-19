@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.625752,61.507473,-149.625752,61.507473",
+    "geom:latitude":61.507473,
+    "geom:longitude":-149.625752,
+    "iso:country":"US",
+    "sg:address":"6280 Settlers Bay Dr",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 7905",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916243,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0h8WKVeFRIGzEipZRYGd3b_61.507473_-149.625752@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8bd336d69c0b0630bc943acafb7457c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916243,
+            "region_id":85688573,
+            "venue_id":"102174139"
+        }
+    ],
+    "wof:id":"102174139",
+    "wof:lastmodified":1449068136,
+    "wof:name":"Pro-Craft Painting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.625752,61.507473,-149.625752,61.507473],
+  "geometry": {"coordinates":[-149.625752,61.507473],"type":"Point"}
+}

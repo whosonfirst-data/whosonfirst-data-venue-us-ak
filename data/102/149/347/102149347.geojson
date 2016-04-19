@@ -1,0 +1,67 @@
+{
+  "id": "102149347",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.891399,61.217491,-149.891399,61.217491",
+    "geom:latitude":61.217491,
+    "geom:longitude":-149.891399,
+    "iso:country":"US",
+    "sg:address":"406 W 5th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 5656",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:website":"www.jcpenney.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85915707,
+        102085881,
+        85873719
+    ],
+    "wof:brand_id":420574403,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_370LvFcW7J9DTOGJFrYi1Y_61.217491_-149.891399@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f04dc0c7da1de070c5c260b4e6db7576",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102149347"
+        }
+    ],
+    "wof:id":"102149347",
+    "wof:lastmodified":1457208860,
+    "wof:name":"J C Penney Co",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.891399,
+    61.217491,
+    -149.891399,
+    61.217491
+],
+  "geometry": {"coordinates":[-149.89139900000001,61.217491],"type":"Point"}
+}

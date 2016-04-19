@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.715543,64.83659,-147.715543,64.83659",
+    "geom:latitude":64.83659,
+    "geom:longitude":-147.715543,
+    "iso:country":"US",
+    "sg:address":"558 Gaffney Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 7749",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "bingo",
+        "game"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PiskDa0VW4q8FIj5gWjN0_64.836590_-147.715543@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"51386e6344171267ad55dffd2704346f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102163459"
+        }
+    ],
+    "wof:id":"102163459",
+    "wof:lastmodified":1449070160,
+    "wof:name":"Pull Tabs City",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.715543,64.83659,-147.715543,64.83659],
+  "geometry": {"coordinates":[-147.715543,64.83659],"type":"Point"}
+}

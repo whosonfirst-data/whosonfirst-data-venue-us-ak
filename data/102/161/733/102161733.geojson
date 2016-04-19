@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.034107,61.538552,-149.034107,61.538552",
+    "geom:latitude":61.538552,
+    "geom:longitude":-149.034107,
+    "iso:country":"US",
+    "sg:address":"16650 Spruce St",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 4507",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "pony"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916303,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g5X5SH6Ykp2ODtQnrlNfD_61.538552_-149.034107@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4f0dcfe725f168f6143863b5d167988",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916303,
+            "region_id":85688573,
+            "venue_id":"102161733"
+        }
+    ],
+    "wof:id":"102161733",
+    "wof:lastmodified":1449068707,
+    "wof:name":"Pony Wheel Ranch",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.034107,61.538552,-149.034107,61.538552],
+  "geometry": {"coordinates":[-149.034107,61.538552],"type":"Point"}
+}

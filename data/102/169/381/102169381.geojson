@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.86798,61.169255,-149.86798,61.169255",
+    "geom:latitude":61.169255,
+    "geom:longitude":-149.86798,
+    "iso:country":"US",
+    "sg:address":"5621 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 569 2922",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5K9WzBvr5Nz7dh20zS7go1_61.169255_-149.867980@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"69574815fe9a46f17765e7f099581319",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102169381"
+        }
+    ],
+    "wof:id":"102169381",
+    "wof:lastmodified":1449069246,
+    "wof:name":"Coffee With A Cause",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.86798,61.169255,-149.86798,61.169255],
+  "geometry": {"coordinates":[-149.86798,61.169255],"type":"Point"}
+}

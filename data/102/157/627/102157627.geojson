@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.863843,61.12361,-149.863843,61.12361",
+    "geom:latitude":61.12361,
+    "geom:longitude":-149.863843,
+    "iso:country":"US",
+    "sg:address":"10460 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 6466",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.aer-inc.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lZuoAPfvulSMtONPV9HYI_61.123610_-149.863843@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dd2bcd0806c159f6b7db224db93e90f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102157627"
+        }
+    ],
+    "wof:id":"102157627",
+    "wof:lastmodified":1449069832,
+    "wof:name":"Airport Equipment Rentals",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.863843,61.12361,-149.863843,61.12361],
+  "geometry": {"coordinates":[-149.863843,61.12361],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.874737,61.199422,-149.874737,61.199422",
+    "geom:latitude":61.199422,
+    "geom:longitude":-149.874737,
+    "iso:country":"US",
+    "sg:address":"2306 Eagle St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 6658",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mfg",
+        "wood",
+        "kitchen",
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D7nDeiiJk7qE4rTctML5z_61.199422_-149.874737@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a1fa7bf6724bdfaffa7612e5492ee425",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102193055"
+        }
+    ],
+    "wof:id":"102193055",
+    "wof:lastmodified":1449068193,
+    "wof:name":"York Hand Crafted",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.874737,61.199422,-149.874737,61.199422],
+  "geometry": {"coordinates":[-149.874737,61.199422],"type":"Point"}
+}

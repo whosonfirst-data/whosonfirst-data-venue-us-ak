@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.552363,59.643122,-151.552363,59.643122",
+    "geom:latitude":59.643122,
+    "geom:longitude":-151.552363,
+    "iso:country":"US",
+    "sg:address":"300 Woodside Ave",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 8389",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:website":"www.alaskawoodsidelodging.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D2thMrInJsZ8uLIdEtxnC_59.643122_-151.552363@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"70cbb4aa1aed84dc4faf580da88e9134",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102162149"
+        }
+    ],
+    "wof:id":"102162149",
+    "wof:lastmodified":1449069821,
+    "wof:name":"Alaska Woodside Lodging",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.552363,59.643122,-151.552363,59.643122],
+  "geometry": {"coordinates":[-151.552363,59.643122],"type":"Point"}
+}

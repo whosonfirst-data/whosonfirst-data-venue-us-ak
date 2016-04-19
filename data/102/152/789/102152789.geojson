@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.804353,61.140075,-149.804353,61.140075",
+    "geom:latitude":61.140075,
+    "geom:longitude":-149.804353,
+    "iso:country":"US",
+    "sg:address":"8818 Abbott Loop Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 2519",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "concrete",
+        "form"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873745,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73f8HrogfWAvUYa0ZN4bII_61.140075_-149.804353@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3ce341715a1b8f8a612b82607ca24365",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873745,
+            "region_id":85688573,
+            "venue_id":"102152789"
+        }
+    ],
+    "wof:id":"102152789",
+    "wof:lastmodified":1449069635,
+    "wof:name":"Alaska Masonry Tools",
+    "wof:parent_id":85873745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.804353,61.140075,-149.804353,61.140075],
+  "geometry": {"coordinates":[-149.804353,61.140075],"type":"Point"}
+}

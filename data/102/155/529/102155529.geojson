@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.942331,61.176809,-149.942331,61.176809",
+    "geom:latitude":61.176809,
+    "geom:longitude":-149.942331,
+    "iso:country":"US",
+    "sg:address":"4800 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 677 1225",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tours",
+        "promoter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NaASPDsnte0ksXAR2SPib_61.176809_-149.942331@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ba26c7f4a6a9a1d14ef8837d756b9b42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102155529"
+        }
+    ],
+    "wof:id":"102155529",
+    "wof:lastmodified":1449069743,
+    "wof:name":"Ask Matt Adventure Tours",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.942331,61.176809,-149.942331,61.176809],
+  "geometry": {"coordinates":[-149.942331,61.176809],"type":"Point"}
+}

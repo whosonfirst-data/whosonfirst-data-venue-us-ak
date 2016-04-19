@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.872929,61.199291,-149.872929,61.199291",
+    "geom:latitude":61.199291,
+    "geom:longitude":-149.872929,
+    "iso:country":"US",
+    "sg:address":"520 E 24th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 7604",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "sg:website":"www.alaskasportsmanslodge.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69Nxr5UvQ4tx6gJrXjoRlq_61.199291_-149.872929@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"208b8f5dde6b1a6d1800168e21c284f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102189327"
+        }
+    ],
+    "wof:id":"102189327",
+    "wof:lastmodified":1449069496,
+    "wof:name":"Alaska Sportsmans Lodge",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.872929,61.199291,-149.872929,61.199291],
+  "geometry": {"coordinates":[-149.872929,61.199291],"type":"Point"}
+}

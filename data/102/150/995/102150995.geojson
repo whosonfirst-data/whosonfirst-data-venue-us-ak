@@ -1,0 +1,71 @@
+{
+  "id": "102150995",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.864027,61.146157,-149.864027,61.146157",
+    "geom:latitude":61.146157,
+    "geom:longitude":-149.864027,
+    "iso:country":"US",
+    "sg:address":"8100 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 1120",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85915707,
+        102085881,
+        85809155
+    ],
+    "wof:brand_id":420574101,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J4RHAptN3YiX7UXjKYYRU_61.146157_-149.864027@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"caec47534d4d492048baa4abcbb10412",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102150995"
+        }
+    ],
+    "wof:id":"102150995",
+    "wof:lastmodified":1457208478,
+    "wof:name":"Midas Auto Svc Experts",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.864027,
+    61.146157,
+    -149.864027,
+    61.146157
+],
+  "geometry": {"coordinates":[-149.86402699999999,61.146157],"type":"Point"}
+}

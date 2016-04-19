@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.415492,57.786239,-152.415492,57.786239",
+    "geom:latitude":57.786239,
+    "geom:longitude":-152.415492,
+    "iso:country":"US",
+    "sg:address":"216 Shelikof St",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 481 3400",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38CfqYtzPSf3WEsMpjqphB_57.786239_-152.415492@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ed6d4432998b7aeaa2aca1d07b38c622",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102167509"
+        }
+    ],
+    "wof:id":"102167509",
+    "wof:lastmodified":1449069000,
+    "wof:name":"A K Cab Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.415492,57.786239,-152.415492,57.786239],
+  "geometry": {"coordinates":[-152.415492,57.786239],"type":"Point"}
+}

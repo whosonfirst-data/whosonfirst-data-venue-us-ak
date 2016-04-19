@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.944633,61.196324,-149.944633,61.196324",
+    "geom:latitude":61.196324,
+    "geom:longitude":-149.944633,
+    "iso:country":"US",
+    "sg:address":"3231 Knik Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 0801",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J9loQIjndkMqlljjZBclL_61.196324_-149.944633@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1c68e239f12c4b6e0965db73fdbec82b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102162001"
+        }
+    ],
+    "wof:id":"102162001",
+    "wof:lastmodified":1449069821,
+    "wof:name":"Beckys Buds & Blossoms",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.944633,61.196324,-149.944633,61.196324],
+  "geometry": {"coordinates":[-149.944633,61.196324],"type":"Point"}
+}

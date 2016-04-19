@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.403526,58.30404,-134.403526,58.30404",
+    "geom:latitude":58.30404,
+    "geom:longitude":-134.403526,
+    "iso:country":"US",
+    "sg:address":"418 Park St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 463 2543",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TH4Gj1rjXWKFdSt17GlKc_58.304040_-134.403526@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e8db675692a8da3bcb8ae07c1b687d9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102157363"
+        }
+    ],
+    "wof:id":"102157363",
+    "wof:lastmodified":1449069832,
+    "wof:name":"Uncle Artie's Gifts",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.403526,58.30404,-134.403526,58.30404],
+  "geometry": {"coordinates":[-134.403526,58.30404],"type":"Point"}
+}

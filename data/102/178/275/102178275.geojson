@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.6458,55.341643,-131.6458,55.341643",
+    "geom:latitude":55.341643,
+    "geom:longitude":-131.6458,
+    "iso:country":"US",
+    "sg:address":"420 Mission St",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 9311",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fTGjGgzZM7tSubJeDCKLy_55.341643_-131.645800@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"591f38ba839f2b6779f09d1d1eb392d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102178275"
+        }
+    ],
+    "wof:id":"102178275",
+    "wof:lastmodified":1449069530,
+    "wof:name":"KTB School Of Dance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.6458,55.341643,-131.6458,55.341643],
+  "geometry": {"coordinates":[-131.6458,55.341643],"type":"Point"}
+}

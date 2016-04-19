@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.854279,61.113571,-149.854279,61.113571",
+    "geom:latitude":61.113571,
+    "geom:longitude":-149.854279,
+    "iso:country":"US",
+    "sg:address":"11801 Brayton Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 4600",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873755,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UKlFDXytDi1lv4ULSS6QR_61.113571_-149.854279@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5392dfb753aceec2240f2c6f8f1f8ed0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873755,
+            "region_id":85688573,
+            "venue_id":"102173335"
+        }
+    ],
+    "wof:id":"102173335",
+    "wof:lastmodified":1449068266,
+    "wof:name":"Tanglewood Lakes Golf Club",
+    "wof:parent_id":85873755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.854279,61.113571,-149.854279,61.113571],
+  "geometry": {"coordinates":[-149.854279,61.113571],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.017783,61.594732,-149.017783,61.594732",
+    "geom:latitude":61.594732,
+    "geom:longitude":-149.017783,
+    "iso:country":"US",
+    "sg:address":"17155 Idle Dr",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 746 3243",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916303,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2O7cXwY4ZEGo6AQjIHq9Li_61.594732_-149.017783@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c3df79883d5adcb05eccec48e5ecedb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916303,
+            "region_id":85688573,
+            "venue_id":"102193795"
+        }
+    ],
+    "wof:id":"102193795",
+    "wof:lastmodified":1449068194,
+    "wof:name":"Reliable Heating & Air",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.017783,61.594732,-149.017783,61.594732],
+  "geometry": {"coordinates":[-149.017783,61.594732],"type":"Point"}
+}

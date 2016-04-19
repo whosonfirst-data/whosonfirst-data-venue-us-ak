@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.856543,61.151959,-149.856543,61.151959",
+    "geom:latitude":61.151959,
+    "geom:longitude":-149.856543,
+    "iso:country":"US",
+    "sg:address":"1200 E 76th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 1404",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sS1OTpFJLCYo9cJZn4pIz_61.151959_-149.856543@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a0f47bbfcf8432209eaa22517cdb56de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102195383"
+        }
+    ],
+    "wof:id":"102195383",
+    "wof:lastmodified":1449069363,
+    "wof:name":"Radian General Contracting",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.856543,61.151959,-149.856543,61.151959],
+  "geometry": {"coordinates":[-149.856543,61.151959],"type":"Point"}
+}

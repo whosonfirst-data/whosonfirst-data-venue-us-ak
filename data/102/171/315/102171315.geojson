@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.878007,61.150784,-149.878007,61.150784",
+    "geom:latitude":61.150784,
+    "geom:longitude":-149.878007,
+    "iso:country":"US",
+    "sg:address":"7910 King St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 3300",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "building",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20XsYWAZLs9BptziOuMKfD_61.150784_-149.878007@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1242530b1a344a58bf8c911951387f3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102171315"
+        }
+    ],
+    "wof:id":"102171315",
+    "wof:lastmodified":1449070228,
+    "wof:name":"Yupik Consulting Group",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.878007,61.150784,-149.878007,61.150784],
+  "geometry": {"coordinates":[-149.878007,61.150784],"type":"Point"}
+}

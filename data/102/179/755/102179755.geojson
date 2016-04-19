@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.864023,61.158917,-149.864023,61.158917",
+    "geom:latitude":61.158917,
+    "geom:longitude":-149.864023,
+    "iso:country":"US",
+    "sg:address":"6871 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 9635",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75xiDwPMMSKCQdFLPa19hT_61.158917_-149.864023@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8a39cb290fc7e2697202ea2efede938f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102179755"
+        }
+    ],
+    "wof:id":"102179755",
+    "wof:lastmodified":1449069941,
+    "wof:name":"Bailey's Rent All Inc",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.864023,61.158917,-149.864023,61.158917],
+  "geometry": {"coordinates":[-149.864023,61.158917],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.116954,61.615548,-149.116954,61.615548",
+    "geom:latitude":61.615548,
+    "geom:longitude":-149.116954,
+    "iso:country":"US",
+    "sg:address":"601 1st St",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 746 4532",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915577,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fuNVJUKpWOXaWm53IiBt1_61.615548_-149.116954@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0069b78c49d40d34a6a10ca97bf2fc54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915577,
+            "region_id":85688573,
+            "venue_id":"102176995"
+        }
+    ],
+    "wof:id":"102176995",
+    "wof:lastmodified":1449069350,
+    "wof:name":"JNOLCO",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.116954,61.615548,-149.116954,61.615548],
+  "geometry": {"coordinates":[-149.116954,61.615548],"type":"Point"}
+}

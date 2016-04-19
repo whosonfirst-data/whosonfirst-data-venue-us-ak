@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.87545,61.179836,-149.87545,61.179836",
+    "geom:latitude":61.179836,
+    "geom:longitude":-149.87545,
+    "iso:country":"US",
+    "sg:address":"430 E 45th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 1679",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nfCFvZ7hyeo0p0Ktcz1J4_61.179836_-149.875450@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"651d06db59706f13b62f9688b3496fa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102168291"
+        }
+    ],
+    "wof:id":"102168291",
+    "wof:lastmodified":1449069006,
+    "wof:name":"P T's Home Cleaning Svc",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.87545,61.179836,-149.87545,61.179836],
+  "geometry": {"coordinates":[-149.87545,61.179836],"type":"Point"}
+}

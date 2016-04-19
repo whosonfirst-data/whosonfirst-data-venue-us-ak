@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.773283,61.217907,-149.773283,61.217907",
+    "geom:latitude":61.217907,
+    "geom:longitude":-149.773283,
+    "iso:country":"US",
+    "sg:address":"5841 Rocky Mountain Ct",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 1528",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AMCPBCgz2PGmq3bk4lrqj_61.217907_-149.773283@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5c5b0cd41270865232590d97f8e09fdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102171149"
+        }
+    ],
+    "wof:id":"102171149",
+    "wof:lastmodified":1449070222,
+    "wof:name":"Lucas Automotive",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.773283,61.217907,-149.773283,61.217907],
+  "geometry": {"coordinates":[-149.773283,61.217907],"type":"Point"}
+}

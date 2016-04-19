@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.85336,61.180133,-149.85336,61.180133",
+    "geom:latitude":61.180133,
+    "geom:longitude":-149.85336,
+    "iso:country":"US",
+    "sg:address":"4520 Shelikof St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 2568",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cdn6N9x51VdaOEOuJBCNq_61.180133_-149.853360@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"30dbc17620fd050050d0386ff72ec1f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102152497"
+        }
+    ],
+    "wof:id":"102152497",
+    "wof:lastmodified":1449069636,
+    "wof:name":"Gingerbread Child Care Ctr",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.85336,61.180133,-149.85336,61.180133],
+  "geometry": {"coordinates":[-149.85336,61.180133],"type":"Point"}
+}

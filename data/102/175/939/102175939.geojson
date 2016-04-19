@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.840185,61.166322,-149.840185,61.166322",
+    "geom:latitude":61.166322,
+    "geom:longitude":-149.840185,
+    "iso:country":"US",
+    "sg:address":"2150 E Dowling Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 222 5279",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G5ZqQaOGUiZgiDaNfE7t4_61.166322_-149.840185@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ce6c798b9dbbe039ab22919c9d6550e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102175939"
+        }
+    ],
+    "wof:id":"102175939",
+    "wof:lastmodified":1449069465,
+    "wof:name":"Medical Training Institute",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.840185,61.166322,-149.840185,61.166322],
+  "geometry": {"coordinates":[-149.840185,61.166322],"type":"Point"}
+}

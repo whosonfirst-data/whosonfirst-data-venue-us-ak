@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.724726,64.859099,-147.724726,64.859099",
+    "geom:latitude":64.859099,
+    "geom:longitude":-147.724726,
+    "iso:country":"US",
+    "sg:address":"840 College Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 2101",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cleaners",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830247,
+        85633793,
+        85916559,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GebA3Q0Wbm97znIqqXsE2_64.859099_-147.724726@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dca36fb30c21b9cff7267b9e18324bb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "neighbourhood_id":85830247,
+            "region_id":85688573,
+            "venue_id":"102167119"
+        }
+    ],
+    "wof:id":"102167119",
+    "wof:lastmodified":1449069003,
+    "wof:name":"Kirby Co",
+    "wof:parent_id":85830247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.724726,64.859099,-147.724726,64.859099],
+  "geometry": {"coordinates":[-147.724726,64.859099],"type":"Point"}
+}

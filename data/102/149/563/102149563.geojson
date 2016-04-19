@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.888615,61.168279,-149.888615,61.168279",
+    "geom:latitude":61.168279,
+    "geom:longitude":-149.888615,
+    "iso:country":"US",
+    "sg:address":"5601 Silverado Way",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 3608",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "fire",
+        "alarm",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Gg7JlGKxPGzKfgOz1W5ZQ_61.168279_-149.888615@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"46b39e2e48935a5f960efe0e2d398ec2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102149563"
+        }
+    ],
+    "wof:id":"102149563",
+    "wof:lastmodified":1449067768,
+    "wof:name":"Yukon Fire Protection Svc",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.888615,61.168279,-149.888615,61.168279],
+  "geometry": {"coordinates":[-149.888615,61.168279],"type":"Point"}
+}

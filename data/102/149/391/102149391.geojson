@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.715895,64.838743,-147.715895,64.838743",
+    "geom:latitude":64.838743,
+    "geom:longitude":-147.715895,
+    "iso:country":"US",
+    "sg:address":"520 11th Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 7000",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FNh2pvGkJ29e5pO7fwLHv_64.838743_-147.715895@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b3bed57a02f8dbbd798af5400972bed5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102149391"
+        }
+    ],
+    "wof:id":"102149391",
+    "wof:lastmodified":1449067769,
+    "wof:name":"Pruhs Real Estate Group",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.715895,64.838743,-147.715895,64.838743],
+  "geometry": {"coordinates":[-147.715895,64.838743],"type":"Point"}
+}

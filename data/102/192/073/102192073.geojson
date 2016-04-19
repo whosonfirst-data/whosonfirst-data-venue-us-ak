@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-133.15161,55.475365,-133.15161,55.475365",
+    "geom:latitude":55.475365,
+    "geom:longitude":-133.15161,
+    "iso:country":"US",
+    "sg:address":"500 3rd St",
+    "sg:city":"Craig",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 826 3275",
+    "sg:postcode":"99921",
+    "sg:province":"AK",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916099,
+        85633793,
+        85688573,
+        102081403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m9Ofv63M3rVmJZHWPDpEc_55.475365_-133.151610@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d4b9d501dbf9ad4f050ca414ce417dee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081403,
+            "locality_id":85916099,
+            "region_id":85688573,
+            "venue_id":"102192073"
+        }
+    ],
+    "wof:id":"102192073",
+    "wof:lastmodified":1449069503,
+    "wof:name":"Craig City Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-133.15161,55.475365,-133.15161,55.475365],
+  "geometry": {"coordinates":[-133.15161,55.475365],"type":"Point"}
+}

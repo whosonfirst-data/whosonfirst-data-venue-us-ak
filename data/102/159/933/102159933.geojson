@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.951834,61.156426,-149.951834,61.156426",
+    "geom:latitude":61.156426,
+    "geom:longitude":-149.951834,
+    "iso:country":"US",
+    "sg:address":"6831 Jewel Lake Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 6288",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10PyGj4EETlA8m4kzo691j_61.156426_-149.951834@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e564b6d43340260bb1cfb91b17c3f44e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102159933"
+        }
+    ],
+    "wof:id":"102159933",
+    "wof:lastmodified":1449068093,
+    "wof:name":"Anchorage Chiropractic Clinic",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.951834,61.156426,-149.951834,61.156426],
+  "geometry": {"coordinates":[-149.951834,61.156426],"type":"Point"}
+}

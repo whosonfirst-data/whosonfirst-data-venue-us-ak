@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.7573,58.403919,-134.7573,58.403919",
+    "geom:latitude":58.403919,
+    "geom:longitude":-134.7573,
+    "iso:country":"US",
+    "sg:address":"17525 Glacier Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 2350",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851901,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2o3GQpyw75Jw1mEYAsCk50_58.403919_-134.757300@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9199bb097d986f7c70ff3fc6b71805c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85851901,
+            "region_id":85688573,
+            "venue_id":"102176077"
+        }
+    ],
+    "wof:id":"102176077",
+    "wof:lastmodified":1449069342,
+    "wof:name":"Paratex Pied Piper Pest Cntrl",
+    "wof:parent_id":85851901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.7573,58.403919,-134.7573,58.403919],
+  "geometry": {"coordinates":[-134.7573,58.403919],"type":"Point"}
+}

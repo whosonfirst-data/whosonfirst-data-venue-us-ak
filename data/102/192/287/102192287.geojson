@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.732911,64.846738,-147.732911,64.846738",
+    "geom:latitude":64.846738,
+    "geom:longitude":-147.732911,
+    "iso:country":"US",
+    "sg:address":"1121 1st Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 8000",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:website":"www.alaska-land.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2muWuXHROfoMGJaIFsaW42_64.846738_-147.732911@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c25aede9f3e5d0229d303d62ace92015",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102192287"
+        }
+    ],
+    "wof:id":"102192287",
+    "wof:lastmodified":1449069498,
+    "wof:name":"Robert Fox Realty",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.732911,64.846738,-147.732911,64.846738],
+  "geometry": {"coordinates":[-147.732911,64.846738],"type":"Point"}
+}

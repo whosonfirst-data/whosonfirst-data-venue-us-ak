@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.874577,61.196213,-149.874577,61.196213",
+    "geom:latitude":61.196213,
+    "geom:longitude":-149.874577,
+    "iso:country":"US",
+    "sg:address":"2605 Eagle St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 0067",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YW5hNXTU5xLauOBiKGbZh_61.196213_-149.874577@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"058dc28157d2248034f8832b951656fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102193437"
+        }
+    ],
+    "wof:id":"102193437",
+    "wof:lastmodified":1449068195,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.874577,61.196213,-149.874577,61.196213],
+  "geometry": {"coordinates":[-149.874577,61.196213],"type":"Point"}
+}

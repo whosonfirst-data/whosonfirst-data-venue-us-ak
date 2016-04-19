@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.407073,58.301437,-134.407073,58.301437",
+    "geom:latitude":58.301437,
+    "geom:longitude":-134.407073,
+    "iso:country":"US",
+    "sg:address":"206 N Franklin St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 2787",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "organization",
+        "arts",
+        "information"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6u9m6pqiZ6PVqPGuM6aV1D_58.301437_-134.407073@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b424da9d1d7afa2006e6a5dbf5d832bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102185263"
+        }
+    ],
+    "wof:id":"102185263",
+    "wof:lastmodified":1449068198,
+    "wof:name":"Juneau Arts & Humanities",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.407073,58.301437,-134.407073,58.301437],
+  "geometry": {"coordinates":[-134.407073,58.301437],"type":"Point"}
+}

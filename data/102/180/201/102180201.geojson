@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.982566,61.160137,-149.982566,61.160137",
+    "geom:latitude":61.160137,
+    "geom:longitude":-149.982566,
+    "iso:country":"US",
+    "sg:address":"6121 S Airpark Pl",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 9595",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "leasing",
+        "charter"
+    ],
+    "sg:website":"www.fsairserviceinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_546KkyTNiNb6TAaUaKqQrx_61.160137_-149.982566@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"358a89623a1d01917459da6f19e7a2b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102180201"
+        }
+    ],
+    "wof:id":"102180201",
+    "wof:lastmodified":1449067877,
+    "wof:name":"F S Air Svc",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.982566,61.160137,-149.982566,61.160137],
+  "geometry": {"coordinates":[-149.982566,61.160137],"type":"Point"}
+}

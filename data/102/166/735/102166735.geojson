@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.22622,60.561142,-151.22622,60.561142",
+    "geom:latitude":60.561142,
+    "geom:longitude":-151.22622,
+    "iso:country":"US",
+    "sg:address":"10160 Kenai Spur Hwy",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 3900",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kPDxG2J6euJccZNsa0OhK_60.561142_-151.226220@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fb45bae19b7f5966222221713f7497dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102166735"
+        }
+    ],
+    "wof:id":"102166735",
+    "wof:lastmodified":1449069088,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.22622,60.561142,-151.22622,60.561142],
+  "geometry": {"coordinates":[-151.22622,60.561142],"type":"Point"}
+}

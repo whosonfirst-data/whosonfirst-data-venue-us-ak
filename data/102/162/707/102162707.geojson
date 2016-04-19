@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.969513,61.183029,-149.969513,61.183029",
+    "geom:latitude":61.183029,
+    "geom:longitude":-149.969513,
+    "iso:country":"US",
+    "sg:address":"4131 Floatplane Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 1966",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "sg:website":"www.akaircraftsales.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852831,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uyVLQaIO568hhslWGVeuP_61.183029_-149.969513@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a18e54e74c1fe80527ea0e48ee143203",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":"102162707"
+        }
+    ],
+    "wof:id":"102162707",
+    "wof:lastmodified":1449069823,
+    "wof:name":"Alaska Aircraft Sales & Mntnc",
+    "wof:parent_id":85852831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.969513,61.183029,-149.969513,61.183029],
+  "geometry": {"coordinates":[-149.969513,61.183029],"type":"Point"}
+}

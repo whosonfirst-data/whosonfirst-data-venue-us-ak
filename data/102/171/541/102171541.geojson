@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.75971,64.847359,-147.75971,64.847359",
+    "geom:latitude":64.847359,
+    "geom:longitude":-147.75971,
+    "iso:country":"US",
+    "sg:address":"1922 Livengood Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 0351",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n08YP13S5vB6I4aU2CrEF_64.847359_-147.759710@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6b676c6d3a39aef951f5469d3a59afa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102171541"
+        }
+    ],
+    "wof:id":"102171541",
+    "wof:lastmodified":1449070222,
+    "wof:name":"Pioneer Van Lines Inc",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.75971,64.847359,-147.75971,64.847359],
+  "geometry": {"coordinates":[-147.75971,64.847359],"type":"Point"}
+}

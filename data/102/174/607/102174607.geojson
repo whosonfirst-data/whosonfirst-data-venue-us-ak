@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.85864,61.23319,-149.85864,61.23319",
+    "geom:latitude":61.23319,
+    "geom:longitude":-149.85864,
+    "iso:country":"US",
+    "sg:address":"4109 Bullard Ave",
+    "sg:city":"Elmendorf Afb",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 753 9367",
+    "sg:postcode":"99506",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873711,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tIIMf5JyiwwcrsbGxvzF3_61.233190_-149.858640@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2ac86a0844e5128020180ccb5b64c2a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873711,
+            "region_id":85688573,
+            "venue_id":"102174607"
+        }
+    ],
+    "wof:id":"102174607",
+    "wof:lastmodified":1449068137,
+    "wof:name":"Embry-Riddle Aeronautical Univ",
+    "wof:parent_id":85873711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.85864,61.23319,-149.85864,61.23319],
+  "geometry": {"coordinates":[-149.85864,61.23319],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.788731,61.195418,-149.788731,61.195418",
+    "geom:latitude":61.195418,
+    "geom:longitude":-149.788731,
+    "iso:country":"US",
+    "sg:address":"2731 Wesleyan Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 338 5258",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZaHhGm9Gin9p2CpRxN2cQ_61.195418_-149.788731@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"70dbdf2bca47bd407e2b5d969def0fb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102174693"
+        }
+    ],
+    "wof:id":"102174693",
+    "wof:lastmodified":1449068135,
+    "wof:name":"Van Dyken & Co",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.788731,61.195418,-149.788731,61.195418],
+  "geometry": {"coordinates":[-149.788731,61.195418],"type":"Point"}
+}

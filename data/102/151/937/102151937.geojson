@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.331096,64.787985,-147.331096,64.787985",
+    "geom:latitude":64.787985,
+    "geom:longitude":-147.331096,
+    "iso:country":"US",
+    "sg:address":"2309 Pool St",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 3460",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916555,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kmvKfOKccBncylhtuPaQF_64.787985_-147.331096@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"902ff71c0b1db0a6788afdcf8169c08b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916555,
+            "region_id":85688573,
+            "venue_id":"102151937"
+        }
+    ],
+    "wof:id":"102151937",
+    "wof:lastmodified":1449067779,
+    "wof:name":"Acme Machine Boring Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.331096,64.787985,-147.331096,64.787985],
+  "geometry": {"coordinates":[-147.331096,64.787985],"type":"Point"}
+}

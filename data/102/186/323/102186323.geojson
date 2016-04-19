@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.521653,55.683461,-132.521653,55.683461",
+    "geom:latitude":55.683461,
+    "geom:longitude":-132.521653,
+    "iso:country":"US",
+    "sg:address":"1212 Shoreline Dr",
+    "sg:city":"Thorne Bay",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 828 3333",
+    "sg:postcode":"99919",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916077,
+        85633793,
+        85688573,
+        102081403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34c7udK8b0aMrfVb0Jy5DB_55.683461_-132.521653@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f4078e36f6dda795eaa97d7f9d4ac017",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081403,
+            "locality_id":85916077,
+            "region_id":85688573,
+            "venue_id":"102186323"
+        }
+    ],
+    "wof:id":"102186323",
+    "wof:lastmodified":1449069652,
+    "wof:name":"Tackle Shack",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.521653,55.683461,-132.521653,55.683461],
+  "geometry": {"coordinates":[-132.521653,55.683461],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.892878,61.218626,-149.892878,61.218626",
+    "geom:latitude":61.218626,
+    "geom:longitude":-149.892878,
+    "iso:country":"US",
+    "sg:address":"541 W 4th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 7762",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BFQ2lIOA57rnRZYxIhicD_61.218626_-149.892878@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"11b510aa1a4ebce7c1983cc8d827ca2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102153111"
+        }
+    ],
+    "wof:id":"102153111",
+    "wof:lastmodified":1449069462,
+    "wof:name":"Grant's Fine Jewelry",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.892878,61.218626,-149.892878,61.218626],
+  "geometry": {"coordinates":[-149.892878,61.218626],"type":"Point"}
+}

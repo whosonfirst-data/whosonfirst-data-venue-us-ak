@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-146.002422,61.061407,-146.002422,61.061407",
+    "geom:latitude":61.061407,
+    "geom:longitude":-146.002422,
+    "iso:country":"US",
+    "sg:address":"5445 Chalet Dr",
+    "sg:city":"Valdez",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 835 3885",
+    "sg:postcode":"99686",
+    "sg:province":"AK",
+    "sg:tags":[
+        "heavy",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915585,
+        85633793,
+        85688573,
+        102081911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hYlNCUzQ2HhzuQes6mait_61.061407_-146.002422@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"24e4ed3b356108b8044a826f7ce69519",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915585,
+            "region_id":85688573,
+            "venue_id":"102187429"
+        }
+    ],
+    "wof:id":"102187429",
+    "wof:lastmodified":1449068160,
+    "wof:name":"MSJ Equipment",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-146.002422,61.061407,-146.002422,61.061407],
+  "geometry": {"coordinates":[-146.002422,61.061407],"type":"Point"}
+}

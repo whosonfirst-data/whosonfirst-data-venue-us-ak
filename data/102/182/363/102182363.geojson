@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.550137,59.651593,-151.550137,59.651593",
+    "geom:latitude":59.651593,
+    "geom:longitude":-151.550137,
+    "iso:country":"US",
+    "sg:address":"4201 Bartlett St",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 7000",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yg6sTk0jQxstguhCvtrwu_59.651593_-151.550137@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0a09cef9aed981ca8ef1ef092437c0cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102182363"
+        }
+    ],
+    "wof:id":"102182363",
+    "wof:lastmodified":1449069283,
+    "wof:name":"Kachemak Bay Medical Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.550137,59.651593,-151.550137,59.651593],
+  "geometry": {"coordinates":[-151.550137,59.651593],"type":"Point"}
+}

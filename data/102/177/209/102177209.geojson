@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.884221,61.111825,-149.884221,61.111825",
+    "geom:latitude":61.111825,
+    "geom:longitude":-149.884221,
+    "iso:country":"US",
+    "sg:address":"301 W 121st Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 646 1219",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873755,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lipjwaOizl2pHxmiKegd9_61.111825_-149.884221@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0380d917eab4f441cbbc3b736d5dc034",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873755,
+            "region_id":85688573,
+            "venue_id":"102177209"
+        }
+    ],
+    "wof:id":"102177209",
+    "wof:lastmodified":1449070208,
+    "wof:name":"Alaska Cover-All",
+    "wof:parent_id":85873755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.884221,61.111825,-149.884221,61.111825],
+  "geometry": {"coordinates":[-149.884221,61.111825],"type":"Point"}
+}

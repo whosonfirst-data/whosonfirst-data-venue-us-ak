@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.344926,61.570618,-149.344926,61.570618",
+    "geom:latitude":61.570618,
+    "geom:longitude":-149.344926,
+    "iso:country":"US",
+    "sg:address":"4191 Dimond Way",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 7989",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916225,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zJ2sTcQTi7A4SKGvLB7z1_61.570618_-149.344926@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c417ee3b4f646bf0466b96bee5c81fd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916225,
+            "region_id":85688573,
+            "venue_id":"102188015"
+        }
+    ],
+    "wof:id":"102188015",
+    "wof:lastmodified":1449068945,
+    "wof:name":"Chevrolet Of Wasilla",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.344926,61.570618,-149.344926,61.570618],
+  "geometry": {"coordinates":[-149.344926,61.570618],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.48296,58.357712,-134.48296,58.357712",
+    "geom:latitude":58.357712,
+    "geom:longitude":-134.48296,
+    "iso:country":"US",
+    "sg:address":"5312 Commercial Blvd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 796 3478",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49ItvQwepO0tk16PwOrrWI_58.357712_-134.482960@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2201220dd9971c17e1de721fbe2144f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102148115"
+        }
+    ],
+    "wof:id":"102148115",
+    "wof:lastmodified":1449069780,
+    "wof:name":"Prindles Carpet & Upholstery",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.48296,58.357712,-134.48296,58.357712],
+  "geometry": {"coordinates":[-134.48296,58.357712],"type":"Point"}
+}

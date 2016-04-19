@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.573917,58.386254,-134.573917,58.386254",
+    "geom:latitude":58.386254,
+    "geom:longitude":-134.573917,
+    "iso:country":"US",
+    "sg:address":"3620 Mendenhall Loop Rd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 1859",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1d4dM7kamiNQmu76GFc3Jo_58.386254_-134.573917@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e77abcca383728e6e0866263f58772ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102191489"
+        }
+    ],
+    "wof:id":"102191489",
+    "wof:lastmodified":1449069201,
+    "wof:name":"Summit Electric",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.573917,58.386254,-134.573917,58.386254],
+  "geometry": {"coordinates":[-134.573917,58.386254],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.838134,61.21401,-149.838134,61.21401",
+    "geom:latitude":61.21401,
+    "geom:longitude":-149.838134,
+    "iso:country":"US",
+    "sg:address":"2403 Merrill Field Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 6166",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repair",
+        "aircraft",
+        "parts",
+        "equipment"
+    ],
+    "sg:website":"www.aerotwin.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mbBXvpgjiL8bDpXinHgTn_61.214010_-149.838134@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"de45ef833eb8cb8b569d6adf6772f118",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102166519"
+        }
+    ],
+    "wof:id":"102166519",
+    "wof:lastmodified":1449069088,
+    "wof:name":"Aero Twin Inc",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.838134,61.21401,-149.838134,61.21401],
+  "geometry": {"coordinates":[-149.838134,61.21401],"type":"Point"}
+}

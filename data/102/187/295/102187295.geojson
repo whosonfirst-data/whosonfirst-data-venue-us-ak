@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.414273,57.788364,-152.414273,57.788364",
+    "geom:latitude":57.788364,
+    "geom:longitude":-152.414273,
+    "iso:country":"US",
+    "sg:address":"412 Cope St",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 4400",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "helicopter",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NwvegxPeFHdX9bOnDO6VU_57.788364_-152.414273@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2971b59ad747dd0ea464369e7f34450c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102187295"
+        }
+    ],
+    "wof:id":"102187295",
+    "wof:lastmodified":1449068158,
+    "wof:name":"Maritime Helicopters",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.414273,57.788364,-152.414273,57.788364],
+  "geometry": {"coordinates":[-152.414273,57.788364],"type":"Point"}
+}

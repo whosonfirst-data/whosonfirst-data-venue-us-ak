@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.403607,58.28108,-134.403607,58.28108",
+    "geom:latitude":58.28108,
+    "geom:longitude":-134.403607,
+    "iso:country":"US",
+    "sg:address":"1789 Douglas Hwy",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 364 2900",
+    "sg:postcode":"99824",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1E1z9Qzc7mzFRlD3iSEsN1_58.281080_-134.403607@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"05ce36418ef048eefaafd59dc4e9c56b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102156877"
+        }
+    ],
+    "wof:id":"102156877",
+    "wof:lastmodified":1449068283,
+    "wof:name":"Alaska Dream Inn",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.403607,58.28108,-134.403607,58.28108],
+  "geometry": {"coordinates":[-134.403607,58.28108],"type":"Point"}
+}

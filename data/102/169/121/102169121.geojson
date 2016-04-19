@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.938704,61.195324,-149.938704,61.195324",
+    "geom:latitude":61.195324,
+    "geom:longitude":-149.938704,
+    "iso:country":"US",
+    "sg:address":"3104 W Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 9778",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SbORJQ6Ko7IctNp2VvRen_61.195324_-149.938704@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c3f815c83cd3b9a3c5e77a89eaceb97f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102169121"
+        }
+    ],
+    "wof:id":"102169121",
+    "wof:lastmodified":1449069248,
+    "wof:name":"Munson General Contracting",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.938704,61.195324,-149.938704,61.195324],
+  "geometry": {"coordinates":[-149.938704,61.195324],"type":"Point"}
+}

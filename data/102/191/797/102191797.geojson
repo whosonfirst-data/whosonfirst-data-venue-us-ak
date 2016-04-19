@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.880872,61.167151,-149.880872,61.167151",
+    "geom:latitude":61.167151,
+    "geom:longitude":-149.880872,
+    "iso:country":"US",
+    "sg:address":"127 E Potter Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 7849",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cpeAoLKbP0qvLoUH3MvTn_61.167151_-149.880872@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"445bcea15150b23cfd66620d4d91c3b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102191797"
+        }
+    ],
+    "wof:id":"102191797",
+    "wof:lastmodified":1449069204,
+    "wof:name":"Flyway Farm LLC",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.880872,61.167151,-149.880872,61.167151],
+  "geometry": {"coordinates":[-149.880872,61.167151],"type":"Point"}
+}

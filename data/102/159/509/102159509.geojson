@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.852749,61.147732,-149.852749,61.147732",
+    "geom:latitude":61.147732,
+    "geom:longitude":-149.852749,
+    "iso:country":"US",
+    "sg:address":"7940 Sandlewood Pl",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 7757",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YyFBWEaeCDcTphgNt25rt_61.147732_-149.852749@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"858aba38886961523fe66a4ea003563d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102159509"
+        }
+    ],
+    "wof:id":"102159509",
+    "wof:lastmodified":1449068092,
+    "wof:name":"Anchorage Door Inc",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.852749,61.147732,-149.852749,61.147732],
+  "geometry": {"coordinates":[-149.852749,61.147732],"type":"Point"}
+}

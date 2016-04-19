@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.255967,61.609552,-149.255967,61.609552",
+    "geom:latitude":61.609552,
+    "geom:longitude":-149.255967,
+    "iso:country":"US",
+    "sg:address":"2700 Greenforest Dr",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 4540",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916225,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E3dtktzCgF5de96p8YDTb_61.609552_-149.255967@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6fe33b5b79b65dcfdf28de935eebdb1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916225,
+            "region_id":85688573,
+            "venue_id":"102152733"
+        }
+    ],
+    "wof:id":"102152733",
+    "wof:lastmodified":1449069635,
+    "wof:name":"Finger Lake Bed & Breakfast",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.255967,61.609552,-149.255967,61.609552],
+  "geometry": {"coordinates":[-149.255967,61.609552],"type":"Point"}
+}

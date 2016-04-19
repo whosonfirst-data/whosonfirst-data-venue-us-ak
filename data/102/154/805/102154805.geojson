@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.819019,61.203886,-149.819019,61.203886",
+    "geom:latitude":61.203886,
+    "geom:longitude":-149.819019,
+    "iso:country":"US",
+    "sg:address":"1806 Rosemary St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 4636",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "artist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Xv3YSKqWqLjvZOiKj98r9_61.203886_-149.819019@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ca5c1adcc324ba60ce398d8ca8ffe3da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102154805"
+        }
+    ],
+    "wof:id":"102154805",
+    "wof:lastmodified":1449070243,
+    "wof:name":"Phil Mc Guire Portraits",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.819019,61.203886,-149.819019,61.203886],
+  "geometry": {"coordinates":[-149.819019,61.203886],"type":"Point"}
+}

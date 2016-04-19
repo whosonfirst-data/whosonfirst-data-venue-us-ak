@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.381476,56.466224,-132.381476,56.466224",
+    "geom:latitude":56.466224,
+    "geom:longitude":-132.381476,
+    "iso:country":"US",
+    "sg:address":"274 Shakes St",
+    "sg:city":"Wrangell",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 874 3005",
+    "sg:postcode":"99929",
+    "sg:province":"AK",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916111,
+        85633793,
+        85688573,
+        102081901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mYX4f3kEIP9DfVPdPufTM_56.466224_-132.381476@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"19cdebb19a3854ec198e6554a1e43f02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081901,
+            "locality_id":85916111,
+            "region_id":85688573,
+            "venue_id":"102170353"
+        }
+    ],
+    "wof:id":"102170353",
+    "wof:lastmodified":1449068018,
+    "wof:name":"Marine Bar",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.381476,56.466224,-132.381476,56.466224],
+  "geometry": {"coordinates":[-132.381476,56.466224],"type":"Point"}
+}

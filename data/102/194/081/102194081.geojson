@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.824986,61.219132,-149.824986,61.219132",
+    "geom:latitude":61.219132,
+    "geom:longitude":-149.824986,
+    "iso:country":"US",
+    "sg:address":"3215 Mountain View Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 1234",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k6fizp2cPfuk63vd97LuZ_61.219132_-149.824986@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b9c8f5936886b9c627a6693eed8b42b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102194081"
+        }
+    ],
+    "wof:id":"102194081",
+    "wof:lastmodified":1449069828,
+    "wof:name":"Anchorage Checker Cab",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.824986,61.219132,-149.824986,61.219132],
+  "geometry": {"coordinates":[-149.824986,61.219132],"type":"Point"}
+}

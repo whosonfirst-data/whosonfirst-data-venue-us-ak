@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.112008,61.602363,-149.112008,61.602363",
+    "geom:latitude":61.602363,
+    "geom:longitude":-149.112008,
+    "iso:country":"US",
+    "sg:address":"453 S Valley Way",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 746 9136",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915577,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MiWbp6xkFhtNVmV4jpDLB_61.602363_-149.112008@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ecc3405fa69b05ead51edf11663396c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915577,
+            "region_id":85688573,
+            "venue_id":"102174893"
+        }
+    ],
+    "wof:id":"102174893",
+    "wof:lastmodified":1449068140,
+    "wof:name":"Fish & Wildlife Protection",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.112008,61.602363,-149.112008,61.602363],
+  "geometry": {"coordinates":[-149.112008,61.602363],"type":"Point"}
+}

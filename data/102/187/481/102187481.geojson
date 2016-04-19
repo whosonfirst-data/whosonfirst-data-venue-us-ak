@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.393983,58.276275,-134.393983,58.276275",
+    "geom:latitude":58.276275,
+    "geom:longitude":-134.393983,
+    "iso:country":"US",
+    "sg:address":"916 3rd St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 364 3307",
+    "sg:postcode":"99824",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915729,
+        85633793,
+        85688573,
+        102081399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FqjfNu6q15dAxktLTgaZx_58.276275_-134.393983@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"64b1f69fafa671ccaa99c20e00bb9d2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "region_id":85688573,
+            "venue_id":"102187481"
+        }
+    ],
+    "wof:id":"102187481",
+    "wof:lastmodified":1449068160,
+    "wof:name":"Douglas Cafe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.393983,58.276275,-134.393983,58.276275],
+  "geometry": {"coordinates":[-134.393983,58.276275],"type":"Point"}
+}

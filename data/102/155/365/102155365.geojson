@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.703356,64.847895,-147.703356,64.847895",
+    "geom:latitude":64.847895,
+    "geom:longitude":-147.703356,
+    "iso:country":"US",
+    "sg:address":"250 3rd St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 4774",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Os32sPvX8NNFNh4WrvReN_64.847895_-147.703356@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c545c4935e6a6ecebb69a590352a9130",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102155365"
+        }
+    ],
+    "wof:id":"102155365",
+    "wof:lastmodified":1449069743,
+    "wof:name":"Sentry Hardware",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.703356,64.847895,-147.703356,64.847895],
+  "geometry": {"coordinates":[-147.703356,64.847895],"type":"Point"}
+}

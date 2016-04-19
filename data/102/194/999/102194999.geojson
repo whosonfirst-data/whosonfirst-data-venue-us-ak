@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.884694,61.230869,-149.884694,61.230869",
+    "geom:latitude":61.230869,
+    "geom:longitude":-149.884694,
+    "iso:country":"US",
+    "sg:address":"210 E Bluff Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 264 7000",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873711,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fF6oFrpl68tmV8SfxFDSQ_61.230869_-149.884694@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b1418b5c02a6d71662ef28aba7b01b67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873711,
+            "region_id":85688573,
+            "venue_id":"102194999"
+        }
+    ],
+    "wof:id":"102194999",
+    "wof:lastmodified":1449069830,
+    "wof:name":"A T & T Alascom Inc",
+    "wof:parent_id":85873711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.884694,61.230869,-149.884694,61.230869],
+  "geometry": {"coordinates":[-149.884694,61.230869],"type":"Point"}
+}

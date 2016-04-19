@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.072217,60.489506,-151.072217,60.489506",
+    "geom:latitude":60.489506,
+    "geom:longitude":-151.072217,
+    "iso:country":"US",
+    "sg:address":"144 N Binkley St",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 4441",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "village"
+    ],
+    "sg:website":"www.borough.kenai.ak.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Jk6Nd4oF6GAorPck0fIYp_60.489506_-151.072217@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3a0db4281d5b7f3bebe70af62c6c96cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102182371"
+        }
+    ],
+    "wof:id":"102182371",
+    "wof:lastmodified":1449069279,
+    "wof:name":"Kenai Peninsula Borough",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.072217,60.489506,-151.072217,60.489506],
+  "geometry": {"coordinates":[-151.072217,60.489506],"type":"Point"}
+}

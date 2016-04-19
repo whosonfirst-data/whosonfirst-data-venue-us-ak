@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-150.914915,60.483037,-150.914915,60.483037",
+    "geom:latitude":60.483037,
+    "geom:longitude":-150.914915,
+    "iso:country":"US",
+    "sg:address":"34040 Forest Ln",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 3802",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916845,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UPvoDQ7NqWat0HGLp4kRE_60.483037_-150.914915@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ebfe8d9785db0ff24eb922c36e1a1802",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916845,
+            "region_id":85688573,
+            "venue_id":"102170199"
+        }
+    ],
+    "wof:id":"102170199",
+    "wof:lastmodified":1449068018,
+    "wof:name":"Peninsula Taxidermy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-150.914915,60.483037,-150.914915,60.483037],
+  "geometry": {"coordinates":[-150.914915,60.483037],"type":"Point"}
+}

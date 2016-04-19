@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.673821,64.852234,-147.673821,64.852234",
+    "geom:latitude":64.852234,
+    "geom:longitude":-147.673821,
+    "iso:country":"US",
+    "sg:address":"460 Droz Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 3210",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51fzarAAdHNO0N0JKmX4SP_64.852234_-147.673821@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9497b243191613b850ebde7cb51c77bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102166961"
+        }
+    ],
+    "wof:id":"102166961",
+    "wof:lastmodified":1449069089,
+    "wof:name":"B & B Electric",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.673821,64.852234,-147.673821,64.852234],
+  "geometry": {"coordinates":[-147.673821,64.852234],"type":"Point"}
+}

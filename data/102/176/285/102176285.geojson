@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.490644,58.343203,-134.490644,58.343203",
+    "geom:latitude":58.343203,
+    "geom:longitude":-134.490644,
+    "iso:country":"US",
+    "sg:address":"1302 Abby Ct",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 780 4646",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853509,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W3EG2RLc7YZylcedJKoR7_58.343203_-134.490644@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d0319045db8c081ef5259dfa4263aba0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85853509,
+            "region_id":85688573,
+            "venue_id":"102176285"
+        }
+    ],
+    "wof:id":"102176285",
+    "wof:lastmodified":1449069342,
+    "wof:name":"Stephens Passage Dev Co",
+    "wof:parent_id":85853509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.490644,58.343203,-134.490644,58.343203],
+  "geometry": {"coordinates":[-134.490644,58.343203],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.931387,61.173571,-149.931387,61.173571",
+    "geom:latitude":61.173571,
+    "geom:longitude":-149.931387,
+    "iso:country":"US",
+    "sg:address":"2831 W International Airport Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 4509",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5evvAPNbunCJCV0g2gMeTy_61.173571_-149.931387@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2729b9f3a0e40644a8ef5c6c33079715",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102187889"
+        }
+    ],
+    "wof:id":"102187889",
+    "wof:lastmodified":1449068153,
+    "wof:name":"Alaska Development Services",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.931387,61.173571,-149.931387,61.173571],
+  "geometry": {"coordinates":[-149.931387,61.173571],"type":"Point"}
+}

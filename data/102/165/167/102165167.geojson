@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.716669,64.84996,-147.716669,64.84996",
+    "geom:latitude":64.84996,
+    "geom:longitude":-147.716669,
+    "iso:country":"US",
+    "sg:address":"302 Charles St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 0435",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tmB3NTGvz8v0ebhMjpjtH_64.849960_-147.716669@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"24d98da2797edb43c98b32a20f659f7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102165167"
+        }
+    ],
+    "wof:id":"102165167",
+    "wof:lastmodified":1449070214,
+    "wof:name":"Alaskan House Bed & Breakfast",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.716669,64.84996,-147.716669,64.84996],
+  "geometry": {"coordinates":[-147.716669,64.84996],"type":"Point"}
+}

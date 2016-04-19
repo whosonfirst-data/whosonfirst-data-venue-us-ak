@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.116392,60.562361,-151.116392,60.562361",
+    "geom:latitude":60.562361,
+    "geom:longitude":-151.116392,
+    "iso:country":"US",
+    "sg:address":"5839 Kenai Spur Hwy",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 3362",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dmiMhRXeeULnzbHdXQoVR_60.562361_-151.116392@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b72640815a1e47724b5ca604c23ccb53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102170111"
+        }
+    ],
+    "wof:id":"102170111",
+    "wof:lastmodified":1449068023,
+    "wof:name":"Tim's Carpet & Steam Cleaning",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.116392,60.562361,-151.116392,60.562361],
+  "geometry": {"coordinates":[-151.116392,60.562361],"type":"Point"}
+}

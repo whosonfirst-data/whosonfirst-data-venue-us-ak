@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.893481,61.216584,-149.893481,61.216584",
+    "geom:latitude":61.216584,
+    "geom:longitude":-149.893481,
+    "iso:country":"US",
+    "sg:address":"500 W 6th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 7953",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KEP8z2W2y4ZOZQW9WnQVC_61.216584_-149.893481@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"04acf8db4de14fb7911b97cf1529c7bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102148397"
+        }
+    ],
+    "wof:id":"102148397",
+    "wof:lastmodified":1449069785,
+    "wof:name":"Firenze Design",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.893481,61.216584,-149.893481,61.216584],
+  "geometry": {"coordinates":[-149.893481,61.216584],"type":"Point"}
+}

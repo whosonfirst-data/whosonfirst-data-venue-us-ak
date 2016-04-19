@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.491614,58.349851,-134.491614,58.349851",
+    "geom:latitude":58.349851,
+    "geom:longitude":-134.491614,
+    "iso:country":"US",
+    "sg:address":"5157 Glacier Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 780 6051",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "bars",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vdRrlmVnayo0E6PO6pw4t_58.349851_-134.491614@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd91e4d7b756c9e364c956d28ca8a0bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102196423"
+        }
+    ],
+    "wof:id":"102196423",
+    "wof:lastmodified":1449068336,
+    "wof:name":"Cornerstone Expresso",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.491614,58.349851,-134.491614,58.349851],
+  "geometry": {"coordinates":[-134.491614,58.349851],"type":"Point"}
+}

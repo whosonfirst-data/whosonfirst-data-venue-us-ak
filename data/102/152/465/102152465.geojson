@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.675491,55.349599,-131.675491,55.349599",
+    "geom:latitude":55.349599,
+    "geom:longitude":-131.675491,
+    "iso:country":"US",
+    "sg:address":"2603 Tongass Ave",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 4492",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pXxb2n8D7pdyYTTsYHh8U_55.349599_-131.675491@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"834fb9ea49e32061f1d64e473edb6554",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102152465"
+        }
+    ],
+    "wof:id":"102152465",
+    "wof:lastmodified":1449069635,
+    "wof:name":"F V Oddie",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.675491,55.349599,-131.675491,55.349599],
+  "geometry": {"coordinates":[-131.675491,55.349599],"type":"Point"}
+}

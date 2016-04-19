@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.889479,61.215857,-149.889479,61.215857",
+    "geom:latitude":61.215857,
+    "geom:longitude":-149.889479,
+    "iso:country":"US",
+    "sg:address":"626 D St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 8808",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:website":"www.berniesbungalowlounge.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hgr40cfs1BhrbSaxLj8pk_61.215857_-149.889479@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2fb69fe1d089e6fea810c9e68b029e66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102181241"
+        }
+    ],
+    "wof:id":"102181241",
+    "wof:lastmodified":1449069237,
+    "wof:name":"Bernie's Bungalow",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.889479,61.215857,-149.889479,61.215857],
+  "geometry": {"coordinates":[-149.889479,61.215857],"type":"Point"}
+}

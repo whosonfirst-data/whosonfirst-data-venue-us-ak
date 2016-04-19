@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.732885,64.809324,-147.732885,64.809324",
+    "geom:latitude":64.809324,
+    "geom:longitude":-147.732885,
+    "iso:country":"US",
+    "sg:address":"1285 Queens Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 3320",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "drink",
+        "soft",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1My9oqG1HdgrdWEX7xtIDg_64.809324_-147.732885@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d2d548fd760585fa29bf31623de75f96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102188039"
+        }
+    ],
+    "wof:id":"102188039",
+    "wof:lastmodified":1449068947,
+    "wof:name":"Bills Distributing Inc",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.732885,64.809324,-147.732885,64.809324],
+  "geometry": {"coordinates":[-147.732885,64.809324],"type":"Point"}
+}

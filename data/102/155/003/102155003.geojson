@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-145.762911,60.543233,-145.762911,60.543233",
+    "geom:latitude":60.543233,
+    "geom:longitude":-145.762911,
+    "iso:country":"US",
+    "sg:address":"114 Nicholoff Way",
+    "sg:city":"Cordova",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 424 6400",
+    "sg:postcode":"99574",
+    "sg:province":"AK",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915567,
+        85633793,
+        85688573,
+        102081911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qshztZGXbkuxfcmmbgmQy_60.543233_-145.762911@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d0eaae685f1984ba9436fb08802504bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915567,
+            "region_id":85688573,
+            "venue_id":"102155003"
+        }
+    ],
+    "wof:id":"102155003",
+    "wof:lastmodified":1449069746,
+    "wof:name":"Cordova Harbor & Port Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-145.762911,60.543233,-145.762911,60.543233],
+  "geometry": {"coordinates":[-145.762911,60.543233],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.70219,64.810338,-147.70219,64.810338",
+    "geom:latitude":64.810338,
+    "geom:longitude":-147.70219,
+    "iso:country":"US",
+    "sg:address":"3690 Braddock St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 1905",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rh9OSuglHLZkLmGWSE4Q7_64.810338_-147.702190@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3e87540fdd283a965ddb964a9b5ac637",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102168419"
+        }
+    ],
+    "wof:id":"102168419",
+    "wof:lastmodified":1449069009,
+    "wof:name":"Inland Petroservice Inc",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.70219,64.810338,-147.70219,64.810338],
+  "geometry": {"coordinates":[-147.70219,64.810338],"type":"Point"}
+}

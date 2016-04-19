@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.966258,61.15514,-149.966258,61.15514",
+    "geom:latitude":61.15514,
+    "geom:longitude":-149.966258,
+    "iso:country":"US",
+    "sg:address":"4681 Cascade Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 4804",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tile",
+        "dealer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vZTWFBCQd9Fm07fi3s8Xq_61.155140_-149.966258@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ab0ccd3c8887217056120dc03073a67c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102192403"
+        }
+    ],
+    "wof:id":"102192403",
+    "wof:lastmodified":1449069504,
+    "wof:name":"W & W Company of Alaska Inc",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.966258,61.15514,-149.966258,61.15514],
+  "geometry": {"coordinates":[-149.966258,61.15514],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.542256,64.799552,-147.542256,64.799552",
+    "geom:latitude":64.799552,
+    "geom:longitude":-147.542256,
+    "iso:country":"US",
+    "sg:address":"1512 Peggy St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 322 6274",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916555,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76UdobEoplzUKOfGoxfXQu_64.799552_-147.542256@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"24ed82b570a3d440bfc906aeb3c6de17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916555,
+            "region_id":85688573,
+            "venue_id":"102163085"
+        }
+    ],
+    "wof:id":"102163085",
+    "wof:lastmodified":1449070160,
+    "wof:name":"S & S Towing & Recovery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.542256,64.799552,-147.542256,64.799552],
+  "geometry": {"coordinates":[-147.542256,64.799552],"type":"Point"}
+}

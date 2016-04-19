@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.899589,61.21461,-149.899589,61.21461",
+    "geom:latitude":61.21461,
+    "geom:longitude":-149.899589,
+    "iso:country":"US",
+    "sg:address":"700 I St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 222 7738",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "linen",
+        "supply"
+    ],
+    "sg:website":"www.snowwhitelinen.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873721,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Tj481zaXPETIuZqOAMbrO_61.214610_-149.899589@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"44d806ce359325c3ae375375b7994e2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873721,
+            "region_id":85688573,
+            "venue_id":"102164781"
+        }
+    ],
+    "wof:id":"102164781",
+    "wof:lastmodified":1449068084,
+    "wof:name":"Snow White Linen Supply",
+    "wof:parent_id":85873721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.899589,61.21461,-149.899589,61.21461],
+  "geometry": {"coordinates":[-149.899589,61.21461],"type":"Point"}
+}

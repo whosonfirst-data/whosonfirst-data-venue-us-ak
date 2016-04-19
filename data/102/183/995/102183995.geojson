@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.755134,64.817917,-147.755134,64.817917",
+    "geom:latitude":64.817917,
+    "geom:longitude":-147.755134,
+    "iso:country":"US",
+    "sg:address":"3319 Industrial Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 0331",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cXpn0dURAfPXJ4b9fLqcg_64.817917_-147.755134@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e8efa2c47c4d8017485ef00b10b1fb7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102183995"
+        }
+    ],
+    "wof:id":"102183995",
+    "wof:lastmodified":1449069042,
+    "wof:name":"AES Pipeline Power",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.755134,64.817917,-147.755134,64.817917],
+  "geometry": {"coordinates":[-147.755134,64.817917],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.445473,59.234951,-135.445473,59.234951",
+    "geom:latitude":59.234951,
+    "geom:longitude":-135.445473,
+    "iso:country":"US",
+    "sg:address":"205 Main St",
+    "sg:city":"Haines",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 766 6500",
+    "sg:postcode":"99827",
+    "sg:province":"AK",
+    "sg:tags":[
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842771,
+        85633793,
+        85916629,
+        102083767,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EVUFEe83h3ok7jelJouB3_59.234951_-135.445473@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f81ea5bbab9583b2c6164271a62e9f0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083767,
+            "locality_id":85916629,
+            "neighbourhood_id":85842771,
+            "region_id":85688573,
+            "venue_id":"102162629"
+        }
+    ],
+    "wof:id":"102162629",
+    "wof:lastmodified":1449069824,
+    "wof:name":"Alaska Power & Telephone Co",
+    "wof:parent_id":85842771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.445473,59.234951,-135.445473,59.234951],
+  "geometry": {"coordinates":[-135.445473,59.234951],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.978937,61.154933,-149.978937,61.154933",
+    "geom:latitude":61.154933,
+    "geom:longitude":-149.978937,
+    "iso:country":"US",
+    "sg:address":"7315 Violet Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 5500",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2t6JHeZ0mxC6AnB0E8sOvT_61.154933_-149.978937@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b9d6cfb36908e1597638c63314b23457",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102162593"
+        }
+    ],
+    "wof:id":"102162593",
+    "wof:lastmodified":1449069823,
+    "wof:name":"Big Green Lawn Maintenance",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.978937,61.154933,-149.978937,61.154933],
+  "geometry": {"coordinates":[-149.978937,61.154933],"type":"Point"}
+}

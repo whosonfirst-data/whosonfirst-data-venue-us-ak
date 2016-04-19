@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.244046,60.565418,-151.244046,60.565418",
+    "geom:latitude":60.565418,
+    "geom:longitude":-151.244046,
+    "iso:country":"US",
+    "sg:address":"305 N Willow St",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 7951",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ysi81AprfnJGwbslKO7m5_60.565418_-151.244046@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"49576243a1d9bc07df6d176438506707",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102182083"
+        }
+    ],
+    "wof:id":"102182083",
+    "wof:lastmodified":1449069280,
+    "wof:name":"Kenai Airport Manager",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.244046,60.565418,-151.244046,60.565418],
+  "geometry": {"coordinates":[-151.244046,60.565418],"type":"Point"}
+}

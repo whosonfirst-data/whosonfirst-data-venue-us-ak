@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.110681,61.597809,-149.110681,61.597809",
+    "geom:latitude":61.597809,
+    "geom:longitude":-149.110681,
+    "iso:country":"US",
+    "sg:address":"831 S Chugach St",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 5454",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "counseling",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915577,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29v3O5mE109hQAa93VL3pA_61.597809_-149.110681@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e3e131ca1a02fb681d6d82310b72c0f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915577,
+            "region_id":85688573,
+            "venue_id":"102157111"
+        }
+    ],
+    "wof:id":"102157111",
+    "wof:lastmodified":1449069833,
+    "wof:name":"Palmer Senior Citizens Ctr Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.110681,61.597809,-149.110681,61.597809],
+  "geometry": {"coordinates":[-149.110681,61.597809],"type":"Point"}
+}

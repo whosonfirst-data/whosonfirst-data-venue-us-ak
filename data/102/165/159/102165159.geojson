@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.859052,61.180925,-149.859052,61.180925",
+    "geom:latitude":61.180925,
+    "geom:longitude":-149.859052,
+    "iso:country":"US",
+    "sg:address":"1415 E Tudor Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 2255",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XnJIs6hBApyecQccP6dFV_61.180925_-149.859052@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ac948cdb3109e5c4491fd0439ba83584",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102165159"
+        }
+    ],
+    "wof:id":"102165159",
+    "wof:lastmodified":1449070214,
+    "wof:name":"Alaska World Tours",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.859052,61.180925,-149.859052,61.180925],
+  "geometry": {"coordinates":[-149.859052,61.180925],"type":"Point"}
+}

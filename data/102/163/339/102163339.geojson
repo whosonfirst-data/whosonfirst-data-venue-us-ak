@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.250795,60.559287,-151.250795,60.559287",
+    "geom:latitude":60.559287,
+    "geom:longitude":-151.250795,
+    "iso:country":"US",
+    "sg:address":"105 S Willow St",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 7666",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JhJEWbOidxZgKiDPDUdhu_60.559287_-151.250795@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f170bd2ed7b72cfa39c952ce5fe9a6b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102163339"
+        }
+    ],
+    "wof:id":"102163339",
+    "wof:lastmodified":1449070160,
+    "wof:name":"Kenai Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.250795,60.559287,-151.250795,60.559287],
+  "geometry": {"coordinates":[-151.250795,60.559287],"type":"Point"}
+}

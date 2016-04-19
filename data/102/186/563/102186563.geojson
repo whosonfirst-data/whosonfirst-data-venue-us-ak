@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.860767,61.154984,-149.860767,61.154984",
+    "geom:latitude":61.154984,
+    "geom:longitude":-149.860767,
+    "iso:country":"US",
+    "sg:address":"1107 E 72nd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 9242",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m2iXgh7ZpvhiBOyGda3MA_61.154984_-149.860767@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7c854ab3e556f7cf8659a59ddc4919dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102186563"
+        }
+    ],
+    "wof:id":"102186563",
+    "wof:lastmodified":1449069653,
+    "wof:name":"John's Mechanic Svc",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.860767,61.154984,-149.860767,61.154984],
+  "geometry": {"coordinates":[-149.860767,61.154984],"type":"Point"}
+}

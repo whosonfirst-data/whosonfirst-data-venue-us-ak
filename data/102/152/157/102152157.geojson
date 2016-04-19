@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.729138,64.859329,-147.729138,64.859329",
+    "geom:latitude":64.859329,
+    "geom:longitude":-147.729138,
+    "iso:country":"US",
+    "sg:address":"910 College Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 7210",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tackle",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830247,
+        85633793,
+        85916559,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zJkMoB3p5ka1Xy4vvoiCX_64.859329_-147.729138@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f468adf0c8798c8d80e8bb0e0aa7288c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "neighbourhood_id":85830247,
+            "region_id":85688573,
+            "venue_id":"102152157"
+        }
+    ],
+    "wof:id":"102152157",
+    "wof:lastmodified":1449069636,
+    "wof:name":"J & L Sports",
+    "wof:parent_id":85830247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.729138,64.859329,-147.729138,64.859329],
+  "geometry": {"coordinates":[-147.729138,64.859329],"type":"Point"}
+}

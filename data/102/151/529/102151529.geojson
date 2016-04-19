@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.758206,64.862242,-147.758206,64.862242",
+    "geom:latitude":64.862242,
+    "geom:longitude":-147.758206,
+    "iso:country":"US",
+    "sg:address":"1772 Tamarack St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 3833",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mfg",
+        "motorcycle",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869043,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uIqTPMEgsdHLsz36MrWcF_64.862242_-147.758206@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"418d992d69d52fa0a734efbfc13f296f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85869043,
+            "region_id":85688573,
+            "venue_id":"102151529"
+        }
+    ],
+    "wof:id":"102151529",
+    "wof:lastmodified":1449067781,
+    "wof:name":"Fairbanks Sign & Graphics Co",
+    "wof:parent_id":85869043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.758206,64.862242,-147.758206,64.862242],
+  "geometry": {"coordinates":[-147.758206,64.862242],"type":"Point"}
+}

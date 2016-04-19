@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.836272,61.109328,-149.836272,61.109328",
+    "geom:latitude":61.109328,
+    "geom:longitude":-149.836272,
+    "iso:country":"US",
+    "sg:address":"2441 Winterchase Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 336 5282",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "bars",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2h8OFF3gfyMFCLZAzUDHoZ_61.109328_-149.836272@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c5c7356173f4b3f35f2d22cb7771edfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102186809"
+        }
+    ],
+    "wof:id":"102186809",
+    "wof:lastmodified":1449069655,
+    "wof:name":"C & K Espresso",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.836272,61.109328,-149.836272,61.109328],
+  "geometry": {"coordinates":[-149.836272,61.109328],"type":"Point"}
+}

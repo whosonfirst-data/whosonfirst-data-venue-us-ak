@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.748525,61.20523,-149.748525,61.20523",
+    "geom:latitude":61.20523,
+    "geom:longitude":-149.748525,
+    "iso:country":"US",
+    "sg:address":"7020 Potomac Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 8082",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "glassware",
+        "chinaware"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MlQg30OjCB83XrTeyH90v_61.205230_-149.748525@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"de130fb69eac4b8b0b613f2c4678befe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102161757"
+        }
+    ],
+    "wof:id":"102161757",
+    "wof:lastmodified":1449068711,
+    "wof:name":"Princess House Inc",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.748525,61.20523,-149.748525,61.20523],
+  "geometry": {"coordinates":[-149.748525,61.20523],"type":"Point"}
+}

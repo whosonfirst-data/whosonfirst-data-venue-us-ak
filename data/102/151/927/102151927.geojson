@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.731891,61.105637,-149.731891,61.105637",
+    "geom:latitude":61.105637,
+    "geom:longitude":-149.731891,
+    "iso:country":"US",
+    "sg:address":"12620 Neher Ridge Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Aquatic Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 240 8344",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "fish"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873747,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vYt9zKFWZYt5KxBgj0Z1g_61.105637_-149.731891@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"365299f21363f490135c607c06ffedb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873747,
+            "region_id":85688573,
+            "venue_id":"102151927"
+        }
+    ],
+    "wof:id":"102151927",
+    "wof:lastmodified":1449067782,
+    "wof:name":"Knight Fisheries Inc",
+    "wof:parent_id":85873747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.731891,61.105637,-149.731891,61.105637],
+  "geometry": {"coordinates":[-149.731891,61.105637],"type":"Point"}
+}

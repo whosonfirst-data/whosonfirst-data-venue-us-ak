@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.69941,64.844458,-147.69941,64.844458",
+    "geom:latitude":64.844458,
+    "geom:longitude":-147.69941,
+    "iso:country":"US",
+    "sg:address":"529 Front St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 6328",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "canvas",
+        "product",
+        "related"
+    ],
+    "sg:website":"www.alaskatent.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BGJObr15kM7bd3CmdjgSj_64.844458_-147.699410@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f34aad5c33e14f1fa03f1b9964ca3c3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102153655"
+        }
+    ],
+    "wof:id":"102153655",
+    "wof:lastmodified":1449069463,
+    "wof:name":"Alaska Tent & Tarp Inc",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.69941,64.844458,-147.69941,64.844458],
+  "geometry": {"coordinates":[-147.69941,64.844458],"type":"Point"}
+}

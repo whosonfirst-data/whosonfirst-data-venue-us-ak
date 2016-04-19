@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.654217,64.871769,-147.654217,64.871769",
+    "geom:latitude":64.871769,
+    "geom:longitude":-147.654217,
+    "iso:country":"US",
+    "sg:address":"269 Topside Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 3412",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "textile",
+        "product",
+        "fabricated",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r8D2PpAlRnQOuJJAZ6UbV_64.871769_-147.654217@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"deb1479738565a82035cbb356d896f3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102157813"
+        }
+    ],
+    "wof:id":"102157813",
+    "wof:lastmodified":1449069831,
+    "wof:name":"Logan Ricketts",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.654217,64.871769,-147.654217,64.871769],
+  "geometry": {"coordinates":[-147.654217,64.871769],"type":"Point"}
+}

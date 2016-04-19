@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.39304,57.795532,-152.39304,57.795532",
+    "geom:latitude":57.795532,
+    "geom:longitude":-152.39304,
+    "iso:country":"US",
+    "sg:address":"125 Powell Ave",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 9421",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GdGqMH96TMdncs1MgDpOb_57.795532_-152.393040@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"131a460f1e4505b5b45516c780a19c91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102163179"
+        }
+    ],
+    "wof:id":"102163179",
+    "wof:lastmodified":1449070166,
+    "wof:name":"Alaska Army National Guard",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.39304,57.795532,-152.39304,57.795532],
+  "geometry": {"coordinates":[-152.39304,57.795532],"type":"Point"}
+}

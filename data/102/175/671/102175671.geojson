@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.350572,61.573663,-149.350572,61.573663",
+    "geom:latitude":61.573663,
+    "geom:longitude":-149.350572,
+    "iso:country":"US",
+    "sg:address":"905 S Vicki Way",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 7834",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916225,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IK6dc5QStK6WQ1bYdZgpA_61.573663_-149.350572@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f44ff5287a28bcfd350c044058331cf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916225,
+            "region_id":85688573,
+            "venue_id":"102175671"
+        }
+    ],
+    "wof:id":"102175671",
+    "wof:lastmodified":1449069464,
+    "wof:name":"Fubar Equipment Enterprise",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.350572,61.573663,-149.350572,61.573663],
+  "geometry": {"coordinates":[-149.350572,61.573663],"type":"Point"}
+}

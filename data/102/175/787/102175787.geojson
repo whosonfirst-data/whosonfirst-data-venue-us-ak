@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.824128,64.843194,-147.824128,64.843194",
+    "geom:latitude":64.843194,
+    "geom:longitude":-147.824128,
+    "iso:country":"US",
+    "sg:address":"4040 Birch Ln",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Leather Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 6711",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_473JXcin1s8BI54Fwzc4CN_64.843194_-147.824128@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fbdceb6f0d15da5c33dc10fb8b9da47c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102175787"
+        }
+    ],
+    "wof:id":"102175787",
+    "wof:lastmodified":1449069465,
+    "wof:name":"Terra Alaska Inc",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.824128,64.843194,-147.824128,64.843194],
+  "geometry": {"coordinates":[-147.824128,64.843194],"type":"Point"}
+}

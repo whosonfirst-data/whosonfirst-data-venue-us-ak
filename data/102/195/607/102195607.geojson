@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.825599,61.209788,-149.825599,61.209788",
+    "geom:latitude":61.209788,
+    "geom:longitude":-149.825599,
+    "iso:country":"US",
+    "sg:address":"2925 Debarr Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 257 4950",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hskSvtiVx6xIdVYWtWO3R_61.209788_-149.825599@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f1eaff361728ac38b6c0b8993e304bc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102195607"
+        }
+    ],
+    "wof:id":"102195607",
+    "wof:lastmodified":1449069362,
+    "wof:name":"Veteran Affairs Outptnt Clnc",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.825599,61.209788,-149.825599,61.209788],
+  "geometry": {"coordinates":[-149.825599,61.209788],"type":"Point"}
+}

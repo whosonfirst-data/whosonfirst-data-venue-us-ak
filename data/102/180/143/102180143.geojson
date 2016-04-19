@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.913265,61.181767,-149.913265,61.181767",
+    "geom:latitude":61.181767,
+    "geom:longitude":-149.913265,
+    "iso:country":"US",
+    "sg:address":"1508 W 43rd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 868 3638",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hkqrzVL3ML20THvMqNBX9_61.181767_-149.913265@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bc31bddc15b32099ead0aface1bde04b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102180143"
+        }
+    ],
+    "wof:id":"102180143",
+    "wof:lastmodified":1449067877,
+    "wof:name":"Maple Leaf Builders",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.913265,61.181767,-149.913265,61.181767],
+  "geometry": {"coordinates":[-149.913265,61.181767],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.863895,61.138877,-149.863895,61.138877",
+    "geom:latitude":61.138877,
+    "geom:longitude":-149.863895,
+    "iso:country":"US",
+    "sg:address":"9191 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 9274",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VRM0qOMhlLtASPVBqWw0o_61.138877_-149.863895@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"51868b5fe530fc20ddf34c61dd1f9977",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102179167"
+        }
+    ],
+    "wof:id":"102179167",
+    "wof:lastmodified":1449069941,
+    "wof:name":"Pet Xpress/The Dog Wash",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.863895,61.138877,-149.863895,61.138877],
+  "geometry": {"coordinates":[-149.863895,61.138877],"type":"Point"}
+}

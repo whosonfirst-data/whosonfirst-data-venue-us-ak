@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.806994,64.851571,-147.806994,64.851571",
+    "geom:latitude":64.851571,
+    "geom:longitude":-147.806994,
+    "iso:country":"US",
+    "sg:address":"2006 Sandvik St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 4918",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TdRo9XSaPRf9kWVWqltrT_64.851571_-147.806994@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"371080200017fab51b80e74f45219ce3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102183443"
+        }
+    ],
+    "wof:id":"102183443",
+    "wof:lastmodified":1449069043,
+    "wof:name":"Parkwest Apartments",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.806994,64.851571,-147.806994,64.851571],
+  "geometry": {"coordinates":[-147.806994,64.851571],"type":"Point"}
+}

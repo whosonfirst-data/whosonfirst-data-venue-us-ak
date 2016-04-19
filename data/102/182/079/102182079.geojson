@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.859153,61.160171,-149.859153,61.160171",
+    "geom:latitude":61.160171,
+    "geom:longitude":-149.859153,
+    "iso:country":"US",
+    "sg:address":"6707 Greenwood St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 6805",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s1GXAPKitnH9z5EmFw5fk_61.160171_-149.859153@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"af518b2dcd42bc1d7ab3c17346895a6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102182079"
+        }
+    ],
+    "wof:id":"102182079",
+    "wof:lastmodified":1449069281,
+    "wof:name":"Alaska Cab Co",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.859153,61.160171,-149.859153,61.160171],
+  "geometry": {"coordinates":[-149.859153,61.160171],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.723678,64.845288,-147.723678,64.845288",
+    "geom:latitude":64.845288,
+    "geom:longitude":-147.723678,
+    "iso:country":"US",
+    "sg:address":"112 N Turner St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tattoo Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 458 7464",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tattooing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iNIT1SJ2v3cQ5VpOC9C5U_64.845288_-147.723678@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ba950514f92361241708d12ab73f9582",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102165415"
+        }
+    ],
+    "wof:id":"102165415",
+    "wof:lastmodified":1449070217,
+    "wof:name":"Body Piercing Unlimited",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.723678,64.845288,-147.723678,64.845288],
+  "geometry": {"coordinates":[-147.723678,64.845288],"type":"Point"}
+}

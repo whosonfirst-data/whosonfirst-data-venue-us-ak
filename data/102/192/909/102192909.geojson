@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.888537,61.168586,-149.888537,61.168586",
+    "geom:latitude":61.168586,
+    "geom:longitude":-149.888537,
+    "iso:country":"US",
+    "sg:address":"5761 Silverado Way",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 1000",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.ntlalaska.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1t9TCTu2eOiCrLzFxDOnlj_61.168586_-149.888537@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0616096240f1dd9328e544040b0fb538",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102192909"
+        }
+    ],
+    "wof:id":"102192909",
+    "wof:lastmodified":1449069506,
+    "wof:name":"Analytica Group",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.888537,61.168586,-149.888537,61.168586],
+  "geometry": {"coordinates":[-149.888537,61.168586],"type":"Point"}
+}

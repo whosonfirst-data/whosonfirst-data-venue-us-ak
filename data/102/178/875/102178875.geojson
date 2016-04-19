@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.778375,61.197075,-149.778375,61.197075",
+    "geom:latitude":61.197075,
+    "geom:longitude":-149.778375,
+    "iso:country":"US",
+    "sg:address":"2601 Boniface Pkwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 1536",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806647,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pO299FauxOwhOmXlqkOyM_61.197075_-149.778375@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"57cdfd791978b0f3f81b5d6cbbf25259",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85806647,
+            "region_id":85688573,
+            "venue_id":"102178875"
+        }
+    ],
+    "wof:id":"102178875",
+    "wof:lastmodified":1449069531,
+    "wof:name":"Hartman Orthodontics",
+    "wof:parent_id":85806647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.778375,61.197075,-149.778375,61.197075],
+  "geometry": {"coordinates":[-149.778375,61.197075],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.715767,64.844269,-147.715767,64.844269",
+    "geom:latitude":64.844269,
+    "geom:longitude":-147.715767,
+    "iso:country":"US",
+    "sg:address":"300 1st Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 2000",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lspHvK7m5Rsmb1iansNsD_64.844269_-147.715767@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5888bb958b5de1cca1bf0f91ec7e1e53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102149161"
+        }
+    ],
+    "wof:id":"102149161",
+    "wof:lastmodified":1449067768,
+    "wof:name":"Realty 2000",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.715767,64.844269,-147.715767,64.844269],
+  "geometry": {"coordinates":[-147.715767,64.844269],"type":"Point"}
+}

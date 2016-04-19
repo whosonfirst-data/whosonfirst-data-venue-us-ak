@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.673185,64.864796,-147.673185,64.864796",
+    "geom:latitude":64.864796,
+    "geom:longitude":-147.673185,
+    "iso:country":"US",
+    "sg:address":"101 City Lights Blvd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 455 9235",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_081cURkezwd9myekpuTiRY_64.864796_-147.673185@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"89ba7c96aa05aa29eb696cb250ee831f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102155563"
+        }
+    ],
+    "wof:id":"102155563",
+    "wof:lastmodified":1449069742,
+    "wof:name":"Fairhill Christian School",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.673185,64.864796,-147.673185,64.864796],
+  "geometry": {"coordinates":[-147.673185,64.864796],"type":"Point"}
+}

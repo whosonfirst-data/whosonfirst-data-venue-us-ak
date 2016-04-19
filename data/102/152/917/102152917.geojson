@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.80698,61.143646,-149.80698,61.143646",
+    "geom:latitude":61.143646,
+    "geom:longitude":-149.80698,
+    "iso:country":"US",
+    "sg:address":"8441 Craiger Ct",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 7499",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873745,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SWGTcrkJVxoGTC5sJZtyt_61.143646_-149.806980@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1cb4184485d851a0d9888cb6b7148ebc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873745,
+            "region_id":85688573,
+            "venue_id":"102152917"
+        }
+    ],
+    "wof:id":"102152917",
+    "wof:lastmodified":1449069637,
+    "wof:name":"East & West Chem Dry",
+    "wof:parent_id":85873745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.80698,61.143646,-149.80698,61.143646],
+  "geometry": {"coordinates":[-149.80698,61.143646],"type":"Point"}
+}

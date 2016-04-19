@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.897891,61.194114,-149.897891,61.194114",
+    "geom:latitude":61.194114,
+    "geom:longitude":-149.897891,
+    "iso:country":"US",
+    "sg:address":"706 W Benson Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tattoo Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 0065",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tattooing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37cZqYGcu4ogjp0kY9QfQy_61.194114_-149.897891@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0dc08d4be3c7862e89268a4b9178f68f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102190481"
+        }
+    ],
+    "wof:id":"102190481",
+    "wof:lastmodified":1449070036,
+    "wof:name":"Anchorage Tattoo Studio",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.897891,61.194114,-149.897891,61.194114],
+  "geometry": {"coordinates":[-149.897891,61.194114],"type":"Point"}
+}

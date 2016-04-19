@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.899594,61.217569,-149.899594,61.217569",
+    "geom:latitude":61.217569,
+    "geom:longitude":-149.899594,
+    "iso:country":"US",
+    "sg:address":"800 W 5th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 3455",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.holyfamilycathedral.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bRK5ENYChUtvK5xxE65UY_61.217569_-149.899594@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b1d023a28d2be2df39e5fbd48db2e1d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102172157"
+        }
+    ],
+    "wof:id":"102172157",
+    "wof:lastmodified":1449068736,
+    "wof:name":"Holy Family Cathedral",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.899594,61.217569,-149.899594,61.217569],
+  "geometry": {"coordinates":[-149.899594,61.217569],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.746113,61.200569,-149.746113,61.200569",
+    "geom:latitude":61.200569,
+    "geom:longitude":-149.746113,
+    "iso:country":"US",
+    "sg:address":"7230 Kiska Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 0079",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "steam",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873735,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zLYmDEzFCxFT2HfdsF7MA_61.200569_-149.746113@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c42107d7bde1e1a12cb1e8aa42ba8e96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873735,
+            "region_id":85688573,
+            "venue_id":"102183823"
+        }
+    ],
+    "wof:id":"102183823",
+    "wof:lastmodified":1449069044,
+    "wof:name":"B J Vehicle Pressure Steam",
+    "wof:parent_id":85873735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.746113,61.200569,-149.746113,61.200569],
+  "geometry": {"coordinates":[-149.746113,61.200569],"type":"Point"}
+}

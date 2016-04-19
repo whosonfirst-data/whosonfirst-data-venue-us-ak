@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.897874,61.17372,-149.897874,61.17372",
+    "geom:latitude":61.17372,
+    "geom:longitude":-149.897874,
+    "iso:country":"US",
+    "sg:address":"5011 Arctic Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 2659",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WMHOUqliYqfCTocNSLTQ5_61.173720_-149.897874@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c2ed1db70bd668d69b5144276d12a3e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102166689"
+        }
+    ],
+    "wof:id":"102166689",
+    "wof:lastmodified":1449069085,
+    "wof:name":"Sun Solution",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.897874,61.17372,-149.897874,61.17372],
+  "geometry": {"coordinates":[-149.897874,61.17372],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.603553,58.366122,-134.603553,58.366122",
+    "geom:latitude":58.366122,
+    "geom:longitude":-134.603553,
+    "iso:country":"US",
+    "sg:address":"9978 Crazy Horse Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 3834",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "ammunition"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mT5xRqY70aPYVynxMHJME_58.366122_-134.603553@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4a3f8828fe57b1f5adfa4cbc4750a8a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102182209"
+        }
+    ],
+    "wof:id":"102182209",
+    "wof:lastmodified":1449069284,
+    "wof:name":"Alaska Bullet Works",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.603553,58.366122,-134.603553,58.366122],
+  "geometry": {"coordinates":[-134.603553,58.366122],"type":"Point"}
+}

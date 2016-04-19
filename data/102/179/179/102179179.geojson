@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.841733,64.844086,-147.841733,64.844086",
+    "geom:latitude":64.844086,
+    "geom:longitude":-147.841733,
+    "iso:country":"US",
+    "sg:address":"4342 Bishop Cir",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 0957",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CIfoTJf62CQ4X0K8Hj675_64.844086_-147.841733@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fc7373e5d2eedf44a2d393615964d333",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102179179"
+        }
+    ],
+    "wof:id":"102179179",
+    "wof:lastmodified":1449069943,
+    "wof:name":"Putnams Electric",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.841733,64.844086,-147.841733,64.844086],
+  "geometry": {"coordinates":[-147.841733,64.844086],"type":"Point"}
+}

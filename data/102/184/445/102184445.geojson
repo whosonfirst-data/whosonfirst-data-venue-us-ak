@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.903524,61.196147,-149.903524,61.196147",
+    "geom:latitude":61.196147,
+    "geom:longitude":-149.903524,
+    "iso:country":"US",
+    "sg:address":"926 W 27th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 2884",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "operation",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36NCXKYejngx0yZMwD5kLt_61.196147_-149.903524@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c996a54d1ba5a0487a6524eb413df49a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102184445"
+        }
+    ],
+    "wof:id":"102184445",
+    "wof:lastmodified":1449068216,
+    "wof:name":"ATE",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.903524,61.196147,-149.903524,61.196147],
+  "geometry": {"coordinates":[-149.903524,61.196147],"type":"Point"}
+}

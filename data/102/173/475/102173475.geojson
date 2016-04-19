@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.598819,64.898026,-147.598819,64.898026",
+    "geom:latitude":64.898026,
+    "geom:longitude":-147.598819,
+    "iso:country":"US",
+    "sg:address":"811 Suncrest Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 2983",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916545,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LNTVhkPZInMQjV32zkpPS_64.898026_-147.598819@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c41df1753fe38a531a052b506ba67966",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916545,
+            "region_id":85688573,
+            "venue_id":"102173475"
+        }
+    ],
+    "wof:id":"102173475",
+    "wof:lastmodified":1449068265,
+    "wof:name":"Computer Connections",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.598819,64.898026,-147.598819,64.898026],
+  "geometry": {"coordinates":[-147.598819,64.898026],"type":"Point"}
+}

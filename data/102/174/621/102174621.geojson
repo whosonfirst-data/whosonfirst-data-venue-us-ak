@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-148.686478,60.772716,-148.686478,60.772716",
+    "geom:latitude":60.772716,
+    "geom:longitude":-148.686478,
+    "iso:country":"US",
+    "sg:address":"100 Kenai St",
+    "sg:city":"Whittier",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 472 2340",
+    "sg:postcode":"99693",
+    "sg:province":"AK",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915589,
+        85633793,
+        85688573,
+        102081911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sY0483v4VJ7gIh0TqZm11_60.772716_-148.686478@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a1284bd9b719f39c6556591d89eb6e3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915589,
+            "region_id":85688573,
+            "venue_id":"102174621"
+        }
+    ],
+    "wof:id":"102174621",
+    "wof:lastmodified":1449068141,
+    "wof:name":"Whittier Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-148.686478,60.772716,-148.686478,60.772716],
+  "geometry": {"coordinates":[-148.686478,60.772716],"type":"Point"}
+}

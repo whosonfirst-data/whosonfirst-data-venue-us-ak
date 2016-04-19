@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.731194,61.1891,-149.731194,61.1891",
+    "geom:latitude":61.1891,
+    "geom:longitude":-149.731194,
+    "iso:country":"US",
+    "sg:address":"8031 Williwa Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 3224",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "notary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873735,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BzhGI1JzxwVbClHQ35qIT_61.189100_-149.731194@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c6e2ee63de74878e547c95dae65e77a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873735,
+            "region_id":85688573,
+            "venue_id":"102161747"
+        }
+    ],
+    "wof:id":"102161747",
+    "wof:lastmodified":1449068711,
+    "wof:name":"AAA Legal Svc",
+    "wof:parent_id":85873735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.731194,61.1891,-149.731194,61.1891],
+  "geometry": {"coordinates":[-149.731194,61.1891],"type":"Point"}
+}

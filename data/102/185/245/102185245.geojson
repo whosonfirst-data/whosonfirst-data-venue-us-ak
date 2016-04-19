@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.838215,64.941863,-147.838215,64.941863",
+    "geom:latitude":64.941863,
+    "geom:longitude":-147.838215,
+    "iso:country":"US",
+    "sg:address":"1971 Tall Timbers Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 455 6332",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916569,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lMzI3jWrO39kvS7vSYmjT_64.941863_-147.838215@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"601a1a02ac00fcf10cf03797b6551494",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916569,
+            "region_id":85688573,
+            "venue_id":"102185245"
+        }
+    ],
+    "wof:id":"102185245",
+    "wof:lastmodified":1449068197,
+    "wof:name":"Valley Landscaping",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.838215,64.941863,-147.838215,64.941863],
+  "geometry": {"coordinates":[-147.838215,64.941863],"type":"Point"}
+}

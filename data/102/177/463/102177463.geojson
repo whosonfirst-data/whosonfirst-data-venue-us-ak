@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.256402,60.558078,-151.256402,60.558078",
+    "geom:latitude":60.558078,
+    "geom:longitude":-151.256402,
+    "iso:country":"US",
+    "sg:address":"335 Main St Lp",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 7909",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "contractor",
+        "heating",
+        "supply"
+    ],
+    "sg:website":"www.pphak.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1toE1lbX7sXwbTrSUpwTx5_60.558078_-151.256402@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1e3aa391cb2069fdd38d2eba32c97413",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102177463"
+        }
+    ],
+    "wof:id":"102177463",
+    "wof:lastmodified":1449070208,
+    "wof:name":"Preferred Plumbing & Heating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.256402,60.558078,-151.256402,60.558078],
+  "geometry": {"coordinates":[-151.256402,60.558078],"type":"Point"}
+}

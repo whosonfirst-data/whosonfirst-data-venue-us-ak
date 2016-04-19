@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-156.77114,71.288149,-156.77114,71.288149",
+    "geom:latitude":71.288149,
+    "geom:longitude":-156.77114,
+    "iso:country":"US",
+    "sg:address":"1745 Ahkovak St",
+    "sg:city":"Barrow",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 852 6199",
+    "sg:postcode":"99723",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915545,
+        85633793,
+        85688573,
+        102081001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MJFLTVd0jTlAVOShKzLiX_71.288149_-156.771140@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9a9c7b0de4bcf83cad3b139793e172d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081001,
+            "locality_id":85915545,
+            "region_id":85688573,
+            "venue_id":"102182655"
+        }
+    ],
+    "wof:id":"102182655",
+    "wof:lastmodified":1449069280,
+    "wof:name":"Airport Maintenance & Oper",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-156.77114,71.288149,-156.77114,71.288149],
+  "geometry": {"coordinates":[-156.77114,71.288149],"type":"Point"}
+}

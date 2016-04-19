@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.390172,61.572507,-149.390172,61.572507",
+    "geom:latitude":61.572507,
+    "geom:longitude":-149.390172,
+    "iso:country":"US",
+    "sg:address":"901 Hermon Rd",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 1182",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qM7qNwCezy1m5oTaqoZT4_61.572507_-149.390172@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"871694578ca1ae286cc7246ff71643c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102178563"
+        }
+    ],
+    "wof:id":"102178563",
+    "wof:lastmodified":1449069530,
+    "wof:name":"Wedekind Excavating and Paving",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.390172,61.572507,-149.390172,61.572507],
+  "geometry": {"coordinates":[-149.390172,61.572507],"type":"Point"}
+}

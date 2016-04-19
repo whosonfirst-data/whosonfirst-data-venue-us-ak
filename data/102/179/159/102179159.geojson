@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.353124,64.756061,-147.353124,64.756061",
+    "geom:latitude":64.756061,
+    "geom:longitude":-147.353124,
+    "iso:country":"US",
+    "sg:address":"235 N Santa Claus Ln",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 9896",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "confectionery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915639,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yApLMzswlvz4J6FXTWuSW_64.756061_-147.353124@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"af88db690e73a06f6596e5f2908d72b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915639,
+            "region_id":85688573,
+            "venue_id":"102179159"
+        }
+    ],
+    "wof:id":"102179159",
+    "wof:lastmodified":1449069941,
+    "wof:name":"Santa's Chocolate Shops",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.353124,64.756061,-147.353124,64.756061],
+  "geometry": {"coordinates":[-147.353124,64.756061],"type":"Point"}
+}

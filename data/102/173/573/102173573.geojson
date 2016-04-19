@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.345507,64.755814,-147.345507,64.755814",
+    "geom:latitude":64.755814,
+    "geom:longitude":-147.345507,
+    "iso:country":"US",
+    "sg:address":"101 Saint Nicholas Dr",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 4112",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915639,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tb1i9njCH9pKSqnHPBkdC_64.755814_-147.345507@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"51c39752f05632f55b2659616c048781",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915639,
+            "region_id":85688573,
+            "venue_id":"102173573"
+        }
+    ],
+    "wof:id":"102173573",
+    "wof:lastmodified":1449068266,
+    "wof:name":"Hot Licks",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.345507,64.755814,-147.345507,64.755814],
+  "geometry": {"coordinates":[-147.345507,64.755814],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.727213,64.922164,-147.727213,64.922164",
+    "geom:latitude":64.922164,
+    "geom:longitude":-147.727213,
+    "iso:country":"US",
+    "sg:address":"1073 Mia St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 1636",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916559,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2osB3hLFdpYjAPsXCgZfUI_64.922164_-147.727213@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"99a7b5ec57945e06d2496b383d129be6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "region_id":85688573,
+            "venue_id":"102169551"
+        }
+    ],
+    "wof:id":"102169551",
+    "wof:lastmodified":1449069247,
+    "wof:name":"Work In Progress",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.727213,64.922164,-147.727213,64.922164],
+  "geometry": {"coordinates":[-147.727213,64.922164],"type":"Point"}
+}

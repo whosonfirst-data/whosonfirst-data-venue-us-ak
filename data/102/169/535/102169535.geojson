@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.717967,64.837141,-147.717967,64.837141",
+    "geom:latitude":64.837141,
+    "geom:longitude":-147.717967,
+    "iso:country":"US",
+    "sg:address":"431 Gaffney Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 6295",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bIod15OHJKIQMVzZKQb5X_64.837141_-147.717967@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a62ab6cd160dc81b04bdae3ff38c2af6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102169535"
+        }
+    ],
+    "wof:id":"102169535",
+    "wof:lastmodified":1449069248,
+    "wof:name":"Coin-King Laundromat",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.717967,64.837141,-147.717967,64.837141],
+  "geometry": {"coordinates":[-147.717967,64.837141],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.1146,61.60948,-149.1146,61.60948",
+    "geom:latitude":61.60948,
+    "geom:longitude":-149.1146,
+    "iso:country":"US",
+    "sg:address":"323 N Alaska St",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 3526",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.stbartholomewsalaska.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915577,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sT0rClZ0sifx4MmHZ0BsQ_61.609480_-149.114600@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d5771cd8eff7161897861918464ee854",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915577,
+            "region_id":85688573,
+            "venue_id":"102155655"
+        }
+    ],
+    "wof:id":"102155655",
+    "wof:lastmodified":1449069744,
+    "wof:name":"St Bartholomews Episcopal",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.1146,61.60948,-149.1146,61.60948],
+  "geometry": {"coordinates":[-149.1146,61.60948],"type":"Point"}
+}

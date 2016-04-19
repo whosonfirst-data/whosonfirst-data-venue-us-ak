@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.523407,61.311735,-149.523407,61.311735",
+    "geom:latitude":61.311735,
+    "geom:longitude":-149.523407,
+    "iso:country":"US",
+    "sg:address":"19535 1st St",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 696 7326",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28Gy0NlDeb090S0TiBcr1V_61.311735_-149.523407@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"78ff9efdfc57960fd3eea6dd3afadd8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102173959"
+        }
+    ],
+    "wof:id":"102173959",
+    "wof:lastmodified":1449068272,
+    "wof:name":"Wheeler Mechanical",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.523407,61.311735,-149.523407,61.311735],
+  "geometry": {"coordinates":[-149.523407,61.311735],"type":"Point"}
+}

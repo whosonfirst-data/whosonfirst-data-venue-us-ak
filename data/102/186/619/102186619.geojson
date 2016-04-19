@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.802601,64.849077,-147.802601,64.849077",
+    "geom:latitude":64.849077,
+    "geom:longitude":-147.802601,
+    "iso:country":"US",
+    "sg:address":"3000 Phillips Field Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 458 0600",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5b7wfdxHjUeuS4EYQTuVwM_64.849077_-147.802601@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c92ae864fee58e1479cec3360ad87757",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102186619"
+        }
+    ],
+    "wof:id":"102186619",
+    "wof:lastmodified":1449069653,
+    "wof:name":"North Star Auto Sales",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.802601,64.849077,-147.802601,64.849077],
+  "geometry": {"coordinates":[-147.802601,64.849077],"type":"Point"}
+}

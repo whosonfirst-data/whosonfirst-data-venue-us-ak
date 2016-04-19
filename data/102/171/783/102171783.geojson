@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.895918,61.160314,-149.895918,61.160314",
+    "geom:latitude":61.160314,
+    "geom:longitude":-149.895918,
+    "iso:country":"US",
+    "sg:address":"6700 Arctic Spur Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 9435",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "field",
+        "oil",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16W2t3kPNx7tDE9R2tMlUB_61.160314_-149.895918@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"862cc35c8cc7aa8772553295f4e76e76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102171783"
+        }
+    ],
+    "wof:id":"102171783",
+    "wof:lastmodified":1449070221,
+    "wof:name":"ASRC Parsons Engineering",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.895918,61.160314,-149.895918,61.160314],
+  "geometry": {"coordinates":[-149.895918,61.160314],"type":"Point"}
+}

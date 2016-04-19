@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.805802,61.183705,-149.805802,61.183705",
+    "geom:latitude":61.183705,
+    "geom:longitude":-149.805802,
+    "iso:country":"US",
+    "sg:address":"4141 Ambassador Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 729 1900",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "federal",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uynneW9IZo6BGftGl9XbV_61.183705_-149.805802@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"73155bdd833df8ac4221e50bfef2d704",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102166985"
+        }
+    ],
+    "wof:id":"102166985",
+    "wof:lastmodified":1449069085,
+    "wof:name":"Alaska Area Native Health Svc",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.805802,61.183705,-149.805802,61.183705],
+  "geometry": {"coordinates":[-149.805802,61.183705],"type":"Point"}
+}

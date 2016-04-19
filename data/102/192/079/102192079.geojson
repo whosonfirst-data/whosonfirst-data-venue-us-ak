@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.918679,61.190501,-149.918679,61.190501",
+    "geom:latitude":61.190501,
+    "geom:longitude":-149.918679,
+    "iso:country":"US",
+    "sg:address":"3215 Oregon Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 7325",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iJF8IzELeoQzlinbv1nzP_61.190501_-149.918679@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2cfb65ebaad923af4b7cba0766cf60ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102192079"
+        }
+    ],
+    "wof:id":"102192079",
+    "wof:lastmodified":1449069504,
+    "wof:name":"Ak-1 Striping",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.918679,61.190501,-149.918679,61.190501],
+  "geometry": {"coordinates":[-149.918679,61.190501],"type":"Point"}
+}

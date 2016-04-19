@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.431905,59.672023,-151.431905,59.672023",
+    "geom:latitude":59.672023,
+    "geom:longitude":-151.431905,
+    "iso:country":"US",
+    "sg:address":"59909 E End Rd",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 5368",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834363,
+        85633793,
+        85915739,
+        102081909,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64GghMBxATLqLCFgQPZPFM_59.672023_-151.431905@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f78d9976bca120767f0970a4d4bd2617",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "neighbourhood_id":85834363,
+            "region_id":85688573,
+            "venue_id":"102155353"
+        }
+    ],
+    "wof:id":"102155353",
+    "wof:lastmodified":1449069743,
+    "wof:name":"Down East Laundry",
+    "wof:parent_id":85834363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.431905,59.672023,-151.431905,59.672023],
+  "geometry": {"coordinates":[-151.431905,59.672023],"type":"Point"}
+}

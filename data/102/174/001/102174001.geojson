@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.498942,58.331416,-134.498942,58.331416",
+    "geom:latitude":58.331416,
+    "geom:longitude":-134.498942,
+    "iso:country":"US",
+    "sg:address":"6910 N Douglas Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 2030",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "sg:website":"www.eraaviation.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853509,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JTi0VzfERLZ22nYYbTMjl_58.331416_-134.498942@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d92e24aaf6182f527279db3204ee85e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85853509,
+            "region_id":85688573,
+            "venue_id":"102174001"
+        }
+    ],
+    "wof:id":"102174001",
+    "wof:lastmodified":1449068138,
+    "wof:name":"ERA Helicopters",
+    "wof:parent_id":85853509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.498942,58.331416,-134.498942,58.331416],
+  "geometry": {"coordinates":[-134.498942,58.331416],"type":"Point"}
+}

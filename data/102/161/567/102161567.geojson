@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-146.983531,64.522219,-146.983531,64.522219",
+    "geom:latitude":64.522219,
+    "geom:longitude":-146.983531,
+    "iso:country":"US",
+    "sg:address":"7666 Richardson Hwy",
+    "sg:city":"Salcha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 9097",
+    "sg:postcode":"99714",
+    "sg:province":"AK",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916579,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LtTUq1pKtrL3fSHsb3J18_64.522219_-146.983531@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"58f6aaec68cd982cc622dc6912258bc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916579,
+            "region_id":85688573,
+            "venue_id":"102161567"
+        }
+    ],
+    "wof:id":"102161567",
+    "wof:lastmodified":1449068714,
+    "wof:name":"Salcha Store & Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-146.983531,64.522219,-146.983531,64.522219],
+  "geometry": {"coordinates":[-146.983531,64.522219],"type":"Point"}
+}

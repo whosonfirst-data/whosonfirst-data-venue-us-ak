@@ -1,0 +1,71 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.812202,61.212234,-149.812202,61.212234",
+    "geom:latitude":61.212234,
+    "geom:longitude":-149.812202,
+    "iso:country":"US",
+    "sg:address":"1001 Northway Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 257 4593",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "newspaper",
+        "special",
+        "interest"
+    ],
+    "sg:website":"www.adn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Lp1Y5mcclyEXTAHpSXkjD_61.212234_-149.812202@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1683ac5c7a8bbce98fac4c0947a26d08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102180399"
+        }
+    ],
+    "wof:id":"102180399",
+    "wof:lastmodified":1449067873,
+    "wof:name":"Anchorage Daily News Library",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.812202,61.212234,-149.812202,61.212234],
+  "geometry": {"coordinates":[-149.812202,61.212234],"type":"Point"}
+}

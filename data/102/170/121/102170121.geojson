@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.73099,61.069561,-149.73099,61.069561",
+    "geom:latitude":61.069561,
+    "geom:longitude":-149.73099,
+    "iso:country":"US",
+    "sg:address":"16729 Marvin Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 7611",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873741,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gKEmsSNRYmuVDKQAh2A4c_61.069561_-149.730990@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f139de5cabe0a94eb910ae66399d0b1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873741,
+            "region_id":85688573,
+            "venue_id":"102170121"
+        }
+    ],
+    "wof:id":"102170121",
+    "wof:lastmodified":1449068019,
+    "wof:name":"Superior Plastering & Cement",
+    "wof:parent_id":85873741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.73099,61.069561,-149.73099,61.069561],
+  "geometry": {"coordinates":[-149.73099,61.069561],"type":"Point"}
+}

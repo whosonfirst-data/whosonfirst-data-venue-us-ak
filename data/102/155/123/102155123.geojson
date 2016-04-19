@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.544134,59.639796,-151.544134,59.639796",
+    "geom:latitude":59.639796,
+    "geom:longitude":-151.544134,
+    "iso:country":"US",
+    "sg:address":"3446 Main St",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 0655",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "information",
+        "program",
+        "referral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uE4RneYK5Ge8QtF96hI6c_59.639796_-151.544134@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9c8d2938422cddb351139cafd0117123",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102155123"
+        }
+    ],
+    "wof:id":"102155123",
+    "wof:lastmodified":1449069744,
+    "wof:name":"WIC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.544134,59.639796,-151.544134,59.639796],
+  "geometry": {"coordinates":[-151.544134,59.639796],"type":"Point"}
+}

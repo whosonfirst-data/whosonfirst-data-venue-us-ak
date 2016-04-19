@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.134613,60.471554,-151.134613,60.471554",
+    "geom:latitude":60.471554,
+    "geom:longitude":-151.134613,
+    "iso:country":"US",
+    "sg:address":"33880 Community College Dr",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 260 4000",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916957,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nSEHklCG2F8Yk4PID2E22_60.471554_-151.134613@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7e9cd0438d1813cc91f8148900f72deb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916957,
+            "region_id":85688573,
+            "venue_id":"102180533"
+        }
+    ],
+    "wof:id":"102180533",
+    "wof:lastmodified":1449067873,
+    "wof:name":"Hey Good Lookin'",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.134613,60.471554,-151.134613,60.471554],
+  "geometry": {"coordinates":[-151.134613,60.471554],"type":"Point"}
+}

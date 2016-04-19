@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.710754,64.818687,-147.710754,64.818687",
+    "geom:latitude":64.818687,
+    "geom:longitude":-147.710754,
+    "iso:country":"US",
+    "sg:address":"3100 S Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 6251",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21XL97PQkbiKHpXCYalr65_64.818687_-147.710754@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"464251fa37317b7e55f20466fb37e89b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102172111"
+        }
+    ],
+    "wof:id":"102172111",
+    "wof:lastmodified":1449068739,
+    "wof:name":"Fairbanks Native Assn Inc",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.710754,64.818687,-147.710754,64.818687],
+  "geometry": {"coordinates":[-147.710754,64.818687],"type":"Point"}
+}

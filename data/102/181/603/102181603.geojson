@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-146.002337,61.059265,-146.002337,61.059265",
+    "geom:latitude":61.059265,
+    "geom:longitude":-146.002337,
+    "iso:country":"US",
+    "sg:address":"5510 Wilderness Ln",
+    "sg:city":"Valdez",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 835 4326",
+    "sg:postcode":"99686",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cat",
+        "dog",
+        "kennel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915585,
+        85633793,
+        85688573,
+        102081911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FUVHk04UCfN4oTM54cLdp_61.059265_-146.002337@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b3c5c0f37aca5c0451ae3cd211099fe7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915585,
+            "region_id":85688573,
+            "venue_id":"102181603"
+        }
+    ],
+    "wof:id":"102181603",
+    "wof:lastmodified":1449069234,
+    "wof:name":"Happy Trails Kennels",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-146.002337,61.059265,-146.002337,61.059265],
+  "geometry": {"coordinates":[-146.002337,61.059265],"type":"Point"}
+}

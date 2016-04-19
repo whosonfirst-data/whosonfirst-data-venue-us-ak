@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.872885,61.176794,-149.872885,61.176794",
+    "geom:latitude":61.176794,
+    "geom:longitude":-149.872885,
+    "iso:country":"US",
+    "sg:address":"5151 Fairbanks St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 786 9350",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "communication",
+        "radio",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iLkJxHalNsWtiLqTWA5Y0_61.176794_-149.872885@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eda8e52ca88d2e0dfa00c6895f2de143",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102165997"
+        }
+    ],
+    "wof:id":"102165997",
+    "wof:lastmodified":1449070218,
+    "wof:name":"GCI Mobile Radio",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.872885,61.176794,-149.872885,61.176794],
+  "geometry": {"coordinates":[-149.872885,61.176794],"type":"Point"}
+}

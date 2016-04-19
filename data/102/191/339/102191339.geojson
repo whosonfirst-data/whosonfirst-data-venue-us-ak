@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-161.204149,56.000833,-161.204149,56.000833",
+    "geom:latitude":56.000833,
+    "geom:longitude":-161.204149,
+    "iso:country":"US",
+    "sg:address":"425 N Main St",
+    "sg:city":"Nelson Lagoon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 989 2232",
+    "sg:postcode":"99571",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916749,
+        85633793,
+        85688573,
+        102080625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72stgGQcd2T1iWGLl5kdN0_56.000833_-161.204149@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8d1aca4a4745e705864df53fa85868aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080625,
+            "locality_id":85916749,
+            "region_id":85688573,
+            "venue_id":"102191339"
+        }
+    ],
+    "wof:id":"102191339",
+    "wof:lastmodified":1449069201,
+    "wof:name":"Nelson Lagoon Safety Officer",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-161.204149,56.000833,-161.204149,56.000833],
+  "geometry": {"coordinates":[-161.204149,56.000833],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.061229,60.484589,-151.061229,60.484589",
+    "geom:latitude":60.484589,
+    "geom:longitude":-151.061229,
+    "iso:country":"US",
+    "sg:address":"44152 Sterling Hwy",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 4946",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Kpvzv371rVS1K8KnCkEC8_60.484589_-151.061229@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b9c02105a79763c96a80cf4545a99d39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102193105"
+        }
+    ],
+    "wof:id":"102193105",
+    "wof:lastmodified":1449068193,
+    "wof:name":"Petro Express",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.061229,60.484589,-151.061229,60.484589],
+  "geometry": {"coordinates":[-151.061229,60.484589],"type":"Point"}
+}

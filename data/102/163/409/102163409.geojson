@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.873755,61.231245,-149.873755,61.231245",
+    "geom:latitude":61.231245,
+    "geom:longitude":-149.873755,
+    "iso:country":"US",
+    "sg:address":"820 Bilbo St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 1114",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873711,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QOxdi3QipKluXduxmug5j_61.231245_-149.873755@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b7de109387028b083a322fc1ed2a5c08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873711,
+            "region_id":85688573,
+            "venue_id":"102163409"
+        }
+    ],
+    "wof:id":"102163409",
+    "wof:lastmodified":1449070161,
+    "wof:name":"Ski & Benny Pizza",
+    "wof:parent_id":85873711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.873755,61.231245,-149.873755,61.231245],
+  "geometry": {"coordinates":[-149.873755,61.231245],"type":"Point"}
+}

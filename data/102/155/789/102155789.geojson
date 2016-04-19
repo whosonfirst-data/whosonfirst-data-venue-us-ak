@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.350508,58.272454,-134.350508,58.272454",
+    "geom:latitude":58.272454,
+    "geom:longitude":-134.350508,
+    "iso:country":"US",
+    "sg:address":"4451 Thane Rd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Aquatic Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 3663",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "hatchery",
+        "fish"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851995,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25Tbi6D6gUdCg3d1OniX7u_58.272454_-134.350508@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6f581ad090c2767bd4fd45956ae90840",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85851995,
+            "region_id":85688573,
+            "venue_id":"102155789"
+        }
+    ],
+    "wof:id":"102155789",
+    "wof:lastmodified":1449069743,
+    "wof:name":"Sheep Creek Hatchery",
+    "wof:parent_id":85851995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.350508,58.272454,-134.350508,58.272454],
+  "geometry": {"coordinates":[-134.350508,58.272454],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.35617,61.578685,-149.35617,61.578685",
+    "geom:latitude":61.578685,
+    "geom:longitude":-149.35617,
+    "iso:country":"US",
+    "sg:address":"3660 E Ruth Dr",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 4767",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916225,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OFrQFyw5F4lBNUgcwX5L8_61.578685_-149.356170@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f014a8b94e06e855537044e71451f6c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916225,
+            "region_id":85688573,
+            "venue_id":"102168433"
+        }
+    ],
+    "wof:id":"102168433",
+    "wof:lastmodified":1449069007,
+    "wof:name":"Northland Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.35617,61.578685,-149.35617,61.578685],
+  "geometry": {"coordinates":[-149.35617,61.578685],"type":"Point"}
+}

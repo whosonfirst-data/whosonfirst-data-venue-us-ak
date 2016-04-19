@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.664224,64.8639,-147.664224,64.8639",
+    "geom:latitude":64.8639,
+    "geom:longitude":-147.664224,
+    "iso:country":"US",
+    "sg:address":"100 Kniffen Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 5263",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TCSQJkd8d2ge7grxRkvSR_64.863900_-147.664224@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"85bfaf305043e4a5352d74831e0db28e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102158115"
+        }
+    ],
+    "wof:id":"102158115",
+    "wof:lastmodified":1449069388,
+    "wof:name":"Fairhill Inc",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.664224,64.8639,-147.664224,64.8639],
+  "geometry": {"coordinates":[-147.664224,64.8639],"type":"Point"}
+}

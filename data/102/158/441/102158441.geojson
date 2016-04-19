@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.810811,61.10855,-149.810811,61.10855",
+    "geom:latitude":61.10855,
+    "geom:longitude":-149.810811,
+    "iso:country":"US",
+    "sg:address":"3960 Huffman Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 7322",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "field",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33KR1MUxavrv9redieCX3m_61.108550_-149.810811@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"323594555a293b07bee2e7d4093e2aa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102158441"
+        }
+    ],
+    "wof:id":"102158441",
+    "wof:lastmodified":1449069394,
+    "wof:name":"Rushco Oil Fields",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.810811,61.10855,-149.810811,61.10855],
+  "geometry": {"coordinates":[-149.810811,61.10855],"type":"Point"}
+}

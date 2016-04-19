@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.990434,61.190906,-149.990434,61.190906",
+    "geom:latitude":61.190906,
+    "geom:longitude":-149.990434,
+    "iso:country":"US",
+    "sg:address":"3501 Postmark Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 3880",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852831,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72XqideMAMk4Tx671mRRcK_61.190906_-149.990434@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f9d23beb79e4f45c7722c27685438179",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":"102177539"
+        }
+    ],
+    "wof:id":"102177539",
+    "wof:lastmodified":1449070210,
+    "wof:name":"Evergreen Aviation Ground",
+    "wof:parent_id":85852831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.990434,61.190906,-149.990434,61.190906],
+  "geometry": {"coordinates":[-149.990434,61.190906],"type":"Point"}
+}

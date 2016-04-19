@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-166.551663,53.879067,-166.551663,53.879067",
+    "geom:latitude":53.879067,
+    "geom:longitude":-166.551663,
+    "iso:country":"US",
+    "sg:address":"179 Gilman Rd",
+    "sg:city":"Dutch Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 581 4632",
+    "sg:postcode":"99692",
+    "sg:province":"AK",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916059,
+        85633793,
+        85688573,
+        102080627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y1L9akCuqJIoUu8v5advS_53.879067_-166.551663@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f20b41552662577d6362edc2f7e72b94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080627,
+            "locality_id":85916059,
+            "region_id":85688573,
+            "venue_id":"102148737"
+        }
+    ],
+    "wof:id":"102148737",
+    "wof:lastmodified":1449069784,
+    "wof:name":"Environmental Conservation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-166.551663,53.879067,-166.551663,53.879067],
+  "geometry": {"coordinates":[-166.551663,53.879067],"type":"Point"}
+}

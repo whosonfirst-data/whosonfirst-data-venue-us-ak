@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.809635,64.856112,-147.809635,64.856112",
+    "geom:latitude":64.856112,
+    "geom:longitude":-147.809635,
+    "iso:country":"US",
+    "sg:address":"3525 College Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 9574",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:website":"www.gullivers-books.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hsnGw5it5PWXI6q5QKJGO_64.856112_-147.809635@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"da4546d79c85dee649eeccb4acfa5f36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102166099"
+        }
+    ],
+    "wof:id":"102166099",
+    "wof:lastmodified":1449069087,
+    "wof:name":"Gulliver's Books Second Story",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.809635,64.856112,-147.809635,64.856112],
+  "geometry": {"coordinates":[-147.809635,64.856112],"type":"Point"}
+}

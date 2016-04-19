@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.531432,61.361146,-149.531432,61.361146",
+    "geom:latitude":61.361146,
+    "geom:longitude":-149.531432,
+    "iso:country":"US",
+    "sg:address":"18936 Monastery Dr",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 696 2002",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yc7IRvQ8uOiqrCXj4uSbc_61.361146_-149.531432@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7c46c04fbebd79c840bbf365b23e4a91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102172765"
+        }
+    ],
+    "wof:id":"102172765",
+    "wof:lastmodified":1449068736,
+    "wof:name":"St John Orthodox Cathedral",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.531432,61.361146,-149.531432,61.361146],
+  "geometry": {"coordinates":[-149.531432,61.361146],"type":"Point"}
+}

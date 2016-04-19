@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.562733,61.338533,-149.562733,61.338533",
+    "geom:latitude":61.338533,
+    "geom:longitude":-149.562733,
+    "iso:country":"US",
+    "sg:address":"13046 Old Glenn Hwy",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 696 3276",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:tags":[
+        "range",
+        "baseball",
+        "batting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X34yccSjkUU2UGlEE8rCr_61.338533_-149.562733@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ecf3f53ff974497f4aff00ce9ea77c2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102191701"
+        }
+    ],
+    "wof:id":"102191701",
+    "wof:lastmodified":1449069202,
+    "wof:name":"Strike Zone",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.562733,61.338533,-149.562733,61.338533],
+  "geometry": {"coordinates":[-149.562733,61.338533],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.831331,61.230836,-149.831331,61.230836",
+    "geom:latitude":61.230836,
+    "geom:longitude":-149.831331,
+    "iso:country":"US",
+    "sg:address":"2510 N Post Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 4802",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06nh3XVzCyiUY9RDED0uQ6_61.230836_-149.831331@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f4332ee756571df05c8d8b9e5cebf691",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102155511"
+        }
+    ],
+    "wof:id":"102155511",
+    "wof:lastmodified":1449069744,
+    "wof:name":"Denali Transportation Corp",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.831331,61.230836,-149.831331,61.230836],
+  "geometry": {"coordinates":[-149.831331,61.230836],"type":"Point"}
+}

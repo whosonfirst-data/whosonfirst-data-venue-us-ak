@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.40699,58.301455,-134.40699,58.301455",
+    "geom:latitude":58.301455,
+    "geom:longitude":-134.40699,
+    "iso:country":"US",
+    "sg:address":"200 N Franklin St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 9676",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "book",
+        "rare",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_346gU1r72A9TEz1POgCspZ_58.301455_-134.406990@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8c9af0fc4e192f8a5f69a424ca9a93d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102175589"
+        }
+    ],
+    "wof:id":"102175589",
+    "wof:lastmodified":1449069465,
+    "wof:name":"Observatory",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.40699,58.301455,-134.40699,58.301455],
+  "geometry": {"coordinates":[-134.40699,58.301455],"type":"Point"}
+}

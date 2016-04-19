@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.757637,61.1208,-149.757637,61.1208",
+    "geom:latitude":61.1208,
+    "geom:longitude":-149.757637,
+    "iso:country":"US",
+    "sg:address":"6655 Macbeth Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 346 3114",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873745,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Io6H4EhGynLo5tQEJ13R5_61.120800_-149.757637@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bbaa3cabe1a8101518aa4385d0a6ac2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873745,
+            "region_id":85688573,
+            "venue_id":"102195079"
+        }
+    ],
+    "wof:id":"102195079",
+    "wof:lastmodified":1449069364,
+    "wof:name":"Alaska Maintenance Man",
+    "wof:parent_id":85873745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.757637,61.1208,-149.757637,61.1208],
+  "geometry": {"coordinates":[-149.757637,61.1208],"type":"Point"}
+}

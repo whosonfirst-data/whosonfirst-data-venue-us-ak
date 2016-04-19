@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.332301,57.055932,-135.332301,57.055932",
+    "geom:latitude":57.055932,
+    "geom:longitude":-135.332301,
+    "iso:country":"US",
+    "sg:address":"502 Hirst St",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 6771",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Y1dHDv9WzUtFMAUM4dF9x_57.055932_-135.332301@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0c3aa36774bcda7476063b6890c10da7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102190045"
+        }
+    ],
+    "wof:id":"102190045",
+    "wof:lastmodified":1449070037,
+    "wof:name":"Sitka Christian Ctr",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.332301,57.055932,-135.332301,57.055932],
+  "geometry": {"coordinates":[-135.332301,57.055932],"type":"Point"}
+}

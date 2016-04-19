@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.837098,61.103973,-149.837098,61.103973",
+    "geom:latitude":61.103973,
+    "geom:longitude":-149.837098,
+    "iso:country":"US",
+    "sg:address":"2301 Steeple Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 336 2445",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4J4AVr6Fi2ZA8NWAmK3xum_61.103973_-149.837098@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e558440cd6c6646457d8e4f6da2eb2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102176243"
+        }
+    ],
+    "wof:id":"102176243",
+    "wof:lastmodified":1449069348,
+    "wof:name":"Real Property Svc",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.837098,61.103973,-149.837098,61.103973],
+  "geometry": {"coordinates":[-149.837098,61.103973],"type":"Point"}
+}

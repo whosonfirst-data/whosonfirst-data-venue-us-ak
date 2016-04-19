@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.854604,61.21483,-149.854604,61.21483",
+    "geom:latitude":61.21483,
+    "geom:longitude":-149.854604,
+    "iso:country":"US",
+    "sg:address":"819 Orca St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 4531",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "sg:website":"www.cityelectricinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wApGUSa3JpkR5vww8faTj_61.214830_-149.854604@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b63691c10d8b95a6c5d9648e4c665a5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102158131"
+        }
+    ],
+    "wof:id":"102158131",
+    "wof:lastmodified":1449069393,
+    "wof:name":"City Electric Inc",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.854604,61.21483,-149.854604,61.21483],
+  "geometry": {"coordinates":[-149.854604,61.21483],"type":"Point"}
+}

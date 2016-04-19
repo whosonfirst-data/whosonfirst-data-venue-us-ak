@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.813542,61.182599,-149.813542,61.182599",
+    "geom:latitude":61.182599,
+    "geom:longitude":-149.813542,
+    "iso:country":"US",
+    "sg:address":"3420 E 42nd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 9751",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NKN22TimQT6oA3S3w9Mwg_61.182599_-149.813542@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"057a86336eb5b90ad8ac99136ac0913e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102161055"
+        }
+    ],
+    "wof:id":"102161055",
+    "wof:lastmodified":1449068709,
+    "wof:name":"John Fogg Janitorial",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.813542,61.182599,-149.813542,61.182599],
+  "geometry": {"coordinates":[-149.813542,61.182599],"type":"Point"}
+}

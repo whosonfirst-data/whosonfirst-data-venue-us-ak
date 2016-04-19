@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.800469,64.857414,-147.800469,64.857414",
+    "geom:latitude":64.857414,
+    "geom:longitude":-147.800469,
+    "iso:country":"US",
+    "sg:address":"3245 College Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 7060",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3b4Z29tmtBSyEIgkQwNOd2_64.857414_-147.800469@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c61115056135691db4a785732cc66cf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102190485"
+        }
+    ],
+    "wof:id":"102190485",
+    "wof:lastmodified":1449070036,
+    "wof:name":"U-Save Auto Rental",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.800469,64.857414,-147.800469,64.857414],
+  "geometry": {"coordinates":[-147.800469,64.857414],"type":"Point"}
+}

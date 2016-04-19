@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.834495,61.202498,-149.834495,61.202498",
+    "geom:latitude":61.202498,
+    "geom:longitude":-149.834495,
+    "iso:country":"US",
+    "sg:address":"2300 Oak Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 0152",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.anchorpark.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sIjq725iF1DvJTQ9IY8w9_61.202498_-149.834495@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ca1f55bc919285fd0b2e667ef2c34e5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102174585"
+        }
+    ],
+    "wof:id":"102174585",
+    "wof:lastmodified":1449068138,
+    "wof:name":"Anchor Park United Methodist",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.834495,61.202498,-149.834495,61.202498],
+  "geometry": {"coordinates":[-149.834495,61.202498],"type":"Point"}
+}

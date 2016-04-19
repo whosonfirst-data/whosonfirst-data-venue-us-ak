@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-161.80481,60.805136,-161.80481,60.805136",
+    "geom:latitude":60.805136,
+    "geom:longitude":-161.80481,
+    "iso:country":"US",
+    "sg:address":"808 Ptarmigan St",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 543 5600",
+    "sg:postcode":"99559",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915901,
+        85633793,
+        85688573,
+        102085877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VHidlhe5ymlr2Fw28KIkc_60.805136_-161.804810@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d2e8afa55a49133bea34dbff934fe447",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085877,
+            "locality_id":85915901,
+            "region_id":85688573,
+            "venue_id":"102161569"
+        }
+    ],
+    "wof:id":"102161569",
+    "wof:lastmodified":1449068713,
+    "wof:name":"Choice Automotive Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-161.80481,60.805136,-161.80481,60.805136],
+  "geometry": {"coordinates":[-161.80481,60.805136],"type":"Point"}
+}

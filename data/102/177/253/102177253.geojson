@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.355867,57.826112,-152.355867,57.826112",
+    "geom:latitude":57.826112,
+    "geom:longitude":-152.355867,
+    "iso:country":"US",
+    "sg:address":"4606 E Rezanof Dr",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 4536",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3K4tKQdKlRzLaFhfeCq1zM_57.826112_-152.355867@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0f1559ef229245f5f30bddaf8f68b381",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "region_id":85688573,
+            "venue_id":"102177253"
+        }
+    ],
+    "wof:id":"102177253",
+    "wof:lastmodified":1449070209,
+    "wof:name":"Bayside Volunteer Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.355867,57.826112,-152.355867,57.826112],
+  "geometry": {"coordinates":[-152.355867,57.826112],"type":"Point"}
+}

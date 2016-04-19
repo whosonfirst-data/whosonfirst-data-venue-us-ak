@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-166.53998,53.889,-166.53998,53.889",
+    "geom:latitude":53.889,
+    "geom:longitude":-166.53998,
+    "iso:country":"US",
+    "sg:address":"176 Kashega Dr",
+    "sg:city":"Dutch Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 581 1240",
+    "sg:postcode":"99692",
+    "sg:province":"AK",
+    "sg:tags":[
+        "pilot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916059,
+        85633793,
+        85688573,
+        102080627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09Ijg1v0atc8Ge4e6VQ3QX_53.889000_-166.539980@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4ab90ee3cdea1d04a5f7a358220e11b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080627,
+            "locality_id":85916059,
+            "region_id":85688573,
+            "venue_id":"102189187"
+        }
+    ],
+    "wof:id":"102189187",
+    "wof:lastmodified":1449069497,
+    "wof:name":"Alaska Marine Pilots Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-166.53998,53.889,-166.53998,53.889],
+  "geometry": {"coordinates":[-166.53998,53.889],"type":"Point"}
+}

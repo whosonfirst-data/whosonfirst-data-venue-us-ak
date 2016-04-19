@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.617725,58.370446,-134.617725,58.370446",
+    "geom:latitude":58.370446,
+    "geom:longitude":-134.617725,
+    "iso:country":"US",
+    "sg:address":"2760 Sherwood Ln",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 465 4361",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915729,
+        85633793,
+        85688573,
+        102081399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zzA4G1GIql0zmq37gNrew_58.370446_-134.617725@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"77e3735de767418ea5b95109ff102723",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "region_id":85688573,
+            "venue_id":"102149483"
+        }
+    ],
+    "wof:id":"102149483",
+    "wof:lastmodified":1449067769,
+    "wof:name":"Motor Vehicles Div",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.617725,58.370446,-134.617725,58.370446],
+  "geometry": {"coordinates":[-134.617725,58.370446],"type":"Point"}
+}

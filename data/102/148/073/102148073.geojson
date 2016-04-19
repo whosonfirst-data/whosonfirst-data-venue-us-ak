@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.625791,58.350724,-134.625791,58.350724",
+    "geom:latitude":58.350724,
+    "geom:longitude":-134.625791,
+    "iso:country":"US",
+    "sg:address":"10654 Porter Ln",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 4206",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915729,
+        85633793,
+        85688573,
+        102081399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_627ctTnFLfd7KugJQVorES_58.350724_-134.625791@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b103a97a51e9aa9f19092c118e443957",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "region_id":85688573,
+            "venue_id":"102148073"
+        }
+    ],
+    "wof:id":"102148073",
+    "wof:lastmodified":1449069785,
+    "wof:name":"Southeast Hd Parts & Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.625791,58.350724,-134.625791,58.350724],
+  "geometry": {"coordinates":[-134.625791,58.350724],"type":"Point"}
+}

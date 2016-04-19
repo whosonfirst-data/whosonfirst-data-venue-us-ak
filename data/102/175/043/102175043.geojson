@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.774018,61.187745,-149.774018,61.187745",
+    "geom:latitude":61.187745,
+    "geom:longitude":-149.774018,
+    "iso:country":"US",
+    "sg:address":"3619 Image Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 8485",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Hq6cb7KxiqcicdANW8xda_61.187745_-149.774018@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ef056ee1dac16110db9dafd74457eaa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102175043"
+        }
+    ],
+    "wof:id":"102175043",
+    "wof:lastmodified":1449069469,
+    "wof:name":"Bishop's Image",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.774018,61.187745,-149.774018,61.187745],
+  "geometry": {"coordinates":[-149.774018,61.187745],"type":"Point"}
+}

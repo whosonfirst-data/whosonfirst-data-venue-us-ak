@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.647148,56.250201,-134.647148,56.250201",
+    "geom:latitude":56.250201,
+    "geom:longitude":-134.647148,
+    "iso:country":"US",
+    "sg:address":"612 Main St",
+    "sg:city":"Port Alexander",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 568 2206",
+    "sg:postcode":"99836",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tackle",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916029,
+        85633793,
+        85688573,
+        102081899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QVT0UZAtVd4uLi4GBY4Wo_56.250201_-134.647148@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2b41466d3643a813e712b979653ccf3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081899,
+            "locality_id":85916029,
+            "region_id":85688573,
+            "venue_id":"102156815"
+        }
+    ],
+    "wof:id":"102156815",
+    "wof:lastmodified":1449068281,
+    "wof:name":"Puget Sound Fishermen Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.647148,56.250201,-134.647148,56.250201],
+  "geometry": {"coordinates":[-134.647148,56.250201],"type":"Point"}
+}

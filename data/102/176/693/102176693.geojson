@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.771948,61.056935,-149.771948,61.056935",
+    "geom:latitude":61.056935,
+    "geom:longitude":-149.771948,
+    "iso:country":"US",
+    "sg:address":"5911 Romania Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 1490",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873751,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sA7Pi7ZV7YiTN0Z4cSdwr_61.056935_-149.771948@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d09121dfc217ac8cf4e151ef8a0ef3d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873751,
+            "region_id":85688573,
+            "venue_id":"102176693"
+        }
+    ],
+    "wof:id":"102176693",
+    "wof:lastmodified":1449069341,
+    "wof:name":"Dale Enterprises",
+    "wof:parent_id":85873751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.771948,61.056935,-149.771948,61.056935],
+  "geometry": {"coordinates":[-149.771948,61.056935],"type":"Point"}
+}

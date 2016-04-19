@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.805601,61.209629,-149.805601,61.209629",
+    "geom:latitude":61.209629,
+    "geom:longitude":-149.805601,
+    "iso:country":"US",
+    "sg:address":"4110 Debarr Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 2077",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_384shczGap4lB6HRGnhHBy_61.209629_-149.805601@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fc8fd9f1a564cd8ab2ec10ee21ca554b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102150961"
+        }
+    ],
+    "wof:id":"102150961",
+    "wof:lastmodified":1449067791,
+    "wof:name":"Abrego Construction",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.805601,61.209629,-149.805601,61.209629],
+  "geometry": {"coordinates":[-149.805601,61.209629],"type":"Point"}
+}

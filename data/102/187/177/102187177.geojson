@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.95844,56.81127,-132.95844,56.81127",
+    "geom:latitude":56.81127,
+    "geom:longitude":-132.95844,
+    "iso:country":"US",
+    "sg:address":"16 Sing Lee Aly",
+    "sg:city":"Petersburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 772 3801",
+    "sg:postcode":"99833",
+    "sg:province":"AK",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916033,
+        85633793,
+        85688573,
+        102081899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o9v201KhS706lqCBfwUpW_56.811270_-132.958440@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f884dc164a79bbd258cacdb379c0501d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081899,
+            "locality_id":85916033,
+            "region_id":85688573,
+            "venue_id":"102187177"
+        }
+    ],
+    "wof:id":"102187177",
+    "wof:lastmodified":1449068160,
+    "wof:name":"Fish & Game Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.95844,56.81127,-132.95844,56.81127],
+  "geometry": {"coordinates":[-132.95844,56.81127],"type":"Point"}
+}

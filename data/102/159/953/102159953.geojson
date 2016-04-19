@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.920971,61.202087,-149.920971,61.202087",
+    "geom:latitude":61.202087,
+    "geom:longitude":-149.920971,
+    "iso:country":"US",
+    "sg:address":"1943 Hillcrest Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 0306",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ],
+    "sg:website":"www.transcriptsonly.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873721,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZumH9FhHzQ6amNbx7a15X_61.202087_-149.920971@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6b899e3440bc350a9c3f360066d8c612",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873721,
+            "region_id":85688573,
+            "venue_id":"102159953"
+        }
+    ],
+    "wof:id":"102159953",
+    "wof:lastmodified":1449068095,
+    "wof:name":"Transcripts Only",
+    "wof:parent_id":85873721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.920971,61.202087,-149.920971,61.202087],
+  "geometry": {"coordinates":[-149.920971,61.202087],"type":"Point"}
+}

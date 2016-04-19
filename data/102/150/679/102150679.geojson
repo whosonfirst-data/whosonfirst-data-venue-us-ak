@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-145.75851,60.544715,-145.75851,60.544715",
+    "geom:latitude":60.544715,
+    "geom:longitude":-145.75851,
+    "iso:country":"US",
+    "sg:address":"509 1st St",
+    "sg:city":"Cordova",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 424 3447",
+    "sg:postcode":"99574",
+    "sg:province":"AK",
+    "sg:website":"www.crsalmon.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839707,
+        85633793,
+        85915567,
+        102081911,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GQCIUZcFhMA5FrfxOrNwC_60.544715_-145.758510@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4767023bad6fc4999321952427a2815f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915567,
+            "neighbourhood_id":85839707,
+            "region_id":85688573,
+            "venue_id":"102150679"
+        }
+    ],
+    "wof:id":"102150679",
+    "wof:lastmodified":1449067791,
+    "wof:name":"Cordova District Fisherman",
+    "wof:parent_id":85839707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-145.75851,60.544715,-145.75851,60.544715],
+  "geometry": {"coordinates":[-145.75851,60.544715],"type":"Point"}
+}

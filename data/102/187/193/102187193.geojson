@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.324421,57.054567,-135.324421,57.054567",
+    "geom:latitude":57.054567,
+    "geom:longitude":-135.324421,
+    "iso:country":"US",
+    "sg:address":"712 Biorka St",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 3924",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Id6Xl7mqGeG6X5yuPv4Wx_57.054567_-135.324421@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e4ade3eba30e1544fc39163dfa015249",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102187193"
+        }
+    ],
+    "wof:id":"102187193",
+    "wof:lastmodified":1449068157,
+    "wof:name":"Maple Leaf Inc",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.324421,57.054567,-135.324421,57.054567],
+  "geometry": {"coordinates":[-135.324421,57.054567],"type":"Point"}
+}

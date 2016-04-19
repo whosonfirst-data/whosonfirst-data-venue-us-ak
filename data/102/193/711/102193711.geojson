@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.877396,61.166464,-149.877396,61.166464",
+    "geom:latitude":61.166464,
+    "geom:longitude":-149.877396,
+    "iso:country":"US",
+    "sg:address":"273 E Dowling Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 2889",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0En6xR1xWpTI9WUYdfgnrb_61.166464_-149.877396@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c7182a6f19201a4e7d56e84316c320a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102193711"
+        }
+    ],
+    "wof:id":"102193711",
+    "wof:lastmodified":1449068195,
+    "wof:name":"Red Dragon",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.877396,61.166464,-149.877396,61.166464],
+  "geometry": {"coordinates":[-149.877396,61.166464],"type":"Point"}
+}

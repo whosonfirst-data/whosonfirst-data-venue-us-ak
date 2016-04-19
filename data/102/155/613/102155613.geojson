@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.838069,61.169352,-149.838069,61.169352",
+    "geom:latitude":61.169352,
+    "geom:longitude":-149.838069,
+    "iso:country":"US",
+    "sg:address":"5701 Lake Otis Pkwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 7551",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76zeetPoDu2jXH0u0mkVdq_61.169352_-149.838069@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"14322a4aac46182bd0a24cbf8c0023c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102155613"
+        }
+    ],
+    "wof:id":"102155613",
+    "wof:lastmodified":1449069744,
+    "wof:name":"Aurora Pain Management",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.838069,61.169352,-149.838069,61.169352],
+  "geometry": {"coordinates":[-149.838069,61.169352],"type":"Point"}
+}

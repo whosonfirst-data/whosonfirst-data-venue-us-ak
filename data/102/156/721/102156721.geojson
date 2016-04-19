@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.80951,61.180912,-149.80951,61.180912",
+    "geom:latitude":61.180912,
+    "geom:longitude":-149.80951,
+    "iso:country":"US",
+    "sg:address":"3701 E Tudor Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 770 3555",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57J21KdLaedTsLinxah1ck_61.180912_-149.809510@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0874f317d504a07abf980966a534dc45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102156721"
+        }
+    ],
+    "wof:id":"102156721",
+    "wof:lastmodified":1449068283,
+    "wof:name":"Mechelle's Hair Designs",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.80951,61.180912,-149.80951,61.180912],
+  "geometry": {"coordinates":[-149.80951,61.180912],"type":"Point"}
+}

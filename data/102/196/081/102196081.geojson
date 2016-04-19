@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.894164,61.168773,-149.894164,61.168773",
+    "geom:latitude":61.168773,
+    "geom:longitude":-149.894164,
+    "iso:country":"US",
+    "sg:address":"650 W 58th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 1858",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XKn9qfjOMOhuf1D1PseqU_61.168773_-149.894164@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3d85a7bc674302d462693fd5133a888d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102196081"
+        }
+    ],
+    "wof:id":"102196081",
+    "wof:lastmodified":1449068336,
+    "wof:name":"Kodiak Foods",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.894164,61.168773,-149.894164,61.168773],
+  "geometry": {"coordinates":[-149.894164,61.168773],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.930526,61.177427,-149.930526,61.177427",
+    "geom:latitude":61.177427,
+    "geom:longitude":-149.930526,
+    "iso:country":"US",
+    "sg:address":"2641 Melvin Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 3953",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NEL5GFaZaLKxye688cuv5_61.177427_-149.930526@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"43d6d2d86274e26a56e3a96858d062ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102189745"
+        }
+    ],
+    "wof:id":"102189745",
+    "wof:lastmodified":1449069499,
+    "wof:name":"Arctic Flyers/Ruess Herman",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.930526,61.177427,-149.930526,61.177427],
+  "geometry": {"coordinates":[-149.930526,61.177427],"type":"Point"}
+}

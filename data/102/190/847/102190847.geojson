@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.871022,61.18989,-149.871022,61.18989",
+    "geom:latitude":61.18989,
+    "geom:longitude":-149.871022,
+    "iso:country":"US",
+    "sg:address":"3330 Fairbanks St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 0645",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MLgllTi2McUDRpKp2N06H_61.189890_-149.871022@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e1dfdbff4a6b963a16657f0ecddea47e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102190847"
+        }
+    ],
+    "wof:id":"102190847",
+    "wof:lastmodified":1449070035,
+    "wof:name":"Veterinary Specialists Alaska",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.871022,61.18989,-149.871022,61.18989],
+  "geometry": {"coordinates":[-149.871022,61.18989],"type":"Point"}
+}

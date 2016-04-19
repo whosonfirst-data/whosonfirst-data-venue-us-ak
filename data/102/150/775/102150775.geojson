@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.748677,64.861805,-147.748677,64.861805",
+    "geom:latitude":64.861805,
+    "geom:longitude":-147.748677,
+    "iso:country":"US",
+    "sg:address":"1501 College Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 5837",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830247,
+        85633793,
+        85916559,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IQ12yB1l72ZPkrimgZZQF_64.861805_-147.748677@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"559373dc53fae7ff59b3efde3cd9e77b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "neighbourhood_id":85830247,
+            "region_id":85688573,
+            "venue_id":"102150775"
+        }
+    ],
+    "wof:id":"102150775",
+    "wof:lastmodified":1449067790,
+    "wof:name":"Hunter Education Indoor Shtng",
+    "wof:parent_id":85830247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.748677,64.861805,-147.748677,64.861805],
+  "geometry": {"coordinates":[-147.748677,64.861805],"type":"Point"}
+}

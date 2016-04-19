@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.747033,64.809156,-147.747033,64.809156",
+    "geom:latitude":64.809156,
+    "geom:longitude":-147.747033,
+    "iso:country":"US",
+    "sg:address":"1915 Donald Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 1197",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "helicopter",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZVTQQDUmzCheOaktKUlyI_64.809156_-147.747033@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a279ab294367eebd81f130f1c458c702",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102151759"
+        }
+    ],
+    "wof:id":"102151759",
+    "wof:lastmodified":1449067782,
+    "wof:name":"Air Logistics Of Alaska Inc",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.747033,64.809156,-147.747033,64.809156],
+  "geometry": {"coordinates":[-147.747033,64.809156],"type":"Point"}
+}

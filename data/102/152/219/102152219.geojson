@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.410764,58.301813,-134.410764,58.301813",
+    "geom:latitude":58.301813,
+    "geom:longitude":-134.410764,
+    "iso:country":"US",
+    "sg:address":"114 W 4th St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 3572",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oyCUML5SMhDUbXah5aUSu_58.301813_-134.410764@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c987a6820322a04da09049e2d83c4aef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102152219"
+        }
+    ],
+    "wof:id":"102152219",
+    "wof:lastmodified":1449069637,
+    "wof:name":"Juneau Douglas City Museum",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.410764,58.301813,-134.410764,58.301813],
+  "geometry": {"coordinates":[-134.410764,58.301813],"type":"Point"}
+}

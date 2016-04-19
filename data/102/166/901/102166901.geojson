@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.842446,61.160174,-149.842446,61.160174",
+    "geom:latitude":61.160174,
+    "geom:longitude":-149.842446,
+    "iso:country":"US",
+    "sg:address":"2170 Ivan Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 3217",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "house",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GuWybA5c9JFAxqj3dQ4o4_61.160174_-149.842446@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fda4f663397de172a4bef73323f59fd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102166901"
+        }
+    ],
+    "wof:id":"102166901",
+    "wof:lastmodified":1449069085,
+    "wof:name":"3 MS Services",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.842446,61.160174,-149.842446,61.160174],
+  "geometry": {"coordinates":[-149.842446,61.160174],"type":"Point"}
+}

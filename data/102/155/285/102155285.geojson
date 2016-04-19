@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.757552,61.061652,-149.757552,61.061652",
+    "geom:latitude":61.061652,
+    "geom:longitude":-149.757552,
+    "iso:country":"US",
+    "sg:address":"17520 Snow Crest Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 6970",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873751,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_279zYSXynWTxJXUthw9Dvt_61.061652_-149.757552@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a72ff3ef1342ab391f61805368f01477",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873751,
+            "region_id":85688573,
+            "venue_id":"102155285"
+        }
+    ],
+    "wof:id":"102155285",
+    "wof:lastmodified":1449069742,
+    "wof:name":"Polar Gis",
+    "wof:parent_id":85873751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.757552,61.061652,-149.757552,61.061652],
+  "geometry": {"coordinates":[-149.757552,61.061652],"type":"Point"}
+}

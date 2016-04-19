@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.39592,57.783822,-152.39592,57.783822",
+    "geom:latitude":57.783822,
+    "geom:longitude":-152.39592,
+    "iso:country":"US",
+    "sg:address":"505 Trident Way",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 8282",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "leasing",
+        "charter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75Utm1sTFeEgs6Vvl2xSSq_57.783822_-152.395920@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"06592507b08fe9f0db608415c874a9c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102188103"
+        }
+    ],
+    "wof:id":"102188103",
+    "wof:lastmodified":1449068946,
+    "wof:name":"Sea Hawk Air Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.39592,57.783822,-152.39592,57.783822],
+  "geometry": {"coordinates":[-152.39592,57.783822],"type":"Point"}
+}

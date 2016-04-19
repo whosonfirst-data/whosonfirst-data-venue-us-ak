@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.579059,58.364839,-134.579059,58.364839",
+    "geom:latitude":58.364839,
+    "geom:longitude":-134.579059,
+    "iso:country":"US",
+    "sg:address":"2223 Jordan Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 0200",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AjYxDDAkW00QP5c1UV9nN_58.364839_-134.579059@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2ca678c5c3214957228a70689b5b3954",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102183979"
+        }
+    ],
+    "wof:id":"102183979",
+    "wof:lastmodified":1449069041,
+    "wof:name":"Channel Construction Inc",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.579059,58.364839,-134.579059,58.364839],
+  "geometry": {"coordinates":[-134.579059,58.364839],"type":"Point"}
+}

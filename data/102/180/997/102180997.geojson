@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.246514,60.559057,-151.246514,60.559057",
+    "geom:latitude":60.559057,
+    "geom:longitude":-151.246514,
+    "iso:country":"US",
+    "sg:address":"163 Main St Lp",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 4378",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:website":"www.kenailibrary.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d5Nv0gsa8IGDHV1zQzwDn_60.559057_-151.246514@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"64335a32123438b4bfea50640c23370e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102180997"
+        }
+    ],
+    "wof:id":"102180997",
+    "wof:lastmodified":1449067878,
+    "wof:name":"Kenai Community Library",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.246514,60.559057,-151.246514,60.559057],
+  "geometry": {"coordinates":[-151.246514,60.559057],"type":"Point"}
+}

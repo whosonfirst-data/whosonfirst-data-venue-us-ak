@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.839559,61.165961,-149.839559,61.165961",
+    "geom:latitude":61.165961,
+    "geom:longitude":-149.839559,
+    "iso:country":"US",
+    "sg:address":"6250 Tuttle Pl",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 5098",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JBEznPf97eg0JG6nW95lq_61.165961_-149.839559@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5fcf66f6e5de29dd50d4482b4b551075",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102190489"
+        }
+    ],
+    "wof:id":"102190489",
+    "wof:lastmodified":1449070034,
+    "wof:name":"Last Frontier Mechanical",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.839559,61.165961,-149.839559,61.165961],
+  "geometry": {"coordinates":[-149.839559,61.165961],"type":"Point"}
+}

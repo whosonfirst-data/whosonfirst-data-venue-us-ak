@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.868212,61.180144,-149.868212,61.180144",
+    "geom:latitude":61.180144,
+    "geom:longitude":-149.868212,
+    "iso:country":"US",
+    "sg:address":"4434 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 1750",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.lithia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AXiicydXZ1tUfMTUepxDK_61.180144_-149.868212@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7e1f9497912508bfe49ecfad49423569",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102176655"
+        }
+    ],
+    "wof:id":"102176655",
+    "wof:lastmodified":1449069346,
+    "wof:name":"Lithia Chrysler/Jeep-Anchorage",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.868212,61.180144,-149.868212,61.180144],
+  "geometry": {"coordinates":[-149.868212,61.180144],"type":"Point"}
+}

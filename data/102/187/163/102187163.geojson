@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.87578,61.151873,-149.87578,61.151873",
+    "geom:latitude":61.151873,
+    "geom:longitude":-149.87578,
+    "iso:country":"US",
+    "sg:address":"320 E 76th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 3842",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "material",
+        "handling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jBDB01Sah3pfJnpPWV64f_61.151873_-149.875780@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1a6f47fbf6620cd8a4369545105e5860",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102187163"
+        }
+    ],
+    "wof:id":"102187163",
+    "wof:lastmodified":1449068160,
+    "wof:name":"Alaska Warehouse Equipment",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.87578,61.151873,-149.87578,61.151873],
+  "geometry": {"coordinates":[-149.87578,61.151873],"type":"Point"}
+}

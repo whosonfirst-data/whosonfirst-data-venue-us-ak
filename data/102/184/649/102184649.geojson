@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.86404,61.137661,-149.86404,61.137661",
+    "geom:latitude":61.137661,
+    "geom:longitude":-149.86404,
+    "iso:country":"US",
+    "sg:address":"9220 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 5600",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03ElUzmP7mgr4cc1EmsxGm_61.137661_-149.864040@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"69f1a2c2851efaacfd8bc52fac84e8fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102184649"
+        }
+    ],
+    "wof:id":"102184649",
+    "wof:lastmodified":1449068218,
+    "wof:name":"Royal Fork Restaurant",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.86404,61.137661,-149.86404,61.137661],
+  "geometry": {"coordinates":[-149.86404,61.137661],"type":"Point"}
+}

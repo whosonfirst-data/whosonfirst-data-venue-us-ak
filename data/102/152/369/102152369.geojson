@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.892337,61.195295,-149.892337,61.195295",
+    "geom:latitude":61.195295,
+    "geom:longitude":-149.892337,
+    "iso:country":"US",
+    "sg:address":"502 W Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 3174",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48ryZsQAoQDmNIbF91auo9_61.195295_-149.892337@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"177cda967fe1a79511949d3c5d6a763e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102152369"
+        }
+    ],
+    "wof:id":"102152369",
+    "wof:lastmodified":1449069636,
+    "wof:name":"P C Express",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.892337,61.195295,-149.892337,61.195295],
+  "geometry": {"coordinates":[-149.892337,61.195295],"type":"Point"}
+}

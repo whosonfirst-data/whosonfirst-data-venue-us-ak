@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.913024,61.186874,-149.913024,61.186874",
+    "geom:latitude":61.186874,
+    "geom:longitude":-149.913024,
+    "iso:country":"US",
+    "sg:address":"3607 Minnesota Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 569 2326",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OpmvTsMOGuD9hGGMTHJFH_61.186874_-149.913024@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8d84df98f650a6ad071e05ad868668ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102171653"
+        }
+    ],
+    "wof:id":"102171653",
+    "wof:lastmodified":1449070222,
+    "wof:name":"Caffe Express",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.913024,61.186874,-149.913024,61.186874],
+  "geometry": {"coordinates":[-149.913024,61.186874],"type":"Point"}
+}

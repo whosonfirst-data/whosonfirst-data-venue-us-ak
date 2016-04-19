@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.434104,61.608624,-149.434104,61.608624",
+    "geom:latitude":61.608624,
+    "geom:longitude":-149.434104,
+    "iso:country":"US",
+    "sg:address":"555 Agate Ln",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 5763",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916185,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NewRdVK0wrJUlJrbzdTYo_61.608624_-149.434104@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"42851d85be75f579a4e63144955b2bde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916185,
+            "region_id":85688573,
+            "venue_id":"102177491"
+        }
+    ],
+    "wof:id":"102177491",
+    "wof:lastmodified":1449070203,
+    "wof:name":"Rutzies Diesel Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.434104,61.608624,-149.434104,61.608624],
+  "geometry": {"coordinates":[-149.434104,61.608624],"type":"Point"}
+}

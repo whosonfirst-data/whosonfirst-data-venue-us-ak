@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.829812,61.217466,-149.829812,61.217466",
+    "geom:latitude":61.217466,
+    "geom:longitude":-149.829812,
+    "iso:country":"US",
+    "sg:address":"2400 E 5th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 3715",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1q4nrtBQKlc7HArTMOfmpu_61.217466_-149.829812@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1eac5bf9c8566fb2c9975ed1e656594d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102161653"
+        }
+    ],
+    "wof:id":"102161653",
+    "wof:lastmodified":1449068707,
+    "wof:name":"Middle Kuskokwin Electric Coop",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.829812,61.217466,-149.829812,61.217466],
+  "geometry": {"coordinates":[-149.829812,61.217466],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.530017,59.642606,-151.530017,59.642606",
+    "geom:latitude":59.642606,
+    "geom:longitude":-151.530017,
+    "iso:country":"US",
+    "sg:address":"3575 Heath St",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 3174",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hfGDRihHvinCd7fvkvrKM_59.642606_-151.530017@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ff21dfe64a13a021da1532e5fa4aff2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102177919"
+        }
+    ],
+    "wof:id":"102177919",
+    "wof:lastmodified":1449070208,
+    "wof:name":"Homer Sewer Treatment Plant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.530017,59.642606,-151.530017,59.642606],
+  "geometry": {"coordinates":[-151.530017,59.642606],"type":"Point"}
+}

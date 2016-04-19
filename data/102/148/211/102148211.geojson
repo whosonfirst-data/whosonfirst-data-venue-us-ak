@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.634771,55.341412,-131.634771,55.341412",
+    "geom:latitude":55.341412,
+    "geom:longitude":-131.634771,
+    "iso:country":"US",
+    "sg:address":"531 Deermount St",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 0528",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qGmPoGouuqKj4gpLrrHQX_55.341412_-131.634771@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d7a8ca875c2fdd7aaddb662cdbad5275",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102148211"
+        }
+    ],
+    "wof:id":"102148211",
+    "wof:lastmodified":1449069784,
+    "wof:name":"Yellow Taxi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.634771,55.341412,-131.634771,55.341412],
+  "geometry": {"coordinates":[-131.634771,55.341412],"type":"Point"}
+}

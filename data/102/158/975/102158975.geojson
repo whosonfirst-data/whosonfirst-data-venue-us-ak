@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.817029,61.104752,-149.817029,61.104752",
+    "geom:latitude":61.104752,
+    "geom:longitude":-149.817029,
+    "iso:country":"US",
+    "sg:address":"12700 Killey St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 6607",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rqA79KGeMIRegJFiqzHol_61.104752_-149.817029@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6ce0537954570853331ccdbf689c3cce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102158975"
+        }
+    ],
+    "wof:id":"102158975",
+    "wof:lastmodified":1449069396,
+    "wof:name":"Aspen Lawn Service",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.817029,61.104752,-149.817029,61.104752],
+  "geometry": {"coordinates":[-149.817029,61.104752],"type":"Point"}
+}

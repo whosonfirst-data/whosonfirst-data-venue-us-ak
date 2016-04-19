@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.652527,60.039667,-151.652527,60.039667",
+    "geom:latitude":60.039667,
+    "geom:longitude":-151.652527,
+    "iso:country":"US",
+    "sg:address":"15960 Cecelia St",
+    "sg:city":"Ninilchik",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 567 1054",
+    "sg:postcode":"99639",
+    "sg:province":"AK",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916875,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QniqtQd7p85KwK8OKXDzs_60.039667_-151.652527@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"66da1f55e8badf697c86d6adfea48e4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916875,
+            "region_id":85688573,
+            "venue_id":"102155111"
+        }
+    ],
+    "wof:id":"102155111",
+    "wof:lastmodified":1449069745,
+    "wof:name":"National Property Inspections",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.652527,60.039667,-151.652527,60.039667],
+  "geometry": {"coordinates":[-151.652527,60.039667],"type":"Point"}
+}

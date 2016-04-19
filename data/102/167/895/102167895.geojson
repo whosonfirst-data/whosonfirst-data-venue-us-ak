@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.910804,61.133864,-149.910804,61.133864",
+    "geom:latitude":61.133864,
+    "geom:longitude":-149.910804,
+    "iso:country":"US",
+    "sg:address":"1705 Minerva Way",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 9878",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36lQ33FB6isFVYiJIkA34i_61.133864_-149.910804@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"25b5e7db77dc295baceb02bbe1a7aaa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102167895"
+        }
+    ],
+    "wof:id":"102167895",
+    "wof:lastmodified":1449069002,
+    "wof:name":"Anchorage Wesleyan Church",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.910804,61.133864,-149.910804,61.133864],
+  "geometry": {"coordinates":[-149.910804,61.133864],"type":"Point"}
+}

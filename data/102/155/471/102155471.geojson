@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-148.009672,64.928991,-148.009672,64.928991",
+    "geom:latitude":64.928991,
+    "geom:longitude":-148.009672,
+    "iso:country":"US",
+    "sg:address":"3748 Hardluck Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 455 6761",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916569,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78mutrqsHQOmuAJHDOXEv8_64.928991_-148.009672@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"63050b4756f0d07a8c33060ce59899ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916569,
+            "region_id":85688573,
+            "venue_id":"102155471"
+        }
+    ],
+    "wof:id":"102155471",
+    "wof:lastmodified":1449069743,
+    "wof:name":"Alaskan Woodworker",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-148.009672,64.928991,-148.009672,64.928991],
+  "geometry": {"coordinates":[-148.009672,64.928991],"type":"Point"}
+}

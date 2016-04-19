@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.575398,58.399011,-134.575398,58.399011",
+    "geom:latitude":58.399011,
+    "geom:longitude":-134.575398,
+    "iso:country":"US",
+    "sg:address":"8810 Mendenhall Loop Rd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 1682",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "training",
+        "computer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3djDluNJ2vV35PyMLPI4Qn_58.399011_-134.575398@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"34d221c191f777fe1abc0de91ce41870",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102151979"
+        }
+    ],
+    "wof:id":"102151979",
+    "wof:lastmodified":1449067782,
+    "wof:name":"That Computer Guy",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.575398,58.399011,-134.575398,58.399011],
+  "geometry": {"coordinates":[-134.575398,58.399011],"type":"Point"}
+}

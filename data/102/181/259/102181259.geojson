@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.75979,64.859901,-147.75979,64.859901",
+    "geom:latitude":64.859901,
+    "geom:longitude":-147.75979,
+    "iso:country":"US",
+    "sg:address":"1727 Bridgewater Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 8209",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869043,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20W9xf8TmqUaPAHlNpaY3N_64.859901_-147.759790@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3a3a364f7d7c307b35e0f8c52133840d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85869043,
+            "region_id":85688573,
+            "venue_id":"102181259"
+        }
+    ],
+    "wof:id":"102181259",
+    "wof:lastmodified":1449069229,
+    "wof:name":"Kris Kringle Bed & Breakfast",
+    "wof:parent_id":85869043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.75979,64.859901,-147.75979,64.859901],
+  "geometry": {"coordinates":[-147.75979,64.859901],"type":"Point"}
+}

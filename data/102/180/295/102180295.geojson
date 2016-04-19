@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.442481,61.397218,-149.442481,61.397218",
+    "geom:latitude":61.397218,
+    "geom:longitude":-149.442481,
+    "iso:country":"US",
+    "sg:address":"23632 Creek Rd",
+    "sg:city":"Chugiak",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 688 2478",
+    "sg:postcode":"99567",
+    "sg:province":"AK",
+    "sg:tags":[
+        "demolition",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869049,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44r4pGsSOSYlWzUjrDKpei_61.397218_-149.442481@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5d3bac9d2eceedca6ddb06a92e3e1684",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869049,
+            "region_id":85688573,
+            "venue_id":"102180295"
+        }
+    ],
+    "wof:id":"102180295",
+    "wof:lastmodified":1449067871,
+    "wof:name":"Statewide Blasting Svc",
+    "wof:parent_id":85869049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.442481,61.397218,-149.442481,61.397218],
+  "geometry": {"coordinates":[-149.442481,61.397218],"type":"Point"}
+}

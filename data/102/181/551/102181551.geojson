@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.918306,61.195219,-149.918306,61.195219",
+    "geom:latitude":61.195219,
+    "geom:longitude":-149.918306,
+    "iso:country":"US",
+    "sg:address":"1650 W Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 339 0570",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AOvJBtKERraAYNPI4C9FN_61.195219_-149.918306@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c8f44ea26c35850625d5c5ace2170b96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102181551"
+        }
+    ],
+    "wof:id":"102181551",
+    "wof:lastmodified":1449069230,
+    "wof:name":"Floral Expressions",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.918306,61.195219,-149.918306,61.195219],
+  "geometry": {"coordinates":[-149.918306,61.195219],"type":"Point"}
+}

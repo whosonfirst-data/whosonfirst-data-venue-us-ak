@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.87974,57.867544,-152.87974,57.867544",
+    "geom:latitude":57.867544,
+    "geom:longitude":-152.87974,
+    "iso:country":"US",
+    "sg:address":"610 Main St",
+    "sg:city":"Port Lions",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 454 2222",
+    "sg:postcode":"99550",
+    "sg:province":"AK",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915885,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dFauGQliZUs0Re4QZmuOO_57.867544_-152.879740@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dba07fdeec0c6c903ffaf3d49f7eb8a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915885,
+            "region_id":85688573,
+            "venue_id":"102177949"
+        }
+    ],
+    "wof:id":"102177949",
+    "wof:lastmodified":1449070209,
+    "wof:name":"Settlers Cove Market",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.87974,57.867544,-152.87974,57.867544],
+  "geometry": {"coordinates":[-152.87974,57.867544],"type":"Point"}
+}

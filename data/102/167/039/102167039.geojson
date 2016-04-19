@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.73711,64.857621,-147.73711,64.857621",
+    "geom:latitude":64.857621,
+    "geom:longitude":-147.73711,
+    "iso:country":"US",
+    "sg:address":"1210 Oconnor Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 3293",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830247,
+        85633793,
+        85916559,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gMuzybm06uKyIXlWgujD0_64.857621_-147.737110@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"09402bcc4b400f5bdc187e0e9858569f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "neighbourhood_id":85830247,
+            "region_id":85688573,
+            "venue_id":"102167039"
+        }
+    ],
+    "wof:id":"102167039",
+    "wof:lastmodified":1449069002,
+    "wof:name":"Reliant Plumbing & Heating",
+    "wof:parent_id":85830247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.73711,64.857621,-147.73711,64.857621],
+  "geometry": {"coordinates":[-147.73711,64.857621],"type":"Point"}
+}

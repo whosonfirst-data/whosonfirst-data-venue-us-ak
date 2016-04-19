@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.585293,58.379509,-134.585293,58.379509",
+    "geom:latitude":58.379509,
+    "geom:longitude":-134.585293,
+    "iso:country":"US",
+    "sg:address":"3011 Mountainwood Cir",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 2536",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Iieggj0WNQCUWCDv9pxYQ_58.379509_-134.585293@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"35e97b703d2c74bb8e17e0230f84b057",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102177407"
+        }
+    ],
+    "wof:id":"102177407",
+    "wof:lastmodified":1449070208,
+    "wof:name":"Thomas P King & Assoc",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.585293,58.379509,-134.585293,58.379509],
+  "geometry": {"coordinates":[-134.585293,58.379509],"type":"Point"}
+}

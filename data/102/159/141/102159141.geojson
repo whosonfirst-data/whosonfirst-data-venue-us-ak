@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-166.5404,53.887527,-166.5404,53.887527",
+    "geom:latitude":53.887527,
+    "geom:longitude":-166.5404,
+    "iso:country":"US",
+    "sg:address":"271 Biorka Dr",
+    "sg:city":"Dutch Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 581 2182",
+    "sg:postcode":"99692",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916059,
+        85633793,
+        85688573,
+        102080627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JMesu8SlkOMwfrdDXNFLG_53.887527_-166.540400@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f223d87dd752b00f32f4936a7be7f690",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080627,
+            "locality_id":85916059,
+            "region_id":85688573,
+            "venue_id":"102159141"
+        }
+    ],
+    "wof:id":"102159141",
+    "wof:lastmodified":1449068092,
+    "wof:name":"Wescom Technical",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-166.5404,53.887527,-166.5404,53.887527],
+  "geometry": {"coordinates":[-166.5404,53.887527],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.571821,58.398671,-134.571821,58.398671",
+    "geom:latitude":58.398671,
+    "geom:longitude":-134.571821,
+    "iso:country":"US",
+    "sg:address":"8500 Mendenhall Loop Rd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 790 6800",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "federal",
+        "program",
+        "adm"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YZ8tdNNp6wsr70pbkn3dJ_58.398671_-134.571821@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2ba53ae4c9e8017f307f3858f36e3451",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102187087"
+        }
+    ],
+    "wof:id":"102187087",
+    "wof:lastmodified":1449068158,
+    "wof:name":"Us Commerce Dept NOAA",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.571821,58.398671,-134.571821,58.398671],
+  "geometry": {"coordinates":[-134.571821,58.398671],"type":"Point"}
+}

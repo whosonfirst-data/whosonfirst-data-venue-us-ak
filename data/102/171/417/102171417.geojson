@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.07251,60.481726,-151.07251,60.481726",
+    "geom:latitude":60.481726,
+    "geom:longitude":-151.07251,
+    "iso:country":"US",
+    "sg:address":"44510 Sterling Hwy",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 4455",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.ci.soldotna.ak.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PW4j1lzcRH2JZFRqtQIGp_60.481726_-151.072510@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"334483fba24cd508925eb58741b6ff8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102171417"
+        }
+    ],
+    "wof:id":"102171417",
+    "wof:lastmodified":1449070222,
+    "wof:name":"Soldotna Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.07251,60.481726,-151.07251,60.481726],
+  "geometry": {"coordinates":[-151.07251,60.481726],"type":"Point"}
+}

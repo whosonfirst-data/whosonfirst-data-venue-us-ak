@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-145.761041,60.546361,-145.761041,60.546361",
+    "geom:latitude":60.546361,
+    "geom:longitude":-145.761041,
+    "iso:country":"US",
+    "sg:address":"707 Railroad Ave",
+    "sg:city":"Cordova",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 424 7100",
+    "sg:postcode":"99574",
+    "sg:province":"AK",
+    "sg:tags":[
+        "bars",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839707,
+        85633793,
+        85915567,
+        102081911,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zAKiQb9Oas0snafLUkgIy_60.546361_-145.761041@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b6dabc36051bbb5e2b31d2a0b89e9872",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915567,
+            "neighbourhood_id":85839707,
+            "region_id":85688573,
+            "venue_id":"102150147"
+        }
+    ],
+    "wof:id":"102150147",
+    "wof:lastmodified":1449067792,
+    "wof:name":"Pastimes",
+    "wof:parent_id":85839707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-145.761041,60.546361,-145.761041,60.546361],
+  "geometry": {"coordinates":[-145.761041,60.546361],"type":"Point"}
+}

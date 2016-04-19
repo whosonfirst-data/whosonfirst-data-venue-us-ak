@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.839809,61.140513,-149.839809,61.140513",
+    "geom:latitude":61.140513,
+    "geom:longitude":-149.839809,
+    "iso:country":"US",
+    "sg:address":"9130 Elim St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 868 1680",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Dg10WjIpiSNqk2OyacE5v_61.140513_-149.839809@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b03b3909bbcae70e2f91aa253138cadb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102176647"
+        }
+    ],
+    "wof:id":"102176647",
+    "wof:lastmodified":1449069346,
+    "wof:name":"David Jensen Photography",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.839809,61.140513,-149.839809,61.140513],
+  "geometry": {"coordinates":[-149.839809,61.140513],"type":"Point"}
+}

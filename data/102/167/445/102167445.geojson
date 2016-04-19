@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.860074,61.145162,-149.860074,61.145162",
+    "geom:latitude":61.145162,
+    "geom:longitude":-149.860074,
+    "iso:country":"US",
+    "sg:address":"8141 Briarwood St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 8433",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pnBzFkNeeapsEYO0MYTz3_61.145162_-149.860074@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3cb4107156c0bdcc61443cdd4231a45c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102167445"
+        }
+    ],
+    "wof:id":"102167445",
+    "wof:lastmodified":1449069000,
+    "wof:name":"Dry Dock Inc",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.860074,61.145162,-149.860074,61.145162],
+  "geometry": {"coordinates":[-149.860074,61.145162],"type":"Point"}
+}

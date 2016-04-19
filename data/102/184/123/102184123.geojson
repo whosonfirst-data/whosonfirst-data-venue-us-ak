@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.472058,58.330458,-134.472058,58.330458",
+    "geom:latitude":58.330458,
+    "geom:longitude":-134.472058,
+    "iso:country":"US",
+    "sg:address":"3225 Hospital Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 3068",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853509,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PiLkWzu6YNBV4Vtuy1z7E_58.330458_-134.472058@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"598e33275abb1598e7f9ba18d4ccb388",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85853509,
+            "region_id":85688573,
+            "venue_id":"102184123"
+        }
+    ],
+    "wof:id":"102184123",
+    "wof:lastmodified":1449068216,
+    "wof:name":"Gregory H Dostal MD",
+    "wof:parent_id":85853509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.472058,58.330458,-134.472058,58.330458],
+  "geometry": {"coordinates":[-134.472058,58.330458],"type":"Point"}
+}

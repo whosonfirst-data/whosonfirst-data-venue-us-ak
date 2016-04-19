@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.860638,61.166472,-149.860638,61.166472",
+    "geom:latitude":61.166472,
+    "geom:longitude":-149.860638,
+    "iso:country":"US",
+    "sg:address":"1111 E Dowling Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 3344",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wCShBQOQUbmVF0fGeYo8g_61.166472_-149.860638@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b7ca340b28e1317d522725ba882c6e8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102190417"
+        }
+    ],
+    "wof:id":"102190417",
+    "wof:lastmodified":1449070034,
+    "wof:name":"Able Body Shop",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.860638,61.166472,-149.860638,61.166472],
+  "geometry": {"coordinates":[-149.860638,61.166472],"type":"Point"}
+}

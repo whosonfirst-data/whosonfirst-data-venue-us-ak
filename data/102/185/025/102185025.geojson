@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.836325,61.168925,-149.836325,61.168925",
+    "geom:latitude":61.168925,
+    "geom:longitude":-149.836325,
+    "iso:country":"US",
+    "sg:address":"5631 Samoa St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 3221",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wOC3Y8XctiF5DpZdE3br2_61.168925_-149.836325@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"693ec42d78c8c9ddcc49e6c890241e86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102185025"
+        }
+    ],
+    "wof:id":"102185025",
+    "wof:lastmodified":1449068197,
+    "wof:name":"Dean Lee Upholstery",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.836325,61.168925,-149.836325,61.168925],
+  "geometry": {"coordinates":[-149.836325,61.168925],"type":"Point"}
+}

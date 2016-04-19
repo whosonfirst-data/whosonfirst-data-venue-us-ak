@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.662157,64.897731,-147.662157,64.897731",
+    "geom:latitude":64.897731,
+    "geom:longitude":-147.662157,
+    "iso:country":"US",
+    "sg:address":"815 McGrath Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 5381",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mobile",
+        "home",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916559,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06lv0ucoa0HJY0fQlXSrc7_64.897731_-147.662157@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b916a18705b2a7532e0b0468b47cd9bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "region_id":85688573,
+            "venue_id":"102161613"
+        }
+    ],
+    "wof:id":"102161613",
+    "wof:lastmodified":1449068710,
+    "wof:name":"Village Mobile Home Park",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.662157,64.897731,-147.662157,64.897731],
+  "geometry": {"coordinates":[-147.662157,64.897731],"type":"Point"}
+}

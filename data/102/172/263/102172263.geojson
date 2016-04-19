@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.8936,61.168924,-149.8936,61.168924",
+    "geom:latitude":61.168924,
+    "geom:longitude":-149.8936,
+    "iso:country":"US",
+    "sg:address":"701 W 58th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 339 0399",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "holistic",
+        "practitioner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jbJR5G5bJfH7rBYsNp88x_61.168924_-149.893600@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"865663c74ebe030a2976747b45ae9016",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102172263"
+        }
+    ],
+    "wof:id":"102172263",
+    "wof:lastmodified":1449068739,
+    "wof:name":"Tamara's Touch",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.8936,61.168924,-149.8936,61.168924],
+  "geometry": {"coordinates":[-149.8936,61.168924],"type":"Point"}
+}

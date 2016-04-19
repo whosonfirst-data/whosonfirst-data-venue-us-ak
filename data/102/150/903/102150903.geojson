@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.483933,59.639966,-151.483933,59.639966",
+    "geom:latitude":59.639966,
+    "geom:longitude":-151.483933,
+    "iso:country":"US",
+    "sg:address":"2156 Kachemak Dr",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 4394",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "road",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5D4NMxncEfnoSlLPn4FrEG_59.639966_-151.483933@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"feca5b12fd9f29e79ceaa56d9c46b8e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102150903"
+        }
+    ],
+    "wof:id":"102150903",
+    "wof:lastmodified":1449067786,
+    "wof:name":"Highway Maintenance Foreman",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.483933,59.639966,-151.483933,59.639966],
+  "geometry": {"coordinates":[-151.483933,59.639966],"type":"Point"}
+}

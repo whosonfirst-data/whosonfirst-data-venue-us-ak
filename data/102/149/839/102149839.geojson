@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.730077,64.841908,-147.730077,64.841908",
+    "geom:latitude":64.841908,
+    "geom:longitude":-147.730077,
+    "iso:country":"US",
+    "sg:address":"805 6th Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 4923",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NKkGUOGormCsJIUAl1THs_64.841908_-147.730077@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"48f5379cd410d8668163c2fa7f502b40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102149839"
+        }
+    ],
+    "wof:id":"102149839",
+    "wof:lastmodified":1449067769,
+    "wof:name":"First Baptist Church",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.730077,64.841908,-147.730077,64.841908],
+  "geometry": {"coordinates":[-147.730077,64.841908],"type":"Point"}
+}

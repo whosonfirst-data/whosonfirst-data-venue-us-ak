@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.839014,61.090272,-149.839014,61.090272",
+    "geom:latitude":61.090272,
+    "geom:longitude":-149.839014,
+    "iso:country":"US",
+    "sg:address":"14440 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 2570",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "oil",
+        "well",
+        "directional"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873755,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Uzhi7bgvLXRWoCNsWXflI_61.090272_-149.839014@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d6ebb554ed8cfdc9238b69bd1126045c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873755,
+            "region_id":85688573,
+            "venue_id":"102162713"
+        }
+    ],
+    "wof:id":"102162713",
+    "wof:lastmodified":1449069823,
+    "wof:name":"Wildcats Enterprises",
+    "wof:parent_id":85873755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.839014,61.090272,-149.839014,61.090272],
+  "geometry": {"coordinates":[-149.839014,61.090272],"type":"Point"}
+}

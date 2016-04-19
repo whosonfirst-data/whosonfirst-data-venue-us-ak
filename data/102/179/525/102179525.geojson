@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.85931,61.219525,-149.85931,61.219525",
+    "geom:latitude":61.219525,
+    "geom:longitude":-149.85931,
+    "iso:country":"US",
+    "sg:address":"201 Post Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 7077",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "marine",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iQ1ve1t1F5pl2G8HbQr5Z_61.219525_-149.859310@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cbfb562e7e3adb7065bd56457a02ce30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102179525"
+        }
+    ],
+    "wof:id":"102179525",
+    "wof:lastmodified":1449069944,
+    "wof:name":"Totem Marine",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.85931,61.219525,-149.85931,61.219525],
+  "geometry": {"coordinates":[-149.85931,61.219525],"type":"Point"}
+}

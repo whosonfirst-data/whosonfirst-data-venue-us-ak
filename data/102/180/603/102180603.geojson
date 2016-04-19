@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.847871,64.810824,-147.847871,64.810824",
+    "geom:latitude":64.810824,
+    "geom:longitude":-147.847871,
+    "iso:country":"US",
+    "sg:address":"3900 University Ave S",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 6751",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916551,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qPHO0AKJES2VUdvgZT50P_64.810824_-147.847871@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"33794c46c4a20a3d56caaa98249e0e8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916551,
+            "region_id":85688573,
+            "venue_id":"102180603"
+        }
+    ],
+    "wof:id":"102180603",
+    "wof:lastmodified":1449067878,
+    "wof:name":"Tamarack Air LTD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.847871,64.810824,-147.847871,64.810824],
+  "geometry": {"coordinates":[-147.847871,64.810824],"type":"Point"}
+}

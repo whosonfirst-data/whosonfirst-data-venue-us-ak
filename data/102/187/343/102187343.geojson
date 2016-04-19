@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.954894,61.137401,-149.954894,61.137401",
+    "geom:latitude":61.137401,
+    "geom:longitude":-149.954894,
+    "iso:country":"US",
+    "sg:address":"3960 W Dimond Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 0660",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:website":"www.alyeskachiropractic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oi4txWvcKImbt5Ohkxldd_61.137401_-149.954894@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1db3ed53bc53ce3ac49ad73d1161e179",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102187343"
+        }
+    ],
+    "wof:id":"102187343",
+    "wof:lastmodified":1449068158,
+    "wof:name":"Alyeska Chiropractic Clinic",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.954894,61.137401,-149.954894,61.137401],
+  "geometry": {"coordinates":[-149.954894,61.137401],"type":"Point"}
+}

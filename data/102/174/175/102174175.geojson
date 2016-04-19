@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.382309,56.461113,-132.382309,56.461113",
+    "geom:latitude":56.461113,
+    "geom:longitude":-132.382309,
+    "iso:country":"US",
+    "sg:address":"223 Berger St",
+    "sg:city":"Wrangell",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 874 2341",
+    "sg:postcode":"99929",
+    "sg:province":"AK",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916111,
+        85633793,
+        85688573,
+        102081901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6imAWhjWqgDigMvaoqURmP_56.461113_-132.382309@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ee888d3d1d6ea6ceb94c838b5bdecb40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081901,
+            "locality_id":85916111,
+            "region_id":85688573,
+            "venue_id":"102174175"
+        }
+    ],
+    "wof:id":"102174175",
+    "wof:lastmodified":1449068137,
+    "wof:name":"Bob's IGA",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.382309,56.461113,-132.382309,56.461113],
+  "geometry": {"coordinates":[-132.382309,56.461113],"type":"Point"}
+}

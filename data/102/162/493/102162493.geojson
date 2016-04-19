@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-145.748649,60.539298,-145.748649,60.539298",
+    "geom:latitude":60.539298,
+    "geom:longitude":-145.748649,
+    "iso:country":"US",
+    "sg:address":"906 Center Dr",
+    "sg:city":"Cordova",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 424 3580",
+    "sg:postcode":"99574",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839707,
+        85633793,
+        85915567,
+        102081911,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10qpInd5Sb8M1FvD7pnZg5_60.539298_-145.748649@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7add332bdad1a7d4fe967de69cc7403d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915567,
+            "neighbourhood_id":85839707,
+            "region_id":85688573,
+            "venue_id":"102162493"
+        }
+    ],
+    "wof:id":"102162493",
+    "wof:lastmodified":1449069822,
+    "wof:name":"Sourdough Express",
+    "wof:parent_id":85839707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-145.748649,60.539298,-145.748649,60.539298],
+  "geometry": {"coordinates":[-145.748649,60.539298],"type":"Point"}
+}

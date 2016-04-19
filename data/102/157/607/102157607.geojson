@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.872572,61.195335,-149.872572,61.195335",
+    "geom:latitude":61.195335,
+    "geom:longitude":-149.872572,
+    "iso:country":"US",
+    "sg:address":"2506 Fairbanks St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 8306",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "stamp",
+        "collector",
+        "for"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qnqNpRhaNgpOb87yUSFqc_61.195335_-149.872572@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ea478c974cd3b41ec17bd8b161c808b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102157607"
+        }
+    ],
+    "wof:id":"102157607",
+    "wof:lastmodified":1449069830,
+    "wof:name":"North Pole Stamps",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.872572,61.195335,-149.872572,61.195335],
+  "geometry": {"coordinates":[-149.872572,61.195335],"type":"Point"}
+}

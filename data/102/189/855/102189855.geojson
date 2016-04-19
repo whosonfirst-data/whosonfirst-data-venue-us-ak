@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.06825,60.483256,-151.06825,60.483256",
+    "geom:latitude":60.483256,
+    "geom:longitude":-151.06825,
+    "iso:country":"US",
+    "sg:address":"44371 Sterling Hwy",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 260 2600",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1svfYC1fA0BYtyym2MSkYI_60.483256_-151.068250@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0577f3dfe8b19f9983389292acfefeac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102189855"
+        }
+    ],
+    "wof:id":"102189855",
+    "wof:lastmodified":1449069499,
+    "wof:name":"Johnson's Tire Svc Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.06825,60.483256,-151.06825,60.483256],
+  "geometry": {"coordinates":[-151.06825,60.483256],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-146.853623,64.406915,-146.853623,64.406915",
+    "geom:latitude":64.406915,
+    "geom:longitude":-146.853623,
+    "iso:country":"US",
+    "sg:address":"10810 Salcha Dr",
+    "sg:city":"Salcha",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 0169",
+    "sg:postcode":"99714",
+    "sg:province":"AK",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916593,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Vs6hwV4B5HbYqKaqMARcc_64.406915_-146.853623@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"249214ee8b947a6d413f686d300d7f12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916593,
+            "region_id":85688573,
+            "venue_id":"102165961"
+        }
+    ],
+    "wof:id":"102165961",
+    "wof:lastmodified":1449070219,
+    "wof:name":"Bingle Memorial Camp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-146.853623,64.406915,-146.853623,64.406915],
+  "geometry": {"coordinates":[-146.853623,64.406915],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.73359,61.223351,-149.73359,61.223351",
+    "geom:latitude":61.223351,
+    "geom:longitude":-149.73359,
+    "iso:country":"US",
+    "sg:address":"110 Muldoon Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 8162",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11IRGWt4THfTezGE7klDOR_61.223351_-149.733590@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b796dd85d5384e33064cd16b77341118",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102175951"
+        }
+    ],
+    "wof:id":"102175951",
+    "wof:lastmodified":1449069463,
+    "wof:name":"Traders Cache",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.73359,61.223351,-149.73359,61.223351],
+  "geometry": {"coordinates":[-149.73359,61.223351],"type":"Point"}
+}

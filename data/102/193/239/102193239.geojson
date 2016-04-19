@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-150.972973,60.465607,-150.972973,60.465607",
+    "geom:latitude":60.465607,
+    "geom:longitude":-150.972973,
+    "iso:country":"US",
+    "sg:address":"33470 Johnsons Dr",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 4834",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916977,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MAks304z6YU7BYv67oUgM_60.465607_-150.972973@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2a0e44ba76ce58b91af50043acdc82df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916977,
+            "region_id":85688573,
+            "venue_id":"102193239"
+        }
+    ],
+    "wof:id":"102193239",
+    "wof:lastmodified":1449068192,
+    "wof:name":"Alexis Calder",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-150.972973,60.465607,-150.972973,60.465607],
+  "geometry": {"coordinates":[-150.972973,60.465607],"type":"Point"}
+}

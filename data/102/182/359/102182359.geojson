@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.693997,64.841932,-147.693997,64.841932",
+    "geom:latitude":64.841932,
+    "geom:longitude":-147.693997,
+    "iso:country":"US",
+    "sg:address":"108 Hamilton Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 1000",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AjPsMvV6KzYqDVQCDPtGV_64.841932_-147.693997@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f1fe5ec7bd0544066b79b44e58cf2072",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102182359"
+        }
+    ],
+    "wof:id":"102182359",
+    "wof:lastmodified":1449069279,
+    "wof:name":"Jrs Stewart's Fabrication",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.693997,64.841932,-147.693997,64.841932],
+  "geometry": {"coordinates":[-147.693997,64.841932],"type":"Point"}
+}

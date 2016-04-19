@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.545707,61.320589,-149.545707,61.320589",
+    "geom:latitude":61.320589,
+    "geom:longitude":-149.545707,
+    "iso:country":"US",
+    "sg:address":"18044 Sanctuary Dr",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 696 5884",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:website":"www.anchorageaeyc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ne03hOX4TEmmy7iGOifqM_61.320589_-149.545707@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7486862a422c2d9bc9e09ae33a648bec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102185587"
+        }
+    ],
+    "wof:id":"102185587",
+    "wof:lastmodified":1449068196,
+    "wof:name":"Anchorage Association",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.545707,61.320589,-149.545707,61.320589],
+  "geometry": {"coordinates":[-149.545707,61.320589],"type":"Point"}
+}

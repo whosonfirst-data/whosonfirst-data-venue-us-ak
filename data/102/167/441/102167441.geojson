@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.732456,61.185884,-149.732456,61.185884",
+    "geom:latitude":61.185884,
+    "geom:longitude":-149.732456,
+    "iso:country":"US",
+    "sg:address":"8001 Pioneer Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 2717",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873735,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43cIigXVKtGYGprfGulUNG_61.185884_-149.732456@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6b633f263b4e6986af615e3d9a35514a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873735,
+            "region_id":85688573,
+            "venue_id":"102167441"
+        }
+    ],
+    "wof:id":"102167441",
+    "wof:lastmodified":1449069001,
+    "wof:name":"Integrity First Properties",
+    "wof:parent_id":85873735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.732456,61.185884,-149.732456,61.185884],
+  "geometry": {"coordinates":[-149.732456,61.185884],"type":"Point"}
+}

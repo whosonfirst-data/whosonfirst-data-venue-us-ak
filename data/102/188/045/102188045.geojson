@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.55051,59.641533,-151.55051,59.641533",
+    "geom:latitude":59.641533,
+    "geom:longitude":-151.55051,
+    "iso:country":"US",
+    "sg:address":"331 Sterling Hwy",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 6833",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IPoKw6Fx9bfEeiWkqAjvK_59.641533_-151.550510@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8a1a23c52a9a9191ece9c74706a108b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102188045"
+        }
+    ],
+    "wof:id":"102188045",
+    "wof:lastmodified":1449068948,
+    "wof:name":"Homer Tire & Auto Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.55051,59.641533,-151.55051,59.641533],
+  "geometry": {"coordinates":[-151.55051,59.641533],"type":"Point"}
+}

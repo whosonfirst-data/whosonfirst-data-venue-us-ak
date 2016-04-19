@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.961517,61.189084,-149.961517,61.189084",
+    "geom:latitude":61.189084,
+    "geom:longitude":-149.961517,
+    "iso:country":"US",
+    "sg:address":"4103 Cosmos Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 0700",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "broker",
+        "customs"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852831,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60cao3gui6KJu4xLpa1Jg5_61.189084_-149.961517@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e103273699c5a891f70d663225693d11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":"102166535"
+        }
+    ],
+    "wof:id":"102166535",
+    "wof:lastmodified":1449069082,
+    "wof:name":"Clayton's Customhouse Brkrge",
+    "wof:parent_id":85852831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.961517,61.189084,-149.961517,61.189084],
+  "geometry": {"coordinates":[-149.961517,61.189084],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.331096,64.788073,-147.331096,64.788073",
+    "geom:latitude":64.788073,
+    "geom:longitude":-147.331096,
+    "iso:country":"US",
+    "sg:address":"2502 Pool St",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 490 6400",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916555,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SDyJumdBTA9GodiXHUiYO_64.788073_-147.331096@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8e35929f3522b82a360193b23ed90932",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916555,
+            "region_id":85688573,
+            "venue_id":"102161839"
+        }
+    ],
+    "wof:id":"102161839",
+    "wof:lastmodified":1449068710,
+    "wof:name":"North Pole Cabins",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.331096,64.788073,-147.331096,64.788073],
+  "geometry": {"coordinates":[-147.331096,64.788073],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.411796,61.591663,-149.411796,61.591663",
+    "geom:latitude":61.591663,
+    "geom:longitude":-149.411796,
+    "iso:country":"US",
+    "sg:address":"1060 Leatherleaf Loop",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 2842",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop",
+        "clothing",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f9PrvA99edRqHp28ed0Zw_61.591663_-149.411796@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3df11ce2a128bcdcbe51a19b9bedf048",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "region_id":85688573,
+            "venue_id":"102192575"
+        }
+    ],
+    "wof:id":"102192575",
+    "wof:lastmodified":1449069503,
+    "wof:name":"Viv's Alaskan Sweatshirts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.411796,61.591663,-149.411796,61.591663],
+  "geometry": {"coordinates":[-149.411796,61.591663],"type":"Point"}
+}

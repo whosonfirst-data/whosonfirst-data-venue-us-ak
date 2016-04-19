@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-161.750914,60.791748,-161.750914,60.791748",
+    "geom:latitude":60.791748,
+    "geom:longitude":-161.750914,
+    "iso:country":"US",
+    "sg:address":"951 Front St",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 543 5151",
+    "sg:postcode":"99559",
+    "sg:province":"AK",
+    "sg:tags":[
+        "furnace"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915901,
+        85633793,
+        85688573,
+        102085877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X0HAVwgVpuWV9ao8q4MYC_60.791748_-161.750914@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"67c765babe55e1714b615d82ffdd3f03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085877,
+            "locality_id":85915901,
+            "region_id":85688573,
+            "venue_id":"102186065"
+        }
+    ],
+    "wof:id":"102186065",
+    "wof:lastmodified":1449069655,
+    "wof:name":"Furnace Doctor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-161.750914,60.791748,-161.750914,60.791748],
+  "geometry": {"coordinates":[-161.750914,60.791748],"type":"Point"}
+}

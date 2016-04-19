@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.962061,61.136084,-149.962061,61.136084",
+    "geom:latitude":61.136084,
+    "geom:longitude":-149.962061,
+    "iso:country":"US",
+    "sg:address":"4400 Mac Alister Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 892 7413",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Uh9trGhqlHsMv1aEQy8DC_61.136084_-149.962061@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a0cd08304958388354e65b5fae5c3be2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102194475"
+        }
+    ],
+    "wof:id":"102194475",
+    "wof:lastmodified":1449069827,
+    "wof:name":"PC Enterprises",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.962061,61.136084,-149.962061,61.136084],
+  "geometry": {"coordinates":[-149.962061,61.136084],"type":"Point"}
+}

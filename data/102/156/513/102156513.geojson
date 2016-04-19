@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.390068,61.593284,-149.390068,61.593284",
+    "geom:latitude":61.593284,
+    "geom:longitude":-149.390068,
+    "iso:country":"US",
+    "sg:address":"2501 Bogard Rd",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 2806",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "house",
+        "lumber"
+    ],
+    "sg:website":"www.arcticbuilders.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YIpg0WtCX9BiX7MmZVQSk_61.593284_-149.390068@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"24d545d71dde816b5a04f2997e90832f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "region_id":85688573,
+            "venue_id":"102156513"
+        }
+    ],
+    "wof:id":"102156513",
+    "wof:lastmodified":1449068281,
+    "wof:name":"Arctic Builders Source Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.390068,61.593284,-149.390068,61.593284],
+  "geometry": {"coordinates":[-149.390068,61.593284],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.909078,61.175183,-149.909078,61.175183",
+    "geom:latitude":61.175183,
+    "geom:longitude":-149.909078,
+    "iso:country":"US",
+    "sg:address":"4917 Southampton Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 1166",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6adAbfRnMcr8RNOAJ1bKTq_61.175183_-149.909078@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aaccfa6bcc2fb7803e10636f8119e75d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102188279"
+        }
+    ],
+    "wof:id":"102188279",
+    "wof:lastmodified":1449068946,
+    "wof:name":"Lena Construction",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.909078,61.175183,-149.909078,61.175183],
+  "geometry": {"coordinates":[-149.909078,61.175183],"type":"Point"}
+}

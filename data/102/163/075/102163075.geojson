@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.756221,61.133256,-149.756221,61.133256",
+    "geom:latitude":61.133256,
+    "geom:longitude":-149.756221,
+    "iso:country":"US",
+    "sg:address":"6740 Jollipan Ct",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 346 1319",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:website":"www.alaskacoverall.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873745,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7O5Jts37gyHwmKQoKgKcPt_61.133256_-149.756221@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f9e6d4cbd286c5e883a1b91e1412ee87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873745,
+            "region_id":85688573,
+            "venue_id":"102163075"
+        }
+    ],
+    "wof:id":"102163075",
+    "wof:lastmodified":1449070165,
+    "wof:name":"Alaska Cover-All",
+    "wof:parent_id":85873745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.756221,61.133256,-149.756221,61.133256],
+  "geometry": {"coordinates":[-149.756221,61.133256],"type":"Point"}
+}

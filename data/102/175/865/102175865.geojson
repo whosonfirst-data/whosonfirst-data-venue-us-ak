@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.436547,59.669983,-151.436547,59.669983",
+    "geom:latitude":59.669983,
+    "geom:longitude":-151.436547,
+    "iso:country":"US",
+    "sg:address":"41871 Kachemak Dr",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 3737",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "propeller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834363,
+        85633793,
+        85915739,
+        102081909,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NbxJFVneB79c9WrhiOUSn_59.669983_-151.436547@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bc687fc8f16f2904fbdd11aae2b3e244",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "neighbourhood_id":85834363,
+            "region_id":85688573,
+            "venue_id":"102175865"
+        }
+    ],
+    "wof:id":"102175865",
+    "wof:lastmodified":1449069469,
+    "wof:name":"West Coast Propeller Svc",
+    "wof:parent_id":85834363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.436547,59.669983,-151.436547,59.669983],
+  "geometry": {"coordinates":[-151.436547,59.669983],"type":"Point"}
+}

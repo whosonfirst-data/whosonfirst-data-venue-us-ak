@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.913501,64.81542,-147.913501,64.81542",
+    "geom:latitude":64.81542,
+    "geom:longitude":-147.913501,
+    "iso:country":"US",
+    "sg:address":"1145 Shypoke Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 458 7368",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "recreational",
+        "leasing",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916563,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4guxj7EcZFHRF41seSqJZt_64.815420_-147.913501@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3fd30e688ae76a9108568c79c4393cc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916563,
+            "region_id":85688573,
+            "venue_id":"102193537"
+        }
+    ],
+    "wof:id":"102193537",
+    "wof:lastmodified":1449068193,
+    "wof:name":"Adventures In Alaska Rv Rental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.913501,64.81542,-147.913501,64.81542],
+  "geometry": {"coordinates":[-147.913501,64.81542],"type":"Point"}
+}

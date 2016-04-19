@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.376689,56.464522,-132.376689,56.464522",
+    "geom:latitude":56.464522,
+    "geom:longitude":-132.376689,
+    "iso:country":"US",
+    "sg:address":"701 Case Ave",
+    "sg:city":"Wrangell",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 874 2949",
+    "sg:postcode":"99929",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916111,
+        85633793,
+        85688573,
+        102081901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XJ8tRqTZWB3Sg9wzRcb67_56.464522_-132.376689@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6a97b1a5ebea7790268498ef8ab124e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081901,
+            "locality_id":85916111,
+            "region_id":85688573,
+            "venue_id":"102170911"
+        }
+    ],
+    "wof:id":"102170911",
+    "wof:lastmodified":1449068019,
+    "wof:name":"Wrangell Shipyard",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.376689,56.464522,-132.376689,56.464522],
+  "geometry": {"coordinates":[-132.376689,56.464522],"type":"Point"}
+}

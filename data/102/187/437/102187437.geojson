@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.842556,61.163704,-149.842556,61.163704",
+    "geom:latitude":61.163704,
+    "geom:longitude":-149.842556,
+    "iso:country":"US",
+    "sg:address":"2140 E 63rd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 8924",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "marine",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v7ANhnowOKjTtNTRRBkT9_61.163704_-149.842556@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a0bcd4ef6447788ba52fb98df28df409",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102187437"
+        }
+    ],
+    "wof:id":"102187437",
+    "wof:lastmodified":1449068158,
+    "wof:name":"VIP Distributing Co",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.842556,61.163704,-149.842556,61.163704],
+  "geometry": {"coordinates":[-149.842556,61.163704],"type":"Point"}
+}

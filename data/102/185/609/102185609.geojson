@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.889323,61.217848,-149.889323,61.217848",
+    "geom:latitude":61.217848,
+    "geom:longitude":-149.889323,
+    "iso:country":"US",
+    "sg:address":"429 D St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 4446",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2j32NYEYg2lZ1ExDOzeXhu_61.217848_-149.889323@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4a40d878620ecc978dbc3fb18c0b2f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102185609"
+        }
+    ],
+    "wof:id":"102185609",
+    "wof:lastmodified":1449068197,
+    "wof:name":"Loussac-Sogn Residential Hotel",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.889323,61.217848,-149.889323,61.217848],
+  "geometry": {"coordinates":[-149.889323,61.217848],"type":"Point"}
+}

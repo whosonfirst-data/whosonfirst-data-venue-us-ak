@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.793209,61.08405,-149.793209,61.08405",
+    "geom:latitude":61.08405,
+    "geom:longitude":-149.793209,
+    "iso:country":"US",
+    "sg:address":"15245 Longbow Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 0529",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "pavement",
+        "marking",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873751,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nklHcs6YJ01TYhJ2efR9R_61.084050_-149.793209@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"62aa8f5b3d2023447503ad6be48fd9fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873751,
+            "region_id":85688573,
+            "venue_id":"102150631"
+        }
+    ],
+    "wof:id":"102150631",
+    "wof:lastmodified":1449067791,
+    "wof:name":"Straightline",
+    "wof:parent_id":85873751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.793209,61.08405,-149.793209,61.08405],
+  "geometry": {"coordinates":[-149.793209,61.08405],"type":"Point"}
+}

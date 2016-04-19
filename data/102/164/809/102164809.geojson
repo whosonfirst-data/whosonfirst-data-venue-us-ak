@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.725168,64.858367,-147.725168,64.858367",
+    "geom:latitude":64.858367,
+    "geom:longitude":-147.725168,
+    "iso:country":"US",
+    "sg:address":"810 Andrew St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 2681",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "exchanging",
+        "engine"
+    ],
+    "sg:website":"www.portmachineshop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830247,
+        85633793,
+        85916559,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MG8uhd3fc9eNZlLu86i6j_64.858367_-147.725168@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d35c4195f3507b9fdc7596c76e1cbae2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "neighbourhood_id":85830247,
+            "region_id":85688573,
+            "venue_id":"102164809"
+        }
+    ],
+    "wof:id":"102164809",
+    "wof:lastmodified":1449068091,
+    "wof:name":"Port Machine Shop",
+    "wof:parent_id":85830247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.725168,64.858367,-147.725168,64.858367],
+  "geometry": {"coordinates":[-147.725168,64.858367],"type":"Point"}
+}

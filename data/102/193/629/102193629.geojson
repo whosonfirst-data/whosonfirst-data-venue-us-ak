@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.829401,61.209781,-149.829401,61.209781",
+    "geom:latitude":61.209781,
+    "geom:longitude":-149.829401,
+    "iso:country":"US",
+    "sg:address":"2751 Debarr Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 5009",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09PPRXwDMhlP7wobSL6TUA_61.209781_-149.829401@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1fc341e12d85bc9d3bf8b0ce8a431470",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102193629"
+        }
+    ],
+    "wof:id":"102193629",
+    "wof:lastmodified":1449068195,
+    "wof:name":"Intervention Pain Consultants",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.829401,61.209781,-149.829401,61.209781],
+  "geometry": {"coordinates":[-149.829401,61.209781],"type":"Point"}
+}

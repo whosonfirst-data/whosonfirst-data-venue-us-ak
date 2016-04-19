@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.333404,57.055947,-135.333404,57.055947",
+    "geom:latitude":57.055947,
+    "geom:longitude":-135.333404,
+    "iso:country":"US",
+    "sg:address":"516 Monastery St",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 6395",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gHzU1zfGqw4JPnbYgKld9_57.055947_-135.333404@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b53d0a781af88d437d8b31849d7cfb9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102185435"
+        }
+    ],
+    "wof:id":"102185435",
+    "wof:lastmodified":1449068198,
+    "wof:name":"Ware Art Maintenance",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.333404,57.055947,-135.333404,57.055947],
+  "geometry": {"coordinates":[-135.333404,57.055947],"type":"Point"}
+}

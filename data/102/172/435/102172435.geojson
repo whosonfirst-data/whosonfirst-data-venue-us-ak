@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.876784,61.195212,-149.876784,61.195212",
+    "geom:latitude":61.195212,
+    "geom:longitude":-149.876784,
+    "iso:country":"US",
+    "sg:address":"310 E Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 6611",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:website":"www.alaskausainsurance.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26StRp70O08lssTi2ZEO53_61.195212_-149.876784@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aa4a8091c6755ab5e2ec1761c43edb38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102172435"
+        }
+    ],
+    "wof:id":"102172435",
+    "wof:lastmodified":1449068737,
+    "wof:name":"Alaska USA Insurance Inc",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.876784,61.195212,-149.876784,61.195212],
+  "geometry": {"coordinates":[-149.876784,61.195212],"type":"Point"}
+}

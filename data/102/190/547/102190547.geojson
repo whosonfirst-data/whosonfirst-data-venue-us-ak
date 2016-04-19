@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.802364,61.204752,-149.802364,61.204752",
+    "geom:latitude":61.204752,
+    "geom:longitude":-149.802364,
+    "iso:country":"US",
+    "sg:address":"1615 Sanya Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 338 6891",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "sewer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LQIdDeipYaBsPQN44QZO6_61.204752_-149.802364@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7f1eacb64b18a073d9a1346159c1bce0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102190547"
+        }
+    ],
+    "wof:id":"102190547",
+    "wof:lastmodified":1449070033,
+    "wof:name":"Dayton Sewer & Drain Svc",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.802364,61.204752,-149.802364,61.204752],
+  "geometry": {"coordinates":[-149.802364,61.204752],"type":"Point"}
+}

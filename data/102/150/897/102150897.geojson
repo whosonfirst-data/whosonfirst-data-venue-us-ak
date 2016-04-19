@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.823252,61.180834,-149.823252,61.180834",
+    "geom:latitude":61.180834,
+    "geom:longitude":-149.823252,
+    "iso:country":"US",
+    "sg:address":"2920 E Tudor Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 3006",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:website":"www.gnguns.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KwAbACu4EJNUksUY1XI7j_61.180834_-149.823252@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2eb5c3206a6442e5cb48774d32f6a210",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102150897"
+        }
+    ],
+    "wof:id":"102150897",
+    "wof:lastmodified":1449067791,
+    "wof:name":"Great Northern Guns Inc",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.823252,61.180834,-149.823252,61.180834],
+  "geometry": {"coordinates":[-149.823252,61.180834],"type":"Point"}
+}

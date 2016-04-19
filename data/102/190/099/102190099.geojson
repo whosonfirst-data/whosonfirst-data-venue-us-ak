@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.90971,64.813652,-147.90971,64.813652",
+    "geom:latitude":64.813652,
+    "geom:longitude":-147.90971,
+    "iso:country":"US",
+    "sg:address":"1180 Chena Pump Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 6868",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916563,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Yv7TyinNODFBM4a92q972_64.813652_-147.909710@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"54f67b5c06bee0575e4e577ad4f7cf31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916563,
+            "region_id":85688573,
+            "venue_id":"102190099"
+        }
+    ],
+    "wof:id":"102190099",
+    "wof:lastmodified":1449070037,
+    "wof:name":"M & M Constructors",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.90971,64.813652,-147.90971,64.813652],
+  "geometry": {"coordinates":[-147.90971,64.813652],"type":"Point"}
+}

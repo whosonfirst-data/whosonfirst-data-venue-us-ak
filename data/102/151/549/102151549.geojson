@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.852015,61.097383,-149.852015,61.097383",
+    "geom:latitude":61.097383,
+    "geom:longitude":-149.852015,
+    "iso:country":"US",
+    "sg:address":"13631 Venus Way",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 7499",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "residential",
+        "commercial",
+        "remodeling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pz4G8EqXUXRX75cjJpPd1_61.097383_-149.852015@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7ec1d6808eb4fa9e5b87cae78291af21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102151549"
+        }
+    ],
+    "wof:id":"102151549",
+    "wof:lastmodified":1449067780,
+    "wof:name":"Barabara Construction Co",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.852015,61.097383,-149.852015,61.097383],
+  "geometry": {"coordinates":[-149.852015,61.097383],"type":"Point"}
+}

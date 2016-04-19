@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-146.352885,61.12815,-146.352885,61.12815",
+    "geom:latitude":61.12815,
+    "geom:longitude":-146.352885,
+    "iso:country":"US",
+    "sg:address":"141 Galena Dr",
+    "sg:city":"Valdez",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 835 3858",
+    "sg:postcode":"99686",
+    "sg:province":"AK",
+    "sg:website":"www.prospectoroutfitters.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915585,
+        85633793,
+        85688573,
+        102081911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rDMNNsoeDUS2x20bwsGRn_61.128150_-146.352885@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c109644f6c166082098f8baff78ce24b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915585,
+            "region_id":85688573,
+            "venue_id":"102184805"
+        }
+    ],
+    "wof:id":"102184805",
+    "wof:lastmodified":1449068216,
+    "wof:name":"Valdez Prospector Outfitters",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-146.352885,61.12815,-146.352885,61.12815],
+  "geometry": {"coordinates":[-146.352885,61.12815],"type":"Point"}
+}

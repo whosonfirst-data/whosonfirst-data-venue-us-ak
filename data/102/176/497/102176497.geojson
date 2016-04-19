@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.06522,60.483819,-151.06522,60.483819",
+    "geom:latitude":60.483819,
+    "geom:longitude":-151.06522,
+    "iso:country":"US",
+    "sg:address":"44279 Sterling Hwy",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 260 4869",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HzcLVotKelXGwqytynbHL_60.483819_-151.065220@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"033d7a945f4aaeb536f89e2507b20a33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102176497"
+        }
+    ],
+    "wof:id":"102176497",
+    "wof:lastmodified":1449069350,
+    "wof:name":"Tesoro Food Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.06522,60.483819,-151.06522,60.483819],
+  "geometry": {"coordinates":[-151.06522,60.483819],"type":"Point"}
+}

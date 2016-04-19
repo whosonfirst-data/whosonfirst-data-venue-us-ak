@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.877077,61.211755,-149.877077,61.211755",
+    "geom:latitude":61.211755,
+    "geom:longitude":-149.877077,
+    "iso:country":"US",
+    "sg:address":"1011 Denali St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 1180",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o8sUCTEEFZaaW1KBjpW1A_61.211755_-149.877077@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c793e2b8e7a6b2f9d144c0742f0de3a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102172693"
+        }
+    ],
+    "wof:id":"102172693",
+    "wof:lastmodified":1449068735,
+    "wof:name":"Homework Residential Building",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.877077,61.211755,-149.877077,61.211755],
+  "geometry": {"coordinates":[-149.877077,61.211755],"type":"Point"}
+}

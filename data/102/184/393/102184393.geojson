@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.941501,61.1789,-149.941501,61.1789",
+    "geom:latitude":61.1789,
+    "geom:longitude":-149.941501,
+    "iso:country":"US",
+    "sg:address":"4702 Lake Spenard Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 9321",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5E3P7hdgEoqYqLKSksnNKj_61.178900_-149.941501@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"491e3607867596ae3e882e4a0f47a3aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102184393"
+        }
+    ],
+    "wof:id":"102184393",
+    "wof:lastmodified":1449068215,
+    "wof:name":"Lake Hood Inn",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.941501,61.1789,-149.941501,61.1789],
+  "geometry": {"coordinates":[-149.941501,61.1789],"type":"Point"}
+}

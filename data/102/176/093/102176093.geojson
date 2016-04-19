@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.87786,61.149202,-149.87786,61.149202",
+    "geom:latitude":61.149202,
+    "geom:longitude":-149.87786,
+    "iso:country":"US",
+    "sg:address":"7741 King St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 5632",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QKMoCp2R4rLnezGpVPPTy_61.149202_-149.877860@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e1138ce705659aa01fae611881ec09a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102176093"
+        }
+    ],
+    "wof:id":"102176093",
+    "wof:lastmodified":1449069342,
+    "wof:name":"D H Plumbing & Heating Inc",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.87786,61.149202,-149.87786,61.149202],
+  "geometry": {"coordinates":[-149.87786,61.149202],"type":"Point"}
+}

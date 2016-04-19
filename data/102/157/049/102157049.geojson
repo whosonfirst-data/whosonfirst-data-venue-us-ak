@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.820214,61.099129,-149.820214,61.099129",
+    "geom:latitude":61.099129,
+    "geom:longitude":-149.820214,
+    "iso:country":"US",
+    "sg:address":"3320 Windlass Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 336 6673",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "environmental",
+        "org"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36ILnkcIpFGDQiaK5wVYxq_61.099129_-149.820214@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"96335acf96bbed8a9dac920d03979178",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102157049"
+        }
+    ],
+    "wof:id":"102157049",
+    "wof:lastmodified":1449069832,
+    "wof:name":"Alaska Moose Federation",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.820214,61.099129,-149.820214,61.099129],
+  "geometry": {"coordinates":[-149.820214,61.099129],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.832705,64.83919,-147.832705,64.83919",
+    "geom:latitude":64.83919,
+    "geom:longitude":-147.832705,
+    "iso:country":"US",
+    "sg:address":"4122 Boat St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 2271",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "snowmobile"
+    ],
+    "sg:website":"www.compeaus.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6g3TbrcMmnfq2p6Xxheyl1_64.839190_-147.832705@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"112bf88a06f3924d7bd6113d61ddfae8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102155889"
+        }
+    ],
+    "wof:id":"102155889",
+    "wof:lastmodified":1449069742,
+    "wof:name":"Compeau's",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.832705,64.83919,-147.832705,64.83919],
+  "geometry": {"coordinates":[-147.832705,64.83919],"type":"Point"}
+}

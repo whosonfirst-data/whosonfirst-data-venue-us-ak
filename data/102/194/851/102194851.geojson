@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.471876,58.33117,-134.471876,58.33117",
+    "geom:latitude":58.33117,
+    "geom:longitude":-134.471876,
+    "iso:country":"US",
+    "sg:address":"3406 Glacier Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 463 3008",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853509,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0B5zj357ImUQdm1cLqGeCm_58.331170_-134.471876@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0673d1564570d169ad2b0cc6e4f002ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85853509,
+            "region_id":85688573,
+            "venue_id":"102194851"
+        }
+    ],
+    "wof:id":"102194851",
+    "wof:lastmodified":1449069828,
+    "wof:name":"Mental Health Clinic",
+    "wof:parent_id":85853509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.471876,58.33117,-134.471876,58.33117],
+  "geometry": {"coordinates":[-134.471876,58.33117],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.936884,61.158172,-149.936884,61.158172",
+    "geom:latitude":61.158172,
+    "geom:longitude":-149.936884,
+    "iso:country":"US",
+    "sg:address":"7551 Cranberry St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 245 1346",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5O0HaEdcE28Lbnos4UNncW_61.158172_-149.936884@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eaea727a8a1ecfb2517d5f9c1c776c32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102155143"
+        }
+    ],
+    "wof:id":"102155143",
+    "wof:lastmodified":1449069745,
+    "wof:name":"Last Frontier Taxidermy",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.936884,61.158172,-149.936884,61.158172],
+  "geometry": {"coordinates":[-149.936884,61.158172],"type":"Point"}
+}

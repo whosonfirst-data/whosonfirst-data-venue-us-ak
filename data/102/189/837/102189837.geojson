@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.744602,64.815273,-147.744602,64.815273",
+    "geom:latitude":64.815273,
+    "geom:longitude":-147.744602,
+    "iso:country":"US",
+    "sg:address":"3401 Lathrop St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 9660",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tours",
+        "promoter"
+    ],
+    "sg:website":"www.princesscruises.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MpOE26WSKb5pp7NkFbi8R_64.815273_-147.744602@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4acf1861083fda6821ccd2717da799e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102189837"
+        }
+    ],
+    "wof:id":"102189837",
+    "wof:lastmodified":1449069496,
+    "wof:name":"Princess Tours",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.744602,64.815273,-147.744602,64.815273],
+  "geometry": {"coordinates":[-147.744602,64.815273],"type":"Point"}
+}

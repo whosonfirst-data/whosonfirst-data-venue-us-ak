@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.736899,64.813052,-147.736899,64.813052",
+    "geom:latitude":64.813052,
+    "geom:longitude":-147.736899,
+    "iso:country":"US",
+    "sg:address":"3593 Holt Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 9729",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OStny5awCKZ0u7OMVYVCs_64.813052_-147.736899@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"54248f19570ae73a0cab8b743b3868af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102153223"
+        }
+    ],
+    "wof:id":"102153223",
+    "wof:lastmodified":1449069460,
+    "wof:name":"X-Ray Motors",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.736899,64.813052,-147.736899,64.813052],
+  "geometry": {"coordinates":[-147.736899,64.813052],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.587981,58.359826,-134.587981,58.359826",
+    "geom:latitude":58.359826,
+    "geom:longitude":-134.587981,
+    "iso:country":"US",
+    "sg:address":"1910 Alex Holden Way",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 4145",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KUSphcdMwP65g74RXWSTq_58.359826_-134.587981@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"01e0806f15aa9871482c0934abf3aaaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102147923"
+        }
+    ],
+    "wof:id":"102147923",
+    "wof:lastmodified":1449069928,
+    "wof:name":"Hot Sheet",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.587981,58.359826,-134.587981,58.359826],
+  "geometry": {"coordinates":[-134.587981,58.359826],"type":"Point"}
+}

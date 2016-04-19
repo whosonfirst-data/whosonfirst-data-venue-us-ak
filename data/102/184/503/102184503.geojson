@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.525856,59.649174,-151.525856,59.649174",
+    "geom:latitude":59.649174,
+    "geom:longitude":-151.525856,
+    "iso:country":"US",
+    "sg:address":"865 East Rd",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 8314",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24ouH4zkn9pxzYBf9f4sqe_59.649174_-151.525856@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"47031229f10a6ec6029621e2f03c2e8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102184503"
+        }
+    ],
+    "wof:id":"102184503",
+    "wof:lastmodified":1449068218,
+    "wof:name":"Homer Christian Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.525856,59.649174,-151.525856,59.649174],
+  "geometry": {"coordinates":[-151.525856,59.649174],"type":"Point"}
+}

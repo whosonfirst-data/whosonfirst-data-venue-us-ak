@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.858304,61.108548,-149.858304,61.108548",
+    "geom:latitude":61.108548,
+    "geom:longitude":-149.858304,
+    "iso:country":"US",
+    "sg:address":"1330 Huffman Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 0214",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YC5hqRyiofW1Xv6NHjIxO_61.108548_-149.858304@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"19145d9a1b4ae35aec68e8d098c2e448",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102186505"
+        }
+    ],
+    "wof:id":"102186505",
+    "wof:lastmodified":1449069655,
+    "wof:name":"David L Cantor",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.858304,61.108548,-149.858304,61.108548],
+  "geometry": {"coordinates":[-149.858304,61.108548],"type":"Point"}
+}

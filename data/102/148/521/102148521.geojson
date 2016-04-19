@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.875267,64.825498,-147.875267,64.825498",
+    "geom:latitude":64.825498,
+    "geom:longitude":-147.875267,
+    "iso:country":"US",
+    "sg:address":"5261 Beechcraft Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 4382",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916609,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cSDxk1CwdQ9s23dZqnLSR_64.825498_-147.875267@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0fd0a7320ad23b4048439f089061b25c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "region_id":85688573,
+            "venue_id":"102148521"
+        }
+    ],
+    "wof:id":"102148521",
+    "wof:lastmodified":1449069787,
+    "wof:name":"Stack Co Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.875267,64.825498,-147.875267,64.825498],
+  "geometry": {"coordinates":[-147.875267,64.825498],"type":"Point"}
+}

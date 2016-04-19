@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.352713,64.752129,-147.352713,64.752129",
+    "geom:latitude":64.752129,
+    "geom:longitude":-147.352713,
+    "iso:country":"US",
+    "sg:address":"350 S Santa Claus Ln",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 3215",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915639,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zaTWgFa1Pmc2MPBgCTRP0_64.752129_-147.352713@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"10452f226b48dd8b734255a4dca8f520",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915639,
+            "region_id":85688573,
+            "venue_id":"102156851"
+        }
+    ],
+    "wof:id":"102156851",
+    "wof:lastmodified":1449068281,
+    "wof:name":"Tanana Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.352713,64.752129,-147.352713,64.752129],
+  "geometry": {"coordinates":[-147.352713,64.752129],"type":"Point"}
+}

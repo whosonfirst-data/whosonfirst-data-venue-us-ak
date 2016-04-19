@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.835323,61.106409,-149.835323,61.106409",
+    "geom:latitude":61.106409,
+    "geom:longitude":-149.835323,
+    "iso:country":"US",
+    "sg:address":"2441 Brandy Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 7454",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home",
+        "contractor",
+        "general",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Y2okyuANcIh7yCYAmJmoj_61.106409_-149.835323@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7e10106f69fa23708c065c746103ef3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102153237"
+        }
+    ],
+    "wof:id":"102153237",
+    "wof:lastmodified":1449069460,
+    "wof:name":"Pilot Construction",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.835323,61.106409,-149.835323,61.106409],
+  "geometry": {"coordinates":[-149.835323,61.106409],"type":"Point"}
+}

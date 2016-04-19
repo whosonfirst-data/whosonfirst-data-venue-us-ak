@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.578394,58.39129,-134.578394,58.39129",
+    "geom:latitude":58.39129,
+    "geom:longitude":-134.578394,
+    "iso:country":"US",
+    "sg:address":"8306 Aspen Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 790 4166",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mCk3XZIXiqs19wzJH1LRV_58.391290_-134.578394@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"241982445534ba591d34cc8d3b1c2b1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102183317"
+        }
+    ],
+    "wof:id":"102183317",
+    "wof:lastmodified":1449069042,
+    "wof:name":"Stoll Brothers Upholstery",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.578394,58.39129,-134.578394,58.39129],
+  "geometry": {"coordinates":[-134.578394,58.39129],"type":"Point"}
+}

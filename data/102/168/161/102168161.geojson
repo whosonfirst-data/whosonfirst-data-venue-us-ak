@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.727843,64.83387,-147.727843,64.83387",
+    "geom:latitude":64.83387,
+    "geom:longitude":-147.727843,
+    "iso:country":"US",
+    "sg:address":"1504 Gillam Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 458 7225",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NY0x0uQduuyOiEgvPq1Ch_64.833870_-147.727843@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"073c1cfe78c8f5984d6fc73de68b8087",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102168161"
+        }
+    ],
+    "wof:id":"102168161",
+    "wof:lastmodified":1449069006,
+    "wof:name":"Martha Hanlon Architects Inc",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.727843,64.83387,-147.727843,64.83387],
+  "geometry": {"coordinates":[-147.727843,64.83387],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.755279,64.813375,-147.755279,64.813375",
+    "geom:latitude":64.813375,
+    "geom:longitude":-147.755279,
+    "iso:country":"US",
+    "sg:address":"3524 Industrial Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 4328",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "communications",
+        "contractor",
+        "electrical",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GLmYdEFIcgWtti7DHx1pH_64.813375_-147.755279@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f13230a0ecdb04b841cd531d51c9fd1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102185583"
+        }
+    ],
+    "wof:id":"102185583",
+    "wof:lastmodified":1449068198,
+    "wof:name":"Comtec Business Systems Inc",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.755279,64.813375,-147.755279,64.813375],
+  "geometry": {"coordinates":[-147.755279,64.813375],"type":"Point"}
+}

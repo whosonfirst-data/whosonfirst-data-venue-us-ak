@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.405295,65.046453,-147.405295,65.046453",
+    "geom:latitude":65.046453,
+    "geom:longitude":-147.405295,
+    "iso:country":"US",
+    "sg:address":"2315 Skiland Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 7669",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "resort",
+        "center",
+        "skiing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PL5yzZim20nBz5Ajbp8Yc_65.046453_-147.405295@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bd4d3dbd916456a496090ab84b33dea4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "region_id":85688573,
+            "venue_id":"102152855"
+        }
+    ],
+    "wof:id":"102152855",
+    "wof:lastmodified":1449069637,
+    "wof:name":"Skiland/Mt Aurora",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.405295,65.046453,-147.405295,65.046453],
+  "geometry": {"coordinates":[-147.405295,65.046453],"type":"Point"}
+}

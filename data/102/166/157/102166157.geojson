@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.331096,64.788004,-147.331096,64.788004",
+    "geom:latitude":64.788004,
+    "geom:longitude":-147.331096,
+    "iso:country":"US",
+    "sg:address":"2350 Pool St",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 7249",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engine",
+        "repair",
+        "aircraft",
+        "parts",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916555,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z1iOMCxvyGWCis2Murz1h_64.788004_-147.331096@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"95f307aca123818a83b80de834f3d7dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916555,
+            "region_id":85688573,
+            "venue_id":"102166157"
+        }
+    ],
+    "wof:id":"102166157",
+    "wof:lastmodified":1449069085,
+    "wof:name":"Fabair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.331096,64.788004,-147.331096,64.788004],
+  "geometry": {"coordinates":[-147.331096,64.788004],"type":"Point"}
+}

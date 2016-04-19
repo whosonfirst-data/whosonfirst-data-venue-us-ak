@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.724094,61.213345,-149.724094,61.213345",
+    "geom:latitude":61.213345,
+    "geom:longitude":-149.724094,
+    "iso:country":"US",
+    "sg:address":"800 Kathy Pl",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 338 7682",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "machine",
+        "sewing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dJgBz7qlnfj6OPmRLWdoO_61.213345_-149.724094@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1cf1e919244fe64e74c753332c12a882",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102185647"
+        }
+    ],
+    "wof:id":"102185647",
+    "wof:lastmodified":1449068196,
+    "wof:name":"Robison Sewing Machine Repair",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.724094,61.213345,-149.724094,61.213345],
+  "geometry": {"coordinates":[-149.724094,61.213345],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.02114,60.509638,-151.02114,60.509638",
+    "geom:latitude":60.509638,
+    "geom:longitude":-151.02114,
+    "iso:country":"US",
+    "sg:address":"36538 Kendanemken Dr",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 4101",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916859,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wuGadywAzKfnJba8EqYJT_60.509638_-151.021140@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2b5cb491da1a839f7cb8f3904ff1383e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916859,
+            "region_id":85688573,
+            "venue_id":"102176463"
+        }
+    ],
+    "wof:id":"102176463",
+    "wof:lastmodified":1449069347,
+    "wof:name":"Dick's Drywall & Painting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.02114,60.509638,-151.02114,60.509638],
+  "geometry": {"coordinates":[-151.02114,60.509638],"type":"Point"}
+}

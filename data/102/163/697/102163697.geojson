@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.365855,57.804461,-152.365855,57.804461",
+    "geom:latitude":57.804461,
+    "geom:longitude":-152.365855,
+    "iso:country":"US",
+    "sg:address":"117 Benny Benson Dr",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 1237",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jKB3jiIaUAKBZXjxGUwsn_57.804461_-152.365855@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2fd3c6a5117b0ca9abcb459cef82645f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102163697"
+        }
+    ],
+    "wof:id":"102163697",
+    "wof:lastmodified":1449070164,
+    "wof:name":"Kodiak Library",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.365855,57.804461,-152.365855,57.804461],
+  "geometry": {"coordinates":[-152.365855,57.804461],"type":"Point"}
+}

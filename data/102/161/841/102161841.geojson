@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.797156,61.225785,-149.797156,61.225785",
+    "geom:latitude":61.225785,
+    "geom:longitude":-149.797156,
+    "iso:country":"US",
+    "sg:address":"4516 Mountain View Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 0293",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "care",
+        "center",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OLa6PwfvIh3Xh5d7Jpq7m_61.225785_-149.797156@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0a851b8839fc15126bb2cea8746b0cf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102161841"
+        }
+    ],
+    "wof:id":"102161841",
+    "wof:lastmodified":1449068711,
+    "wof:name":"New Concept Adult Daycare",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.797156,61.225785,-149.797156,61.225785],
+  "geometry": {"coordinates":[-149.797156,61.225785],"type":"Point"}
+}

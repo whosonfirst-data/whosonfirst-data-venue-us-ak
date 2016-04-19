@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.605004,58.366114,-134.605004,58.366114",
+    "geom:latitude":58.366114,
+    "geom:longitude":-134.605004,
+    "iso:country":"US",
+    "sg:address":"10006 Crazy Horse Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 4976",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R1pGA3m53TH6g3VbEE0rQ_58.366114_-134.605004@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"18d39631b091682376cd4708acadfaf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102161851"
+        }
+    ],
+    "wof:id":"102161851",
+    "wof:lastmodified":1449068711,
+    "wof:name":"Glacier State Contractors",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.605004,58.366114,-134.605004,58.366114],
+  "geometry": {"coordinates":[-134.605004,58.366114],"type":"Point"}
+}

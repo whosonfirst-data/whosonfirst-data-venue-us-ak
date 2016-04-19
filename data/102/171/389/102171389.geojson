@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.584331,58.362999,-134.584331,58.362999",
+    "geom:latitude":58.362999,
+    "geom:longitude":-134.584331,
+    "iso:country":"US",
+    "sg:address":"9191 Lee Smith Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 9683",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fR4ZtX8Kuq5y0BxOXqpAW_58.362999_-134.584331@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5f7c0950faf561ba3a2b030e3c45c083",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102171389"
+        }
+    ],
+    "wof:id":"102171389",
+    "wof:lastmodified":1449070223,
+    "wof:name":"Foster Orthodontics",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.584331,58.362999,-134.584331,58.362999],
+  "geometry": {"coordinates":[-134.584331,58.362999],"type":"Point"}
+}

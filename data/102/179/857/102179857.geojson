@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.8471,61.133307,-149.8471,61.133307",
+    "geom:latitude":61.133307,
+    "geom:longitude":-149.8471,
+    "iso:country":"US",
+    "sg:address":"9731 Vanguard Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 2241",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06L7tD8ujamHecZifIcWEe_61.133307_-149.847100@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5cbd8fc81799b5a3a3ccfe9f9a61083d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102179857"
+        }
+    ],
+    "wof:id":"102179857",
+    "wof:lastmodified":1449069941,
+    "wof:name":"Independence Park Apartments",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.8471,61.133307,-149.8471,61.133307],
+  "geometry": {"coordinates":[-149.8471,61.133307],"type":"Point"}
+}

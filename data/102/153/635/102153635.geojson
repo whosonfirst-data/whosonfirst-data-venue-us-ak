@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.960653,61.1931,-149.960653,61.1931",
+    "geom:latitude":61.1931,
+    "geom:longitude":-149.960653,
+    "iso:country":"US",
+    "sg:address":"4041 Westland Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 4004",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "frozen",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852831,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02ssShvAY4XBxZjftw7KIJ_61.193100_-149.960653@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fb4b6d7447cee8a23c5ff5a9a07cc394",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":"102153635"
+        }
+    ],
+    "wof:id":"102153635",
+    "wof:lastmodified":1449069461,
+    "wof:name":"Big Als Alaskan Pizza Company",
+    "wof:parent_id":85852831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.960653,61.1931,-149.960653,61.1931],
+  "geometry": {"coordinates":[-149.960653,61.1931],"type":"Point"}
+}

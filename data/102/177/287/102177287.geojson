@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.872946,61.211577,-149.872946,61.211577",
+    "geom:latitude":61.211577,
+    "geom:longitude":-149.872946,
+    "iso:country":"US",
+    "sg:address":"524 E 11th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 8030",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kmoeLnF7AsXJJVbkB2usa_61.211577_-149.872946@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1588e0476b4220358f5cfcdebe8b6aab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102177287"
+        }
+    ],
+    "wof:id":"102177287",
+    "wof:lastmodified":1449070204,
+    "wof:name":"Northwind Apartments",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.872946,61.211577,-149.872946,61.211577],
+  "geometry": {"coordinates":[-149.872946,61.211577],"type":"Point"}
+}

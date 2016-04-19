@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.592788,58.411869,-134.592788,58.411869",
+    "geom:latitude":58.411869,
+    "geom:longitude":-134.592788,
+    "iso:country":"US",
+    "sg:address":"1070 Arctic Cir",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 0590",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XHQfHZckkaGrVElyLHGyL_58.411869_-134.592788@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"27cb176f57ace4e0d7cf438109ee7adb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102152975"
+        }
+    ],
+    "wof:id":"102152975",
+    "wof:lastmodified":1449069636,
+    "wof:name":"J W Bean Pro Surveyors",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.592788,58.411869,-134.592788,58.411869],
+  "geometry": {"coordinates":[-134.592788,58.411869],"type":"Point"}
+}

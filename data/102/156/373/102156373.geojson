@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.8754,61.177018,-149.8754,61.177018",
+    "geom:latitude":61.177018,
+    "geom:longitude":-149.8754,
+    "iso:country":"US",
+    "sg:address":"4953 Eagle St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 4898",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "layer",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7au3UoJgcu2i0ofbiKHKCY_61.177018_-149.875400@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f569dce55e2bb393a63b72a2b9cc7c8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102156373"
+        }
+    ],
+    "wof:id":"102156373",
+    "wof:lastmodified":1449068282,
+    "wof:name":"Designer Carpets",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.8754,61.177018,-149.8754,61.177018],
+  "geometry": {"coordinates":[-149.8754,61.177018],"type":"Point"}
+}

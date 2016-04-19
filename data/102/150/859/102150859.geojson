@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.734599,64.858236,-147.734599,64.858236",
+    "geom:latitude":64.858236,
+    "geom:longitude":-147.734599,
+    "iso:country":"US",
+    "sg:address":"119 Rosella Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 5267",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830247,
+        85633793,
+        85916559,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tyXGTno8m5o3urvCHgth9_64.858236_-147.734599@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4910a6a2120ef1bb2477744656817cac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "neighbourhood_id":85830247,
+            "region_id":85688573,
+            "venue_id":"102150859"
+        }
+    ],
+    "wof:id":"102150859",
+    "wof:lastmodified":1449067791,
+    "wof:name":"Polar Business Svc",
+    "wof:parent_id":85830247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.734599,64.858236,-147.734599,64.858236],
+  "geometry": {"coordinates":[-147.734599,64.858236],"type":"Point"}
+}

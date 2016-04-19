@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.870872,61.189916,-149.870872,61.189916",
+    "geom:latitude":61.189916,
+    "geom:longitude":-149.870872,
+    "iso:country":"US",
+    "sg:address":"3333 Fairbanks St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 868 3914",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VauGTVjeV754yzQoVpjZT_61.189916_-149.870872@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2c396eca01d1ea8f36d2ae355a7a8c5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102195371"
+        }
+    ],
+    "wof:id":"102195371",
+    "wof:lastmodified":1449069364,
+    "wof:name":"Homer Stage Line",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.870872,61.189916,-149.870872,61.189916],
+  "geometry": {"coordinates":[-149.870872,61.189916],"type":"Point"}
+}

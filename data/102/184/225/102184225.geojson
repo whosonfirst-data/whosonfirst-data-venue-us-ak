@@ -1,0 +1,70 @@
+{
+  "id": "102184225",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.864019,61.132395,-149.864019,61.132395",
+    "geom:latitude":61.132395,
+    "geom:longitude":-149.864019,
+    "iso:country":"US",
+    "sg:address":"9760 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 4425",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "yard"
+    ],
+    "sg:website":"www.unitedrentals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85915707,
+        102085881,
+        85873739
+    ],
+    "wof:brand_id":420574359,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CrJD5GuikYkbOOZFJxh0T_61.132395_-149.864019@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7e2045d6ae1e91ab1ca0fddaecfc0c79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102184225"
+        }
+    ],
+    "wof:id":"102184225",
+    "wof:lastmodified":1457208817,
+    "wof:name":"United Rentals",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.864019,
+    61.132395,
+    -149.864019,
+    61.132395
+],
+  "geometry": {"coordinates":[-149.86401900000001,61.132395],"type":"Point"}
+}

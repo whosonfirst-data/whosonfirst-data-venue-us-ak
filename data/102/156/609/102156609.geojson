@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.838299,61.186509,-149.838299,61.186509",
+    "geom:latitude":61.186509,
+    "geom:longitude":-149.838299,
+    "iso:country":"US",
+    "sg:address":"3742 Lake Otis Pkwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 7540",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "hearing",
+        "equipment",
+        "supply",
+        "impaired"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bXNp0kAvXMZgC6rwwJrgA_61.186509_-149.838299@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e1c553b69ea09e4209c18b23ba290b6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102156609"
+        }
+    ],
+    "wof:id":"102156609",
+    "wof:lastmodified":1449068282,
+    "wof:name":"Hearing Outreach",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.838299,61.186509,-149.838299,61.186509],
+  "geometry": {"coordinates":[-149.838299,61.186509],"type":"Point"}
+}

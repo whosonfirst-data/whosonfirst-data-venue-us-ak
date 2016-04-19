@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.791163,61.219131,-149.791163,61.219131",
+    "geom:latitude":61.219131,
+    "geom:longitude":-149.791163,
+    "iso:country":"US",
+    "sg:address":"4820 Klondike Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 338 5153",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "sg:website":"www.talltalestaxidermy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869053,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60ALI5RpBScDs5y0n2Ghcr_61.219131_-149.791163@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e52934f61e6c5da6edcfda32a7e13c38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869053,
+            "region_id":85688573,
+            "venue_id":"102161113"
+        }
+    ],
+    "wof:id":"102161113",
+    "wof:lastmodified":1449068712,
+    "wof:name":"Tall Tales Taxidermy",
+    "wof:parent_id":85869053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.791163,61.219131,-149.791163,61.219131],
+  "geometry": {"coordinates":[-149.791163,61.219131],"type":"Point"}
+}

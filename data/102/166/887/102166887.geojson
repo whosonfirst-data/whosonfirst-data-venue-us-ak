@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.902224,61.142099,-149.902224,61.142099",
+    "geom:latitude":61.142099,
+    "geom:longitude":-149.902224,
+    "iso:country":"US",
+    "sg:address":"1050 W Dimond Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 677 2519",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eeXH4pj3UwJJA51DK7S4l_61.142099_-149.902224@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6d64022a69f921433fd46d7731f18984",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102166887"
+        }
+    ],
+    "wof:id":"102166887",
+    "wof:lastmodified":1449069086,
+    "wof:name":"Espress Yourself Coffee Co",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.902224,61.142099,-149.902224,61.142099],
+  "geometry": {"coordinates":[-149.902224,61.142099],"type":"Point"}
+}

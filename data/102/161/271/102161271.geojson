@@ -1,0 +1,67 @@
+{
+  "id": "102161271",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-147.720117,64.841114,-147.720117,64.841114",
+    "geom:latitude":64.841114,
+    "geom:longitude":-147.720117,
+    "iso:country":"US",
+    "sg:address":"613 Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 459 4300",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:website":"www.wellsfargo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85915635,
+        102081397,
+        85848979
+    ],
+    "wof:brand_id":420573867,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yxpfipsgXI7hY2pSWTm8Z_64.841114_-147.720117@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c5f2274d0263e5aba8496a14788b6852",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102161271"
+        }
+    ],
+    "wof:id":"102161271",
+    "wof:lastmodified":1457207727,
+    "wof:name":"Wells Fargo Bank",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -147.720117,
+    64.841114,
+    -147.720117,
+    64.841114
+],
+  "geometry": {"coordinates":[-147.72011699999999,64.841114],"type":"Point"}
+}

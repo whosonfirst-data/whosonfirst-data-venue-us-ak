@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.07482,60.481238,-151.07482,60.481238",
+    "geom:latitude":60.481238,
+    "geom:longitude":-151.07482,
+    "iso:country":"US",
+    "sg:address":"131 Warehouse Dr",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 260 9411",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:website":"www.papamurphys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CbrwBGC5jprIgovvlO37Y_60.481238_-151.074820@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"14a413d57b2d3349724e2aaa15ad7955",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102160607"
+        }
+    ],
+    "wof:id":"102160607",
+    "wof:lastmodified":1449069776,
+    "wof:name":"Papa Murphy's Take 'N' Bake",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.07482,60.481238,-151.07482,60.481238],
+  "geometry": {"coordinates":[-151.07482,60.481238],"type":"Point"}
+}

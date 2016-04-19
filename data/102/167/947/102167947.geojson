@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.845319,61.173912,-149.845319,61.173912",
+    "geom:latitude":61.173912,
+    "geom:longitude":-149.845319,
+    "iso:country":"US",
+    "sg:address":"1840 Waldron Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 3880",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "taping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6T1802tFBxyEhP41ypIorS_61.173912_-149.845319@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0a06b1bade01cfe1c339199d7206a59b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102167947"
+        }
+    ],
+    "wof:id":"102167947",
+    "wof:lastmodified":1449069002,
+    "wof:name":"Gripworks",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.845319,61.173912,-149.845319,61.173912],
+  "geometry": {"coordinates":[-149.845319,61.173912],"type":"Point"}
+}

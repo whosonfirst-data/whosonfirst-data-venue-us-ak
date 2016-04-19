@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.760569,64.861937,-147.760569,64.861937",
+    "geom:latitude":64.861937,
+    "geom:longitude":-147.760569,
+    "iso:country":"US",
+    "sg:address":"200 Aurora Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 2176",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869043,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WPxYBqw1NfkcTzOcdNtx4_64.861937_-147.760569@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b7643272a3502a1c5146acd5c0ca0760",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85869043,
+            "region_id":85688573,
+            "venue_id":"102164927"
+        }
+    ],
+    "wof:id":"102164927",
+    "wof:lastmodified":1449068092,
+    "wof:name":"Little Lambs Too Preschool",
+    "wof:parent_id":85869043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.760569,64.861937,-147.760569,64.861937],
+  "geometry": {"coordinates":[-147.760569,64.861937],"type":"Point"}
+}

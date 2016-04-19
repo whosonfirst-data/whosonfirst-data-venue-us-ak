@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.928623,61.183029,-149.928623,61.183029",
+    "geom:latitude":61.183029,
+    "geom:longitude":-149.928623,
+    "iso:country":"US",
+    "sg:address":"4211 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 8806",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GU5RQbv241U43LfMCoxo8_61.183029_-149.928623@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f46e825aa727e18e94d46f5e56a8cdb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102195671"
+        }
+    ],
+    "wof:id":"102195671",
+    "wof:lastmodified":1449069361,
+    "wof:name":"Advantage Car & Van Rental",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.928623,61.183029,-149.928623,61.183029],
+  "geometry": {"coordinates":[-149.928623,61.183029],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.57087,61.326293,-149.57087,61.326293",
+    "geom:latitude":61.326293,
+    "geom:longitude":-149.57087,
+    "iso:country":"US",
+    "sg:address":"11723 Old Glenn Hwy",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 694 6044",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cabinet",
+        "contractor"
+    ],
+    "sg:website":"www.kitchencabinetsanddesign.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KgREzocCl88yivVACUGUx_61.326293_-149.570870@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ad5ab6a07dd558df138b0d9490c4a167",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102179793"
+        }
+    ],
+    "wof:id":"102179793",
+    "wof:lastmodified":1449069941,
+    "wof:name":"Kitchen Cabinets & Design",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.57087,61.326293,-149.57087,61.326293],
+  "geometry": {"coordinates":[-149.57087,61.326293],"type":"Point"}
+}

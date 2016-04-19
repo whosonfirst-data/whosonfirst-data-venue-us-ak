@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.935431,61.191525,-149.935431,61.191525",
+    "geom:latitude":61.191525,
+    "geom:longitude":-149.935431,
+    "iso:country":"US",
+    "sg:address":"3210 Turnagain St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 6570",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "process",
+        "fish"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_533SI68NrYHZEjQ1BckwcL_61.191525_-149.935431@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2c460a4a7bc7862c85bc3fa7a9c2de1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102184127"
+        }
+    ],
+    "wof:id":"102184127",
+    "wof:lastmodified":1449068217,
+    "wof:name":"Sockeye Alaska",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.935431,61.191525,-149.935431,61.191525],
+  "geometry": {"coordinates":[-149.935431,61.191525],"type":"Point"}
+}

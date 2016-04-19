@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.57461,61.326609,-149.57461,61.326609",
+    "geom:latitude":61.326609,
+    "geom:longitude":-149.57461,
+    "iso:country":"US",
+    "sg:address":"11700 Business Blvd",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 696 3636",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2H5i7uEjq0a5DYHE41GAv6_61.326609_-149.574610@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd239f0982016e073120bc6d60d135b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102158077"
+        }
+    ],
+    "wof:id":"102158077",
+    "wof:lastmodified":1449069392,
+    "wof:name":"Publix Self Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.57461,61.326609,-149.57461,61.326609],
+  "geometry": {"coordinates":[-149.57461,61.326609],"type":"Point"}
+}

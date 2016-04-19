@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.868044,61.127557,-149.868044,61.127557",
+    "geom:latitude":61.127557,
+    "geom:longitude":-149.868044,
+    "iso:country":"US",
+    "sg:address":"10280 Nigh Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 5515",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ACD8mR8mVHzaTtmFiOSDt_61.127557_-149.868044@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"18e7608062faa049f6604a26acce4fb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102185193"
+        }
+    ],
+    "wof:id":"102185193",
+    "wof:lastmodified":1449068196,
+    "wof:name":"Anywhere Repair",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.868044,61.127557,-149.868044,61.127557],
+  "geometry": {"coordinates":[-149.868044,61.127557],"type":"Point"}
+}

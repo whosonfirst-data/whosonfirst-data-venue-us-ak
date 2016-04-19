@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.877346,61.144804,-149.877346,61.144804",
+    "geom:latitude":61.144804,
+    "geom:longitude":-149.877346,
+    "iso:country":"US",
+    "sg:address":"221 E Dimond Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 5051",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AlSN6fFN8vnebdGqYW5gX_61.144804_-149.877346@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1de463969672b8f3c36a4910205afc03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102152233"
+        }
+    ],
+    "wof:id":"102152233",
+    "wof:lastmodified":1449069636,
+    "wof:name":"Action Locksmiths",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.877346,61.144804,-149.877346,61.144804],
+  "geometry": {"coordinates":[-149.877346,61.144804],"type":"Point"}
+}

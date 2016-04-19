@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.872926,61.1808,-149.872926,61.1808",
+    "geom:latitude":61.1808,
+    "geom:longitude":-149.872926,
+    "iso:country":"US",
+    "sg:address":"500 E Tudor Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 6846",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Xgm0n8TsVs4VK7iEj1X0l_61.180800_-149.872926@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"11deb5cd8da9a94b0a1acccd0b422e04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102183519"
+        }
+    ],
+    "wof:id":"102183519",
+    "wof:lastmodified":1449069044,
+    "wof:name":"St Regis Clinic Inc",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.872926,61.1808,-149.872926,61.1808],
+  "geometry": {"coordinates":[-149.872926,61.1808],"type":"Point"}
+}

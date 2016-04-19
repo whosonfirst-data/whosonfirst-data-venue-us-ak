@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.533319,64.941781,-147.533319,64.941781",
+    "geom:latitude":64.941781,
+    "geom:longitude":-147.533319,
+    "iso:country":"US",
+    "sg:address":"1873 Gilmore Trl",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 8142",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916545,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TNoy7dcbZK8bX2ejfjhlg_64.941781_-147.533319@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e93e93507a657203aac6e32701fdcc94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916545,
+            "region_id":85688573,
+            "venue_id":"102166469"
+        }
+    ],
+    "wof:id":"102166469",
+    "wof:lastmodified":1449069088,
+    "wof:name":"Lawyer Support Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.533319,64.941781,-147.533319,64.941781],
+  "geometry": {"coordinates":[-147.533319,64.941781],"type":"Point"}
+}

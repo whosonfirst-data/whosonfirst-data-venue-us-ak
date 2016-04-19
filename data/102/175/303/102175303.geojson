@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.80687,64.835136,-147.80687,64.835136",
+    "geom:latitude":64.835136,
+    "geom:longitude":-147.80687,
+    "iso:country":"US",
+    "sg:address":"1307 Kalakaket St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 4438",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "sg:website":"www.arcticgunworks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eHo76KAJ5cN8CShOKEQIs_64.835136_-147.806870@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5de3d65bf74a235c7ec1dbaa396861b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102175303"
+        }
+    ],
+    "wof:id":"102175303",
+    "wof:lastmodified":1449069462,
+    "wof:name":"Arctic Gunworks",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.80687,64.835136,-147.80687,64.835136],
+  "geometry": {"coordinates":[-147.80687,64.835136],"type":"Point"}
+}

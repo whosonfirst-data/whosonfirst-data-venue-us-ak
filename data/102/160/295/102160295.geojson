@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.785161,64.852957,-147.785161,64.852957",
+    "geom:latitude":64.852957,
+    "geom:longitude":-147.785161,
+    "iso:country":"US",
+    "sg:address":"919 Commerce St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 5554",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "exploration",
+        "mineral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fgy7311HNN2LpKKMr21WM_64.852957_-147.785161@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6926d34076c7968db18b301296551db8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102160295"
+        }
+    ],
+    "wof:id":"102160295",
+    "wof:lastmodified":1449069774,
+    "wof:name":"G F Back Drilling Co",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.785161,64.852957,-147.785161,64.852957],
+  "geometry": {"coordinates":[-147.785161,64.852957],"type":"Point"}
+}

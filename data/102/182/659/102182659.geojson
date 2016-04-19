@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.792739,61.079631,-149.792739,61.079631",
+    "geom:latitude":61.079631,
+    "geom:longitude":-149.792739,
+    "iso:country":"US",
+    "sg:address":"4851 Southpark Bluff Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 8861",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873751,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6g4VJeiX3dRIILtiLW6A0T_61.079631_-149.792739@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3ec90d81cb2b7322ba4dd95d05fef9f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873751,
+            "region_id":85688573,
+            "venue_id":"102182659"
+        }
+    ],
+    "wof:id":"102182659",
+    "wof:lastmodified":1449069279,
+    "wof:name":"Timberline Homes Inc",
+    "wof:parent_id":85873751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.792739,61.079631,-149.792739,61.079631],
+  "geometry": {"coordinates":[-149.792739,61.079631],"type":"Point"}
+}

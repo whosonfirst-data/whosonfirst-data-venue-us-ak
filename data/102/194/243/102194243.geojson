@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.471569,58.330361,-134.471569,58.330361",
+    "geom:latitude":58.330361,
+    "geom:longitude":-134.471569,
+    "iso:country":"US",
+    "sg:address":"3240 Hospital Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 796 8498",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853509,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hq9dW2K3CmflP3R6lMuFh_58.330361_-134.471569@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"92e853229aeaeed0b89620d7a41fc2b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85853509,
+            "region_id":85688573,
+            "venue_id":"102194243"
+        }
+    ],
+    "wof:id":"102194243",
+    "wof:lastmodified":1449069827,
+    "wof:name":"Bartlett Outpatient Svc",
+    "wof:parent_id":85853509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.471569,58.330361,-134.471569,58.330361],
+  "geometry": {"coordinates":[-134.471569,58.330361],"type":"Point"}
+}

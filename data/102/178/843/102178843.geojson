@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.875362,61.177198,-149.875362,61.177198",
+    "geom:latitude":61.177198,
+    "geom:longitude":-149.875362,
+    "iso:country":"US",
+    "sg:address":"4973 Eagle St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 2090",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "sg:website":"www.maaco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vZTP4OFYjnfBNhDE2Q2rw_61.177198_-149.875362@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7305c4608083f3970ec1526f5ef5bf0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102178843"
+        }
+    ],
+    "wof:id":"102178843",
+    "wof:lastmodified":1449069529,
+    "wof:name":"MAACO Auto Painting & Bodywork",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.875362,61.177198,-149.875362,61.177198],
+  "geometry": {"coordinates":[-149.875362,61.177198],"type":"Point"}
+}

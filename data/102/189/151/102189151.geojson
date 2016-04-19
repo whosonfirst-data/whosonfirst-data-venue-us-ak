@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.791981,61.137516,-149.791981,61.137516",
+    "geom:latitude":61.137516,
+    "geom:longitude":-149.791981,
+    "iso:country":"US",
+    "sg:address":"4600 Abbott Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 346 2101",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:website":"www.acs.ak.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873745,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uk4olGRj93pY9xpBcQRCJ_61.137516_-149.791981@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"062f47e29ebd1a9b84d09c7b1640d706",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873745,
+            "region_id":85688573,
+            "venue_id":"102189151"
+        }
+    ],
+    "wof:id":"102189151",
+    "wof:lastmodified":1449069497,
+    "wof:name":"Alaska Children's Svc Inc",
+    "wof:parent_id":85873745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.791981,61.137516,-149.791981,61.137516],
+  "geometry": {"coordinates":[-149.791981,61.137516],"type":"Point"}
+}

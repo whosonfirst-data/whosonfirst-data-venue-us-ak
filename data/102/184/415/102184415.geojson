@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.772481,64.814707,-147.772481,64.814707",
+    "geom:latitude":64.814707,
+    "geom:longitude":-147.772481,
+    "iso:country":"US",
+    "sg:address":"2260 Standard Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 6771",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "linen",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ggPBB8hCJkmff1YN0hw3T_64.814707_-147.772481@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6d0c0734b42ff579a1c93f211a4b230f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102184415"
+        }
+    ],
+    "wof:id":"102184415",
+    "wof:lastmodified":1449068218,
+    "wof:name":"Alsco Inc",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.772481,64.814707,-147.772481,64.814707],
+  "geometry": {"coordinates":[-147.772481,64.814707],"type":"Point"}
+}

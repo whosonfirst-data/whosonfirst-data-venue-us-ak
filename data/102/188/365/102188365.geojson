@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.905441,61.200047,-149.905441,61.200047",
+    "geom:latitude":61.200047,
+    "geom:longitude":-149.905441,
+    "iso:country":"US",
+    "sg:address":"2125 Dahl Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 1860",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Dh6ItKtrmPxUV4vyTEFoH_61.200047_-149.905441@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"81ba53577230ea6414590e5ab1b13f1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102188365"
+        }
+    ],
+    "wof:id":"102188365",
+    "wof:lastmodified":1449068945,
+    "wof:name":"Cosentino Landscape",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.905441,61.200047,-149.905441,61.200047],
+  "geometry": {"coordinates":[-149.905441,61.200047],"type":"Point"}
+}

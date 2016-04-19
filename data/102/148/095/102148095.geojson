@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.834538,61.183078,-149.834538,61.183078",
+    "geom:latitude":61.183078,
+    "geom:longitude":-149.834538,
+    "iso:country":"US",
+    "sg:address":"4048 Laurel St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 1711",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nhuCiW9WK2SVn9UpxwIuZ_61.183078_-149.834538@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"19e0536e15c54f348daa87c4d4c0d2e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102148095"
+        }
+    ],
+    "wof:id":"102148095",
+    "wof:lastmodified":1449069784,
+    "wof:name":"Back Pain Ctr",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.834538,61.183078,-149.834538,61.183078],
+  "geometry": {"coordinates":[-149.834538,61.183078],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.353268,64.75575,-147.353268,64.75575",
+    "geom:latitude":64.75575,
+    "geom:longitude":-147.353268,
+    "iso:country":"US",
+    "sg:address":"203 N Santa Claus Ln",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 490 4650",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915639,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24l83PInmsLdiw9vwtY7RA_64.755750_-147.353268@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eb1a521c2f55c7a6f1c277c6a687240a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915639,
+            "region_id":85688573,
+            "venue_id":"102189637"
+        }
+    ],
+    "wof:id":"102189637",
+    "wof:lastmodified":1449069497,
+    "wof:name":"Polar Dental Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.353268,64.75575,-147.353268,64.75575],
+  "geometry": {"coordinates":[-147.353268,64.75575],"type":"Point"}
+}

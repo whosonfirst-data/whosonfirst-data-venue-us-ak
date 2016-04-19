@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.459543,61.573494,-149.459543,61.573494",
+    "geom:latitude":61.573494,
+    "geom:longitude":-149.459543,
+    "iso:country":"US",
+    "sg:address":"301 W Lake View Ave",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 2995",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20kjNQu09V0pX9fHtGHNb4_61.573494_-149.459543@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fa10a602357eadeaa42c51b4ca99e8ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102163591"
+        }
+    ],
+    "wof:id":"102163591",
+    "wof:lastmodified":1449070165,
+    "wof:name":"Lockwood Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.459543,61.573494,-149.459543,61.573494],
+  "geometry": {"coordinates":[-149.459543,61.573494],"type":"Point"}
+}

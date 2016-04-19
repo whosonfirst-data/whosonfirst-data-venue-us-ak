@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-146.350723,61.136294,-146.350723,61.136294",
+    "geom:latitude":61.136294,
+    "geom:longitude":-146.350723,
+    "iso:country":"US",
+    "sg:address":"151 Gulkana St",
+    "sg:city":"Valdez",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 835 3780",
+    "sg:postcode":"99686",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915585,
+        85633793,
+        85688573,
+        102081911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31r3uzPefsK8SqKOgHxQLi_61.136294_-146.350723@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a61fa0c72b53dba0204287c6dbc1bb50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915585,
+            "region_id":85688573,
+            "venue_id":"102162513"
+        }
+    ],
+    "wof:id":"102162513",
+    "wof:lastmodified":1449069823,
+    "wof:name":"Valdez Vending",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-146.350723,61.136294,-146.350723,61.136294],
+  "geometry": {"coordinates":[-146.350723,61.136294],"type":"Point"}
+}

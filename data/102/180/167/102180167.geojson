@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.907855,61.208919,-149.907855,61.208919",
+    "geom:latitude":61.208919,
+    "geom:longitude":-149.907855,
+    "iso:country":"US",
+    "sg:address":"1420 N St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 5323",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873721,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CYOYZvHeKekidtnpb3eC1_61.208919_-149.907855@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"898710479c3827d82e75d826748b0d3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873721,
+            "region_id":85688573,
+            "venue_id":"102180167"
+        }
+    ],
+    "wof:id":"102180167",
+    "wof:lastmodified":1449067877,
+    "wof:name":"Anchorage Lutheran Church",
+    "wof:parent_id":85873721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.907855,61.208919,-149.907855,61.208919],
+  "geometry": {"coordinates":[-149.907855,61.208919],"type":"Point"}
+}

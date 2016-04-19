@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.150467,60.48431,-151.150467,60.48431",
+    "geom:latitude":60.48431,
+    "geom:longitude":-151.150467,
+    "iso:country":"US",
+    "sg:address":"47130 Harvard Ave",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 3252",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "refrigerator",
+        "freezer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916957,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dv3PWFN2MM8N0chVKwFN9_60.484310_-151.150467@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8f042cb993b139824ec133dae48f440e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916957,
+            "region_id":85688573,
+            "venue_id":"102184091"
+        }
+    ],
+    "wof:id":"102184091",
+    "wof:lastmodified":1449068217,
+    "wof:name":"Central Peninsula Refrigerate",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.150467,60.48431,-151.150467,60.48431],
+  "geometry": {"coordinates":[-151.150467,60.48431],"type":"Point"}
+}

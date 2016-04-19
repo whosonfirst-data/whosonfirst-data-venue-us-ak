@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-158.458484,59.049269,-158.458484,59.049269",
+    "geom:latitude":59.049269,
+    "geom:longitude":-158.458484,
+    "iso:country":"US",
+    "sg:address":"1244 Tower Rd",
+    "sg:city":"Dillingham",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 842 5956",
+    "sg:postcode":"99576",
+    "sg:province":"AK",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "sg:website":"www.bbha.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915613,
+        85633793,
+        85688573,
+        102080995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11ZnqCfeYYN3wuB77XONhA_59.049269_-158.458484@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"285fe2df9b9da457390a9515175727bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080995,
+            "locality_id":85915613,
+            "region_id":85688573,
+            "venue_id":"102188401"
+        }
+    ],
+    "wof:id":"102188401",
+    "wof:lastmodified":1449068946,
+    "wof:name":"Bristol Bay Housing Authority",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-158.458484,59.049269,-158.458484,59.049269],
+  "geometry": {"coordinates":[-158.458484,59.049269],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.332175,57.051146,-135.332175,57.051146",
+    "geom:latitude":57.051146,
+    "geom:longitude":-135.332175,
+    "iso:country":"US",
+    "sg:address":"419 Lincoln St",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Soap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 8949",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "detergent",
+        "mfg"
+    ],
+    "sg:website":"www.wintersongsoap.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_665lWlAX09LUdqMCCOAuOP_57.051146_-135.332175@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0ff84321ebb72745b3c22383c0685fc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102192485"
+        }
+    ],
+    "wof:id":"102192485",
+    "wof:lastmodified":1449069502,
+    "wof:name":"Wintersong Soap Co",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.332175,57.051146,-135.332175,57.051146],
+  "geometry": {"coordinates":[-135.332175,57.051146],"type":"Point"}
+}

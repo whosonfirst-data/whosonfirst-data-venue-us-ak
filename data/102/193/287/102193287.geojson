@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.876706,61.206981,-149.876706,61.206981",
+    "geom:latitude":61.206981,
+    "geom:longitude":-149.876706,
+    "iso:country":"US",
+    "sg:address":"419 E 15th Ter",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 4643",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jewuXxg6uY1I430zBip9y_61.206981_-149.876706@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"515df35fa71fa57c60fa80588898be4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102193287"
+        }
+    ],
+    "wof:id":"102193287",
+    "wof:lastmodified":1449068192,
+    "wof:name":"R & S Extracters",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.876706,61.206981,-149.876706,61.206981],
+  "geometry": {"coordinates":[-149.876706,61.206981],"type":"Point"}
+}

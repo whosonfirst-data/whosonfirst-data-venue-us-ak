@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.445315,61.418149,-149.445315,61.418149",
+    "geom:latitude":61.418149,
+    "geom:longitude":-149.445315,
+    "iso:country":"US",
+    "sg:address":"21820 Chandelle Cir",
+    "sg:city":"Chugiak",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 688 4850",
+    "sg:postcode":"99567",
+    "sg:province":"AK",
+    "sg:tags":[
+        "pavement",
+        "marking",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869049,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CfyY7wTfDG9yMEq78MwUD_61.418149_-149.445315@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5125eea9988b0f934aa0a54ce40cfa46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869049,
+            "region_id":85688573,
+            "venue_id":"102150681"
+        }
+    ],
+    "wof:id":"102150681",
+    "wof:lastmodified":1449067789,
+    "wof:name":"St Elias Construction Company",
+    "wof:parent_id":85869049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.445315,61.418149,-149.445315,61.418149],
+  "geometry": {"coordinates":[-149.445315,61.418149],"type":"Point"}
+}

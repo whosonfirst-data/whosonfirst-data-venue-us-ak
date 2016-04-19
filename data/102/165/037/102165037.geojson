@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.912986,61.200594,-149.912986,61.200594",
+    "geom:latitude":61.200594,
+    "geom:longitude":-149.912986,
+    "iso:country":"US",
+    "sg:address":"1455 Hillcrest Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 9884",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "sg:website":"www.aloonsnest.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ebOmq2mxsfM6DmRqDV4hY_61.200594_-149.912986@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"be0cb9304d7bdc5b7b8251bc984b735d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102165037"
+        }
+    ],
+    "wof:id":"102165037",
+    "wof:lastmodified":1449070217,
+    "wof:name":"Loons' Nest",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.912986,61.200594,-149.912986,61.200594],
+  "geometry": {"coordinates":[-149.912986,61.200594],"type":"Point"}
+}

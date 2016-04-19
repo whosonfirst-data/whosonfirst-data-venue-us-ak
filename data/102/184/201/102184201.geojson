@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.915417,64.814063,-147.915417,64.814063",
+    "geom:latitude":64.814063,
+    "geom:longitude":-147.915417,
+    "iso:country":"US",
+    "sg:address":"1195 Shypoke Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 5684",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "leasing",
+        "charter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916563,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XrRBb2NZA61q3NueB9IcC_64.814063_-147.915417@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f8b8d33c5b093970d21d29b438d08a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916563,
+            "region_id":85688573,
+            "venue_id":"102184201"
+        }
+    ],
+    "wof:id":"102184201",
+    "wof:lastmodified":1449068217,
+    "wof:name":"Marina Air Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.915417,64.814063,-147.915417,64.814063],
+  "geometry": {"coordinates":[-147.915417,64.814063],"type":"Point"}
+}

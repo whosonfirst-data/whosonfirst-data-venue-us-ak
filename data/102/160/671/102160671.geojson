@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.951659,61.165743,-149.951659,61.165743",
+    "geom:latitude":61.165743,
+    "geom:longitude":-149.951659,
+    "iso:country":"US",
+    "sg:address":"3630 Jewel Lake Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 2522",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6X4dRcLnvrdBGMsbHQj4sB_61.165743_-149.951659@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"677e496d75344a2237a018e6554c1970",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102160671"
+        }
+    ],
+    "wof:id":"102160671",
+    "wof:lastmodified":1449069775,
+    "wof:name":"Gregory A Geitz Dvm",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.951659,61.165743,-149.951659,61.165743],
+  "geometry": {"coordinates":[-149.951659,61.165743],"type":"Point"}
+}

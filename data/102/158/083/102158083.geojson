@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.816647,61.18091,-149.816647,61.18091",
+    "geom:latitude":61.18091,
+    "geom:longitude":-149.816647,
+    "iso:country":"US",
+    "sg:address":"3411 E Tudor Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 4711",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "bingo",
+        "game"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25eqIJZF9jdD2yymmAYQfs_61.180910_-149.816647@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a5aafc3065d274ba3cab0384eb5dce7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102158083"
+        }
+    ],
+    "wof:id":"102158083",
+    "wof:lastmodified":1449069393,
+    "wof:name":"Tudor Road Bingo Ctr",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.816647,61.18091,-149.816647,61.18091],
+  "geometry": {"coordinates":[-149.816647,61.18091],"type":"Point"}
+}

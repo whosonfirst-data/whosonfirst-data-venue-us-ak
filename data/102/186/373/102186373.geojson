@@ -1,0 +1,71 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.872439,61.231054,-149.872439,61.231054",
+    "geom:latitude":61.231054,
+    "geom:longitude":-149.872439,
+    "iso:country":"US",
+    "sg:address":"871 E Loop Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 0400",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engraving",
+        "picture",
+        "frame",
+        "framing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873711,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vDPM3e1XbbobjEGRojbG2_61.231054_-149.872439@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dca58617847118eaf3747bd33d7c3bec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873711,
+            "region_id":85688573,
+            "venue_id":"102186373"
+        }
+    ],
+    "wof:id":"102186373",
+    "wof:lastmodified":1449069654,
+    "wof:name":"Layne's Art & Frame",
+    "wof:parent_id":85873711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.872439,61.231054,-149.872439,61.231054],
+  "geometry": {"coordinates":[-149.872439,61.231054],"type":"Point"}
+}

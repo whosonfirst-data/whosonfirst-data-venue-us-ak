@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.832179,61.221108,-149.832179,61.221108",
+    "geom:latitude":61.221108,
+    "geom:longitude":-149.832179,
+    "iso:country":"US",
+    "sg:address":"2501 Commercial Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 6771",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31ADqbt9DUgYuSoSQB03JA_61.221108_-149.832179@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d59e012f6be85eac27bc9a5861c69643",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102193159"
+        }
+    ],
+    "wof:id":"102193159",
+    "wof:lastmodified":1449068191,
+    "wof:name":"Amchitka Project",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.832179,61.221108,-149.832179,61.221108],
+  "geometry": {"coordinates":[-149.832179,61.221108],"type":"Point"}
+}

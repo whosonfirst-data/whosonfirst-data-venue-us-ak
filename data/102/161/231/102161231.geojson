@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.764942,61.197023,-149.764942,61.197023",
+    "geom:latitude":61.197023,
+    "geom:longitude":-149.764942,
+    "iso:country":"US",
+    "sg:address":"2429 Kensington Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 338 1310",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "nutritionist"
+    ],
+    "sg:website":"www.healthy-start-alaska.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869053,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4frkZKgnLfqk6eGUFVC6mH_61.197023_-149.764942@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1ec892241d2b0bf7a8ed7c28783c8412",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869053,
+            "region_id":85688573,
+            "venue_id":"102161231"
+        }
+    ],
+    "wof:id":"102161231",
+    "wof:lastmodified":1449068710,
+    "wof:name":"Healthy Start",
+    "wof:parent_id":85869053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.764942,61.197023,-149.764942,61.197023],
+  "geometry": {"coordinates":[-149.764942,61.197023],"type":"Point"}
+}

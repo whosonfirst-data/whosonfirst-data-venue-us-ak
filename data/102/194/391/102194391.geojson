@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.881692,61.198273,-149.881692,61.198273",
+    "geom:latitude":61.198273,
+    "geom:longitude":-149.881692,
+    "iso:country":"US",
+    "sg:address":"123 E Fireweed Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 4743",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "bookkeeping",
+        "general"
+    ],
+    "sg:website":"www.robub.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yFOn9GN5GkUwaOLw6669L_61.198273_-149.881692@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a3eee283222a6e2102c019f938717568",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102194391"
+        }
+    ],
+    "wof:id":"102194391",
+    "wof:lastmodified":1449069828,
+    "wof:name":"Robub Corp",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.881692,61.198273,-149.881692,61.198273],
+  "geometry": {"coordinates":[-149.881692,61.198273],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.582467,58.371537,-134.582467,58.371537",
+    "geom:latitude":58.371537,
+    "geom:longitude":-134.582467,
+    "iso:country":"US",
+    "sg:address":"9059 Atlin Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 9508",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WFNVBfgCfyKSKhuMVE7qU_58.371537_-134.582467@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b73c554cbf322732ca330a140e804eb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102190719"
+        }
+    ],
+    "wof:id":"102190719",
+    "wof:lastmodified":1449070035,
+    "wof:name":"Valley Senior Ctr",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.582467,58.371537,-134.582467,58.371537],
+  "geometry": {"coordinates":[-134.582467,58.371537],"type":"Point"}
+}

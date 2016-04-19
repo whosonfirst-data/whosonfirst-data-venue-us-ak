@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.813104,61.200799,-149.813104,61.200799",
+    "geom:latitude":61.200799,
+    "geom:longitude":-149.813104,
+    "iso:country":"US",
+    "sg:address":"2220 Nichols St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 742 2350",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09RfyIX6pRzUGnhoIF3eg6_61.200799_-149.813104@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3c6e9b1721a93e80a6cd5e440a533311",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102155843"
+        }
+    ],
+    "wof:id":"102155843",
+    "wof:lastmodified":1449069741,
+    "wof:name":"Whaley Middle School",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.813104,61.200799,-149.813104,61.200799],
+  "geometry": {"coordinates":[-149.813104,61.200799],"type":"Point"}
+}

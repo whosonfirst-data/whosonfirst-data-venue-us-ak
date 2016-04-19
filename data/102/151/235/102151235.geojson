@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.801367,61.22432,-149.801367,61.22432",
+    "geom:latitude":61.22432,
+    "geom:longitude":-149.801367,
+    "iso:country":"US",
+    "sg:address":"4231 Mountain View Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 278 9200",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gmhrIcqAvHS26eUV84xAh_61.224320_-149.801367@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f5d539e5bfd0f3557d526ac6dcf6ea37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102151235"
+        }
+    ],
+    "wof:id":"102151235",
+    "wof:lastmodified":1449067780,
+    "wof:name":"Price Busters Inc",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.801367,61.22432,-149.801367,61.22432],
+  "geometry": {"coordinates":[-149.801367,61.22432],"type":"Point"}
+}

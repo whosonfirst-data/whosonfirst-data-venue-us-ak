@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.420708,58.301739,-134.420708,58.301739",
+    "geom:latitude":58.301739,
+    "geom:longitude":-134.420708,
+    "iso:country":"US",
+    "sg:address":"740 W 9th St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 4778",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QqboS4SJ7oNUP9O9sYAFf_58.301739_-134.420708@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f1917a9d0ccdb2beedbd4a22066866e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102164199"
+        }
+    ],
+    "wof:id":"102164199",
+    "wof:lastmodified":1449068085,
+    "wof:name":"Seong's Sushi Bar & Chinese",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.420708,58.301739,-134.420708,58.301739],
+  "geometry": {"coordinates":[-134.420708,58.301739],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.660396,55.346164,-131.660396,55.346164",
+    "geom:latitude":55.346164,
+    "geom:longitude":-131.660396,
+    "iso:country":"US",
+    "sg:address":"1426 Tongass Ave",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 247 7387",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NEp1EjYns2PLZbN84OOzg_55.346164_-131.660396@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"89cc56406d54d278dd96ac952eb788ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102155289"
+        }
+    ],
+    "wof:id":"102155289",
+    "wof:lastmodified":1449069745,
+    "wof:name":"Hastings Pet Palace",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.660396,55.346164,-131.660396,55.346164],
+  "geometry": {"coordinates":[-131.660396,55.346164],"type":"Point"}
+}

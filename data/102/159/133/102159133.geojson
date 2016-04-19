@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-156.787014,71.288345,-156.787014,71.288345",
+    "geom:latitude":71.288345,
+    "geom:longitude":-156.787014,
+    "iso:country":"US",
+    "sg:address":"378 Ogrook St",
+    "sg:city":"Barrow",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 852 5025",
+    "sg:postcode":"99723",
+    "sg:province":"AK",
+    "sg:tags":[
+        "development",
+        "gas",
+        "oil",
+        "exploration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915545,
+        85633793,
+        85688573,
+        102081001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q6ETPlzcHP06zn86knpLm_71.288345_-156.787014@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6a5e74cce18b57aba1d3c1b7ffe52c84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081001,
+            "locality_id":85915545,
+            "region_id":85688573,
+            "venue_id":"102159133"
+        }
+    ],
+    "wof:id":"102159133",
+    "wof:lastmodified":1449068094,
+    "wof:name":"BP Exploration Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-156.787014,71.288345,-156.787014,71.288345],
+  "geometry": {"coordinates":[-156.787014,71.288345],"type":"Point"}
+}

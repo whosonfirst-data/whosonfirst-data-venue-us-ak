@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.459401,61.418442,-149.459401,61.418442",
+    "geom:latitude":61.418442,
+    "geom:longitude":-149.459401,
+    "iso:country":"US",
+    "sg:address":"22707 McManus Dr",
+    "sg:city":"Chugiak",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 688 5533",
+    "sg:postcode":"99567",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806187,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GJgH25oW7poxx8EDweEuD_61.418442_-149.459401@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aa3839a4e5b8931d83e34c3e808eccfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85806187,
+            "region_id":85688573,
+            "venue_id":"102186309"
+        }
+    ],
+    "wof:id":"102186309",
+    "wof:lastmodified":1449069653,
+    "wof:name":"Daniel D Lundell Registered",
+    "wof:parent_id":85806187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.459401,61.418442,-149.459401,61.418442],
+  "geometry": {"coordinates":[-149.459401,61.418442],"type":"Point"}
+}

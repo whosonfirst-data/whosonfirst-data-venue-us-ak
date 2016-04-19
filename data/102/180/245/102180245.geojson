@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.983426,64.845574,-147.983426,64.845574",
+    "geom:latitude":64.845574,
+    "geom:longitude":-147.983426,
+    "iso:country":"US",
+    "sg:address":"479 Townsend Ln",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 0801",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916599,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oxrEZ0XDWLCX5wbaqLoAJ_64.845574_-147.983426@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f588abfeeab8240e55fb6b361c03026a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916599,
+            "region_id":85688573,
+            "venue_id":"102180245"
+        }
+    ],
+    "wof:id":"102180245",
+    "wof:lastmodified":1449067878,
+    "wof:name":"Black Diamond Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.983426,64.845574,-147.983426,64.845574],
+  "geometry": {"coordinates":[-147.983426,64.845574],"type":"Point"}
+}

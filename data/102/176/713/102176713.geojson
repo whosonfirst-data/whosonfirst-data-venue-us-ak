@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.840944,61.224318,-149.840944,61.224318",
+    "geom:latitude":61.224318,
+    "geom:longitude":-149.840944,
+    "iso:country":"US",
+    "sg:address":"2111 Viking Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 7752",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "product",
+        "asphalt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873711,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rgS1bbEf9GwHbfDVCorNs_61.224318_-149.840944@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"201849e60ccf272f9b8c57548b7540f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873711,
+            "region_id":85688573,
+            "venue_id":"102176713"
+        }
+    ],
+    "wof:id":"102176713",
+    "wof:lastmodified":1449069349,
+    "wof:name":"Emulsion Products Of Alaska",
+    "wof:parent_id":85873711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.840944,61.224318,-149.840944,61.224318],
+  "geometry": {"coordinates":[-149.840944,61.224318],"type":"Point"}
+}

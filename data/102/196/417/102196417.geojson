@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.6995,64.848745,-147.6995,64.848745",
+    "geom:latitude":64.848745,
+    "geom:longitude":-147.6995,
+    "iso:country":"US",
+    "sg:address":"13 Timberland Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 455 4626",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59Cm2EO7pZWU2GC2QdsKJX_64.848745_-147.699500@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"090bcdb4ef6292f4a4f4d87b2230cbc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102196417"
+        }
+    ],
+    "wof:id":"102196417",
+    "wof:lastmodified":1449068337,
+    "wof:name":"Shear Heaven",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.6995,64.848745,-147.6995,64.848745],
+  "geometry": {"coordinates":[-147.6995,64.848745],"type":"Point"}
+}

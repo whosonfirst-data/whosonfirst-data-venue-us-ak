@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.904173,61.155101,-149.904173,61.155101",
+    "geom:latitude":61.155101,
+    "geom:longitude":-149.904173,
+    "iso:country":"US",
+    "sg:address":"7330 Chad St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 2185",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yn5QTgQ7Kkqx7ye4J5xFX_61.155101_-149.904173@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"88809ce66685dc9c3f2573a5c866e3b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102167395"
+        }
+    ],
+    "wof:id":"102167395",
+    "wof:lastmodified":1449069003,
+    "wof:name":"Computer Endeavors",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.904173,61.155101,-149.904173,61.155101],
+  "geometry": {"coordinates":[-149.904173,61.155101],"type":"Point"}
+}

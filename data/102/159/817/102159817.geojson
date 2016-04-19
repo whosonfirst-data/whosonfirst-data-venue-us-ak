@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.81591,61.223431,-149.81591,61.223431",
+    "geom:latitude":61.223431,
+    "geom:longitude":-149.81591,
+    "iso:country":"US",
+    "sg:address":"3340 Mountain View Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 3017",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NXTynx3nPoTShjLrDOcSZ_61.223431_-149.815910@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9d16f75b14d67a20634803e6988af4a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102159817"
+        }
+    ],
+    "wof:id":"102159817",
+    "wof:lastmodified":1449068095,
+    "wof:name":"Castleton's Enterprises",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.81591,61.223431,-149.81591,61.223431],
+  "geometry": {"coordinates":[-149.81591,61.223431],"type":"Point"}
+}

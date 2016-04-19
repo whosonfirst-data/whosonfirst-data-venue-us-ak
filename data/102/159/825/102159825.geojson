@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.766077,64.835801,-147.766077,64.835801",
+    "geom:latitude":64.835801,
+    "geom:longitude":-147.766077,
+    "iso:country":"US",
+    "sg:address":"2113 McCullam Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 3945",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Zm8L2AVSZkrZJZrecykK2_64.835801_-147.766077@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0c0419470321045e76b83844e52d66d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102159825"
+        }
+    ],
+    "wof:id":"102159825",
+    "wof:lastmodified":1449068092,
+    "wof:name":"Nash Plumbing & Heating",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.766077,64.835801,-147.766077,64.835801],
+  "geometry": {"coordinates":[-147.766077,64.835801],"type":"Point"}
+}

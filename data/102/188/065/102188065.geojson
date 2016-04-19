@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.85738,61.185801,-149.85738,61.185801",
+    "geom:latitude":61.185801,
+    "geom:longitude":-149.85738,
+    "iso:country":"US",
+    "sg:address":"1406 Matterhorn Way",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 2815",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "development",
+        "gas",
+        "oil",
+        "exploration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xc5vMSC0QzuYvu0I5N2gi_61.185801_-149.857380@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7e2561ab5b4fce68a84dd3cfd0e57918",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102188065"
+        }
+    ],
+    "wof:id":"102188065",
+    "wof:lastmodified":1449068948,
+    "wof:name":"Northern Knowledge",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.85738,61.185801,-149.85738,61.185801],
+  "geometry": {"coordinates":[-149.85738,61.185801],"type":"Point"}
+}

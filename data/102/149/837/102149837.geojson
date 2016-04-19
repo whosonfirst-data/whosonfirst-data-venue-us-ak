@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.896239,61.17371,-149.896239,61.17371",
+    "geom:latitude":61.17371,
+    "geom:longitude":-149.896239,
+    "iso:country":"US",
+    "sg:address":"501 W International Airport Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 646 9774",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tl09v65BdRWGFNn4eU2zD_61.173710_-149.896239@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"36580fdf8cd8faec79c32f48568f24cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102149837"
+        }
+    ],
+    "wof:id":"102149837",
+    "wof:lastmodified":1449067768,
+    "wof:name":"Alaska Exercise & Rehab Ctr",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.896239,61.17371,-149.896239,61.17371],
+  "geometry": {"coordinates":[-149.896239,61.17371],"type":"Point"}
+}

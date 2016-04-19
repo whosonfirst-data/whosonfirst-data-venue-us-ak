@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.867243,61.187985,-149.867243,61.187985",
+    "geom:latitude":61.187985,
+    "geom:longitude":-149.867243,
+    "iso:country":"US",
+    "sg:address":"808 E 36th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 4247",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lMrENG9oHFxwk1yeSA0V1_61.187985_-149.867243@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"95e48cba1fd09d4ec854bd55cbbcb6f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102194977"
+        }
+    ],
+    "wof:id":"102194977",
+    "wof:lastmodified":1449069830,
+    "wof:name":"Salon Davinci",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.867243,61.187985,-149.867243,61.187985],
+  "geometry": {"coordinates":[-149.867243,61.187985],"type":"Point"}
+}

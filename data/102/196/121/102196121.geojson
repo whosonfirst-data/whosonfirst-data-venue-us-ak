@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.883738,61.134856,-149.883738,61.134856",
+    "geom:latitude":61.134856,
+    "geom:longitude":-149.883738,
+    "iso:country":"US",
+    "sg:address":"151 E 95th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 273 2100",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qkTgi3JpWStONdOq23rYj_61.134856_-149.883738@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4e3a6e844ed03fcb1ad7b338d57335ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102196121"
+        }
+    ],
+    "wof:id":"102196121",
+    "wof:lastmodified":1449068339,
+    "wof:name":"FNW/Ferguson",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.883738,61.134856,-149.883738,61.134856],
+  "geometry": {"coordinates":[-149.883738,61.134856],"type":"Point"}
+}

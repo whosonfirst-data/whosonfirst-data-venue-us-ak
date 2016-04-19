@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.389976,57.792536,-152.389976,57.792536",
+    "geom:latitude":57.792536,
+    "geom:longitude":-152.389976,
+    "iso:country":"US",
+    "sg:address":"1110 Mission Rd",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 4657",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60LyHGusVua0E0EQ6OJNCB_57.792536_-152.389976@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"85e0321151e46b325b8ae507e2809edd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102155867"
+        }
+    ],
+    "wof:id":"102155867",
+    "wof:lastmodified":1449069744,
+    "wof:name":"Lighthouse Photography",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.389976,57.792536,-152.389976,57.792536],
+  "geometry": {"coordinates":[-152.389976,57.792536],"type":"Point"}
+}

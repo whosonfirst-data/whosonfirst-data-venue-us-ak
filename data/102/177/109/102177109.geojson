@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.904791,61.149616,-149.904791,61.149616",
+    "geom:latitude":61.149616,
+    "geom:longitude":-149.904791,
+    "iso:country":"US",
+    "sg:address":"1320 W 79th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 5466",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kbOZZKwpHmKclPsjOgcoi_61.149616_-149.904791@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0dc1494184b402b88ba1f74f8deaaa92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102177109"
+        }
+    ],
+    "wof:id":"102177109",
+    "wof:lastmodified":1449070207,
+    "wof:name":"A Aurora Limousines Bus & Van",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.904791,61.149616,-149.904791,61.149616],
+  "geometry": {"coordinates":[-149.904791,61.149616],"type":"Point"}
+}

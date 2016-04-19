@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.762021,61.183543,-149.762021,61.183543",
+    "geom:latitude":61.183543,
+    "geom:longitude":-149.762021,
+    "iso:country":"US",
+    "sg:address":"4032 Kingston Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 8050",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873735,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zH3Tj4fJ60DCMJFSC44Kn_61.183543_-149.762021@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3c241ea19e1d1b5c98ad28900f6cf5ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873735,
+            "region_id":85688573,
+            "venue_id":"102161315"
+        }
+    ],
+    "wof:id":"102161315",
+    "wof:lastmodified":1449068714,
+    "wof:name":"Chuck's Place",
+    "wof:parent_id":85873735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.762021,61.183543,-149.762021,61.183543],
+  "geometry": {"coordinates":[-149.762021,61.183543],"type":"Point"}
+}

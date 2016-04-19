@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.897399,61.1986,-149.897399,61.1986",
+    "geom:latitude":61.1986,
+    "geom:longitude":-149.897399,
+    "iso:country":"US",
+    "sg:address":"700 W Fireweed Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 0450",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "boot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59HJ47UDY41viQovdpCwXX_61.198600_-149.897399@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"62d0a31fbed531efbef9906c21dd26e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102175413"
+        }
+    ],
+    "wof:id":"102175413",
+    "wof:lastmodified":1449069463,
+    "wof:name":"Fireweed Shoe Repair",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.897399,61.1986,-149.897399,61.1986],
+  "geometry": {"coordinates":[-149.897399,61.1986],"type":"Point"}
+}

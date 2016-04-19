@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.761615,64.853899,-147.761615,64.853899",
+    "geom:latitude":64.853899,
+    "geom:longitude":-147.761615,
+    "iso:country":"US",
+    "sg:address":"965 Aurora Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 8721",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869043,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XesOyOLbOTkJtLeYv8wxJ_64.853899_-147.761615@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"07f5769ca5c18c888c3008613df433f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85869043,
+            "region_id":85688573,
+            "venue_id":"102179909"
+        }
+    ],
+    "wof:id":"102179909",
+    "wof:lastmodified":1449069944,
+    "wof:name":"K Supply Co",
+    "wof:parent_id":85869043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.761615,64.853899,-147.761615,64.853899],
+  "geometry": {"coordinates":[-147.761615,64.853899],"type":"Point"}
+}

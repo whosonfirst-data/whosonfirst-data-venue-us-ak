@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.943676,61.174672,-149.943676,61.174672",
+    "geom:latitude":61.174672,
+    "geom:longitude":-149.943676,
+    "iso:country":"US",
+    "sg:address":"5011 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 3313",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "broker",
+        "customs"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jXV6DowFB8OR2ntIWdzjP_61.174672_-149.943676@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"477ef9b58dd9f241c7894f19f186fd73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102157325"
+        }
+    ],
+    "wof:id":"102157325",
+    "wof:lastmodified":1449069831,
+    "wof:name":"Perman Stoler Customhouse Brkr",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.943676,61.174672,-149.943676,61.174672],
+  "geometry": {"coordinates":[-149.943676,61.174672],"type":"Point"}
+}

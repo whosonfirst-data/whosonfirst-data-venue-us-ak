@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.785789,61.195264,-149.785789,61.195264",
+    "geom:latitude":61.195264,
+    "geom:longitude":-149.785789,
+    "iso:country":"US",
+    "sg:address":"2711 Glacier St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 1333",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q5AM4Z23sfRfb4f5YfZEc_61.195264_-149.785789@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"385cfb271846aa48e9377862d96fbe5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102152415"
+        }
+    ],
+    "wof:id":"102152415",
+    "wof:lastmodified":1449069636,
+    "wof:name":"All Phase Construction Inc",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.785789,61.195264,-149.785789,61.195264],
+  "geometry": {"coordinates":[-149.785789,61.195264],"type":"Point"}
+}

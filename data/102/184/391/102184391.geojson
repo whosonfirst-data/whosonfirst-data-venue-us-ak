@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.873058,61.111488,-149.873058,61.111488",
+    "geom:latitude":61.111488,
+    "geom:longitude":-149.873058,
+    "iso:country":"US",
+    "sg:address":"522 Ocean Point Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 5729",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873755,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TDjcxX51avgEtcmCfP5O1_61.111488_-149.873058@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd9128e534c35c6fdf3d405a0f2e7609",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873755,
+            "region_id":85688573,
+            "venue_id":"102184391"
+        }
+    ],
+    "wof:id":"102184391",
+    "wof:lastmodified":1449068218,
+    "wof:name":"Quality Northern Drywall",
+    "wof:parent_id":85873755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.873058,61.111488,-149.873058,61.111488],
+  "geometry": {"coordinates":[-149.873058,61.111488],"type":"Point"}
+}

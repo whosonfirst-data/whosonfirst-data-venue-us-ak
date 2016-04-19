@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.440541,61.581018,-149.440541,61.581018",
+    "geom:latitude":61.581018,
+    "geom:longitude":-149.440541,
+    "iso:country":"US",
+    "sg:address":"455 E Parks Hwy",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 7499",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_362EEIOJgRWFhR6BdlqwL6_61.581018_-149.440541@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8fe326395de87bf3f4b7f263fdd08b0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102150543"
+        }
+    ],
+    "wof:id":"102150543",
+    "wof:lastmodified":1449067790,
+    "wof:name":"Alaska Auto Arts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.440541,61.581018,-149.440541,61.581018],
+  "geometry": {"coordinates":[-149.440541,61.581018],"type":"Point"}
+}

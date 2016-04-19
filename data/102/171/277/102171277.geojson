@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.870417,61.19768,-149.870417,61.19768",
+    "geom:latitude":61.19768,
+    "geom:longitude":-149.870417,
+    "iso:country":"US",
+    "sg:address":"2702 Gambell St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 6407",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_114nPhAqg24zD6LCZBlvyg_61.197680_-149.870417@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fdf220e4258181c742fdce4160076fea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102171277"
+        }
+    ],
+    "wof:id":"102171277",
+    "wof:lastmodified":1449070221,
+    "wof:name":"Virtual Facility Engineering",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.870417,61.19768,-149.870417,61.19768],
+  "geometry": {"coordinates":[-149.870417,61.19768],"type":"Point"}
+}

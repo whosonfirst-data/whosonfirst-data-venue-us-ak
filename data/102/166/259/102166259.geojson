@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.810432,64.853509,-147.810432,64.853509",
+    "geom:latitude":64.853509,
+    "geom:longitude":-147.810432,
+    "iso:country":"US",
+    "sg:address":"3691 Cameron St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 3118",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "pipe",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3djbmMWhlhPZLrubh0M61e_64.853509_-147.810432@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"315666caa3bcc0d230c81b538f678594",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102166259"
+        }
+    ],
+    "wof:id":"102166259",
+    "wof:lastmodified":1449069083,
+    "wof:name":"Pipeline Systems",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.810432,64.853509,-147.810432,64.853509],
+  "geometry": {"coordinates":[-147.810432,64.853509],"type":"Point"}
+}

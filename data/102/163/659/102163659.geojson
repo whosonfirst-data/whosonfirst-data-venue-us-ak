@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.906402,61.176022,-149.906402,61.176022",
+    "geom:latitude":61.176022,
+    "geom:longitude":-149.906402,
+    "iso:country":"US",
+    "sg:address":"4807 Buckingham Way",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 0406",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hgnw4RG1KMuFQAIRlre5D_61.176022_-149.906402@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cdb2bf43207a28a8297de8f2114f0581",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102163659"
+        }
+    ],
+    "wof:id":"102163659",
+    "wof:lastmodified":1449070161,
+    "wof:name":"Meridian Surveying",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.906402,61.176022,-149.906402,61.176022],
+  "geometry": {"coordinates":[-149.906402,61.176022],"type":"Point"}
+}

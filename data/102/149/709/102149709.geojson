@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.482199,58.357867,-134.482199,58.357867",
+    "geom:latitude":58.357867,
+    "geom:longitude":-134.482199,
+    "iso:country":"US",
+    "sg:address":"5225 Commercial Blvd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 780 6768",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WAFGRBTdZuBdE4NfTTnZk_58.357867_-134.482199@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8126c6d1975e1b1ae93cbf223185f789",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102149709"
+        }
+    ],
+    "wof:id":"102149709",
+    "wof:lastmodified":1449067769,
+    "wof:name":"Costco Warehouse",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.482199,58.357867,-134.482199,58.357867],
+  "geometry": {"coordinates":[-134.482199,58.357867],"type":"Point"}
+}

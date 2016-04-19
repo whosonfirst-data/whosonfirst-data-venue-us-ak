@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.92076,64.816591,-147.92076,64.816591",
+    "geom:latitude":64.816591,
+    "geom:longitude":-147.92076,
+    "iso:country":"US",
+    "sg:address":"1124 Dolphin Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 4032",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916563,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pHtqq4b4BHxEQk3dAe2Xy_64.816591_-147.920760@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ba58a7bbc7d92836c650bba1c33aaf4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916563,
+            "region_id":85688573,
+            "venue_id":"102176525"
+        }
+    ],
+    "wof:id":"102176525",
+    "wof:lastmodified":1449069347,
+    "wof:name":"Lee's Tube & Fabric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.92076,64.816591,-147.92076,64.816591],
+  "geometry": {"coordinates":[-147.92076,64.816591],"type":"Point"}
+}

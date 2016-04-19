@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.970975,61.179514,-149.970975,61.179514",
+    "geom:latitude":61.179514,
+    "geom:longitude":-149.970975,
+    "iso:country":"US",
+    "sg:address":"4525 Enstrom Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 1595",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "leasing",
+        "charter"
+    ],
+    "sg:website":"www.flyrusts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852831,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TCYkXETNtdh9AVmeGU6X4_61.179514_-149.970975@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8a392b80904095c62d36e82ea81ffb0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":"102160095"
+        }
+    ],
+    "wof:id":"102160095",
+    "wof:lastmodified":1449069776,
+    "wof:name":"Rust's Flying Svc",
+    "wof:parent_id":85852831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.970975,61.179514,-149.970975,61.179514],
+  "geometry": {"coordinates":[-149.970975,61.179514],"type":"Point"}
+}

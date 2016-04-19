@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.788241,64.84024,-147.788241,64.84024",
+    "geom:latitude":64.84024,
+    "geom:longitude":-147.788241,
+    "iso:country":"US",
+    "sg:address":"1173 Ivy Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 9605",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "billiard",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RTqdUjlmWVbCUTPOWvUz7_64.840240_-147.788241@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6ac73542d4e3658986406dee6aea4176",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102158979"
+        }
+    ],
+    "wof:id":"102158979",
+    "wof:lastmodified":1449069395,
+    "wof:name":"Donick Enterprises",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.788241,64.84024,-147.788241,64.84024],
+  "geometry": {"coordinates":[-147.788241,64.84024],"type":"Point"}
+}

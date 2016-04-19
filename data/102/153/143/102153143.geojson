@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.849308,61.237241,-149.849308,61.237241",
+    "geom:latitude":61.237241,
+    "geom:longitude":-149.849308,
+    "iso:country":"US",
+    "sg:address":"6210 Arctic Warrior Dr",
+    "sg:city":"Elmendorf Afb",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 753 7120",
+    "sg:postcode":"99506",
+    "sg:province":"AK",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873711,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0msTOcVe4dU3tIkQKI4sRg_61.237241_-149.849308@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3b4e41acd6d221c6b75b6bd66cfb8abb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873711,
+            "region_id":85688573,
+            "venue_id":"102153143"
+        }
+    ],
+    "wof:id":"102153143",
+    "wof:lastmodified":1449069463,
+    "wof:name":"AAFES Service Station",
+    "wof:parent_id":85873711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.849308,61.237241,-149.849308,61.237241],
+  "geometry": {"coordinates":[-149.849308,61.237241],"type":"Point"}
+}

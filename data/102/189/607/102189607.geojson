@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.857406,61.106314,-149.857406,61.106314",
+    "geom:latitude":61.106314,
+    "geom:longitude":-149.857406,
+    "iso:country":"US",
+    "sg:address":"12600 Silver Fox Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 9644",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Pr7P7IyUv3x51NFudMJ9W_61.106314_-149.857406@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"93013cb9b47b756465351a9251bd4639",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102189607"
+        }
+    ],
+    "wof:id":"102189607",
+    "wof:lastmodified":1449069497,
+    "wof:name":"Floyd's Garage",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.857406,61.106314,-149.857406,61.106314],
+  "geometry": {"coordinates":[-149.857406,61.106314],"type":"Point"}
+}

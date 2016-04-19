@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.381444,56.466797,-132.381444,56.466797",
+    "geom:latitude":56.466797,
+    "geom:longitude":-132.381444,
+    "iso:country":"US",
+    "sg:address":"641 Shakes St",
+    "sg:city":"Wrangell",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 874 3346",
+    "sg:postcode":"99929",
+    "sg:province":"AK",
+    "sg:tags":[
+        "packer",
+        "fish"
+    ],
+    "sg:website":"www.wrangellseafoods.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916111,
+        85633793,
+        85688573,
+        102081901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ucihr5qE2Es8y28ituUKC_56.466797_-132.381444@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b2320fdd17a7cd004842f0037a1f5c71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081901,
+            "locality_id":85916111,
+            "region_id":85688573,
+            "venue_id":"102157733"
+        }
+    ],
+    "wof:id":"102157733",
+    "wof:lastmodified":1449069830,
+    "wof:name":"Wrangell Seafoods Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.381444,56.466797,-132.381444,56.466797],
+  "geometry": {"coordinates":[-132.381444,56.466797],"type":"Point"}
+}

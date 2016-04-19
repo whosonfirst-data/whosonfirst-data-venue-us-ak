@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.270206,61.626065,-149.270206,61.626065",
+    "geom:latitude":61.626065,
+    "geom:longitude":-149.270206,
+    "iso:country":"US",
+    "sg:address":"7205 Shorewood Dr",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 7456",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916225,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fOdN9h9o96zL5QrOxMetN_61.626065_-149.270206@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5db722b8ff6f93a56f6b2d3f19a79e11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916225,
+            "region_id":85688573,
+            "venue_id":"102172553"
+        }
+    ],
+    "wof:id":"102172553",
+    "wof:lastmodified":1449068735,
+    "wof:name":"Bogard Veterinary Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.270206,61.626065,-149.270206,61.626065],
+  "geometry": {"coordinates":[-149.270206,61.626065],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.56056,58.357012,-134.56056,58.357012",
+    "geom:latitude":58.357012,
+    "geom:longitude":-134.56056,
+    "iso:country":"US",
+    "sg:address":"1650 Maplesden Way",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 9501",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "helicopter",
+        "rental"
+    ],
+    "sg:website":"www.alaskahelicoptertours.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915729,
+        85633793,
+        85688573,
+        102081399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WjzaJ6ARt8T6LeAQy03k6_58.357012_-134.560560@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1326e71bcbfa1ebe3225ebbdbc6621fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "region_id":85688573,
+            "venue_id":"102155461"
+        }
+    ],
+    "wof:id":"102155461",
+    "wof:lastmodified":1449069743,
+    "wof:name":"Temsco Helicopters Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.56056,58.357012,-134.56056,58.357012],
+  "geometry": {"coordinates":[-134.56056,58.357012],"type":"Point"}
+}

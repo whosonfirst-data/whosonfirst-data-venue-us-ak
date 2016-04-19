@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.487472,58.35665,-134.487472,58.35665",
+    "geom:latitude":58.35665,
+    "geom:longitude":-134.487472,
+    "iso:country":"US",
+    "sg:address":"5442 Shaune Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 780 8600",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0547j33gRjBGtHHKKZQ2mo_58.356650_-134.487472@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8112ef43f45a6ecb5710e27f1aef087c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102154085"
+        }
+    ],
+    "wof:id":"102154085",
+    "wof:lastmodified":1449070243,
+    "wof:name":"Glacier Mini-Storage",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.487472,58.35665,-134.487472,58.35665],
+  "geometry": {"coordinates":[-134.487472,58.35665],"type":"Point"}
+}

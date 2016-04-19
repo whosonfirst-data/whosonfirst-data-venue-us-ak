@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.331097,64.78786,-147.331097,64.78786",
+    "geom:latitude":64.78786,
+    "geom:longitude":-147.331097,
+    "iso:country":"US",
+    "sg:address":"2034 Pool St",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 7200",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916555,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AAkJiFzKKmP6s0TgfgdhJ_64.787860_-147.331097@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3b2032bb389881fedaf420e6384ac7f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916555,
+            "region_id":85688573,
+            "venue_id":"102159021"
+        }
+    ],
+    "wof:id":"102159021",
+    "wof:lastmodified":1449068094,
+    "wof:name":"Polar Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.331097,64.78786,-147.331097,64.78786],
+  "geometry": {"coordinates":[-147.331097,64.78786],"type":"Point"}
+}

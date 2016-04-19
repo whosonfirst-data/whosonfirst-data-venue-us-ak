@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.656758,64.905161,-147.656758,64.905161",
+    "geom:latitude":64.905161,
+    "geom:longitude":-147.656758,
+    "iso:country":"US",
+    "sg:address":"1100 McGrath Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 4611",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.ptialaska.net/~mcgrath",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916559,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hxgRVCwN2AljywEvWOwI9_64.905161_-147.656758@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cdfbfa65beeecdd19b825cdf913c9ac3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "region_id":85688573,
+            "venue_id":"102168743"
+        }
+    ],
+    "wof:id":"102168743",
+    "wof:lastmodified":1449069008,
+    "wof:name":"Mc Grath Road Baptist Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.656758,64.905161,-147.656758,64.905161],
+  "geometry": {"coordinates":[-147.656758,64.905161],"type":"Point"}
+}

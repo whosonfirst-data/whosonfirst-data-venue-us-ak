@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.750832,61.209796,-149.750832,61.209796",
+    "geom:latitude":61.209796,
+    "geom:longitude":-149.750832,
+    "iso:country":"US",
+    "sg:address":"6831 Debarr Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 338 4800",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "concrete",
+        "breaking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4E83h55rrpltWv3s9Uf4xE_61.209796_-149.750832@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"01c16e741112c19ce8ac30dcc971eee0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102190913"
+        }
+    ],
+    "wof:id":"102190913",
+    "wof:lastmodified":1449070034,
+    "wof:name":"Cesco",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.750832,61.209796,-149.750832,61.209796],
+  "geometry": {"coordinates":[-149.750832,61.209796],"type":"Point"}
+}

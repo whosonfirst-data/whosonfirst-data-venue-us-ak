@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.871089,61.217987,-149.871089,61.217987",
+    "geom:latitude":61.217987,
+    "geom:longitude":-149.871089,
+    "iso:country":"US",
+    "sg:address":"442 Gambell St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 3241",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pjbwdD9qnoVdRPg99yI3p_61.217987_-149.871089@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"96ce2d870ff14339ec695eedea2e0a57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102177543"
+        }
+    ],
+    "wof:id":"102177543",
+    "wof:lastmodified":1449070204,
+    "wof:name":"Able Towing & Transfer",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.871089,61.217987,-149.871089,61.217987],
+  "geometry": {"coordinates":[-149.871089,61.217987],"type":"Point"}
+}

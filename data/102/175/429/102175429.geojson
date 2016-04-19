@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.421792,59.6767,-151.421792,59.6767",
+    "geom:latitude":59.6767,
+    "geom:longitude":-151.421792,
+    "iso:country":"US",
+    "sg:address":"59325 E End Rd",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 8445",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834363,
+        85633793,
+        85915739,
+        102081909,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_355fB3cO91mG9MKh7rjHRE_59.676700_-151.421792@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c86ceea00955e63e459b81dd72845371",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "neighbourhood_id":85834363,
+            "region_id":85688573,
+            "venue_id":"102175429"
+        }
+    ],
+    "wof:id":"102175429",
+    "wof:lastmodified":1449069470,
+    "wof:name":"Machine & Diesel",
+    "wof:parent_id":85834363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.421792,59.6767,-151.421792,59.6767],
+  "geometry": {"coordinates":[-151.421792,59.6767],"type":"Point"}
+}

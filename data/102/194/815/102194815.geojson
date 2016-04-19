@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.854618,61.208142,-149.854618,61.208142",
+    "geom:latitude":61.208142,
+    "geom:longitude":-149.854618,
+    "iso:country":"US",
+    "sg:address":"1415 Orca St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 552 1402",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SruXoUQ5aHtvmEdmJWPjR_61.208142_-149.854618@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a27e601dadeee4f7a07ca3362b645120",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102194815"
+        }
+    ],
+    "wof:id":"102194815",
+    "wof:lastmodified":1449069828,
+    "wof:name":"US Dept of the Air Force",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.854618,61.208142,-149.854618,61.208142],
+  "geometry": {"coordinates":[-149.854618,61.208142],"type":"Point"}
+}

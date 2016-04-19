@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.30298,60.659952,-151.30298,60.659952",
+    "geom:latitude":60.659952,
+    "geom:longitude":-151.30298,
+    "iso:country":"US",
+    "sg:address":"502 Lake St",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 1690",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916883,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YOmwmmcg192cWk2KtQ017_60.659952_-151.302980@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b295c93359bf24e234c0e54e81c405c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916883,
+            "region_id":85688573,
+            "venue_id":"102180883"
+        }
+    ],
+    "wof:id":"102180883",
+    "wof:lastmodified":1449067877,
+    "wof:name":"Freedom Realty",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.30298,60.659952,-151.30298,60.659952],
+  "geometry": {"coordinates":[-151.30298,60.659952],"type":"Point"}
+}

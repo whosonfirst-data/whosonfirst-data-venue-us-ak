@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.474378,59.641671,-151.474378,59.641671",
+    "geom:latitude":59.641671,
+    "geom:longitude":-151.474378,
+    "iso:country":"US",
+    "sg:address":"2396 Kachemak Dr",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 6791",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mixed",
+        "concrete"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834363,
+        85633793,
+        85915739,
+        102081909,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IkDTYNDoR7iRiLxaHYlcq_59.641671_-151.474378@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ff6b712026695512a9330ec7974b40a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "neighbourhood_id":85834363,
+            "region_id":85688573,
+            "venue_id":"102181115"
+        }
+    ],
+    "wof:id":"102181115",
+    "wof:lastmodified":1449069231,
+    "wof:name":"Best Transit Mix",
+    "wof:parent_id":85834363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.474378,59.641671,-151.474378,59.641671],
+  "geometry": {"coordinates":[-151.474378,59.641671],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.510176,59.638671,-151.510176,59.638671",
+    "geom:latitude":59.638671,
+    "geom:longitude":-151.510176,
+    "iso:country":"US",
+    "sg:address":"1301 Ocean Dr",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 8441",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34vHt9sSOlaffgQwdxZXHf_59.638671_-151.510176@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"32576ef192ef06d951913f3722e7a588",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102181043"
+        }
+    ],
+    "wof:id":"102181043",
+    "wof:lastmodified":1449069234,
+    "wof:name":"Alyeska Tire",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.510176,59.638671,-151.510176,59.638671],
+  "geometry": {"coordinates":[-151.510176,59.638671],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.972951,56.786163,-132.972951,56.786163",
+    "geom:latitude":56.786163,
+    "geom:longitude":-132.972951,
+    "iso:country":"US",
+    "sg:address":"103 Hungerford Hill",
+    "sg:city":"Petersburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 772 3145",
+    "sg:postcode":"99833",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847465,
+        85633793,
+        85916033,
+        102081899,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HbwyRgH90wb0wUHN8NJ1P_56.786163_-132.972951@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d89eaf52c4f20ade81158cd9dd1bda5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081899,
+            "locality_id":85916033,
+            "neighbourhood_id":85847465,
+            "region_id":85688573,
+            "venue_id":"102178127"
+        }
+    ],
+    "wof:id":"102178127",
+    "wof:lastmodified":1449069534,
+    "wof:name":"T & S Automotive",
+    "wof:parent_id":85847465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.972951,56.786163,-132.972951,56.786163],
+  "geometry": {"coordinates":[-132.972951,56.786163],"type":"Point"}
+}

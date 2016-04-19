@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.877295,61.180878,-149.877295,61.180878",
+    "geom:latitude":61.180878,
+    "geom:longitude":-149.877295,
+    "iso:country":"US",
+    "sg:address":"333 E Tudor Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 5187",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cMlUBqYXihfoNMnfUFC9q_61.180878_-149.877295@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0f600361b4f12269d0da267e18fbecbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102186443"
+        }
+    ],
+    "wof:id":"102186443",
+    "wof:lastmodified":1449069655,
+    "wof:name":"Chef Wienee Miss Beanee",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.877295,61.180878,-149.877295,61.180878],
+  "geometry": {"coordinates":[-149.877295,61.180878],"type":"Point"}
+}

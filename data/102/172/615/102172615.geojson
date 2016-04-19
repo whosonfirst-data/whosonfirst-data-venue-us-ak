@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.065111,60.484019,-151.065111,60.484019",
+    "geom:latitude":60.484019,
+    "geom:longitude":-151.065111,
+    "iso:country":"US",
+    "sg:address":"44268 Sterling Hwy",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 260 9511",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JA86Awl2A5ZDc1QXfmxkQ_60.484019_-151.065111@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ea8ec1dc06f0b42f6fc215f87cb54625",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102172615"
+        }
+    ],
+    "wof:id":"102172615",
+    "wof:lastmodified":1449068736,
+    "wof:name":"Rent-A-Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.065111,60.484019,-151.065111,60.484019],
+  "geometry": {"coordinates":[-151.065111,60.484019],"type":"Point"}
+}

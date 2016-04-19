@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.807135,61.224086,-149.807135,61.224086",
+    "geom:latitude":61.224086,
+    "geom:longitude":-149.807135,
+    "iso:country":"US",
+    "sg:address":"3952 Mountain View Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 8671",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JMlZQrRMkFaeJ3yQHeuYh_61.224086_-149.807135@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fb8a04b6256106cab8fab563c418cf3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102157221"
+        }
+    ],
+    "wof:id":"102157221",
+    "wof:lastmodified":1449069832,
+    "wof:name":"Jamicos Pizzaria Restaurant",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.807135,61.224086,-149.807135,61.224086],
+  "geometry": {"coordinates":[-149.807135,61.224086],"type":"Point"}
+}

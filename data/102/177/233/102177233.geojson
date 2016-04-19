@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.508205,59.638953,-151.508205,59.638953",
+    "geom:latitude":59.638953,
+    "geom:longitude":-151.508205,
+    "iso:country":"US",
+    "sg:address":"1355 Ocean Dr",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 6091",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TmGc5WNdcVSbaePt2gZiZ_59.638953_-151.508205@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b1972850cc0b0c1686ae3967ea31bfc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102177233"
+        }
+    ],
+    "wof:id":"102177233",
+    "wof:lastmodified":1449070209,
+    "wof:name":"Precision Auto Works",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.508205,59.638953,-151.508205,59.638953],
+  "geometry": {"coordinates":[-151.508205,59.638953],"type":"Point"}
+}

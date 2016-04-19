@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.37553,56.472849,-132.37553,56.472849",
+    "geom:latitude":56.472849,
+    "geom:longitude":-132.37553,
+    "iso:country":"US",
+    "sg:address":"310 Bennett St",
+    "sg:city":"Wrangell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 874 7000",
+    "sg:postcode":"99929",
+    "sg:province":"AK",
+    "sg:website":"www.wrangellmedicalcenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916111,
+        85633793,
+        85688573,
+        102081901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uXsb5YajB7jwe9VSOpnl3_56.472849_-132.375530@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd7157ad765805dadc308b4198ea5f55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081901,
+            "locality_id":85916111,
+            "region_id":85688573,
+            "venue_id":"102164869"
+        }
+    ],
+    "wof:id":"102164869",
+    "wof:lastmodified":1449068092,
+    "wof:name":"Wrangell Medicial Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.37553,56.472849,-132.37553,56.472849],
+  "geometry": {"coordinates":[-132.37553,56.472849],"type":"Point"}
+}

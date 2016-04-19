@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.898034,61.188091,-149.898034,61.188091",
+    "geom:latitude":61.188091,
+    "geom:longitude":-149.898034,
+    "iso:country":"US",
+    "sg:address":"3502 Arctic Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 6666",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "sg:website":"www.artandframesobeidis.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ddu1X2E5ehjeY5R2vmxQc_61.188091_-149.898034@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3814f65aa1d62c30cbe13cb570f7e1f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102170477"
+        }
+    ],
+    "wof:id":"102170477",
+    "wof:lastmodified":1449068017,
+    "wof:name":"Obeidi's Fine Art Gallery",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.898034,61.188091,-149.898034,61.188091],
+  "geometry": {"coordinates":[-149.898034,61.188091],"type":"Point"}
+}

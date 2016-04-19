@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.838548,61.147794,-149.838548,61.147794",
+    "geom:latitude":61.147794,
+    "geom:longitude":-149.838548,
+    "iso:country":"US",
+    "sg:address":"2361 Cinnabar Loop",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 3134",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m16Gv4iVT1T1VDiqL3TXY_61.147794_-149.838548@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f01232a40342b92ee2c52445d65ea2e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102181217"
+        }
+    ],
+    "wof:id":"102181217",
+    "wof:lastmodified":1449069235,
+    "wof:name":"Ed's Body Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.838548,61.147794,-149.838548,61.147794],
+  "geometry": {"coordinates":[-149.838548,61.147794],"type":"Point"}
+}

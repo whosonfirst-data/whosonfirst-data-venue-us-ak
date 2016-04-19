@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.113385,64.605245,-147.113385,64.605245",
+    "geom:latitude":64.605245,
+    "geom:longitude":-147.113385,
+    "iso:country":"US",
+    "sg:address":"5130 Sundown Trl",
+    "sg:city":"Salcha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 9338",
+    "sg:postcode":"99714",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916579,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72C6HbM6Ek1woHZjmfR4sF_64.605245_-147.113385@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6128b81e8986150ab2b66beaefe7a23d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916579,
+            "region_id":85688573,
+            "venue_id":"102151531"
+        }
+    ],
+    "wof:id":"102151531",
+    "wof:lastmodified":1449067780,
+    "wof:name":"Salcha Veterinary Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.113385,64.605245,-147.113385,64.605245],
+  "geometry": {"coordinates":[-147.113385,64.605245],"type":"Point"}
+}

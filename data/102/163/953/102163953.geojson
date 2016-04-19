@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.555598,61.323561,-149.555598,61.323561",
+    "geom:latitude":61.323561,
+    "geom:longitude":-149.555598,
+    "iso:country":"US",
+    "sg:address":"11416 Echo St",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 696 1927",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2m2rHsFsV9gfzwvZq3lrfw_61.323561_-149.555598@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5537f8edbe14f71fc5c2fdb56ba5ec3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102163953"
+        }
+    ],
+    "wof:id":"102163953",
+    "wof:lastmodified":1449070165,
+    "wof:name":"Hunter's Horns Taxidermy Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.555598,61.323561,-149.555598,61.323561],
+  "geometry": {"coordinates":[-149.555598,61.323561],"type":"Point"}
+}

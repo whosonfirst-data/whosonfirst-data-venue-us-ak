@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.906946,61.174792,-149.906946,61.174792",
+    "geom:latitude":61.174792,
+    "geom:longitude":-149.906946,
+    "iso:country":"US",
+    "sg:address":"5083 Nottingham Way",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 346 8008",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_769XXx5uoyNINkSEHQb7kK_61.174792_-149.906946@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d6f385f86793cb34605a61182f5af0ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102175379"
+        }
+    ],
+    "wof:id":"102175379",
+    "wof:lastmodified":1449069465,
+    "wof:name":"Alaska Landscape Maintenance",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.906946,61.174792,-149.906946,61.174792],
+  "geometry": {"coordinates":[-149.906946,61.174792],"type":"Point"}
+}

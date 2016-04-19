@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.138675,61.607179,-149.138675,61.607179",
+    "geom:latitude":61.607179,
+    "geom:longitude":-149.138675,
+    "iso:country":"US",
+    "sg:address":"201 Lloyd St",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 746 3551",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915577,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PcudYySgWCQ4rTj8lrHuR_61.607179_-149.138675@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c5926aa3d2d1668a279d1228b2d71a72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915577,
+            "region_id":85688573,
+            "venue_id":"102149601"
+        }
+    ],
+    "wof:id":"102149601",
+    "wof:lastmodified":1449067769,
+    "wof:name":"J Bar B Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.138675,61.607179,-149.138675,61.607179],
+  "geometry": {"coordinates":[-149.138675,61.607179],"type":"Point"}
+}

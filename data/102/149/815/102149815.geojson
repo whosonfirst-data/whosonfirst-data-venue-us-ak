@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.08127,60.521889,-151.08127,60.521889",
+    "geom:latitude":60.521889,
+    "geom:longitude":-151.08127,
+    "iso:country":"US",
+    "sg:address":"37388 Kenai Spur Hwy",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 5885",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916859,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MPv1Ygj7OZcqYy0QlofXN_60.521889_-151.081270@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"06cdc13deab3385212af0d9ac5396393",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916859,
+            "region_id":85688573,
+            "venue_id":"102149815"
+        }
+    ],
+    "wof:id":"102149815",
+    "wof:lastmodified":1449067770,
+    "wof:name":"Kenai Auto Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.08127,60.521889,-151.08127,60.521889],
+  "geometry": {"coordinates":[-151.08127,60.521889],"type":"Point"}
+}

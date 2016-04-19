@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.748143,61.097666,-149.748143,61.097666",
+    "geom:latitude":61.097666,
+    "geom:longitude":-149.748143,
+    "iso:country":"US",
+    "sg:address":"6801 Our Own Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 3701",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873741,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E05kJFUIGZt1ULEU31dvx_61.097666_-149.748143@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6da7abc86b0f64c0e833eacd6b82655c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873741,
+            "region_id":85688573,
+            "venue_id":"102176659"
+        }
+    ],
+    "wof:id":"102176659",
+    "wof:lastmodified":1449069342,
+    "wof:name":"Quality Masonry",
+    "wof:parent_id":85873741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.748143,61.097666,-149.748143,61.097666],
+  "geometry": {"coordinates":[-149.748143,61.097666],"type":"Point"}
+}

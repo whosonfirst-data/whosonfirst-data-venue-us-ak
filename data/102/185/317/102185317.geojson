@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-145.760651,60.549959,-145.760651,60.549959",
+    "geom:latitude":60.549959,
+    "geom:longitude":-145.760651,
+    "iso:country":"US",
+    "sg:address":"202 Industry Rd",
+    "sg:city":"Cordova",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 424 4780",
+    "sg:postcode":"99574",
+    "sg:province":"AK",
+    "sg:website":"www.shipaml.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839707,
+        85633793,
+        85915567,
+        102081911,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S6vON8DpqZgGzM67UOpxQ_60.549959_-145.760651@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b981b5af744d0a78327dd6dc2df5b5bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915567,
+            "neighbourhood_id":85839707,
+            "region_id":85688573,
+            "venue_id":"102185317"
+        }
+    ],
+    "wof:id":"102185317",
+    "wof:lastmodified":1449068197,
+    "wof:name":"Alaska Marine Lines",
+    "wof:parent_id":85839707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-145.760651,60.549959,-145.760651,60.549959],
+  "geometry": {"coordinates":[-145.760651,60.549959],"type":"Point"}
+}

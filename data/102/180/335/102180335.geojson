@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.819163,61.153101,-149.819163,61.153101",
+    "geom:latitude":61.153101,
+    "geom:longitude":-149.819163,
+    "iso:country":"US",
+    "sg:address":"7327 Spruce St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 2735",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uSqdEfSqNjioEwulvK02Y_61.153101_-149.819163@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8e2bf6b5e5877ed6d1ed676652885dc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102180335"
+        }
+    ],
+    "wof:id":"102180335",
+    "wof:lastmodified":1449067878,
+    "wof:name":"Jerry's Auto Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.819163,61.153101,-149.819163,61.153101],
+  "geometry": {"coordinates":[-149.819163,61.153101],"type":"Point"}
+}

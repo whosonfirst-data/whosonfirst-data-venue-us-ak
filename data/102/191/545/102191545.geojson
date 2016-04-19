@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.571726,58.358103,-134.571726,58.358103",
+    "geom:latitude":58.358103,
+    "geom:longitude":-134.571726,
+    "iso:country":"US",
+    "sg:address":"8429 Livingston Way",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 9033",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "parts",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915729,
+        85633793,
+        85688573,
+        102081399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZR06uGgEpVkc3VyanSDfX_58.358103_-134.571726@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"52cae2bcd1077626d262b211c76489e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "region_id":85688573,
+            "venue_id":"102191545"
+        }
+    ],
+    "wof:id":"102191545",
+    "wof:lastmodified":1449069202,
+    "wof:name":"Silver Bay Aviation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.571726,58.358103,-134.571726,58.358103],
+  "geometry": {"coordinates":[-134.571726,58.358103],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.705657,64.851077,-147.705657,64.851077",
+    "geom:latitude":64.851077,
+    "geom:longitude":-147.705657,
+    "iso:country":"US",
+    "sg:address":"20 College Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 374 4747",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LdrC1z23Cjshj06Uyd99t_64.851077_-147.705657@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fab1a64bb825aa21dc11b768f5b18a9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102147987"
+        }
+    ],
+    "wof:id":"102147987",
+    "wof:lastmodified":1449069928,
+    "wof:name":"Pet Palace",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.705657,64.851077,-147.705657,64.851077],
+  "geometry": {"coordinates":[-147.705657,64.851077],"type":"Point"}
+}

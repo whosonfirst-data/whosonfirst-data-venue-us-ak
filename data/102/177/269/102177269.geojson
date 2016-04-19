@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.440436,60.101443,-149.440436,60.101443",
+    "geom:latitude":60.101443,
+    "geom:longitude":-149.440436,
+    "iso:country":"US",
+    "sg:address":"224 4th Ave",
+    "sg:city":"Seward",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 224 2228",
+    "sg:postcode":"99664",
+    "sg:province":"AK",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915769,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1laROfB3otC7M4hC1cET35_60.101443_-149.440436@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1687cbff88738f969c357dc1839567c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915769,
+            "region_id":85688573,
+            "venue_id":"102177269"
+        }
+    ],
+    "wof:id":"102177269",
+    "wof:lastmodified":1449070207,
+    "wof:name":"Ranting Raven Bakery & Gifts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.440436,60.101443,-149.440436,60.101443],
+  "geometry": {"coordinates":[-149.440436,60.101443],"type":"Point"}
+}

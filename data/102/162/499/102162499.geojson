@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.886592,61.187549,-149.886592,61.187549",
+    "geom:latitude":61.187549,
+    "geom:longitude":-149.886592,
+    "iso:country":"US",
+    "sg:address":"3601 C St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 269 8160",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "state",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58GFq3bYpSqe97rMn7GCNA_61.187549_-149.886592@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c0984201157542bd199e38b4c51e473c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102162499"
+        }
+    ],
+    "wof:id":"102162499",
+    "wof:lastmodified":1449069821,
+    "wof:name":"Occupational Licensing Div",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.886592,61.187549,-149.886592,61.187549],
+  "geometry": {"coordinates":[-149.886592,61.187549],"type":"Point"}
+}

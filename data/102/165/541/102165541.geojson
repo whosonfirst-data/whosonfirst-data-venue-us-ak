@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.845852,61.199585,-149.845852,61.199585",
+    "geom:latitude":61.199585,
+    "geom:longitude":-149.845852,
+    "iso:country":"US",
+    "sg:address":"2320 Maplewood St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 4637",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dtKmMD3XJEcZxrqAuwtNQ_61.199585_-149.845852@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"638cac03fe029a628f1123d3a3a69d7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102165541"
+        }
+    ],
+    "wof:id":"102165541",
+    "wof:lastmodified":1449070213,
+    "wof:name":"Wish Upon The North Star Inc",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.845852,61.199585,-149.845852,61.199585],
+  "geometry": {"coordinates":[-149.845852,61.199585],"type":"Point"}
+}

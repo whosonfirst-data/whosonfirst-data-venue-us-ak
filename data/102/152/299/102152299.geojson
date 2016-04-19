@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.482957,58.356797,-134.482957,58.356797",
+    "geom:latitude":58.356797,
+    "geom:longitude":-134.482957,
+    "iso:country":"US",
+    "sg:address":"5331 Shaune Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 3606",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12uDa0etEzkz2nE8Qz5Gdo_58.356797_-134.482957@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a279f37cbfb64e25915035af550f7613",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102152299"
+        }
+    ],
+    "wof:id":"102152299",
+    "wof:lastmodified":1449069635,
+    "wof:name":"Silverbow Construction",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.482957,58.356797,-134.482957,58.356797],
+  "geometry": {"coordinates":[-134.482957,58.356797],"type":"Point"}
+}

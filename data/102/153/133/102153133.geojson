@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.740866,61.106208,-149.740866,61.106208",
+    "geom:latitude":61.106208,
+    "geom:longitude":-149.740866,
+    "iso:country":"US",
+    "sg:address":"12510 Rya Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 8606",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "concrete",
+        "grouting",
+        "repair",
+        "fencing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873747,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fXDtuEMeD1SPk2bh3oWhS_61.106208_-149.740866@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fa18c14322bb0626dcf446393a2e83c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873747,
+            "region_id":85688573,
+            "venue_id":"102153133"
+        }
+    ],
+    "wof:id":"102153133",
+    "wof:lastmodified":1449069463,
+    "wof:name":"Precision Grouting Inc",
+    "wof:parent_id":85873747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.740866,61.106208,-149.740866,61.106208],
+  "geometry": {"coordinates":[-149.740866,61.106208],"type":"Point"}
+}

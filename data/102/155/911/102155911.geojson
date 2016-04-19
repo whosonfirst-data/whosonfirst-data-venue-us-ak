@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.71352,64.826239,-147.71352,64.826239",
+    "geom:latitude":64.826239,
+    "geom:longitude":-147.71352,
+    "iso:country":"US",
+    "sg:address":"2300 S Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 5334",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YK8dqzNINN6GDklgglmXF_64.826239_-147.713520@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e616f115b317374c9f66ab911fb0f49f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102155911"
+        }
+    ],
+    "wof:id":"102155911",
+    "wof:lastmodified":1449069746,
+    "wof:name":"Williams Express",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.71352,64.826239,-147.71352,64.826239],
+  "geometry": {"coordinates":[-147.71352,64.826239],"type":"Point"}
+}

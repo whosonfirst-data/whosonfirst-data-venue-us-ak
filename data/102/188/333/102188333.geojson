@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.969518,61.183476,-149.969518,61.183476",
+    "geom:latitude":61.183476,
+    "geom:longitude":-149.969518,
+    "iso:country":"US",
+    "sg:address":"4261 Floatplane Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 5525",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "leasing",
+        "charter"
+    ],
+    "sg:website":"www.ketchumair.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852831,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RFnCtgkELHFVezgFRwZhN_61.183476_-149.969518@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4140f34e6e964a2fc5993277db57058a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":"102188333"
+        }
+    ],
+    "wof:id":"102188333",
+    "wof:lastmodified":1449068947,
+    "wof:name":"Ketchum Air Svc Inc",
+    "wof:parent_id":85852831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.969518,61.183476,-149.969518,61.183476],
+  "geometry": {"coordinates":[-149.969518,61.183476],"type":"Point"}
+}

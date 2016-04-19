@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.502655,58.357872,-134.502655,58.357872",
+    "geom:latitude":58.357872,
+    "geom:longitude":-134.502655,
+    "iso:country":"US",
+    "sg:address":"6000 Gull Way",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 780 6976",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tA0DVXxYvD4mP3CV3U3Lv_58.357872_-134.502655@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"49a1546c2e00d58f04cfacef038cdfa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102149135"
+        }
+    ],
+    "wof:id":"102149135",
+    "wof:lastmodified":1449067770,
+    "wof:name":"Child Care Plus",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.502655,58.357872,-134.502655,58.357872],
+  "geometry": {"coordinates":[-134.502655,58.357872],"type":"Point"}
+}

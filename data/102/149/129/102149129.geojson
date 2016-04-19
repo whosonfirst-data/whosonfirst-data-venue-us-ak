@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.871093,61.115767,-149.871093,61.115767",
+    "geom:latitude":61.115767,
+    "geom:longitude":-149.871093,
+    "iso:country":"US",
+    "sg:address":"440 E Klatt Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 1311",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "sg:website":"www.valley-memorial.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873755,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zpVXIKptTjvBaRnqsEwDq_61.115767_-149.871093@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"182973823df1e12007ed41ca11378529",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873755,
+            "region_id":85688573,
+            "venue_id":"102149129"
+        }
+    ],
+    "wof:id":"102149129",
+    "wof:lastmodified":1449067770,
+    "wof:name":"Angelus Memorial Park Inc",
+    "wof:parent_id":85873755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.871093,61.115767,-149.871093,61.115767],
+  "geometry": {"coordinates":[-149.871093,61.115767],"type":"Point"}
+}

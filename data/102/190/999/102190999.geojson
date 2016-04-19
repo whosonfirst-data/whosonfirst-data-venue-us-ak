@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.184415,61.634078,-149.184415,61.634078",
+    "geom:latitude":61.634078,
+    "geom:longitude":-149.184415,
+    "iso:country":"US",
+    "sg:address":"4675 Mc Kean Dr",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 746 3093",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916265,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Nh63nQMYpNrC2ihNcO9QJ_61.634078_-149.184415@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"15aae298a1cef99a8dbafc0467fc3363",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916265,
+            "region_id":85688573,
+            "venue_id":"102190999"
+        }
+    ],
+    "wof:id":"102190999",
+    "wof:lastmodified":1449070036,
+    "wof:name":"Acker Freight",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.184415,61.634078,-149.184415,61.634078],
+  "geometry": {"coordinates":[-149.184415,61.634078],"type":"Point"}
+}

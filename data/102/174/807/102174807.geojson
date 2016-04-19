@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.929357,64.919176,-147.929357,64.919176",
+    "geom:latitude":64.919176,
+    "geom:longitude":-147.929357,
+    "iso:country":"US",
+    "sg:address":"1331 Opportunity Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 455 6256",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916569,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iH1MdV2C4BZqSyhQ9fYSF_64.919176_-147.929357@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"911e63ce3cb51536c50e3fac5e38afcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916569,
+            "region_id":85688573,
+            "venue_id":"102174807"
+        }
+    ],
+    "wof:id":"102174807",
+    "wof:lastmodified":1449068138,
+    "wof:name":"P & H Quality Carpet Cleaning",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.929357,64.919176,-147.929357,64.919176],
+  "geometry": {"coordinates":[-147.929357,64.919176],"type":"Point"}
+}

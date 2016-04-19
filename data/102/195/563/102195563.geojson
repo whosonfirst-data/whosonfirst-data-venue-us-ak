@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.75457,61.216103,-149.75457,61.216103",
+    "geom:latitude":61.216103,
+    "geom:longitude":-149.75457,
+    "iso:country":"US",
+    "sg:address":"6817 Queens View Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 8001",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YRe18j9b3Gmlb7CroWjZP_61.216103_-149.754570@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fd21b49c21315500d72c03dc932c78d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102195563"
+        }
+    ],
+    "wof:id":"102195563",
+    "wof:lastmodified":1449069362,
+    "wof:name":"A-1 Health & Wellness Products",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.75457,61.216103,-149.75457,61.216103],
+  "geometry": {"coordinates":[-149.75457,61.216103],"type":"Point"}
+}

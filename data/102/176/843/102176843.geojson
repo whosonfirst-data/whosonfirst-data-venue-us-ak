@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.583064,58.368357,-134.583064,58.368357",
+    "geom:latitude":58.368357,
+    "geom:longitude":-134.583064,
+    "iso:country":"US",
+    "sg:address":"9077 Hurlock Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 7645",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2q0oJGOrWRv8mAZMcm5UcC_58.368357_-134.583064@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8c8d50708bd7183c9a5579dc17c256e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102176843"
+        }
+    ],
+    "wof:id":"102176843",
+    "wof:lastmodified":1449069341,
+    "wof:name":"Gumdrop House",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.583064,58.368357,-134.583064,58.368357],
+  "geometry": {"coordinates":[-134.583064,58.368357],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.726278,64.83698,-147.726278,64.83698",
+    "geom:latitude":64.83698,
+    "geom:longitude":-147.726278,
+    "iso:country":"US",
+    "sg:address":"1402 Gillam Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 8690",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "second",
+        "store",
+        "hand"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AS6Aqa1AYCrmCHsx3OKZv_64.836980_-147.726278@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bc841a4f3e27846b505d1c5a380d0eed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102158755"
+        }
+    ],
+    "wof:id":"102158755",
+    "wof:lastmodified":1449069393,
+    "wof:name":"Ben's Super Store",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.726278,64.83698,-147.726278,64.83698],
+  "geometry": {"coordinates":[-147.726278,64.83698],"type":"Point"}
+}

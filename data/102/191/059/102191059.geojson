@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.737058,61.105001,-149.737058,61.105001",
+    "geom:latitude":61.105001,
+    "geom:longitude":-149.737058,
+    "iso:country":"US",
+    "sg:address":"7800 Talisman Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 677 9229",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "consultant",
+        "energy",
+        "conservation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873747,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NhAHLnwWeGqBg2JeYJerR_61.105001_-149.737058@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1bee10abb1ac7da052a2246e6041f542",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873747,
+            "region_id":85688573,
+            "venue_id":"102191059"
+        }
+    ],
+    "wof:id":"102191059",
+    "wof:lastmodified":1449069201,
+    "wof:name":"Arctic Energy Systems",
+    "wof:parent_id":85873747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.737058,61.105001,-149.737058,61.105001],
+  "geometry": {"coordinates":[-149.737058,61.105001],"type":"Point"}
+}

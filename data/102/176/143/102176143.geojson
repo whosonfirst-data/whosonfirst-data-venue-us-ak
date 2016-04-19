@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.405558,58.300597,-134.405558,58.300597",
+    "geom:latitude":58.300597,
+    "geom:longitude":-134.405558,
+    "iso:country":"US",
+    "sg:address":"248 Front St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 2604",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7adp58wfQSpsl7hCMTscx9_58.300597_-134.405558@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"75ff97157cca02d328f4a49f95a4bbf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102176143"
+        }
+    ],
+    "wof:id":"102176143",
+    "wof:lastmodified":1449069348,
+    "wof:name":"Jewel Box",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.405558,58.300597,-134.405558,58.300597],
+  "geometry": {"coordinates":[-134.405558,58.300597],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.774135,64.81016,-147.774135,64.81016",
+    "geom:latitude":64.81016,
+    "geom:longitude":-147.774135,
+    "iso:country":"US",
+    "sg:address":"3880 Tibor St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 4357",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HGD9KDl5tGVKVXnKveVg0_64.810160_-147.774135@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c8984878bae818f5cc27f5b142aafa59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102183271"
+        }
+    ],
+    "wof:id":"102183271",
+    "wof:lastmodified":1449069043,
+    "wof:name":"Badger Towing",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.774135,64.81016,-147.774135,64.81016],
+  "geometry": {"coordinates":[-147.774135,64.81016],"type":"Point"}
+}

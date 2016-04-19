@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.350858,64.754533,-147.350858,64.754533",
+    "geom:latitude":64.754533,
+    "geom:longitude":-147.350858,
+    "iso:country":"US",
+    "sg:address":"125 Snowman Ln",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 2232",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.northpolefire.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915639,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UOBzyev1DhmWTd8rNEzKk_64.754533_-147.350858@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d00f5583fd4c21271544453c3bbda035",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915639,
+            "region_id":85688573,
+            "venue_id":"102190731"
+        }
+    ],
+    "wof:id":"102190731",
+    "wof:lastmodified":1449070037,
+    "wof:name":"North Pole Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.350858,64.754533,-147.350858,64.754533],
+  "geometry": {"coordinates":[-147.350858,64.754533],"type":"Point"}
+}

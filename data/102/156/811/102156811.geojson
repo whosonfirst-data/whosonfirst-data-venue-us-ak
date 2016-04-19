@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.769355,64.855984,-147.769355,64.855984",
+    "geom:latitude":64.855984,
+    "geom:longitude":-147.769355,
+    "iso:country":"US",
+    "sg:address":"1060 Bush St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 2188",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.alschemex.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869043,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bzb2n2KPbkptJgxqtmXrC_64.855984_-147.769355@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"36fcc2685a696491db00491f6c475679",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85869043,
+            "region_id":85688573,
+            "venue_id":"102156811"
+        }
+    ],
+    "wof:id":"102156811",
+    "wof:lastmodified":1449068281,
+    "wof:name":"Als Chemex",
+    "wof:parent_id":85869043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.769355,64.855984,-147.769355,64.855984],
+  "geometry": {"coordinates":[-147.769355,64.855984],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.574109,58.398733,-134.574109,58.398733",
+    "geom:latitude":58.398733,
+    "geom:longitude":-134.574109,
+    "iso:country":"US",
+    "sg:address":"8517 Mendenhall Loop Rd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 7999",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_034dMhZCjiJGsbKVlUGzir_58.398733_-134.574109@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"90f74cc13e425598dc42df2fc0d52fca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102163735"
+        }
+    ],
+    "wof:id":"102163735",
+    "wof:lastmodified":1449070163,
+    "wof:name":"K B J Contractors",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.574109,58.398733,-134.574109,58.398733],
+  "geometry": {"coordinates":[-134.574109,58.398733],"type":"Point"}
+}

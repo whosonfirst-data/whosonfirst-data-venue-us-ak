@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.43882,61.417749,-149.43882,61.417749",
+    "geom:latitude":61.417749,
+    "geom:longitude":-149.43882,
+    "iso:country":"US",
+    "sg:address":"23819 Immelman Cir",
+    "sg:city":"Chugiak",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 688 6578",
+    "sg:postcode":"99567",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869049,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QeaCQzZ1pGloYcWkDt1GC_61.417749_-149.438820@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a0132ca2112002fab1305c33328fe41b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869049,
+            "region_id":85688573,
+            "venue_id":"102163765"
+        }
+    ],
+    "wof:id":"102163765",
+    "wof:lastmodified":1449070165,
+    "wof:name":"Bering Sea Animal Clinic",
+    "wof:parent_id":85869049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.43882,61.417749,-149.43882,61.417749],
+  "geometry": {"coordinates":[-149.43882,61.417749],"type":"Point"}
+}

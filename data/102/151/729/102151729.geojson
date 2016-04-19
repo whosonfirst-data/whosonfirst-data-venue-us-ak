@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.251581,61.592168,-149.251581,61.592168",
+    "geom:latitude":61.592168,
+    "geom:longitude":-149.251581,
+    "iso:country":"US",
+    "sg:address":"1100 N Little Brook Ln",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 5370",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916225,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oEkBXpXdrNIqqUZFHE9eR_61.592168_-149.251581@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0f986ef27c478185d3ff1d85193f08ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916225,
+            "region_id":85688573,
+            "venue_id":"102151729"
+        }
+    ],
+    "wof:id":"102151729",
+    "wof:lastmodified":1449067781,
+    "wof:name":"AAA Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.251581,61.592168,-149.251581,61.592168],
+  "geometry": {"coordinates":[-149.251581,61.592168],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.693797,64.808109,-147.693797,64.808109",
+    "geom:latitude":64.808109,
+    "geom:longitude":-147.693797,
+    "iso:country":"US",
+    "sg:address":"3600 Easy St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 3279",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916551,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OzHq0WMbfRJBxIRL7epz2_64.808109_-147.693797@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"304a74136016555565553137a10a10d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916551,
+            "region_id":85688573,
+            "venue_id":"102182717"
+        }
+    ],
+    "wof:id":"102182717",
+    "wof:lastmodified":1449069277,
+    "wof:name":"A Mini Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.693797,64.808109,-147.693797,64.808109],
+  "geometry": {"coordinates":[-147.693797,64.808109],"type":"Point"}
+}

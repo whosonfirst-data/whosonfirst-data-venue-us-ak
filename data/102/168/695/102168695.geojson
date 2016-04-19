@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.722793,64.859074,-147.722793,64.859074",
+    "geom:latitude":64.859074,
+    "geom:longitude":-147.722793,
+    "iso:country":"US",
+    "sg:address":"720 College Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 1848",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "garage",
+        "door",
+        "installation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830247,
+        85633793,
+        85916559,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hkbB7fECCeGOpFvZMG79L_64.859074_-147.722793@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"354bd60619a5bf431311a643f316c575",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "neighbourhood_id":85830247,
+            "region_id":85688573,
+            "venue_id":"102168695"
+        }
+    ],
+    "wof:id":"102168695",
+    "wof:lastmodified":1449069007,
+    "wof:name":"Overhead Door Co Fairbanks",
+    "wof:parent_id":85830247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.722793,64.859074,-147.722793,64.859074],
+  "geometry": {"coordinates":[-147.722793,64.859074],"type":"Point"}
+}

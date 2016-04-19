@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.798277,61.137441,-149.798277,61.137441",
+    "geom:latitude":61.137441,
+    "geom:longitude":-149.798277,
+    "iso:country":"US",
+    "sg:address":"4440 Abbott Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 346 1411",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repair",
+        "door",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873745,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5I6WmWsJRiQZxTfTwu2UvG_61.137441_-149.798277@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"46b6e70cd4ebdd9531846d05b3074114",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873745,
+            "region_id":85688573,
+            "venue_id":"102182043"
+        }
+    ],
+    "wof:id":"102182043",
+    "wof:lastmodified":1449069280,
+    "wof:name":"Allegrezza Door Co",
+    "wof:parent_id":85873745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.798277,61.137441,-149.798277,61.137441],
+  "geometry": {"coordinates":[-149.798277,61.137441],"type":"Point"}
+}

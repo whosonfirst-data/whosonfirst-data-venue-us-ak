@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.727359,64.834578,-147.727359,64.834578",
+    "geom:latitude":64.834578,
+    "geom:longitude":-147.727359,
+    "iso:country":"US",
+    "sg:address":"1461 Gillam Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 7700",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28bCrfFkJMNQZiOvDARPm3_64.834578_-147.727359@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9c164fd2bad31692ed16c078e9d5b7b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102170419"
+        }
+    ],
+    "wof:id":"102170419",
+    "wof:lastmodified":1449068020,
+    "wof:name":"Downtown Bed & Breakfast",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.727359,64.834578,-147.727359,64.834578],
+  "geometry": {"coordinates":[-147.727359,64.834578],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.33918,57.04967,-135.33918,57.04967",
+    "geom:latitude":57.04967,
+    "geom:longitude":-135.33918,
+    "iso:country":"US",
+    "sg:address":"134 Lincoln St",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 3354",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dysN1DsdbjtCQGa5ehwwP_57.049670_-135.339180@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"561c1ad9272becc3e26f4031d077639f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102160249"
+        }
+    ],
+    "wof:id":"102160249",
+    "wof:lastmodified":1449069773,
+    "wof:name":"Random House",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.33918,57.04967,-135.33918,57.04967],
+  "geometry": {"coordinates":[-135.33918,57.04967],"type":"Point"}
+}

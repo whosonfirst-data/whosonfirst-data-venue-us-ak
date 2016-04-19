@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.570269,61.327332,-149.570269,61.327332",
+    "geom:latitude":61.327332,
+    "geom:longitude":-149.570269,
+    "iso:country":"US",
+    "sg:address":"11836 Old Glenn Hwy",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 694 0694",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pdUPasD2vIpHpeZeyzgd7_61.327332_-149.570269@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"baee5576cbc0d0238fcca6bedf61a5e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102175985"
+        }
+    ],
+    "wof:id":"102175985",
+    "wof:lastmodified":1449069465,
+    "wof:name":"Eagle River Chevron",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.570269,61.327332,-149.570269,61.327332],
+  "geometry": {"coordinates":[-149.570269,61.327332],"type":"Point"}
+}

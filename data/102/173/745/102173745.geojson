@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.793174,55.433969,-131.793174,55.433969",
+    "geom:latitude":55.433969,
+    "geom:longitude":-131.793174,
+    "iso:country":"US",
+    "sg:address":"10750 N Tongass Hwy",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 247 2626",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AniCt8i86fgcpURtKCSS4_55.433969_-131.793174@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"029c805c892400df1e6772fa0753cefa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "region_id":85688573,
+            "venue_id":"102173745"
+        }
+    ],
+    "wof:id":"102173745",
+    "wof:lastmodified":1449068272,
+    "wof:name":"Lighthouse Grocery & Liquor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.793174,55.433969,-131.793174,55.433969],
+  "geometry": {"coordinates":[-131.793174,55.433969],"type":"Point"}
+}

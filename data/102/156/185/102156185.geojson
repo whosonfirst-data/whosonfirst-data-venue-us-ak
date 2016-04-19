@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.406795,58.300684,-134.406795,58.300684",
+    "geom:latitude":58.300684,
+    "geom:longitude":-134.406795,
+    "iso:country":"US",
+    "sg:address":"220 Front St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 3456",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "photo",
+        "finishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GlTBm0YwcAa716sVZe12Z_58.300684_-134.406795@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0d61eb6024c4a5440828443155b91549",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102156185"
+        }
+    ],
+    "wof:id":"102156185",
+    "wof:lastmodified":1449068281,
+    "wof:name":"Front Street Photo",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.406795,58.300684,-134.406795,58.300684],
+  "geometry": {"coordinates":[-134.406795,58.300684],"type":"Point"}
+}

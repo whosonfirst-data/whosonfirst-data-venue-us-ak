@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.413004,61.649974,-149.413004,61.649974",
+    "geom:latitude":61.649974,
+    "geom:longitude":-149.413004,
+    "iso:country":"US",
+    "sg:address":"2242 E Carney Rd",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pottery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 3258",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916185,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SVjnPCSBsxKMbVrQA3IsM_61.649974_-149.413004@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"635cdffc31949a1bc426e65befcbbfb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916185,
+            "region_id":85688573,
+            "venue_id":"102160275"
+        }
+    ],
+    "wof:id":"102160275",
+    "wof:lastmodified":1449069774,
+    "wof:name":"Peck Pottery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.413004,61.649974,-149.413004,61.649974],
+  "geometry": {"coordinates":[-149.413004,61.649974],"type":"Point"}
+}

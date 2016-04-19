@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.685721,64.891095,-147.685721,64.891095",
+    "geom:latitude":64.891095,
+    "geom:longitude":-147.685721,
+    "iso:country":"US",
+    "sg:address":"491 Farmers Loop Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 5617",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916559,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QOPN2PUDyUX2IMJClBv1H_64.891095_-147.685721@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7d571bdd1b8f2bff49161f51926d4a23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "region_id":85688573,
+            "venue_id":"102151689"
+        }
+    ],
+    "wof:id":"102151689",
+    "wof:lastmodified":1449067782,
+    "wof:name":"B S Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.685721,64.891095,-147.685721,64.891095],
+  "geometry": {"coordinates":[-147.685721,64.891095],"type":"Point"}
+}

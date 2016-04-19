@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.899555,61.172517,-149.899555,61.172517",
+    "geom:latitude":61.172517,
+    "geom:longitude":-149.899555,
+    "iso:country":"US",
+    "sg:address":"830 W 53rd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 348 0300",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2i1Lt267FSMymKVgW8Nofz_61.172517_-149.899555@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f4799f63d95efedfbf10f8543d5c628e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102152767"
+        }
+    ],
+    "wof:id":"102152767",
+    "wof:lastmodified":1449069634,
+    "wof:name":"Karen's Self Improvement Ctr",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.899555,61.172517,-149.899555,61.172517],
+  "geometry": {"coordinates":[-149.899555,61.172517],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.401128,57.789553,-152.401128,57.789553",
+    "geom:latitude":57.789553,
+    "geom:longitude":-152.401128,
+    "iso:country":"US",
+    "sg:address":"309 Erskine Ave",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 4733",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gpjgaJVXqCnI6t9O9g3KF_57.789553_-152.401128@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"79304e855c27cb16013ca6354553c4bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102168501"
+        }
+    ],
+    "wof:id":"102168501",
+    "wof:lastmodified":1449069009,
+    "wof:name":"Bayview Terrace",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.401128,57.789553,-152.401128,57.789553],
+  "geometry": {"coordinates":[-152.401128,57.789553],"type":"Point"}
+}

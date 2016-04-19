@@ -1,0 +1,71 @@
+{
+  "id": "102178573",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-134.59767,58.373113,-134.59767,58.373113",
+    "geom:latitude":58.373113,
+    "geom:longitude":-134.59767,
+    "iso:country":"US",
+    "sg:address":"3031 Clinton Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 790 9500",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "sg:website":"www.smithbarney.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85915729,
+        102081399,
+        85833767
+    ],
+    "wof:brand_id":420574961,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04mNa5hS4HokP3hIJBXwDT_58.373113_-134.597670@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"80f3f4a3deb8dbaf82455e8aefba063b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102178573"
+        }
+    ],
+    "wof:id":"102178573",
+    "wof:lastmodified":1457209309,
+    "wof:name":"Smith Barney",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -134.59767,
+    58.373113,
+    -134.59767,
+    58.373113
+],
+  "geometry": {"coordinates":[-134.59766999999999,58.373113],"type":"Point"}
+}

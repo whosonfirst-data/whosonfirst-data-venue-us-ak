@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.740267,64.828441,-147.740267,64.828441",
+    "geom:latitude":64.828441,
+    "geom:longitude":-147.740267,
+    "iso:country":"US",
+    "sg:address":"1552 21st Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 3315",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JoVUUwgfmzb4EzvICuo1B_64.828441_-147.740267@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1475580b5d675eef87aed90d91abd608",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102150143"
+        }
+    ],
+    "wof:id":"102150143",
+    "wof:lastmodified":1449067793,
+    "wof:name":"Chancellor Apartments",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.740267,64.828441,-147.740267,64.828441],
+  "geometry": {"coordinates":[-147.740267,64.828441],"type":"Point"}
+}

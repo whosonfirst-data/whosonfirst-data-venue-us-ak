@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.405884,58.300883,-134.405884,58.300883",
+    "geom:latitude":58.300883,
+    "geom:longitude":-134.405884,
+    "iso:country":"US",
+    "sg:address":"127 N Franklin St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 3773",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tours",
+        "sightseeing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BNzAoDpZbQlkI47vnU6mR_58.300883_-134.405884@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"13a77d0c3d74f12df3872982c60ca16b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102181585"
+        }
+    ],
+    "wof:id":"102181585",
+    "wof:lastmodified":1449069234,
+    "wof:name":"Gray Line",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.405884,58.300883,-134.405884,58.300883],
+  "geometry": {"coordinates":[-134.405884,58.300883],"type":"Point"}
+}

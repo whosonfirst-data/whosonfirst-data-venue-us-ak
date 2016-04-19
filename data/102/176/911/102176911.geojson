@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.902279,61.21075,-149.902279,61.21075",
+    "geom:latitude":61.21075,
+    "geom:longitude":-149.902279,
+    "iso:country":"US",
+    "sg:address":"1001 W 12th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 9907",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873721,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37ZGZp1Y9sFdM68M3t1tzc_61.210750_-149.902279@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a035065c0a1907a268aad1280ff3325b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873721,
+            "region_id":85688573,
+            "venue_id":"102176911"
+        }
+    ],
+    "wof:id":"102176911",
+    "wof:lastmodified":1449069348,
+    "wof:name":"Earth B & B & Tours",
+    "wof:parent_id":85873721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.902279,61.21075,-149.902279,61.21075],
+  "geometry": {"coordinates":[-149.902279,61.21075],"type":"Point"}
+}

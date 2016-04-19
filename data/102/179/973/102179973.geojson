@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.733109,64.849837,-147.733109,64.849837",
+    "geom:latitude":64.849837,
+    "geom:longitude":-147.733109,
+    "iso:country":"US",
+    "sg:address":"1318 Well St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 8368",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "energy",
+        "conservation",
+        "prod"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16pg5axCr8diWhwqYK2Wzq_64.849837_-147.733109@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bf9ba16fca0bc43ec8febc9c20b0940a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102179973"
+        }
+    ],
+    "wof:id":"102179973",
+    "wof:lastmodified":1449069941,
+    "wof:name":"Arctic Technical Svc",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.733109,64.849837,-147.733109,64.849837],
+  "geometry": {"coordinates":[-147.733109,64.849837],"type":"Point"}
+}

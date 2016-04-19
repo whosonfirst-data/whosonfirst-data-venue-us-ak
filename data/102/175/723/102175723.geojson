@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.079381,60.490058,-151.079381,60.490058",
+    "geom:latitude":60.490058,
+    "geom:longitude":-151.079381,
+    "iso:country":"US",
+    "sg:address":"197 W Park Ave",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 2322",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_441Ja7Ue6OQ5jgJlqbHz6b_60.490058_-151.079381@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"188f22a46959aa82e8485c7d02fc407e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102175723"
+        }
+    ],
+    "wof:id":"102175723",
+    "wof:lastmodified":1449069465,
+    "wof:name":"Soldotna Senior Citizens Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.079381,60.490058,-151.079381,60.490058],
+  "geometry": {"coordinates":[-151.079381,60.490058],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.875478,61.110498,-149.875478,61.110498",
+    "geom:latitude":61.110498,
+    "geom:longitude":-149.875478,
+    "iso:country":"US",
+    "sg:address":"351 Dailey Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 1764",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873755,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_182RVCehyGMNG4oyGKrN3J_61.110498_-149.875478@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5db18bc10258737c31eee31dc8369f5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873755,
+            "region_id":85688573,
+            "venue_id":"102151067"
+        }
+    ],
+    "wof:id":"102151067",
+    "wof:lastmodified":1449067779,
+    "wof:name":"Sip Homes of Alaska",
+    "wof:parent_id":85873755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.875478,61.110498,-149.875478,61.110498],
+  "geometry": {"coordinates":[-149.875478,61.110498],"type":"Point"}
+}

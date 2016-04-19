@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.604661,58.367042,-134.604661,58.367042",
+    "geom:latitude":58.367042,
+    "geom:longitude":-134.604661,
+    "iso:country":"US",
+    "sg:address":"2450 Industrial Blvd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 2822",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2X817N6AcID6VeGKZoM7ci_58.367042_-134.604661@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9796311f7ff518d7866b0f7eacedea2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102184823"
+        }
+    ],
+    "wof:id":"102184823",
+    "wof:lastmodified":1449068217,
+    "wof:name":"Glacier Muffler",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.604661,58.367042,-134.604661,58.367042],
+  "geometry": {"coordinates":[-134.604661,58.367042],"type":"Point"}
+}

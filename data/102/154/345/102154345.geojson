@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-158.498205,59.048931,-158.498205,59.048931",
+    "geom:latitude":59.048931,
+    "geom:longitude":-158.498205,
+    "iso:country":"US",
+    "sg:address":"550 Wood River Rd",
+    "sg:city":"Dillingham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 842 2241",
+    "sg:postcode":"99576",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915613,
+        85633793,
+        85688573,
+        102080995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lTpQbJ17o9BMjVVd00tRs_59.048931_-158.498205@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4e2fff72acf8cd0a111033f4a4fa33bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080995,
+            "locality_id":85915613,
+            "region_id":85688573,
+            "venue_id":"102154345"
+        }
+    ],
+    "wof:id":"102154345",
+    "wof:lastmodified":1449070248,
+    "wof:name":"Stelling Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-158.498205,59.048931,-158.498205,59.048931],
+  "geometry": {"coordinates":[-158.498205,59.048931],"type":"Point"}
+}

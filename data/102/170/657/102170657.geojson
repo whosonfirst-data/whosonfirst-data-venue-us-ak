@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.25962,60.552775,-151.25962,60.552775",
+    "geom:latitude":60.552775,
+    "geom:longitude":-151.25962,
+    "iso:country":"US",
+    "sg:address":"810 Peninsula Dr",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 4330",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nyRpLPwCdt9AFUbsvnPZP_60.552775_-151.259620@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e20b5191a70f6d256638b1586d644861",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102170657"
+        }
+    ],
+    "wof:id":"102170657",
+    "wof:lastmodified":1449068018,
+    "wof:name":"Kaknu Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.25962,60.552775,-151.25962,60.552775],
+  "geometry": {"coordinates":[-151.25962,60.552775],"type":"Point"}
+}

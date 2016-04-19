@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.568586,58.380865,-134.568586,58.380865",
+    "geom:latitude":58.380865,
+    "geom:longitude":-134.568586,
+    "iso:country":"US",
+    "sg:address":"8615 Hayes Way",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 4667",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fawERmwEzPd0rrU4gvUTM_58.380865_-134.568586@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1523a85294e2d7237045eadb1ac807ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102186971"
+        }
+    ],
+    "wof:id":"102186971",
+    "wof:lastmodified":1449069655,
+    "wof:name":"Cinnamon Inn Bed & Breakfast",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.568586,58.380865,-134.568586,58.380865],
+  "geometry": {"coordinates":[-134.568586,58.380865],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.696166,64.845482,-147.696166,64.845482",
+    "geom:latitude":64.845482,
+    "geom:longitude":-147.696166,
+    "iso:country":"US",
+    "sg:address":"551 3rd St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 7500",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YD9i8QKC28PPFzBiFXrsN_64.845482_-147.696166@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9362a9403246a627963ffca7f040e89e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102159093"
+        }
+    ],
+    "wof:id":"102159093",
+    "wof:lastmodified":1449068092,
+    "wof:name":"Campbell Plumbing & Htg",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.696166,64.845482,-147.696166,64.845482],
+  "geometry": {"coordinates":[-147.696166,64.845482],"type":"Point"}
+}

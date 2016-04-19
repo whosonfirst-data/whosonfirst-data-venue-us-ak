@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.635722,64.909031,-147.635722,64.909031",
+    "geom:latitude":64.909031,
+    "geom:longitude":-147.635722,
+    "iso:country":"US",
+    "sg:address":"203 View Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 2837",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "auctioneer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916559,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5J3QvH3qXrWXDrWVrYybWw_64.909031_-147.635722@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db84bf900da64251425c40fb2a0dfc11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "region_id":85688573,
+            "venue_id":"102180949"
+        }
+    ],
+    "wof:id":"102180949",
+    "wof:lastmodified":1449067878,
+    "wof:name":"Fairbanks Auction Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.635722,64.909031,-147.635722,64.909031],
+  "geometry": {"coordinates":[-147.635722,64.909031],"type":"Point"}
+}

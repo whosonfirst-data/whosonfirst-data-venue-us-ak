@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.405457,58.300509,-134.405457,58.300509",
+    "geom:latitude":58.300509,
+    "geom:longitude":-134.405457,
+    "iso:country":"US",
+    "sg:address":"225 Front St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 463 5820",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MdFoGwgsscQw4eRYNlMB0_58.300509_-134.405457@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9530ef63d01a53515b96270709659dec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102183781"
+        }
+    ],
+    "wof:id":"102183781",
+    "wof:lastmodified":1449069039,
+    "wof:name":"Juneau Alliance-Mentally Ill",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.405457,58.300509,-134.405457,58.300509],
+  "geometry": {"coordinates":[-134.405457,58.300509],"type":"Point"}
+}

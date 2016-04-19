@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.806823,61.218696,-149.806823,61.218696",
+    "geom:latitude":61.218696,
+    "geom:longitude":-149.806823,
+    "iso:country":"US",
+    "sg:address":"3928 E 4th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 8611",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "sanitary",
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76pLEi1t1PwSD6tSMjUK9I_61.218696_-149.806823@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7f936e2b02750789028c59d1b6dc5f13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102163769"
+        }
+    ],
+    "wof:id":"102163769",
+    "wof:lastmodified":1449070161,
+    "wof:name":"Rust Enterprises",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.806823,61.218696,-149.806823,61.218696],
+  "geometry": {"coordinates":[-149.806823,61.218696],"type":"Point"}
+}

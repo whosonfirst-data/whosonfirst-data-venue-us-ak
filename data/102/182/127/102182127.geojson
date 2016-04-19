@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.844471,61.180916,-149.844471,61.180916",
+    "geom:latitude":61.180916,
+    "geom:longitude":-149.844471,
+    "iso:country":"US",
+    "sg:address":"2207 E Tudor Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 3131",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "stove",
+        "wood",
+        "burning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eMqOk7yb6tRakYc4zUAQt_61.180916_-149.844471@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"86e0b400a9cae9d0acec4415c0fd6953",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102182127"
+        }
+    ],
+    "wof:id":"102182127",
+    "wof:lastmodified":1449069283,
+    "wof:name":"North Country Stoves Inc",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.844471,61.180916,-149.844471,61.180916],
+  "geometry": {"coordinates":[-149.844471,61.180916],"type":"Point"}
+}

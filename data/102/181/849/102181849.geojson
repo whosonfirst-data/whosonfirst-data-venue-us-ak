@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.872423,61.196149,-149.872423,61.196149",
+    "geom:latitude":61.196149,
+    "geom:longitude":-149.872423,
+    "iso:country":"US",
+    "sg:address":"2601 Fairbanks St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 2225",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "sg:website":"www.hpautosupply.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WIz4wo26wQ6ztoP0JH6wk_61.196149_-149.872423@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b6dd81f4008a51f365578093ad8ccc2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102181849"
+        }
+    ],
+    "wof:id":"102181849",
+    "wof:lastmodified":1449069231,
+    "wof:name":"High Performance Auto Supply",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.872423,61.196149,-149.872423,61.196149],
+  "geometry": {"coordinates":[-149.872423,61.196149],"type":"Point"}
+}

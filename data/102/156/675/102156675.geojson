@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.978394,61.177735,-149.978394,61.177735",
+    "geom:latitude":61.177735,
+    "geom:longitude":-149.978394,
+    "iso:country":"US",
+    "sg:address":"4800 Postmark Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 3365",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852831,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KL14grDdcit7f4KFvRXYv_61.177735_-149.978394@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f35e9b31b956ca9a3bd0d2a0bdc8211c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":"102156675"
+        }
+    ],
+    "wof:id":"102156675",
+    "wof:lastmodified":1449068282,
+    "wof:name":"Cross Point",
+    "wof:parent_id":85852831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.978394,61.177735,-149.978394,61.177735],
+  "geometry": {"coordinates":[-149.978394,61.177735],"type":"Point"}
+}

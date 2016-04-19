@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.812623,64.836769,-147.812623,64.836769",
+    "geom:latitude":64.836769,
+    "geom:longitude":-147.812623,
+    "iso:country":"US",
+    "sg:address":"3550 Airport Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 7940",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "disability"
+    ],
+    "sg:website":"www.accessalaska.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cILVKkl57iIepm5BcaNTY_64.836769_-147.812623@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"026a69c07507da9427191cde325b9961",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102162837"
+        }
+    ],
+    "wof:id":"102162837",
+    "wof:lastmodified":1449069821,
+    "wof:name":"Access Alaska",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.812623,64.836769,-147.812623,64.836769],
+  "geometry": {"coordinates":[-147.812623,64.836769],"type":"Point"}
+}

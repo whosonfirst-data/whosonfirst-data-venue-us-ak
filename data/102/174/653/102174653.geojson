@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.744779,64.8302,-147.744779,64.8302",
+    "geom:latitude":64.8302,
+    "geom:longitude":-147.744779,
+    "iso:country":"US",
+    "sg:address":"1920 Lathrop St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 459 1070",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "parks"
+    ],
+    "sg:website":"www.co.fairbanks.ak.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915635,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1K2ShhU6zaJJNEiT0ETDPe_64.830200_-147.744779@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"339992279c10ba74e839115387a5efc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "region_id":85688573,
+            "venue_id":"102174653"
+        }
+    ],
+    "wof:id":"102174653",
+    "wof:lastmodified":1449068135,
+    "wof:name":"Fairbanks Parks & Recreation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.744779,64.8302,-147.744779,64.8302],
+  "geometry": {"coordinates":[-147.744779,64.8302],"type":"Point"}
+}

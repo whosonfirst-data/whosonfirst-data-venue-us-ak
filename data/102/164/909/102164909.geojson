@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.893051,61.219613,-149.893051,61.219613",
+    "geom:latitude":61.219613,
+    "geom:longitude":-149.893051,
+    "iso:country":"US",
+    "sg:address":"523 W 3rd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 929 2253",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hFYnHYkwrSOXSdAEFcQ6d_61.219613_-149.893051@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ff7e18131d4c5a0d15825d1370ac6c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102164909"
+        }
+    ],
+    "wof:id":"102164909",
+    "wof:lastmodified":1449068089,
+    "wof:name":"Cottage Boutique & Bakery",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.893051,61.219613,-149.893051,61.219613],
+  "geometry": {"coordinates":[-149.893051,61.219613],"type":"Point"}
+}

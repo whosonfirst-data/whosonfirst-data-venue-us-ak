@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-160.023009,70.644452,-160.023009,70.644452",
+    "geom:latitude":70.644452,
+    "geom:longitude":-160.023009,
+    "iso:country":"US",
+    "sg:address":"1217 Airport Rd",
+    "sg:city":"Wainwright",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 763 2815",
+    "sg:postcode":"99782",
+    "sg:province":"AK",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915563,
+        85633793,
+        85688573,
+        102081001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xL1fB7hs12hSfAxA5pCtk_70.644452_-160.023009@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fcb55dd59ef2d22598cf8cc8038f5c9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081001,
+            "locality_id":85915563,
+            "region_id":85688573,
+            "venue_id":"102182945"
+        }
+    ],
+    "wof:id":"102182945",
+    "wof:lastmodified":1449069278,
+    "wof:name":"Wainwright City Council",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-160.023009,70.644452,-160.023009,70.644452],
+  "geometry": {"coordinates":[-160.023009,70.644452],"type":"Point"}
+}

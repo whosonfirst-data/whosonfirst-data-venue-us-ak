@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.398032,61.594883,-149.398032,61.594883",
+    "geom:latitude":61.594883,
+    "geom:longitude":-149.398032,
+    "iso:country":"US",
+    "sg:address":"1268 N Copper Creek Rd",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 1726",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "sg:website":"www.samscarpetcare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16QsdPCG8onRC0BGDonnZg_61.594883_-149.398032@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e51b4670a4172721726e325b60e9c3d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "region_id":85688573,
+            "venue_id":"102170239"
+        }
+    ],
+    "wof:id":"102170239",
+    "wof:lastmodified":1449068018,
+    "wof:name":"Sam's Carpet Care",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.398032,61.594883,-149.398032,61.594883],
+  "geometry": {"coordinates":[-149.398032,61.594883],"type":"Point"}
+}

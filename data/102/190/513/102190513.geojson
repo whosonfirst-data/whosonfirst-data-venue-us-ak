@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.911562,61.188157,-149.911562,61.188157",
+    "geom:latitude":61.188157,
+    "geom:longitude":-149.911562,
+    "iso:country":"US",
+    "sg:address":"1501 W 36th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 9977",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "consulting",
+        "management",
+        "investment",
+        "closed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FkomqWy7oPF3RKFWeFJWZ_61.188157_-149.911562@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"550357256f51680a2f746126e4e44ccb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102190513"
+        }
+    ],
+    "wof:id":"102190513",
+    "wof:lastmodified":1449070035,
+    "wof:name":"C and C Company",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.911562,61.188157,-149.911562,61.188157],
+  "geometry": {"coordinates":[-149.911562,61.188157],"type":"Point"}
+}

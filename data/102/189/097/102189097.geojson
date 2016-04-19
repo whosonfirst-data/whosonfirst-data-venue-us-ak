@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.094058,64.563574,-149.094058,64.563574",
+    "geom:latitude":64.563574,
+    "geom:longitude":-149.094058,
+    "iso:country":"US",
+    "sg:address":"707 Market St",
+    "sg:city":"Nenana",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 832 1888",
+    "sg:postcode":"99760",
+    "sg:province":"AK",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915849,
+        85633793,
+        85688573,
+        102081905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hjp2B1i8oAaATGj4oScdE_64.563574_-149.094058@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"761aafdad91dd50165ea8a6f4dcd7ca0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081905,
+            "locality_id":85915849,
+            "region_id":85688573,
+            "venue_id":"102189097"
+        }
+    ],
+    "wof:id":"102189097",
+    "wof:lastmodified":1449069497,
+    "wof:name":"Nenana Radio Club",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.094058,64.563574,-149.094058,64.563574],
+  "geometry": {"coordinates":[-149.094058,64.563574],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.702036,64.809695,-147.702036,64.809695",
+    "geom:latitude":64.809695,
+    "geom:longitude":-147.702036,
+    "iso:country":"US",
+    "sg:address":"3615 Braddock St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 4285",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915635,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AGRFdoICP0rhccTjvRoxI_64.809695_-147.702036@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8041af8fcfc96b1a718a49ef33bbc655",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "region_id":85688573,
+            "venue_id":"102177559"
+        }
+    ],
+    "wof:id":"102177559",
+    "wof:lastmodified":1449070209,
+    "wof:name":"ASRC Transport",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.702036,64.809695,-147.702036,64.809695],
+  "geometry": {"coordinates":[-147.702036,64.809695],"type":"Point"}
+}

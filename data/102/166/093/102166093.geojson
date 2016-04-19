@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.881221,61.216578,-149.881221,61.216578",
+    "geom:latitude":61.216578,
+    "geom:longitude":-149.881221,
+    "iso:country":"US",
+    "sg:address":"101 E 6th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 4441",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aNJAkbI83KXPbrnfQgDHh_61.216578_-149.881221@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ecd3815bf1ad80f0b8ed62132dd3e53e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102166093"
+        }
+    ],
+    "wof:id":"102166093",
+    "wof:lastmodified":1449069082,
+    "wof:name":"Federal Bureau-Investigation",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.881221,61.216578,-149.881221,61.216578],
+  "geometry": {"coordinates":[-149.881221,61.216578],"type":"Point"}
+}

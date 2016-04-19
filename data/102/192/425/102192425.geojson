@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.772518,61.209723,-149.772518,61.209723",
+    "geom:latitude":61.209723,
+    "geom:longitude":-149.772518,
+    "iso:country":"US",
+    "sg:address":"5501 Debarr Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 332 3669",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869053,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00yBoIHRQll2h1ybKTms1a_61.209723_-149.772518@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ebf49fee618bff981f9fb1fe11d034c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869053,
+            "region_id":85688573,
+            "venue_id":"102192425"
+        }
+    ],
+    "wof:id":"102192425",
+    "wof:lastmodified":1449069502,
+    "wof:name":"Caffe D'Arte Dist/Sappore",
+    "wof:parent_id":85869053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.772518,61.209723,-149.772518,61.209723],
+  "geometry": {"coordinates":[-149.772518,61.209723],"type":"Point"}
+}

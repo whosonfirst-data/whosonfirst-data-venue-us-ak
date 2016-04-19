@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.009312,70.216764,-151.009312,70.216764",
+    "geom:latitude":70.216764,
+    "geom:longitude":-151.009312,
+    "iso:country":"US",
+    "sg:address":"393 Nigliq St",
+    "sg:city":"Nuiqsut",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 480 6911",
+    "sg:postcode":"99789",
+    "sg:province":"AK",
+    "sg:tags":[
+        "county",
+        "safety",
+        "order"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915553,
+        85633793,
+        85688573,
+        102081001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16FQHUQNWCl8l4EhHEw0zP_70.216764_-151.009312@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d5b952b58398b4e8e1585f1e1f10e506",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081001,
+            "locality_id":85915553,
+            "region_id":85688573,
+            "venue_id":"102173521"
+        }
+    ],
+    "wof:id":"102173521",
+    "wof:lastmodified":1449068272,
+    "wof:name":"North Slope Cnty Public Safety",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.009312,70.216764,-151.009312,70.216764],
+  "geometry": {"coordinates":[-151.009312,70.216764],"type":"Point"}
+}

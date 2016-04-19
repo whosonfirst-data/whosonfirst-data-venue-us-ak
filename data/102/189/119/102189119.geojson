@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.910474,61.192066,-149.910474,61.192066",
+    "geom:latitude":61.192066,
+    "geom:longitude":-149.910474,
+    "iso:country":"US",
+    "sg:address":"1406 W 31st Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 278 8787",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zsIXObAJNAmgOUjkCR3v1_61.192066_-149.910474@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8931b77bd719b20b2766a84738c08e46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102189119"
+        }
+    ],
+    "wof:id":"102189119",
+    "wof:lastmodified":1449069498,
+    "wof:name":"Crazy Croissant French Bakery",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.910474,61.192066,-149.910474,61.192066],
+  "geometry": {"coordinates":[-149.910474,61.192066],"type":"Point"}
+}

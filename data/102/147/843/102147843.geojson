@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.406612,57.79101,-152.406612,57.79101",
+    "geom:latitude":57.79101,
+    "geom:longitude":-152.406612,
+    "iso:country":"US",
+    "sg:address":"211 Thorsheim St",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 4300",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lltxdFEpPMvkYnwoB68Se_57.791010_-152.406612@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b195b0ad071a1eaf0eed030a44ad2b4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102147843"
+        }
+    ],
+    "wof:id":"102147843",
+    "wof:lastmodified":1449069927,
+    "wof:name":"Shelikof Lodge Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.406612,57.79101,-152.406612,57.79101],
+  "geometry": {"coordinates":[-152.406612,57.79101],"type":"Point"}
+}

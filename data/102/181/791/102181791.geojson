@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.821375,61.215475,-149.821375,61.215475",
+    "geom:latitude":61.215475,
+    "geom:longitude":-149.821375,
+    "iso:country":"US",
+    "sg:address":"3001 Penland Pkwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 0444",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Iev12hhFsYXhvRGkHu4sw_61.215475_-149.821375@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a894ebe0963aeda4ab07b194675bab32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102181791"
+        }
+    ],
+    "wof:id":"102181791",
+    "wof:lastmodified":1449069235,
+    "wof:name":"Susan Taylor's Island Flavor",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.821375,61.215475,-149.821375,61.215475],
+  "geometry": {"coordinates":[-149.821375,61.215475],"type":"Point"}
+}

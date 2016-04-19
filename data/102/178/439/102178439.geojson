@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.201082,60.565771,-151.201082,60.565771",
+    "geom:latitude":60.565771,
+    "geom:longitude":-151.201082,
+    "iso:country":"US",
+    "sg:address":"9199 Kenai Spur Hwy",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 8393",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o6XYdzmLh6qiAeqS9RclF_60.565771_-151.201082@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4fbf82bd872e7d3f6da88d3860f1294c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102178439"
+        }
+    ],
+    "wof:id":"102178439",
+    "wof:lastmodified":1449069530,
+    "wof:name":"Poofy Puffin Upholstery Place",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.201082,60.565771,-151.201082,60.565771],
+  "geometry": {"coordinates":[-151.201082,60.565771],"type":"Point"}
+}

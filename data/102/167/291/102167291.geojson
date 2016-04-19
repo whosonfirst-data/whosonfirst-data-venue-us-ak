@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.894954,61.208777,-149.894954,61.208777",
+    "geom:latitude":61.208777,
+    "geom:longitude":-149.894954,
+    "iso:country":"US",
+    "sg:address":"637 W 14th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 278 8647",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873721,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05GxumMgZPuYmKaX6W1Cac_61.208777_-149.894954@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c305d565f64b912f735d99f9196760a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873721,
+            "region_id":85688573,
+            "venue_id":"102167291"
+        }
+    ],
+    "wof:id":"102167291",
+    "wof:lastmodified":1449069000,
+    "wof:name":"Other Guys Remodeling",
+    "wof:parent_id":85873721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.894954,61.208777,-149.894954,61.208777],
+  "geometry": {"coordinates":[-149.894954,61.208777],"type":"Point"}
+}

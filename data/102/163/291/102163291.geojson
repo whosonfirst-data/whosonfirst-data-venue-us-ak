@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.938149,64.827755,-147.938149,64.827755",
+    "geom:latitude":64.827755,
+    "geom:longitude":-147.938149,
+    "iso:country":"US",
+    "sg:address":"2910 Katya Ct",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 5300",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916563,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bkcan56a2z30bzuoDo09c_64.827755_-147.938149@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"52c2ad2e9c5182172df28fe7ee8caf8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916563,
+            "region_id":85688573,
+            "venue_id":"102163291"
+        }
+    ],
+    "wof:id":"102163291",
+    "wof:lastmodified":1449070161,
+    "wof:name":"North Woods Lodge",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.938149,64.827755,-147.938149,64.827755],
+  "geometry": {"coordinates":[-147.938149,64.827755],"type":"Point"}
+}

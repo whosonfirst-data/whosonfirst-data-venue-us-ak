@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.911529,61.190254,-149.911529,61.190254",
+    "geom:latitude":61.190254,
+    "geom:longitude":-149.911529,
+    "iso:country":"US",
+    "sg:address":"1410 W 33rd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 5229",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TsnOh0tA8D23MVLWSkr8z_61.190254_-149.911529@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dd8939b3b5cb47839ccf3b9a345b0295",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102156077"
+        }
+    ],
+    "wof:id":"102156077",
+    "wof:lastmodified":1449068282,
+    "wof:name":"Tommy's Cab Shop",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.911529,61.190254,-149.911529,61.190254],
+  "geometry": {"coordinates":[-149.911529,61.190254],"type":"Point"}
+}

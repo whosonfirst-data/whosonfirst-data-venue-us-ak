@@ -1,0 +1,68 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.84171,61.219514,-149.84171,61.219514",
+    "geom:latitude":61.219514,
+    "geom:longitude":-149.84171,
+    "iso:country":"US",
+    "sg:address":"1900 E 3rd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 278 8655",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop",
+        "automobile",
+        "machine",
+        "p",
+        "snowmobile",
+        "motorcycle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JgpUnoB4XDKlw3kqlpoV6_61.219514_-149.841710@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b0e8e0dee34398a03941cb126c5c653b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102173527"
+        }
+    ],
+    "wof:id":"102173527",
+    "wof:lastmodified":1449068267,
+    "wof:name":"A D B Machine",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.84171,61.219514,-149.84171,61.219514],
+  "geometry": {"coordinates":[-149.84171,61.219514],"type":"Point"}
+}

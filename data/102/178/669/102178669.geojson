@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.743207,64.842414,-147.743207,64.842414",
+    "geom:latitude":64.842414,
+    "geom:longitude":-147.743207,
+    "iso:country":"US",
+    "sg:address":"1226 9th Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 455 7594",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vCPGFRjWFuNCxmNTRjC9o_64.842414_-147.743207@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5876cd7357f9ef96e1b6919b50e4c935",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102178669"
+        }
+    ],
+    "wof:id":"102178669",
+    "wof:lastmodified":1449069529,
+    "wof:name":"Glenville Daycare",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.743207,64.842414,-147.743207,64.842414],
+  "geometry": {"coordinates":[-147.743207,64.842414],"type":"Point"}
+}

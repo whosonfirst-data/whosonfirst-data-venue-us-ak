@@ -1,0 +1,67 @@
+{
+  "id": "102170857",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-135.335207,57.050835,-135.335207,57.050835",
+    "geom:latitude":57.050835,
+    "geom:longitude":-135.335207,
+    "iso:country":"US",
+    "sg:address":"300 Lincoln St",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 3226",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:website":"www.wellsfargo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85916107,
+        102081405,
+        85835489
+    ],
+    "wof:brand_id":420573867,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XkmNgrESXXJZ0NVMHhXZw_57.050835_-135.335207@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"125797731eab3c56a1596166c0afcf76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102170857"
+        }
+    ],
+    "wof:id":"102170857",
+    "wof:lastmodified":1457207727,
+    "wof:name":"Wells Fargo Bank",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -135.335207,
+    57.050835,
+    -135.335207,
+    57.050835
+],
+  "geometry": {"coordinates":[-135.335207,57.050835],"type":"Point"}
+}

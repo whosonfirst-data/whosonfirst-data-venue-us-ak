@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.812431,64.829327,-147.812431,64.829327",
+    "geom:latitude":64.829327,
+    "geom:longitude":-147.812431,
+    "iso:country":"US",
+    "sg:address":"1875 University Ave S",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 455 4868",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CvMgqMC6vB6uDHkb5fEyr_64.829327_-147.812431@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"09c74b306f3ff542a9a68cfb4cdb9e11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102185423"
+        }
+    ],
+    "wof:id":"102185423",
+    "wof:lastmodified":1449068196,
+    "wof:name":"Hunting & Gathering",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.812431,64.829327,-147.812431,64.829327],
+  "geometry": {"coordinates":[-147.812431,64.829327],"type":"Point"}
+}

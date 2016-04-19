@@ -1,0 +1,67 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.928792,61.183747,-149.928792,61.183747",
+    "geom:latitude":61.183747,
+    "geom:longitude":-149.928792,
+    "iso:country":"US",
+    "sg:address":"3807 Iowa Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 6005",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "house",
+        "contractor",
+        "remodeling",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dwA8EZbujcgbDVb9E3yXY_61.183747_-149.928792@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d9676cb11698574442fd675657e4d8fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102159961"
+        }
+    ],
+    "wof:id":"102159961",
+    "wof:lastmodified":1449068095,
+    "wof:name":"French's Construction",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.928792,61.183747,-149.928792,61.183747],
+  "geometry": {"coordinates":[-149.928792,61.183747],"type":"Point"}
+}

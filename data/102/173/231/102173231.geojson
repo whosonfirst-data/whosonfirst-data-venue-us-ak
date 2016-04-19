@@ -1,0 +1,67 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.605182,58.36611,-134.605182,58.36611",
+    "geom:latitude":58.36611,
+    "geom:longitude":-134.605182,
+    "iso:country":"US",
+    "sg:address":"10010 Crazy Horse Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 9867",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electrical",
+        "television",
+        "appliance",
+        "refrigerator",
+        "freezer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31xgNk1XJHm6Mzjd62v4dR_58.366110_-134.605182@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7bf13c1d97e14221c960736a4595d4eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102173231"
+        }
+    ],
+    "wof:id":"102173231",
+    "wof:lastmodified":1449068265,
+    "wof:name":"Color-Vue Inc",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.605182,58.36611,-134.605182,58.36611],
+  "geometry": {"coordinates":[-134.605182,58.36611],"type":"Point"}
+}

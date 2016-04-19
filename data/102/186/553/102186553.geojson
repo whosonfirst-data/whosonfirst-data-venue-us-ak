@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.947288,61.12643,-149.947288,61.12643",
+    "geom:latitude":61.12643,
+    "geom:longitude":-149.947288,
+    "iso:country":"US",
+    "sg:address":"3610 Hazen Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 6004",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cqvTVN4zSO5Yawzr1Brbm_61.126430_-149.947288@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"79a11c5a1f74f25c4a60455316517606",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102186553"
+        }
+    ],
+    "wof:id":"102186553",
+    "wof:lastmodified":1449069652,
+    "wof:name":"Four Seasons Roofing",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.947288,61.12643,-149.947288,61.12643],
+  "geometry": {"coordinates":[-149.947288,61.12643],"type":"Point"}
+}

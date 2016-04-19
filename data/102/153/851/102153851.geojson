@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.332762,57.051101,-135.332762,57.051101",
+    "geom:latitude":57.051101,
+    "geom:longitude":-135.332762,
+    "iso:country":"US",
+    "sg:address":"303 Lincoln St",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 5940",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "information",
+        "tourist"
+    ],
+    "sg:website":"www.sitka.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dNY5TyKmqFDXxclpSRQaW_57.051101_-135.332762@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"73512fc2e7334700dc909fd1b6328b05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102153851"
+        }
+    ],
+    "wof:id":"102153851",
+    "wof:lastmodified":1449069462,
+    "wof:name":"Sitka Convention & Visitor's",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.332762,57.051101,-135.332762,57.051101],
+  "geometry": {"coordinates":[-135.332762,57.051101],"type":"Point"}
+}

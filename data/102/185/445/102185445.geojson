@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.930859,61.173614,-149.930859,61.173614",
+    "geom:latitude":61.173614,
+    "geom:longitude":-149.930859,
+    "iso:country":"US",
+    "sg:address":"2421 Bentzen Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 4351",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uNEcEcq6PDhGm2WWDl6Om_61.173614_-149.930859@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8d549b5f08f59a9bf254995deb0006fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102185445"
+        }
+    ],
+    "wof:id":"102185445",
+    "wof:lastmodified":1449068196,
+    "wof:name":"Terrace On The Lake Apartments",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.930859,61.173614,-149.930859,61.173614],
+  "geometry": {"coordinates":[-149.930859,61.173614],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.785935,61.196004,-149.785935,61.196004",
+    "geom:latitude":61.196004,
+    "geom:longitude":-149.785935,
+    "iso:country":"US",
+    "sg:address":"2730 Glacier St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 5583",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HuXKR0e0f7w3kqGM6ykQH_61.196004_-149.785935@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e3ee57d43187109d1f946f213a6ee0f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102152389"
+        }
+    ],
+    "wof:id":"102152389",
+    "wof:lastmodified":1449069636,
+    "wof:name":"A A Electric",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.785935,61.196004,-149.785935,61.196004],
+  "geometry": {"coordinates":[-149.785935,61.196004],"type":"Point"}
+}

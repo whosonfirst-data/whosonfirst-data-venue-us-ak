@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.839908,61.217619,-149.839908,61.217619",
+    "geom:latitude":61.217619,
+    "geom:longitude":-149.839908,
+    "iso:country":"US",
+    "sg:address":"2251 E 5th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 1436",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home",
+        "leasing",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fZksMy4XpAIQ57itAEUWx_61.217619_-149.839908@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"788c876b717873b2b7372d0683172f37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102174563"
+        }
+    ],
+    "wof:id":"102174563",
+    "wof:lastmodified":1449068135,
+    "wof:name":"Alaska Rv & Travel",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.839908,61.217619,-149.839908,61.217619],
+  "geometry": {"coordinates":[-149.839908,61.217619],"type":"Point"}
+}

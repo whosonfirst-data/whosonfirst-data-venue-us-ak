@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.881555,61.161995,-149.881555,61.161995",
+    "geom:latitude":61.161995,
+    "geom:longitude":-149.881555,
+    "iso:country":"US",
+    "sg:address":"6401 A St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 1944",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZH3fY4tZVh4S7L4cJyh6N_61.161995_-149.881555@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6db8f282e165462982ad42952a75911f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102149827"
+        }
+    ],
+    "wof:id":"102149827",
+    "wof:lastmodified":1449067768,
+    "wof:name":"Carr-Gottstein Foods Co",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.881555,61.161995,-149.881555,61.161995],
+  "geometry": {"coordinates":[-149.881555,61.161995],"type":"Point"}
+}

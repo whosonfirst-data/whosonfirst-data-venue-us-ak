@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.810811,64.853657,-147.810811,64.853657",
+    "geom:latitude":64.853657,
+    "geom:longitude":-147.810811,
+    "iso:country":"US",
+    "sg:address":"3702 Cameron St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 0523",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09vOgb5JUwuYbNg2D0Rs9S_64.853657_-147.810811@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0cf9f7959caac1b0fd8bd546dd660e85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102169603"
+        }
+    ],
+    "wof:id":"102169603",
+    "wof:lastmodified":1449069248,
+    "wof:name":"Sam's Sourdough Cafe",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.810811,64.853657,-147.810811,64.853657],
+  "geometry": {"coordinates":[-147.810811,64.853657],"type":"Point"}
+}

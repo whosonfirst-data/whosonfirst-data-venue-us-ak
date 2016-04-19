@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.486027,58.343051,-134.486027,58.343051",
+    "geom:latitude":58.343051,
+    "geom:longitude":-134.486027,
+    "iso:country":"US",
+    "sg:address":"1303 Tarn Ct",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 3747",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "top",
+        "upholstery",
+        "cover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853509,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PSPylgCvc5UVUr29mZdTC_58.343051_-134.486027@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"72b32703406194c494468a32d464bf39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85853509,
+            "region_id":85688573,
+            "venue_id":"102193233"
+        }
+    ],
+    "wof:id":"102193233",
+    "wof:lastmodified":1449068193,
+    "wof:name":"Big Job Boat Works",
+    "wof:parent_id":85853509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.486027,58.343051,-134.486027,58.343051],
+  "geometry": {"coordinates":[-134.486027,58.343051],"type":"Point"}
+}

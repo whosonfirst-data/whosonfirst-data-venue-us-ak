@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.76361,64.810475,-147.76361,64.810475",
+    "geom:latitude":64.810475,
+    "geom:longitude":-147.76361,
+    "iso:country":"US",
+    "sg:address":"3861 Schacht St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 5191",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fsHp6TfCnSq8QapjuBKR0_64.810475_-147.763610@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c9accad42f673024cb88670ba462d5b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102173389"
+        }
+    ],
+    "wof:id":"102173389",
+    "wof:lastmodified":1449068267,
+    "wof:name":"Ghemm Co",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.76361,64.810475,-147.76361,64.810475],
+  "geometry": {"coordinates":[-147.76361,64.810475],"type":"Point"}
+}

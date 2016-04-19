@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.893458,61.21749,-149.893458,61.21749",
+    "geom:latitude":61.21749,
+    "geom:longitude":-149.893458,
+    "iso:country":"US",
+    "sg:address":"504 W 5th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 3626",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "sg:website":"www.kobukcoffee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19S0aLMI9JsyhTNTFLg4SD_61.217490_-149.893458@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9a0aa13e8a95c2c9d9b574d34e25e553",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102169885"
+        }
+    ],
+    "wof:id":"102169885",
+    "wof:lastmodified":1449069246,
+    "wof:name":"Kobuk Coffee Co",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.893458,61.21749,-149.893458,61.21749],
+  "geometry": {"coordinates":[-149.893458,61.21749],"type":"Point"}
+}

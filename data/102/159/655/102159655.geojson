@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.958665,56.812144,-132.958665,56.812144",
+    "geom:latitude":56.812144,
+    "geom:longitude":-132.958665,
+    "iso:country":"US",
+    "sg:address":"114 Harbor Way",
+    "sg:city":"Petersburg",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 772 3440",
+    "sg:postcode":"99833",
+    "sg:province":"AK",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916033,
+        85633793,
+        85688573,
+        102081899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53bqwESxm90Cbz1ai4jVyv_56.812144_-132.958665@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"68117db3b7fc1522c4a160762f880657",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081899,
+            "locality_id":85916033,
+            "region_id":85688573,
+            "venue_id":"102159655"
+        }
+    ],
+    "wof:id":"102159655",
+    "wof:lastmodified":1449068095,
+    "wof:name":"Harbor Way Parts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.958665,56.812144,-132.958665,56.812144],
+  "geometry": {"coordinates":[-132.958665,56.812144],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.860084,64.831079,-147.860084,64.831079",
+    "geom:latitude":64.831079,
+    "geom:longitude":-147.860084,
+    "iso:country":"US",
+    "sg:address":"4680 Killen Ln",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 1931",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "house"
+    ],
+    "sg:website":"www.denalibuilders.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916609,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AgyQ1xfzq0a9icfSlBUj6_64.831079_-147.860084@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"be755b07d2c632120ba8f341bbffba63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "region_id":85688573,
+            "venue_id":"102171941"
+        }
+    ],
+    "wof:id":"102171941",
+    "wof:lastmodified":1449070223,
+    "wof:name":"Denali Builders Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.860084,64.831079,-147.860084,64.831079],
+  "geometry": {"coordinates":[-147.860084,64.831079],"type":"Point"}
+}

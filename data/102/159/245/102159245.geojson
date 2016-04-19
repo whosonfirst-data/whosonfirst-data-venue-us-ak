@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.665325,55.34887,-131.665325,55.34887",
+    "geom:latitude":55.34887,
+    "geom:longitude":-131.665325,
+    "iso:country":"US",
+    "sg:address":"1737 2nd Ave",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 9663",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GMiAPn2WPeMHkM0ixERGi_55.348870_-131.665325@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6605051a4dbb9dfd9b53ed58da3572d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102159245"
+        }
+    ],
+    "wof:id":"102159245",
+    "wof:lastmodified":1449068095,
+    "wof:name":"Woodwright Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.665325,55.34887,-131.665325,55.34887],
+  "geometry": {"coordinates":[-131.665325,55.34887],"type":"Point"}
+}

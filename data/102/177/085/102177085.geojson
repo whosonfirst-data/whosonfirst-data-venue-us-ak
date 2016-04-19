@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.870408,61.196819,-149.870408,61.196819",
+    "geom:latitude":61.196819,
+    "geom:longitude":-149.870408,
+    "iso:country":"US",
+    "sg:address":"2602 Gambell St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 9591",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "sg:website":"www.alaskadancetheatre.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vx5CiMugpSHpaptx3IrFM_61.196819_-149.870408@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"464ad072303ee324b7fb3d81e2c285f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102177085"
+        }
+    ],
+    "wof:id":"102177085",
+    "wof:lastmodified":1449070203,
+    "wof:name":"Alaska Dance Theatre",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.870408,61.196819,-149.870408,61.196819],
+  "geometry": {"coordinates":[-149.870408,61.196819],"type":"Point"}
+}

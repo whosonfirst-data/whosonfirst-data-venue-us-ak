@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.249668,60.554967,-151.249668,60.554967",
+    "geom:latitude":60.554967,
+    "geom:longitude":-151.249668,
+    "iso:country":"US",
+    "sg:address":"11120 Kenai Spur Hwy",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 5908",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75aDb8rAd0DJvPfIhtmBxT_60.554967_-151.249668@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d4f1e4f1340dc3670d6ea4e893071fc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102168805"
+        }
+    ],
+    "wof:id":"102168805",
+    "wof:lastmodified":1449069007,
+    "wof:name":"Tesoro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.249668,60.554967,-151.249668,60.554967],
+  "geometry": {"coordinates":[-151.249668,60.554967],"type":"Point"}
+}

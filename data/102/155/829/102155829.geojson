@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.114186,61.605518,-149.114186,61.605518",
+    "geom:latitude":61.605518,
+    "geom:longitude":-149.114186,
+    "iso:country":"US",
+    "sg:address":"131 E Blueberry Ave",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 3105",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915577,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ngIFc0SLR9ISh8Ust3RUJ_61.605518_-149.114186@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bd1840bbedc181b681f4a21383186173",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915577,
+            "region_id":85688573,
+            "venue_id":"102155829"
+        }
+    ],
+    "wof:id":"102155829",
+    "wof:lastmodified":1449069745,
+    "wof:name":"Metal Creek Auto Body",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.114186,61.605518,-149.114186,61.605518],
+  "geometry": {"coordinates":[-149.114186,61.605518],"type":"Point"}
+}

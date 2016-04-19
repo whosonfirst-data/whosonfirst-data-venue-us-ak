@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.337461,57.053576,-135.337461,57.053576",
+    "geom:latitude":57.053576,
+    "geom:longitude":-135.337461,
+    "iso:country":"US",
+    "sg:address":"410 Hemlock St",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 3840",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tzaeJUKnocCzE4xOByrDn_57.053576_-135.337461@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"07b0d9fd9ff0307365d782d4a559e87a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102157679"
+        }
+    ],
+    "wof:id":"102157679",
+    "wof:lastmodified":1449069832,
+    "wof:name":"Blue Jay Music",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.337461,57.053576,-135.337461,57.053576],
+  "geometry": {"coordinates":[-135.337461,57.053576],"type":"Point"}
+}

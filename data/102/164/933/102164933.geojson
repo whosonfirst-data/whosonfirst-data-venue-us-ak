@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-145.753977,60.544585,-145.753977,60.544585",
+    "geom:latitude":60.544585,
+    "geom:longitude":-145.753977,
+    "iso:country":"US",
+    "sg:address":"501 4th St",
+    "sg:city":"Cordova",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 424 7181",
+    "sg:postcode":"99574",
+    "sg:province":"AK",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839707,
+        85633793,
+        85915567,
+        102081911,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JVHSALSy68EJHhb5dtRyh_60.544585_-145.753977@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"747dbfcde9d47c561e41536c9c09c619",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915567,
+            "neighbourhood_id":85839707,
+            "region_id":85688573,
+            "venue_id":"102164933"
+        }
+    ],
+    "wof:id":"102164933",
+    "wof:lastmodified":1449068089,
+    "wof:name":"Cordova Times",
+    "wof:parent_id":85839707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-145.753977,60.544585,-145.753977,60.544585],
+  "geometry": {"coordinates":[-145.753977,60.544585],"type":"Point"}
+}

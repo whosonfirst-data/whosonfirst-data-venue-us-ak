@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.73356,61.218422,-149.73356,61.218422",
+    "geom:latitude":61.218422,
+    "geom:longitude":-149.73356,
+    "iso:country":"US",
+    "sg:address":"450 Muldoon Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 7711",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Xzo69HCzoD5Z9XIHqdnny_61.218422_-149.733560@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c8067cbc8163ce425d55715539f999e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102170163"
+        }
+    ],
+    "wof:id":"102170163",
+    "wof:lastmodified":1449068019,
+    "wof:name":"Muldoon Pizza",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.73356,61.218422,-149.73356,61.218422],
+  "geometry": {"coordinates":[-149.73356,61.218422],"type":"Point"}
+}

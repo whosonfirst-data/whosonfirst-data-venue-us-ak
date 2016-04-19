@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.946391,61.161212,-149.946391,61.161212",
+    "geom:latitude":61.161212,
+    "geom:longitude":-149.946391,
+    "iso:country":"US",
+    "sg:address":"6625 Chevigny St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 3331",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54BR6FobWTh7nRCk195Aeq_61.161212_-149.946391@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e6da6c7ee4416001418b2de965dc1fa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102169907"
+        }
+    ],
+    "wof:id":"102169907",
+    "wof:lastmodified":1449069250,
+    "wof:name":"Amco Appliance Repair",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.946391,61.161212,-149.946391,61.161212],
+  "geometry": {"coordinates":[-149.946391,61.161212],"type":"Point"}
+}

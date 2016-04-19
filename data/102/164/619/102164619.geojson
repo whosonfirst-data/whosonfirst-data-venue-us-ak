@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.903507,61.197039,-149.903507,61.197039",
+    "geom:latitude":61.197039,
+    "geom:longitude":-149.903507,
+    "iso:country":"US",
+    "sg:address":"926 W 26th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 0126",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oEeF6TBYOqqUZuccsEl15_61.197039_-149.903507@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4e4da2ca64fc54b1148d1275c63806d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102164619"
+        }
+    ],
+    "wof:id":"102164619",
+    "wof:lastmodified":1449068085,
+    "wof:name":"Pier 26 Apartments",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.903507,61.197039,-149.903507,61.197039],
+  "geometry": {"coordinates":[-149.903507,61.197039],"type":"Point"}
+}

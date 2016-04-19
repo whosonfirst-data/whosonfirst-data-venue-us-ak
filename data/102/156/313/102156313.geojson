@@ -1,0 +1,67 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.800513,61.102707,-149.800513,61.102707",
+    "geom:latitude":61.102707,
+    "geom:longitude":-149.800513,
+    "iso:country":"US",
+    "sg:address":"12840 Atherton Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 5219",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "excavating",
+        "street",
+        "con",
+        "highway",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ukhGt0NS1yHs0EtDmq4nB_61.102707_-149.800513@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b08a7908de5ef4b740785734d5137aa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102156313"
+        }
+    ],
+    "wof:id":"102156313",
+    "wof:lastmodified":1449068277,
+    "wof:name":"Seacoast Construction Company",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.800513,61.102707,-149.800513,61.102707],
+  "geometry": {"coordinates":[-149.800513,61.102707],"type":"Point"}
+}

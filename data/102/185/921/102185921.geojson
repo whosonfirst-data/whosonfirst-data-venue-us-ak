@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.9539,61.157108,-149.9539,61.157108",
+    "geom:latitude":61.157108,
+    "geom:longitude":-149.9539,
+    "iso:country":"US",
+    "sg:address":"3784 Terrace Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 8690",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "athletic"
+    ],
+    "sg:website":"www.socceralaska.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eWJeD30KWQufPdBdUYrXp_61.157108_-149.953900@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d6be28feb19e102a95fe3367a7d1f16d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102185921"
+        }
+    ],
+    "wof:id":"102185921",
+    "wof:lastmodified":1449068196,
+    "wof:name":"Soccer Alaska",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.9539,61.157108,-149.9539,61.157108],
+  "geometry": {"coordinates":[-149.9539,61.157108],"type":"Point"}
+}

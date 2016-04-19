@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.864014,61.157302,-149.864014,61.157302",
+    "geom:latitude":61.157302,
+    "geom:longitude":-149.864014,
+    "iso:country":"US",
+    "sg:address":"6927 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 6065",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "television"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KOLYKAVNnHA69XIALIqrO_61.157302_-149.864014@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"18410dd9fd7f1c3663d6886fedb17514",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102164185"
+        }
+    ],
+    "wof:id":"102164185",
+    "wof:lastmodified":1449068085,
+    "wof:name":"Private Cable Co",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.864014,61.157302,-149.864014,61.157302],
+  "geometry": {"coordinates":[-149.864014,61.157302],"type":"Point"}
+}

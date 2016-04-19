@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.476269,59.6413,-151.476269,59.6413",
+    "geom:latitude":59.6413,
+    "geom:longitude":-151.476269,
+    "iso:country":"US",
+    "sg:address":"2443 Kachemak Dr",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 6694",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834363,
+        85633793,
+        85915739,
+        102081909,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Og7xv3VU4uOPLuEqI472H_59.641300_-151.476269@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ce77b7750c06f7850d3d88c59b95673f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "neighbourhood_id":85834363,
+            "region_id":85688573,
+            "venue_id":"102169943"
+        }
+    ],
+    "wof:id":"102169943",
+    "wof:lastmodified":1449069247,
+    "wof:name":"Mud Bay Storage Towing & Impnd",
+    "wof:parent_id":85834363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.476269,59.6413,-151.476269,59.6413],
+  "geometry": {"coordinates":[-151.476269,59.6413],"type":"Point"}
+}

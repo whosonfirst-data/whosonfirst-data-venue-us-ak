@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-156.752585,71.301778,-156.752585,71.301778",
+    "geom:latitude":71.301778,
+    "geom:longitude":-156.752585,
+    "iso:country":"US",
+    "sg:address":"5122 Herman St",
+    "sg:city":"Barrow",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 852 3300",
+    "sg:postcode":"99723",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915545,
+        85633793,
+        85688573,
+        102081001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JDBiQ2FGFwe9D7QuBrtkV_71.301778_-156.752585@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"32ed84f3abf49298dd366813715b9ea9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081001,
+            "locality_id":85915545,
+            "region_id":85688573,
+            "venue_id":"102184447"
+        }
+    ],
+    "wof:id":"102184447",
+    "wof:lastmodified":1449068217,
+    "wof:name":"Northern Lights Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-156.752585,71.301778,-156.752585,71.301778],
+  "geometry": {"coordinates":[-156.752585,71.301778],"type":"Point"}
+}

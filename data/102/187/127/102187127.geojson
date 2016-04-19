@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.250608,60.559489,-151.250608,60.559489",
+    "geom:latitude":60.559489,
+    "geom:longitude":-151.250608,
+    "iso:country":"US",
+    "sg:address":"107 S Willow St",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 8477",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vcc1dgXiwVU5p2uT2ykX2_60.559489_-151.250608@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8bcc61e1bee23150c1ff7fecdc3355e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102187127"
+        }
+    ],
+    "wof:id":"102187127",
+    "wof:lastmodified":1449068159,
+    "wof:name":"Crime Stoppers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.250608,60.559489,-151.250608,60.559489],
+  "geometry": {"coordinates":[-151.250608,60.559489],"type":"Point"}
+}

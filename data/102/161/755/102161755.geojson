@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.072218,60.48966,-151.072218,60.48966",
+    "geom:latitude":60.48966,
+    "geom:longitude":-151.072218,
+    "iso:country":"US",
+    "sg:address":"148 N Binkley St",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 5846",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:website":"www.kpbsd.k12.ak.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OtbB3dzo1uSaz6CF2M5kx_60.489660_-151.072218@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"adcc671938813aead3675a0cfe80a842",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102161755"
+        }
+    ],
+    "wof:id":"102161755",
+    "wof:lastmodified":1449068711,
+    "wof:name":"Kenai Peninsula School Dist",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.072218,60.48966,-151.072218,60.48966],
+  "geometry": {"coordinates":[-151.072218,60.48966],"type":"Point"}
+}

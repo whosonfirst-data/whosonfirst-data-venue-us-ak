@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.897995,61.147317,-149.897995,61.147317",
+    "geom:latitude":61.147317,
+    "geom:longitude":-149.897995,
+    "iso:country":"US",
+    "sg:address":"8070 Fairwood Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 6688",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gVnzm6HjciHJtJQKl6dur_61.147317_-149.897995@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d91962915a3e9c4d1226f02e45fa01dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102192549"
+        }
+    ],
+    "wof:id":"102192549",
+    "wof:lastmodified":1449069502,
+    "wof:name":"Property Damage Appraisers Inc",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.897995,61.147317,-149.897995,61.147317],
+  "geometry": {"coordinates":[-149.897995,61.147317],"type":"Point"}
+}

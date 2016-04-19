@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.91814,61.187372,-149.91814,61.187372",
+    "geom:latitude":61.187372,
+    "geom:longitude":-149.91814,
+    "iso:country":"US",
+    "sg:address":"3606 Oregon Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 2922",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "attraction",
+        "tourist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ufnCk3G9cjmg7hL1cM8bJ_61.187372_-149.918140@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"16b03fda5aea598a8c81f71290be4c9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102154333"
+        }
+    ],
+    "wof:id":"102154333",
+    "wof:lastmodified":1449070247,
+    "wof:name":"Muskrat Wilderness Trophies",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.91814,61.187372,-149.91814,61.187372],
+  "geometry": {"coordinates":[-149.91814,61.187372],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.743561,61.120431,-149.743561,61.120431",
+    "geom:latitude":61.120431,
+    "geom:longitude":-149.743561,
+    "iso:country":"US",
+    "sg:address":"11080 Hideaway Lake Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 346 4518",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "playground"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873747,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yhWNpGQdCkuaT8qLRbAh7_61.120431_-149.743561@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"92dda2acd4d1a42f8e5caf7a0bc010eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873747,
+            "region_id":85688573,
+            "venue_id":"102176935"
+        }
+    ],
+    "wof:id":"102176935",
+    "wof:lastmodified":1449069347,
+    "wof:name":"Acme Park & Playground Equip",
+    "wof:parent_id":85873747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.743561,61.120431,-149.743561,61.120431],
+  "geometry": {"coordinates":[-149.743561,61.120431],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.377201,61.61485,-149.377201,61.61485",
+    "geom:latitude":61.61485,
+    "geom:longitude":-149.377201,
+    "iso:country":"US",
+    "sg:address":"3544 Wanamingo Dr",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 3977",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916261,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08PYxJ9tO5AMn8xvQfitdq_61.614850_-149.377201@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8d07c1aceaaeff005f9dbe75ba8e5665",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916261,
+            "region_id":85688573,
+            "venue_id":"102155569"
+        }
+    ],
+    "wof:id":"102155569",
+    "wof:lastmodified":1449069746,
+    "wof:name":"Appraisal Co Of Mat-Su",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.377201,61.61485,-149.377201,61.61485],
+  "geometry": {"coordinates":[-149.377201,61.61485],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.784995,61.217291,-149.784995,61.217291",
+    "geom:latitude":61.217291,
+    "geom:longitude":-149.784995,
+    "iso:country":"US",
+    "sg:address":"520 Saint Lazaria Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 6574",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869053,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MUb1MMzJR6hSCwznxuWL6_61.217291_-149.784995@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"997a249c3298f50915aa59f297f96b04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869053,
+            "region_id":85688573,
+            "venue_id":"102165261"
+        }
+    ],
+    "wof:id":"102165261",
+    "wof:lastmodified":1449070212,
+    "wof:name":"Lady Di's Bed & Breakfast",
+    "wof:parent_id":85869053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.784995,61.217291,-149.784995,61.217291],
+  "geometry": {"coordinates":[-149.784995,61.217291],"type":"Point"}
+}

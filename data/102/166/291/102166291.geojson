@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.578949,58.365025,-134.578949,58.365025",
+    "geom:latitude":58.365025,
+    "geom:longitude":-134.578949,
+    "iso:country":"US",
+    "sg:address":"2203 Jordan Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 9549",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yLAO7qTQa2f26EGGVDW4p_58.365025_-134.578949@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5994de591762140ab89bc657f6fd0dd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102166291"
+        }
+    ],
+    "wof:id":"102166291",
+    "wof:lastmodified":1449069086,
+    "wof:name":"Alaska Chiropractic Rehab",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.578949,58.365025,-134.578949,58.365025],
+  "geometry": {"coordinates":[-134.578949,58.365025],"type":"Point"}
+}

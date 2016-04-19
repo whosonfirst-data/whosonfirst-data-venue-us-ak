@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.910564,61.195222,-149.910564,61.195222",
+    "geom:latitude":61.195222,
+    "geom:longitude":-149.910564,
+    "iso:country":"US",
+    "sg:address":"1340 W Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 929 5425",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ],
+    "sg:website":"www.hotlicks.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KQ3i4d4c6FqzOudwYXnRz_61.195222_-149.910564@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a75342810aab13bc331cd67cbd92041f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102177889"
+        }
+    ],
+    "wof:id":"102177889",
+    "wof:lastmodified":1449070203,
+    "wof:name":"Hot Licks Homemade Ice Cream",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.910564,61.195222,-149.910564,61.195222],
+  "geometry": {"coordinates":[-149.910564,61.195222],"type":"Point"}
+}

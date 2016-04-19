@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.529848,59.643799,-151.529848,59.643799",
+    "geom:latitude":59.643799,
+    "geom:longitude":-151.529848,
+    "iso:country":"US",
+    "sg:address":"3658 Heath St",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 6129",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:website":"www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fA6IqFVvNChfLhTS91LoI_59.643799_-151.529848@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"68991b253494e0effb8d35274494702b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102183101"
+        }
+    ],
+    "wof:id":"102183101",
+    "wof:lastmodified":1449069043,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.529848,59.643799,-151.529848,59.643799],
+  "geometry": {"coordinates":[-151.529848,59.643799],"type":"Point"}
+}

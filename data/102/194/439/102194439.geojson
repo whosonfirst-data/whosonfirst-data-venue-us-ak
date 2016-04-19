@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.855678,61.133531,-149.855678,61.133531",
+    "geom:latitude":61.133531,
+    "geom:longitude":-149.855678,
+    "iso:country":"US",
+    "sg:address":"9599 Brayton Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 644 8980",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72XsQHczDsDFT1fHRmHvoq_61.133531_-149.855678@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9bfe6e89fb5a47a2ac467764417a24f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102194439"
+        }
+    ],
+    "wof:id":"102194439",
+    "wof:lastmodified":1449069828,
+    "wof:name":"Alfaro's Classic Catering",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.855678,61.133531,-149.855678,61.133531],
+  "geometry": {"coordinates":[-149.855678,61.133531],"type":"Point"}
+}

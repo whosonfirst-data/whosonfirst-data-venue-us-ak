@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.864013,61.157168,-149.864013,61.157168",
+    "geom:latitude":61.157168,
+    "geom:longitude":-149.864013,
+    "iso:country":"US",
+    "sg:address":"6917 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 3633",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dentist"
+    ],
+    "sg:website":"www.a-bar-o.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00ZSrWgcr9fp97hpByQmxB_61.157168_-149.864013@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"92e2c9e75a6728a9b913cffd07e6a8e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102170035"
+        }
+    ],
+    "wof:id":"102170035",
+    "wof:lastmodified":1449068019,
+    "wof:name":"A-Bar-O Dental Svc",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.864013,61.157168,-149.864013,61.157168],
+  "geometry": {"coordinates":[-149.864013,61.157168],"type":"Point"}
+}

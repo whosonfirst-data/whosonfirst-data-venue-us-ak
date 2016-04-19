@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.867994,61.17145,-149.867994,61.17145",
+    "geom:latitude":61.17145,
+    "geom:longitude":-149.867994,
+    "iso:country":"US",
+    "sg:address":"5441 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 569 9191",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cV5uvgzLxFfqlJV8UmVAV_61.171450_-149.867994@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3e27fc1744c245d7e888891f666ff08e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102168723"
+        }
+    ],
+    "wof:id":"102168723",
+    "wof:lastmodified":1449069007,
+    "wof:name":"All Nations Church",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.867994,61.17145,-149.867994,61.17145],
+  "geometry": {"coordinates":[-149.867994,61.17145],"type":"Point"}
+}

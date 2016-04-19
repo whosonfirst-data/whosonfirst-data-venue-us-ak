@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.835099,61.15926,-149.835099,61.15926",
+    "geom:latitude":61.15926,
+    "geom:longitude":-149.835099,
+    "iso:country":"US",
+    "sg:address":"2563 E 68th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 2268",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vTJA08gSw1dWRn3ghgzgH_61.159260_-149.835099@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"11bc1d7e5a8a6b19b3a6736135d99411",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102188821"
+        }
+    ],
+    "wof:id":"102188821",
+    "wof:lastmodified":1449068947,
+    "wof:name":"First Samoan Church",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.835099,61.15926,-149.835099,61.15926],
+  "geometry": {"coordinates":[-149.835099,61.15926],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.733385,61.199609,-149.733385,61.199609",
+    "geom:latitude":61.199609,
+    "geom:longitude":-149.733385,
+    "iso:country":"US",
+    "sg:address":"2111 Muldoon Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 1538",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.st.patsak.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5chpYffl28XWcpyfdTvvFM_61.199609_-149.733385@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b1843c54d88ce9cf7d359fb26d5a59ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102148723"
+        }
+    ],
+    "wof:id":"102148723",
+    "wof:lastmodified":1449069786,
+    "wof:name":"St Patrick's Church",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.733385,61.199609,-149.733385,61.199609],
+  "geometry": {"coordinates":[-149.733385,61.199609],"type":"Point"}
+}

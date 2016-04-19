@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.906836,61.201518,-149.906836,61.201518",
+    "geom:latitude":61.201518,
+    "geom:longitude":-149.906836,
+    "iso:country":"US",
+    "sg:address":"1332 Hillcrest Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 4400",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home",
+        "family",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wXDSZWNS56I0UfV4p2wFr_61.201518_-149.906836@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4d7300fca61556fb1a11a0699bbd76b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102169857"
+        }
+    ],
+    "wof:id":"102169857",
+    "wof:lastmodified":1449069246,
+    "wof:name":"Design Concept Inc",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.906836,61.201518,-149.906836,61.201518],
+  "geometry": {"coordinates":[-149.906836,61.201518],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.353998,57.811741,-152.353998,57.811741",
+    "geom:latitude":57.811741,
+    "geom:longitude":-152.353998,
+    "iso:country":"US",
+    "sg:address":"3484 E Rezanof Dr",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 5551",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Pkas5gpgE4WvMxUEcOrng_57.811741_-152.353998@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4d4fb514722b7f4166fe6613769b3905",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "region_id":85688573,
+            "venue_id":"102190751"
+        }
+    ],
+    "wof:id":"102190751",
+    "wof:lastmodified":1449070032,
+    "wof:name":"Anderson Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.353998,57.811741,-152.353998,57.811741],
+  "geometry": {"coordinates":[-152.353998,57.811741],"type":"Point"}
+}

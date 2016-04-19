@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.406745,61.589191,-149.406745,61.589191",
+    "geom:latitude":61.589191,
+    "geom:longitude":-149.406745,
+    "iso:country":"US",
+    "sg:address":"1751 E Gardner Way",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 5950",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uQb9OkpmrmsAXPVBBHqXE_61.589191_-149.406745@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cca4db01ceff15e239c11fc21ac63c2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "region_id":85688573,
+            "venue_id":"102186589"
+        }
+    ],
+    "wof:id":"102186589",
+    "wof:lastmodified":1449069655,
+    "wof:name":"John D Hunter MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.406745,61.589191,-149.406745,61.589191],
+  "geometry": {"coordinates":[-149.406745,61.589191],"type":"Point"}
+}

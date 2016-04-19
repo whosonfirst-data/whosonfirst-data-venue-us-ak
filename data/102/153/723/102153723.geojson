@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.881393,61.16453,-149.881393,61.16453",
+    "geom:latitude":61.16453,
+    "geom:longitude":-149.881393,
+    "iso:country":"US",
+    "sg:address":"109 A St Lp",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 3438",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cabinet",
+        "display",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2A5GfJnerFgIvvrklDHuuG_61.164530_-149.881393@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"31e292038d4502e821a3798fc1e470c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102153723"
+        }
+    ],
+    "wof:id":"102153723",
+    "wof:lastmodified":1449069462,
+    "wof:name":"Heusser Construction",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.881393,61.16453,-149.881393,61.16453],
+  "geometry": {"coordinates":[-149.881393,61.16453],"type":"Point"}
+}

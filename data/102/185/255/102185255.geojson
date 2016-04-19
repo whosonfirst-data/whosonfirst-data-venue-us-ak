@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.910915,61.191163,-149.910915,61.191163",
+    "geom:latitude":61.191163,
+    "geom:longitude":-149.910915,
+    "iso:country":"US",
+    "sg:address":"1400 W 32nd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 4522",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ebmec7si8l4cH48fZssx7_61.191163_-149.910915@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4963908327567d0cdd294256ebaf46d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102185255"
+        }
+    ],
+    "wof:id":"102185255",
+    "wof:lastmodified":1449068197,
+    "wof:name":"Andrea Daro CPA",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.910915,61.191163,-149.910915,61.191163],
+  "geometry": {"coordinates":[-149.910915,61.191163],"type":"Point"}
+}

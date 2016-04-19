@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.706292,64.812206,-147.706292,64.812206",
+    "geom:latitude":64.812206,
+    "geom:longitude":-147.706292,
+    "iso:country":"US",
+    "sg:address":"3807 Leasure St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 1561",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32EkG2AQskwrdRjaKLLoot_64.812206_-147.706292@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"817fdffc0074dd3214b9b682dfa94c68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102167549"
+        }
+    ],
+    "wof:id":"102167549",
+    "wof:lastmodified":1449069000,
+    "wof:name":"North Star Motors",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.706292,64.812206,-147.706292,64.812206],
+  "geometry": {"coordinates":[-147.706292,64.812206],"type":"Point"}
+}

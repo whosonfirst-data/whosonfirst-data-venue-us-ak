@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.446084,59.233023,-135.446084,59.233023",
+    "geom:latitude":59.233023,
+    "geom:longitude":-135.446084,
+    "iso:country":"US",
+    "sg:address":"111 2nd Ave",
+    "sg:city":"Haines",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 766 3535",
+    "sg:postcode":"99827",
+    "sg:province":"AK",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842771,
+        85633793,
+        85916629,
+        102083767,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BviKGc99x1lkkQd7eJkat_59.233023_-135.446084@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c6a2d9b1ab6392e41272c7ea5c3c4684",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083767,
+            "locality_id":85916629,
+            "neighbourhood_id":85842771,
+            "region_id":85688573,
+            "venue_id":"102177865"
+        }
+    ],
+    "wof:id":"102177865",
+    "wof:lastmodified":1449070208,
+    "wof:name":"Far North",
+    "wof:parent_id":85842771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.446084,59.233023,-135.446084,59.233023],
+  "geometry": {"coordinates":[-135.446084,59.233023],"type":"Point"}
+}

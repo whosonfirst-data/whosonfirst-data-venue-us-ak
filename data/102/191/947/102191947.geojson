@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.880561,61.207634,-149.880561,61.207634",
+    "geom:latitude":61.207634,
+    "geom:longitude":-149.880561,
+    "iso:country":"US",
+    "sg:address":"204 E 15th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 278 1111",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "sg:website":"www.mahoganymanor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZyozqSwJuAweQ43Gwmksa_61.207634_-149.880561@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"265b9a00fefdc8249be65dd85ef7e5a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102191947"
+        }
+    ],
+    "wof:id":"102191947",
+    "wof:lastmodified":1449069202,
+    "wof:name":"Anchorage Mahogany Manor",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.880561,61.207634,-149.880561,61.207634],
+  "geometry": {"coordinates":[-149.880561,61.207634],"type":"Point"}
+}

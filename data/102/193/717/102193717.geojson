@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.823395,61.210177,-149.823395,61.210177",
+    "geom:latitude":61.210177,
+    "geom:longitude":-149.823395,
+    "iso:country":"US",
+    "sg:address":"1200 Airport Heights Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 278 6400",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "audiologists"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ljwFtbRKFU1AJoolAKMMM_61.210177_-149.823395@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bd89d23a91ff1874efe61cdc61d9216a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102193717"
+        }
+    ],
+    "wof:id":"102193717",
+    "wof:lastmodified":1449068192,
+    "wof:name":"Audiology Associates",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.823395,61.210177,-149.823395,61.210177],
+  "geometry": {"coordinates":[-149.823395,61.210177],"type":"Point"}
+}

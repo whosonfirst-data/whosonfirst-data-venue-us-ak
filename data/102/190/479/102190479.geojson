@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.800112,64.85766,-147.800112,64.85766",
+    "geom:latitude":64.85766,
+    "geom:longitude":-147.800112,
+    "iso:country":"US",
+    "sg:address":"3354 College Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 5000",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "consultant",
+        "geological"
+    ],
+    "sg:website":"www.dggs.dnr.state.ak.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nxYp0vSsQs2ebra4nXlWa_64.857660_-147.800112@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d987582a389c021106e54b4561c9ad76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102190479"
+        }
+    ],
+    "wof:id":"102190479",
+    "wof:lastmodified":1449070036,
+    "wof:name":"Geological & Geophysical",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.800112,64.85766,-147.800112,64.85766],
+  "geometry": {"coordinates":[-147.800112,64.85766],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.840059,61.224167,-149.840059,61.224167",
+    "geom:latitude":61.224167,
+    "geom:longitude":-149.840059,
+    "iso:country":"US",
+    "sg:address":"2010 Viking Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 2412",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:website":"www.alaska.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820221,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sm87xrg84pv4PDTsOqvlD_61.224167_-149.840059@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"28ec47f326b77e231d842fec7ef6cdbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85820221,
+            "region_id":85688573,
+            "venue_id":"102177343"
+        }
+    ],
+    "wof:id":"102177343",
+    "wof:lastmodified":1449070207,
+    "wof:name":"Anchorage Co-Operative Linen",
+    "wof:parent_id":85820221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.840059,61.224167,-149.840059,61.224167],
+  "geometry": {"coordinates":[-149.840059,61.224167],"type":"Point"}
+}

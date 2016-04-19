@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.458176,61.306036,-149.458176,61.306036",
+    "geom:latitude":61.306036,
+    "geom:longitude":-149.458176,
+    "iso:country":"US",
+    "sg:address":"22835 Glacier View Dr",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 694 3000",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78hg1DlOVzoXmhAWwyVouI_61.306036_-149.458176@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"49683a03f531f68682c75562feae03fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102171597"
+        }
+    ],
+    "wof:id":"102171597",
+    "wof:lastmodified":1449070226,
+    "wof:name":"Still's Valley Taxidermy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.458176,61.306036,-149.458176,61.306036],
+  "geometry": {"coordinates":[-149.458176,61.306036],"type":"Point"}
+}

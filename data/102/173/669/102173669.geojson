@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.349447,57.813687,-152.349447,57.813687",
+    "geom:latitude":57.813687,
+    "geom:longitude":-152.349447,
+    "iso:country":"US",
+    "sg:address":"3454 Puffin Dr",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 8853",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zZXN83u79nk9J5aQ5Dq2n_57.813687_-152.349447@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c0e26fd61232b52b5463a45530e77f42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "region_id":85688573,
+            "venue_id":"102173669"
+        }
+    ],
+    "wof:id":"102173669",
+    "wof:lastmodified":1449068263,
+    "wof:name":"Tobias Maintenance Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.349447,57.813687,-152.349447,57.813687],
+  "geometry": {"coordinates":[-152.349447,57.813687],"type":"Point"}
+}

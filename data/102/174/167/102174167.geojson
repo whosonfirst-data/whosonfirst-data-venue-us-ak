@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.731571,64.809474,-147.731571,64.809474",
+    "geom:latitude":64.809474,
+    "geom:longitude":-147.731571,
+    "iso:country":"US",
+    "sg:address":"1252 Queens Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Wine & Distilled Alcoholic Beverages",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 9463",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "liquor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zHPsDMYyp5SKyXz8HWX9O_64.809474_-147.731571@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f09ab73cdb8110dd9a0ba2497ef524fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102174167"
+        }
+    ],
+    "wof:id":"102174167",
+    "wof:lastmodified":1449068137,
+    "wof:name":"Specialty Imports",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.731571,64.809474,-147.731571,64.809474],
+  "geometry": {"coordinates":[-147.731571,64.809474],"type":"Point"}
+}

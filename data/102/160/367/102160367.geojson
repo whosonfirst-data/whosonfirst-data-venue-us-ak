@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.843946,61.227113,-149.843946,61.227113",
+    "geom:latitude":61.227113,
+    "geom:longitude":-149.843946,
+    "iso:country":"US",
+    "sg:address":"2121 N Post Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 1942",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873711,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wCKbXvmdIOyzZjqVWOvpS_61.227113_-149.843946@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dc34f6f75ddcc74ae1906794f5eb4f0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873711,
+            "region_id":85688573,
+            "venue_id":"102160367"
+        }
+    ],
+    "wof:id":"102160367",
+    "wof:lastmodified":1449069776,
+    "wof:name":"F & M Small Engine Repair",
+    "wof:parent_id":85873711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.843946,61.227113,-149.843946,61.227113],
+  "geometry": {"coordinates":[-149.843946,61.227113],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.646344,55.340952,-131.646344,55.340952",
+    "geom:latitude":55.340952,
+    "geom:longitude":-131.646344,
+    "iso:country":"US",
+    "sg:address":"131 Front St",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 9465",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tours",
+        "sightseeing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EjgMjr9iFY78BFLQ4nPsN_55.340952_-131.646344@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fcdfed8a794ab189eacc6145837b1a97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102168709"
+        }
+    ],
+    "wof:id":"102168709",
+    "wof:lastmodified":1449069006,
+    "wof:name":"City Tour",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.646344,55.340952,-131.646344,55.340952],
+  "geometry": {"coordinates":[-131.646344,55.340952],"type":"Point"}
+}

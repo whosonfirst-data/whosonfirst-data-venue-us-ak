@@ -1,0 +1,68 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.850081,61.143628,-149.850081,61.143628",
+    "geom:latitude":61.143628,
+    "geom:longitude":-149.850081,
+    "iso:country":"US",
+    "sg:address":"8726 Corbin Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 8365",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "roads",
+        "environmental",
+        "cleanup",
+        "highway",
+        "contractor"
+    ],
+    "sg:website":"www.nugget-ak.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ImmmSDTten6KKSGQeard5_61.143628_-149.850081@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"75a89f70ef3d493fcf968b0a66d04c55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102180437"
+        }
+    ],
+    "wof:id":"102180437",
+    "wof:lastmodified":1449067877,
+    "wof:name":"Nugget Construction Inc",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.850081,61.143628,-149.850081,61.143628],
+  "geometry": {"coordinates":[-149.850081,61.143628],"type":"Point"}
+}

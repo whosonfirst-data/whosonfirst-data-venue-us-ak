@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.629251,55.335795,-131.629251,55.335795",
+    "geom:latitude":55.335795,
+    "geom:longitude":-131.629251,
+    "iso:country":"US",
+    "sg:address":"655 Stedman St",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 1500",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JbZwYzCZeM7t0lP5Cc7dm_55.335795_-131.629251@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"231bbd5a83fc436b959eace044d727fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102192983"
+        }
+    ],
+    "wof:id":"102192983",
+    "wof:lastmodified":1449069506,
+    "wof:name":"Tatsuda's Gas At Last",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.629251,55.335795,-131.629251,55.335795],
+  "geometry": {"coordinates":[-131.629251,55.335795],"type":"Point"}
+}

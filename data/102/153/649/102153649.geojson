@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.787228,64.858367,-147.787228,64.858367",
+    "geom:latitude":64.858367,
+    "geom:longitude":-147.787228,
+    "iso:country":"US",
+    "sg:address":"1560 Westwood Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 5907",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869043,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ffQr76qxSsTW4NXKFwnMW_64.858367_-147.787228@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"04e83659ae5cc79fb474365dd80a6f18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85869043,
+            "region_id":85688573,
+            "venue_id":"102153649"
+        }
+    ],
+    "wof:id":"102153649",
+    "wof:lastmodified":1449069463,
+    "wof:name":"College Construction",
+    "wof:parent_id":85869043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.787228,64.858367,-147.787228,64.858367],
+  "geometry": {"coordinates":[-147.787228,64.858367],"type":"Point"}
+}

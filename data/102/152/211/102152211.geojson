@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.715679,64.826121,-147.715679,64.826121",
+    "geom:latitude":64.826121,
+    "geom:longitude":-147.715679,
+    "iso:country":"US",
+    "sg:address":"615 23rd Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 1912",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "machine",
+        "duplicating",
+        "copying"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cFy3N9XkPLq0Iij0pyDXa_64.826121_-147.715679@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"75eae0ca2136e1582d251cb10c940f22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102152211"
+        }
+    ],
+    "wof:id":"102152211",
+    "wof:lastmodified":1449069635,
+    "wof:name":"Northern Business Systems",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.715679,64.826121,-147.715679,64.826121],
+  "geometry": {"coordinates":[-147.715679,64.826121],"type":"Point"}
+}

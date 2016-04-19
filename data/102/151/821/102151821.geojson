@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.721435,64.843843,-147.721435,64.843843",
+    "geom:latitude":64.843843,
+    "geom:longitude":-147.721435,
+    "iso:country":"US",
+    "sg:address":"100 Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 5922",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73gME23lGiUTxPyxjwSJAS_64.843843_-147.721435@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cfb4d2cb84bfdb4ed72f84d14c4ce17c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102151821"
+        }
+    ],
+    "wof:id":"102151821",
+    "wof:lastmodified":1449067782,
+    "wof:name":"Public Guardians Office",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.721435,64.843843,-147.721435,64.843843],
+  "geometry": {"coordinates":[-147.721435,64.843843],"type":"Point"}
+}

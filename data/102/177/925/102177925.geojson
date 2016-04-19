@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.408032,58.301212,-134.408032,58.301212",
+    "geom:latitude":58.301212,
+    "geom:longitude":-134.408032,
+    "iso:country":"US",
+    "sg:address":"205 Seward St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 3164",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WqyDMafseppkBjCsimjc0_58.301212_-134.408032@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d34d91aad3c5bc78598d6601b051eec7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102177925"
+        }
+    ],
+    "wof:id":"102177925",
+    "wof:lastmodified":1449070202,
+    "wof:name":"Sportsman Barber Shop",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.408032,58.301212,-134.408032,58.301212],
+  "geometry": {"coordinates":[-134.408032,58.301212],"type":"Point"}
+}

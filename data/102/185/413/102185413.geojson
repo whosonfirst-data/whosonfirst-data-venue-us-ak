@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.488971,58.339274,-134.488971,58.339274",
+    "geom:latitude":58.339274,
+    "geom:longitude":-134.488971,
+    "iso:country":"US",
+    "sg:address":"4260 Glacier Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 3177",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "transporting",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853509,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Rs6JUKsZTwIeuoyUOmB88_58.339274_-134.488971@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"61e7ea6c3fbd0f5c653d69999d9d2730",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85853509,
+            "region_id":85688573,
+            "venue_id":"102185413"
+        }
+    ],
+    "wof:id":"102185413",
+    "wof:lastmodified":1449068195,
+    "wof:name":"Boat Tote",
+    "wof:parent_id":85853509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.488971,58.339274,-134.488971,58.339274],
+  "geometry": {"coordinates":[-134.488971,58.339274],"type":"Point"}
+}

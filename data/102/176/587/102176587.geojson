@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.871276,61.116207,-149.871276,61.116207",
+    "geom:latitude":61.116207,
+    "geom:longitude":-149.871276,
+    "iso:country":"US",
+    "sg:address":"11341 Olive Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 6431",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "boring",
+        "drilling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873755,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q19Gg2ugLdf0RheoAw0te_61.116207_-149.871276@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0433c8ae477c6475d47fb41b74ef0497",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873755,
+            "region_id":85688573,
+            "venue_id":"102176587"
+        }
+    ],
+    "wof:id":"102176587",
+    "wof:lastmodified":1449069346,
+    "wof:name":"Discovery Drilling",
+    "wof:parent_id":85873755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.871276,61.116207,-149.871276,61.116207],
+  "geometry": {"coordinates":[-149.871276,61.116207],"type":"Point"}
+}

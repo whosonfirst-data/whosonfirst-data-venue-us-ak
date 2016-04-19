@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.692224,55.362025,-131.692224,55.362025",
+    "geom:latitude":55.362025,
+    "geom:longitude":-131.692224,
+    "iso:country":"US",
+    "sg:address":"605 Tower Rd",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 247 1475",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TJcOxvmmJNWbfpo9upYi2_55.362025_-131.692224@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3dd964fb03ba3dfc7550ed0ca9868a84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102173051"
+        }
+    ],
+    "wof:id":"102173051",
+    "wof:lastmodified":1449068266,
+    "wof:name":"Tower Road Vacation Rentals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.692224,55.362025,-131.692224,55.362025],
+  "geometry": {"coordinates":[-131.692224,55.362025],"type":"Point"}
+}

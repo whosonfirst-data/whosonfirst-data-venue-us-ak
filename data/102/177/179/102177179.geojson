@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.743342,64.83693,-147.743342,64.83693",
+    "geom:latitude":64.83693,
+    "geom:longitude":-147.743342,
+    "iso:country":"US",
+    "sg:address":"1412 Airport Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 0427",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SuZY431uT0kIleVyRrw6m_64.836930_-147.743342@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"303fed99e2b46949fc282aa522bc66ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102177179"
+        }
+    ],
+    "wof:id":"102177179",
+    "wof:lastmodified":1449070208,
+    "wof:name":"US Migratory Bird Management",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.743342,64.83693,-147.743342,64.83693],
+  "geometry": {"coordinates":[-147.743342,64.83693],"type":"Point"}
+}

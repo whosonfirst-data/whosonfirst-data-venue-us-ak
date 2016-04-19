@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-148.030125,64.778727,-148.030125,64.778727",
+    "geom:latitude":64.778727,
+    "geom:longitude":-148.030125,
+    "iso:country":"US",
+    "sg:address":"1985 Becker Ridge Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 6674",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916563,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gNMtL3UKvtM3ib5xk8DPW_64.778727_-148.030125@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"686bb2143a5469bf866b8237c623356d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916563,
+            "region_id":85688573,
+            "venue_id":"102173565"
+        }
+    ],
+    "wof:id":"102173565",
+    "wof:lastmodified":1449068271,
+    "wof:name":"Freedom Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-148.030125,64.778727,-148.030125,64.778727],
+  "geometry": {"coordinates":[-148.030125,64.778727],"type":"Point"}
+}

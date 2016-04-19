@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.876599,61.189923,-149.876599,61.189923",
+    "geom:latitude":61.189923,
+    "geom:longitude":-149.876599,
+    "iso:country":"US",
+    "sg:address":"3333 Denali St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 7508",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "sg:website":"www.northstarmortgageco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gEXPfKyz9UJmauMHS3f7J_61.189923_-149.876599@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"38047e040b45ed2ab6182af4c3457bb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102178653"
+        }
+    ],
+    "wof:id":"102178653",
+    "wof:lastmodified":1449069528,
+    "wof:name":"Northstar Mortgage Co",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.876599,61.189923,-149.876599,61.189923],
+  "geometry": {"coordinates":[-149.876599,61.189923],"type":"Point"}
+}

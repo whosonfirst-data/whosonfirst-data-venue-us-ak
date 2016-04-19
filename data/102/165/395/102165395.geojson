@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.954145,61.192418,-149.954145,61.192418",
+    "geom:latitude":61.192418,
+    "geom:longitude":-149.954145,
+    "iso:country":"US",
+    "sg:address":"3072 Leighton St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pottery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 245 7656",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "chinaware",
+        "decorator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852831,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4esDMxIhjPycE39IYipjuM_61.192418_-149.954145@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d525ac03243b3dfc9eedf4e3853b677b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":"102165395"
+        }
+    ],
+    "wof:id":"102165395",
+    "wof:lastmodified":1449070217,
+    "wof:name":"Princess House Inc",
+    "wof:parent_id":85852831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.954145,61.192418,-149.954145,61.192418],
+  "geometry": {"coordinates":[-149.954145,61.192418],"type":"Point"}
+}

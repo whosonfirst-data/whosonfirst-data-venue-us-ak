@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.056045,60.486633,-151.056045,60.486633",
+    "geom:latitude":60.486633,
+    "geom:longitude":-151.056045,
+    "iso:country":"US",
+    "sg:address":"43977 Sterling Hwy",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 260 7722",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6edeqwRv6sgbCNNpVRJY4E_60.486633_-151.056045@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"382cb1294d3fb2ecab10f6993d1f5d9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102169945"
+        }
+    ],
+    "wof:id":"102169945",
+    "wof:lastmodified":1449069247,
+    "wof:name":"River City Books",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.056045,60.486633,-151.056045,60.486633],
+  "geometry": {"coordinates":[-151.056045,60.486633],"type":"Point"}
+}

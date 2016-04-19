@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.576178,58.361707,-134.576178,58.361707",
+    "geom:latitude":58.361707,
+    "geom:longitude":-134.576178,
+    "iso:country":"US",
+    "sg:address":"8725 Mallard St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 1386",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wm815q6GrWUExTnVS8Clv_58.361707_-134.576178@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3032fd2b608a7ffc0c6d23c51c7bc436",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102159131"
+        }
+    ],
+    "wof:id":"102159131",
+    "wof:lastmodified":1449068092,
+    "wof:name":"Mendenhall Auto Ctr",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.576178,58.361707,-134.576178,58.361707],
+  "geometry": {"coordinates":[-134.576178,58.361707],"type":"Point"}
+}

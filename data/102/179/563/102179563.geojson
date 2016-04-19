@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.446077,59.238989,-135.446077,59.238989",
+    "geom:latitude":59.238989,
+    "geom:longitude":-135.446077,
+    "iso:country":"US",
+    "sg:address":"376 Lynnview Dr",
+    "sg:city":"Haines",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 766 2506",
+    "sg:postcode":"99827",
+    "sg:province":"AK",
+    "sg:tags":[
+        "model",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842771,
+        85633793,
+        85916629,
+        102083767,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VTqdB7TZGWPrgbBo5W2om_59.238989_-135.446077@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b7ecdb0e4f5174363b90715e14478597",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083767,
+            "locality_id":85916629,
+            "neighbourhood_id":85842771,
+            "region_id":85688573,
+            "venue_id":"102179563"
+        }
+    ],
+    "wof:id":"102179563",
+    "wof:lastmodified":1449069940,
+    "wof:name":"Bradford's Hobbies",
+    "wof:parent_id":85842771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.446077,59.238989,-135.446077,59.238989],
+  "geometry": {"coordinates":[-135.446077,59.238989],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.860258,61.148418,-149.860258,61.148418",
+    "geom:latitude":61.148418,
+    "geom:longitude":-149.860258,
+    "iso:country":"US",
+    "sg:address":"1111 E 80th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 8133",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:website":"www.alaskacharr.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RD80cdpbi8TPMJ67lj5Ne_61.148418_-149.860258@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d7e26457abeaaa25ce10ae72b44838b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102179137"
+        }
+    ],
+    "wof:id":"102179137",
+    "wof:lastmodified":1449069942,
+    "wof:name":"Charr",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.860258,61.148418,-149.860258,61.148418],
+  "geometry": {"coordinates":[-149.860258,61.148418],"type":"Point"}
+}

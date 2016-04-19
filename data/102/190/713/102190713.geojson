@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.762395,64.857685,-147.762395,64.857685",
+    "geom:latitude":64.857685,
+    "geom:longitude":-147.762395,
+    "iso:country":"US",
+    "sg:address":"1812 Central Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 7202",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869043,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tVPzVBQAhb459mzSYYcFI_64.857685_-147.762395@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fe5b18687c4c80a0749d82365b4deb12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85869043,
+            "region_id":85688573,
+            "venue_id":"102190713"
+        }
+    ],
+    "wof:id":"102190713",
+    "wof:lastmodified":1449070036,
+    "wof:name":"Alaska Honey Farm",
+    "wof:parent_id":85869043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.762395,64.857685,-147.762395,64.857685],
+  "geometry": {"coordinates":[-147.762395,64.857685],"type":"Point"}
+}

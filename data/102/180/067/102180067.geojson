@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.946158,61.158761,-149.946158,61.158761",
+    "geom:latitude":61.158761,
+    "geom:longitude":-149.946158,
+    "iso:country":"US",
+    "sg:address":"3549 Dunkirk Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 4430",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "oil",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IHJX2de415pKzQnvPthV2_61.158761_-149.946158@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3563305063769decd55757e89744b4a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102180067"
+        }
+    ],
+    "wof:id":"102180067",
+    "wof:lastmodified":1449067870,
+    "wof:name":"Hendrckson Exploration Min LLC",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.946158,61.158761,-149.946158,61.158761],
+  "geometry": {"coordinates":[-149.946158,61.158761],"type":"Point"}
+}

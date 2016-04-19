@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.922049,61.151935,-149.922049,61.151935",
+    "geom:latitude":61.151935,
+    "geom:longitude":-149.922049,
+    "iso:country":"US",
+    "sg:address":"2608 Strawberry Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 0213",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "importer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tl2Wy0kHp3dLtSO2fI6bE_61.151935_-149.922049@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"33987ee582e0315cd2af2933d09ef0ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102152161"
+        }
+    ],
+    "wof:id":"102152161",
+    "wof:lastmodified":1449069634,
+    "wof:name":"International Compounding Svc",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.922049,61.151935,-149.922049,61.151935],
+  "geometry": {"coordinates":[-149.922049,61.151935],"type":"Point"}
+}

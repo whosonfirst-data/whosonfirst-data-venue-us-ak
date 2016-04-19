@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.711237,59.438995,-151.711237,59.438995",
+    "geom:latitude":59.438995,
+    "geom:longitude":-151.711237,
+    "iso:country":"US",
+    "sg:address":"260 Fulmore Ave",
+    "sg:city":"Seldovia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 234 8900",
+    "sg:postcode":"99663",
+    "sg:province":"AK",
+    "sg:tags":[
+        "medical",
+        "surgical",
+        "emergency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915757,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gnND1E6IU3HeDr3gOOjnW_59.438995_-151.711237@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"939426c3313eb3e313d70788606b1617",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915757,
+            "region_id":85688573,
+            "venue_id":"102167961"
+        }
+    ],
+    "wof:id":"102167961",
+    "wof:lastmodified":1449069003,
+    "wof:name":"Kenai Penisula Ems Council",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.711237,59.438995,-151.711237,59.438995],
+  "geometry": {"coordinates":[-151.711237,59.438995],"type":"Point"}
+}

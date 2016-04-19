@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.148044,61.646345,-149.148044,61.646345",
+    "geom:latitude":61.646345,
+    "geom:longitude":-149.148044,
+    "iso:country":"US",
+    "sg:address":"4 Farm Loop Rd",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 2583",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916265,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MPey4D3V35LuPJ74wPS0S_61.646345_-149.148044@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"679b9b8621467e133adc661222f60970",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916265,
+            "region_id":85688573,
+            "venue_id":"102167377"
+        }
+    ],
+    "wof:id":"102167377",
+    "wof:lastmodified":1449069001,
+    "wof:name":"Danamac Acres Greenhouse",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.148044,61.646345,-149.148044,61.646345],
+  "geometry": {"coordinates":[-149.148044,61.646345],"type":"Point"}
+}

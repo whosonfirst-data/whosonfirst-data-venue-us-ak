@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.384005,56.471454,-132.384005,56.471454",
+    "geom:latitude":56.471454,
+    "geom:longitude":-132.384005,
+    "iso:country":"US",
+    "sg:address":"223 Front St",
+    "sg:city":"Wrangell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 874 3677",
+    "sg:postcode":"99929",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916111,
+        85633793,
+        85688573,
+        102081901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SHJ3Fj31kvecth4CddE4k_56.471454_-132.384005@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fc493237ba917c00216f789eb1ef0a57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081901,
+            "locality_id":85916111,
+            "region_id":85688573,
+            "venue_id":"102190661"
+        }
+    ],
+    "wof:id":"102190661",
+    "wof:lastmodified":1449070037,
+    "wof:name":"Diamond C",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.384005,56.471454,-132.384005,56.471454],
+  "geometry": {"coordinates":[-132.384005,56.471454],"type":"Point"}
+}

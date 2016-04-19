@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.875681,61.211578,-149.875681,61.211578",
+    "geom:latitude":61.211578,
+    "geom:longitude":-149.875681,
+    "iso:country":"US",
+    "sg:address":"436 E 11th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 9530",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64ZyerP6hwXZ64EXMJx5tE_61.211578_-149.875681@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0ee8332d4cc4d8e04a3e58d7da9eecfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102191563"
+        }
+    ],
+    "wof:id":"102191563",
+    "wof:lastmodified":1449069197,
+    "wof:name":"Hammer Transport Svc",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.875681,61.211578,-149.875681,61.211578],
+  "geometry": {"coordinates":[-149.875681,61.211578],"type":"Point"}
+}

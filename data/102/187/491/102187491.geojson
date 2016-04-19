@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.747112,64.811158,-147.747112,64.811158",
+    "geom:latitude":64.811158,
+    "geom:longitude":-147.747112,
+    "iso:country":"US",
+    "sg:address":"3750 Bonita St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 1809",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2K54GqfzYgqXMUtOmBqmCq_64.811158_-147.747112@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b4df7ff3eeeca4f432a65b272dfa7395",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102187491"
+        }
+    ],
+    "wof:id":"102187491",
+    "wof:lastmodified":1449068153,
+    "wof:name":"Associated General Contractors",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.747112,64.811158,-147.747112,64.811158],
+  "geometry": {"coordinates":[-147.747112,64.811158],"type":"Point"}
+}

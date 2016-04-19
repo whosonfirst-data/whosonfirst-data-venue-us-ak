@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.440717,60.125482,-149.440717,60.125482",
+    "geom:latitude":60.125482,
+    "geom:longitude":-149.440717,
+    "iso:country":"US",
+    "sg:address":"213 Bluefield Dr",
+    "sg:city":"Seward",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 224 3687",
+    "sg:postcode":"99664",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915769,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BtkiE129zpQAZW3NdsN5m_60.125482_-149.440717@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dcaf30ff2a4bd31e4acc076ad8f5cdbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915769,
+            "region_id":85688573,
+            "venue_id":"102165679"
+        }
+    ],
+    "wof:id":"102165679",
+    "wof:lastmodified":1449070217,
+    "wof:name":"A C Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.440717,60.125482,-149.440717,60.125482],
+  "geometry": {"coordinates":[-149.440717,60.125482],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.741699,64.826257,-147.741699,64.826257",
+    "geom:latitude":64.826257,
+    "geom:longitude":-147.741699,
+    "iso:country":"US",
+    "sg:address":"1414 23rd Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 4057",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7l4dKm8uXq98aoAudALN5E_64.826257_-147.741699@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c159b6a6a26fcee37cbc0cd66165855f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102152361"
+        }
+    ],
+    "wof:id":"102152361",
+    "wof:lastmodified":1449069637,
+    "wof:name":"Northern Lights Educare",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.741699,64.826257,-147.741699,64.826257],
+  "geometry": {"coordinates":[-147.741699,64.826257],"type":"Point"}
+}

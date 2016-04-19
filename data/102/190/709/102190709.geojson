@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.331096,64.788041,-147.331096,64.788041",
+    "geom:latitude":64.788041,
+    "geom:longitude":-147.331096,
+    "iso:country":"US",
+    "sg:address":"2431 Pool St",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 7775",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916555,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xay1n8bCA0OE3iDMiajpx_64.788041_-147.331096@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f1acf0c54de1fcc1a29230df15b25bf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916555,
+            "region_id":85688573,
+            "venue_id":"102190709"
+        }
+    ],
+    "wof:id":"102190709",
+    "wof:lastmodified":1449070035,
+    "wof:name":"AAA Auto Care Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.331096,64.788041,-147.331096,64.788041],
+  "geometry": {"coordinates":[-147.331096,64.788041],"type":"Point"}
+}

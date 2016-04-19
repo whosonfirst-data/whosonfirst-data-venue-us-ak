@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.698343,60.026242,-151.698343,60.026242",
+    "geom:latitude":60.026242,
+    "geom:longitude":-151.698343,
+    "iso:country":"US",
+    "sg:address":"19295 Sterling Hwy",
+    "sg:city":"Ninilchik",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 567 7433",
+    "sg:postcode":"99639",
+    "sg:province":"AK",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916967,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75tH9ZXUFpsnIcQSl8mbIc_60.026242_-151.698343@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"09a6b0f5c26acdf763ba4f81d64352d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916967,
+            "region_id":85688573,
+            "venue_id":"102196129"
+        }
+    ],
+    "wof:id":"102196129",
+    "wof:lastmodified":1449068339,
+    "wof:name":"Cycle Performance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.698343,60.026242,-151.698343,60.026242],
+  "geometry": {"coordinates":[-151.698343,60.026242],"type":"Point"}
+}

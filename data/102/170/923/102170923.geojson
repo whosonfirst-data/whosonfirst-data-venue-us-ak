@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.710799,64.827934,-147.710799,64.827934",
+    "geom:latitude":64.827934,
+    "geom:longitude":-147.710799,
+    "iso:country":"US",
+    "sg:address":"2207 Judd St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 7363",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4U1vFGPPvjQwgtXozxz78W_64.827934_-147.710799@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"16ebb1c853ad4834f831cc9ae04c7741",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102170923"
+        }
+    ],
+    "wof:id":"102170923",
+    "wof:lastmodified":1449068019,
+    "wof:name":"KCK Auto Sales",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.710799,64.827934,-147.710799,64.827934],
+  "geometry": {"coordinates":[-147.710799,64.827934],"type":"Point"}
+}

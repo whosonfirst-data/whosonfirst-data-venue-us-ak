@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.779668,61.065162,-149.779668,61.065162",
+    "geom:latitude":61.065162,
+    "geom:longitude":-149.779668,
+    "iso:country":"US",
+    "sg:address":"5740 E 172nd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 1089",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873751,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TiUcLbNRSbzmDW5KiqI2T_61.065162_-149.779668@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"240bffaadfb42b85accb6c85e9be24e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873751,
+            "region_id":85688573,
+            "venue_id":"102148699"
+        }
+    ],
+    "wof:id":"102148699",
+    "wof:lastmodified":1449069785,
+    "wof:name":"Sun Construction Inc",
+    "wof:parent_id":85873751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.779668,61.065162,-149.779668,61.065162],
+  "geometry": {"coordinates":[-149.779668,61.065162],"type":"Point"}
+}

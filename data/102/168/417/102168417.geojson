@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.845674,61.221487,-149.845674,61.221487",
+    "geom:latitude":61.221487,
+    "geom:longitude":-149.845674,
+    "iso:country":"US",
+    "sg:address":"1501 E 1st Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 6016",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "feed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JK2bG4f3vui0XJFqCuvdS_61.221487_-149.845674@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"70f3150e0dd531dbe9f14d765f262605",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102168417"
+        }
+    ],
+    "wof:id":"102168417",
+    "wof:lastmodified":1449069007,
+    "wof:name":"Alaska Mill & Feed Co",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.845674,61.221487,-149.845674,61.221487],
+  "geometry": {"coordinates":[-149.845674,61.221487],"type":"Point"}
+}

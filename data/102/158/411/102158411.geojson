@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.492724,58.360113,-134.492724,58.360113",
+    "geom:latitude":58.360113,
+    "geom:longitude":-134.492724,
+    "iso:country":"US",
+    "sg:address":"1936 Lemon Creek Rd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 780 4897",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3A9h1K3gyhKoKL0zU8g51U_58.360113_-134.492724@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e1c91965f42914446a058d2e59eba41b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102158411"
+        }
+    ],
+    "wof:id":"102158411",
+    "wof:lastmodified":1449069393,
+    "wof:name":"Hudson Properties LLC",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.492724,58.360113,-134.492724,58.360113],
+  "geometry": {"coordinates":[-134.492724,58.360113],"type":"Point"}
+}

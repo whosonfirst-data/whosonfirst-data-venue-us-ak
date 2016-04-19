@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.687869,55.357916,-131.687869,55.357916",
+    "geom:latitude":55.357916,
+    "geom:longitude":-131.687869,
+    "iso:country":"US",
+    "sg:address":"3520 Baranof Ave",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 5430",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nNDtYS6zYANpuQxNjjWRX_55.357916_-131.687869@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eb94e66630c40009010a0f15f16b5a31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102162371"
+        }
+    ],
+    "wof:id":"102162371",
+    "wof:lastmodified":1449069824,
+    "wof:name":"Ernie's Dental Lab",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.687869,55.357916,-131.687869,55.357916],
+  "geometry": {"coordinates":[-131.687869,55.357916],"type":"Point"}
+}

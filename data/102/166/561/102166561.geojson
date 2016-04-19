@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.730949,61.204224,-149.730949,61.204224",
+    "geom:latitude":61.204224,
+    "geom:longitude":-149.730949,
+    "iso:country":"US",
+    "sg:address":"1857 Parkway Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 2198",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wClULruOEYHkkhAuQq7SM_61.204224_-149.730949@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"49b6079ce12f288e3812fe383be924be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102166561"
+        }
+    ],
+    "wof:id":"102166561",
+    "wof:lastmodified":1449069085,
+    "wof:name":"Marks Trailers",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.730949,61.204224,-149.730949,61.204224],
+  "geometry": {"coordinates":[-149.730949,61.204224],"type":"Point"}
+}

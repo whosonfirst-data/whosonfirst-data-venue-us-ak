@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.808469,61.230158,-149.808469,61.230158",
+    "geom:latitude":61.230158,
+    "geom:longitude":-149.808469,
+    "iso:country":"US",
+    "sg:address":"832 N Bragaw St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 0067",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "finding",
+        "apartment",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7n274iYyJjnNXrlX4FT9AC_61.230158_-149.808469@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8b7a9a93d9ed00c1ed3c7cc1e632ae87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102151227"
+        }
+    ],
+    "wof:id":"102151227",
+    "wof:lastmodified":1449067779,
+    "wof:name":"Thomas Rentals",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.808469,61.230158,-149.808469,61.230158],
+  "geometry": {"coordinates":[-149.808469,61.230158],"type":"Point"}
+}

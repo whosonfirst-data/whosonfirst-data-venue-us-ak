@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.347664,61.579043,-149.347664,61.579043",
+    "geom:latitude":61.579043,
+    "geom:longitude":-149.347664,
+    "iso:country":"US",
+    "sg:address":"3735 E Ruth Dr",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 0337",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916225,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v44n4nJxmA6uKIX7H0vjs_61.579043_-149.347664@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"09edf480b28877a1d0fa2a00ebb20ea8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916225,
+            "region_id":85688573,
+            "venue_id":"102148553"
+        }
+    ],
+    "wof:id":"102148553",
+    "wof:lastmodified":1449069781,
+    "wof:name":"P Plus Contractor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.347664,61.579043,-149.347664,61.579043],
+  "geometry": {"coordinates":[-149.347664,61.579043],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.839947,61.222541,-149.839947,61.222541",
+    "geom:latitude":61.222541,
+    "geom:longitude":-149.839947,
+    "iso:country":"US",
+    "sg:address":"2021 Spar Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 278 4999",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "brewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5L58IwnB7M9SI7GFGZHIEm_61.222541_-149.839947@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2729da09420bd21edf3314f69c869a03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102178757"
+        }
+    ],
+    "wof:id":"102178757",
+    "wof:lastmodified":1449069531,
+    "wof:name":"Moose's Tooth Brewing Co",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.839947,61.222541,-149.839947,61.222541],
+  "geometry": {"coordinates":[-149.839947,61.222541],"type":"Point"}
+}

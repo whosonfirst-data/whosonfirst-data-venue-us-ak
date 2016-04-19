@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.601711,58.399899,-134.601711,58.399899",
+    "geom:latitude":58.399899,
+    "geom:longitude":-134.601711,
+    "iso:country":"US",
+    "sg:address":"4926 Wren Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 5020",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "reporting",
+        "court"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EmlO5FPNFD53Hces1Ulnm_58.399899_-134.601711@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5c39e5504cc8ef94698c4c09900c59e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102173807"
+        }
+    ],
+    "wof:id":"102173807",
+    "wof:lastmodified":1449068263,
+    "wof:name":"Professional Secretarial Svc",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.601711,58.399899,-134.601711,58.399899],
+  "geometry": {"coordinates":[-134.601711,58.399899],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.822439,61.09666,-149.822439,61.09666",
+    "geom:latitude":61.09666,
+    "geom:longitude":-149.822439,
+    "iso:country":"US",
+    "sg:address":"3321 Capstan Ct",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 242 1736",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W5KIOmut4ac9y1hN0ObQ3_61.096660_-149.822439@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"422bdd05e5db875638c9a7f95a33d134",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102191087"
+        }
+    ],
+    "wof:id":"102191087",
+    "wof:lastmodified":1449069200,
+    "wof:name":"Arcitc Construction Enterpises",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.822439,61.09666,-149.822439,61.09666],
+  "geometry": {"coordinates":[-149.822439,61.09666],"type":"Point"}
+}

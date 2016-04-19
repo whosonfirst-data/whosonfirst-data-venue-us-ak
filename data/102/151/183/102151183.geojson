@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.957542,56.813925,-132.957542,56.813925",
+    "geom:latitude":56.813925,
+    "geom:longitude":-132.957542,
+    "iso:country":"US",
+    "sg:address":"400 N Nordic Dr",
+    "sg:city":"Petersburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 772 4455",
+    "sg:postcode":"99833",
+    "sg:province":"AK",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916033,
+        85633793,
+        85688573,
+        102081899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qRXySzVh8EVXXTjdSgYQ6_56.813925_-132.957542@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1410b21bf81927c2243f29c57de0015d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081899,
+            "locality_id":85916033,
+            "region_id":85688573,
+            "venue_id":"102151183"
+        }
+    ],
+    "wof:id":"102151183",
+    "wof:lastmodified":1449067781,
+    "wof:name":"D A Coon MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.957542,56.813925,-132.957542,56.813925],
+  "geometry": {"coordinates":[-132.957542,56.813925],"type":"Point"}
+}

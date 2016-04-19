@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.905431,61.193054,-149.905431,61.193054",
+    "geom:latitude":61.193054,
+    "geom:longitude":-149.905431,
+    "iso:country":"US",
+    "sg:address":"3002 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 4888",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p647sTxkrPPJfGCw0MUFt_61.193054_-149.905431@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bdfac6b5f9362b80836570f209b1ed04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102148961"
+        }
+    ],
+    "wof:id":"102148961",
+    "wof:lastmodified":1449069787,
+    "wof:name":"Senior Automotive",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.905431,61.193054,-149.905431,61.193054],
+  "geometry": {"coordinates":[-149.905431,61.193054],"type":"Point"}
+}

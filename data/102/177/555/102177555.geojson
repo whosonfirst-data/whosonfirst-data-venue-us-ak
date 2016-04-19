@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.340026,57.053339,-135.340026,57.053339",
+    "geom:latitude":57.053339,
+    "geom:longitude":-135.340026,
+    "iso:country":"US",
+    "sg:address":"408 Marine St",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 3363",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KeZ9IBci85TW6F02gwRGf_57.053339_-135.340026@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"18a5facb24feb918476346183b66ad8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102177555"
+        }
+    ],
+    "wof:id":"102177555",
+    "wof:lastmodified":1449070208,
+    "wof:name":"Unitarian Fellowship Building",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.340026,57.053339,-135.340026,57.053339],
+  "geometry": {"coordinates":[-135.340026,57.053339],"type":"Point"}
+}

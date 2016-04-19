@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-133.151529,55.475405,-133.151529,55.475405",
+    "geom:latitude":55.475405,
+    "geom:longitude":-133.151529,
+    "iso:country":"US",
+    "sg:address":"506 3rd St",
+    "sg:city":"Craig",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 826 3257",
+    "sg:postcode":"99921",
+    "sg:province":"AK",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916099,
+        85633793,
+        85688573,
+        102081403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4osp3LI70iO8FmdynHMAQf_55.475405_-133.151529@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e4e7af63917435f0e5892c465ff3f0e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081403,
+            "locality_id":85916099,
+            "region_id":85688573,
+            "venue_id":"102188797"
+        }
+    ],
+    "wof:id":"102188797",
+    "wof:lastmodified":1449068947,
+    "wof:name":"Craig Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-133.151529,55.475405,-133.151529,55.475405],
+  "geometry": {"coordinates":[-133.151529,55.475405],"type":"Point"}
+}

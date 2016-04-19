@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.445446,60.108404,-149.445446,60.108404",
+    "geom:latitude":60.108404,
+    "geom:longitude":-149.445446,
+    "iso:country":"US",
+    "sg:address":"613 1st Ave",
+    "sg:city":"Seward",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 224 7106",
+    "sg:postcode":"99664",
+    "sg:province":"AK",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915769,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VCRlPISX8TJBk8ZeSXlTs_60.108404_-149.445446@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e47b047796f4e18692b242e72f3eff02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915769,
+            "region_id":85688573,
+            "venue_id":"102186389"
+        }
+    ],
+    "wof:id":"102186389",
+    "wof:lastmodified":1449069656,
+    "wof:name":"Storage Option",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.445446,60.108404,-149.445446,60.108404],
+  "geometry": {"coordinates":[-149.445446,60.108404],"type":"Point"}
+}

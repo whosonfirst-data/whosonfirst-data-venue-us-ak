@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.913013,61.194259,-149.913013,61.194259",
+    "geom:latitude":61.194259,
+    "geom:longitude":-149.913013,
+    "iso:country":"US",
+    "sg:address":"2839 Minnesota Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 6500",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_501SB72ihaueIlrgXBMVmp_61.194259_-149.913013@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0097e818b0df48768b860c4502fc04e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102163723"
+        }
+    ],
+    "wof:id":"102163723",
+    "wof:lastmodified":1449070165,
+    "wof:name":"Johnson's Tire Svc Inc",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.913013,61.194259,-149.913013,61.194259],
+  "geometry": {"coordinates":[-149.913013,61.194259],"type":"Point"}
+}

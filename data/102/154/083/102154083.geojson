@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.799142,61.231273,-149.799142,61.231273",
+    "geom:latitude":61.231273,
+    "geom:longitude":-149.799142,
+    "iso:country":"US",
+    "sg:address":"708 N Bunn St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 1764",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iJhPLCXlNuIbR4DCyJGwo_61.231273_-149.799142@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6583e123bac4cee5d183ca54077578a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102154083"
+        }
+    ],
+    "wof:id":"102154083",
+    "wof:lastmodified":1449070244,
+    "wof:name":"Doctor Parker Cleaning Svc",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.799142,61.231273,-149.799142,61.231273],
+  "geometry": {"coordinates":[-149.799142,61.231273],"type":"Point"}
+}

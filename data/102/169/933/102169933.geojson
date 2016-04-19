@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.684142,55.35223,-131.684142,55.35223",
+    "geom:latitude":55.35223,
+    "geom:longitude":-131.684142,
+    "iso:country":"US",
+    "sg:address":"3031 Tongass Ave",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 2148",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "forestry",
+        "conservation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13zbww8NArkiQnsfHAosU9_55.352230_-131.684142@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1295bcb8e9ec7a31521f1d0e54963f2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102169933"
+        }
+    ],
+    "wof:id":"102169933",
+    "wof:lastmodified":1449069247,
+    "wof:name":"Ketchikan Ranger District",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.684142,55.35223,-131.684142,55.35223],
+  "geometry": {"coordinates":[-131.684142,55.35223],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.698176,64.846107,-147.698176,64.846107",
+    "geom:latitude":64.846107,
+    "geom:longitude":-147.698176,
+    "iso:country":"US",
+    "sg:address":"418 3rd St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 2278",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZmdtxsoiBjhjrZhz7yca1_64.846107_-147.698176@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0cbfaf4007da6395c79ea2b5a60ed029",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102178085"
+        }
+    ],
+    "wof:id":"102178085",
+    "wof:lastmodified":1449069528,
+    "wof:name":"Baker & Baker Booksellers",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.698176,64.846107,-147.698176,64.846107],
+  "geometry": {"coordinates":[-147.698176,64.846107],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.923377,61.185275,-149.923377,61.185275",
+    "geom:latitude":61.185275,
+    "geom:longitude":-149.923377,
+    "iso:country":"US",
+    "sg:address":"3919 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 8343",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "all",
+        "terrain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Mcy5pRLMpwqmHa4t8tNPt_61.185275_-149.923377@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3ab2c57832f5bc6727575a0039577cca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102182271"
+        }
+    ],
+    "wof:id":"102182271",
+    "wof:lastmodified":1449069280,
+    "wof:name":"Anchorage Yamaha",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.923377,61.185275,-149.923377,61.185275],
+  "geometry": {"coordinates":[-149.923377,61.185275],"type":"Point"}
+}

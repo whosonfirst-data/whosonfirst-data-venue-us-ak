@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.91832,61.178207,-149.91832,61.178207",
+    "geom:latitude":61.178207,
+    "geom:longitude":-149.91832,
+    "iso:country":"US",
+    "sg:address":"1805 W 47th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 5323",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Te4CPjVqVuR2EiUlR9iBN_61.178207_-149.918320@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b5267d73713be8ea56c0cbe606f4fe5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102149673"
+        }
+    ],
+    "wof:id":"102149673",
+    "wof:lastmodified":1449067770,
+    "wof:name":"Hodgson Mechanical",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.91832,61.178207,-149.91832,61.178207],
+  "geometry": {"coordinates":[-149.91832,61.178207],"type":"Point"}
+}

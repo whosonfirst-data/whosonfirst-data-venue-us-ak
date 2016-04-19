@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.890538,59.39842,-135.890538,59.39842",
+    "geom:latitude":59.39842,
+    "geom:longitude":-135.890538,
+    "iso:country":"US",
+    "sg:address":"2 Chilkat Ave",
+    "sg:city":"Haines",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 767 5792",
+    "sg:postcode":"99827",
+    "sg:province":"AK",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85917153,
+        85633793,
+        85688573,
+        102081003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jphsMuuYAmnUavNiMBEbX_59.398420_-135.890538@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0d655e43e38e89a3025115c4117217d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081003,
+            "locality_id":85917153,
+            "region_id":85688573,
+            "venue_id":"102156833"
+        }
+    ],
+    "wof:id":"102156833",
+    "wof:lastmodified":1449068282,
+    "wof:name":"Covenant Life College",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.890538,59.39842,-135.890538,59.39842],
+  "geometry": {"coordinates":[-135.890538,59.39842],"type":"Point"}
+}

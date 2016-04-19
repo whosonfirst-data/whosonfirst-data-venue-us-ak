@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.441319,61.408711,-149.441319,61.408711",
+    "geom:latitude":61.408711,
+    "geom:longitude":-149.441319,
+    "iso:country":"US",
+    "sg:address":"20905 Eastside Dr",
+    "sg:city":"Chugiak",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 688 6677",
+    "sg:postcode":"99567",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869049,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lrLbGrxI06ItOpR3shnJi_61.408711_-149.441319@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"726d429bcdb8d085b357e0ae60920e12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869049,
+            "region_id":85688573,
+            "venue_id":"102189711"
+        }
+    ],
+    "wof:id":"102189711",
+    "wof:lastmodified":1449069499,
+    "wof:name":"St Luke's Lutheran Church",
+    "wof:parent_id":85869049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.441319,61.408711,-149.441319,61.408711],
+  "geometry": {"coordinates":[-149.441319,61.408711],"type":"Point"}
+}

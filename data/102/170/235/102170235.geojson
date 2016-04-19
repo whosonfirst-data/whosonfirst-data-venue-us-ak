@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.705754,55.361145,-131.705754,55.361145",
+    "geom:latitude":55.361145,
+    "geom:longitude":-131.705754,
+    "iso:country":"US",
+    "sg:address":"4705 N Tongass Hwy",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 4667",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "diver",
+        "supply"
+    ],
+    "sg:website":"www.alaskadeepsix.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7I8QMrkuEstcvOdRfzfg9q_55.361145_-131.705754@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d8157338083d7ba93398227836ba4299",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102170235"
+        }
+    ],
+    "wof:id":"102170235",
+    "wof:lastmodified":1449068017,
+    "wof:name":"Deep Six Dive Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.705754,55.361145,-131.705754,55.361145],
+  "geometry": {"coordinates":[-131.705754,55.361145],"type":"Point"}
+}

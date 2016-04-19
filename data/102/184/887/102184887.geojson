@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.854002,61.195297,-149.854002,61.195297",
+    "geom:latitude":61.195297,
+    "geom:longitude":-149.854002,
+    "iso:country":"US",
+    "sg:address":"1400 E Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 278 1634",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "youth",
+        "organization",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6a0Leq7LA4WWTapJC1swof_61.195297_-149.854002@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1db5b5c8d10e5f446ad31f662dd2ed03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102184887"
+        }
+    ],
+    "wof:id":"102184887",
+    "wof:lastmodified":1449068218,
+    "wof:name":"Camp Fire Alaska Council",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.854002,61.195297,-149.854002,61.195297],
+  "geometry": {"coordinates":[-149.854002,61.195297],"type":"Point"}
+}

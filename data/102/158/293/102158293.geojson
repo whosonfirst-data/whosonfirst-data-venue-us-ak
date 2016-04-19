@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.875112,61.206906,-149.875112,61.206906",
+    "geom:latitude":61.206906,
+    "geom:longitude":-149.875112,
+    "iso:country":"US",
+    "sg:address":"1599 Eagle St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 3605",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "sewing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vqsmZFu7vXQwtmSpd8nhP_61.206906_-149.875112@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"07251e656c6b82d7258a3d421235c2d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102158293"
+        }
+    ],
+    "wof:id":"102158293",
+    "wof:lastmodified":1449069393,
+    "wof:name":"Turtle Tracks",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.875112,61.206906,-149.875112,61.206906],
+  "geometry": {"coordinates":[-149.875112,61.206906],"type":"Point"}
+}

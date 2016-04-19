@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.453384,61.581568,-149.453384,61.581568",
+    "geom:latitude":61.581568,
+    "geom:longitude":-149.453384,
+    "iso:country":"US",
+    "sg:address":"161 W Parks Hwy",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 1314",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WUWVRVzbejghCz9ZC9e2n_61.581568_-149.453384@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ab0857011122690dbabb69f835d7e480",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102186489"
+        }
+    ],
+    "wof:id":"102186489",
+    "wof:lastmodified":1449069655,
+    "wof:name":"Nobody's Inn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.453384,61.581568,-149.453384,61.581568],
+  "geometry": {"coordinates":[-149.453384,61.581568],"type":"Point"}
+}

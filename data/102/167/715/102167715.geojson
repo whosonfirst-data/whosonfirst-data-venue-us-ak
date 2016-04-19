@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.641645,58.365101,-134.641645,58.365101",
+    "geom:latitude":58.365101,
+    "geom:longitude":-134.641645,
+    "iso:country":"US",
+    "sg:address":"2200 Fritz Cove Rd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 3094",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915729,
+        85633793,
+        85688573,
+        102081399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N8w0ou9OxtfSTMFIwnrG0_58.365101_-134.641645@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"988d1b9b173d0233fd6b15617ea9a295",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "region_id":85688573,
+            "venue_id":"102167715"
+        }
+    ],
+    "wof:id":"102167715",
+    "wof:lastmodified":1449069003,
+    "wof:name":"Cove House",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.641645,58.365101,-134.641645,58.365101],
+  "geometry": {"coordinates":[-134.641645,58.365101],"type":"Point"}
+}

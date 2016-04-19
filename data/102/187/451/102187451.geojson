@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.889563,61.198527,-149.889563,61.198527",
+    "geom:latitude":61.198527,
+    "geom:longitude":-149.889563,
+    "iso:country":"US",
+    "sg:address":"439 W Fireweed Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 8422",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2m6vbpx7EUV6Fur36e93iD_61.198527_-149.889563@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"09b5761361b941e3adcf66015520c9da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102187451"
+        }
+    ],
+    "wof:id":"102187451",
+    "wof:lastmodified":1449068158,
+    "wof:name":"Magic Wand Car Wash",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.889563,61.198527,-149.889563,61.198527],
+  "geometry": {"coordinates":[-149.889563,61.198527],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.415788,58.301196,-134.415788,58.301196",
+    "geom:latitude":58.301196,
+    "geom:longitude":-134.415788,
+    "iso:country":"US",
+    "sg:address":"434 W Willoughby Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 4200",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bVsnz12ATWBoRdI7jD3vV_58.301196_-134.415788@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7401e54e3eb5cccdf37384d2c76b642b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102154595"
+        }
+    ],
+    "wof:id":"102154595",
+    "wof:lastmodified":1449070247,
+    "wof:name":"Perfect Fit",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.415788,58.301196,-134.415788,58.301196],
+  "geometry": {"coordinates":[-134.415788,58.301196],"type":"Point"}
+}

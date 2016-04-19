@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.89152,61.206982,-149.89152,61.206982",
+    "geom:latitude":61.206982,
+    "geom:longitude":-149.89152,
+    "iso:country":"US",
+    "sg:address":"1510 E St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 5888",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engraving",
+        "sign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UaJAac68rftGVJtLwJI3p_61.206982_-149.891520@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d7d0ee217e3a810bee70f0cc0999272b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102172155"
+        }
+    ],
+    "wof:id":"102172155",
+    "wof:lastmodified":1449068736,
+    "wof:name":"B & F Nameplates",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.89152,61.206982,-149.89152,61.206982],
+  "geometry": {"coordinates":[-149.89152,61.206982],"type":"Point"}
+}

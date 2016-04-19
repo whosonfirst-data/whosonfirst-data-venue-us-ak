@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.897569,61.216585,-149.897569,61.216585",
+    "geom:latitude":61.216585,
+    "geom:longitude":-149.897569,
+    "iso:country":"US",
+    "sg:address":"700 W 6th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 7275",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "garage"
+    ],
+    "sg:website":"www.anchorageparking.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_153QdgLDfYZqQfCpgbWZn0_61.216585_-149.897569@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ab19681c27e90db1e46f7449effa87e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102190125"
+        }
+    ],
+    "wof:id":"102190125",
+    "wof:lastmodified":1449070037,
+    "wof:name":"Anchorage Parking Authority",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.897569,61.216585,-149.897569,61.216585],
+  "geometry": {"coordinates":[-149.897569,61.216585],"type":"Point"}
+}

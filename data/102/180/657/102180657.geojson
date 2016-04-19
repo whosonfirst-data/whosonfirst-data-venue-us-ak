@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.85705,61.160985,-149.85705,61.160985",
+    "geom:latitude":61.160985,
+    "geom:longitude":-149.85705,
+    "iso:country":"US",
+    "sg:address":"1237 E 66th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 5713",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16awOR0qPXtf87TJFaZaUA_61.160985_-149.857050@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"de99b738c33f5863c201edb876cf90ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102180657"
+        }
+    ],
+    "wof:id":"102180657",
+    "wof:lastmodified":1449067871,
+    "wof:name":"Pauls Body Shop Inc",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.85705,61.160985,-149.85705,61.160985],
+  "geometry": {"coordinates":[-149.85705,61.160985],"type":"Point"}
+}

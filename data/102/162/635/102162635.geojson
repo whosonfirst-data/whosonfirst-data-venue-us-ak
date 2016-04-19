@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.072793,60.475579,-151.072793,60.475579",
+    "geom:latitude":60.475579,
+    "geom:longitude":-151.072793,
+    "iso:country":"US",
+    "sg:address":"48895 Funny River Rd",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 2899",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5exZjfqkCgnF42ZGMnvDIV_60.475579_-151.072793@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"307246700ae5198fa72f520d0b870290",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "region_id":85688573,
+            "venue_id":"102162635"
+        }
+    ],
+    "wof:id":"102162635",
+    "wof:lastmodified":1449069822,
+    "wof:name":"Sister Shack Coffee",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.072793,60.475579,-151.072793,60.475579],
+  "geometry": {"coordinates":[-151.072793,60.475579],"type":"Point"}
+}

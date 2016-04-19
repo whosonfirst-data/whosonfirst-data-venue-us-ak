@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.418441,61.578643,-149.418441,61.578643",
+    "geom:latitude":61.578643,
+    "geom:longitude":-149.418441,
+    "iso:country":"US",
+    "sg:address":"1365 E Parks Hwy",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 3325",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5H7d1TpGMYmiY2xaFBffFE_61.578643_-149.418441@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c8b69190744347b92ae8ff5be0234ef7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102172197"
+        }
+    ],
+    "wof:id":"102172197",
+    "wof:lastmodified":1449068736,
+    "wof:name":"Personal Services Realty",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.418441,61.578643,-149.418441,61.578643],
+  "geometry": {"coordinates":[-149.418441,61.578643],"type":"Point"}
+}

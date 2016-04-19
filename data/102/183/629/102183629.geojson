@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.467467,58.328906,-134.467467,58.328906",
+    "geom:latitude":58.328906,
+    "geom:longitude":-134.467467,
+    "iso:country":"US",
+    "sg:address":"3252 Hospital Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 9433",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853509,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0khkKewGJJdvlCVVyBfh5L_58.328906_-134.467467@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d601885adfe7a471436107053e373a5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85853509,
+            "region_id":85688573,
+            "venue_id":"102183629"
+        }
+    ],
+    "wof:id":"102183629",
+    "wof:lastmodified":1449069042,
+    "wof:name":"Johnson Youth Ctr",
+    "wof:parent_id":85853509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.467467,58.328906,-134.467467,58.328906],
+  "geometry": {"coordinates":[-134.467467,58.328906],"type":"Point"}
+}

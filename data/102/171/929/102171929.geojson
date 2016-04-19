@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.755121,64.813274,-147.755121,64.813274",
+    "geom:latitude":64.813274,
+    "geom:longitude":-147.755121,
+    "iso:country":"US",
+    "sg:address":"3519 Industrial Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 458 8912",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6C2IkpCu4HLqCYLxx5eRyZ_64.813274_-147.755121@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9722173d1d52aec31b50e4df082966c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102171929"
+        }
+    ],
+    "wof:id":"102171929",
+    "wof:lastmodified":1449070223,
+    "wof:name":"Apria Healthcare",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.755121,64.813274,-147.755121,64.813274],
+  "geometry": {"coordinates":[-147.755121,64.813274],"type":"Point"}
+}

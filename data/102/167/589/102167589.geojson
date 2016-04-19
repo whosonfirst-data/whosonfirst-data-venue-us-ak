@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.823577,61.214033,-149.823577,61.214033",
+    "geom:latitude":61.214033,
+    "geom:longitude":-149.823577,
+    "iso:country":"US",
+    "sg:address":"801 Airport Heights Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 278 2927",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5By4wXkkzKmRHApMXJjGyS_61.214033_-149.823577@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"48ef835b645637ab777d547a925e47e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102167589"
+        }
+    ],
+    "wof:id":"102167589",
+    "wof:lastmodified":1449069001,
+    "wof:name":"Kaiser Locksmith",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.823577,61.214033,-149.823577,61.214033],
+  "geometry": {"coordinates":[-149.823577,61.214033],"type":"Point"}
+}

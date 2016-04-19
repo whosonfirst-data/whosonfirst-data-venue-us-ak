@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.881588,61.166388,-149.881588,61.166388",
+    "geom:latitude":61.166388,
+    "geom:longitude":-149.881588,
+    "iso:country":"US",
+    "sg:address":"6161 A St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 4567",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mlmGWKkjBzAQXNqUMnOkc_61.166388_-149.881588@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2842136d62cd95de7d64660ca46a486f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102186635"
+        }
+    ],
+    "wof:id":"102186635",
+    "wof:lastmodified":1449069653,
+    "wof:name":"First Alaska Contractors Inc",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.881588,61.166388,-149.881588,61.166388],
+  "geometry": {"coordinates":[-149.881588,61.166388],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.709882,64.844147,-147.709882,64.844147",
+    "geom:latitude":64.844147,
+    "geom:longitude":-147.709882,
+    "iso:country":"US",
+    "sg:address":"117 1st Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 459 3924",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bP36fvFevbc0jNbbOLt27_64.844147_-147.709882@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2beef20ad14ac9a4043e2014a661f429",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102165971"
+        }
+    ],
+    "wof:id":"102165971",
+    "wof:lastmodified":1449070214,
+    "wof:name":"Tanana Chiefs Conference Child",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.709882,64.844147,-147.709882,64.844147],
+  "geometry": {"coordinates":[-147.709882,64.844147],"type":"Point"}
+}

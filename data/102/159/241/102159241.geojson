@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.947031,61.137402,-149.947031,61.137402",
+    "geom:latitude":61.137402,
+    "geom:longitude":-149.947031,
+    "iso:country":"US",
+    "sg:address":"3550 W Dimond Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 2145",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L8C8uipHcngTUEuGQH0Bw_61.137402_-149.947031@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6a573794ac3875f919754e094870a3da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102159241"
+        }
+    ],
+    "wof:id":"102159241",
+    "wof:lastmodified":1449068095,
+    "wof:name":"Southside Lawn & Landscaping",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.947031,61.137402,-149.947031,61.137402],
+  "geometry": {"coordinates":[-149.947031,61.137402],"type":"Point"}
+}

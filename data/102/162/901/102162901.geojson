@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.440435,60.101631,-149.440435,60.101631",
+    "geom:latitude":60.101631,
+    "geom:longitude":-149.440435,
+    "iso:country":"US",
+    "sg:address":"234 4th Ave",
+    "sg:city":"Seward",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 224 4073",
+    "sg:postcode":"99664",
+    "sg:province":"AK",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915769,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a7bfzI6PkHjQIHSOU6C9s_60.101631_-149.440435@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3bba1d8d42920d7b880f07968670ad23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915769,
+            "region_id":85688573,
+            "venue_id":"102162901"
+        }
+    ],
+    "wof:id":"102162901",
+    "wof:lastmodified":1449069821,
+    "wof:name":"Seward Electric Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.440435,60.101631,-149.440435,60.101631],
+  "geometry": {"coordinates":[-149.440435,60.101631],"type":"Point"}
+}

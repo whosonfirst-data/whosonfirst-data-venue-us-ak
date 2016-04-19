@@ -1,0 +1,66 @@
+{
+  "id": "102152023",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.870331,61.195283,-149.870331,61.195283",
+    "geom:latitude":61.195283,
+    "geom:longitude":-149.870331,
+    "iso:country":"US",
+    "sg:address":"600 E Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 3668",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85915707,
+        102085881,
+        85873723
+    ],
+    "wof:brand_id":420574425,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44ZUg8UaWy3fgKr4t3XwQu_61.195283_-149.870331@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"00b94b7782e1b463456a15a5adeeb6fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102152023"
+        }
+    ],
+    "wof:id":"102152023",
+    "wof:lastmodified":1457208881,
+    "wof:name":"Famous Footwear",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.870331,
+    61.195283,
+    -149.870331,
+    61.195283
+],
+  "geometry": {"coordinates":[-149.87033099999999,61.195283],"type":"Point"}
+}

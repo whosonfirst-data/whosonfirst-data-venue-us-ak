@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.131603,61.596295,-149.131603,61.596295",
+    "geom:latitude":61.596295,
+    "geom:longitude":-149.131603,
+    "iso:country":"US",
+    "sg:address":"855 W Fern Ave",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 746 2005",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915577,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WcUBjYLjoOSOmRDMYnr6Q_61.596295_-149.131603@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bc9553bcea76a5cbda802355b13a509c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915577,
+            "region_id":85688573,
+            "venue_id":"102158895"
+        }
+    ],
+    "wof:id":"102158895",
+    "wof:lastmodified":1449069392,
+    "wof:name":"Hunter Creek Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.131603,61.596295,-149.131603,61.596295],
+  "geometry": {"coordinates":[-149.131603,61.596295],"type":"Point"}
+}

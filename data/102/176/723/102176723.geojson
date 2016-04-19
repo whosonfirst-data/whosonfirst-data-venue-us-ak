@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.888713,61.189804,-149.888713,61.189804",
+    "geom:latitude":61.189804,
+    "geom:longitude":-149.888713,
+    "iso:country":"US",
+    "sg:address":"3324 Eide St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 0263",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "hostel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZrVNn4R6xTYGWS47iKJht_61.189804_-149.888713@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e43dc23fb8cead9d952c77065b27fac4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102176723"
+        }
+    ],
+    "wof:id":"102176723",
+    "wof:lastmodified":1449069347,
+    "wof:name":"Jason's International Hostel",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.888713,61.189804,-149.888713,61.189804],
+  "geometry": {"coordinates":[-149.888713,61.189804],"type":"Point"}
+}

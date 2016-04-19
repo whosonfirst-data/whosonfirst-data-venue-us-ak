@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.935356,61.191427,-149.935356,61.191427",
+    "geom:latitude":61.191427,
+    "geom:longitude":-149.935356,
+    "iso:country":"US",
+    "sg:address":"3200 Turnagain St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 5673",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PvSDy2Sb431Wlhk0kC5sq_61.191427_-149.935356@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3dbdcc4ad6743a620385f9cb4e2b9b24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102174749"
+        }
+    ],
+    "wof:id":"102174749",
+    "wof:lastmodified":1449068137,
+    "wof:name":"Rick's House Of Prayer",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.935356,61.191427,-149.935356,61.191427],
+  "geometry": {"coordinates":[-149.935356,61.191427],"type":"Point"}
+}

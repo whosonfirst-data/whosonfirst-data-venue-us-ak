@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.804914,61.224024,-149.804914,61.224024",
+    "geom:latitude":61.224024,
+    "geom:longitude":-149.804914,
+    "iso:country":"US",
+    "sg:address":"4015 Mountain View Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 1243",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "video",
+        "disc",
+        "tape",
+        "cassette"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MnrOVjFz9OlQ4IeCPEi5E_61.224024_-149.804914@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eb8fc3bbba4b1e5c33e54f9982a68e5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102154513"
+        }
+    ],
+    "wof:id":"102154513",
+    "wof:lastmodified":1449070244,
+    "wof:name":"Video City",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.804914,61.224024,-149.804914,61.224024],
+  "geometry": {"coordinates":[-149.804914,61.224024],"type":"Point"}
+}

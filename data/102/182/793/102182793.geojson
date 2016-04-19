@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.825903,61.141982,-149.825903,61.141982",
+    "geom:latitude":61.141982,
+    "geom:longitude":-149.825903,
+    "iso:country":"US",
+    "sg:address":"3121 Roseland Loop",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 6443",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bEnp1C7fYkcMAdnwokh7Q_61.141982_-149.825903@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e707cba81b4a40d518b95466fa56268a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102182793"
+        }
+    ],
+    "wof:id":"102182793",
+    "wof:lastmodified":1449069281,
+    "wof:name":"Magic Painting & Taping Inc",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.825903,61.141982,-149.825903,61.141982],
+  "geometry": {"coordinates":[-149.825903,61.141982],"type":"Point"}
+}

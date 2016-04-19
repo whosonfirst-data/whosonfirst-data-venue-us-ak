@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.737784,61.22611,-149.737784,61.22611",
+    "geom:latitude":61.22611,
+    "geom:longitude":-149.737784,
+    "iso:country":"US",
+    "sg:address":"7505 Glenn Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 770 6622",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6APkkxSFVAhC0m3XkpuMVZ_61.226110_-149.737784@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a470ecd2a067f1d60cae5f41d34acb87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102168145"
+        }
+    ],
+    "wof:id":"102168145",
+    "wof:lastmodified":1449069007,
+    "wof:name":"Mighty Movers",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.737784,61.22611,-149.737784,61.22611],
+  "geometry": {"coordinates":[-149.737784,61.22611],"type":"Point"}
+}

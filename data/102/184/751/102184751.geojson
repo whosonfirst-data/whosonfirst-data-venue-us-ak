@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.515434,61.394224,-149.515434,61.394224",
+    "geom:latitude":61.394224,
+    "geom:longitude":-149.515434,
+    "iso:country":"US",
+    "sg:address":"19437 Inlet View Dr",
+    "sg:city":"Chugiak",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 688 8934",
+    "sg:postcode":"99567",
+    "sg:province":"AK",
+    "sg:tags":[
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806187,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MNv645RB9Nun9uGQLHagz_61.394224_-149.515434@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"06a57ef2189bec864e9c2eaf99891cc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85806187,
+            "region_id":85688573,
+            "venue_id":"102184751"
+        }
+    ],
+    "wof:id":"102184751",
+    "wof:lastmodified":1449068216,
+    "wof:name":"G M Co",
+    "wof:parent_id":85806187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.515434,61.394224,-149.515434,61.394224],
+  "geometry": {"coordinates":[-149.515434,61.394224],"type":"Point"}
+}

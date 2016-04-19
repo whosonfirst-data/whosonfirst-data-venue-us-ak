@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.521443,59.650055,-151.521443,59.650055",
+    "geom:latitude":59.650055,
+    "geom:longitude":-151.521443,
+    "iso:country":"US",
+    "sg:address":"770 East Rd",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 1968",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "action",
+        "agency",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4orfAJES3HI23Yf2vroIGw_59.650055_-151.521443@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a05afbdc6f336f5b56c47a02b1fd9584",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102174043"
+        }
+    ],
+    "wof:id":"102174043",
+    "wof:lastmodified":1449068141,
+    "wof:name":"Homer Community Food Pantry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.521443,59.650055,-151.521443,59.650055],
+  "geometry": {"coordinates":[-151.521443,59.650055],"type":"Point"}
+}

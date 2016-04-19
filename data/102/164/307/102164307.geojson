@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.810327,61.200427,-149.810327,61.200427",
+    "geom:latitude":61.200427,
+    "geom:longitude":-149.810327,
+    "iso:country":"US",
+    "sg:address":"3745 Community Park Loop",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 3551",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "youth",
+        "organization",
+        "center"
+    ],
+    "sg:website":"www.campfireak.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sFnWYCk4Xh4jdAB2Hpmav_61.200427_-149.810327@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"93e07deaaf1560a74c5ba4a636f2c11c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102164307"
+        }
+    ],
+    "wof:id":"102164307",
+    "wof:lastmodified":1449068090,
+    "wof:name":"Camp Fire Boys & Girls Alaska",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.810327,61.200427,-149.810327,61.200427],
+  "geometry": {"coordinates":[-149.810327,61.200427],"type":"Point"}
+}

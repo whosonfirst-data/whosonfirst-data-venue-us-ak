@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-133.140344,55.47747,-133.140344,55.47747",
+    "geom:latitude":55.47747,
+    "geom:longitude":-133.140344,
+    "iso:country":"US",
+    "sg:address":"300 Cold Storage Rd",
+    "sg:city":"Craig",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 826 5690",
+    "sg:postcode":"99921",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916099,
+        85633793,
+        85688573,
+        102081403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0o2NzCiNu8j7WXN1qAN7vG_55.477470_-133.140344@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4fde4fed085dac6bd911883039acac3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081403,
+            "locality_id":85916099,
+            "region_id":85688573,
+            "venue_id":"102175657"
+        }
+    ],
+    "wof:id":"102175657",
+    "wof:lastmodified":1449069465,
+    "wof:name":"USDA-Nrcs",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-133.140344,55.47747,-133.140344,55.47747],
+  "geometry": {"coordinates":[-133.140344,55.47747],"type":"Point"}
+}

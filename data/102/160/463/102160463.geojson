@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.819994,61.206031,-149.819994,61.206031",
+    "geom:latitude":61.206031,
+    "geom:longitude":-149.819994,
+    "iso:country":"US",
+    "sg:address":"3224 E 16th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 3006",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "clocks",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WqeqkAmq1k1GKG19S84xP_61.206031_-149.819994@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a266db94f714cd72f24fb27da398330a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102160463"
+        }
+    ],
+    "wof:id":"102160463",
+    "wof:lastmodified":1449069777,
+    "wof:name":"Tic Toc Doc",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.819994,61.206031,-149.819994,61.206031],
+  "geometry": {"coordinates":[-149.819994,61.206031],"type":"Point"}
+}

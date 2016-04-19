@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.301533,57.046576,-135.301533,57.046576",
+    "geom:latitude":57.046576,
+    "geom:longitude":-135.301533,
+    "iso:country":"US",
+    "sg:address":"1517 Sawmill Creek Rd",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 8647",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mover"
+    ],
+    "sg:website":"www.arrowheadtransfer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916107,
+        85633793,
+        85688573,
+        102081405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5soO96tIdh3MI5yOnmwr9U_57.046576_-135.301533@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c69598c4912e93697128989a02296db5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "region_id":85688573,
+            "venue_id":"102187941"
+        }
+    ],
+    "wof:id":"102187941",
+    "wof:lastmodified":1449068158,
+    "wof:name":"Arrowhead Transfer",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.301533,57.046576,-135.301533,57.046576],
+  "geometry": {"coordinates":[-135.301533,57.046576],"type":"Point"}
+}

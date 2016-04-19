@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.5141,59.63818,-151.5141,59.63818",
+    "geom:latitude":59.63818,
+    "geom:longitude":-151.5141,
+    "iso:country":"US",
+    "sg:address":"1180 Ocean Dr",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 1999",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gFM7JlptDlB34XwYGtoBU_59.638180_-151.514100@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"751b7b2eefa973eca717fbb322d461fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102156001"
+        }
+    ],
+    "wof:id":"102156001",
+    "wof:lastmodified":1449068282,
+    "wof:name":"Scruggs Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.5141,59.63818,-151.5141,59.63818],
+  "geometry": {"coordinates":[-151.5141,59.63818],"type":"Point"}
+}

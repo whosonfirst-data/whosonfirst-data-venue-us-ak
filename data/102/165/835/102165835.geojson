@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.739315,64.830497,-147.739315,64.830497",
+    "geom:latitude":64.830497,
+    "geom:longitude":-147.739315,
+    "iso:country":"US",
+    "sg:address":"1510 19th Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 458 5100",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915635,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_171l1JgvOqvhSHNQBLNzqP_64.830497_-147.739315@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f77c4520877e2bdbccbdf966020ff826",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "region_id":85688573,
+            "venue_id":"102165835"
+        }
+    ],
+    "wof:id":"102165835",
+    "wof:lastmodified":1449070213,
+    "wof:name":"Denali Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.739315,64.830497,-147.739315,64.830497],
+  "geometry": {"coordinates":[-147.739315,64.830497],"type":"Point"}
+}

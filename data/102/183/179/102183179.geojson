@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.745427,64.961604,-147.745427,64.961604",
+    "geom:latitude":64.961604,
+    "geom:longitude":-147.745427,
+    "iso:country":"US",
+    "sg:address":"2286 Waterford Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 455 9023",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "exploration",
+        "mineral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916569,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jHLG5onA4NsxfJdse00kl_64.961604_-147.745427@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4b8948a431eda2715ca6ecde51167bb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916569,
+            "region_id":85688573,
+            "venue_id":"102183179"
+        }
+    ],
+    "wof:id":"102183179",
+    "wof:lastmodified":1449069042,
+    "wof:name":"Interior Exploration Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.745427,64.961604,-147.745427,64.961604],
+  "geometry": {"coordinates":[-147.745427,64.961604],"type":"Point"}
+}

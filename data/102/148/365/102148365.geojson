@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.551149,61.315411,-149.551149,61.315411",
+    "geom:latitude":61.315411,
+    "geom:longitude":-149.551149,
+    "iso:country":"US",
+    "sg:address":"17757 Chilkat Ct",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 694 6356",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TJAs8mOX6rGNLgyc8osTe_61.315411_-149.551149@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"243181e265b8e952158b2dc0dcb8d758",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102148365"
+        }
+    ],
+    "wof:id":"102148365",
+    "wof:lastmodified":1449069784,
+    "wof:name":"Sunshine Generation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.551149,61.315411,-149.551149,61.315411],
+  "geometry": {"coordinates":[-149.551149,61.315411],"type":"Point"}
+}

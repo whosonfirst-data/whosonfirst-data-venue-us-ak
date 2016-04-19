@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.709707,64.852125,-147.709707,64.852125",
+    "geom:latitude":64.852125,
+    "geom:longitude":-147.709707,
+    "iso:country":"US",
+    "sg:address":"69 College Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 8600",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vctAW0oCxEq9I0qvQAgEG_64.852125_-147.709707@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fe5970592220c9d5d79465435b6646c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102159785"
+        }
+    ],
+    "wof:id":"102159785",
+    "wof:lastmodified":1449068094,
+    "wof:name":"Bakery Restaurant",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.709707,64.852125,-147.709707,64.852125],
+  "geometry": {"coordinates":[-147.709707,64.852125],"type":"Point"}
+}

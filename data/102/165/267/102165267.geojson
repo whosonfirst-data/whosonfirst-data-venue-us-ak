@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.906261,61.158646,-149.906261,61.158646",
+    "geom:latitude":61.158646,
+    "geom:longitude":-149.906261,
+    "iso:country":"US",
+    "sg:address":"6900 Chad St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 336 8658",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49Gftj6UdXrIlqgXq74pLo_61.158646_-149.906261@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"77723e4442bca0b8543edd460d4e9829",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102165267"
+        }
+    ],
+    "wof:id":"102165267",
+    "wof:lastmodified":1449070218,
+    "wof:name":"Haylor Electric",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.906261,61.158646,-149.906261,61.158646],
+  "geometry": {"coordinates":[-149.906261,61.158646],"type":"Point"}
+}

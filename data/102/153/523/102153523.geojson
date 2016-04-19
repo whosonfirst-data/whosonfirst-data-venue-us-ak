@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.683021,64.81647,-147.683021,64.81647",
+    "geom:latitude":64.81647,
+    "geom:longitude":-147.683021,
+    "iso:country":"US",
+    "sg:address":"707 Williams Gate Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 9754",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kESvVbGizuf4hNpMQQT2C_64.816470_-147.683021@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"265f2db489585c5228ac9cc8d6df51b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102153523"
+        }
+    ],
+    "wof:id":"102153523",
+    "wof:lastmodified":1449069463,
+    "wof:name":"T S Construction",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.683021,64.81647,-147.683021,64.81647],
+  "geometry": {"coordinates":[-147.683021,64.81647],"type":"Point"}
+}

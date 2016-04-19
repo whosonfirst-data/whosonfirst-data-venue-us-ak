@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.343765,61.584973,-149.343765,61.584973",
+    "geom:latitude":61.584973,
+    "geom:longitude":-149.343765,
+    "iso:country":"US",
+    "sg:address":"4200 Snider Dr",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 2666",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916225,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_632yLN3d11TYYvjKZzVskN_61.584973_-149.343765@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"697ee9ef910ba0ffbbedab5fa02064df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916225,
+            "region_id":85688573,
+            "venue_id":"102180019"
+        }
+    ],
+    "wof:id":"102180019",
+    "wof:lastmodified":1449067877,
+    "wof:name":"Comtronics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.343765,61.584973,-149.343765,61.584973],
+  "geometry": {"coordinates":[-149.343765,61.584973],"type":"Point"}
+}

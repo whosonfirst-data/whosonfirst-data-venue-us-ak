@@ -1,0 +1,68 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.43864,61.583019,-149.43864,61.583019",
+    "geom:latitude":61.583019,
+    "geom:longitude":-149.43864,
+    "iso:country":"US",
+    "sg:address":"500 E Swanson Ave",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 1660",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "confectionery",
+        "gr",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22m3EnVnY0oj9BUuqNr6XA_61.583019_-149.438640@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"33b8996f0c63525992c05a584dd1e3ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102152307"
+        }
+    ],
+    "wof:id":"102152307",
+    "wof:lastmodified":1449069633,
+    "wof:name":"Great Alaska Chocolate Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.43864,61.583019,-149.43864,61.583019],
+  "geometry": {"coordinates":[-149.43864,61.583019],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.438586,59.608072,-151.438586,59.608072",
+    "geom:latitude":59.608072,
+    "geom:longitude":-151.438586,
+    "iso:country":"US",
+    "sg:address":"4350 Homer Spit Rd",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 3160",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rn1rAlg6XYRORcF2Ak5or_59.608072_-151.438586@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"992316ef84566eda934a038b7288132b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102170357"
+        }
+    ],
+    "wof:id":"102170357",
+    "wof:lastmodified":1449068019,
+    "wof:name":"City Of Homer Port & Harbor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.438586,59.608072,-151.438586,59.608072],
+  "geometry": {"coordinates":[-151.438586,59.608072],"type":"Point"}
+}

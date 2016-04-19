@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.965167,61.158497,-149.965167,61.158497",
+    "geom:latitude":61.158497,
+    "geom:longitude":-149.965167,
+    "iso:country":"US",
+    "sg:address":"7140 Tall Spruce Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 0055",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jKq0bVQUEodkWUgzCiTk2_61.158497_-149.965167@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3e4ae8e13916a7e2bcfc760b06caa2ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102171977"
+        }
+    ],
+    "wof:id":"102171977",
+    "wof:lastmodified":1449070227,
+    "wof:name":"Miller Siding",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.965167,61.158497,-149.965167,61.158497],
+  "geometry": {"coordinates":[-149.965167,61.158497],"type":"Point"}
+}

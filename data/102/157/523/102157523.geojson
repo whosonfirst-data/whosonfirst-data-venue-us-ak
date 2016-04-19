@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.805441,64.857918,-147.805441,64.857918",
+    "geom:latitude":64.857918,
+    "geom:longitude":-147.805441,
+    "iso:country":"US",
+    "sg:address":"1540 Hayes Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 4242",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "athletic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JHp3mrP8FUpCXaZS5eA9l_64.857918_-147.805441@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ea2bc45eaae0996805adb96581a3b89d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102157523"
+        }
+    ],
+    "wof:id":"102157523",
+    "wof:lastmodified":1449069832,
+    "wof:name":"Nordic Ski Club Of Fairbanks",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.805441,64.857918,-147.805441,64.857918],
+  "geometry": {"coordinates":[-147.805441,64.857918],"type":"Point"}
+}

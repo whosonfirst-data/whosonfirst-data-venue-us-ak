@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.38898,56.475329,-132.38898,56.475329",
+    "geom:latitude":56.475329,
+    "geom:longitude":-132.38898,
+    "iso:country":"US",
+    "sg:address":"306 Cassiar St",
+    "sg:city":"Wrangell",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 874 3165",
+    "sg:postcode":"99929",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916111,
+        85633793,
+        85688573,
+        102081901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_173dJUtC6eLVErlgn10liY_56.475329_-132.388980@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bbe671eb930a7bc4e2046ca1cb649467",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081901,
+            "locality_id":85916111,
+            "region_id":85688573,
+            "venue_id":"102153623"
+        }
+    ],
+    "wof:id":"102153623",
+    "wof:lastmodified":1449069462,
+    "wof:name":"Hillside House",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.38898,56.475329,-132.38898,56.475329],
+  "geometry": {"coordinates":[-132.38898,56.475329],"type":"Point"}
+}

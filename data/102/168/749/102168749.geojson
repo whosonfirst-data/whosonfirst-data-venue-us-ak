@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.899535,61.210074,-149.899535,61.210074",
+    "geom:latitude":61.210074,
+    "geom:longitude":-149.899535,
+    "iso:country":"US",
+    "sg:address":"1239 I St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 1239",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "sg:website":"www.alaska-wildflower-inn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873721,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jF34nI3bB4x6WhZdB1ieX_61.210074_-149.899535@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"82c4281e62c5739f36e9d361d7dd202a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873721,
+            "region_id":85688573,
+            "venue_id":"102168749"
+        }
+    ],
+    "wof:id":"102168749",
+    "wof:lastmodified":1449069006,
+    "wof:name":"A Wildflower Inn",
+    "wof:parent_id":85873721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.899535,61.210074,-149.899535,61.210074],
+  "geometry": {"coordinates":[-149.899535,61.210074],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.843954,61.137775,-149.843954,61.137775",
+    "geom:latitude":61.137775,
+    "geom:longitude":-149.843954,
+    "iso:country":"US",
+    "sg:address":"2020 Abbott Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 3565",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QDSg9OCtDfJqrgnMsYt8Q_61.137775_-149.843954@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7861ee01c27d5e594948a8194907ddc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102173115"
+        }
+    ],
+    "wof:id":"102173115",
+    "wof:lastmodified":1449068263,
+    "wof:name":"Ron J Webb",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.843954,61.137775,-149.843954,61.137775],
+  "geometry": {"coordinates":[-149.843954,61.137775],"type":"Point"}
+}

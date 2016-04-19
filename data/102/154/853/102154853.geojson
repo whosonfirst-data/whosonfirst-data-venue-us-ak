@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.702901,64.847162,-147.702901,64.847162",
+    "geom:latitude":64.847162,
+    "geom:longitude":-147.702901,
+    "iso:country":"US",
+    "sg:address":"229 Forty Mile Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 5687",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZvXUKLlDiXsNFWri2GxIM_64.847162_-147.702901@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"640ea60de1b063cb445e5c6d1c58708b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102154853"
+        }
+    ],
+    "wof:id":"102154853",
+    "wof:lastmodified":1449070243,
+    "wof:name":"Aurora Parking Inc",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.702901,64.847162,-147.702901,64.847162],
+  "geometry": {"coordinates":[-147.702901,64.847162],"type":"Point"}
+}

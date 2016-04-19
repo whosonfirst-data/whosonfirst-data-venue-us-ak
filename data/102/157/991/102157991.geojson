@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.495197,58.344442,-134.495197,58.344442",
+    "geom:latitude":58.344442,
+    "geom:longitude":-134.495197,
+    "iso:country":"US",
+    "sg:address":"4675 Glacier Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 780 6422",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853509,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FjccCiYGtXZBgg7MfdKvt_58.344442_-134.495197@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ded0e1939ff39ed958602c974aa8cecb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85853509,
+            "region_id":85688573,
+            "venue_id":"102157991"
+        }
+    ],
+    "wof:id":"102157991",
+    "wof:lastmodified":1449069832,
+    "wof:name":"Juneau Pioneers Home",
+    "wof:parent_id":85853509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.495197,58.344442,-134.495197,58.344442],
+  "geometry": {"coordinates":[-134.495197,58.344442],"type":"Point"}
+}

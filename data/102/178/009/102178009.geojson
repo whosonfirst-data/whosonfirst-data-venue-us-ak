@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.927834,61.182389,-149.927834,61.182389",
+    "geom:latitude":61.182389,
+    "geom:longitude":-149.927834,
+    "iso:country":"US",
+    "sg:address":"2301 Jefferson Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 242 4213",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "snow",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oR3R6Qa9TNmyBtWEX0gKw_61.182389_-149.927834@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a5ee66e52606d714cffd0d40bcd2ad13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102178009"
+        }
+    ],
+    "wof:id":"102178009",
+    "wof:lastmodified":1449069535,
+    "wof:name":"Kellum Enterprises",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.927834,61.182389,-149.927834,61.182389],
+  "geometry": {"coordinates":[-149.927834,61.182389],"type":"Point"}
+}

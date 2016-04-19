@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.804199,61.086225,-149.804199,61.086225",
+    "geom:latitude":61.086225,
+    "geom:longitude":-149.804199,
+    "iso:country":"US",
+    "sg:address":"14820 Elmore Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 696 6360",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "billing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873751,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sp4wFP8bhuI8wBseUCsfi_61.086225_-149.804199@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7dba82e87d7674304ff301b098b84dc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873751,
+            "region_id":85688573,
+            "venue_id":"102194093"
+        }
+    ],
+    "wof:id":"102194093",
+    "wof:lastmodified":1449069824,
+    "wof:name":"Provider Services Of Alaska",
+    "wof:parent_id":85873751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.804199,61.086225,-149.804199,61.086225],
+  "geometry": {"coordinates":[-149.804199,61.086225],"type":"Point"}
+}

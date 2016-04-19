@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.718541,64.858781,-147.718541,64.858781",
+    "geom:latitude":64.858781,
+    "geom:longitude":-147.718541,
+    "iso:country":"US",
+    "sg:address":"504 College Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 7398",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830247,
+        85633793,
+        85916559,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3x1VQFyBz8nly1VekyECvV_64.858781_-147.718541@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cad833173d7d8988e76db1af685dde69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "neighbourhood_id":85830247,
+            "region_id":85688573,
+            "venue_id":"102188047"
+        }
+    ],
+    "wof:id":"102188047",
+    "wof:lastmodified":1449068947,
+    "wof:name":"Geotech Alaska",
+    "wof:parent_id":85830247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.718541,64.858781,-147.718541,64.858781],
+  "geometry": {"coordinates":[-147.718541,64.858781],"type":"Point"}
+}

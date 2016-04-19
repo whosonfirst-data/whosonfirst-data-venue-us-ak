@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.339203,57.049573,-135.339203,57.049573",
+    "geom:latitude":57.049573,
+    "geom:longitude":-135.339203,
+    "iso:country":"US",
+    "sg:address":"130 Lincoln St",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 3334",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HyItqLUZ0lhFmwEcnnure_57.049573_-135.339203@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"737a9a85c43325542996620bc56c6e6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102172555"
+        }
+    ],
+    "wof:id":"102172555",
+    "wof:lastmodified":1449068736,
+    "wof:name":"Ernie's Old Time Saloon",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.339203,57.049573,-135.339203,57.049573],
+  "geometry": {"coordinates":[-135.339203,57.049573],"type":"Point"}
+}

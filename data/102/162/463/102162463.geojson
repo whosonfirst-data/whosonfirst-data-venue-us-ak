@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.695138,64.850424,-147.695138,64.850424",
+    "geom:latitude":64.850424,
+    "geom:longitude":-147.695138,
+    "iso:country":"US",
+    "sg:address":"623 Old Steese Hwy",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 1123",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SIFBvQrHcfqTZkZ1DMHSr_64.850424_-147.695138@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"55c9e517dc56de4aa8ab845ec4e2ad53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102162463"
+        }
+    ],
+    "wof:id":"102162463",
+    "wof:lastmodified":1449069822,
+    "wof:name":"Arctic Bar",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.695138,64.850424,-147.695138,64.850424],
+  "geometry": {"coordinates":[-147.695138,64.850424],"type":"Point"}
+}

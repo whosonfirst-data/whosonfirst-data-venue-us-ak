@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.710495,64.845298,-147.710495,64.845298",
+    "geom:latitude":64.845298,
+    "geom:longitude":-147.710495,
+    "iso:country":"US",
+    "sg:address":"208 Wendell Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 5789",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "counseling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TJwA4VGueOdysfX4Kzmmj_64.845298_-147.710495@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b77af83a3a3fcddad85e2df1e846ca19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102148617"
+        }
+    ],
+    "wof:id":"102148617",
+    "wof:lastmodified":1449069780,
+    "wof:name":"Northern Door Clubhouse",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.710495,64.845298,-147.710495,64.845298],
+  "geometry": {"coordinates":[-147.710495,64.845298],"type":"Point"}
+}

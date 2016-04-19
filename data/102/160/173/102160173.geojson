@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.780251,64.832444,-147.780251,64.832444",
+    "geom:latitude":64.832444,
+    "geom:longitude":-147.780251,
+    "iso:country":"US",
+    "sg:address":"2636 18th Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 0041",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0r64EjQWSRrjAYUtIDeabK_64.832444_-147.780251@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"797f9dc7e530fb1341d3585350854668",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102160173"
+        }
+    ],
+    "wof:id":"102160173",
+    "wof:lastmodified":1449069775,
+    "wof:name":"Peger Auto Body",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.780251,64.832444,-147.780251,64.832444],
+  "geometry": {"coordinates":[-147.780251,64.832444],"type":"Point"}
+}

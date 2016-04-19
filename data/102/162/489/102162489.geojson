@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.842011,61.101619,-149.842011,61.101619",
+    "geom:latitude":61.101619,
+    "geom:longitude":-149.842011,
+    "iso:country":"US",
+    "sg:address":"13111 Brayton Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 4338",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6449uYXegcwvW4zbn9GeT9_61.101619_-149.842011@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"46717782cf06b18beb2705a65cab1981",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102162489"
+        }
+    ],
+    "wof:id":"102162489",
+    "wof:lastmodified":1449069821,
+    "wof:name":"Church Of Jesus Christ Of Lds",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.842011,61.101619,-149.842011,61.101619],
+  "geometry": {"coordinates":[-149.842011,61.101619],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.329244,61.662286,-149.329244,61.662286",
+    "geom:latitude":61.662286,
+    "geom:longitude":-149.329244,
+    "iso:country":"US",
+    "sg:address":"968 Welch Rd",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 7808",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "stove",
+        "wood",
+        "burning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916261,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cTTCsVAssrp4BnnXjWiSY_61.662286_-149.329244@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ece1edb988220e7843c058a05b9828f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916261,
+            "region_id":85688573,
+            "venue_id":"102155659"
+        }
+    ],
+    "wof:id":"102155659",
+    "wof:lastmodified":1449069742,
+    "wof:name":"Northwind Stoves",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.329244,61.662286,-149.329244,61.662286],
+  "geometry": {"coordinates":[-149.329244,61.662286],"type":"Point"}
+}

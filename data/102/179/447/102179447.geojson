@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.69668,64.840705,-147.69668,64.840705",
+    "geom:latitude":64.840705,
+    "geom:longitude":-147.69668,
+    "iso:country":"US",
+    "sg:address":"229 Bentley Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 4373",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Wm7N8olzGwq6hISInlp2D_64.840705_-147.696680@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"355119e692dc2eca51a05994aff9be32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102179447"
+        }
+    ],
+    "wof:id":"102179447",
+    "wof:lastmodified":1449069942,
+    "wof:name":"Song's Building Maintenance",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.69668,64.840705,-147.69668,64.840705],
+  "geometry": {"coordinates":[-147.69668,64.840705],"type":"Point"}
+}

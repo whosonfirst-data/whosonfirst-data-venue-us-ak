@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.934311,61.177219,-149.934311,61.177219",
+    "geom:latitude":61.177219,
+    "geom:longitude":-149.934311,
+    "iso:country":"US",
+    "sg:address":"2701 Aspen Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 6609",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78mzIijksUhkmReEvRu0eC_61.177219_-149.934311@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fc3e002876a7a45730445212a7ec62b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102148221"
+        }
+    ],
+    "wof:id":"102148221",
+    "wof:lastmodified":1449069785,
+    "wof:name":"Real Estate Appraisers",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.934311,61.177219,-149.934311,61.177219],
+  "geometry": {"coordinates":[-149.934311,61.177219],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.189797,61.611959,-149.189797,61.611959",
+    "geom:latitude":61.611959,
+    "geom:longitude":-149.189797,
+    "iso:country":"US",
+    "sg:address":"2251 Hassen Bey Dr",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 746 2133",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916253,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ThuLLVJgJC59PE04gho6F_61.611959_-149.189797@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"53dc6a26a63e4732454fa6d3567ef1c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916253,
+            "region_id":85688573,
+            "venue_id":"102179919"
+        }
+    ],
+    "wof:id":"102179919",
+    "wof:lastmodified":1449069942,
+    "wof:name":"Valley Tree Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.189797,61.611959,-149.189797,61.611959],
+  "geometry": {"coordinates":[-149.189797,61.611959],"type":"Point"}
+}

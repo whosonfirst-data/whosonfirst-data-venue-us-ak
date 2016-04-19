@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.788638,64.8903,-147.788638,64.8903",
+    "geom:latitude":64.8903,
+    "geom:longitude":-147.788638,
+    "iso:country":"US",
+    "sg:address":"1503 Joliet Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 9022",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916609,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ee1FJofdIUfcq0apIP2ty_64.890300_-147.788638@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2a9599533947de59624f2aa6e9984ac5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "region_id":85688573,
+            "venue_id":"102172145"
+        }
+    ],
+    "wof:id":"102172145",
+    "wof:lastmodified":1449068735,
+    "wof:name":"Mountain View Bed & Breakfast",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.788638,64.8903,-147.788638,64.8903],
+  "geometry": {"coordinates":[-147.788638,64.8903],"type":"Point"}
+}

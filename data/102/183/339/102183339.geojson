@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.800513,61.104921,-149.800513,61.104921",
+    "geom:latitude":61.104921,
+    "geom:longitude":-149.800513,
+    "iso:country":"US",
+    "sg:address":"13100 Atherton Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 348 0807",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4S7tumhiCgsOZD02yxqCxs_61.104921_-149.800513@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d290a7dba38915edf882254a731f1d94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102183339"
+        }
+    ],
+    "wof:id":"102183339",
+    "wof:lastmodified":1449069043,
+    "wof:name":"AK Control Exvt LLC",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.800513,61.104921,-149.800513,61.104921],
+  "geometry": {"coordinates":[-149.800513,61.104921],"type":"Point"}
+}

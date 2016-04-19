@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.646497,55.342316,-131.646497,55.342316",
+    "geom:latitude":55.342316,
+    "geom:longitude":-131.646497,
+    "iso:country":"US",
+    "sg:address":"361 Main St",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 2583",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kbpyrxJLs0soqOqLhztMW_55.342316_-131.646497@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"77af4cacd11de4bfac47d00254d30ef5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102157253"
+        }
+    ],
+    "wof:id":"102157253",
+    "wof:lastmodified":1449069832,
+    "wof:name":"Crime Stoppers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.646497,55.342316,-131.646497,55.342316],
+  "geometry": {"coordinates":[-131.646497,55.342316],"type":"Point"}
+}

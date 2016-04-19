@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.888038,61.198336,-149.888038,61.198336",
+    "geom:latitude":61.198336,
+    "geom:longitude":-149.888038,
+    "iso:country":"US",
+    "sg:address":"302 W Fireweed Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 2820",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AGh2ZUXnhWgDE15j8Hbor_61.198336_-149.888038@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e10e3a73ba0f04bc52e440528d07d7fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102168667"
+        }
+    ],
+    "wof:id":"102168667",
+    "wof:lastmodified":1449069007,
+    "wof:name":"Greek Corner",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.888038,61.198336,-149.888038,61.198336],
+  "geometry": {"coordinates":[-149.888038,61.198336],"type":"Point"}
+}

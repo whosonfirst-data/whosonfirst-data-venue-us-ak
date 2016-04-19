@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.573156,58.380854,-134.573156,58.380854",
+    "geom:latitude":58.380854,
+    "geom:longitude":-134.573156,
+    "iso:country":"US",
+    "sg:address":"8744 Hayes Way",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 790 2045",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "alarm",
+        "burglar",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ho4dDYtK7v7oUaOk4ylaV_58.380854_-134.573156@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d366425296733789b973ba435c70f7a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102149317"
+        }
+    ],
+    "wof:id":"102149317",
+    "wof:lastmodified":1449067769,
+    "wof:name":"Action Security Inc",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.573156,58.380854,-134.573156,58.380854],
+  "geometry": {"coordinates":[-134.573156,58.380854],"type":"Point"}
+}

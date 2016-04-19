@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.380828,56.47005,-132.380828,56.47005",
+    "geom:latitude":56.47005,
+    "geom:longitude":-132.380828,
+    "iso:country":"US",
+    "sg:address":"423 Front St",
+    "sg:city":"Wrangell",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 874 3333",
+    "sg:postcode":"99929",
+    "sg:province":"AK",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916111,
+        85633793,
+        85688573,
+        102081901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sAdr6veHiXTVc2UM6PEwM_56.470050_-132.380828@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"198c3c0bce08d6b1f3aad90b02b716e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081901,
+            "locality_id":85916111,
+            "region_id":85688573,
+            "venue_id":"102194853"
+        }
+    ],
+    "wof:id":"102194853",
+    "wof:lastmodified":1449069828,
+    "wof:name":"City Market",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.380828,56.47005,-132.380828,56.47005],
+  "geometry": {"coordinates":[-132.380828,56.47005],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.891439,61.17166,-149.891439,61.17166",
+    "geom:latitude":61.17166,
+    "geom:longitude":-149.891439,
+    "iso:country":"US",
+    "sg:address":"520 W 54th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 1114",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35jkzLCQF6O5ZbRTQQ3jtO_61.171660_-149.891439@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e8dccaf32f47d1b4efba9213883b2bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102158645"
+        }
+    ],
+    "wof:id":"102158645",
+    "wof:lastmodified":1449069393,
+    "wof:name":"J S Building & Grounds Mntnc",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.891439,61.17166,-149.891439,61.17166],
+  "geometry": {"coordinates":[-149.891439,61.17166],"type":"Point"}
+}

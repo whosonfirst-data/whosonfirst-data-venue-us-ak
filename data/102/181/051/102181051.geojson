@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.783512,64.827463,-147.783512,64.827463",
+    "geom:latitude":64.827463,
+    "geom:longitude":-147.783512,
+    "iso:country":"US",
+    "sg:address":"2720 Davis Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 9473",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "automobile",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QtCOWrA1DbEHGqUsFPgsU_64.827463_-147.783512@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"af054700c0205abc211b087a371858dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102181051"
+        }
+    ],
+    "wof:id":"102181051",
+    "wof:lastmodified":1449069235,
+    "wof:name":"Completely Wired Automotive",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.783512,64.827463,-147.783512,64.827463],
+  "geometry": {"coordinates":[-147.783512,64.827463],"type":"Point"}
+}

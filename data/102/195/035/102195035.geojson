@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.491407,58.352093,-134.491407,58.352093",
+    "geom:latitude":58.352093,
+    "geom:longitude":-134.491407,
+    "iso:country":"US",
+    "sg:address":"5245 Glacier Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 780 4144",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.capitalchevrolet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pvkfLYGx0FNMA1NTtKb7x_58.352093_-134.491407@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b811f26aae23cdb5f5eccab11244b3ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102195035"
+        }
+    ],
+    "wof:id":"102195035",
+    "wof:lastmodified":1449069364,
+    "wof:name":"Capital Chevrolet",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.491407,58.352093,-134.491407,58.352093],
+  "geometry": {"coordinates":[-134.491407,58.352093],"type":"Point"}
+}

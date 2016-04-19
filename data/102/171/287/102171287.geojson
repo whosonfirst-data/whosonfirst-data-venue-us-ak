@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.905717,61.214722,-149.905717,61.214722",
+    "geom:latitude":61.214722,
+    "geom:longitude":-149.905717,
+    "iso:country":"US",
+    "sg:address":"711 M St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 2554",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873721,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SxQL6VmXyaKglDTziUGOt_61.214722_-149.905717@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f023f29a6f030af6194c813a5a61f002",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873721,
+            "region_id":85688573,
+            "venue_id":"102171287"
+        }
+    ],
+    "wof:id":"102171287",
+    "wof:lastmodified":1449070222,
+    "wof:name":"Cole & Thompson Architects",
+    "wof:parent_id":85873721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.905717,61.214722,-149.905717,61.214722],
+  "geometry": {"coordinates":[-149.905717,61.214722],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.706304,64.810586,-147.706304,64.810586",
+    "geom:latitude":64.810586,
+    "geom:longitude":-147.706304,
+    "iso:country":"US",
+    "sg:address":"3605 Leasure St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 6497",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GGYzYKH6UFyB8gD2UYfpw_64.810586_-147.706304@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9c85cf70480f20f1da2cbe5814c9d894",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102147933"
+        }
+    ],
+    "wof:id":"102147933",
+    "wof:lastmodified":1449069929,
+    "wof:name":"Lennie Taylor Shop",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.706304,64.810586,-147.706304,64.810586],
+  "geometry": {"coordinates":[-147.706304,64.810586],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.862841,61.216573,-149.862841,61.216573",
+    "geom:latitude":61.216573,
+    "geom:longitude":-149.862841,
+    "iso:country":"US",
+    "sg:address":"1000 E 6th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 3383",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.mbalaska.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_106uH03Il0BciccQD80FtC_61.216573_-149.862841@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a1e57ffc2eaeceeb560ded2a4cd27a35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102160721"
+        }
+    ],
+    "wof:id":"102160721",
+    "wof:lastmodified":1449069779,
+    "wof:name":"Mercedes-Benz Of Anchorage",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.862841,61.216573,-149.862841,61.216573],
+  "geometry": {"coordinates":[-149.862841,61.216573],"type":"Point"}
+}

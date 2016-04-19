@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.701029,59.709031,-151.701029,59.709031",
+    "geom:latitude":59.709031,
+    "geom:longitude":-151.701029,
+    "iso:country":"US",
+    "sg:address":"39690 Sterling Hwy",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 8821",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "water",
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916995,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kQ0m1o8AQ7AS8b4dplPtZ_59.709031_-151.701029@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1df05395461303c1fe1fc6d175e1dbfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916995,
+            "region_id":85688573,
+            "venue_id":"102191133"
+        }
+    ],
+    "wof:id":"102191133",
+    "wof:lastmodified":1449069203,
+    "wof:name":"Vandehey Well Drilling",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.701029,59.709031,-151.701029,59.709031],
+  "geometry": {"coordinates":[-151.701029,59.709031],"type":"Point"}
+}

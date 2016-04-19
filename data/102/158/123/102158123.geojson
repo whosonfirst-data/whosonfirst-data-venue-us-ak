@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.579652,58.362952,-134.579652,58.362952",
+    "geom:latitude":58.362952,
+    "geom:longitude":-134.579652,
+    "iso:country":"US",
+    "sg:address":"2055 Jordan Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 3286",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CNpWsesqrEh4r4AFvElpy_58.362952_-134.579652@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5604f18b902eebb69f3951fd4c322b97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102158123"
+        }
+    ],
+    "wof:id":"102158123",
+    "wof:lastmodified":1449069392,
+    "wof:name":"Yukon Bunkhouse",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.579652,58.362952,-134.579652,58.362952],
+  "geometry": {"coordinates":[-134.579652,58.362952],"type":"Point"}
+}

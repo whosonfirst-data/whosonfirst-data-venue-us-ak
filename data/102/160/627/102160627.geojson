@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-165.39247,64.499041,-165.39247,64.499041",
+    "geom:latitude":64.499041,
+    "geom:longitude":-165.39247,
+    "iso:country":"US",
+    "sg:address":"606 E 5th Ave",
+    "sg:city":"Nome",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 443 7649",
+    "sg:postcode":"99762",
+    "sg:province":"AK",
+    "sg:tags":[
+        "native"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915489,
+        85633793,
+        85688573,
+        102081401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jEKAU8C8DhFpMK4S3UbWH_64.499041_-165.392470@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"83b6268bddda02da16a0920ea57254b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081401,
+            "locality_id":85915489,
+            "region_id":85688573,
+            "venue_id":"102160627"
+        }
+    ],
+    "wof:id":"102160627",
+    "wof:lastmodified":1449069779,
+    "wof:name":"Native Village Of Council",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-165.39247,64.499041,-165.39247,64.499041],
+  "geometry": {"coordinates":[-165.39247,64.499041],"type":"Point"}
+}

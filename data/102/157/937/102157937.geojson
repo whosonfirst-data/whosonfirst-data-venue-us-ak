@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.938679,61.179312,-149.938679,61.179312",
+    "geom:latitude":61.179312,
+    "geom:longitude":-149.938679,
+    "iso:country":"US",
+    "sg:address":"2907 Iris Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 4829",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "taping"
+    ],
+    "sg:website":"www.sprocketheads.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n5xw71bE9bxzx0Njhm7Fn_61.179312_-149.938679@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"df4c9a8e54e9be3df0f164ccbc999299",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102157937"
+        }
+    ],
+    "wof:id":"102157937",
+    "wof:lastmodified":1449069830,
+    "wof:name":"Sprocketheads",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.938679,61.179312,-149.938679,61.179312],
+  "geometry": {"coordinates":[-149.938679,61.179312],"type":"Point"}
+}

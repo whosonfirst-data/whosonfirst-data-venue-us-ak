@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.752094,61.207726,-149.752094,61.207726",
+    "geom:latitude":61.207726,
+    "geom:longitude":-149.752094,
+    "iso:country":"US",
+    "sg:address":"1515 Marten St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 222 5024",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E2sfrcEstmxs6tGGX7wqI_61.207726_-149.752094@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"94ebbf2bae9c103735cc0e7f26ede962",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102152481"
+        }
+    ],
+    "wof:id":"102152481",
+    "wof:lastmodified":1449069637,
+    "wof:name":"Network Ink",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.752094,61.207726,-149.752094,61.207726],
+  "geometry": {"coordinates":[-149.752094,61.207726],"type":"Point"}
+}

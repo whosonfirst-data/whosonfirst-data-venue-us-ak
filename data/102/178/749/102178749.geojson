@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.594622,58.407319,-134.594622,58.407319",
+    "geom:latitude":58.407319,
+    "geom:longitude":-134.594622,
+    "iso:country":"US",
+    "sg:address":"9720 Trappers Ln",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 0740",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ngTlPhwwkEbbkefLesiKH_58.407319_-134.594622@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6d655f473a6be146693d8c72202827fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102178749"
+        }
+    ],
+    "wof:id":"102178749",
+    "wof:lastmodified":1449069530,
+    "wof:name":"Young Construction",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.594622,58.407319,-134.594622,58.407319],
+  "geometry": {"coordinates":[-134.594622,58.407319],"type":"Point"}
+}

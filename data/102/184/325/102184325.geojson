@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.887155,61.215667,-149.887155,61.215667",
+    "geom:latitude":61.215667,
+    "geom:longitude":-149.887155,
+    "iso:country":"US",
+    "sg:address":"121 W 7th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 343 6162",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zD3oAHKQaZmRigRjy2j8F_61.215667_-149.887155@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"26a5ba5d1ca326c34f6f79c12e088c58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102184325"
+        }
+    ],
+    "wof:id":"102184325",
+    "wof:lastmodified":1449068216,
+    "wof:name":"Us Smithsonian Institution",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.887155,61.215667,-149.887155,61.215667],
+  "geometry": {"coordinates":[-149.887155,61.215667],"type":"Point"}
+}

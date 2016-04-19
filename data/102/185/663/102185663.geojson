@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.68943,64.845797,-147.68943,64.845797",
+    "geom:latitude":64.845797,
+    "geom:longitude":-147.68943,
+    "iso:country":"US",
+    "sg:address":"108 Eureka Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 3962",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "training",
+        "dog"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nfkp1rrOBWKlqC69SjkEE_64.845797_-147.689430@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3608c12782ea8e24219b426417965934",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102185663"
+        }
+    ],
+    "wof:id":"102185663",
+    "wof:lastmodified":1449068196,
+    "wof:name":"Arctic Sun Dog Training",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.68943,64.845797,-147.68943,64.845797],
+  "geometry": {"coordinates":[-147.68943,64.845797],"type":"Point"}
+}

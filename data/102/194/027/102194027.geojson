@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.863875,61.115847,-149.863875,61.115847",
+    "geom:latitude":61.115847,
+    "geom:longitude":-149.863875,
+    "iso:country":"US",
+    "sg:address":"11400 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 5990",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3epQosRZclBH2i8EiC2kq1_61.115847_-149.863875@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2cf1dcae22bd271831c0ddd5e2e76383",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102194027"
+        }
+    ],
+    "wof:id":"102194027",
+    "wof:lastmodified":1449069827,
+    "wof:name":"TWA Surveying",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.863875,61.115847,-149.863875,61.115847],
+  "geometry": {"coordinates":[-149.863875,61.115847],"type":"Point"}
+}

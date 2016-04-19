@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.743473,61.202929,-149.743473,61.202929",
+    "geom:latitude":61.202929,
+    "geom:longitude":-149.743473,
+    "iso:country":"US",
+    "sg:address":"7446 E 20th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 8212",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dealer"
+    ],
+    "sg:website":"www.alaskakrafts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Tg6MO87sXm7LNKbNgIP1d_61.202929_-149.743473@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"935c1388074372e1607e2fc900110d13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102181589"
+        }
+    ],
+    "wof:id":"102181589",
+    "wof:lastmodified":1449069235,
+    "wof:name":"Alaska Krafts",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.743473,61.202929,-149.743473,61.202929],
+  "geometry": {"coordinates":[-149.743473,61.202929],"type":"Point"}
+}

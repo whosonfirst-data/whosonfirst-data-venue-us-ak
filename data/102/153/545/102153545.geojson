@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.277659,60.557338,-151.277659,60.557338",
+    "geom:latitude":60.557338,
+    "geom:longitude":-151.277659,
+    "iso:country":"US",
+    "sg:address":"202 S Forest Dr",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 2866",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WO6HUmo7J38uzA5T4tLqO_60.557338_-151.277659@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e5f4a7fe832d6c585b591ca305380c2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102153545"
+        }
+    ],
+    "wof:id":"102153545",
+    "wof:lastmodified":1449069461,
+    "wof:name":"North Country Rentals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.277659,60.557338,-151.277659,60.557338],
+  "geometry": {"coordinates":[-151.277659,60.557338],"type":"Point"}
+}

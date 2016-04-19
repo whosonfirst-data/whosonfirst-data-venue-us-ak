@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.532389,55.302249,-131.532389,55.302249",
+    "geom:latitude":55.302249,
+    "geom:longitude":-131.532389,
+    "iso:country":"US",
+    "sg:address":"6633 Roosevelt Dr",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 9344",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DsNGz6h6UlPyiHvz8xtF2_55.302249_-131.532389@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"54fe33cb724f66a5759972bf512cae05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "region_id":85688573,
+            "venue_id":"102174845"
+        }
+    ],
+    "wof:id":"102174845",
+    "wof:lastmodified":1449068137,
+    "wof:name":"Carriage Works",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.532389,55.302249,-131.532389,55.302249],
+  "geometry": {"coordinates":[-131.532389,55.302249],"type":"Point"}
+}

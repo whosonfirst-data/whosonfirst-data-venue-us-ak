@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.233541,60.560819,-151.233541,60.560819",
+    "geom:latitude":60.560819,
+    "geom:longitude":-151.233541,
+    "iso:country":"US",
+    "sg:address":"280 Airport Way",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 5831",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "sg:website":"www.homerelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ER7IDB6IMnHyQdscNifC8_60.560819_-151.233541@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"83fc55553255bd2f7a0cc955be220d25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102171953"
+        }
+    ],
+    "wof:id":"102171953",
+    "wof:lastmodified":1449070224,
+    "wof:name":"Homer Electric Assn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.233541,60.560819,-151.233541,60.560819],
+  "geometry": {"coordinates":[-151.233541,60.560819],"type":"Point"}
+}

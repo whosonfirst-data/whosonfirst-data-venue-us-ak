@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.880429,57.866651,-152.880429,57.866651",
+    "geom:latitude":57.866651,
+    "geom:longitude":-152.880429,
+    "iso:country":"US",
+    "sg:address":"311 Main St",
+    "sg:city":"Port Lions",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 454 2333",
+    "sg:postcode":"99550",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915885,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zRRd3SN53GVAiq83W21hf_57.866651_-152.880429@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"547a5caaded40ee4dac091677ac0016e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915885,
+            "region_id":85688573,
+            "venue_id":"102152783"
+        }
+    ],
+    "wof:id":"102152783",
+    "wof:lastmodified":1449069633,
+    "wof:name":"RAK Outfitters",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.880429,57.866651,-152.880429,57.866651],
+  "geometry": {"coordinates":[-152.880429,57.866651],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.879106,61.220976,-149.879106,61.220976",
+    "geom:latitude":61.220976,
+    "geom:longitude":-149.879106,
+    "iso:country":"US",
+    "sg:address":"135 Cordova St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 5050",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.linfordofalaska.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pXWNJhGbNIdIqqWWRpwrW_61.220976_-149.879106@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"26e4135679b3b547b7be628dfc8eccb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102180595"
+        }
+    ],
+    "wof:id":"102180595",
+    "wof:lastmodified":1449067878,
+    "wof:name":"Linford Of Alaska Inc",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.879106,61.220976,-149.879106,61.220976],
+  "geometry": {"coordinates":[-149.879106,61.220976],"type":"Point"}
+}

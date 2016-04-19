@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.736169,64.859948,-147.736169,64.859948",
+    "geom:latitude":64.859948,
+    "geom:longitude":-147.736169,
+    "iso:country":"US",
+    "sg:address":"1201 College Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 5321",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830247,
+        85633793,
+        85916559,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3G04b036b3fZiIWvYALeym_64.859948_-147.736169@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"172a9d7ec536c1ff2fd37e82b7c16d48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "neighbourhood_id":85830247,
+            "region_id":85688573,
+            "venue_id":"102169477"
+        }
+    ],
+    "wof:id":"102169477",
+    "wof:lastmodified":1449069247,
+    "wof:name":"House Of Kustom",
+    "wof:parent_id":85830247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.736169,64.859948,-147.736169,64.859948],
+  "geometry": {"coordinates":[-147.736169,64.859948],"type":"Point"}
+}

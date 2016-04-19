@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.761692,64.854924,-147.761692,64.854924",
+    "geom:latitude":64.854924,
+    "geom:longitude":-147.761692,
+    "iso:country":"US",
+    "sg:address":"1028 Aurora Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 1414",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869043,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XrWl8N1sqja90ySIS4WzX_64.854924_-147.761692@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dd2fd99c51b51f2b1fe7e3847b330762",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85869043,
+            "region_id":85688573,
+            "venue_id":"102162659"
+        }
+    ],
+    "wof:id":"102162659",
+    "wof:lastmodified":1449069820,
+    "wof:name":"PDC Inc Consulting Engineers",
+    "wof:parent_id":85869043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.761692,64.854924,-147.761692,64.854924],
+  "geometry": {"coordinates":[-147.761692,64.854924],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.467015,61.584327,-149.467015,61.584327",
+    "geom:latitude":61.584327,
+    "geom:longitude":-149.467015,
+    "iso:country":"US",
+    "sg:address":"245 W Nelson Ave",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 2623",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eZjAxFvF23RSJjICKvO3R_61.584327_-149.467015@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4699a0870ad1d0b969ba39f5e38f48a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102169101"
+        }
+    ],
+    "wof:id":"102169101",
+    "wof:lastmodified":1449069246,
+    "wof:name":"Discover Dance Studio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.467015,61.584327,-149.467015,61.584327],
+  "geometry": {"coordinates":[-149.467015,61.584327],"type":"Point"}
+}

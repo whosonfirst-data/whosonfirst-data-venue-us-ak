@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.75446,64.854391,-147.75446,64.854391",
+    "geom:latitude":64.854391,
+    "geom:longitude":-147.75446,
+    "iso:country":"US",
+    "sg:address":"1007 Evergreen St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 5436",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869043,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WKQR1GgmGixXkaJA58Uul_64.854391_-147.754460@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"764e2922caf554d1f5b7a12dcdb25ec6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85869043,
+            "region_id":85688573,
+            "venue_id":"102183239"
+        }
+    ],
+    "wof:id":"102183239",
+    "wof:lastmodified":1449069041,
+    "wof:name":"Kid'n Around",
+    "wof:parent_id":85869043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.75446,64.854391,-147.75446,64.854391],
+  "geometry": {"coordinates":[-147.75446,64.854391],"type":"Point"}
+}

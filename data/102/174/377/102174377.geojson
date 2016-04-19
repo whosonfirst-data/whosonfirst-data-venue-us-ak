@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.898032,61.1853,-149.898032,61.1853",
+    "geom:latitude":61.1853,
+    "geom:longitude":-149.898032,
+    "iso:country":"US",
+    "sg:address":"3900 Arctic Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 7517",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vsooQqdwdV1jhw4pSjS0i_61.185300_-149.898032@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b1a95e6a8a8b6af4bf2c76556ad27190",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102174377"
+        }
+    ],
+    "wof:id":"102174377",
+    "wof:lastmodified":1449068138,
+    "wof:name":"William R Sedwick DDS",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.898032,61.1853,-149.898032,61.1853],
+  "geometry": {"coordinates":[-149.898032,61.1853],"type":"Point"}
+}

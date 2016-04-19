@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.902071,61.170164,-149.902071,61.170164",
+    "geom:latitude":61.170164,
+    "geom:longitude":-149.902071,
+    "iso:country":"US",
+    "sg:address":"5425 Cope St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 868 8880",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IWgXfEK8xmw119K1jBjd8_61.170164_-149.902071@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"85a949a74a1042d5b074673d36d49db5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102155423"
+        }
+    ],
+    "wof:id":"102155423",
+    "wof:lastmodified":1449069743,
+    "wof:name":"Loken Construction",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.902071,61.170164,-149.902071,61.170164],
+  "geometry": {"coordinates":[-149.902071,61.170164],"type":"Point"}
+}

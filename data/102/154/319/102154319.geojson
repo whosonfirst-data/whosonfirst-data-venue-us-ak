@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.857978,61.152566,-149.857978,61.152566",
+    "geom:latitude":61.152566,
+    "geom:longitude":-149.857978,
+    "iso:country":"US",
+    "sg:address":"1327 E 75th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 2502",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "sg:website":"www.bellcomfort.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g35xHbUvrrqzH8qX2inqs_61.152566_-149.857978@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"33111367842800a060bf0e7f41ed360b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102154319"
+        }
+    ],
+    "wof:id":"102154319",
+    "wof:lastmodified":1449070243,
+    "wof:name":"Bell Plumbing & Heating Inc",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.857978,61.152566,-149.857978,61.152566],
+  "geometry": {"coordinates":[-149.857978,61.152566],"type":"Point"}
+}

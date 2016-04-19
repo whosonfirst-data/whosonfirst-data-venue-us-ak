@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.611308,58.371058,-134.611308,58.371058",
+    "geom:latitude":58.371058,
+    "geom:longitude":-134.611308,
+    "iso:country":"US",
+    "sg:address":"10155 Jensine St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 0795",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915729,
+        85633793,
+        85688573,
+        102081399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7B0ATh40j5EF0HeYrS3ofA_58.371058_-134.611308@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"520bba12997c41e8edfa1e6193531667",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "region_id":85688573,
+            "venue_id":"102192121"
+        }
+    ],
+    "wof:id":"102192121",
+    "wof:lastmodified":1449069505,
+    "wof:name":"Service By Air",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.611308,58.371058,-134.611308,58.371058],
+  "geometry": {"coordinates":[-134.611308,58.371058],"type":"Point"}
+}

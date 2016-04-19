@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.721221,64.817152,-147.721221,64.817152",
+    "geom:latitude":64.817152,
+    "geom:longitude":-147.721221,
+    "iso:country":"US",
+    "sg:address":"805 Bidwill Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 5051",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "pallet",
+        "skid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mOef2y6MNsYbb0CMzBFIj_64.817152_-147.721221@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e36b50123f10595c22f576254ab3bd32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102152801"
+        }
+    ],
+    "wof:id":"102152801",
+    "wof:lastmodified":1449069637,
+    "wof:name":"International Wood Industries",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.721221,64.817152,-147.721221,64.817152],
+  "geometry": {"coordinates":[-147.721221,64.817152],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.822922,61.083259,-149.822922,61.083259",
+    "geom:latitude":61.083259,
+    "geom:longitude":-149.822922,
+    "iso:country":"US",
+    "sg:address":"3030 Rabbit Creek Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 4393",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873755,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YRdmCqFSJGKU1khzqQNMS_61.083259_-149.822922@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"234503b9d9655be2d7d7c46175f54fd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873755,
+            "region_id":85688573,
+            "venue_id":"102189057"
+        }
+    ],
+    "wof:id":"102189057",
+    "wof:lastmodified":1449069498,
+    "wof:name":"Rabbit Creek Lions Club",
+    "wof:parent_id":85873755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.822922,61.083259,-149.822922,61.083259],
+  "geometry": {"coordinates":[-149.822922,61.083259],"type":"Point"}
+}

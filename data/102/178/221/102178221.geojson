@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.826898,61.097653,-149.826898,61.097653",
+    "geom:latitude":61.097653,
+    "geom:longitude":-149.826898,
+    "iso:country":"US",
+    "sg:address":"13531 Seachant Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 7515",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "yarn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Xni0mI6Ni5r4QUVDn1nBt_61.097653_-149.826898@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd50f7ae2aef08847c71b8b9a89d166c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102178221"
+        }
+    ],
+    "wof:id":"102178221",
+    "wof:lastmodified":1449069530,
+    "wof:name":"Grace's Yarn Tree",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.826898,61.097653,-149.826898,61.097653],
+  "geometry": {"coordinates":[-149.826898,61.097653],"type":"Point"}
+}

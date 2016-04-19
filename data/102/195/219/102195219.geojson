@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.491315,58.353027,-134.491315,58.353027",
+    "geom:latitude":58.353027,
+    "geom:longitude":-134.491315,
+    "iso:country":"US",
+    "sg:address":"5310 Glacier Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 780 6226",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tours",
+        "promoter"
+    ],
+    "sg:website":"www.akdiscovery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JHDyZX7vKBiZff4DrOMGo_58.353027_-134.491315@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7ebe31b6b9f533371586a3a3ad0e6782",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102195219"
+        }
+    ],
+    "wof:id":"102195219",
+    "wof:lastmodified":1449069365,
+    "wof:name":"Alaska Discovery Wilderness",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.491315,58.353027,-134.491315,58.353027],
+  "geometry": {"coordinates":[-134.491315,58.353027],"type":"Point"}
+}

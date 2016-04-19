@@ -1,0 +1,70 @@
+{
+  "id": "102181621",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-147.778611,64.8326,-147.778611,64.8326",
+    "geom:latitude":64.8326,
+    "geom:longitude":-147.778611,
+    "iso:country":"US",
+    "sg:address":"1780 Peger Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 5655",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85916609,
+        102081397,
+        85856935
+    ],
+    "wof:brand_id":420573899,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5exI8dBrzTB8h0BUeklRfF_64.832600_-147.778611@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5444900f0bac764cf873bfc37fa43a84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102181621"
+        }
+    ],
+    "wof:id":"102181621",
+    "wof:lastmodified":1457207840,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -147.778611,
+    64.8326,
+    -147.778611,
+    64.8326
+],
+  "geometry": {"coordinates":[-147.77861100000001,64.8326],"type":"Point"}
+}

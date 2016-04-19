@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.924281,61.197482,-149.924281,61.197482",
+    "geom:latitude":61.197482,
+    "geom:longitude":-149.924281,
+    "iso:country":"US",
+    "sg:address":"2054 Arlington Dr N",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Aquatic Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 2414",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "fish"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NHfeqsGwUxRnAAtSrU73x_61.197482_-149.924281@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1aa08ff1fc28a8d717c780ed4aa62933",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102151621"
+        }
+    ],
+    "wof:id":"102151621",
+    "wof:lastmodified":1449067781,
+    "wof:name":"Golden View Fisheries Inc",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.924281,61.197482,-149.924281,61.197482],
+  "geometry": {"coordinates":[-149.924281,61.197482],"type":"Point"}
+}

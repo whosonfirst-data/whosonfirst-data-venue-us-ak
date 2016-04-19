@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.748508,61.205085,-149.748508,61.205085",
+    "geom:latitude":61.205085,
+    "geom:longitude":-149.748508,
+    "iso:country":"US",
+    "sg:address":"1750 Patterson St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 4431",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1liGEsYswouFPKp0lHXZnc_61.205085_-149.748508@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4c729e26dfffdc5cb351547efe2c2dca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102170037"
+        }
+    ],
+    "wof:id":"102170037",
+    "wof:lastmodified":1449068019,
+    "wof:name":"Community Schools Coordinator",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.748508,61.205085,-149.748508,61.205085],
+  "geometry": {"coordinates":[-149.748508,61.205085],"type":"Point"}
+}

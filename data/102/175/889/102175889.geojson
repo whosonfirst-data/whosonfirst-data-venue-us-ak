@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.067244,60.488886,-151.067244,60.488886",
+    "geom:latitude":60.488886,
+    "geom:longitude":-151.067244,
+    "iso:country":"US",
+    "sg:address":"105 Shady Ln",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 3224",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "audiologists"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LvpfZDsyikexHNMJrXB85_60.488886_-151.067244@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a96218907ef82ee498f29d776fac1108",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102175889"
+        }
+    ],
+    "wof:id":"102175889",
+    "wof:lastmodified":1449069463,
+    "wof:name":"Peninsula Hearing Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.067244,60.488886,-151.067244,60.488886],
+  "geometry": {"coordinates":[-151.067244,60.488886],"type":"Point"}
+}

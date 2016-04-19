@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.943302,61.139848,-149.943302,61.139848",
+    "geom:latitude":61.139848,
+    "geom:longitude":-149.943302,
+    "iso:country":"US",
+    "sg:address":"8811 Cordell Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 245 3470",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ClxQV6bgzAsblJmwp29QK_61.139848_-149.943302@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e9de738802f3248a41722967b41d576",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102159155"
+        }
+    ],
+    "wof:id":"102159155",
+    "wof:lastmodified":1449068094,
+    "wof:name":"Redoaks Assisted Living",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.943302,61.139848,-149.943302,61.139848],
+  "geometry": {"coordinates":[-149.943302,61.139848],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.63746,55.345825,-131.63746,55.345825",
+    "geom:latitude":55.345825,
+    "geom:longitude":-131.63746,
+    "iso:country":"US",
+    "sg:address":"1201 Schoenbar Rd",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 4139",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WnDkGGapE9ufvMxMpOW5G_55.345825_-131.637460@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aae8e0083c0c7b76c49c23b72cc47302",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102185353"
+        }
+    ],
+    "wof:id":"102185353",
+    "wof:lastmodified":1449068197,
+    "wof:name":"State Corrections Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.63746,55.345825,-131.63746,55.345825],
+  "geometry": {"coordinates":[-131.63746,55.345825],"type":"Point"}
+}

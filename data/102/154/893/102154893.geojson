@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.929435,61.133392,-149.929435,61.133392",
+    "geom:latitude":61.133392,
+    "geom:longitude":-149.929435,
+    "iso:country":"US",
+    "sg:address":"9551 Albatross Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 245 3099",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "operation",
+        "timber",
+        "tract"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4d9o9MBJVQTiIxCoXjkEC5_61.133392_-149.929435@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"505b415eb9ae480c4f196d0558f16baa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102154893"
+        }
+    ],
+    "wof:id":"102154893",
+    "wof:lastmodified":1449070247,
+    "wof:name":"Hoback Alaska Ventures LLC",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.929435,61.133392,-149.929435,61.133392],
+  "geometry": {"coordinates":[-149.929435,61.133392],"type":"Point"}
+}

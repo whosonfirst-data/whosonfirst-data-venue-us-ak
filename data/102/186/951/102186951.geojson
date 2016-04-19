@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.664043,55.347469,-131.664043,55.347469",
+    "geom:latitude":55.347469,
+    "geom:longitude":-131.664043,
+    "iso:country":"US",
+    "sg:address":"1621 Tongass Ave",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 4496",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1igXzz0phjhuU5HlYRuFRS_55.347469_-131.664043@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aa33f5035727f3df0380cf2d601497b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102186951"
+        }
+    ],
+    "wof:id":"102186951",
+    "wof:lastmodified":1449069653,
+    "wof:name":"US Marine Corps Safety",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.664043,55.347469,-131.664043,55.347469],
+  "geometry": {"coordinates":[-131.664043,55.347469],"type":"Point"}
+}

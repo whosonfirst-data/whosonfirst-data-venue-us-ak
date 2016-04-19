@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.934201,61.141171,-149.934201,61.141171",
+    "geom:latitude":61.141171,
+    "geom:longitude":-149.934201,
+    "iso:country":"US",
+    "sg:address":"2909 W 88th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 343 4508",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dgs9zVkot4q1liYTDqrDN_61.141171_-149.934201@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1083109cc7b8f703282338ba745ebd52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102175125"
+        }
+    ],
+    "wof:id":"102175125",
+    "wof:lastmodified":1449069469,
+    "wof:name":"Dimond Pool",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.934201,61.141171,-149.934201,61.141171],
+  "geometry": {"coordinates":[-149.934201,61.141171],"type":"Point"}
+}

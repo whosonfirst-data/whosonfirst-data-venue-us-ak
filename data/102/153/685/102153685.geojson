@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.865564,61.217487,-149.865564,61.217487",
+    "geom:latitude":61.217487,
+    "geom:longitude":-149.865564,
+    "iso:country":"US",
+    "sg:address":"946 E 5th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 8244",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rDpIN4kKrYkl8CfMP8doZ_61.217487_-149.865564@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a243763d087664917be1700c72db682b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102153685"
+        }
+    ],
+    "wof:id":"102153685",
+    "wof:lastmodified":1449069463,
+    "wof:name":"Anchorage Commercial",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.865564,61.217487,-149.865564,61.217487],
+  "geometry": {"coordinates":[-149.865564,61.217487],"type":"Point"}
+}

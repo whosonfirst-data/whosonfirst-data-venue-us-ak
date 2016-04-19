@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.860806,61.219526,-149.860806,61.219526",
+    "geom:latitude":61.219526,
+    "geom:longitude":-149.860806,
+    "iso:country":"US",
+    "sg:address":"1101 E 3rd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 9302",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:website":"www.beans.ak.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YWpjx5hqE4IjGDDn93gI7_61.219526_-149.860806@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fbf82f30b84eaa4d963ace4fef44e765",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102154215"
+        }
+    ],
+    "wof:id":"102154215",
+    "wof:lastmodified":1449070248,
+    "wof:name":"Bean's Cafe & Outreach Ctr",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.860806,61.219526,-149.860806,61.219526],
+  "geometry": {"coordinates":[-149.860806,61.219526],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.927969,64.810109,-147.927969,64.810109",
+    "geom:latitude":64.810109,
+    "geom:longitude":-147.927969,
+    "iso:country":"US",
+    "sg:address":"1272 Dolphin Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 2416",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916563,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eFLAMWWeykLNQjSU1usVE_64.810109_-147.927969@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d80149bcde3eecdb4bf6e6bd67e88193",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916563,
+            "region_id":85688573,
+            "venue_id":"102170149"
+        }
+    ],
+    "wof:id":"102170149",
+    "wof:lastmodified":1449068017,
+    "wof:name":"Anderson Aircraft",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.927969,64.810109,-147.927969,64.810109],
+  "geometry": {"coordinates":[-147.927969,64.810109],"type":"Point"}
+}

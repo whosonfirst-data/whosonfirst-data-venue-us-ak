@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.715119,64.829034,-147.715119,64.829034",
+    "geom:latitude":64.829034,
+    "geom:longitude":-147.715119,
+    "iso:country":"US",
+    "sg:address":"2030 S Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 455 7669",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "recreational",
+        "leasing",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1stJkZtUnz0X9l2PI46cDQ_64.829034_-147.715119@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bb69709e1cb4fe2e59c6bf34894dfaae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102176809"
+        }
+    ],
+    "wof:id":"102176809",
+    "wof:lastmodified":1449069346,
+    "wof:name":"Adventure Rentals Inc",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.715119,64.829034,-147.715119,64.829034],
+  "geometry": {"coordinates":[-147.715119,64.829034],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-145.753932,60.544026,-145.753932,60.544026",
+    "geom:latitude":60.544026,
+    "geom:longitude":-145.753932,
+    "iso:country":"US",
+    "sg:address":"607 4th St",
+    "sg:city":"Cordova",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 424 7829",
+    "sg:postcode":"99574",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839707,
+        85633793,
+        85915567,
+        102081911,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34VVEzDLOR10wnw6mBGXrH_60.544026_-145.753932@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b15572314e2f3cda7aafbe427716b57f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915567,
+            "neighbourhood_id":85839707,
+            "region_id":85688573,
+            "venue_id":"102148691"
+        }
+    ],
+    "wof:id":"102148691",
+    "wof:lastmodified":1449069781,
+    "wof:name":"Harbor View Bed & Breakfast",
+    "wof:parent_id":85839707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-145.753932,60.544026,-145.753932,60.544026],
+  "geometry": {"coordinates":[-145.753932,60.544026],"type":"Point"}
+}

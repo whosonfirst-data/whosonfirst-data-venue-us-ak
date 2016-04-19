@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.689564,55.355631,-131.689564,55.355631",
+    "geom:latitude":55.355631,
+    "geom:longitude":-131.689564,
+    "iso:country":"US",
+    "sg:address":"301 Spruce St",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 1878",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26eanN0G5AuiP6cskymXzh_55.355631_-131.689564@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"84115861e9a0b7465b2ff2f4148224bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102149077"
+        }
+    ],
+    "wof:id":"102149077",
+    "wof:lastmodified":1449067769,
+    "wof:name":"Blue Diamond Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.689564,55.355631,-131.689564,55.355631],
+  "geometry": {"coordinates":[-131.689564,55.355631],"type":"Point"}
+}

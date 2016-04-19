@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.861649,61.165053,-149.861649,61.165053",
+    "geom:latitude":61.165053,
+    "geom:longitude":-149.861649,
+    "iso:country":"US",
+    "sg:address":"6250 Rosewood St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 1141",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Tr0Bn4lHkXgsRXaDs1jWv_61.165053_-149.861649@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5af3a803d0ea25a4e8fa1a8b2e5a373d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102190593"
+        }
+    ],
+    "wof:id":"102190593",
+    "wof:lastmodified":1449070036,
+    "wof:name":"Wilson Brothers Dist Co Inc",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.861649,61.165053,-149.861649,61.165053],
+  "geometry": {"coordinates":[-149.861649,61.165053],"type":"Point"}
+}

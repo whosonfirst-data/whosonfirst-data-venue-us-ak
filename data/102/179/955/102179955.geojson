@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.834156,61.128312,-149.834156,61.128312",
+    "geom:latitude":61.128312,
+    "geom:longitude":-149.834156,
+    "iso:country":"US",
+    "sg:address":"9600 Lake Otis Pkwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 9622",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "sg:website":"www.todayinak.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GjahE5FlKBqkoGV5wMXhg_61.128312_-149.834156@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"78a6453fa2b05c89af9ba176ee8b7527",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102179955"
+        }
+    ],
+    "wof:id":"102179955",
+    "wof:lastmodified":1449069942,
+    "wof:name":"KWHL",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.834156,61.128312,-149.834156,61.128312],
+  "geometry": {"coordinates":[-149.834156,61.128312],"type":"Point"}
+}

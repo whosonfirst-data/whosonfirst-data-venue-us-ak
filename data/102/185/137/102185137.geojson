@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.882403,61.144801,-149.882403,61.144801",
+    "geom:latitude":61.144801,
+    "geom:longitude":-149.882403,
+    "iso:country":"US",
+    "sg:address":"209 W Dimond Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 4182",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "seafood",
+        "product",
+        "fish",
+        "prepared"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6k0x59AN3jhM3q57Y9xbxg_61.144801_-149.882403@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fc5f753b4b7d33de4e5e750dd82ef7d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102185137"
+        }
+    ],
+    "wof:id":"102185137",
+    "wof:lastmodified":1449068197,
+    "wof:name":"Great Northern Sea Products",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.882403,61.144801,-149.882403,61.144801],
+  "geometry": {"coordinates":[-149.882403,61.144801],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.575974,61.323875,-149.575974,61.323875",
+    "geom:latitude":61.323875,
+    "geom:longitude":-149.575974,
+    "iso:country":"US",
+    "sg:address":"11462 Business Blvd",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 694 0770",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LnUqGxEWVhJK6DLngPjIE_61.323875_-149.575974@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"573ea78b926be4bb3ae560209afe8e3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102155797"
+        }
+    ],
+    "wof:id":"102155797",
+    "wof:lastmodified":1449069746,
+    "wof:name":"Eagle River Primary Care Clnc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.575974,61.323875,-149.575974,61.323875],
+  "geometry": {"coordinates":[-149.575974,61.323875],"type":"Point"}
+}

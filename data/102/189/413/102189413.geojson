@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.4045,58.299914,-134.4045,58.299914",
+    "geom:latitude":58.299914,
+    "geom:longitude":-134.4045,
+    "iso:country":"US",
+    "sg:address":"157 S Franklin St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 6770",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Fsx1OMCeKwpRz61yV9Fnx_58.299914_-134.404500@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"161cffb09f8fb0253d03c75ba38e3461",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102189413"
+        }
+    ],
+    "wof:id":"102189413",
+    "wof:lastmodified":1449069496,
+    "wof:name":"El Sombrero Inc",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.4045,58.299914,-134.4045,58.299914],
+  "geometry": {"coordinates":[-134.4045,58.299914],"type":"Point"}
+}

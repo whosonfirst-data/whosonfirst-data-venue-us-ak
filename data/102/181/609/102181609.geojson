@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.803134,61.069157,-149.803134,61.069157",
+    "geom:latitude":61.069157,
+    "geom:longitude":-149.803134,
+    "iso:country":"US",
+    "sg:address":"16750 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 336 1113",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873751,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55GYwvMD0UWSKfl8cSMqRc_61.069157_-149.803134@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bbfad86580f87fe1da8d69fe3ff7688f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873751,
+            "region_id":85688573,
+            "venue_id":"102181609"
+        }
+    ],
+    "wof:id":"102181609",
+    "wof:lastmodified":1449069235,
+    "wof:name":"My Home Is Your Home",
+    "wof:parent_id":85873751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.803134,61.069157,-149.803134,61.069157],
+  "geometry": {"coordinates":[-149.803134,61.069157],"type":"Point"}
+}

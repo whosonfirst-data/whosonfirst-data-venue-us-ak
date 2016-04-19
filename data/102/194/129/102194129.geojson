@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.401309,58.297122,-134.401309,58.297122",
+    "geom:latitude":58.297122,
+    "geom:longitude":-134.401309,
+    "iso:country":"US",
+    "sg:address":"428 S Franklin St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 463 4900",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "sg:website":"www.pioneerjewelers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dqCA6dq9mUviqpibfvWJh_58.297122_-134.401309@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bea6aa1732a53f3d86c36f0f484d7c49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102194129"
+        }
+    ],
+    "wof:id":"102194129",
+    "wof:lastmodified":1449069829,
+    "wof:name":"Pioneer Jewelers",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.401309,58.297122,-134.401309,58.297122],
+  "geometry": {"coordinates":[-134.401309,58.297122],"type":"Point"}
+}

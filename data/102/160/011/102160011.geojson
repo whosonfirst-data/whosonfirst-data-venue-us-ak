@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.886597,61.14058,-149.886597,61.14058",
+    "geom:latitude":61.14058,
+    "geom:longitude":-149.886597,
+    "iso:country":"US",
+    "sg:address":"431 W 89th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 2283",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4H5bNUg905whcAy2I2fm11_61.140580_-149.886597@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7745d8f64e2a5956c522a4aff6ac50fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102160011"
+        }
+    ],
+    "wof:id":"102160011",
+    "wof:lastmodified":1449069777,
+    "wof:name":"M&L Landscaping",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.886597,61.14058,-149.886597,61.14058],
+  "geometry": {"coordinates":[-149.886597,61.14058],"type":"Point"}
+}

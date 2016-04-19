@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.280636,57.043275,-135.280636,57.043275",
+    "geom:latitude":57.043275,
+    "geom:longitude":-135.280636,
+    "iso:country":"US",
+    "sg:address":"130 Anna Dr",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 4702",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916107,
+        85633793,
+        85688573,
+        102081405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Gr195qvWWTOnhvz62dnZ6_57.043275_-135.280636@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3aaabb45f8db920dc227b67eae76dce7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "region_id":85688573,
+            "venue_id":"102150131"
+        }
+    ],
+    "wof:id":"102150131",
+    "wof:lastmodified":1449067790,
+    "wof:name":"T M Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.280636,57.043275,-135.280636,57.043275],
+  "geometry": {"coordinates":[-135.280636,57.043275],"type":"Point"}
+}

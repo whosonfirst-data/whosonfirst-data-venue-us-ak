@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.934501,61.175382,-149.934501,61.175382",
+    "geom:latitude":61.175382,
+    "geom:longitude":-149.934501,
+    "iso:country":"US",
+    "sg:address":"4707 Melvin Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 5710",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JTtc8TzIIPF52Z9VrGveg_61.175382_-149.934501@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0d4fa7a86b6e1c9b3da9abcb6bb81f7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102148779"
+        }
+    ],
+    "wof:id":"102148779",
+    "wof:lastmodified":1449069784,
+    "wof:name":"S R Hansen Woodworks",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.934501,61.175382,-149.934501,61.175382],
+  "geometry": {"coordinates":[-149.934501,61.175382],"type":"Point"}
+}

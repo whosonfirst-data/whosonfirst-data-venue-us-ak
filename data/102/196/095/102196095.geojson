@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.849699,61.103187,-149.849699,61.103187",
+    "geom:latitude":61.103187,
+    "geom:longitude":-149.849699,
+    "iso:country":"US",
+    "sg:address":"12901 Gail St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 7121",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "leasing",
+        "charter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W536SZJESgpxMKUp1jgSt_61.103187_-149.849699@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6e46cd9f173fadc10105d655670d28b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102196095"
+        }
+    ],
+    "wof:id":"102196095",
+    "wof:lastmodified":1449068336,
+    "wof:name":"Wings",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.849699,61.103187,-149.849699,61.103187],
+  "geometry": {"coordinates":[-149.849699,61.103187],"type":"Point"}
+}

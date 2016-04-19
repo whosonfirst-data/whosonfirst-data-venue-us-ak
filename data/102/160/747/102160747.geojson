@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.444749,61.592318,-149.444749,61.592318",
+    "geom:latitude":61.592318,
+    "geom:longitude":-149.444749,
+    "iso:country":"US",
+    "sg:address":"301 Aspen Ave",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 3171",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Sk35DftLN7qebQvMervis_61.592318_-149.444749@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"589d4c09903ed5569e3f417b8efc875f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102160747"
+        }
+    ],
+    "wof:id":"102160747",
+    "wof:lastmodified":1449069774,
+    "wof:name":"Spartan Roofing Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.444749,61.592318,-149.444749,61.592318],
+  "geometry": {"coordinates":[-149.444749,61.592318],"type":"Point"}
+}

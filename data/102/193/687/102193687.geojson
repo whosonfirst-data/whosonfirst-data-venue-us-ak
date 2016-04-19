@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.72722,55.377365,-131.72722,55.377365",
+    "geom:latitude":55.377365,
+    "geom:longitude":-131.72722,
+    "iso:country":"US",
+    "sg:address":"5150 N Tongass Hwy",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 5118",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oWAx1ARof3SuwNpceO75I_55.377365_-131.727220@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"78c154432ed5bb77d1baabc7391717e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102193687"
+        }
+    ],
+    "wof:id":"102193687",
+    "wof:lastmodified":1449068192,
+    "wof:name":"State Troopers Div",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.72722,55.377365,-131.72722,55.377365],
+  "geometry": {"coordinates":[-131.72722,55.377365],"type":"Point"}
+}

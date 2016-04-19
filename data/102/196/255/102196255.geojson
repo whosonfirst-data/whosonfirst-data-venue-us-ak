@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.71527,64.859132,-147.71527,64.859132",
+    "geom:latitude":64.859132,
+    "geom:longitude":-147.71527,
+    "iso:country":"US",
+    "sg:address":"47 Anna Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 5852",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home",
+        "demonstration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830247,
+        85633793,
+        85916559,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RRDbhUsOJTwP07hKH4Tfv_64.859132_-147.715270@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f21fcdf8e7d0bfac11ae27e8139ad0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "neighbourhood_id":85830247,
+            "region_id":85688573,
+            "venue_id":"102196255"
+        }
+    ],
+    "wof:id":"102196255",
+    "wof:lastmodified":1449068336,
+    "wof:name":"Barnes Enterprises",
+    "wof:parent_id":85830247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.71527,64.859132,-147.71527,64.859132],
+  "geometry": {"coordinates":[-147.71527,64.859132],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.328016,57.056074,-135.328016,57.056074",
+    "geom:latitude":57.056074,
+    "geom:longitude":-135.328016,
+    "iso:country":"US",
+    "sg:address":"606 Merrill St",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Aquatic Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 3107",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "fish"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iLh75D3DTkUDjWZWjUMVF_57.056074_-135.328016@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"38b0258b7d50acc81b0ae14b8fd0eaf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102160361"
+        }
+    ],
+    "wof:id":"102160361",
+    "wof:lastmodified":1449069777,
+    "wof:name":"Rose Fisheries",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.328016,57.056074,-135.328016,57.056074],
+  "geometry": {"coordinates":[-135.328016,57.056074],"type":"Point"}
+}

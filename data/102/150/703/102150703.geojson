@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-156.769774,71.288141,-156.769774,71.288141",
+    "geom:latitude":71.288141,
+    "geom:longitude":-156.769774,
+    "iso:country":"US",
+    "sg:address":"1741 Ahkovak St",
+    "sg:city":"Barrow",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 852 4653",
+    "sg:postcode":"99723",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915545,
+        85633793,
+        85688573,
+        102081001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35vDCMO5PbMCeiqoTGSyGu_71.288141_-156.769774@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b49bd79614e34b6a095d9e3a7d573765",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081001,
+            "locality_id":85915545,
+            "region_id":85688573,
+            "venue_id":"102150703"
+        }
+    ],
+    "wof:id":"102150703",
+    "wof:lastmodified":1449067790,
+    "wof:name":"Alaska Airlines Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-156.769774,71.288141,-156.769774,71.288141],
+  "geometry": {"coordinates":[-156.769774,71.288141],"type":"Point"}
+}

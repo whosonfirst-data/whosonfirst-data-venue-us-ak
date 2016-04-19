@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.587072,58.374058,-134.587072,58.374058",
+    "geom:latitude":58.374058,
+    "geom:longitude":-134.587072,
+    "iso:country":"US",
+    "sg:address":"9205 James Blvd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 5666",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kscEIG9pnGbDZQjcU2rrb_58.374058_-134.587072@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6a0a7db216af712a96a453bbd8b643e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102163375"
+        }
+    ],
+    "wof:id":"102163375",
+    "wof:lastmodified":1449070159,
+    "wof:name":"James Place Apartments",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.587072,58.374058,-134.587072,58.374058],
+  "geometry": {"coordinates":[-134.587072,58.374058],"type":"Point"}
+}

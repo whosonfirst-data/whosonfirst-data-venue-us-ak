@@ -1,0 +1,71 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.702136,64.812945,-147.702136,64.812945",
+    "geom:latitude":64.812945,
+    "geom:longitude":-147.702136,
+    "iso:country":"US",
+    "sg:address":"200 E Van Horn Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 8071",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "automobile",
+        "work",
+        "electrical",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nJxS3zZ3Q5dfdunFTz6Xl_64.812945_-147.702136@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7de1e40eaaf212b989e515a2c0402534",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102170971"
+        }
+    ],
+    "wof:id":"102170971",
+    "wof:lastmodified":1449068018,
+    "wof:name":"Alaska Electric Rebuilders Inc",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.702136,64.812945,-147.702136,64.812945],
+  "geometry": {"coordinates":[-147.702136,64.812945],"type":"Point"}
+}

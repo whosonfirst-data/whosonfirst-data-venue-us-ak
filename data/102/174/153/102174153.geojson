@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.606131,58.368297,-134.606131,58.368297",
+    "geom:latitude":58.368297,
+    "geom:longitude":-134.606131,
+    "iso:country":"US",
+    "sg:address":"10010 Camden Pl",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 3883",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hySRqgCKx0GpldxAmNBWQ_58.368297_-134.606131@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2522719044b604f6453711f2a55b6952",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102174153"
+        }
+    ],
+    "wof:id":"102174153",
+    "wof:lastmodified":1449068139,
+    "wof:name":"Karl's Auto & Marine Repair",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.606131,58.368297,-134.606131,58.368297],
+  "geometry": {"coordinates":[-134.606131,58.368297],"type":"Point"}
+}

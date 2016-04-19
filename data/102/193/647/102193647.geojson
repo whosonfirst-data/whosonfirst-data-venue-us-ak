@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.525551,61.587868,-149.525551,61.587868",
+    "geom:latitude":61.587868,
+    "geom:longitude":-149.525551,
+    "iso:country":"US",
+    "sg:address":"2805 Youngtree Dr",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 9355",
+    "sg:postcode":"99687",
+    "sg:province":"AK",
+    "sg:tags":[
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eGAPVFoERKBu5j1vrghGP_61.587868_-149.525551@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f8d62534a227f60f67a2dec496bdd27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102193647"
+        }
+    ],
+    "wof:id":"102193647",
+    "wof:lastmodified":1449068191,
+    "wof:name":"A Plus Medical Billing Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.525551,61.587868,-149.525551,61.587868],
+  "geometry": {"coordinates":[-149.525551,61.587868],"type":"Point"}
+}

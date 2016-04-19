@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.848567,61.176113,-149.848567,61.176113",
+    "geom:latitude":61.176113,
+    "geom:longitude":-149.848567,
+    "iso:country":"US",
+    "sg:address":"1654 Wickersham Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 2885",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FrM7j5pdJaViHPb3ySCtD_61.176113_-149.848567@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e96abe35c6b41960a60d4195c4280356",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102152705"
+        }
+    ],
+    "wof:id":"102152705",
+    "wof:lastmodified":1449069638,
+    "wof:name":"R & B Construction",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.848567,61.176113,-149.848567,61.176113],
+  "geometry": {"coordinates":[-149.848567,61.176113],"type":"Point"}
+}

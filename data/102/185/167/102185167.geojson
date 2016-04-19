@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.35456,57.063083,-135.35456,57.063083",
+    "geom:latitude":57.063083,
+    "geom:longitude":-135.35456,
+    "iso:country":"US",
+    "sg:address":"1315 Halibut Point Rd",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 3056",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iUOE079S5KyxccNrFimws_57.063083_-135.354560@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fb8b5bc7621b8f6ba96b078497343f1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102185167"
+        }
+    ],
+    "wof:id":"102185167",
+    "wof:lastmodified":1449068196,
+    "wof:name":"Rockwell Lighthouse",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.35456,57.063083,-135.35456,57.063083],
+  "geometry": {"coordinates":[-135.35456,57.063083],"type":"Point"}
+}

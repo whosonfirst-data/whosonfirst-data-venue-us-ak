@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.301605,57.051017,-135.301605,57.051017",
+    "geom:latitude":57.051017,
+    "geom:longitude":-135.301605,
+    "iso:country":"US",
+    "sg:address":"222 Lance Dr",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 7342",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916107,
+        85633793,
+        85688573,
+        102081405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cNwePsIyAuV1epn90oJnn_57.051017_-135.301605@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"625ea6636ace91e407fff2b8314d9ddc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "region_id":85688573,
+            "venue_id":"102155113"
+        }
+    ],
+    "wof:id":"102155113",
+    "wof:lastmodified":1449069745,
+    "wof:name":"Absolute Tree Care",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.301605,57.051017,-135.301605,57.051017],
+  "geometry": {"coordinates":[-135.301605,57.051017],"type":"Point"}
+}

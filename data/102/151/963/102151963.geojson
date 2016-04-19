@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.849873,61.217624,-149.849873,61.217624",
+    "geom:latitude":61.217624,
+    "geom:longitude":-149.849873,
+    "iso:country":"US",
+    "sg:address":"1675 E 5th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 7599",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MsNCOR257yBjnTSSpnGTO_61.217624_-149.849873@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4ff730433aec695cfff2b40b23dd3309",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102151963"
+        }
+    ],
+    "wof:id":"102151963",
+    "wof:lastmodified":1449067780,
+    "wof:name":"Peggy's Restaurant",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.849873,61.217624,-149.849873,61.217624],
+  "geometry": {"coordinates":[-149.849873,61.217624],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.262684,61.617667,-149.262684,61.617667",
+    "geom:latitude":61.617667,
+    "geom:longitude":-149.262684,
+    "iso:country":"US",
+    "sg:address":"7620 Sebastian Dr",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 2844",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916225,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XvpEf0pQ0Q7yiPdd0d0zP_61.617667_-149.262684@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1c9bfd283d32da7bb5ffd4768869ce73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916225,
+            "region_id":85688573,
+            "venue_id":"102178983"
+        }
+    ],
+    "wof:id":"102178983",
+    "wof:lastmodified":1449069536,
+    "wof:name":"Mechanical Contractors Alaska",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.262684,61.617667,-149.262684,61.617667],
+  "geometry": {"coordinates":[-149.262684,61.617667],"type":"Point"}
+}

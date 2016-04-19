@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.851696,61.180771,-149.851696,61.180771",
+    "geom:latitude":61.180771,
+    "geom:longitude":-149.851696,
+    "iso:country":"US",
+    "sg:address":"1630 E Tudor Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 271 5033",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ewNsxfLHysien9TOeBlOB_61.180771_-149.851696@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"381ceca40cf82d326053db8538da1754",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102195209"
+        }
+    ],
+    "wof:id":"102195209",
+    "wof:lastmodified":1449069365,
+    "wof:name":"US Drug Enforcement Adm",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.851696,61.180771,-149.851696,61.180771],
+  "geometry": {"coordinates":[-149.851696,61.180771],"type":"Point"}
+}

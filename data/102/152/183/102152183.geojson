@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.89888,61.157246,-149.89888,61.157246",
+    "geom:latitude":61.157246,
+    "geom:longitude":-149.89888,
+    "iso:country":"US",
+    "sg:address":"1041 W 70th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 5853",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Wwi74xD6oMcbjgbjfEctB_61.157246_-149.898880@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"da67ec5836de1cffffdd6d48b3c2ef86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102152183"
+        }
+    ],
+    "wof:id":"102152183",
+    "wof:lastmodified":1449069636,
+    "wof:name":"Wild S'Tile",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.89888,61.157246,-149.89888,61.157246],
+  "geometry": {"coordinates":[-149.89888,61.157246],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.884372,61.181177,-149.884372,61.181177",
+    "geom:latitude":61.181177,
+    "geom:longitude":-149.884372,
+    "iso:country":"US",
+    "sg:address":"4041 B St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 2135",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5roRRrDkeg5cpDbH7A5snr_61.181177_-149.884372@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"77e0eeaee5e5d259835199aeacdf37c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102191511"
+        }
+    ],
+    "wof:id":"102191511",
+    "wof:lastmodified":1449069200,
+    "wof:name":"Schneider & Associates Strctrl",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.884372,61.181177,-149.884372,61.181177],
+  "geometry": {"coordinates":[-149.884372,61.181177],"type":"Point"}
+}

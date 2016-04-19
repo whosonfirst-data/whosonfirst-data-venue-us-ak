@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.820799,64.836707,-147.820799,64.836707",
+    "geom:latitude":64.836707,
+    "geom:longitude":-147.820799,
+    "iso:country":"US",
+    "sg:address":"3733 Airport Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 8123",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZmcZ2jkACgrXcjGWZpHax_64.836707_-147.820799@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a891ec3d699f26376e65d781d511e1e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102152191"
+        }
+    ],
+    "wof:id":"102152191",
+    "wof:lastmodified":1449069634,
+    "wof:name":"Alaska USA Federal CU",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.820799,64.836707,-147.820799,64.836707],
+  "geometry": {"coordinates":[-147.820799,64.836707],"type":"Point"}
+}

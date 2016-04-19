@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.684001,65.129396,-147.684001,65.129396",
+    "geom:latitude":65.129396,
+    "geom:longitude":-147.684001,
+    "iso:country":"US",
+    "sg:address":"6025 Cogan Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 7587",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "ranch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BfZGVpuLJMIYzZjGTvMlG_65.129396_-147.684001@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d9a928af3aceb8944529362543a2bcc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "region_id":85688573,
+            "venue_id":"102177097"
+        }
+    ],
+    "wof:id":"102177097",
+    "wof:lastmodified":1449070208,
+    "wof:name":"Pat's Ranch",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.684001,65.129396,-147.684001,65.129396],
+  "geometry": {"coordinates":[-147.684001,65.129396],"type":"Point"}
+}

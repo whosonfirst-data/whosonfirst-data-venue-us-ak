@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.829676,64.846898,-147.829676,64.846898",
+    "geom:latitude":64.846898,
+    "geom:longitude":-147.829676,
+    "iso:country":"US",
+    "sg:address":"656 Fairbanks St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 4951",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vTfx93XALs597Z5kcllpf_64.846898_-147.829676@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a8d9acdcf8645939644fa16b2ec1cf75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102150187"
+        }
+    ],
+    "wof:id":"102150187",
+    "wof:lastmodified":1449067790,
+    "wof:name":"Environmental Compliance",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.829676,64.846898,-147.829676,64.846898],
+  "geometry": {"coordinates":[-147.829676,64.846898],"type":"Point"}
+}

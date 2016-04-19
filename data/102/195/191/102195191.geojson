@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.759378,64.818016,-147.759378,64.818016",
+    "geom:latitude":64.818016,
+    "geom:longitude":-147.759378,
+    "iso:country":"US",
+    "sg:address":"3205 N Van Horn Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 2583",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "boring",
+        "drilling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V9Gx4huP8EihtF9XM86yj_64.818016_-147.759378@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a1fd86944e0761162afee1e6b0a4825f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102195191"
+        }
+    ],
+    "wof:id":"102195191",
+    "wof:lastmodified":1449069364,
+    "wof:name":"De Boer Drilling Co",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.759378,64.818016,-147.759378,64.818016],
+  "geometry": {"coordinates":[-147.759378,64.818016],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.579414,58.400598,-134.579414,58.400598",
+    "geom:latitude":58.400598,
+    "geom:longitude":-134.579414,
+    "iso:country":"US",
+    "sg:address":"9109 Mendenhall Loop Rd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 796 3663",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lYSxo240BwCZgAqKmYyim_58.400598_-134.579414@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"367ab46b24c58016397553a7ba811b09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102159417"
+        }
+    ],
+    "wof:id":"102159417",
+    "wof:lastmodified":1449068093,
+    "wof:name":"Henry's Food & Spirits",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.579414,58.400598,-134.579414,58.400598],
+  "geometry": {"coordinates":[-134.579414,58.400598],"type":"Point"}
+}

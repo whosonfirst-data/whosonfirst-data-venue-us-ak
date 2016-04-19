@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.92774,61.173301,-149.92774,61.173301",
+    "geom:latitude":61.173301,
+    "geom:longitude":-149.92774,
+    "iso:country":"US",
+    "sg:address":"5205 Northwood Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 245 5002",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:website":"www.microtelinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZWNgvs997g3ekzeoHSOxK_61.173301_-149.927740@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4ba2a571461e06fe605cf14ed993d47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102168887"
+        }
+    ],
+    "wof:id":"102168887",
+    "wof:lastmodified":1449069007,
+    "wof:name":"Microtel Inns & Suites",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.92774,61.173301,-149.92774,61.173301],
+  "geometry": {"coordinates":[-149.92774,61.173301],"type":"Point"}
+}

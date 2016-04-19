@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.940439,61.180038,-149.940439,61.180038",
+    "geom:latitude":61.180038,
+    "geom:longitude":-149.940439,
+    "iso:country":"US",
+    "sg:address":"3040 Lakeshore Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 245 0001",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "jewelry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2o20jBMewL51319ZU4p89b_61.180038_-149.940439@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f20c254f39f5805bf95716f323f7e513",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102175093"
+        }
+    ],
+    "wof:id":"102175093",
+    "wof:lastmodified":1449069463,
+    "wof:name":"Donahue's Fine Jewelry",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.940439,61.180038,-149.940439,61.180038],
+  "geometry": {"coordinates":[-149.940439,61.180038],"type":"Point"}
+}

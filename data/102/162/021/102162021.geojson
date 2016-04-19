@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-148.051052,64.929287,-148.051052,64.929287",
+    "geom:latitude":64.929287,
+    "geom:longitude":-148.051052,
+    "iso:country":"US",
+    "sg:address":"3961 Murphy Dome Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 4224",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916569,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IioPLFYI6y5QAs37ltC7N_64.929287_-148.051052@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e5695a2dfe992ec3815e106c89ac4630",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916569,
+            "region_id":85688573,
+            "venue_id":"102162021"
+        }
+    ],
+    "wof:id":"102162021",
+    "wof:lastmodified":1449069822,
+    "wof:name":"Interior Alaska Communications",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-148.051052,64.929287,-148.051052,64.929287],
+  "geometry": {"coordinates":[-148.051052,64.929287],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.313904,60.575459,-151.313904,60.575459",
+    "geom:latitude":60.575459,
+    "geom:longitude":-151.313904,
+    "iso:country":"US",
+    "sg:address":"14063 Kenai Spur Hwy",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 2040",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3B9sVNAg3LOv3RCOLO9kDS_60.575459_-151.313904@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4592c792ee848153bbf6a94522dd469b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102155005"
+        }
+    ],
+    "wof:id":"102155005",
+    "wof:lastmodified":1449069746,
+    "wof:name":"Transmission Connection",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.313904,60.575459,-151.313904,60.575459],
+  "geometry": {"coordinates":[-151.313904,60.575459],"type":"Point"}
+}

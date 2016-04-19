@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.863944,61.114501,-149.863944,61.114501",
+    "geom:latitude":61.114501,
+    "geom:longitude":-149.863944,
+    "iso:country":"US",
+    "sg:address":"11650 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 4546",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873755,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4P9iWyt8MhpLdAfRu0QXG0_61.114501_-149.863944@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3e90f33c2f3056481569de048a40796b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873755,
+            "region_id":85688573,
+            "venue_id":"102177683"
+        }
+    ],
+    "wof:id":"102177683",
+    "wof:lastmodified":1449070208,
+    "wof:name":"Southside Barber Shop",
+    "wof:parent_id":85873755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.863944,61.114501,-149.863944,61.114501],
+  "geometry": {"coordinates":[-149.863944,61.114501],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.281365,60.561942,-151.281365,60.561942",
+    "geom:latitude":60.561942,
+    "geom:longitude":-151.281365,
+    "iso:country":"US",
+    "sg:address":"207 N Gill St",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 7236",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7S7pdelAlgFERw0PrkMLiy_60.561942_-151.281365@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ed61706048e6c55910234e922f026232",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102183053"
+        }
+    ],
+    "wof:id":"102183053",
+    "wof:lastmodified":1449069040,
+    "wof:name":"Peninsula Tile",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.281365,60.561942,-151.281365,60.561942],
+  "geometry": {"coordinates":[-151.281365,60.561942],"type":"Point"}
+}

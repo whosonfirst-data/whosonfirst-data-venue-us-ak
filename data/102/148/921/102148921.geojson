@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.891099,61.234927,-149.891099,61.234927",
+    "geom:latitude":61.234927,
+    "geom:longitude":-149.891099,
+    "iso:country":"US",
+    "sg:address":"800 Ocean Dock Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 4212",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "ice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873711,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xTRybktz7aXKmYZZYY9vF_61.234927_-149.891099@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"78101999d5511b236f8d87b7862204b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873711,
+            "region_id":85688573,
+            "venue_id":"102148921"
+        }
+    ],
+    "wof:id":"102148921",
+    "wof:lastmodified":1449069785,
+    "wof:name":"Jack's Ice & Popcorn",
+    "wof:parent_id":85873711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.891099,61.234927,-149.891099,61.234927],
+  "geometry": {"coordinates":[-149.891099,61.234927],"type":"Point"}
+}

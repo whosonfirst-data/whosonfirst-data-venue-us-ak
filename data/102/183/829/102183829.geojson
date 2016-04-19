@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.249689,64.776367,-147.249689,64.776367",
+    "geom:latitude":64.776367,
+    "geom:longitude":-147.249689,
+    "iso:country":"US",
+    "sg:address":"2029 Marble Ct",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 3817",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916555,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f89rHKWbEkWuIYWBzffxg_64.776367_-147.249689@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bc1671832e3f68e9dfc3b58075fa42d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916555,
+            "region_id":85688573,
+            "venue_id":"102183829"
+        }
+    ],
+    "wof:id":"102183829",
+    "wof:lastmodified":1449069044,
+    "wof:name":"Clage Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.249689,64.776367,-147.249689,64.776367],
+  "geometry": {"coordinates":[-147.249689,64.776367],"type":"Point"}
+}

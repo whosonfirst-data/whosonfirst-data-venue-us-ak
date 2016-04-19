@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.171137,60.469485,-151.171137,60.469485",
+    "geom:latitude":60.469485,
+    "geom:longitude":-151.171137,
+    "iso:country":"US",
+    "sg:address":"33735 Gas Well Rd",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 8315",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916957,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lc79QgjClQdTHgt8jhy9Z_60.469485_-151.171137@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ee9bfcbbb1c2f5cc7a8d77223a89fb61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916957,
+            "region_id":85688573,
+            "venue_id":"102159797"
+        }
+    ],
+    "wof:id":"102159797",
+    "wof:lastmodified":1449068095,
+    "wof:name":"Neil's Welding & Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.171137,60.469485,-151.171137,60.469485],
+  "geometry": {"coordinates":[-151.171137,60.469485],"type":"Point"}
+}

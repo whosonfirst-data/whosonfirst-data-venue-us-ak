@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.318,60.70165,-151.318,60.70165",
+    "geom:latitude":60.70165,
+    "geom:longitude":-151.318,
+    "iso:country":"US",
+    "sg:address":"52918 Tenakee Loop",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 776 8552",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "residential",
+        "commercial",
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916883,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bYR45wBmXNqvex8mpA6s2_60.701650_-151.318000@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"33758be2485f9278d75496caaf3d43f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916883,
+            "region_id":85688573,
+            "venue_id":"102189713"
+        }
+    ],
+    "wof:id":"102189713",
+    "wof:lastmodified":1449069498,
+    "wof:name":"Troy Built Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.318,60.70165,-151.318,60.70165],
+  "geometry": {"coordinates":[-151.318,60.70165],"type":"Point"}
+}

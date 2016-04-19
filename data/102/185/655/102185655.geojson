@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.438764,60.101654,-149.438764,60.101654",
+    "geom:latitude":60.101654,
+    "geom:longitude":-149.438764,
+    "iso:country":"US",
+    "sg:address":"238 5th Ave",
+    "sg:city":"Seward",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 224 3646",
+    "sg:postcode":"99664",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915769,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R8aVdr96JXwzlyonVkPg8_60.101654_-149.438764@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c0131313ae49267c14f872a697a2a9c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915769,
+            "region_id":85688573,
+            "venue_id":"102185655"
+        }
+    ],
+    "wof:id":"102185655",
+    "wof:lastmodified":1449068196,
+    "wof:name":"Seward Community Library",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.438764,60.101654,-149.438764,60.101654],
+  "geometry": {"coordinates":[-149.438764,60.101654],"type":"Point"}
+}

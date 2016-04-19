@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.894063,61.165279,-149.894063,61.165279",
+    "geom:latitude":61.165279,
+    "geom:longitude":-149.894063,
+    "iso:country":"US",
+    "sg:address":"6218 Nielson Way",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 4088",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "steel",
+        "fabrication",
+        "welding"
+    ],
+    "sg:website":"www.alliedsteelconst.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J9VqtN82VPjKdlJGKN7p3_61.165279_-149.894063@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1460d3fd30be4a889aff98fe39af4aae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102176627"
+        }
+    ],
+    "wof:id":"102176627",
+    "wof:lastmodified":1449069348,
+    "wof:name":"Allied Steel Construction Inc",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.894063,61.165279,-149.894063,61.165279],
+  "geometry": {"coordinates":[-149.894063,61.165279],"type":"Point"}
+}

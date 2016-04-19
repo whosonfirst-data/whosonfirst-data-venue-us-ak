@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.335241,57.051788,-135.335241,57.051788",
+    "geom:latitude":57.051788,
+    "geom:longitude":-135.335241,
+    "iso:country":"US",
+    "sg:address":"323 Seward St",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 3430",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_102TymCuuxBOo9yHEyFAdh_57.051788_-135.335241@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"62472d7ac0722aae5e2d3452fc073971",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102155135"
+        }
+    ],
+    "wof:id":"102155135",
+    "wof:lastmodified":1449069744,
+    "wof:name":"White Elephant Shop",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.335241,57.051788,-135.335241,57.051788],
+  "geometry": {"coordinates":[-135.335241,57.051788],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.524917,61.316257,-149.524917,61.316257",
+    "geom:latitude":61.316257,
+    "geom:longitude":-149.524917,
+    "iso:country":"US",
+    "sg:address":"18521 Whirlaway Rd",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 696 7172",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "aircraft",
+        "parts",
+        "supply"
+    ],
+    "sg:website":"www.alaskawingcovers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u4tzQj3tuG5vjjugpTVe9_61.316257_-149.524917@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b82129877f3c9579d7b170b5ec4a0f1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102172677"
+        }
+    ],
+    "wof:id":"102172677",
+    "wof:lastmodified":1449068736,
+    "wof:name":"Alaska Wing Covers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.524917,61.316257,-149.524917,61.316257],
+  "geometry": {"coordinates":[-149.524917,61.316257],"type":"Point"}
+}

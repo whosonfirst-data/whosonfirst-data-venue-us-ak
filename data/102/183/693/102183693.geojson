@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.779313,61.218577,-149.779313,61.218577",
+    "geom:latitude":61.218577,
+    "geom:longitude":-149.779313,
+    "iso:country":"US",
+    "sg:address":"5456 E 4th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 770 5777",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3A9DylUjLaICOpaRjDd5LC_61.218577_-149.779313@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5885c76c76da21e12cea881c26ee1dbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102183693"
+        }
+    ],
+    "wof:id":"102183693",
+    "wof:lastmodified":1449069041,
+    "wof:name":"Oriental Jewelry Store",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.779313,61.218577,-149.779313,61.218577],
+  "geometry": {"coordinates":[-149.779313,61.218577],"type":"Point"}
+}

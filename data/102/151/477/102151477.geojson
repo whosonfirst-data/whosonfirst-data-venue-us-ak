@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.906786,61.186501,-149.906786,61.186501",
+    "geom:latitude":61.186501,
+    "geom:longitude":-149.906786,
+    "iso:country":"US",
+    "sg:address":"1204 Chugach Way",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 2533",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yg0e1rTOZo5v8ehgD4OPu_61.186501_-149.906786@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"55874541ac8b331447202ccf6130861e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102151477"
+        }
+    ],
+    "wof:id":"102151477",
+    "wof:lastmodified":1449067780,
+    "wof:name":"Iditarod Development Co",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.906786,61.186501,-149.906786,61.186501],
+  "geometry": {"coordinates":[-149.906786,61.186501],"type":"Point"}
+}

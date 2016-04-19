@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.562324,58.387505,-134.562324,58.387505",
+    "geom:latitude":58.387505,
+    "geom:longitude":-134.562324,
+    "iso:country":"US",
+    "sg:address":"3601 Amalga St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 5078",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xM1om42jcBorRZJ7voZMn_58.387505_-134.562324@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d4dc098fdf7baa86ab7dad9215528a2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102175401"
+        }
+    ],
+    "wof:id":"102175401",
+    "wof:lastmodified":1449069468,
+    "wof:name":"Coho Park Apartments",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.562324,58.387505,-134.562324,58.387505],
+  "geometry": {"coordinates":[-134.562324,58.387505],"type":"Point"}
+}

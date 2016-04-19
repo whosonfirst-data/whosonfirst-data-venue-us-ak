@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.569868,58.389365,-134.569868,58.389365",
+    "geom:latitude":58.389365,
+    "geom:longitude":-134.569868,
+    "iso:country":"US",
+    "sg:address":"3800 Mendenhall Loop Rd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 463 1850",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:website":"www.jsd.k12.ak.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3y0uuRYjIFnyDtCHAYC4bp_58.389365_-134.569868@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"853dcdcdd0205be89d1772e69ef4a10d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102164171"
+        }
+    ],
+    "wof:id":"102164171",
+    "wof:lastmodified":1449068091,
+    "wof:name":"Floyd Dryden Middle School",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.569868,58.389365,-134.569868,58.389365],
+  "geometry": {"coordinates":[-134.569868,58.389365],"type":"Point"}
+}

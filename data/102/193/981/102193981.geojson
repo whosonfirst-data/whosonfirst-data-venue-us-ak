@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.363381,57.817697,-152.363381,57.817697",
+    "geom:latitude":57.817697,
+    "geom:longitude":-152.363381,
+    "iso:country":"US",
+    "sg:address":"3274 Ptarmigan Pass",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 5832",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qVM6VktZkEM2YUbe8n1mC_57.817697_-152.363381@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"09c4946985e24759a46e5ff174f2630d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "region_id":85688573,
+            "venue_id":"102193981"
+        }
+    ],
+    "wof:id":"102193981",
+    "wof:lastmodified":1449068193,
+    "wof:name":"Zimmer Rentals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.363381,57.817697,-152.363381,57.817697],
+  "geometry": {"coordinates":[-152.363381,57.817697],"type":"Point"}
+}

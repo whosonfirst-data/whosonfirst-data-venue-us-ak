@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.068692,60.483347,-151.068692,60.483347",
+    "geom:latitude":60.483347,
+    "geom:longitude":-151.068692,
+    "iso:country":"US",
+    "sg:address":"44376 Sterling Hwy",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 260 3460",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L8c95F8CA01iEGt178pxi_60.483347_-151.068692@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4d0b7da34bddc94e7d505a2505ba5d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102179765"
+        }
+    ],
+    "wof:id":"102179765",
+    "wof:lastmodified":1449069942,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.068692,60.483347,-151.068692,60.483347],
+  "geometry": {"coordinates":[-151.068692,60.483347],"type":"Point"}
+}

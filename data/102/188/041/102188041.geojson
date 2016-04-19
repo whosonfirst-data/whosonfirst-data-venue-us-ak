@@ -1,0 +1,70 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.405265,58.299187,-134.405265,58.299187",
+    "geom:latitude":58.299187,
+    "geom:longitude":-134.405265,
+    "iso:country":"US",
+    "sg:address":"251 Marine Way",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 463 2544",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mfg",
+        "dealer",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27uS1FssZ1kTsxaCKpxvuQ_58.299187_-134.405265@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"607212aa5a29e13b5f966f4ecadf018a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102188041"
+        }
+    ],
+    "wof:id":"102188041",
+    "wof:lastmodified":1449068946,
+    "wof:name":"Talisman LLC",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.405265,58.299187,-134.405265,58.299187],
+  "geometry": {"coordinates":[-134.405265,58.299187],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-150.895429,60.522921,-150.895429,60.522921",
+    "geom:latitude":60.522921,
+    "geom:longitude":-150.895429,
+    "iso:country":"US",
+    "sg:address":"38345 Homewood Ave",
+    "sg:city":"Sterling",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 6591",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "sg:website":"www.homewoodtaxidermy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916845,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cnE3F4HUYsvP6bpRKIo4p_60.522921_-150.895429@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"85ae758cef0a3d7bb64d805c891f4dc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916845,
+            "region_id":85688573,
+            "venue_id":"102152647"
+        }
+    ],
+    "wof:id":"102152647",
+    "wof:lastmodified":1449069634,
+    "wof:name":"Homewood Taxidermy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-150.895429,60.522921,-150.895429,60.522921],
+  "geometry": {"coordinates":[-150.895429,60.522921],"type":"Point"}
+}

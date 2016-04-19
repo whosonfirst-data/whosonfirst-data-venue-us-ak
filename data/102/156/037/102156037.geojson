@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.857483,61.156089,-149.857483,61.156089",
+    "geom:latitude":61.156089,
+    "geom:longitude":-149.857483,
+    "iso:country":"US",
+    "sg:address":"1200 E 70th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 3383",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "material",
+        "handling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DwUAaZV8IdNQhFxvPyP3J_61.156089_-149.857483@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7efee714ed5b91d09e99e375367f8090",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102156037"
+        }
+    ],
+    "wof:id":"102156037",
+    "wof:lastmodified":1449068284,
+    "wof:name":"Independent Lift Truck-Alaska",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.857483,61.156089,-149.857483,61.156089],
+  "geometry": {"coordinates":[-149.857483,61.156089],"type":"Point"}
+}

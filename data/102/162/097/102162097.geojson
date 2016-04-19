@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.256092,61.604046,-149.256092,61.604046",
+    "geom:latitude":61.604046,
+    "geom:longitude":-149.256092,
+    "iso:country":"US",
+    "sg:address":"2100 Greenforest Dr",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 1134",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916225,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gXRAeR0XcvXYA2CJeUjok_61.604046_-149.256092@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d100168705c763f8faa5688f26765bc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916225,
+            "region_id":85688573,
+            "venue_id":"102162097"
+        }
+    ],
+    "wof:id":"102162097",
+    "wof:lastmodified":1449069822,
+    "wof:name":"Woodland Taxidermy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.256092,61.604046,-149.256092,61.604046],
+  "geometry": {"coordinates":[-149.256092,61.604046],"type":"Point"}
+}

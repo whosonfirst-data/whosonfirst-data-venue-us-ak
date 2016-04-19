@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.054989,61.657017,-149.054989,61.657017",
+    "geom:latitude":61.657017,
+    "geom:longitude":-149.054989,
+    "iso:country":"US",
+    "sg:address":"4690 Wolverine Rd",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 7934",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916219,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d0KwzbTATGVl05zZ29zwg_61.657017_-149.054989@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"721b43edb9037c4e36b99f5cae01a9cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916219,
+            "region_id":85688573,
+            "venue_id":"102170217"
+        }
+    ],
+    "wof:id":"102170217",
+    "wof:lastmodified":1449068020,
+    "wof:name":"Don's Gun Room",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.054989,61.657017,-149.054989,61.657017],
+  "geometry": {"coordinates":[-149.054989,61.657017],"type":"Point"}
+}

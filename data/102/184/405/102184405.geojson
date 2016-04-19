@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.751092,61.209796,-149.751092,61.209796",
+    "geom:latitude":61.209796,
+    "geom:longitude":-149.751092,
+    "iso:country":"US",
+    "sg:address":"6901 Debarr Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 2121",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19GRfcA4i1pi25ORBnVFsI_61.209796_-149.751092@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"73aeededdca55d7ad6a38c4523c1b10d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102184405"
+        }
+    ],
+    "wof:id":"102184405",
+    "wof:lastmodified":1449068217,
+    "wof:name":"RTO Rents",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.751092,61.209796,-149.751092,61.209796],
+  "geometry": {"coordinates":[-149.751092,61.209796],"type":"Point"}
+}

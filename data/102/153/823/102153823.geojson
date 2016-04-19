@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.718978,64.838424,-147.718978,64.838424",
+    "geom:latitude":64.838424,
+    "geom:longitude":-147.718978,
+    "iso:country":"US",
+    "sg:address":"1101 Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 4503",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A1i82sFWbRib0YU1jQ3Il_64.838424_-147.718978@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"61e18fc34e5c1495a86d6f52a898e951",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102153823"
+        }
+    ],
+    "wof:id":"102153823",
+    "wof:lastmodified":1449069463,
+    "wof:name":"Neeser Construction",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.718978,64.838424,-147.718978,64.838424],
+  "geometry": {"coordinates":[-147.718978,64.838424],"type":"Point"}
+}

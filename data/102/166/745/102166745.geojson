@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.872603,61.195358,-149.872603,61.195358",
+    "geom:latitude":61.195358,
+    "geom:longitude":-149.872603,
+    "iso:country":"US",
+    "sg:address":"511 E Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 4147",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "sg:website":"www.ablelocksmith.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aumMmC4H9SXx6ruNUbfhj_61.195358_-149.872603@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0bc5af0d211454f0527810c5f40f89a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102166745"
+        }
+    ],
+    "wof:id":"102166745",
+    "wof:lastmodified":1449069087,
+    "wof:name":"Able Locksmiths Inc",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.872603,61.195358,-149.872603,61.195358],
+  "geometry": {"coordinates":[-149.872603,61.195358],"type":"Point"}
+}

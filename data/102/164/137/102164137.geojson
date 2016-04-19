@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.483109,58.357863,-134.483109,58.357863",
+    "geom:latitude":58.357863,
+    "geom:longitude":-134.483109,
+    "iso:country":"US",
+    "sg:address":"5321 Commercial Blvd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 796 2277",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s88cnH1joG2ayDipE67rH_58.357863_-134.483109@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"34fc4a8ba2a205266eb425a084b49e15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102164137"
+        }
+    ],
+    "wof:id":"102164137",
+    "wof:lastmodified":1449068092,
+    "wof:name":"Affordable Auto Sales",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.483109,58.357863,-134.483109,58.357863],
+  "geometry": {"coordinates":[-134.483109,58.357863],"type":"Point"}
+}

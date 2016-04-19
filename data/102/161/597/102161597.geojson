@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.855631,61.165096,-149.855631,61.165096",
+    "geom:latitude":61.165096,
+    "geom:longitude":-149.855631,
+    "iso:country":"US",
+    "sg:address":"6305 Brayton Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 4604",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "storage"
+    ],
+    "sg:website":"www.spaceplacestorage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4788y3mp1IpKGTgdQmmi8U_61.165096_-149.855631@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f49964426c027388703613a243a2be0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102161597"
+        }
+    ],
+    "wof:id":"102161597",
+    "wof:lastmodified":1449068714,
+    "wof:name":"Space Place Storage",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.855631,61.165096,-149.855631,61.165096],
+  "geometry": {"coordinates":[-149.855631,61.165096],"type":"Point"}
+}

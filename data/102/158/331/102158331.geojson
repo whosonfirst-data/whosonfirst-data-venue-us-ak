@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.902646,61.197038,-149.902646,61.197038",
+    "geom:latitude":61.197038,
+    "geom:longitude":-149.902646,
+    "iso:country":"US",
+    "sg:address":"1020 W 26th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 3049",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gw7e5xylS5NWxuxwngYrv_61.197038_-149.902646@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0aae534934654e5c8bbe1b59b52d3fe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102158331"
+        }
+    ],
+    "wof:id":"102158331",
+    "wof:lastmodified":1449069392,
+    "wof:name":"Sarah C Reeder Lmt",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.902646,61.197038,-149.902646,61.197038],
+  "geometry": {"coordinates":[-149.902646,61.197038],"type":"Point"}
+}

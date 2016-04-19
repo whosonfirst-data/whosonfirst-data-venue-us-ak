@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.733553,61.217159,-149.733553,61.217159",
+    "geom:latitude":61.217159,
+    "geom:longitude":-149.733553,
+    "iso:country":"US",
+    "sg:address":"518 Muldoon Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 332 2679",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hxDuJ9zFcslaUnehKqM97_61.217159_-149.733553@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5f7b9c1365c4cabf9d21bcc0b1fe335b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102164393"
+        }
+    ],
+    "wof:id":"102164393",
+    "wof:lastmodified":1449068089,
+    "wof:name":"Alaska Coffee & Copy Cnnctn",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.733553,61.217159,-149.733553,61.217159],
+  "geometry": {"coordinates":[-149.733553,61.217159],"type":"Point"}
+}

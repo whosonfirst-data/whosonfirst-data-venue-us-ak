@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.755124,61.213994,-149.755124,61.213994",
+    "geom:latitude":61.213994,
+    "geom:longitude":-149.755124,
+    "iso:country":"US",
+    "sg:address":"830 Jay Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 338 5331",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "sg:website":"www.annasbb-anchorage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869053,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oULwESb4TsUd4krJSABdj_61.213994_-149.755124@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b5feb5b333f63bfb17c43b5a1bfcb688",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869053,
+            "region_id":85688573,
+            "venue_id":"102168497"
+        }
+    ],
+    "wof:id":"102168497",
+    "wof:lastmodified":1449069009,
+    "wof:name":"Anna's Bed & Breakfast",
+    "wof:parent_id":85869053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.755124,61.213994,-149.755124,61.213994],
+  "geometry": {"coordinates":[-149.755124,61.213994],"type":"Point"}
+}

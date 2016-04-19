@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.804669,64.880593,-147.804669,64.880593",
+    "geom:latitude":64.880593,
+    "geom:longitude":-147.804669,
+    "iso:country":"US",
+    "sg:address":"1625 Farmers Loop Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 8863",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916609,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OyrFG1S5i8RBVrSxxjuDP_64.880593_-147.804669@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d375a543f212e9480e6299d1f3c97e63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "region_id":85688573,
+            "venue_id":"102195775"
+        }
+    ],
+    "wof:id":"102195775",
+    "wof:lastmodified":1449069365,
+    "wof:name":"Cleworth Piano Tuning & Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.804669,64.880593,-147.804669,64.880593],
+  "geometry": {"coordinates":[-147.804669,64.880593],"type":"Point"}
+}

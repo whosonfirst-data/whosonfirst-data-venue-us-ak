@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.746668,61.06317,-149.746668,61.06317",
+    "geom:latitude":61.06317,
+    "geom:longitude":-149.746668,
+    "iso:country":"US",
+    "sg:address":"17400 Mount McKinley Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 9441",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873751,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4novKNka6P9ogP9lBL4W1A_61.063170_-149.746668@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bf091abb5938898e3efec50083500041",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873751,
+            "region_id":85688573,
+            "venue_id":"102160481"
+        }
+    ],
+    "wof:id":"102160481",
+    "wof:lastmodified":1449069779,
+    "wof:name":"Greyrock Group",
+    "wof:parent_id":85873751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.746668,61.06317,-149.746668,61.06317],
+  "geometry": {"coordinates":[-149.746668,61.06317],"type":"Point"}
+}

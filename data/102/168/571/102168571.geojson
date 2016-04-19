@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.408867,58.301615,-134.408867,58.301615",
+    "geom:latitude":58.301615,
+    "geom:longitude":-134.408867,
+    "iso:country":"US",
+    "sg:address":"301 Seward St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 2414",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:website":"www.sginc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qkiC9L0YiEj3dX6LlLAM0_58.301615_-134.408867@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ff8a311b2ec0706bed310d63d230bfa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102168571"
+        }
+    ],
+    "wof:id":"102168571",
+    "wof:lastmodified":1449069006,
+    "wof:name":"Shattuck & Grummett Inc",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.408867,58.301615,-134.408867,58.301615],
+  "geometry": {"coordinates":[-134.408867,58.301615],"type":"Point"}
+}

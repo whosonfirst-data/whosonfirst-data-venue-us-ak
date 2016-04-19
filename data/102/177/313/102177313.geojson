@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.887289,61.211112,-149.887289,61.211112",
+    "geom:latitude":61.211112,
+    "geom:longitude":-149.887289,
+    "iso:country":"US",
+    "sg:address":"1145 C St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 3322",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ER7etD8EpyyFZ8mlpyRan_61.211112_-149.887289@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f05587923d67d4668697d6c925372616",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102177313"
+        }
+    ],
+    "wof:id":"102177313",
+    "wof:lastmodified":1449070204,
+    "wof:name":"Evangelical Covenant Church",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.887289,61.211112,-149.887289,61.211112],
+  "geometry": {"coordinates":[-149.887289,61.211112],"type":"Point"}
+}

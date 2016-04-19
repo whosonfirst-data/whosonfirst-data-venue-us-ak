@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.938229,61.180226,-149.938229,61.180226",
+    "geom:latitude":61.180226,
+    "geom:longitude":-149.938229,
+    "iso:country":"US",
+    "sg:address":"4510 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 2036",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nCG4mnBAN4QsFrYszmflK_61.180226_-149.938229@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5ea6e15aae2db4e5cac2332f2376d5f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102176729"
+        }
+    ],
+    "wof:id":"102176729",
+    "wof:lastmodified":1449069347,
+    "wof:name":"Lakeview Apartments",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.938229,61.180226,-149.938229,61.180226],
+  "geometry": {"coordinates":[-149.938229,61.180226],"type":"Point"}
+}

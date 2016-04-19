@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.84783,61.184803,-149.84783,61.184803",
+    "geom:latitude":61.184803,
+    "geom:longitude":-149.84783,
+    "iso:country":"US",
+    "sg:address":"3905 Dunsmuir Ct",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 5625",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JKRjatx8fG7IjYYV5WgUE_61.184803_-149.847830@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3cb1703b099778c39aeaee8b9714c587",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102154529"
+        }
+    ],
+    "wof:id":"102154529",
+    "wof:lastmodified":1449070244,
+    "wof:name":"Larocco Locksmiths",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.84783,61.184803,-149.84783,61.184803],
+  "geometry": {"coordinates":[-149.84783,61.184803],"type":"Point"}
+}

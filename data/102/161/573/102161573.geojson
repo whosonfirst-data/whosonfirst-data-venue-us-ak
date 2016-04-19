@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.888145,61.223969,-149.888145,61.223969",
+    "geom:latitude":61.223969,
+    "geom:longitude":-149.888145,
+    "iso:country":"US",
+    "sg:address":"101 Whitney Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 4549",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "automobile",
+        "co",
+        "drive",
+        "transporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41P0Lzlao1kwRahtP51bol_61.223969_-149.888145@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3eabdcf2396dd84fd793075c5c94812a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102161573"
+        }
+    ],
+    "wof:id":"102161573",
+    "wof:lastmodified":1449068712,
+    "wof:name":"Wrightway Auto Carriers",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.888145,61.223969,-149.888145,61.223969],
+  "geometry": {"coordinates":[-149.888145,61.223969],"type":"Point"}
+}

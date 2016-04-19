@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.896763,61.196802,-149.896763,61.196802",
+    "geom:latitude":61.196802,
+    "geom:longitude":-149.896763,
+    "iso:country":"US",
+    "sg:address":"704 W 26th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 8212",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "maker",
+        "cabinet"
+    ],
+    "sg:website":"www.alaskakitchendistributors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ww8VqcCMfIBqAPFF2GOMJ_61.196802_-149.896763@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3e3e3396227802e6c03f1ccf45087766",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102178685"
+        }
+    ],
+    "wof:id":"102178685",
+    "wof:lastmodified":1449069535,
+    "wof:name":"Alaska Kitchen Distributors",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.896763,61.196802,-149.896763,61.196802],
+  "geometry": {"coordinates":[-149.896763,61.196802],"type":"Point"}
+}

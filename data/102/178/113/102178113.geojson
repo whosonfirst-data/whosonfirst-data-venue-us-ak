@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.715157,64.842599,-147.715157,64.842599",
+    "geom:latitude":64.842599,
+    "geom:longitude":-147.715157,
+    "iso:country":"US",
+    "sg:address":"413 Noble St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 4500",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LH0Nudq3HQ3S8dPo6E1Am_64.842599_-147.715157@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3436a7a2dc203809fd15a9161b41744",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102178113"
+        }
+    ],
+    "wof:id":"102178113",
+    "wof:lastmodified":1449069536,
+    "wof:name":"Music Mart & Studios",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.715157,64.842599,-147.715157,64.842599],
+  "geometry": {"coordinates":[-147.715157,64.842599],"type":"Point"}
+}

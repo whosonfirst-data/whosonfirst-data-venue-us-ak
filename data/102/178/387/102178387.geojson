@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.352327,61.568977,-149.352327,61.568977",
+    "geom:latitude":61.568977,
+    "geom:longitude":-149.352327,
+    "iso:country":"US",
+    "sg:address":"4051 Carefree Dr",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 7325",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "window"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916253,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HH00o79IIpZHwPasmXZVb_61.568977_-149.352327@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e240609bedf887f2837be82968f2d0f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916253,
+            "region_id":85688573,
+            "venue_id":"102178387"
+        }
+    ],
+    "wof:id":"102178387",
+    "wof:lastmodified":1449069531,
+    "wof:name":"Ambassador Window Cleaning",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.352327,61.568977,-149.352327,61.568977],
+  "geometry": {"coordinates":[-149.352327,61.568977],"type":"Point"}
+}

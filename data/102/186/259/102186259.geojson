@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.84698,64.811187,-147.84698,64.811187",
+    "geom:latitude":64.811187,
+    "geom:longitude":-147.84698,
+    "iso:country":"US",
+    "sg:address":"3758 University Ave S",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 4854",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916551,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0owUpC63ZuPipE0Fwd8AKu_64.811187_-147.846980@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"92526e8af9da69daef5dc502a4fa7338",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916551,
+            "region_id":85688573,
+            "venue_id":"102186259"
+        }
+    ],
+    "wof:id":"102186259",
+    "wof:lastmodified":1449069654,
+    "wof:name":"Alaska Autopilots & Avionics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.84698,64.811187,-147.84698,64.811187],
+  "geometry": {"coordinates":[-147.84698,64.811187],"type":"Point"}
+}

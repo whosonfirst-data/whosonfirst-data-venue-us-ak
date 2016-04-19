@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.811703,55.439344,-131.811703,55.439344",
+    "geom:latitude":55.439344,
+    "geom:longitude":-131.811703,
+    "iso:country":"US",
+    "sg:address":"539 Pond Reef Rd",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 247 6608",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "leasing",
+        "charter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uxP5MsnRgEaHBmXhfJe23_55.439344_-131.811703@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"509ffb6ef62d01c1d707e4bf94c322b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "region_id":85688573,
+            "venue_id":"102189361"
+        }
+    ],
+    "wof:id":"102189361",
+    "wof:lastmodified":1449069499,
+    "wof:name":"KTN Air Svc Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.811703,55.439344,-131.811703,55.439344],
+  "geometry": {"coordinates":[-131.811703,55.439344],"type":"Point"}
+}

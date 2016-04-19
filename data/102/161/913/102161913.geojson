@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.406742,58.300523,-134.406742,58.300523",
+    "geom:latitude":58.300523,
+    "geom:longitude":-134.406742,
+    "iso:country":"US",
+    "sg:address":"209 Front St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 3988",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7llMT9B5x34j6iMDxedIaZ_58.300523_-134.406742@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e264a486a60d69cbb4ff0dd362a41a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102161913"
+        }
+    ],
+    "wof:id":"102161913",
+    "wof:lastmodified":1449068710,
+    "wof:name":"Beasley's Art Gallery",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.406742,58.300523,-134.406742,58.300523],
+  "geometry": {"coordinates":[-134.406742,58.300523],"type":"Point"}
+}

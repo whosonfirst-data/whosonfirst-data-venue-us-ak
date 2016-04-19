@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.686525,64.853978,-147.686525,64.853978",
+    "geom:latitude":64.853978,
+    "geom:longitude":-147.686525,
+    "iso:country":"US",
+    "sg:address":"1109 Old Steese Hwy",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 2000",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23RvqiQrPUMYaguGvq3dn5_64.853978_-147.686525@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ad46ac16da3289918c248b9bead0c276",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102165807"
+        }
+    ],
+    "wof:id":"102165807",
+    "wof:lastmodified":1449070214,
+    "wof:name":"Rental Zone",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.686525,64.853978,-147.686525,64.853978],
+  "geometry": {"coordinates":[-147.686525,64.853978],"type":"Point"}
+}

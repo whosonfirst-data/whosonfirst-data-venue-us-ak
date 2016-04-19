@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.690352,64.852137,-147.690352,64.852137",
+    "geom:latitude":64.852137,
+    "geom:longitude":-147.690352,
+    "iso:country":"US",
+    "sg:address":"901 Old Steese Hwy",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 6777",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JVkYJzAcZr2fE6NXlQ5Lo_64.852137_-147.690352@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b981d153473c4e4517eb7c6451c522a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102152327"
+        }
+    ],
+    "wof:id":"102152327",
+    "wof:lastmodified":1449069633,
+    "wof:name":"Club Alaskan",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.690352,64.852137,-147.690352,64.852137],
+  "geometry": {"coordinates":[-147.690352,64.852137],"type":"Point"}
+}

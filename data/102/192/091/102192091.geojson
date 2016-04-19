@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.779941,64.811019,-147.779941,64.811019",
+    "geom:latitude":64.811019,
+    "geom:longitude":-147.779941,
+    "iso:country":"US",
+    "sg:address":"2505 Eula St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 5354",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916551,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PFv2UbqbZvHMziMnHUkYb_64.811019_-147.779941@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd548460b1c1598ba56f9a0b8c631200",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916551,
+            "region_id":85688573,
+            "venue_id":"102192091"
+        }
+    ],
+    "wof:id":"102192091",
+    "wof:lastmodified":1449069503,
+    "wof:name":"Alaska Tool Co Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.779941,64.811019,-147.779941,64.811019],
+  "geometry": {"coordinates":[-147.779941,64.811019],"type":"Point"}
+}

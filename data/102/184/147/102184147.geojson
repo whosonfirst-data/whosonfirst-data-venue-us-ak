@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.763337,61.190146,-149.763337,61.190146",
+    "geom:latitude":61.190146,
+    "geom:longitude":-149.763337,
+    "iso:country":"US",
+    "sg:address":"3217 Baxter Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 3001",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "rafts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873735,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qRPVGvuSs9BsdEnNP03WY_61.190146_-149.763337@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8621c5e95e93c24899876b1e795f8f10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873735,
+            "region_id":85688573,
+            "venue_id":"102184147"
+        }
+    ],
+    "wof:id":"102184147",
+    "wof:lastmodified":1449068217,
+    "wof:name":"Anchorage Whitewater",
+    "wof:parent_id":85873735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.763337,61.190146,-149.763337,61.190146],
+  "geometry": {"coordinates":[-149.763337,61.190146],"type":"Point"}
+}

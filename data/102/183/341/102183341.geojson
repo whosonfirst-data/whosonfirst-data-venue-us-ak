@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.396445,57.794343,-152.396445,57.794343",
+    "geom:latitude":57.794343,
+    "geom:longitude":-152.396445,
+    "iso:country":"US",
+    "sg:address":"721 Mill Bay Rd",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 2281",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KnQL4Kjaeiy3dva7U1S7C_57.794343_-152.396445@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"944bb4620a41ad650f68210769a00c99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102183341"
+        }
+    ],
+    "wof:id":"102183341",
+    "wof:lastmodified":1449069044,
+    "wof:name":"Doctor D's Crpt Clng & Mini Bl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.396445,57.794343,-152.396445,57.794343],
+  "geometry": {"coordinates":[-152.396445,57.794343],"type":"Point"}
+}

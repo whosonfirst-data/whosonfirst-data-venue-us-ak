@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.898032,61.184553,-149.898032,61.184553",
+    "geom:latitude":61.184553,
+    "geom:longitude":-149.898032,
+    "iso:country":"US",
+    "sg:address":"3810 Arctic Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 4212",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "party",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sB0V65BD7NOoKWD2OS1Ej_61.184553_-149.898032@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ad92356163103b99bb9a1de140830f94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102178651"
+        }
+    ],
+    "wof:id":"102178651",
+    "wof:lastmodified":1449069529,
+    "wof:name":"Party World",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.898032,61.184553,-149.898032,61.184553],
+  "geometry": {"coordinates":[-149.898032,61.184553],"type":"Point"}
+}

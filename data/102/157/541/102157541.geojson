@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.946378,61.151856,-149.946378,61.151856",
+    "geom:latitude":61.151856,
+    "geom:longitude":-149.946378,
+    "iso:country":"US",
+    "sg:address":"3650 Strawberry Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 223 9932",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o5YsVaQlwKPCe9tzGrIYk_61.151856_-149.946378@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8b66094ee07513a3a4e8225c05b2838c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102157541"
+        }
+    ],
+    "wof:id":"102157541",
+    "wof:lastmodified":1449069830,
+    "wof:name":"Engine Shop",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.946378,61.151856,-149.946378,61.151856],
+  "geometry": {"coordinates":[-149.946378,61.151856],"type":"Point"}
+}

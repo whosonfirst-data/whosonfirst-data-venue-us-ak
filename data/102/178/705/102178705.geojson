@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.911564,61.190254,-149.911564,61.190254",
+    "geom:latitude":61.190254,
+    "geom:longitude":-149.911564,
+    "iso:country":"US",
+    "sg:address":"1406 W 33rd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 2741",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UQcDLzrlddysQLru0Nb0i_61.190254_-149.911564@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e4b7ef1a9cae99f3e5cbd584fc87f0f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102178705"
+        }
+    ],
+    "wof:id":"102178705",
+    "wof:lastmodified":1449069536,
+    "wof:name":"M & M Auto Body",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.911564,61.190254,-149.911564,61.190254],
+  "geometry": {"coordinates":[-149.911564,61.190254],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.740609,64.844293,-147.740609,64.844293",
+    "geom:latitude":64.844293,
+    "geom:longitude":-147.740609,
+    "iso:country":"US",
+    "sg:address":"1392 6th Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 455 4420",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KJKmLNe048Gt9hfX0abHs_64.844293_-147.740609@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3850e80cf90763d322372045cdf8d602",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102183695"
+        }
+    ],
+    "wof:id":"102183695",
+    "wof:lastmodified":1449069042,
+    "wof:name":"American Legion Auxiliary Dept",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.740609,64.844293,-147.740609,64.844293],
+  "geometry": {"coordinates":[-147.740609,64.844293],"type":"Point"}
+}

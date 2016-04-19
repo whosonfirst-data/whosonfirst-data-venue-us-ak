@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.066275,60.492552,-151.066275,60.492552",
+    "geom:latitude":60.492552,
+    "geom:longitude":-151.066275,
+    "iso:country":"US",
+    "sg:address":"35324 Kenai Spur Hwy",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 260 3737",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XwTtiM0ltdN9oX17J6uIk_60.492552_-151.066275@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"417dd331d5dd199bfb91c0e16a3e205f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102163083"
+        }
+    ],
+    "wof:id":"102163083",
+    "wof:lastmodified":1449070165,
+    "wof:name":"Jensen's Appliance Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.066275,60.492552,-151.066275,60.492552],
+  "geometry": {"coordinates":[-151.066275,60.492552],"type":"Point"}
+}

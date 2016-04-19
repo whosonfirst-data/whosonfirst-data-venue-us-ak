@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.736417,64.830341,-147.736417,64.830341",
+    "geom:latitude":64.830341,
+    "geom:longitude":-147.736417,
+    "iso:country":"US",
+    "sg:address":"1411 19th Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 5803",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915635,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W64ReCgdJjhIZbEiJueMO_64.830341_-147.736417@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"85257db1cdbefd2d47436e555246cb5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "region_id":85688573,
+            "venue_id":"102152399"
+        }
+    ],
+    "wof:id":"102152399",
+    "wof:lastmodified":1449069634,
+    "wof:name":"John W Joosse MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.736417,64.830341,-147.736417,64.830341],
+  "geometry": {"coordinates":[-147.736417,64.830341],"type":"Point"}
+}

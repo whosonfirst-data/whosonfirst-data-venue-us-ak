@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.317156,61.568707,-149.317156,61.568707",
+    "geom:latitude":61.568707,
+    "geom:longitude":-149.317156,
+    "iso:country":"US",
+    "sg:address":"5331 E Parks Hwy",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 5199",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "center",
+        "garden",
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916253,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yqz4qtPJD7jeCtOCKyiKh_61.568707_-149.317156@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4534643c0075dda3a12428a41eecd4be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916253,
+            "region_id":85688573,
+            "venue_id":"102155145"
+        }
+    ],
+    "wof:id":"102155145",
+    "wof:lastmodified":1449069744,
+    "wof:name":"Northern Lights Nursery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.317156,61.568707,-149.317156,61.568707],
+  "geometry": {"coordinates":[-149.317156,61.568707],"type":"Point"}
+}

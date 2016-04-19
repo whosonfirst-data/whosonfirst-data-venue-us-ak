@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.857789,61.159164,-149.857789,61.159164",
+    "geom:latitude":61.159164,
+    "geom:longitude":-149.857789,
+    "iso:country":"US",
+    "sg:address":"1320 E 68th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 2586",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "food",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CnDczmOTn9MCRDACjGrOD_61.159164_-149.857789@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e88b7a860b88e58561a1987ce18357de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102156613"
+        }
+    ],
+    "wof:id":"102156613",
+    "wof:lastmodified":1449068281,
+    "wof:name":"Northwest Food Svc",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.857789,61.159164,-149.857789,61.159164],
+  "geometry": {"coordinates":[-149.857789,61.159164],"type":"Point"}
+}

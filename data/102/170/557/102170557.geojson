@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.606237,58.368189,-134.606237,58.368189",
+    "geom:latitude":58.368189,
+    "geom:longitude":-134.606237,
+    "iso:country":"US",
+    "sg:address":"10009 Camden Pl",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 2580",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DoFeWvfHggMevjq4aJaYt_58.368189_-134.606237@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"52db02741c4604b3950c50488b9c5ec6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102170557"
+        }
+    ],
+    "wof:id":"102170557",
+    "wof:lastmodified":1449068018,
+    "wof:name":"Freeman Bell",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.606237,58.368189,-134.606237,58.368189],
+  "geometry": {"coordinates":[-134.606237,58.368189],"type":"Point"}
+}

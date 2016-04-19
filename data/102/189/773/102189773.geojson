@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.724614,64.837178,-147.724614,64.837178",
+    "geom:latitude":64.837178,
+    "geom:longitude":-147.724614,
+    "iso:country":"US",
+    "sg:address":"747 Gaffney Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 7128",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "player",
+        "recorder",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NAxmtQFdAaxjcqZx6z8EJ_64.837178_-147.724614@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0a19772afeb82abda8cea5fd8e04eb9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102189773"
+        }
+    ],
+    "wof:id":"102189773",
+    "wof:lastmodified":1449069496,
+    "wof:name":"Plaza Video Inc",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.724614,64.837178,-147.724614,64.837178],
+  "geometry": {"coordinates":[-147.724614,64.837178],"type":"Point"}
+}

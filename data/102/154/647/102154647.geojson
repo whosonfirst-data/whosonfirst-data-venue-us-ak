@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.570863,61.324629,-149.570863,61.324629",
+    "geom:latitude":61.324629,
+    "geom:longitude":-149.570863,
+    "iso:country":"US",
+    "sg:address":"11525 Old Glenn Hwy",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 694 9665",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lvKKgLSvdbLOcrTUtff5v_61.324629_-149.570863@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"93d0452aff8ff7c855f3dd8d7e07b383",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102154647"
+        }
+    ],
+    "wof:id":"102154647",
+    "wof:lastmodified":1449070244,
+    "wof:name":"Ravenwood Veterinary Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.570863,61.324629,-149.570863,61.324629],
+  "geometry": {"coordinates":[-149.570863,61.324629],"type":"Point"}
+}

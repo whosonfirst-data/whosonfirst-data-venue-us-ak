@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-156.783707,71.292333,-156.783707,71.292333",
+    "geom:latitude":71.292333,
+    "geom:longitude":-156.783707,
+    "iso:country":"US",
+    "sg:address":"1068 Kiogak St",
+    "sg:city":"Barrow",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 852 6111",
+    "sg:postcode":"99723",
+    "sg:province":"AK",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915545,
+        85633793,
+        85688573,
+        102081001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2romFIyMTqBpib67Vzu8g8_71.292333_-156.783707@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7bcaa488cae1257dceb8feba294ee81d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081001,
+            "locality_id":85915545,
+            "region_id":85688573,
+            "venue_id":"102151077"
+        }
+    ],
+    "wof:id":"102151077",
+    "wof:lastmodified":1449067779,
+    "wof:name":"North Slope Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-156.783707,71.292333,-156.783707,71.292333],
+  "geometry": {"coordinates":[-156.783707,71.292333],"type":"Point"}
+}

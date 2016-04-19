@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.419464,59.601306,-151.419464,59.601306",
+    "geom:latitude":59.601306,
+    "geom:longitude":-151.419464,
+    "iso:country":"US",
+    "sg:address":"4474 Homer Spit Rd",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 7512",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "seafood",
+        "product",
+        "fish",
+        "prepared"
+    ],
+    "sg:website":"www.freshhalibut.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0G2t13s2xtjWB5xG8ibWWg_59.601306_-151.419464@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"621982df212e89f0a8ffdcdb8efa25c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102178659"
+        }
+    ],
+    "wof:id":"102178659",
+    "wof:lastmodified":1449069528,
+    "wof:name":"Alaska Custom Seafoods",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.419464,59.601306,-151.419464,59.601306],
+  "geometry": {"coordinates":[-151.419464,59.601306],"type":"Point"}
+}

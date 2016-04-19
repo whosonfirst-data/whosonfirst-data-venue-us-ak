@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.867218,61.233609,-149.867218,61.233609",
+    "geom:latitude":61.233609,
+    "geom:longitude":-149.867218,
+    "iso:country":"US",
+    "sg:address":"4055 Arctic Warrior Dr",
+    "sg:city":"Elmendorf Afb",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 753 2182",
+    "sg:postcode":"99506",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873711,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lIMFXNQODJfvCh93ovRJg_61.233609_-149.867218@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"902b57e6b0ce56807bdef4a88e74b4ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873711,
+            "region_id":85688573,
+            "venue_id":"102172577"
+        }
+    ],
+    "wof:id":"102172577",
+    "wof:lastmodified":1449068739,
+    "wof:name":"Special Olympics Alaska",
+    "wof:parent_id":85873711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.867218,61.233609,-149.867218,61.233609],
+  "geometry": {"coordinates":[-149.867218,61.233609],"type":"Point"}
+}

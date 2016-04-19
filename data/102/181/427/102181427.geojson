@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.948867,61.153795,-149.948867,61.153795",
+    "geom:latitude":61.153795,
+    "geom:longitude":-149.948867,
+    "iso:country":"US",
+    "sg:address":"3750 W 74th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 4635",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yGdiJqV9XfMczelTXxeY7_61.153795_-149.948867@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e31a28de1024d88906c935b16fa95efd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102181427"
+        }
+    ],
+    "wof:id":"102181427",
+    "wof:lastmodified":1449069234,
+    "wof:name":"St Lawrence Assisted Living Hm",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.948867,61.153795,-149.948867,61.153795],
+  "geometry": {"coordinates":[-149.948867,61.153795],"type":"Point"}
+}

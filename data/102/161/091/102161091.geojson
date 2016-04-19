@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.807698,64.812998,-147.807698,64.812998",
+    "geom:latitude":64.812998,
+    "geom:longitude":-147.807698,
+    "iso:country":"US",
+    "sg:address":"3230 Van Horn Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 4266",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916551,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WczAkaisv186N3aaqYoPy_64.812998_-147.807698@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"37cf2b18f15049e945cf4d840e927293",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916551,
+            "region_id":85688573,
+            "venue_id":"102161091"
+        }
+    ],
+    "wof:id":"102161091",
+    "wof:lastmodified":1449068706,
+    "wof:name":"Interior Towing & Salvage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.807698,64.812998,-147.807698,64.812998],
+  "geometry": {"coordinates":[-147.807698,64.812998],"type":"Point"}
+}

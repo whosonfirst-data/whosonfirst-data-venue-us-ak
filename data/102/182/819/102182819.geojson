@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.54919,59.645726,-151.54919,59.645726",
+    "geom:latitude":59.645726,
+    "geom:longitude":-151.54919,
+    "iso:country":"US",
+    "sg:address":"3895 Bartlett St",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 8906",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gFBcsPoj4JPXMNyNintuZ_59.645726_-151.549190@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4e847c9e2728b5dadabc86798fbf80f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102182819"
+        }
+    ],
+    "wof:id":"102182819",
+    "wof:lastmodified":1449069280,
+    "wof:name":"Kachemak Lock Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.54919,59.645726,-151.54919,59.645726],
+  "geometry": {"coordinates":[-151.54919,59.645726],"type":"Point"}
+}

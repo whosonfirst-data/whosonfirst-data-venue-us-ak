@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.778351,61.180799,-149.778351,61.180799",
+    "geom:latitude":61.180799,
+    "geom:longitude":-149.778351,
+    "iso:country":"US",
+    "sg:address":"4300 Boniface Pkwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 1979",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:website":"www.psea.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E54yce5MnOBdm7uerZ4dQ_61.180799_-149.778351@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8dc27c09fe76c39dbca55e6adbd972ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102177381"
+        }
+    ],
+    "wof:id":"102177381",
+    "wof:lastmodified":1449070204,
+    "wof:name":"Public Safety Employees Assoc",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.778351,61.180799,-149.778351,61.180799],
+  "geometry": {"coordinates":[-149.778351,61.180799],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.583514,59.646264,-151.583514,59.646264",
+    "geom:latitude":59.646264,
+    "geom:longitude":-151.583514,
+    "iso:country":"US",
+    "sg:address":"3821 Jennifer Pl",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 6034",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "heavy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72fiGmaEdF6fhEFOifO8Gb_59.646264_-151.583514@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3cc230a68f3abc36f785bc2a09e22e65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102182903"
+        }
+    ],
+    "wof:id":"102182903",
+    "wof:lastmodified":1449069279,
+    "wof:name":"Martin & Martin Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.583514,59.646264,-151.583514,59.646264],
+  "geometry": {"coordinates":[-151.583514,59.646264],"type":"Point"}
+}

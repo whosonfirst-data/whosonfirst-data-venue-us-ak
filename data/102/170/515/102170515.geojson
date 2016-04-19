@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.561347,61.325935,-149.561347,61.325935",
+    "geom:latitude":61.325935,
+    "geom:longitude":-149.561347,
+    "iso:country":"US",
+    "sg:address":"11623 Aurora St",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 689 9600",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I10DWuQNMKhQnjo9SXwYg_61.325935_-149.561347@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"070cbe67e462bbd81111afb789ea0799",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102170515"
+        }
+    ],
+    "wof:id":"102170515",
+    "wof:lastmodified":1449068017,
+    "wof:name":"Matanuska Electric Assn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.561347,61.325935,-149.561347,61.325935],
+  "geometry": {"coordinates":[-149.561347,61.325935],"type":"Point"}
+}

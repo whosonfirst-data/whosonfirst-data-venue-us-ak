@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.813105,61.199709,-149.813105,61.199709",
+    "geom:latitude":61.199709,
+    "geom:longitude":-149.813105,
+    "iso:country":"US",
+    "sg:address":"2330 Nichols St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 6617",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "disabled",
+        "employment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dGpDp8CeLYrQnBYzrL7qE_61.199709_-149.813105@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"527204057607756ab8b77b9eba9be0bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102161981"
+        }
+    ],
+    "wof:id":"102161981",
+    "wof:lastmodified":1449068713,
+    "wof:name":"Assets Inc",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.813105,61.199709,-149.813105,61.199709],
+  "geometry": {"coordinates":[-149.813105,61.199709],"type":"Point"}
+}

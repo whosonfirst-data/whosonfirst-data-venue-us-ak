@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.702719,64.899376,-147.702719,64.899376",
+    "geom:latitude":64.899376,
+    "geom:longitude":-147.702719,
+    "iso:country":"US",
+    "sg:address":"657 Farmers Loop Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 2929",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916559,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sDPvkHPpXFKu3U5Uu1omb_64.899376_-147.702719@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e11df53f0599ebffff6d2982368cecc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "region_id":85688573,
+            "venue_id":"102172969"
+        }
+    ],
+    "wof:id":"102172969",
+    "wof:lastmodified":1449068735,
+    "wof:name":"Wayne's Air Supply",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.702719,64.899376,-147.702719,64.899376],
+  "geometry": {"coordinates":[-147.702719,64.899376],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.545021,59.639681,-151.545021,59.639681",
+    "geom:latitude":59.639681,
+    "geom:longitude":-151.545021,
+    "iso:country":"US",
+    "sg:address":"135 W Bunnell Ave",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 8019",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:website":"www.thedriftwoodinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jha1OcL8m2NPJtUPEYOyk_59.639681_-151.545021@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7bd6451dd24a8293c6bd1082ece7c0cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102190721"
+        }
+    ],
+    "wof:id":"102190721",
+    "wof:lastmodified":1449070037,
+    "wof:name":"Driftwood Inn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.545021,59.639681,-151.545021,59.639681],
+  "geometry": {"coordinates":[-151.545021,59.639681],"type":"Point"}
+}

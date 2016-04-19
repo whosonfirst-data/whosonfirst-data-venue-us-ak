@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.7338,55.382623,-131.7338,55.382623",
+    "geom:latitude":55.382623,
+    "geom:longitude":-131.7338,
+    "iso:country":"US",
+    "sg:address":"5401 Densley Dr",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 2788",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hTooNQOz40h6cILzeyirn_55.382623_-131.733800@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5a1c39d072e50831194b5621ac44a76e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102152521"
+        }
+    ],
+    "wof:id":"102152521",
+    "wof:lastmodified":1449069636,
+    "wof:name":"R B Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.7338,55.382623,-131.7338,55.382623],
+  "geometry": {"coordinates":[-131.7338,55.382623],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.382063,57.793882,-152.382063,57.793882",
+    "geom:latitude":57.793882,
+    "geom:longitude":-152.382063,
+    "iso:country":"US",
+    "sg:address":"1425 Kouskov St",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 4883",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pei61Z05Arv1FS2ZLRczC_57.793882_-152.382063@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a39704640287a2a1605919cf2b33047b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102162385"
+        }
+    ],
+    "wof:id":"102162385",
+    "wof:lastmodified":1449069822,
+    "wof:name":"Kodiak Taxidermy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.382063,57.793882,-152.382063,57.793882],
+  "geometry": {"coordinates":[-152.382063,57.793882],"type":"Point"}
+}

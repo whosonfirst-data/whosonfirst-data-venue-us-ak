@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.719411,64.839493,-147.719411,64.839493",
+    "geom:latitude":64.839493,
+    "geom:longitude":-147.719411,
+    "iso:country":"US",
+    "sg:address":"909 Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 3636",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2b3rwEECWc9vrxMNOn7xNP_64.839493_-147.719411@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"48cf1acaad00d72107d4d28cd25aae9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102149171"
+        }
+    ],
+    "wof:id":"102149171",
+    "wof:lastmodified":1449067770,
+    "wof:name":"Vagabond Travel",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.719411,64.839493,-147.719411,64.839493],
+  "geometry": {"coordinates":[-147.719411,64.839493],"type":"Point"}
+}

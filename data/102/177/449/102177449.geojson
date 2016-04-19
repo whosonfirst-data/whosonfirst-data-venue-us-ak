@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.883955,61.168751,-149.883955,61.168751",
+    "geom:latitude":61.168751,
+    "geom:longitude":-149.883955,
+    "iso:country":"US",
+    "sg:address":"200 Center Ct",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 7093",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BeURkZkGmIofpv3CCzMFc_61.168751_-149.883955@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ab929f9002a6ea03236daff833e4c09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102177449"
+        }
+    ],
+    "wof:id":"102177449",
+    "wof:lastmodified":1449070208,
+    "wof:name":"Alaska Showcase Homes",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.883955,61.168751,-149.883955,61.168751],
+  "geometry": {"coordinates":[-149.883955,61.168751],"type":"Point"}
+}

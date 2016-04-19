@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.604811,58.367208,-134.604811,58.367208",
+    "geom:latitude":58.367208,
+    "geom:longitude":-134.604811,
+    "iso:country":"US",
+    "sg:address":"2421 Industrial Blvd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 0020",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jGmBImoZiF29l6Oc3OR1z_58.367208_-134.604811@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e31a32a9202eb2fbc65a7be70849d924",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102191825"
+        }
+    ],
+    "wof:id":"102191825",
+    "wof:lastmodified":1449069197,
+    "wof:name":"Malone & Campbell Engines",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.604811,58.367208,-134.604811,58.367208],
+  "geometry": {"coordinates":[-134.604811,58.367208],"type":"Point"}
+}

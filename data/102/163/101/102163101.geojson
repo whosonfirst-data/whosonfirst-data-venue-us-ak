@@ -1,0 +1,70 @@
+{
+  "id": "102163101",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.816997,61.18091,-149.816997,61.18091",
+    "geom:latitude":61.18091,
+    "geom:longitude":-149.816997,
+    "iso:country":"US",
+    "sg:address":"3429 E Tudor Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 0900",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85915707,
+        102085881,
+        85873727
+    ],
+    "wof:brand_id":420573899,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3y2W6Nv2voDDw98nWPvkK3_61.180910_-149.816997@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b15ea314c15f0730f75efd9dbf36bbde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102163101"
+        }
+    ],
+    "wof:id":"102163101",
+    "wof:lastmodified":1457207839,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.816997,
+    61.18091,
+    -149.816997,
+    61.18091
+],
+  "geometry": {"coordinates":[-149.81699699999999,61.18091],"type":"Point"}
+}

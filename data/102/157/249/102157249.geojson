@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.521043,59.66875,-151.521043,59.66875",
+    "geom:latitude":59.66875,
+    "geom:longitude":-151.521043,
+    "iso:country":"US",
+    "sg:address":"41681 N Glacier View Ct",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 299 0331",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "forester"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IoSW8W724h2sFLW04CM2w_59.668750_-151.521043@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"54f2f8c7181864a6cf83083fc3ab68c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102157249"
+        }
+    ],
+    "wof:id":"102157249",
+    "wof:lastmodified":1449069830,
+    "wof:name":"Peninsula Forestry Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.521043,59.66875,-151.521043,59.66875],
+  "geometry": {"coordinates":[-151.521043,59.66875],"type":"Point"}
+}

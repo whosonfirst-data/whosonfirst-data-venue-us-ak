@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.418818,58.301865,-134.418818,58.301865",
+    "geom:latitude":58.301865,
+    "geom:longitude":-134.418818,
+    "iso:country":"US",
+    "sg:address":"817 C St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 2895",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Xu20CNltElpFYn6QDEyC8_58.301865_-134.418818@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"acb86dc3c3e1c237174c9e3c1cb2c1b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102195143"
+        }
+    ],
+    "wof:id":"102195143",
+    "wof:lastmodified":1449069364,
+    "wof:name":"Herr's Painting Contractors",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.418818,58.301865,-134.418818,58.301865],
+  "geometry": {"coordinates":[-134.418818,58.301865],"type":"Point"}
+}

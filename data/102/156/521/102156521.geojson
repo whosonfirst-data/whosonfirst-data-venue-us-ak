@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.824304,64.845688,-147.824304,64.845688",
+    "geom:latitude":64.845688,
+    "geom:longitude":-147.824304,
+    "iso:country":"US",
+    "sg:address":"4037 Fahrenkamp Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 8237",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5c1K3jWfmf1KTyG8wtJlay_64.845688_-147.824304@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"04a8016be025d247f0efb373a6c81541",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102156521"
+        }
+    ],
+    "wof:id":"102156521",
+    "wof:lastmodified":1449068284,
+    "wof:name":"Davis Contracting",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.824304,64.845688,-147.824304,64.845688],
+  "geometry": {"coordinates":[-147.824304,64.845688],"type":"Point"}
+}

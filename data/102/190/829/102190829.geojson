@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.830004,61.221996,-149.830004,61.221996",
+    "geom:latitude":61.221996,
+    "geom:longitude":-149.830004,
+    "iso:country":"US",
+    "sg:address":"2840 Commercial Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 338 7446",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71RTVrMCTYhVH3OUzmEGGm_61.221996_-149.830004@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fea0967fc4e06de4477920290d0d54a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102190829"
+        }
+    ],
+    "wof:id":"102190829",
+    "wof:lastmodified":1449070035,
+    "wof:name":"Signco",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.830004,61.221996,-149.830004,61.221996],
+  "geometry": {"coordinates":[-149.830004,61.221996],"type":"Point"}
+}

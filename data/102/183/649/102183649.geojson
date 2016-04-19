@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.761604,64.852903,-147.761604,64.852903",
+    "geom:latitude":64.852903,
+    "geom:longitude":-147.761604,
+    "iso:country":"US",
+    "sg:address":"935 Aurora Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 5184",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869043,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QupdZ8uLZozSuYn0xp0Tg_64.852903_-147.761604@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7b924ddc134ebdb361f2e218daa5d7d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85869043,
+            "region_id":85688573,
+            "venue_id":"102183649"
+        }
+    ],
+    "wof:id":"102183649",
+    "wof:lastmodified":1449069042,
+    "wof:name":"Denali Appraisal Svc",
+    "wof:parent_id":85869043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.761604,64.852903,-147.761604,64.852903],
+  "geometry": {"coordinates":[-147.761604,64.852903],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.167027,60.505267,-151.167027,60.505267",
+    "geom:latitude":60.505267,
+    "geom:longitude":-151.167027,
+    "iso:country":"US",
+    "sg:address":"47700 Judy Lynn Ln",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 9222",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916957,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qTFRn27qslmJP5UjACayR_60.505267_-151.167027@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1570949f6f1a75a2486cacc499354043",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916957,
+            "region_id":85688573,
+            "venue_id":"102181993"
+        }
+    ],
+    "wof:id":"102181993",
+    "wof:lastmodified":1449069235,
+    "wof:name":"Reilly Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.167027,60.505267,-151.167027,60.505267],
+  "geometry": {"coordinates":[-151.167027,60.505267],"type":"Point"}
+}

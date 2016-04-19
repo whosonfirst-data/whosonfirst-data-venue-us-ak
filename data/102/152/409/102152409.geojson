@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.835297,61.120094,-149.835297,61.120094",
+    "geom:latitude":61.120094,
+    "geom:longitude":-149.835297,
+    "iso:country":"US",
+    "sg:address":"11131 Polar Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 8825",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Xi2upXYpK4RMKkGwvj1gk_61.120094_-149.835297@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d79a231d242585c98d92df3014afa173",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102152409"
+        }
+    ],
+    "wof:id":"102152409",
+    "wof:lastmodified":1449069635,
+    "wof:name":"Muotka Mechanical Inc",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.835297,61.120094,-149.835297,61.120094],
+  "geometry": {"coordinates":[-149.835297,61.120094],"type":"Point"}
+}

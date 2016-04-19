@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.76341,61.07484,-149.76341,61.07484",
+    "geom:latitude":61.07484,
+    "geom:longitude":-149.76341,
+    "iso:country":"US",
+    "sg:address":"16361 Sandpiper Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 2220",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873751,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3W4tXChuuHmDn5VFY3H5N9_61.074840_-149.763410@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e34eb415c78196c5b9b69f90db31efba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873751,
+            "region_id":85688573,
+            "venue_id":"102159231"
+        }
+    ],
+    "wof:id":"102159231",
+    "wof:lastmodified":1449068094,
+    "wof:name":"Muddy Moose Bed & Breakfast",
+    "wof:parent_id":85873751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.76341,61.07484,-149.76341,61.07484],
+  "geometry": {"coordinates":[-149.76341,61.07484],"type":"Point"}
+}

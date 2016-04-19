@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.790297,64.859154,-147.790297,64.859154",
+    "geom:latitude":64.859154,
+    "geom:longitude":-147.790297,
+    "iso:country":"US",
+    "sg:address":"3025 Mack Blvd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 6186",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869043,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BC4rKS3VEerHlocgr7EVY_64.859154_-147.790297@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f70e075e2488a62ccfd8f28ed296fafc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85869043,
+            "region_id":85688573,
+            "venue_id":"102150751"
+        }
+    ],
+    "wof:id":"102150751",
+    "wof:lastmodified":1449067786,
+    "wof:name":"Industrial Insulation Inc",
+    "wof:parent_id":85869043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.790297,64.859154,-147.790297,64.859154],
+  "geometry": {"coordinates":[-147.790297,64.859154],"type":"Point"}
+}

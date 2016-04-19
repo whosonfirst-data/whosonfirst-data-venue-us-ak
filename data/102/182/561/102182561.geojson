@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.77848,64.817715,-147.77848,64.817715",
+    "geom:latitude":64.817715,
+    "geom:longitude":-147.77848,
+    "iso:country":"US",
+    "sg:address":"3175 Peger Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 459 1481",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "civil",
+        "defense",
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ptjCAnqmD4zgjzJL5H5ns_64.817715_-147.778480@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"67248c82e66a575d7d47f46c363a5d39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102182561"
+        }
+    ],
+    "wof:id":"102182561",
+    "wof:lastmodified":1449069281,
+    "wof:name":"Fairbanks Emergency Mgmt",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.77848,64.817715,-147.77848,64.817715],
+  "geometry": {"coordinates":[-147.77848,64.817715],"type":"Point"}
+}

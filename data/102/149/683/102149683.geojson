@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.895478,61.141627,-149.895478,61.141627",
+    "geom:latitude":61.141627,
+    "geom:longitude":-149.895478,
+    "iso:country":"US",
+    "sg:address":"8720 el Paso Pl",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 4006",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60esrDOqrYq7c4FTaDF2HM_61.141627_-149.895478@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"365c9673240d361e072162ab303867ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102149683"
+        }
+    ],
+    "wof:id":"102149683",
+    "wof:lastmodified":1449067769,
+    "wof:name":"Picture Perfect Painting",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.895478,61.141627,-149.895478,61.141627],
+  "geometry": {"coordinates":[-149.895478,61.141627],"type":"Point"}
+}

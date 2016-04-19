@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.930763,61.137409,-149.930763,61.137409",
+    "geom:latitude":61.137409,
+    "geom:longitude":-149.930763,
+    "iso:country":"US",
+    "sg:address":"2700 W Dimond Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 4050",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Pzeq3njjSRzzr68J1UriC_61.137409_-149.930763@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"100c01079f6c819ef33345cbb07697e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102193633"
+        }
+    ],
+    "wof:id":"102193633",
+    "wof:lastmodified":1449068193,
+    "wof:name":"Heatherstone Dental Ctr",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.930763,61.137409,-149.930763,61.137409],
+  "geometry": {"coordinates":[-149.930763,61.137409],"type":"Point"}
+}

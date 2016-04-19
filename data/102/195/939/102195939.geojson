@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.84737,61.173346,-149.84737,61.173346",
+    "geom:latitude":61.173346,
+    "geom:longitude":-149.84737,
+    "iso:country":"US",
+    "sg:address":"1871 E 53rd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 7400",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58vKWPx4XpTvayCdnssBzC_61.173346_-149.847370@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6620183eca1e94d96abf5fd1be939709",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102195939"
+        }
+    ],
+    "wof:id":"102195939",
+    "wof:lastmodified":1449069364,
+    "wof:name":"Happy Paws",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.84737,61.173346,-149.84737,61.173346],
+  "geometry": {"coordinates":[-149.84737,61.173346],"type":"Point"}
+}

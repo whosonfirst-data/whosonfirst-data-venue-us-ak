@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.71903,64.840764,-147.71903,64.840764",
+    "geom:latitude":64.840764,
+    "geom:longitude":-147.71903,
+    "iso:country":"US",
+    "sg:address":"530 7th Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 5660",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7R8AfiuTBFa4VyOBTgeWzl_64.840764_-147.719030@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d0204b1f65fcba18cde55ec70d688613",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102177455"
+        }
+    ],
+    "wof:id":"102177455",
+    "wof:lastmodified":1449070209,
+    "wof:name":"Recovery Connection",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.71903,64.840764,-147.71903,64.840764],
+  "geometry": {"coordinates":[-147.71903,64.840764],"type":"Point"}
+}

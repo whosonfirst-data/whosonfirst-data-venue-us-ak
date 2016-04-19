@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.81808,64.849084,-147.81808,64.849084",
+    "geom:latitude":64.849084,
+    "geom:longitude":-147.81808,
+    "iso:country":"US",
+    "sg:address":"3875 Geist Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 2583",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xDsczmCdcuRHKkkqYxlgh_64.849084_-147.818080@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cceb72b8b46551929f5ebf6c7b0fe76a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102148241"
+        }
+    ],
+    "wof:id":"102148241",
+    "wof:lastmodified":1449069786,
+    "wof:name":"Crime Stoppers",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.81808,64.849084,-147.81808,64.849084],
+  "geometry": {"coordinates":[-147.81808,64.849084],"type":"Point"}
+}

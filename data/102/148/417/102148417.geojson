@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.710932,61.09983,-149.710932,61.09983",
+    "geom:latitude":61.09983,
+    "geom:longitude":-149.710932,
+    "iso:country":"US",
+    "sg:address":"13240 View Heights Way",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 9997",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873757,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NT0h679C00xDLLX7E4hVu_61.099830_-149.710932@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3fa69692df0dbdc6cd0747329f0022c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873757,
+            "region_id":85688573,
+            "venue_id":"102148417"
+        }
+    ],
+    "wof:id":"102148417",
+    "wof:lastmodified":1449069784,
+    "wof:name":"Lewis Mechanical Inc",
+    "wof:parent_id":85873757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.710932,61.09983,-149.710932,61.09983],
+  "geometry": {"coordinates":[-149.710932,61.09983],"type":"Point"}
+}

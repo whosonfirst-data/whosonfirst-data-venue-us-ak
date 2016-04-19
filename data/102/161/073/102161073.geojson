@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.939413,61.200813,-149.939413,61.200813",
+    "geom:latitude":61.200813,
+    "geom:longitude":-149.939413,
+    "iso:country":"US",
+    "sg:address":"2119 Lord Baranof Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 2451",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tsyw4yjiEQfqkCzJ0Zb5r_61.200813_-149.939413@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"57233ce34ef9662f671902719f4b0371",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102161073"
+        }
+    ],
+    "wof:id":"102161073",
+    "wof:lastmodified":1449068706,
+    "wof:name":"Alaskan Plumbing & Heating",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.939413,61.200813,-149.939413,61.200813],
+  "geometry": {"coordinates":[-149.939413,61.200813],"type":"Point"}
+}

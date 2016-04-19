@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.546592,59.641523,-151.546592,59.641523",
+    "geom:latitude":59.641523,
+    "geom:longitude":-151.546592,
+    "iso:country":"US",
+    "sg:address":"94 Sterling Hwy",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 3295",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sHgrS4FeCyEWyPsk4yxua_59.641523_-151.546592@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"57e16c9032cab0f3e4eb0233ea293c05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102154669"
+        }
+    ],
+    "wof:id":"102154669",
+    "wof:lastmodified":1449070242,
+    "wof:name":"Petro Express",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.546592,59.641523,-151.546592,59.641523],
+  "geometry": {"coordinates":[-151.546592,59.641523],"type":"Point"}
+}

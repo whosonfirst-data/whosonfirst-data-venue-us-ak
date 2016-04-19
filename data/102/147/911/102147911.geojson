@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.683198,64.816543,-147.683198,64.816543",
+    "geom:latitude":64.816543,
+    "geom:longitude":-147.683198,
+    "iso:country":"US",
+    "sg:address":"701 Williams Gate Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 5744",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hsRkpfi8gD6uxiSDptC26_64.816543_-147.683198@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6bb1b9fc1f473f523aabfb17c1891312",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102147911"
+        }
+    ],
+    "wof:id":"102147911",
+    "wof:lastmodified":1449069928,
+    "wof:name":"AAA Lundeen's Body Shop",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.683198,64.816543,-147.683198,64.816543],
+  "geometry": {"coordinates":[-147.683198,64.816543],"type":"Point"}
+}

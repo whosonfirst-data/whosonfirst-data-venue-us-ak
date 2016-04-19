@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.718603,61.233121,-149.718603,61.233121",
+    "geom:latitude":61.233121,
+    "geom:longitude":-149.718603,
+    "iso:country":"US",
+    "sg:address":"8800 Heritage Center Dr",
+    "sg:city":"Elmendorf Afb",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 330 8000",
+    "sg:postcode":"99506",
+    "sg:province":"AK",
+    "sg:website":"www.alaskanative.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rNTs9vYf88maAntSoo82d_61.233121_-149.718603@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aa89813e417aaa39137e0c06052da74b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102181897"
+        }
+    ],
+    "wof:id":"102181897",
+    "wof:lastmodified":1449069234,
+    "wof:name":"Alaska Native Heritage Ctr",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.718603,61.233121,-149.718603,61.233121],
+  "geometry": {"coordinates":[-149.718603,61.233121],"type":"Point"}
+}

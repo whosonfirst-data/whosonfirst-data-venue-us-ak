@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.792879,61.070038,-149.792879,61.070038",
+    "geom:latitude":61.070038,
+    "geom:longitude":-149.792879,
+    "iso:country":"US",
+    "sg:address":"4828 Virgo Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 8789",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "party",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873751,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hoXqAPQ3A5mNAL4PFWhg1_61.070038_-149.792879@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4b9d7679a8a1aaf26c2e33cd33da9880",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873751,
+            "region_id":85688573,
+            "venue_id":"102162929"
+        }
+    ],
+    "wof:id":"102162929",
+    "wof:lastmodified":1449069821,
+    "wof:name":"Alaska Event Svc",
+    "wof:parent_id":85873751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.792879,61.070038,-149.792879,61.070038],
+  "geometry": {"coordinates":[-149.792879,61.070038],"type":"Point"}
+}

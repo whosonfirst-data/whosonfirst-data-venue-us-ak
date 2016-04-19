@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.410812,58.299947,-134.410812,58.299947",
+    "geom:latitude":58.299947,
+    "geom:longitude":-134.410812,
+    "iso:country":"US",
+    "sg:address":"141 Willoughby Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 465 2270",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "state"
+    ],
+    "sg:website":"www.archives.state.ak.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nbV6xw0YhAsr57ecd6X4K_58.299947_-134.410812@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"009a813d6884eb8942db580df388de19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102193041"
+        }
+    ],
+    "wof:id":"102193041",
+    "wof:lastmodified":1449068192,
+    "wof:name":"State Archivist",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.410812,58.299947,-134.410812,58.299947],
+  "geometry": {"coordinates":[-134.410812,58.299947],"type":"Point"}
+}

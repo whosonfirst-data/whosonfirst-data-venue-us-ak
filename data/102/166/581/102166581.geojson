@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-156.777349,71.288175,-156.777349,71.288175",
+    "geom:latitude":71.288175,
+    "geom:longitude":-156.777349,
+    "iso:country":"US",
+    "sg:address":"1707 Ahkovak St",
+    "sg:city":"Barrow",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 852 8333",
+    "sg:postcode":"99723",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915545,
+        85633793,
+        85688573,
+        102081001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61ANg76VhDSHgqw9igXv4g_71.288175_-156.777349@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"de357d8cd7be460add78b5af881c1689",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081001,
+            "locality_id":85915545,
+            "region_id":85688573,
+            "venue_id":"102166581"
+        }
+    ],
+    "wof:id":"102166581",
+    "wof:lastmodified":1449069083,
+    "wof:name":"Cape Smythe Air Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-156.777349,71.288175,-156.777349,71.288175],
+  "geometry": {"coordinates":[-156.777349,71.288175],"type":"Point"}
+}

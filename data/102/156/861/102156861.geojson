@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.439288,61.582502,-149.439288,61.582502",
+    "geom:latitude":61.582502,
+    "geom:longitude":-149.439288,
+    "iso:country":"US",
+    "sg:address":"371 N Boundary St",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 5696",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gG7ucn8r7QOWEISU3r6bA_61.582502_-149.439288@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9b05ca0cf5780719e19b58ace559df35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102156861"
+        }
+    ],
+    "wof:id":"102156861",
+    "wof:lastmodified":1449068284,
+    "wof:name":"K & M Import Car Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.439288,61.582502,-149.439288,61.582502],
+  "geometry": {"coordinates":[-149.439288,61.582502],"type":"Point"}
+}

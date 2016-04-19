@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.848661,61.14346,-149.848661,61.14346",
+    "geom:latitude":61.14346,
+    "geom:longitude":-149.848661,
+    "iso:country":"US",
+    "sg:address":"8447 Hartzell Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 0641",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50F4XnSzzJaAzOti4134pp_61.143460_-149.848661@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fd91341d52eb7f091bb43bd2708d2e4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102192097"
+        }
+    ],
+    "wof:id":"102192097",
+    "wof:lastmodified":1449069503,
+    "wof:name":"Dimond Animal Clinic",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.848661,61.14346,-149.848661,61.14346],
+  "geometry": {"coordinates":[-149.848661,61.14346],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.406589,58.303058,-134.406589,58.303058",
+    "geom:latitude":58.303058,
+    "geom:longitude":-134.406589,
+    "iso:country":"US",
+    "sg:address":"418 Harris St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 463 5557",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47x61SpIJd8zrwQVW6frVJ_58.303058_-134.406589@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"567e4d189347220f524a77bb86ffad38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102195051"
+        }
+    ],
+    "wof:id":"102195051",
+    "wof:lastmodified":1449069365,
+    "wof:name":"Andrea Iverson DC",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.406589,58.303058,-134.406589,58.303058],
+  "geometry": {"coordinates":[-134.406589,58.303058],"type":"Point"}
+}

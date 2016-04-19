@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.404503,57.792866,-152.404503,57.792866",
+    "geom:latitude":57.792866,
+    "geom:longitude":-152.404503,
+    "iso:country":"US",
+    "sg:address":"415 Cedar St",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 3198",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iydKOzBYKjXilZmEz08tp_57.792866_-152.404503@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"67d893ec2a510a2f756cfdbfa3831434",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102169829"
+        }
+    ],
+    "wof:id":"102169829",
+    "wof:lastmodified":1449069248,
+    "wof:name":"Horizon Land Surveying",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.404503,57.792866,-152.404503,57.792866],
+  "geometry": {"coordinates":[-152.404503,57.792866],"type":"Point"}
+}

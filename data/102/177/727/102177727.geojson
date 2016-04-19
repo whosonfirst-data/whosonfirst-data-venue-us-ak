@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.550261,58.359415,-134.550261,58.359415",
+    "geom:latitude":58.359415,
+    "geom:longitude":-134.550261,
+    "iso:country":"US",
+    "sg:address":"8001 Glacier Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 2179",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46G0Lf36lI8hquDYtNsHhA_58.359415_-134.550261@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e14e2646d732decaa364d89dcbfa1a5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102177727"
+        }
+    ],
+    "wof:id":"102177727",
+    "wof:lastmodified":1449070204,
+    "wof:name":"Juneau Christian School",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.550261,58.359415,-134.550261,58.359415],
+  "geometry": {"coordinates":[-134.550261,58.359415],"type":"Point"}
+}

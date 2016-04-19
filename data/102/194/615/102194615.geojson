@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.876496,61.152023,-149.876496,61.152023",
+    "geom:latitude":61.152023,
+    "geom:longitude":-149.876496,
+    "iso:country":"US",
+    "sg:address":"375 E 76th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 1531",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HjMFhda4PVV9WupsUGZB3_61.152023_-149.876496@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f6d72986c935666a9c9bf522b402a3dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102194615"
+        }
+    ],
+    "wof:id":"102194615",
+    "wof:lastmodified":1449069829,
+    "wof:name":"Baugh Construction & Engrng Co",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.876496,61.152023,-149.876496,61.152023],
+  "geometry": {"coordinates":[-149.876496,61.152023],"type":"Point"}
+}

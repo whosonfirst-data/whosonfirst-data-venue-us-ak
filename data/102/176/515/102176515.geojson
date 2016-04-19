@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.457579,61.409665,-149.457579,61.409665",
+    "geom:latitude":61.409665,
+    "geom:longitude":-149.457579,
+    "iso:country":"US",
+    "sg:address":"20919 Elsie Dr",
+    "sg:city":"Chugiak",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 688 0552",
+    "sg:postcode":"99567",
+    "sg:province":"AK",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806187,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RL2uN2YLZItOEYQaqiP2L_61.409665_-149.457579@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0bbb413996346b2064ed467c1f34f24b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85806187,
+            "region_id":85688573,
+            "venue_id":"102176515"
+        }
+    ],
+    "wof:id":"102176515",
+    "wof:lastmodified":1449069346,
+    "wof:name":"Land-Tech Peters Creek",
+    "wof:parent_id":85806187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.457579,61.409665,-149.457579,61.409665],
+  "geometry": {"coordinates":[-149.457579,61.409665],"type":"Point"}
+}

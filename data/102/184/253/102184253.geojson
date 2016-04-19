@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.350388,64.749526,-147.350388,64.749526",
+    "geom:latitude":64.749526,
+    "geom:longitude":-147.350388,
+    "iso:country":"US",
+    "sg:address":"120 E 6th Ave",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 5637",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915639,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rJUljTrFPEgEpn9eONmZH_64.749526_-147.350388@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"36c58328d70269871edcc39c5e2060e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915639,
+            "region_id":85688573,
+            "venue_id":"102184253"
+        }
+    ],
+    "wof:id":"102184253",
+    "wof:lastmodified":1449068218,
+    "wof:name":"JM Construction Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.350388,64.749526,-147.350388,64.749526],
+  "geometry": {"coordinates":[-147.350388,64.749526],"type":"Point"}
+}

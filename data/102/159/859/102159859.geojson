@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.470913,61.583717,-149.470913,61.583717",
+    "geom:latitude":61.583717,
+    "geom:longitude":-149.470913,
+    "iso:country":"US",
+    "sg:address":"724 W Nelson Ave",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 7410",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Voy0WfGM21mMucjOQtnUP_61.583717_-149.470913@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"413a2746a64be094295944b90c661fa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102159859"
+        }
+    ],
+    "wof:id":"102159859",
+    "wof:lastmodified":1449068094,
+    "wof:name":"Carpet Man",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.470913,61.583717,-149.470913,61.583717],
+  "geometry": {"coordinates":[-149.470913,61.583717],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.872497,61.195283,-149.872497,61.195283",
+    "geom:latitude":61.195283,
+    "geom:longitude":-149.872497,
+    "iso:country":"US",
+    "sg:address":"700 E Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 6477",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dC8yMHjxY0CY3d7VIn9R6_61.195283_-149.872497@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1a0de6c089cf223c51a96a5b10038f7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102187717"
+        }
+    ],
+    "wof:id":"102187717",
+    "wof:lastmodified":1449068153,
+    "wof:name":"Caffe Elegante",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.872497,61.195283,-149.872497,61.195283],
+  "geometry": {"coordinates":[-149.872497,61.195283],"type":"Point"}
+}

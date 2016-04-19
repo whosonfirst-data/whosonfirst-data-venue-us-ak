@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.83735,61.099254,-149.83735,61.099254",
+    "geom:latitude":61.099254,
+    "geom:longitude":-149.83735,
+    "iso:country":"US",
+    "sg:address":"2521 Tradewind Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 0496",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873755,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HtFdOBsSRNa3IAds3MLuv_61.099254_-149.837350@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"67b0e5b50b5da233472ee6f641ec5ba9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873755,
+            "region_id":85688573,
+            "venue_id":"102173447"
+        }
+    ],
+    "wof:id":"102173447",
+    "wof:lastmodified":1449068266,
+    "wof:name":"Health Care Bridges",
+    "wof:parent_id":85873755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.83735,61.099254,-149.83735,61.099254],
+  "geometry": {"coordinates":[-149.83735,61.099254],"type":"Point"}
+}

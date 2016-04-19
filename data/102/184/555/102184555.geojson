@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.781652,64.832294,-147.781652,64.832294",
+    "geom:latitude":64.832294,
+    "geom:longitude":-147.781652,
+    "iso:country":"US",
+    "sg:address":"2503 18th Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 455 9753",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RIm66S0vD1SAagsMqBNJs_64.832294_-147.781652@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4131771d3437e322fc66386e04741082",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102184555"
+        }
+    ],
+    "wof:id":"102184555",
+    "wof:lastmodified":1449068217,
+    "wof:name":"Coffee World",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.781652,64.832294,-147.781652,64.832294],
+  "geometry": {"coordinates":[-147.781652,64.832294],"type":"Point"}
+}

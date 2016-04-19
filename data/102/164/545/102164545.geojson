@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.868227,61.181713,-149.868227,61.181713",
+    "geom:latitude":61.181713,
+    "geom:longitude":-149.868227,
+    "iso:country":"US",
+    "sg:address":"4300 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 729 0399",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eesRVnAQvYzk5Ad2JW2JS_61.181713_-149.868227@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c2040eb9358aa818e502641606279a7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102164545"
+        }
+    ],
+    "wof:id":"102164545",
+    "wof:lastmodified":1449068089,
+    "wof:name":"Aurora Catering",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.868227,61.181713,-149.868227,61.181713],
+  "geometry": {"coordinates":[-149.868227,61.181713],"type":"Point"}
+}

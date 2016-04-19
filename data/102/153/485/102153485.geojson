@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.78063,58.476441,-134.78063,58.476441",
+    "geom:latitude":58.476441,
+    "geom:longitude":-134.78063,
+    "iso:country":"US",
+    "sg:address":"22745 Glacier Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 4210",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "designer",
+        "marine",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85846719,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23CXfVWAGbQbYcPT78OCB3_58.476441_-134.780630@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"09142e58d15edf0fde2a6a39446ba1ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85846719,
+            "region_id":85688573,
+            "venue_id":"102153485"
+        }
+    ],
+    "wof:id":"102153485",
+    "wof:lastmodified":1449069461,
+    "wof:name":"SEAL",
+    "wof:parent_id":85846719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.78063,58.476441,-134.78063,58.476441],
+  "geometry": {"coordinates":[-134.78063,58.476441],"type":"Point"}
+}

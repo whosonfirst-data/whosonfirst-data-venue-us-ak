@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.112092,61.601931,-149.112092,61.601931",
+    "geom:latitude":61.601931,
+    "geom:longitude":-149.112092,
+    "iso:country":"US",
+    "sg:address":"423 S Valley Way",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 3333",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "program",
+        "prevention",
+        "crime"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915577,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61JvH3vJ7YMOEWhWsSRgqj_61.601931_-149.112092@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"227024878af2b0350b55c29ea1dd45cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915577,
+            "region_id":85688573,
+            "venue_id":"102168527"
+        }
+    ],
+    "wof:id":"102168527",
+    "wof:lastmodified":1449069009,
+    "wof:name":"Crime Stoppers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.112092,61.601931,-149.112092,61.601931],
+  "geometry": {"coordinates":[-149.112092,61.601931],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.727195,61.18252,-149.727195,61.18252",
+    "geom:latitude":61.18252,
+    "geom:longitude":-149.727195,
+    "iso:country":"US",
+    "sg:address":"8200 Pioneer Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 5105",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:website":"www.alaskapublicrecords.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873735,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32spHpJu6R4sxB81uvfg8L_61.182520_-149.727195@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"10c670d1a721a60a0bab7a0c6b3d5d86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873735,
+            "region_id":85688573,
+            "venue_id":"102152751"
+        }
+    ],
+    "wof:id":"102152751",
+    "wof:lastmodified":1449069634,
+    "wof:name":"Alaska Public Records Search",
+    "wof:parent_id":85873735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.727195,61.18252,-149.727195,61.18252],
+  "geometry": {"coordinates":[-149.727195,61.18252],"type":"Point"}
+}

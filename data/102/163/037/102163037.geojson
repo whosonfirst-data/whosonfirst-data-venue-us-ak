@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.353882,57.804593,-152.353882,57.804593",
+    "geom:latitude":57.804593,
+    "geom:longitude":-152.353882,
+    "iso:country":"US",
+    "sg:address":"2853 Spruce Cape Rd",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 8076",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0okiiOf1CgiZq4pVTHH7wx_57.804593_-152.353882@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ae2994369a805083bfe9a0ec53a0b46a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "region_id":85688573,
+            "venue_id":"102163037"
+        }
+    ],
+    "wof:id":"102163037",
+    "wof:lastmodified":1449070165,
+    "wof:name":"Kodiak Wastewater Treatment",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.353882,57.804593,-152.353882,57.804593],
+  "geometry": {"coordinates":[-152.353882,57.804593],"type":"Point"}
+}

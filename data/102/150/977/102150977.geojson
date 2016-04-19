@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.938492,61.182168,-149.938492,61.182168",
+    "geom:latitude":61.182168,
+    "geom:longitude":-149.938492,
+    "iso:country":"US",
+    "sg:address":"3032 W 42nd Pl",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 5742",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pGUGs0zG3C7sIq3gD0mTw_61.182168_-149.938492@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9a99d571103c1e0def7f250c7a618cfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102150977"
+        }
+    ],
+    "wof:id":"102150977",
+    "wof:lastmodified":1449067793,
+    "wof:name":"MMT",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.938492,61.182168,-149.938492,61.182168],
+  "geometry": {"coordinates":[-149.938492,61.182168],"type":"Point"}
+}

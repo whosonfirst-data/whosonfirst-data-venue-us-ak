@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.45101,59.237538,-135.45101,59.237538",
+    "geom:latitude":59.237538,
+    "geom:longitude":-135.45101,
+    "iso:country":"US",
+    "sg:address":"521 Union St",
+    "sg:city":"Haines",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 766 2282",
+    "sg:postcode":"99827",
+    "sg:province":"AK",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842771,
+        85633793,
+        85916629,
+        102083767,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nfZF2py6O4I8HvmbzVlML_59.237538_-135.451010@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"703c180e47a62b6ba11ae1ebcd80a9c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083767,
+            "locality_id":85916629,
+            "neighbourhood_id":85842771,
+            "region_id":85688573,
+            "venue_id":"102189845"
+        }
+    ],
+    "wof:id":"102189845",
+    "wof:lastmodified":1449069496,
+    "wof:name":"Haines City Maintenance Shop",
+    "wof:parent_id":85842771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.45101,59.237538,-135.45101,59.237538],
+  "geometry": {"coordinates":[-135.45101,59.237538],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.691519,64.851214,-147.691519,64.851214",
+    "geom:latitude":64.851214,
+    "geom:longitude":-147.691519,
+    "iso:country":"US",
+    "sg:address":"104 Kutter Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 3600",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6g3q9hGqdgpvrWN5FR5bEc_64.851214_-147.691519@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f2e0b4ac69dd2d28aa7aef654502e90f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102181677"
+        }
+    ],
+    "wof:id":"102181677",
+    "wof:lastmodified":1449069235,
+    "wof:name":"Alaska Center For Natural Med",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.691519,64.851214,-147.691519,64.851214],
+  "geometry": {"coordinates":[-147.691519,64.851214],"type":"Point"}
+}

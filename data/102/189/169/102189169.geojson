@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.377654,57.802866,-152.377654,57.802866",
+    "geom:latitude":57.802866,
+    "geom:longitude":-152.377654,
+    "iso:country":"US",
+    "sg:address":"1816 Mill Bay Rd",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 5007",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uQbH6LofaZkExelmQUUc0_57.802866_-152.377654@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d8e66ad1b24376949c0f4f1a212febd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102189169"
+        }
+    ],
+    "wof:id":"102189169",
+    "wof:lastmodified":1449069498,
+    "wof:name":"Kodiak Quick Lube",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.377654,57.802866,-152.377654,57.802866],
+  "geometry": {"coordinates":[-152.377654,57.802866],"type":"Point"}
+}

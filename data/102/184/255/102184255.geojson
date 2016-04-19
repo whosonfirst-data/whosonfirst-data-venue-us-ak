@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.884361,61.183939,-149.884361,61.183939",
+    "geom:latitude":61.183939,
+    "geom:longitude":-149.884361,
+    "iso:country":"US",
+    "sg:address":"4341 B St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 5520",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ub8I7O60jaJMxo1fb3T7y_61.183939_-149.884361@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2165eb5b0d938ff19c885de4584f88a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102184255"
+        }
+    ],
+    "wof:id":"102184255",
+    "wof:lastmodified":1449068217,
+    "wof:name":"Norgasco Inc",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.884361,61.183939,-149.884361,61.183939],
+  "geometry": {"coordinates":[-149.884361,61.183939],"type":"Point"}
+}

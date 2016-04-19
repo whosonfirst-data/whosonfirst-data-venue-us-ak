@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.424317,58.30268,-134.424317,58.30268",
+    "geom:latitude":58.30268,
+    "geom:longitude":-134.424317,
+    "iso:country":"US",
+    "sg:address":"811 W 12th St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 5742",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aXwNlhvwIVJ6VCAgtxQVU_58.302680_-134.424317@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f2d26fcbaa2f219ea2a0b13154cf04f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102160363"
+        }
+    ],
+    "wof:id":"102160363",
+    "wof:lastmodified":1449069778,
+    "wof:name":"Yaakoos Alternative High Schl",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.424317,58.30268,-134.424317,58.30268],
+  "geometry": {"coordinates":[-134.424317,58.30268],"type":"Point"}
+}

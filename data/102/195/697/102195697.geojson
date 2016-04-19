@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.394867,61.664633,-149.394867,61.664633",
+    "geom:latitude":61.664633,
+    "geom:longitude":-149.394867,
+    "iso:country":"US",
+    "sg:address":"3211 Coles Rd",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 8981",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916185,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4d1y0lGEPyiVWTYJspCtaB_61.664633_-149.394867@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9f1c5c6054264a8c1a04460cc01d007f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916185,
+            "region_id":85688573,
+            "venue_id":"102195697"
+        }
+    ],
+    "wof:id":"102195697",
+    "wof:lastmodified":1449069363,
+    "wof:name":"Baldy Mountain Rental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.394867,61.664633,-149.394867,61.664633],
+  "geometry": {"coordinates":[-149.394867,61.664633],"type":"Point"}
+}

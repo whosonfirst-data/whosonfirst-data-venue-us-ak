@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.373677,61.585169,-149.373677,61.585169",
+    "geom:latitude":61.585169,
+    "geom:longitude":-149.373677,
+    "iso:country":"US",
+    "sg:address":"3051 E Palmer-Wasilla Hwy",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 352 4800",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home"
+    ],
+    "sg:website":"www.valley-hosp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27bQGxdHLMlThkJYqnnfda_61.585169_-149.373677@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cc621fedbc5b5cf735a7865bfe8e6457",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "region_id":85688573,
+            "venue_id":"102183439"
+        }
+    ],
+    "wof:id":"102183439",
+    "wof:lastmodified":1449069041,
+    "wof:name":"Valley Health Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.373677,61.585169,-149.373677,61.585169],
+  "geometry": {"coordinates":[-149.373677,61.585169],"type":"Point"}
+}

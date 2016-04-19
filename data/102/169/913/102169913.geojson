@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.865744,61.205326,-149.865744,61.205326",
+    "geom:latitude":61.205326,
+    "geom:longitude":-149.865744,
+    "iso:country":"US",
+    "sg:address":"1644 Juneau Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 1992",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jDipvA4UvQMXxlBhYr5qT_61.205326_-149.865744@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"22a8aa35b15f859528af2bf204e35931",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102169913"
+        }
+    ],
+    "wof:id":"102169913",
+    "wof:lastmodified":1449069247,
+    "wof:name":"Escape Lodge",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.865744,61.205326,-149.865744,61.205326],
+  "geometry": {"coordinates":[-149.865744,61.205326],"type":"Point"}
+}

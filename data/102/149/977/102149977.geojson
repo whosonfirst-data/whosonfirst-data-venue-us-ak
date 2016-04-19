@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.81247,64.833671,-147.81247,64.833671",
+    "geom:latitude":64.833671,
+    "geom:longitude":-147.81247,
+    "iso:country":"US",
+    "sg:address":"1721 University Ave S",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 8124",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s6ro0JVAqluwnLLcQWn1M_64.833671_-147.812470@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4690605d171edea26d5ea3b590681538",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102149977"
+        }
+    ],
+    "wof:id":"102149977",
+    "wof:lastmodified":1449067772,
+    "wof:name":"Sophie Plaza Storage",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.81247,64.833671,-147.81247,64.833671],
+  "geometry": {"coordinates":[-147.81247,64.833671],"type":"Point"}
+}

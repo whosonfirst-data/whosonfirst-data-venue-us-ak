@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.878711,61.113004,-149.878711,61.113004",
+    "geom:latitude":61.113004,
+    "geom:longitude":-149.878711,
+    "iso:country":"US",
+    "sg:address":"11911 Johns Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 8596",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "youth",
+        "organization",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873755,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7In6P3JXzWU3rjb6qQ7569_61.113004_-149.878711@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"026b5d49d830e2cad82385e51e9edcc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873755,
+            "region_id":85688573,
+            "venue_id":"102166797"
+        }
+    ],
+    "wof:id":"102166797",
+    "wof:lastmodified":1449069086,
+    "wof:name":"Camp Fire Alaska Council",
+    "wof:parent_id":85873755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.878711,61.113004,-149.878711,61.113004],
+  "geometry": {"coordinates":[-149.878711,61.113004],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.566832,61.311098,-149.566832,61.311098",
+    "geom:latitude":61.311098,
+    "geom:longitude":-149.566832,
+    "iso:country":"US",
+    "sg:address":"16958 Eagle River Rd",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 694 8000",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dI4xQl2pxK8X8kv8sjWOZ_61.311098_-149.566832@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9bb6cb49d7814f0fdea1b701d90037a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102165081"
+        }
+    ],
+    "wof:id":"102165081",
+    "wof:lastmodified":1449070215,
+    "wof:name":"Chugach Taxidermy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.566832,61.311098,-149.566832,61.311098],
+  "geometry": {"coordinates":[-149.566832,61.311098],"type":"Point"}
+}

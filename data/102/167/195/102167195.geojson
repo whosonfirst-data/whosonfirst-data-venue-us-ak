@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.414571,58.300801,-134.414571,58.300801",
+    "geom:latitude":58.300801,
+    "geom:longitude":-134.414571,
+    "iso:country":"US",
+    "sg:address":"450 Whittier St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 465 4356",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67tP4IGP7tRpRSv0cCCG2B_58.300801_-134.414571@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1ac07232bb0b25d0ef9670d7239c571b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102167195"
+        }
+    ],
+    "wof:id":"102167195",
+    "wof:lastmodified":1449069002,
+    "wof:name":"Domestic Violence-Sexual Asslt",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.414571,58.300801,-134.414571,58.300801],
+  "geometry": {"coordinates":[-134.414571,58.300801],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.71401,64.826956,-147.71401,64.826956",
+    "geom:latitude":64.826956,
+    "geom:longitude":-147.71401,
+    "iso:country":"US",
+    "sg:address":"2250 S Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 374 3939",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0c0uFR0YOEhw39McSLMZtl_64.826956_-147.714010@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6f9961b7dd91d5e8801b3f45e0241fa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102188699"
+        }
+    ],
+    "wof:id":"102188699",
+    "wof:lastmodified":1449068944,
+    "wof:name":"Aurora Cleaners",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.71401,64.826956,-147.71401,64.826956],
+  "geometry": {"coordinates":[-147.71401,64.826956],"type":"Point"}
+}

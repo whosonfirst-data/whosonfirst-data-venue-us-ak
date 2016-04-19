@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.88869,61.168337,-149.88869,61.168337",
+    "geom:latitude":61.168337,
+    "geom:longitude":-149.88869,
+    "iso:country":"US",
+    "sg:address":"5630 Silverado Way",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 770 6180",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "telephone",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48jFH41oUXJKskndS4uQDu_61.168337_-149.888690@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fba4e72494d4118cb46eb01b6d97a551",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102170675"
+        }
+    ],
+    "wof:id":"102170675",
+    "wof:lastmodified":1449068018,
+    "wof:name":"Arctic Communications",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.88869,61.168337,-149.88869,61.168337],
+  "geometry": {"coordinates":[-149.88869,61.168337],"type":"Point"}
+}

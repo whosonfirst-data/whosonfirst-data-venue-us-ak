@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.86567,64.843485,-147.86567,64.843485",
+    "geom:latitude":64.843485,
+    "geom:longitude":-147.86567,
+    "iso:country":"US",
+    "sg:address":"4861 Glasgow Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 2829",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916609,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RR8EyJgDUZRZtay03Htjc_64.843485_-147.865670@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ff6f96db73710fa98eec32a3702f24db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "region_id":85688573,
+            "venue_id":"102191053"
+        }
+    ],
+    "wof:id":"102191053",
+    "wof:lastmodified":1449069201,
+    "wof:name":"Polar Power & Communications",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.86567,64.843485,-147.86567,64.843485],
+  "geometry": {"coordinates":[-147.86567,64.843485],"type":"Point"}
+}

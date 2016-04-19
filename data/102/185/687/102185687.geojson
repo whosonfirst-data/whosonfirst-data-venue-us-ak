@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.013821,61.59975,-149.013821,61.59975",
+    "geom:latitude":61.59975,
+    "geom:longitude":-149.013821,
+    "iso:country":"US",
+    "sg:address":"1990 Byers Ranch Rd",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 746 3610",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "nutritionist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916219,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LkpEjJPFX9BJq5fYx5lXt_61.599750_-149.013821@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"14b84ec9ee528f90e85590f4e5e84dd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916219,
+            "region_id":85688573,
+            "venue_id":"102185687"
+        }
+    ],
+    "wof:id":"102185687",
+    "wof:lastmodified":1449068196,
+    "wof:name":"Nutrition Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.013821,61.59975,-149.013821,61.59975],
+  "geometry": {"coordinates":[-149.013821,61.59975],"type":"Point"}
+}

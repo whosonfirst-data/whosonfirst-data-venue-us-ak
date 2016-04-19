@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.887401,61.201316,-149.887401,61.201316",
+    "geom:latitude":61.201316,
+    "geom:longitude":-149.887401,
+    "iso:country":"US",
+    "sg:address":"2120 C St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 5121",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64wU2vhxCjS8c8PzT8p47l_61.201316_-149.887401@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"50c6f7bbb465a04b06aa239659458ba7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102150737"
+        }
+    ],
+    "wof:id":"102150737",
+    "wof:lastmodified":1449067790,
+    "wof:name":"Block & Assoc",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.887401,61.201316,-149.887401,61.201316],
+  "geometry": {"coordinates":[-149.887401,61.201316],"type":"Point"}
+}

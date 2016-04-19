@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.331096,64.788137,-147.331096,64.788137",
+    "geom:latitude":64.788137,
+    "geom:longitude":-147.331096,
+    "iso:country":"US",
+    "sg:address":"2643 Pool St",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 0335",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "sg:website":"www.refinerynorthpole.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916555,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01dHcjgyDZ0QoNOD1W33t7_64.788137_-147.331096@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8aec3c63b370011c6def596a03a177c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916555,
+            "region_id":85688573,
+            "venue_id":"102166501"
+        }
+    ],
+    "wof:id":"102166501",
+    "wof:lastmodified":1449069089,
+    "wof:name":"Refinery Lounge",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.331096,64.788137,-147.331096,64.788137],
+  "geometry": {"coordinates":[-147.331096,64.788137],"type":"Point"}
+}

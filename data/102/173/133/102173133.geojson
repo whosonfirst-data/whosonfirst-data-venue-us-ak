@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.426243,58.292353,-134.426243,58.292353",
+    "geom:latitude":58.292353,
+    "geom:longitude":-134.426243,
+    "iso:country":"US",
+    "sg:address":"3070 Douglas Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 6141",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cosmetic",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hF5Ln0yKhzvvT357x2YY4_58.292353_-134.426243@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"595e780f4b36debda606b5efb4689541",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102173133"
+        }
+    ],
+    "wof:id":"102173133",
+    "wof:lastmodified":1449068266,
+    "wof:name":"Image Centre",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.426243,58.292353,-134.426243,58.292353],
+  "geometry": {"coordinates":[-134.426243,58.292353],"type":"Point"}
+}

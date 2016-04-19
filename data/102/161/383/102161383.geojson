@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.585824,64.913988,-147.585824,64.913988",
+    "geom:latitude":64.913988,
+    "geom:longitude":-147.585824,
+    "iso:country":"US",
+    "sg:address":"1222 Gilmore Trl",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 2521",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916545,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MsQGXH3Teo3ip3UCelCKo_64.913988_-147.585824@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a772a09bde82401ecdb45359badb70d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916545,
+            "region_id":85688573,
+            "venue_id":"102161383"
+        }
+    ],
+    "wof:id":"102161383",
+    "wof:lastmodified":1449068710,
+    "wof:name":"Fuel Savers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.585824,64.913988,-147.585824,64.913988],
+  "geometry": {"coordinates":[-147.585824,64.913988],"type":"Point"}
+}

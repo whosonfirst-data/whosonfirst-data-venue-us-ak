@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.893491,61.218551,-149.893491,61.218551",
+    "geom:latitude":61.218551,
+    "geom:longitude":-149.893491,
+    "iso:country":"US",
+    "sg:address":"501 W 4th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 4933",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.grizzlysgifts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RPL4F636YcH4C7aTPlO1A_61.218551_-149.893491@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ac2c929d38af33c4261f06bf0751e7cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102148251"
+        }
+    ],
+    "wof:id":"102148251",
+    "wof:lastmodified":1449069780,
+    "wof:name":"Grizzly Inc",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.893491,61.218551,-149.893491,61.218551],
+  "geometry": {"coordinates":[-149.893491,61.218551],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.713815,59.43874,-151.713815,59.43874",
+    "geom:latitude":59.43874,
+    "geom:longitude":-151.713815,
+    "iso:country":"US",
+    "sg:address":"264 Lipke Ln",
+    "sg:city":"Seldovia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 234 7640",
+    "sg:postcode":"99663",
+    "sg:province":"AK",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915757,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HU9c1XTMQLjDT9DZsN2YP_59.438740_-151.713815@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0fab08f2e7fa9729faebccce21f78a4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915757,
+            "region_id":85688573,
+            "venue_id":"102186969"
+        }
+    ],
+    "wof:id":"102186969",
+    "wof:lastmodified":1449069653,
+    "wof:name":"Seldovia Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.713815,59.43874,-151.713815,59.43874],
+  "geometry": {"coordinates":[-151.713815,59.43874],"type":"Point"}
+}

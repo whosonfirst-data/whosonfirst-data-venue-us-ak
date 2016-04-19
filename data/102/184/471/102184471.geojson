@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.409342,58.300984,-134.409342,58.300984",
+    "geom:latitude":58.300984,
+    "geom:longitude":-134.409342,
+    "iso:country":"US",
+    "sg:address":"240 Main St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 465 4611",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vGUtodAs9e5zbwRrxlDwv_58.300984_-134.409342@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2af1e61ccacad03aedd4918a3228b309",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102184471"
+        }
+    ],
+    "wof:id":"102184471",
+    "wof:lastmodified":1449068216,
+    "wof:name":"Elections Division",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.409342,58.300984,-134.409342,58.300984],
+  "geometry": {"coordinates":[-134.409342,58.300984],"type":"Point"}
+}

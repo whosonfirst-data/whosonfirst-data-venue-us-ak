@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-148.686493,60.772721,-148.686493,60.772721",
+    "geom:latitude":60.772721,
+    "geom:longitude":-148.686493,
+    "iso:country":"US",
+    "sg:address":"101 Kenai St",
+    "sg:city":"Whittier",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 472 2490",
+    "sg:postcode":"99693",
+    "sg:province":"AK",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915589,
+        85633793,
+        85688573,
+        102081911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OyIyNSA1CsLphLmWK4BV5_60.772721_-148.686493@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d6bff8640a78dea0439447718034e180",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915589,
+            "region_id":85688573,
+            "venue_id":"102173677"
+        }
+    ],
+    "wof:id":"102173677",
+    "wof:lastmodified":1449068266,
+    "wof:name":"Country Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-148.686493,60.772721,-148.686493,60.772721],
+  "geometry": {"coordinates":[-148.686493,60.772721],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.62887,64.953535,-147.62887,64.953535",
+    "geom:latitude":64.953535,
+    "geom:longitude":-147.62887,
+    "iso:country":"US",
+    "sg:address":"2119 Old Steese Hwy N",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 1967",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916597,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DQLn4YNj2ZhOg3XSjZlMy_64.953535_-147.628870@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"378ffa091095dde741379a5f81dedd98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916597,
+            "region_id":85688573,
+            "venue_id":"102149663"
+        }
+    ],
+    "wof:id":"102149663",
+    "wof:lastmodified":1449067769,
+    "wof:name":"Dineega Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.62887,64.953535,-147.62887,64.953535],
+  "geometry": {"coordinates":[-147.62887,64.953535],"type":"Point"}
+}

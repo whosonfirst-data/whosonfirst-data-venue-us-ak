@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.715559,64.830629,-147.715559,64.830629",
+    "geom:latitude":64.830629,
+    "geom:longitude":-147.715559,
+    "iso:country":"US",
+    "sg:address":"1804 S Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 0837",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sSXTftGQfoYtdGbU5qpln_64.830629_-147.715559@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ddcf7396fb70360e693750e1b5a24b14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102173271"
+        }
+    ],
+    "wof:id":"102173271",
+    "wof:lastmodified":1449068266,
+    "wof:name":"Fairbanks Collision Svc",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.715559,64.830629,-147.715559,64.830629],
+  "geometry": {"coordinates":[-147.715559,64.830629],"type":"Point"}
+}

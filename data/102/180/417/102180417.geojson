@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.478984,59.64104,-151.478984,59.64104",
+    "geom:latitude":59.64104,
+    "geom:longitude":-151.478984,
+    "iso:country":"US",
+    "sg:address":"2100 Kachemak Dr",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 2262",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834363,
+        85633793,
+        85915739,
+        102081909,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nMNI4XM2IeaZBDvre5jC4_59.641040_-151.478984@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0eb1cd03f863b87cc7d017a712715cbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "neighbourhood_id":85834363,
+            "region_id":85688573,
+            "venue_id":"102180417"
+        }
+    ],
+    "wof:id":"102180417",
+    "wof:lastmodified":1449067871,
+    "wof:name":"Cece's Kitchen",
+    "wof:parent_id":85834363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.478984,59.64104,-151.478984,59.64104],
+  "geometry": {"coordinates":[-151.478984,59.64104],"type":"Point"}
+}

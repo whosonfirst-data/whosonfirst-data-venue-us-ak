@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.34228,64.739701,-147.34228,64.739701",
+    "geom:latitude":64.739701,
+    "geom:longitude":-147.34228,
+    "iso:country":"US",
+    "sg:address":"1100 H & H Ln",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 0073",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915639,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SYXYoO5SEGF34ZB2ibDtt_64.739701_-147.342280@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cebd83025a95b1479b92ee614b5aca11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915639,
+            "region_id":85688573,
+            "venue_id":"102150253"
+        }
+    ],
+    "wof:id":"102150253",
+    "wof:lastmodified":1449067792,
+    "wof:name":"Ray Electric Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.34228,64.739701,-147.34228,64.739701],
+  "geometry": {"coordinates":[-147.34228,64.739701],"type":"Point"}
+}

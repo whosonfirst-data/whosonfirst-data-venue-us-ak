@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.844511,61.196621,-149.844511,61.196621",
+    "geom:latitude":61.196621,
+    "geom:longitude":-149.844511,
+    "iso:country":"US",
+    "sg:address":"2618 Shepherdia Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 1670",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XW98iH20i2vBlJ8Ukj1oL_61.196621_-149.844511@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5af278b599277ae67e72ece7c6307649",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102156411"
+        }
+    ],
+    "wof:id":"102156411",
+    "wof:lastmodified":1449068281,
+    "wof:name":"Cleaning Co",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.844511,61.196621,-149.844511,61.196621],
+  "geometry": {"coordinates":[-149.844511,61.196621],"type":"Point"}
+}

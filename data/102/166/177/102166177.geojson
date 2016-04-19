@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.810482,61.243092,-149.810482,61.243092",
+    "geom:latitude":61.243092,
+    "geom:longitude":-149.810482,
+    "iso:country":"US",
+    "sg:address":"9485 Pease Ave",
+    "sg:city":"Elmendorf Afb",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 753 2266",
+    "sg:postcode":"99506",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820221,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IH0vsBrx0SpiS0n8A0jR5_61.243092_-149.810482@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6af162dd429ff286295a9adf475b935f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85820221,
+            "region_id":85688573,
+            "venue_id":"102166177"
+        }
+    ],
+    "wof:id":"102166177",
+    "wof:lastmodified":1449069088,
+    "wof:name":"Sun Dry Cleaners",
+    "wof:parent_id":85820221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.810482,61.243092,-149.810482,61.243092],
+  "geometry": {"coordinates":[-149.810482,61.243092],"type":"Point"}
+}

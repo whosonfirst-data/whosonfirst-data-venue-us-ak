@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.441321,58.108536,-135.441321,58.108536",
+    "geom:latitude":58.108536,
+    "geom:longitude":-135.441321,
+    "iso:country":"US",
+    "sg:address":"366 Garteeni Hwy",
+    "sg:city":"Hoonah",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 945 3613",
+    "sg:postcode":"99829",
+    "sg:province":"AK",
+    "sg:website":"www.hoonah.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916121,
+        85633793,
+        85688573,
+        102081003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gdWngXCzjKhQiiEaY3Sa5_58.108536_-135.441321@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0c6b0cdf722cd1d995f04e35637626e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081003,
+            "locality_id":85916121,
+            "region_id":85688573,
+            "venue_id":"102159029"
+        }
+    ],
+    "wof:id":"102159029",
+    "wof:lastmodified":1449068094,
+    "wof:name":"Hoonah High School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.441321,58.108536,-135.441321,58.108536],
+  "geometry": {"coordinates":[-135.441321,58.108536],"type":"Point"}
+}

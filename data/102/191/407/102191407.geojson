@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.292455,61.613927,-149.292455,61.613927",
+    "geom:latitude":61.613927,
+    "geom:longitude":-149.292455,
+    "iso:country":"US",
+    "sg:address":"6151 Bogard Rd",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 9473",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916225,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lARGe4WTKQAF5gpzoLgkI_61.613927_-149.292455@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0920a4a2970d24dcea0e115af65b5a9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916225,
+            "region_id":85688573,
+            "venue_id":"102191407"
+        }
+    ],
+    "wof:id":"102191407",
+    "wof:lastmodified":1449069202,
+    "wof:name":"Bullseye Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.292455,61.613927,-149.292455,61.613927],
+  "geometry": {"coordinates":[-149.292455,61.613927],"type":"Point"}
+}

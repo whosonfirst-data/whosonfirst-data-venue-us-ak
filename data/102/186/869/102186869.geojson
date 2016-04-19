@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-161.759851,60.793755,-161.759851,60.793755",
+    "geom:latitude":60.793755,
+    "geom:longitude":-161.759851,
+    "iso:country":"US",
+    "sg:address":"162 Main St",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 543 2120",
+    "sg:postcode":"99559",
+    "sg:province":"AK",
+    "sg:tags":[
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915901,
+        85633793,
+        85688573,
+        102085877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dioJgtbtD7q61gXmyHFOW_60.793755_-161.759851@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7fd0465c679312b41483fbfde93995b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085877,
+            "locality_id":85915901,
+            "region_id":85688573,
+            "venue_id":"102186869"
+        }
+    ],
+    "wof:id":"102186869",
+    "wof:lastmodified":1449069654,
+    "wof:name":"Golden Eagle Unlimited",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-161.759851,60.793755,-161.759851,60.793755],
+  "geometry": {"coordinates":[-161.759851,60.793755],"type":"Point"}
+}

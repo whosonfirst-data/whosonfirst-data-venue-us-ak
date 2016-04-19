@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.877854,61.151501,-149.877854,61.151501",
+    "geom:latitude":61.151501,
+    "geom:longitude":-149.877854,
+    "iso:country":"US",
+    "sg:address":"7655 King St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 770 1685",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bLsesATmj2ZztQcnWN3Ad_61.151501_-149.877854@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"580c0eec162c28acd4332bcae707b861",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102195341"
+        }
+    ],
+    "wof:id":"102195341",
+    "wof:lastmodified":1449069365,
+    "wof:name":"TBI Construction",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.877854,61.151501,-149.877854,61.151501],
+  "geometry": {"coordinates":[-149.877854,61.151501],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.029407,61.59935,-149.029407,61.59935",
+    "geom:latitude":61.59935,
+    "geom:longitude":-149.029407,
+    "iso:country":"US",
+    "sg:address":"1305 Smith Rd",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 746 1087",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:website":"www.arcticorganics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916303,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5azCaGODqGCTAIygYVuM47_61.599350_-149.029407@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"84f35ccdb23fdd3917decd0f858a43d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916303,
+            "region_id":85688573,
+            "venue_id":"102151675"
+        }
+    ],
+    "wof:id":"102151675",
+    "wof:lastmodified":1449067782,
+    "wof:name":"Arctic Organics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.029407,61.59935,-149.029407,61.59935],
+  "geometry": {"coordinates":[-149.029407,61.59935],"type":"Point"}
+}

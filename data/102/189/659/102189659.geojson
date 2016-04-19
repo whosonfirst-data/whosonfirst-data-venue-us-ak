@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.425724,58.300546,-134.425724,58.300546",
+    "geom:latitude":58.300546,
+    "geom:longitude":-134.425724,
+    "iso:country":"US",
+    "sg:address":"1000 Harbor Way",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 2007",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73aXP5bpcTFQDzSWElxOZJ_58.300546_-134.425724@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0f858c5abec544006ceab97d5c156ea9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102189659"
+        }
+    ],
+    "wof:id":"102189659",
+    "wof:lastmodified":1449069497,
+    "wof:name":"KSRJ Star",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.425724,58.300546,-134.425724,58.300546],
+  "geometry": {"coordinates":[-134.425724,58.300546],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.561504,58.399188,-134.561504,58.399188",
+    "geom:latitude":58.399188,
+    "geom:longitude":-134.561504,
+    "iso:country":"US",
+    "sg:address":"4450 Dredge Lake Rd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 9890",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "woodworker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VtKk6zCwl6AfWG1hKW1Oa_58.399188_-134.561504@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e762b76bb061f1512627ccc11b256e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102168845"
+        }
+    ],
+    "wof:id":"102168845",
+    "wof:lastmodified":1449069006,
+    "wof:name":"Wooden Dreams",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.561504,58.399188,-134.561504,58.399188],
+  "geometry": {"coordinates":[-134.561504,58.399188],"type":"Point"}
+}

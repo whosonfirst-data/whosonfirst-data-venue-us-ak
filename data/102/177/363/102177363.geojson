@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.861346,61.159383,-149.861346,61.159383",
+    "geom:latitude":61.159383,
+    "geom:longitude":-149.861346,
+    "iso:country":"US",
+    "sg:address":"6616 Rosewood St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 1050",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_446L6XnDaDeHA7NdyVGx9j_61.159383_-149.861346@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a059e6c7be0d046b56dd349d01659ebd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102177363"
+        }
+    ],
+    "wof:id":"102177363",
+    "wof:lastmodified":1449070207,
+    "wof:name":"Distinctive Auto Body",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.861346,61.159383,-149.861346,61.159383],
+  "geometry": {"coordinates":[-149.861346,61.159383],"type":"Point"}
+}

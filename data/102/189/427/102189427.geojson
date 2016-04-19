@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.682175,64.84168,-147.682175,64.84168",
+    "geom:latitude":64.84168,
+    "geom:longitude":-147.682175,
+    "iso:country":"US",
+    "sg:address":"230 Iditarod Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 7520",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "balloon",
+        "artist"
+    ],
+    "sg:website":"www.auroraballoons.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ppjgl0eAbGDCUn1jxI3Nw_64.841680_-147.682175@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3a0954a6164d6254ba0c781aefb0a744",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102189427"
+        }
+    ],
+    "wof:id":"102189427",
+    "wof:lastmodified":1449069496,
+    "wof:name":"Aurora Balloons & Decorating",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.682175,64.84168,-147.682175,64.84168],
+  "geometry": {"coordinates":[-147.682175,64.84168],"type":"Point"}
+}

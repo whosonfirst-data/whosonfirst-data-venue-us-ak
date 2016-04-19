@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.822017,61.094268,-149.822017,61.094268",
+    "geom:latitude":61.094268,
+    "geom:longitude":-149.822017,
+    "iso:country":"US",
+    "sg:address":"3243 de Armoun Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 348 0408",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_655bQ2Ln2tcvHPuqcbCqNQ_61.094268_-149.822017@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"774bf3b51dc001bc353a51f1bcf5cfde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102176609"
+        }
+    ],
+    "wof:id":"102176609",
+    "wof:lastmodified":1449069347,
+    "wof:name":"Pacific Surveying Instruments",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.822017,61.094268,-149.822017,61.094268],
+  "geometry": {"coordinates":[-149.822017,61.094268],"type":"Point"}
+}

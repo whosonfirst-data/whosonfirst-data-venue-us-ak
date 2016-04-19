@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.879044,61.175761,-149.879044,61.175761",
+    "geom:latitude":61.175761,
+    "geom:longitude":-149.879044,
+    "iso:country":"US",
+    "sg:address":"4760 Cordova St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 7379",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02YIAKbmfbQ6mygeEDSsnz_61.175761_-149.879044@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"be2861db1d71f2964b887b4beaa0fcb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102195077"
+        }
+    ],
+    "wof:id":"102195077",
+    "wof:lastmodified":1449069361,
+    "wof:name":"R M Wickett & Sons",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.879044,61.175761,-149.879044,61.175761],
+  "geometry": {"coordinates":[-149.879044,61.175761],"type":"Point"}
+}

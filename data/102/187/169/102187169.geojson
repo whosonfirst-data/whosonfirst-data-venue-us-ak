@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.711748,64.820035,-147.711748,64.820035",
+    "geom:latitude":64.820035,
+    "geom:longitude":-147.711748,
+    "iso:country":"US",
+    "sg:address":"511 30th Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 1661",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "sg:website":"www.chazlimited.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sbuPTIwLNSK9yS2KME9rc_64.820035_-147.711748@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0f852b825d54827cd7a14266d92bba86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102187169"
+        }
+    ],
+    "wof:id":"102187169",
+    "wof:lastmodified":1449068159,
+    "wof:name":"Chaz Limited",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.711748,64.820035,-147.711748,64.820035],
+  "geometry": {"coordinates":[-147.711748,64.820035],"type":"Point"}
+}

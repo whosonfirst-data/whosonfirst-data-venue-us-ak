@@ -1,0 +1,69 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.850077,61.142706,-149.850077,61.142706",
+    "geom:latitude":61.142706,
+    "geom:longitude":-149.850077,
+    "iso:country":"US",
+    "sg:address":"8606 Corbin Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 8115",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3J5FhTKnqAVuhy7JFhAeRY_61.142706_-149.850077@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7b754e34012e5e1300212d90c9325ac5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102149743"
+        }
+    ],
+    "wof:id":"102149743",
+    "wof:lastmodified":1449067772,
+    "wof:name":"Kusko Fence Company",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.850077,61.142706,-149.850077,61.142706],
+  "geometry": {"coordinates":[-149.850077,61.142706],"type":"Point"}
+}

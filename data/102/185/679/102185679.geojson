@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.750648,61.201066,-149.750648,61.201066",
+    "geom:latitude":61.201066,
+    "geom:longitude":-149.750648,
+    "iso:country":"US",
+    "sg:address":"2240 Banbury Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 8614",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869053,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HDk2cjJFBAPk4a7vL1epD_61.201066_-149.750648@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bab29ae5af3cce7e4a5b17a0d4371e10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869053,
+            "region_id":85688573,
+            "venue_id":"102185679"
+        }
+    ],
+    "wof:id":"102185679",
+    "wof:lastmodified":1449068196,
+    "wof:name":"Bronner John D",
+    "wof:parent_id":85869053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.750648,61.201066,-149.750648,61.201066],
+  "geometry": {"coordinates":[-149.750648,61.201066],"type":"Point"}
+}

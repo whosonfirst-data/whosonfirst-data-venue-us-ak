@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.472201,58.329821,-134.472201,58.329821",
+    "geom:latitude":58.329821,
+    "geom:longitude":-134.472201,
+    "iso:country":"US",
+    "sg:address":"3227 Glacier Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 5656",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853509,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44hj3NGprl2iUiUEc6stAf_58.329821_-134.472201@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eed7f5455d589bdcdffe562d2cd5fc44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85853509,
+            "region_id":85688573,
+            "venue_id":"102149641"
+        }
+    ],
+    "wof:id":"102149641",
+    "wof:lastmodified":1449067770,
+    "wof:name":"Alaska Urological Assoc",
+    "wof:parent_id":85853509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.472201,58.329821,-134.472201,58.329821],
+  "geometry": {"coordinates":[-134.472201,58.329821],"type":"Point"}
+}

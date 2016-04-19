@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.779516,61.209646,-149.779516,61.209646",
+    "geom:latitude":61.209646,
+    "geom:longitude":-149.779516,
+    "iso:country":"US",
+    "sg:address":"5200 Debarr Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 343 6992",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "resort",
+        "center",
+        "skiing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869053,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36z55kbfFpffPuUlZOo5Mt_61.209646_-149.779516@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a49250bbec878fff7b8d8c07117ff6cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869053,
+            "region_id":85688573,
+            "venue_id":"102189441"
+        }
+    ],
+    "wof:id":"102189441",
+    "wof:lastmodified":1449069496,
+    "wof:name":"Russian Jack Golf Course",
+    "wof:parent_id":85869053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.779516,61.209646,-149.779516,61.209646],
+  "geometry": {"coordinates":[-149.779516,61.209646],"type":"Point"}
+}

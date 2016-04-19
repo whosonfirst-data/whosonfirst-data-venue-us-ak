@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.703114,64.819576,-147.703114,64.819576",
+    "geom:latitude":64.819576,
+    "geom:longitude":-147.703114,
+    "iso:country":"US",
+    "sg:address":"285 Old Richardson Hwy",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 6300",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1P1pxfcDOnbfk1SeG0edSC_64.819576_-147.703114@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"398ed7d036bda6dc49d19c2feb2f2385",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102163927"
+        }
+    ],
+    "wof:id":"102163927",
+    "wof:lastmodified":1449070165,
+    "wof:name":"Silverspur Night Club",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.703114,64.819576,-147.703114,64.819576],
+  "geometry": {"coordinates":[-147.703114,64.819576],"type":"Point"}
+}

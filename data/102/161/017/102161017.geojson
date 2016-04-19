@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.912901,61.170009,-149.912901,61.170009",
+    "geom:latitude":61.170009,
+    "geom:longitude":-149.912901,
+    "iso:country":"US",
+    "sg:address":"5601 Minnesota Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 7494",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "sg:website":"www.chugachelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sfARoGvASdJRuwrGshNxc_61.170009_-149.912901@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"15050507c92d01e9cf5d20846ccea38b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102161017"
+        }
+    ],
+    "wof:id":"102161017",
+    "wof:lastmodified":1449068711,
+    "wof:name":"Chugach Electric Assn Inc",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.912901,61.170009,-149.912901,61.170009],
+  "geometry": {"coordinates":[-149.912901,61.170009],"type":"Point"}
+}

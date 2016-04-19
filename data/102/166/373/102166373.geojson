@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.067986,60.476825,-151.067986,60.476825",
+    "geom:latitude":60.476825,
+    "geom:longitude":-151.067986,
+    "iso:country":"US",
+    "sg:address":"48213 Funny River Rd",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 260 5850",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LbfnphuaPPoLGd7Wdmdfq_60.476825_-151.067986@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9f54fd7f9884517c1ae5eace7d3739c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "region_id":85688573,
+            "venue_id":"102166373"
+        }
+    ],
+    "wof:id":"102166373",
+    "wof:lastmodified":1449069086,
+    "wof:name":"Peninsula Veterinary Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.067986,60.476825,-151.067986,60.476825],
+  "geometry": {"coordinates":[-151.067986,60.476825],"type":"Point"}
+}

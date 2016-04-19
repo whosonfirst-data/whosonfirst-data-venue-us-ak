@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.313325,59.459216,-135.313325,59.459216",
+    "geom:latitude":59.459216,
+    "geom:longitude":-135.313325,
+    "iso:country":"US",
+    "sg:address":"901 Main St",
+    "sg:city":"Skagway",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 983 3045",
+    "sg:postcode":"99840",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85917083,
+        85633793,
+        85688573,
+        102081007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pRrw6m92u6zmmzmGj2G14_59.459216_-135.313325@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5efe6d0dcce1085e0f1cc1295addab79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081007,
+            "locality_id":85917083,
+            "region_id":85688573,
+            "venue_id":"102180977"
+        }
+    ],
+    "wof:id":"102180977",
+    "wof:lastmodified":1449067878,
+    "wof:name":"Mile Zero Bed & Breakfast",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.313325,59.459216,-135.313325,59.459216],
+  "geometry": {"coordinates":[-135.313325,59.459216],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.664451,55.347333,-131.664451,55.347333",
+    "geom:latitude":55.347333,
+    "geom:longitude":-131.664451,
+    "iso:country":"US",
+    "sg:address":"1638 Tongass Ave",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 5679",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2j8Othu20Qr8J6Zt6PDunL_55.347333_-131.664451@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ac553d94187c129c94f0d3507ed12426",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102188179"
+        }
+    ],
+    "wof:id":"102188179",
+    "wof:lastmodified":1449068949,
+    "wof:name":"Dick's Body Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.664451,55.347333,-131.664451,55.347333],
+  "geometry": {"coordinates":[-131.664451,55.347333],"type":"Point"}
+}

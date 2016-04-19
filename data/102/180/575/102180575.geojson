@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.700764,64.849972,-147.700764,64.849972",
+    "geom:latitude":64.849972,
+    "geom:longitude":-147.700764,
+    "iso:country":"US",
+    "sg:address":"44 College Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 4017",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fM8L0o5Ab8hC1ugigHcus_64.849972_-147.700764@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bc1cc78c2e590c9eaa471161e0a780f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102180575"
+        }
+    ],
+    "wof:id":"102180575",
+    "wof:lastmodified":1449067871,
+    "wof:name":"Jaybird's Wingworld Inc",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.700764,64.849972,-147.700764,64.849972],
+  "geometry": {"coordinates":[-147.700764,64.849972],"type":"Point"}
+}

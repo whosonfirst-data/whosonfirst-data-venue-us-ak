@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.823943,61.143807,-149.823943,61.143807",
+    "geom:latitude":61.143807,
+    "geom:longitude":-149.823943,
+    "iso:country":"US",
+    "sg:address":"8500 Gordon Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 5609",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GMGrEdgylJl6S9WNrglWD_61.143807_-149.823943@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f5412908fd880632b2e17633420d6086",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102174135"
+        }
+    ],
+    "wof:id":"102174135",
+    "wof:lastmodified":1449068139,
+    "wof:name":"Parks Construction",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.823943,61.143807,-149.823943,61.143807],
+  "geometry": {"coordinates":[-149.823943,61.143807],"type":"Point"}
+}

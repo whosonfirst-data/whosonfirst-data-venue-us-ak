@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.95488,56.815329,-132.95488,56.815329",
+    "geom:latitude":56.815329,
+    "geom:longitude":-132.95488,
+    "iso:country":"US",
+    "sg:address":"404 2nd St",
+    "sg:city":"Petersburg",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 772 3808",
+    "sg:postcode":"99833",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916033,
+        85633793,
+        85688573,
+        102081899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ME7mt8PXtV3efsXSbJ2za_56.815329_-132.954880@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1737daaf56eaa6e7c2be3ef5351313fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081899,
+            "locality_id":85916033,
+            "region_id":85688573,
+            "venue_id":"102185889"
+        }
+    ],
+    "wof:id":"102185889",
+    "wof:lastmodified":1449068194,
+    "wof:name":"KFSK",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.95488,56.815329,-132.95488,56.815329],
+  "geometry": {"coordinates":[-132.95488,56.815329],"type":"Point"}
+}

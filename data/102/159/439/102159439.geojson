@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.11504,61.598458,-149.11504,61.598458",
+    "geom:latitude":61.598458,
+    "geom:longitude":-149.11504,
+    "iso:country":"US",
+    "sg:address":"111 W Elmwood Ave",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 3249",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915577,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s6ttW24NggGfscQh9y0ct_61.598458_-149.115040@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"220fcc1f1b62c142111b9ff6498029a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915577,
+            "region_id":85688573,
+            "venue_id":"102159439"
+        }
+    ],
+    "wof:id":"102159439",
+    "wof:lastmodified":1449068092,
+    "wof:name":"Hermon Brothers Cnstr Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.11504,61.598458,-149.11504,61.598458],
+  "geometry": {"coordinates":[-149.11504,61.598458],"type":"Point"}
+}

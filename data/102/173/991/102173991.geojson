@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.765339,61.215458,-149.765339,61.215458",
+    "geom:latitude":61.215458,
+    "geom:longitude":-149.765339,
+    "iso:country":"US",
+    "sg:address":"6128 Geronimo Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 4990",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32fbxLNNciFtA2HILeo3qa_61.215458_-149.765339@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e14d328b88357767632c0d4653ad7a56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102173991"
+        }
+    ],
+    "wof:id":"102173991",
+    "wof:lastmodified":1449068266,
+    "wof:name":"CET Engineering Support Svc",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.765339,61.215458,-149.765339,61.215458],
+  "geometry": {"coordinates":[-149.765339,61.215458],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.845282,61.114009,-149.845282,61.114009",
+    "geom:latitude":61.114009,
+    "geom:longitude":-149.845282,
+    "iso:country":"US",
+    "sg:address":"11700 Gregory Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 742 5600",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bDYjA3ipLFrRxN0pugMFv_61.114009_-149.845282@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5f5ecaead92e58b2fc2612edd52fc77c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102154721"
+        }
+    ],
+    "wof:id":"102154721",
+    "wof:lastmodified":1449070246,
+    "wof:name":"Willard L Bowman Elementary",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.845282,61.114009,-149.845282,61.114009],
+  "geometry": {"coordinates":[-149.845282,61.114009],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.768865,64.812884,-147.768865,64.812884",
+    "geom:latitude":64.812884,
+    "geom:longitude":-147.768865,
+    "iso:country":"US",
+    "sg:address":"2141 Van Horn Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 8020",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "transmission",
+        "tractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VqXpyLEwIpuAiqDJBj0Td_64.812884_-147.768865@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"14f0ebf59383d616495e537f5d975ab6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102179053"
+        }
+    ],
+    "wof:id":"102179053",
+    "wof:lastmodified":1449069942,
+    "wof:name":"Alaska Truck & Gear Inc",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.768865,64.812884,-147.768865,64.812884],
+  "geometry": {"coordinates":[-147.768865,64.812884],"type":"Point"}
+}

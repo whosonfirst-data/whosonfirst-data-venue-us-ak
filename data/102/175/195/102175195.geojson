@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.780648,64.813025,-147.780648,64.813025",
+    "geom:latitude":64.813025,
+    "geom:longitude":-147.780648,
+    "iso:country":"US",
+    "sg:address":"2550 Van Horn Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 458 9353",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "steel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916551,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_163HurBbGuuP78htpl25vr_64.813025_-147.780648@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5fa0750e0ad16df3bdd2633f0ec11a4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916551,
+            "region_id":85688573,
+            "venue_id":"102175195"
+        }
+    ],
+    "wof:id":"102175195",
+    "wof:lastmodified":1449069469,
+    "wof:name":"Fairbanks Welding & Fbrctn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.780648,64.813025,-147.780648,64.813025],
+  "geometry": {"coordinates":[-147.780648,64.813025],"type":"Point"}
+}

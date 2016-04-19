@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.536826,61.35404,-149.536826,61.35404",
+    "geom:latitude":61.35404,
+    "geom:longitude":-149.536826,
+    "iso:country":"US",
+    "sg:address":"14716 Old Glenn Hwy",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 694 1033",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VRccMHJiytHYUS2Wa3QHP_61.354040_-149.536826@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"51b2b5532089ea7534f4d01747b36852",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102176291"
+        }
+    ],
+    "wof:id":"102176291",
+    "wof:lastmodified":1449069346,
+    "wof:name":"Asher's Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.536826,61.35404,-149.536826,61.35404],
+  "geometry": {"coordinates":[-149.536826,61.35404],"type":"Point"}
+}

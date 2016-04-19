@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.958428,64.845649,-147.958428,64.845649",
+    "geom:latitude":64.845649,
+    "geom:longitude":-147.958428,
+    "iso:country":"US",
+    "sg:address":"2935 Parks Hwy",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 7267",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company",
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916563,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CWbw4zSnZXjXZSNgRqFlW_64.845649_-147.958428@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c537c3cd652dc53a4da17148e30864ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916563,
+            "region_id":85688573,
+            "venue_id":"102191659"
+        }
+    ],
+    "wof:id":"102191659",
+    "wof:lastmodified":1449069201,
+    "wof:name":"Interior Timber Tramp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.958428,64.845649,-147.958428,64.845649],
+  "geometry": {"coordinates":[-147.958428,64.845649],"type":"Point"}
+}

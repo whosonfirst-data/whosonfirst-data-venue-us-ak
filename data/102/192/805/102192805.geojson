@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.581737,58.371075,-134.581737,58.371075",
+    "geom:latitude":58.371075,
+    "geom:longitude":-134.581737,
+    "iso:country":"US",
+    "sg:address":"2523 Teslin St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 7587",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yqqwVder2eoQDkrjuaCWr_58.371075_-134.581737@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"342253df9164a29ba078dee25158479f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102192805"
+        }
+    ],
+    "wof:id":"102192805",
+    "wof:lastmodified":1449069504,
+    "wof:name":"Salon Plus",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.581737,58.371075,-134.581737,58.371075],
+  "geometry": {"coordinates":[-134.581737,58.371075],"type":"Point"}
+}

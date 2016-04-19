@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.214692,59.756097,-151.214692,59.756097",
+    "geom:latitude":59.756097,
+    "geom:longitude":-151.214692,
+    "iso:country":"US",
+    "sg:address":"51049 E End Rd",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 8257",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916983,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UrTd6P566u06b1MpJGWMW_59.756097_-151.214692@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4b936436ad92335309439fdfeb5c34a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916983,
+            "region_id":85688573,
+            "venue_id":"102193269"
+        }
+    ],
+    "wof:id":"102193269",
+    "wof:lastmodified":1449068194,
+    "wof:name":"Bobcat Services & Rental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.214692,59.756097,-151.214692,59.756097],
+  "geometry": {"coordinates":[-151.214692,59.756097],"type":"Point"}
+}

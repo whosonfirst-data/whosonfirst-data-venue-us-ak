@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.493548,58.357283,-134.493548,58.357283",
+    "geom:latitude":58.357283,
+    "geom:longitude":-134.493548,
+    "iso:country":"US",
+    "sg:address":"1801 Anka St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 1111",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1deiYlYX6v6ejaYdRKajos_58.357283_-134.493548@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b842dca4bbe0e950c894d23fe2f40d69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102167743"
+        }
+    ],
+    "wof:id":"102167743",
+    "wof:lastmodified":1449069003,
+    "wof:name":"Cabco",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.493548,58.357283,-134.493548,58.357283],
+  "geometry": {"coordinates":[-134.493548,58.357283],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.628882,55.335483,-131.628882,55.335483",
+    "geom:latitude":55.335483,
+    "geom:longitude":-131.628882,
+    "iso:country":"US",
+    "sg:address":"625 Stedman St",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 9725",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BPCoW1ewYXRf8oHMrT2RU_55.335483_-131.628882@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b57a6711d4c84900e08159e6cb0378dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102181769"
+        }
+    ],
+    "wof:id":"102181769",
+    "wof:lastmodified":1449069234,
+    "wof:name":"Channel Electric Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.628882,55.335483,-131.628882,55.335483],
+  "geometry": {"coordinates":[-131.628882,55.335483],"type":"Point"}
+}

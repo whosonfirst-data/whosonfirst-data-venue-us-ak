@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.687201,55.355483,-131.687201,55.355483",
+    "geom:latitude":55.355483,
+    "geom:longitude":-131.687201,
+    "iso:country":"US",
+    "sg:address":"355 Carlanna Lake Rd",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 1231",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16aEqZwffopoyAcdEqi1qv_55.355483_-131.687201@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"053edbf6e8aef9a4bf62cebabdc8b3e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102194507"
+        }
+    ],
+    "wof:id":"102194507",
+    "wof:lastmodified":1449069828,
+    "wof:name":"A Woman's Place Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.687201,55.355483,-131.687201,55.355483],
+  "geometry": {"coordinates":[-131.687201,55.355483],"type":"Point"}
+}

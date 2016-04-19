@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.854813,61.152977,-149.854813,61.152977",
+    "geom:latitude":61.152977,
+    "geom:longitude":-149.854813,
+    "iso:country":"US",
+    "sg:address":"7521 Brayton Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 8006",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "feed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wRwsxvlFToB4KnF1CjFjt_61.152977_-149.854813@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c3e9324e5f6d1fc20214edae2741da49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102180117"
+        }
+    ],
+    "wof:id":"102180117",
+    "wof:lastmodified":1449067878,
+    "wof:name":"Animal Food Warehouse",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.854813,61.152977,-149.854813,61.152977],
+  "geometry": {"coordinates":[-149.854813,61.152977],"type":"Point"}
+}

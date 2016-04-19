@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.695744,64.847868,-147.695744,64.847868",
+    "geom:latitude":64.847868,
+    "geom:longitude":-147.695744,
+    "iso:country":"US",
+    "sg:address":"81 Timberland Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 6457",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FHALjpo0nXDTeEVz1lVcI_64.847868_-147.695744@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"489c66a34d757956af6af68a0959932e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102152633"
+        }
+    ],
+    "wof:id":"102152633",
+    "wof:lastmodified":1449069636,
+    "wof:name":"Fairbanks Concrete Pumping",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.695744,64.847868,-147.695744,64.847868],
+  "geometry": {"coordinates":[-147.695744,64.847868],"type":"Point"}
+}

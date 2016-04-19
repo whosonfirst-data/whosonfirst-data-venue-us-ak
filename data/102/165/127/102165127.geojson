@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.745803,64.820049,-147.745803,64.820049",
+    "geom:latitude":64.820049,
+    "geom:longitude":-147.745803,
+    "iso:country":"US",
+    "sg:address":"1703 30th Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 6539",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iWmmBI2H8Be5OwTqGjEH1_64.820049_-147.745803@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b56798ece7a99e58a2d6a2e1e71d0fbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102165127"
+        }
+    ],
+    "wof:id":"102165127",
+    "wof:lastmodified":1449070217,
+    "wof:name":"R J's Lounge",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.745803,64.820049,-147.745803,64.820049],
+  "geometry": {"coordinates":[-147.745803,64.820049],"type":"Point"}
+}

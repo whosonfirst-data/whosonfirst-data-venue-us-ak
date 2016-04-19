@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.890929,61.215521,-149.890929,61.215521",
+    "geom:latitude":61.215521,
+    "geom:longitude":-149.890929,
+    "iso:country":"US",
+    "sg:address":"430 W 7th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 4576",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TZTwDXvgXVfZ4Vmpyj4Jf_61.215521_-149.890929@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"675de37e447a95934b3110cb1dae667a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102162189"
+        }
+    ],
+    "wof:id":"102162189",
+    "wof:lastmodified":1449069823,
+    "wof:name":"Alaska Community Share",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.890929,61.215521,-149.890929,61.215521],
+  "geometry": {"coordinates":[-149.890929,61.215521],"type":"Point"}
+}

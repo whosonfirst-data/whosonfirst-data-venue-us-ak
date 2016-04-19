@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.876444,61.180728,-149.876444,61.180728",
+    "geom:latitude":61.180728,
+    "geom:longitude":-149.876444,
+    "iso:country":"US",
+    "sg:address":"450 E Tudor Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 2060",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:website":"www.opulencespa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2llFXgxgK2rSWYkS86YiF0_61.180728_-149.876444@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0b55f59d8f6c92f83a5ff50aac1284d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102153697"
+        }
+    ],
+    "wof:id":"102153697",
+    "wof:lastmodified":1449069462,
+    "wof:name":"Opulence Grand Salon & Day Spa",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.876444,61.180728,-149.876444,61.180728],
+  "geometry": {"coordinates":[-149.876444,61.180728],"type":"Point"}
+}

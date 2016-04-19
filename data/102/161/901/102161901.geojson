@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.174667,60.469295,-151.174667,60.469295",
+    "geom:latitude":60.469295,
+    "geom:longitude":-151.174667,
+    "iso:country":"US",
+    "sg:address":"38735 S Ruby Cir",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 9654",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916957,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GycuabdocItefjJgu2zdH_60.469295_-151.174667@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"971deb5925da85562bc08759b25594cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916957,
+            "region_id":85688573,
+            "venue_id":"102161901"
+        }
+    ],
+    "wof:id":"102161901",
+    "wof:lastmodified":1449068712,
+    "wof:name":"Aleckson Fabrication",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.174667,60.469295,-151.174667,60.469295],
+  "geometry": {"coordinates":[-151.174667,60.469295],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.716124,64.83689,-147.716124,64.83689",
+    "geom:latitude":64.83689,
+    "geom:longitude":-147.716124,
+    "iso:country":"US",
+    "sg:address":"506 Gaffney Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 374 6602",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JFOPgjAooMTOt2bH3Dwnb_64.836890_-147.716124@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0a299f757f6b62fd8f4070eb6356c7f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102148223"
+        }
+    ],
+    "wof:id":"102148223",
+    "wof:lastmodified":1449069780,
+    "wof:name":"Advanced Pain Ctr Of Alaska",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.716124,64.83689,-147.716124,64.83689],
+  "geometry": {"coordinates":[-147.716124,64.83689],"type":"Point"}
+}

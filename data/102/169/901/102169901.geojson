@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.4602,64.89242,-147.4602,64.89242",
+    "geom:latitude":64.89242,
+    "geom:longitude":-147.4602,
+    "iso:country":"US",
+    "sg:address":"1832 Chena Hot Springs Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 2088",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916545,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZXLzBYRjV95WKVeJK6DSY_64.892420_-147.460200@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3dec063d91ba3b9b510c7ad9094a3ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916545,
+            "region_id":85688573,
+            "venue_id":"102169901"
+        }
+    ],
+    "wof:id":"102169901",
+    "wof:lastmodified":1449069247,
+    "wof:name":"Youth With A Mission",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.4602,64.89242,-147.4602,64.89242],
+  "geometry": {"coordinates":[-147.4602,64.89242],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.714758,64.828963,-147.714758,64.828963",
+    "geom:latitude":64.828963,
+    "geom:longitude":-147.714758,
+    "iso:country":"US",
+    "sg:address":"2040 S Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 5750",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "alteration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31wH9UJKS3zuerJ16ZLxNt_64.828963_-147.714758@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cc42401e3c1b73447bf8c0b28e986c2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102160777"
+        }
+    ],
+    "wof:id":"102160777",
+    "wof:lastmodified":1449069774,
+    "wof:name":"S & S Sewing",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.714758,64.828963,-147.714758,64.828963],
+  "geometry": {"coordinates":[-147.714758,64.828963],"type":"Point"}
+}

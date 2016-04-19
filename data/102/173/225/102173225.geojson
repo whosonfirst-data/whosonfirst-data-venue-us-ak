@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.116324,60.473258,-151.116324,60.473258",
+    "geom:latitude":60.473258,
+    "geom:longitude":-151.116324,
+    "iso:country":"US",
+    "sg:address":"45872 Kalifornsky Beach Rd",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 5101",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:website":"www.cookinletacademy.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916957,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KM78IrlY4bpLkUtl1TgEZ_60.473258_-151.116324@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dbddf3ece22198945e8b61c238cdae16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916957,
+            "region_id":85688573,
+            "venue_id":"102173225"
+        }
+    ],
+    "wof:id":"102173225",
+    "wof:lastmodified":1449068266,
+    "wof:name":"Cook Inlet Academy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.116324,60.473258,-151.116324,60.473258],
+  "geometry": {"coordinates":[-151.116324,60.473258],"type":"Point"}
+}

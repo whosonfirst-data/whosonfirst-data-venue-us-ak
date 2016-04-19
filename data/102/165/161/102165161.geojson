@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.71187,64.822482,-147.71187,64.822482",
+    "geom:latitude":64.822482,
+    "geom:longitude":-147.71187,
+    "iso:country":"US",
+    "sg:address":"2700 S Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 3666",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "exploration",
+        "mineral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vxc9cm7og0prS7ggcObDn_64.822482_-147.711870@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a94717a059a67fae30078348e3a20063",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102165161"
+        }
+    ],
+    "wof:id":"102165161",
+    "wof:lastmodified":1449070213,
+    "wof:name":"ASA Inc",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.71187,64.822482,-147.71187,64.822482],
+  "geometry": {"coordinates":[-147.71187,64.822482],"type":"Point"}
+}

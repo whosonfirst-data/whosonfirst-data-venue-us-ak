@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.312165,57.048877,-135.312165,57.048877",
+    "geom:latitude":57.048877,
+    "geom:longitude":-135.312165,
+    "iso:country":"US",
+    "sg:address":"1406 Sawmill Creek Rd",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 6841",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DlOiHVkXUOAuX4gQUGI7K_57.048877_-135.312165@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"be56f8bd2f69ec082860143ea8430a0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102184453"
+        }
+    ],
+    "wof:id":"102184453",
+    "wof:lastmodified":1449068217,
+    "wof:name":"W S Construction",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.312165,57.048877,-135.312165,57.048877],
+  "geometry": {"coordinates":[-135.312165,57.048877],"type":"Point"}
+}

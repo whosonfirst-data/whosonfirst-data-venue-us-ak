@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.803113,61.138281,-149.803113,61.138281",
+    "geom:latitude":61.138281,
+    "geom:longitude":-149.803113,
+    "iso:country":"US",
+    "sg:address":"4240 Birch Run Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 346 5517",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873745,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BUQJcoCtkuDfTDMvBsAdI_61.138281_-149.803113@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"60be6512d9da2cf4185ee194e980a5d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873745,
+            "region_id":85688573,
+            "venue_id":"102169659"
+        }
+    ],
+    "wof:id":"102169659",
+    "wof:lastmodified":1449069246,
+    "wof:name":"Classic Tile Svc",
+    "wof:parent_id":85873745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.803113,61.138281,-149.803113,61.138281],
+  "geometry": {"coordinates":[-149.803113,61.138281],"type":"Point"}
+}

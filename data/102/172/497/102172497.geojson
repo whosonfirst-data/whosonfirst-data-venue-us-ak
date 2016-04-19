@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.895453,61.20987,-149.895453,61.20987",
+    "geom:latitude":61.20987,
+    "geom:longitude":-149.895453,
+    "iso:country":"US",
+    "sg:address":"1219 G St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 8448",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "publisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873721,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G7ljwDQb7YB8O1yNQg8Tn_61.209870_-149.895453@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3c921d823e19a2d530397c23f02dd295",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873721,
+            "region_id":85688573,
+            "venue_id":"102172497"
+        }
+    ],
+    "wof:id":"102172497",
+    "wof:lastmodified":1449068737,
+    "wof:name":"Glacier House Publication",
+    "wof:parent_id":85873721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.895453,61.20987,-149.895453,61.20987],
+  "geometry": {"coordinates":[-149.895453,61.20987],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.758085,61.182506,-149.758085,61.182506",
+    "geom:latitude":61.182506,
+    "geom:longitude":-149.758085,
+    "iso:country":"US",
+    "sg:address":"4222 London Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 0698",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873735,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Oexzpl5KGYHrz3BjF1T5n_61.182506_-149.758085@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"336047a9378237fb4eda6e3b0e721d85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873735,
+            "region_id":85688573,
+            "venue_id":"102175161"
+        }
+    ],
+    "wof:id":"102175161",
+    "wof:lastmodified":1449069464,
+    "wof:name":"Charlee's Photography",
+    "wof:parent_id":85873735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.758085,61.182506,-149.758085,61.182506],
+  "geometry": {"coordinates":[-149.758085,61.182506],"type":"Point"}
+}

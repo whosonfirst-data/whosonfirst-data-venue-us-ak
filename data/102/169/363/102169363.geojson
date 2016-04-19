@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.64021,55.340773,-131.64021,55.340773",
+    "geom:latitude":55.340773,
+    "geom:longitude":-131.64021,
+    "iso:country":"US",
+    "sg:address":"7 Creek St",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 247 8866",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GlVt0faZvkU2Dr0XyV9GA_55.340773_-131.640210@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b0ac05779e31946b7fb418ac276b3236",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102169363"
+        }
+    ],
+    "wof:id":"102169363",
+    "wof:lastmodified":1449069248,
+    "wof:name":"Eagle's Nest",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.64021,55.340773,-131.64021,55.340773],
+  "geometry": {"coordinates":[-131.64021,55.340773],"type":"Point"}
+}

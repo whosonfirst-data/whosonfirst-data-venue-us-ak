@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.377632,57.80898,-152.377632,57.80898",
+    "geom:latitude":57.80898,
+    "geom:longitude":-152.377632,
+    "iso:country":"US",
+    "sg:address":"2336 Beaver Lake Loop Rd",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 8480",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11jhw2fFyfkNUgO6aNPgD1_57.808980_-152.377632@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d33cd0cbaf596060f6f95191e2f806fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "region_id":85688573,
+            "venue_id":"102170383"
+        }
+    ],
+    "wof:id":"102170383",
+    "wof:lastmodified":1449068017,
+    "wof:name":"Mike's Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.377632,57.80898,-152.377632,57.80898],
+  "geometry": {"coordinates":[-152.377632,57.80898],"type":"Point"}
+}

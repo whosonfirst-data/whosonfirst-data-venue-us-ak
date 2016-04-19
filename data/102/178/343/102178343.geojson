@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.648446,64.947702,-147.648446,64.947702",
+    "geom:latitude":64.947702,
+    "geom:longitude":-147.648446,
+    "iso:country":"US",
+    "sg:address":"1996 Dredge Bucket Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 2961",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916597,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53b6lnRyCNlLWiOROuMKMs_64.947702_-147.648446@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"965e69765fce71180f9502349a096928",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916597,
+            "region_id":85688573,
+            "venue_id":"102178343"
+        }
+    ],
+    "wof:id":"102178343",
+    "wof:lastmodified":1449069531,
+    "wof:name":"Becker Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.648446,64.947702,-147.648446,64.947702],
+  "geometry": {"coordinates":[-147.648446,64.947702],"type":"Point"}
+}

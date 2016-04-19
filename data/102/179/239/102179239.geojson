@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.440398,60.113178,-149.440398,60.113178",
+    "geom:latitude":60.113178,
+    "geom:longitude":-149.440398,
+    "iso:country":"US",
+    "sg:address":"1321 4th Ave",
+    "sg:city":"Seward",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 224 2449",
+    "sg:postcode":"99664",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915769,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35uyXRuAqD6C6MYDRm5RfC_60.113178_-149.440398@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"887e510ed4a36a4451bc978d105898b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915769,
+            "region_id":85688573,
+            "venue_id":"102179239"
+        }
+    ],
+    "wof:id":"102179239",
+    "wof:lastmodified":1449069941,
+    "wof:name":"Marina Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.440398,60.113178,-149.440398,60.113178],
+  "geometry": {"coordinates":[-149.440398,60.113178],"type":"Point"}
+}

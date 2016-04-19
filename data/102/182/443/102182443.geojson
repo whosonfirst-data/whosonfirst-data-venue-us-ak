@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.472776,61.415271,-149.472776,61.415271",
+    "geom:latitude":61.415271,
+    "geom:longitude":-149.472776,
+    "iso:country":"US",
+    "sg:address":"21514 Peg St",
+    "sg:city":"Chugiak",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 688 3744",
+    "sg:postcode":"99567",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806187,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wMNv6lOz5U2o0XcOeXMI1_61.415271_-149.472776@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"86a33ff7d2cc87d992b61aeb140378ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85806187,
+            "region_id":85688573,
+            "venue_id":"102182443"
+        }
+    ],
+    "wof:id":"102182443",
+    "wof:lastmodified":1449069279,
+    "wof:name":"Bretey's Auto Repair",
+    "wof:parent_id":85806187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.472776,61.415271,-149.472776,61.415271],
+  "geometry": {"coordinates":[-149.472776,61.415271],"type":"Point"}
+}

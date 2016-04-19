@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.353456,64.755382,-147.353456,64.755382",
+    "geom:latitude":64.755382,
+    "geom:longitude":-147.353456,
+    "iso:country":"US",
+    "sg:address":"131 N Santa Claus Ln",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 8786",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915639,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ESQBYNpKhKf8n5GI9zTeW_64.755382_-147.353456@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1c3c3a478b23c73785366ff5396c4742",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915639,
+            "region_id":85688573,
+            "venue_id":"102155043"
+        }
+    ],
+    "wof:id":"102155043",
+    "wof:lastmodified":1449069743,
+    "wof:name":"Sun Bar None",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.353456,64.755382,-147.353456,64.755382],
+  "geometry": {"coordinates":[-147.353456,64.755382],"type":"Point"}
+}

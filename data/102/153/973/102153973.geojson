@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.802973,61.069171,-149.802973,61.069171",
+    "geom:latitude":61.069171,
+    "geom:longitude":-149.802973,
+    "iso:country":"US",
+    "sg:address":"16745 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 346 8324",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electrical",
+        "system",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873751,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jrtw1mLLZXcL9UyD204Os_61.069171_-149.802973@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f476b7fc4e796add70eb60170cb82bb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873751,
+            "region_id":85688573,
+            "venue_id":"102153973"
+        }
+    ],
+    "wof:id":"102153973",
+    "wof:lastmodified":1449069463,
+    "wof:name":"Alpenglow Tech Inc",
+    "wof:parent_id":85873751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.802973,61.069171,-149.802973,61.069171],
+  "geometry": {"coordinates":[-149.802973,61.069171],"type":"Point"}
+}

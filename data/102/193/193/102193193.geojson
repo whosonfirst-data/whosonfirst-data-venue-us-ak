@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.197503,64.344948,-149.197503,64.344948",
+    "geom:latitude":64.344948,
+    "geom:longitude":-149.197503,
+    "iso:country":"US",
+    "sg:address":"171 G St",
+    "sg:city":"Anderson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 582 2158",
+    "sg:postcode":"99744",
+    "sg:province":"AK",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915857,
+        85633793,
+        85688573,
+        102085879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CIF424gLdLvnhV9xPWDc3_64.344948_-149.197503@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"44f8b517ce306d286acd81c3227df230",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085879,
+            "locality_id":85915857,
+            "region_id":85688573,
+            "venue_id":"102193193"
+        }
+    ],
+    "wof:id":"102193193",
+    "wof:lastmodified":1449068192,
+    "wof:name":"Anderson General Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.197503,64.344948,-149.197503,64.344948],
+  "geometry": {"coordinates":[-149.197503,64.344948],"type":"Point"}
+}

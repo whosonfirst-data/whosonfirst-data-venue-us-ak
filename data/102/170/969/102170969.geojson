@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.880661,61.206697,-149.880661,61.206697",
+    "geom:latitude":61.206697,
+    "geom:longitude":-149.880661,
+    "iso:country":"US",
+    "sg:address":"234 E 15th Ter",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 646 7961",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contracting",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aHZSqSPxQ0lsFtbYIwLFh_61.206697_-149.880661@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8e6ef6017aa6695219be0d4be8b177e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102170969"
+        }
+    ],
+    "wof:id":"102170969",
+    "wof:lastmodified":1449068018,
+    "wof:name":"Electrical Technologies",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.880661,61.206697,-149.880661,61.206697],
+  "geometry": {"coordinates":[-149.880661,61.206697],"type":"Point"}
+}

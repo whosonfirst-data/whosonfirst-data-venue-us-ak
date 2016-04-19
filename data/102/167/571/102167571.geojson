@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.762915,61.209643,-149.762915,61.209643",
+    "geom:latitude":61.209643,
+    "geom:longitude":-149.762915,
+    "iso:country":"US",
+    "sg:address":"6310 Debarr Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 5763",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869053,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SEK6xj5nwlgSXVkxvkBf2_61.209643_-149.762915@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"210aa8b093d74ac7994888e18ac031ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869053,
+            "region_id":85688573,
+            "venue_id":"102167571"
+        }
+    ],
+    "wof:id":"102167571",
+    "wof:lastmodified":1449069003,
+    "wof:name":"Greater Friendly Temple Church",
+    "wof:parent_id":85869053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.762915,61.209643,-149.762915,61.209643],
+  "geometry": {"coordinates":[-149.762915,61.209643],"type":"Point"}
+}

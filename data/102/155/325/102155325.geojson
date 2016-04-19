@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.318447,61.584768,-149.318447,61.584768",
+    "geom:latitude":61.584768,
+    "geom:longitude":-149.318447,
+    "iso:country":"US",
+    "sg:address":"5300 Dunbar Dr",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 1769",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916225,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yHuAsipVqtt4sGXGQuggF_61.584768_-149.318447@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8fa605a19585ab0edf7eb7869dddb8c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916225,
+            "region_id":85688573,
+            "venue_id":"102155325"
+        }
+    ],
+    "wof:id":"102155325",
+    "wof:lastmodified":1449069744,
+    "wof:name":"Phillips Construction LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.318447,61.584768,-149.318447,61.584768],
+  "geometry": {"coordinates":[-149.318447,61.584768],"type":"Point"}
+}

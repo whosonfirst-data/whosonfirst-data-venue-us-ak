@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.847711,61.149103,-149.847711,61.149103",
+    "geom:latitude":61.149103,
+    "geom:longitude":-149.847711,
+    "iso:country":"US",
+    "sg:address":"1910 E 79th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 278 7368",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "recreational",
+        "leasing",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xjowqlfo8Ok2nkvB1dzVs_61.149103_-149.847711@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a1e89e373b5f382b36014666f9e2d256",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102151669"
+        }
+    ],
+    "wof:id":"102151669",
+    "wof:lastmodified":1449067780,
+    "wof:name":"Alaska Dream Rv Rental",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.847711,61.149103,-149.847711,61.149103],
+  "geometry": {"coordinates":[-149.847711,61.149103],"type":"Point"}
+}

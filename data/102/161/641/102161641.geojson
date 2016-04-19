@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.756254,55.408571,-131.756254,55.408571",
+    "geom:latitude":55.408571,
+    "geom:longitude":-131.756254,
+    "iso:country":"US",
+    "sg:address":"8654 View Ct",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 6297",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DKserUlRrrU78xnmqxMtU_55.408571_-131.756254@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ad4d48c05c29abc1222bf392447721b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "region_id":85688573,
+            "venue_id":"102161641"
+        }
+    ],
+    "wof:id":"102161641",
+    "wof:lastmodified":1449068710,
+    "wof:name":"DC Cuisine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.756254,55.408571,-131.756254,55.408571],
+  "geometry": {"coordinates":[-131.756254,55.408571],"type":"Point"}
+}

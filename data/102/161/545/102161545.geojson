@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.379033,57.084058,-135.379033,57.084058",
+    "geom:latitude":57.084058,
+    "geom:longitude":-135.379033,
+    "iso:country":"US",
+    "sg:address":"102 Sharon Dr",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 8236",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916107,
+        85633793,
+        85688573,
+        102081405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cSLUYzaVzFBf7NMhmWDVc_57.084058_-135.379033@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6c8a6e76b37b4050481a2ed982ba0380",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "region_id":85688573,
+            "venue_id":"102161545"
+        }
+    ],
+    "wof:id":"102161545",
+    "wof:lastmodified":1449068711,
+    "wof:name":"Clayton Construction Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.379033,57.084058,-135.379033,57.084058],
+  "geometry": {"coordinates":[-135.379033,57.084058],"type":"Point"}
+}

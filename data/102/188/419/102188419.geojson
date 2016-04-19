@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.473686,61.595721,-149.473686,61.595721",
+    "geom:latitude":61.595721,
+    "geom:longitude":-149.473686,
+    "iso:country":"US",
+    "sg:address":"1501 Executive Pl",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 9720",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7U2PbCEuoI4pwUfFSsItTx_61.595721_-149.473686@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"85266dde171452f164c97cc43fdd08d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102188419"
+        }
+    ],
+    "wof:id":"102188419",
+    "wof:lastmodified":1449068948,
+    "wof:name":"A-Z Welding & Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.473686,61.595721,-149.473686,61.595721],
+  "geometry": {"coordinates":[-149.473686,61.595721],"type":"Point"}
+}

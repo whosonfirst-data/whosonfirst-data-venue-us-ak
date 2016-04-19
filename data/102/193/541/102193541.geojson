@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-165.410173,64.498108,-165.410173,64.498108",
+    "geom:latitude":64.498108,
+    "geom:longitude":-165.410173,
+    "iso:country":"US",
+    "sg:address":"67 Front St",
+    "sg:city":"Nome",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 443 2686",
+    "sg:postcode":"99762",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915489,
+        85633793,
+        85688573,
+        102081401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BMUsq9IfcxzkQ7mQunDV6_64.498108_-165.410173@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"205b9db1a27b856cc2d92ce58ac6e647",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081401,
+            "locality_id":85915489,
+            "region_id":85688573,
+            "venue_id":"102193541"
+        }
+    ],
+    "wof:id":"102193541",
+    "wof:lastmodified":1449068193,
+    "wof:name":"Arctic Trading Post",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-165.410173,64.498108,-165.410173,64.498108],
+  "geometry": {"coordinates":[-165.410173,64.498108],"type":"Point"}
+}

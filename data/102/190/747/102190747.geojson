@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.806188,55.472201,-131.806188,55.472201",
+    "geom:latitude":55.472201,
+    "geom:longitude":-131.806188,
+    "iso:country":"US",
+    "sg:address":"69 W Mattle Rd",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 247 4500",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GwEbrxWpC5rkUQ59cAvDK_55.472201_-131.806188@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"73f71c1f16abf50c6febd9f2a72a11ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "region_id":85688573,
+            "venue_id":"102190747"
+        }
+    ],
+    "wof:id":"102190747",
+    "wof:lastmodified":1449070033,
+    "wof:name":"Revilla Upholstery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.806188,55.472201,-131.806188,55.472201],
+  "geometry": {"coordinates":[-131.806188,55.472201],"type":"Point"}
+}

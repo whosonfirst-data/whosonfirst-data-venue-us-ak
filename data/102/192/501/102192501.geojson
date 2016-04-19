@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.944983,61.181648,-149.944983,61.181648",
+    "geom:latitude":61.181648,
+    "geom:longitude":-149.944983,
+    "iso:country":"US",
+    "sg:address":"3250 Lake Park Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 3181",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "leasing",
+        "charter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70hMs31E0K6AadX3MiFtFD_61.181648_-149.944983@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fc8e85a04e200a9b1b722794c2e6c795",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102192501"
+        }
+    ],
+    "wof:id":"102192501",
+    "wof:lastmodified":1449069506,
+    "wof:name":"Sportman's Air Serivce",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.944983,61.181648,-149.944983,61.181648],
+  "geometry": {"coordinates":[-149.944983,61.181648],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.954535,61.147918,-149.954535,61.147918",
+    "geom:latitude":61.147918,
+    "geom:longitude":-149.954535,
+    "iso:country":"US",
+    "sg:address":"4011 Marquis Way",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 7046",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "sg:website":"www.alaskarubys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FE0WrBklR56y20pUCEtfV_61.147918_-149.954535@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8b4318a195bd419999ef1c8d3663173a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102196063"
+        }
+    ],
+    "wof:id":"102196063",
+    "wof:lastmodified":1449068336,
+    "wof:name":"Ruby's Vintage Bed & Breakfast",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.954535,61.147918,-149.954535,61.147918],
+  "geometry": {"coordinates":[-149.954535,61.147918],"type":"Point"}
+}

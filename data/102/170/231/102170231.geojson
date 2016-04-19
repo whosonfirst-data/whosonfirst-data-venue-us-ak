@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.41195,61.577729,-149.41195,61.577729",
+    "geom:latitude":61.577729,
+    "geom:longitude":-149.41195,
+    "iso:country":"US",
+    "sg:address":"1571 E Parks Hwy",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 7363",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rBPrVLohWupk51MZ6UFDq_61.577729_-149.411950@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b86cdbca7d1f548b7c8e9053247654f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102170231"
+        }
+    ],
+    "wof:id":"102170231",
+    "wof:lastmodified":1449068018,
+    "wof:name":"Perfect Look",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.41195,61.577729,-149.41195,61.577729],
+  "geometry": {"coordinates":[-149.41195,61.577729],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.270392,60.51413,-151.270392,60.51413",
+    "geom:latitude":60.51413,
+    "geom:longitude":-151.270392,
+    "iso:country":"US",
+    "sg:address":"51315 Sea Quest Dr",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 4762",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916957,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tnCVFqVseUsWDtOqLSBSf_60.514130_-151.270392@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c234770f3537b428de473720a1dd1fbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916957,
+            "region_id":85688573,
+            "venue_id":"102186277"
+        }
+    ],
+    "wof:id":"102186277",
+    "wof:lastmodified":1449069653,
+    "wof:name":"Journeyman Plumbing & Heating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.270392,60.51413,-151.270392,60.51413],
+  "geometry": {"coordinates":[-151.270392,60.51413],"type":"Point"}
+}

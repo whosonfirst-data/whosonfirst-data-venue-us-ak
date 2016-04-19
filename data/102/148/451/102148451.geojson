@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.418235,58.300572,-134.418235,58.300572",
+    "geom:latitude":58.300572,
+    "geom:longitude":-134.418235,
+    "iso:country":"US",
+    "sg:address":"641 W Willoughby Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 8600",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mlVNFhwZO2edAamG6pR5O_58.300572_-134.418235@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8bfe8770787f0d12666142d52bb8314c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102148451"
+        }
+    ],
+    "wof:id":"102148451",
+    "wof:lastmodified":1449069785,
+    "wof:name":"Sante Chez",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.418235,58.300572,-134.418235,58.300572],
+  "geometry": {"coordinates":[-134.418235,58.300572],"type":"Point"}
+}

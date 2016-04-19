@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.672212,55.350419,-131.672212,55.350419",
+    "geom:latitude":55.350419,
+    "geom:longitude":-131.672212,
+    "iso:country":"US",
+    "sg:address":"207 Washington St",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 6608",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "leasing",
+        "charter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lr4CAa1QkG8TzbhF3WsOj_55.350419_-131.672212@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"67282bb1b2d4c4f84e2acfe8e691b1c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102162075"
+        }
+    ],
+    "wof:id":"102162075",
+    "wof:lastmodified":1449069821,
+    "wof:name":"Ketchikan Air",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.672212,55.350419,-131.672212,55.350419],
+  "geometry": {"coordinates":[-131.672212,55.350419],"type":"Point"}
+}

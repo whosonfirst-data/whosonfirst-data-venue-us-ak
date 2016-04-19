@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.361039,57.811663,-152.361039,57.811663",
+    "geom:latitude":57.811663,
+    "geom:longitude":-152.361039,
+    "iso:country":"US",
+    "sg:address":"2931 Mill Bay Rd",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 3794",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wNktUQCzCCP1zM7zRTcoa_57.811663_-152.361039@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a50ba7ecc6534b3febd546b99852c8c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "region_id":85688573,
+            "venue_id":"102161533"
+        }
+    ],
+    "wof:id":"102161533",
+    "wof:lastmodified":1449068707,
+    "wof:name":"Streifel Plumbing & Heating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.361039,57.811663,-152.361039,57.811663],
+  "geometry": {"coordinates":[-152.361039,57.811663],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.711171,64.843188,-147.711171,64.843188",
+    "geom:latitude":64.843188,
+    "geom:longitude":-147.711171,
+    "iso:country":"US",
+    "sg:address":"250 3rd Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 5999",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53QxKFeY2607VYUtDjyAVD_64.843188_-147.711171@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dcf02bc70e8916bd52f8b4e12981ea42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102157077"
+        }
+    ],
+    "wof:id":"102157077",
+    "wof:lastmodified":1449069830,
+    "wof:name":"Golden Heart Gallery",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.711171,64.843188,-147.711171,64.843188],
+  "geometry": {"coordinates":[-147.711171,64.843188],"type":"Point"}
+}

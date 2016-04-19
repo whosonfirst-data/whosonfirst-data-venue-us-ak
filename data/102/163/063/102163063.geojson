@@ -1,0 +1,72 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.864891,61.217561,-149.864891,61.217561",
+    "geom:latitude":61.217561,
+    "geom:longitude":-149.864891,
+    "iso:country":"US",
+    "sg:address":"901 E 5th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 5509",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "installs",
+        "glass",
+        "window",
+        "auto",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fcba3ieLNa1G7CZ6t4Eq5_61.217561_-149.864891@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a75070b475a3f386e1d7bd05227cdb41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102163063"
+        }
+    ],
+    "wof:id":"102163063",
+    "wof:lastmodified":1449070160,
+    "wof:name":"Speedy Auto Glass",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.864891,61.217561,-149.864891,61.217561],
+  "geometry": {"coordinates":[-149.864891,61.217561],"type":"Point"}
+}

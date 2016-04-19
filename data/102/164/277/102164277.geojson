@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.472796,60.514627,-149.472796,60.514627",
+    "geom:latitude":60.514627,
+    "geom:longitude":-149.472796,
+    "iso:country":"US",
+    "sg:address":"28443 Toklat Way",
+    "sg:city":"Moose Pass",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 288 3652",
+    "sg:postcode":"99631",
+    "sg:province":"AK",
+    "sg:tags":[
+        "brass",
+        "foundry",
+        "bronze"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916945,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46Kd0N3rHQIweYEG9ZGAxH_60.514627_-149.472796@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d009a3df4e94e31777e1dab742a2e79c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916945,
+            "region_id":85688573,
+            "venue_id":"102164277"
+        }
+    ],
+    "wof:id":"102164277",
+    "wof:lastmodified":1449068084,
+    "wof:name":"Moose Pass Brass",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.472796,60.514627,-149.472796,60.514627],
+  "geometry": {"coordinates":[-149.472796,60.514627],"type":"Point"}
+}

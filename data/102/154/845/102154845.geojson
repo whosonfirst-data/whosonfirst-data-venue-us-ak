@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.826636,56.015512,-132.826636,56.015512",
+    "geom:latitude":56.015512,
+    "geom:longitude":-132.826636,
+    "iso:country":"US",
+    "sg:address":"108 Crestview",
+    "sg:city":"Coffman Cove",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 329 2922",
+    "sg:postcode":"99918",
+    "sg:province":"AK",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916103,
+        85633793,
+        85688573,
+        102081403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LvOM6CiIz7SX8q3nz0AWL_56.015512_-132.826636@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"21e3f62b1c7f80876999dff0c5439d60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081403,
+            "locality_id":85916103,
+            "region_id":85688573,
+            "venue_id":"102154845"
+        }
+    ],
+    "wof:id":"102154845",
+    "wof:lastmodified":1449070243,
+    "wof:name":"Island Septic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.826636,56.015512,-132.826636,56.015512],
+  "geometry": {"coordinates":[-132.826636,56.015512],"type":"Point"}
+}

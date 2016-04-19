@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.679537,64.858525,-147.679537,64.858525",
+    "geom:latitude":64.858525,
+    "geom:longitude":-147.679537,
+    "iso:country":"US",
+    "sg:address":"1625 Old Steese Hwy",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 459 4000",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.seekins.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NsUB0ZMGYFOE3d2LU8jyG_64.858525_-147.679537@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"50616d107b10b243ff3b01c1878b7ab6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102147961"
+        }
+    ],
+    "wof:id":"102147961",
+    "wof:lastmodified":1449069928,
+    "wof:name":"Seekins Ford Lincoln Mercury",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.679537,64.858525,-147.679537,64.858525],
+  "geometry": {"coordinates":[-147.679537,64.858525],"type":"Point"}
+}

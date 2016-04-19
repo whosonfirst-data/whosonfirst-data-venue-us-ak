@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.921976,61.137485,-149.921976,61.137485",
+    "geom:latitude":61.137485,
+    "geom:longitude":-149.921976,
+    "iso:country":"US",
+    "sg:address":"2000 W Dimond Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 267 6760",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12sM74srqxmo3zsLGVZZY5_61.137485_-149.921976@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cfdf8b55ea44d9de9140d33632cbc6dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102190471"
+        }
+    ],
+    "wof:id":"102190471",
+    "wof:lastmodified":1449070035,
+    "wof:name":"Fred Meyer One Stop Shopping",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.921976,61.137485,-149.921976,61.137485],
+  "geometry": {"coordinates":[-149.921976,61.137485],"type":"Point"}
+}

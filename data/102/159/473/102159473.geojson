@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.799961,61.183697,-149.799961,61.183697",
+    "geom:latitude":61.183697,
+    "geom:longitude":-149.799961,
+    "iso:country":"US",
+    "sg:address":"4055 Tudor Centre Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 729 3400",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "federal",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dnTxs27uY1oWNSv2EHX75_61.183697_-149.799961@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a80971c5566b907ec9cf8444ce2c6cd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102159473"
+        }
+    ],
+    "wof:id":"102159473",
+    "wof:lastmodified":1449068093,
+    "wof:name":"US Disease Control Ctr",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.799961,61.183697,-149.799961,61.183697],
+  "geometry": {"coordinates":[-149.799961,61.183697],"type":"Point"}
+}

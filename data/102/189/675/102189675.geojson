@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.582564,58.362716,-134.582564,58.362716",
+    "geom:latitude":58.362716,
+    "geom:longitude":-134.582564,
+    "iso:country":"US",
+    "sg:address":"9121 Glacier Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 0760",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34g2imvIWEBls15RTxMsZ8_58.362716_-134.582564@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b4bf38110d8be683c8f916cedf267bc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102189675"
+        }
+    ],
+    "wof:id":"102189675",
+    "wof:lastmodified":1449069497,
+    "wof:name":"Martha's Flowers & Weddings",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.582564,58.362716,-134.582564,58.362716],
+  "geometry": {"coordinates":[-134.582564,58.362716],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.836569,61.141055,-149.836569,61.141055",
+    "geom:latitude":61.141055,
+    "geom:longitude":-149.836569,
+    "iso:country":"US",
+    "sg:address":"2440 E 88th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 9008",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iyEEyKZs5WrWAyKMZwqmF_61.141055_-149.836569@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b55104b8498afc0c74450071642a74e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102172051"
+        }
+    ],
+    "wof:id":"102172051",
+    "wof:lastmodified":1449068737,
+    "wof:name":"Anchorage Driver Training",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.836569,61.141055,-149.836569,61.141055],
+  "geometry": {"coordinates":[-149.836569,61.141055],"type":"Point"}
+}

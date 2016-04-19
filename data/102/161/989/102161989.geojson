@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.940066,61.178192,-149.940066,61.178192",
+    "geom:latitude":61.178192,
+    "geom:longitude":-149.940066,
+    "iso:country":"US",
+    "sg:address":"4608 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 5740",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CU0n9i1Qb72x0Ek3UaA9U_61.178192_-149.940066@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8fc1387ccaa6cecd99b689ee1594213c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102161989"
+        }
+    ],
+    "wof:id":"102161989",
+    "wof:lastmodified":1449068711,
+    "wof:name":"2 Go Mart-Tesoro Northstore",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.940066,61.178192,-149.940066,61.178192],
+  "geometry": {"coordinates":[-149.940066,61.178192],"type":"Point"}
+}

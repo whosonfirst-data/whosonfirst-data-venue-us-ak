@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.759008,64.841691,-147.759008,64.841691",
+    "geom:latitude":64.841691,
+    "geom:longitude":-147.759008,
+    "iso:country":"US",
+    "sg:address":"1962 2nd Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 2875",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "athletic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BqgCNblyVDD2n9gqsRVZy_64.841691_-147.759008@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"61289a90dbaa1f3c5199ffd086788a7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102148645"
+        }
+    ],
+    "wof:id":"102148645",
+    "wof:lastmodified":1449069780,
+    "wof:name":"Fairbanks Curling Club",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.759008,64.841691,-147.759008,64.841691],
+  "geometry": {"coordinates":[-147.759008,64.841691],"type":"Point"}
+}

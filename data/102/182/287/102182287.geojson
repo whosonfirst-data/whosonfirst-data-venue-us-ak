@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.724418,64.842871,-147.724418,64.842871",
+    "geom:latitude":64.842871,
+    "geom:longitude":-147.724418,
+    "iso:country":"US",
+    "sg:address":"706 3rd Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 0311",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qqoZt8lPtsBQ4Cv8Ttoq0_64.842871_-147.724418@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"46401f5a09fb685f8252d33e5674d09e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102182287"
+        }
+    ],
+    "wof:id":"102182287",
+    "wof:lastmodified":1449069279,
+    "wof:name":"Hospice Of The Tanana Valley",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.724418,64.842871,-147.724418,64.842871],
+  "geometry": {"coordinates":[-147.724418,64.842871],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.893599,61.168774,-149.893599,61.168774",
+    "geom:latitude":61.168774,
+    "geom:longitude":-149.893599,
+    "iso:country":"US",
+    "sg:address":"700 W 58th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 5996",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jtPdIrOCVDftlm4o8HiUN_61.168774_-149.893599@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3562e6447db9e62b8457ab00fc96584d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102159487"
+        }
+    ],
+    "wof:id":"102159487",
+    "wof:lastmodified":1449068091,
+    "wof:name":"Paul Davis Restorations",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.893599,61.168774,-149.893599,61.168774],
+  "geometry": {"coordinates":[-149.893599,61.168774],"type":"Point"}
+}

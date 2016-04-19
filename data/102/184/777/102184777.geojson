@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.904522,61.166268,-149.904522,61.166268",
+    "geom:latitude":61.166268,
+    "geom:longitude":-149.904522,
+    "iso:country":"US",
+    "sg:address":"1300 W Dowling Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 3654",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "sand",
+        "gravel"
+    ],
+    "sg:website":"www.wilderconstruction.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fjmjiWXs0fdlam8NvsAR8_61.166268_-149.904522@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b794fbe64868977e52a8d1e7dd6d9725",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102184777"
+        }
+    ],
+    "wof:id":"102184777",
+    "wof:lastmodified":1449068217,
+    "wof:name":"Central Paving Products",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.904522,61.166268,-149.904522,61.166268],
+  "geometry": {"coordinates":[-149.904522,61.166268],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.644307,58.385061,-134.644307,58.385061",
+    "geom:latitude":58.385061,
+    "geom:longitude":-134.644307,
+    "iso:country":"US",
+    "sg:address":"11642 Glacier Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 7526",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915729,
+        85633793,
+        85688573,
+        102081399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vJ5DvydMM6fPN7iibqlCt_58.385061_-134.644307@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f076451fc8f0129173832c358c4c597f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "region_id":85688573,
+            "venue_id":"102150455"
+        }
+    ],
+    "wof:id":"102150455",
+    "wof:lastmodified":1449067791,
+    "wof:name":"Specialty Rentals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.644307,58.385061,-134.644307,58.385061],
+  "geometry": {"coordinates":[-134.644307,58.385061],"type":"Point"}
+}

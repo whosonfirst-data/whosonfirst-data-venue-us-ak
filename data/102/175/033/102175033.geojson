@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-146.36727,61.13531,-146.36727,61.13531",
+    "geom:latitude":61.13531,
+    "geom:longitude":-146.36727,
+    "iso:country":"US",
+    "sg:address":"724 Copper Dr",
+    "sg:city":"Valdez",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 835 4561",
+    "sg:postcode":"99686",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915585,
+        85633793,
+        85688573,
+        102081911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e7um5r74ei54wCeIqHzjh_61.135310_-146.367270@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a65833ab938c478242053720d8d5d611",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915585,
+            "region_id":85688573,
+            "venue_id":"102175033"
+        }
+    ],
+    "wof:id":"102175033",
+    "wof:lastmodified":1449069465,
+    "wof:name":"Mc Dermott Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-146.36727,61.13531,-146.36727,61.13531],
+  "geometry": {"coordinates":[-146.36727,61.13531],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.42506,58.306979,-134.42506,58.306979",
+    "geom:latitude":58.306979,
+    "geom:longitude":-134.42506,
+    "iso:country":"US",
+    "sg:address":"1704 Willow Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 463 6787",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "investigator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sF8BNG3EEQVWT20ikiRzw_58.306979_-134.425060@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b6bdf768e8d147742eeb4f11c2fd8154",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102162409"
+        }
+    ],
+    "wof:id":"102162409",
+    "wof:lastmodified":1449069821,
+    "wof:name":"Schorr Advocacy & Invstgtv Svc",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.42506,58.306979,-134.42506,58.306979],
+  "geometry": {"coordinates":[-134.42506,58.306979],"type":"Point"}
+}

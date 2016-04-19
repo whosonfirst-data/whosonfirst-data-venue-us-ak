@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.768977,61.19471,-149.768977,61.19471",
+    "geom:latitude":61.19471,
+    "geom:longitude":-149.768977,
+    "iso:country":"US",
+    "sg:address":"5929 Camden Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 338 6066",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "fingerprinting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806647,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kL1B9JAhHQMLx9TiY76Qa_61.194710_-149.768977@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"83b9e7073004281678c6c5e42ea53b7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85806647,
+            "region_id":85688573,
+            "venue_id":"102170795"
+        }
+    ],
+    "wof:id":"102170795",
+    "wof:lastmodified":1449068018,
+    "wof:name":"Independent Fingerprint Cnsltg",
+    "wof:parent_id":85806647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.768977,61.19471,-149.768977,61.19471],
+  "geometry": {"coordinates":[-149.768977,61.19471],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.855664,61.225287,-149.855664,61.225287",
+    "geom:latitude":61.225287,
+    "geom:longitude":-149.855664,
+    "iso:country":"US",
+    "sg:address":"1833 N Post Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 569 4300",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "sg:website":"www.denalitelecommunications.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873711,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fl1J01s35PfwVpvJfaPF8_61.225287_-149.855664@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6c0ebc955643be2bc85835b58eadfb26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873711,
+            "region_id":85688573,
+            "venue_id":"102190543"
+        }
+    ],
+    "wof:id":"102190543",
+    "wof:lastmodified":1449070035,
+    "wof:name":"Denali Telecommunications Inc",
+    "wof:parent_id":85873711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.855664,61.225287,-149.855664,61.225287],
+  "geometry": {"coordinates":[-149.855664,61.225287],"type":"Point"}
+}

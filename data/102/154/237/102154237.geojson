@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.765898,64.814566,-147.765898,64.814566",
+    "geom:latitude":64.814566,
+    "geom:longitude":-147.765898,
+    "iso:country":"US",
+    "sg:address":"2143 Standard Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 3463",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ktvQHedhDf1Y5992qL4SP_64.814566_-147.765898@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"37faf07c9b47e3751dcad8831a5b9cc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102154237"
+        }
+    ],
+    "wof:id":"102154237",
+    "wof:lastmodified":1449070242,
+    "wof:name":"Aaron Plumbing & Heating",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.765898,64.814566,-147.765898,64.814566],
+  "geometry": {"coordinates":[-147.765898,64.814566],"type":"Point"}
+}

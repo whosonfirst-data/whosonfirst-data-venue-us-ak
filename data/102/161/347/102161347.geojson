@@ -1,0 +1,71 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.093031,60.498658,-151.093031,60.498658",
+    "geom:latitude":60.498658,
+    "geom:longitude":-151.093031,
+    "iso:country":"US",
+    "sg:address":"45240 Knight Dr",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 3240",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "lot",
+        "contractor",
+        "maintenance",
+        "parking",
+        "steam",
+        "thawing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916859,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18ie5AhwVHsxuOplu4Ytju_60.498658_-151.093031@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5ffe35cead449ad769e1392572f7e3ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916859,
+            "region_id":85688573,
+            "venue_id":"102161347"
+        }
+    ],
+    "wof:id":"102161347",
+    "wof:lastmodified":1449068711,
+    "wof:name":"A-1 Steam On Wheels",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.093031,60.498658,-151.093031,60.498658],
+  "geometry": {"coordinates":[-151.093031,60.498658],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.847232,61.193197,-149.847232,61.193197",
+    "geom:latitude":61.193197,
+    "geom:longitude":-149.847232,
+    "iso:country":"US",
+    "sg:address":"2900 Drake Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 3345",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "model",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1td4rWSyTv6Zih7raCb9nu_61.193197_-149.847232@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2501ff1426d326ee2481593b7060ce6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102172883"
+        }
+    ],
+    "wof:id":"102172883",
+    "wof:lastmodified":1449068737,
+    "wof:name":"Case Model Train Repair",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.847232,61.193197,-149.847232,61.193197],
+  "geometry": {"coordinates":[-149.847232,61.193197],"type":"Point"}
+}

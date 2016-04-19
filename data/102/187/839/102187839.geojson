@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.733379,61.212734,-149.733379,61.212734",
+    "geom:latitude":61.212734,
+    "geom:longitude":-149.733379,
+    "iso:country":"US",
+    "sg:address":"1039 Muldoon Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 0000",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ud9JM5XaRRiAiyBjoKvhG_61.212734_-149.733379@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3ce65cddee12c99efb975172d43af8b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102187839"
+        }
+    ],
+    "wof:id":"102187839",
+    "wof:lastmodified":1449068158,
+    "wof:name":"Hollywood Auto Repair",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.733379,61.212734,-149.733379,61.212734],
+  "geometry": {"coordinates":[-149.733379,61.212734],"type":"Point"}
+}

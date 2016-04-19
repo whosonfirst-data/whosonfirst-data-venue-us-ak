@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.773159,64.854742,-147.773159,64.854742",
+    "geom:latitude":64.854742,
+    "geom:longitude":-147.773159,
+    "iso:country":"US",
+    "sg:address":"1060 Aspen St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 458 7767",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "specialty",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bSlt0quTVBunq2MQHYxpD_64.854742_-147.773159@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a5dd10e3f47d37d146233ae0f72305bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102189013"
+        }
+    ],
+    "wof:id":"102189013",
+    "wof:lastmodified":1449069498,
+    "wof:name":"Sign Pro of Fairbanks",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.773159,64.854742,-147.773159,64.854742],
+  "geometry": {"coordinates":[-147.773159,64.854742],"type":"Point"}
+}

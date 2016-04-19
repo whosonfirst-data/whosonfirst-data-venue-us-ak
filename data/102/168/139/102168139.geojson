@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.838117,61.181556,-149.838117,61.181556",
+    "geom:latitude":61.181556,
+    "geom:longitude":-149.838117,
+    "iso:country":"US",
+    "sg:address":"4309 Lake Otis Pkwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 7355",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51omrZXSqu2PkVPNx9pCJV_61.181556_-149.838117@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bcce0dae8bc599b5c8ad1dcde1194553",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102168139"
+        }
+    ],
+    "wof:id":"102168139",
+    "wof:lastmodified":1449069006,
+    "wof:name":"Park To Sell Alaska",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.838117,61.181556,-149.838117,61.181556],
+  "geometry": {"coordinates":[-149.838117,61.181556],"type":"Point"}
+}

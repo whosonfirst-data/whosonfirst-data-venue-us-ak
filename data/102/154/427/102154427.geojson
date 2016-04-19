@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.827538,61.141149,-149.827538,61.141149",
+    "geom:latitude":61.141149,
+    "geom:longitude":-149.827538,
+    "iso:country":"US",
+    "sg:address":"8605 Swiss Pl",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 8633",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uRurYSRtWRYj2arh4GKKk_61.141149_-149.827538@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bf637b62d6180e6151c849692db495a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102154427"
+        }
+    ],
+    "wof:id":"102154427",
+    "wof:lastmodified":1449070243,
+    "wof:name":"Alaska No 1 Assisted Living",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.827538,61.141149,-149.827538,61.141149],
+  "geometry": {"coordinates":[-149.827538,61.141149],"type":"Point"}
+}

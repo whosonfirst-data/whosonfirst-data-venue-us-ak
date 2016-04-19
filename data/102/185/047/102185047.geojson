@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.873186,61.195358,-149.873186,61.195358",
+    "geom:latitude":61.195358,
+    "geom:longitude":-149.873186,
+    "iso:country":"US",
+    "sg:address":"545 E Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 2407",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QE4S3FRmv3GLmpZTFXYKH_61.195358_-149.873186@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8c17e1739a398f920f1b8f51ce6c77f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102185047"
+        }
+    ],
+    "wof:id":"102185047",
+    "wof:lastmodified":1449068196,
+    "wof:name":"Midtown RV/Camper Park",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.873186,61.195358,-149.873186,61.195358],
+  "geometry": {"coordinates":[-149.873186,61.195358],"type":"Point"}
+}

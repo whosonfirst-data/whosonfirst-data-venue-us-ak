@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-150.995842,60.509456,-150.995842,60.509456",
+    "geom:latitude":60.509456,
+    "geom:longitude":-150.995842,
+    "iso:country":"US",
+    "sg:address":"41439 National Ave",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 5543",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916845,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TvYf1VUFOTwIPT0QZr0JC_60.509456_-150.995842@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a9f7c80a26b890c650a20ffa8866f779",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916845,
+            "region_id":85688573,
+            "venue_id":"102152163"
+        }
+    ],
+    "wof:id":"102152163",
+    "wof:lastmodified":1449069638,
+    "wof:name":"Sunshine Cleaning Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-150.995842,60.509456,-150.995842,60.509456],
+  "geometry": {"coordinates":[-150.995842,60.509456],"type":"Point"}
+}

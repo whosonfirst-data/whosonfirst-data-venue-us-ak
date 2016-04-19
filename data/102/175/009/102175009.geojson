@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.69044,64.848965,-147.69044,64.848965",
+    "geom:latitude":64.848965,
+    "geom:longitude":-147.69044,
+    "iso:country":"US",
+    "sg:address":"105 Adak Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 5188",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BxSQtOkbAKyH2GGiNfjFM_64.848965_-147.690440@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"87e399e0ee1235c9ac2842b93e071808",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102175009"
+        }
+    ],
+    "wof:id":"102175009",
+    "wof:lastmodified":1449069470,
+    "wof:name":"Great Land Realty",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.69044,64.848965,-147.69044,64.848965],
+  "geometry": {"coordinates":[-147.69044,64.848965],"type":"Point"}
+}

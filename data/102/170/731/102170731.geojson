@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.488075,58.361186,-134.488075,58.361186",
+    "geom:latitude":58.361186,
+    "geom:longitude":-134.488075,
+    "iso:country":"US",
+    "sg:address":"2000 Lemon Creek Rd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 780 5180",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6B75Y3F55Ouq5Q28buE4BZ_58.361186_-134.488075@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b3bdb4316135e325a162476933e77bfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102170731"
+        }
+    ],
+    "wof:id":"102170731",
+    "wof:lastmodified":1449068018,
+    "wof:name":"Alaska Sterile Laundry Svc",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.488075,58.361186,-134.488075,58.361186],
+  "geometry": {"coordinates":[-134.488075,58.361186],"type":"Point"}
+}

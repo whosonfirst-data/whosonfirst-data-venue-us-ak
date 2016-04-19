@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.582368,57.500735,-134.582368,57.500735",
+    "geom:latitude":57.500735,
+    "geom:longitude":-134.582368,
+    "iso:country":"US",
+    "sg:address":"600 Chinook Way",
+    "sg:city":"Angoon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 788 3633",
+    "sg:postcode":"99820",
+    "sg:province":"AK",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916117,
+        85633793,
+        85688573,
+        102081003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KUlzqpWd2CsxAaYhLsw7A_57.500735_-134.582368@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7e5006820a9ee0569d14789b64cb71e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081003,
+            "locality_id":85916117,
+            "region_id":85688573,
+            "venue_id":"102188689"
+        }
+    ],
+    "wof:id":"102188689",
+    "wof:lastmodified":1449068947,
+    "wof:name":"Angoon Health Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.582368,57.500735,-134.582368,57.500735],
+  "geometry": {"coordinates":[-134.582368,57.500735],"type":"Point"}
+}

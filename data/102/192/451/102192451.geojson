@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.915752,61.125225,-149.915752,61.125225",
+    "geom:latitude":61.125225,
+    "geom:longitude":-149.915752,
+    "iso:country":"US",
+    "sg:address":"10640 Republic Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 1646",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FUpzDPzMIWRqevnQ0BIS0_61.125225_-149.915752@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ba4cd628dff03be890001a3237bbc89f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102192451"
+        }
+    ],
+    "wof:id":"102192451",
+    "wof:lastmodified":1449069503,
+    "wof:name":"Integral Engineering",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.915752,61.125225,-149.915752,61.125225],
+  "geometry": {"coordinates":[-149.915752,61.125225],"type":"Point"}
+}

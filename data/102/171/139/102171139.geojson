@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.634831,55.34135,-131.634831,55.34135",
+    "geom:latitude":55.34135,
+    "geom:longitude":-131.634831,
+    "iso:country":"US",
+    "sg:address":"525 Deermount St",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 4550",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MZaWeLxeuDYbbVnQldKav_55.341350_-131.634831@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f8cda8536c0a057c435ef5f36f201c60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102171139"
+        }
+    ],
+    "wof:id":"102171139",
+    "wof:lastmodified":1449070222,
+    "wof:name":"Ketchikan Mortuary",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.634831,55.34135,-131.634831,55.34135],
+  "geometry": {"coordinates":[-131.634831,55.34135],"type":"Point"}
+}

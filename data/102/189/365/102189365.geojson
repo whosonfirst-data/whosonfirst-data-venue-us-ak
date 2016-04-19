@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.713471,61.253228,-149.713471,61.253228",
+    "geom:latitude":61.253228,
+    "geom:longitude":-149.713471,
+    "iso:country":"US",
+    "sg:address":"244 Richardson Dr",
+    "sg:city":"Fort Richardson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 428 0049",
+    "sg:postcode":"99505",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0anp03zk9yHniv7oApl0YF_61.253228_-149.713471@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c339551c5febe6caa27deb38b244a92c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102189365"
+        }
+    ],
+    "wof:id":"102189365",
+    "wof:lastmodified":1449069496,
+    "wof:name":"NAF Contracting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.713471,61.253228,-149.713471,61.253228],
+  "geometry": {"coordinates":[-149.713471,61.253228],"type":"Point"}
+}

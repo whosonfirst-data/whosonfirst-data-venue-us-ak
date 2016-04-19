@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.404623,58.299843,-134.404623,58.299843",
+    "geom:latitude":58.299843,
+    "geom:longitude":-134.404623,
+    "iso:country":"US",
+    "sg:address":"210 Ferry Way",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Junior College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 5718",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "technical",
+        "institute"
+    ],
+    "sg:website":"www.serrc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Q0sBoRMwQ8hspFJ19VnwH_58.299843_-134.404623@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"07fc0d42b68314b49f7754f2252e209d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102195721"
+        }
+    ],
+    "wof:id":"102195721",
+    "wof:lastmodified":1449069366,
+    "wof:name":"Alaska Vocational Institute",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.404623,58.299843,-134.404623,58.299843],
+  "geometry": {"coordinates":[-134.404623,58.299843],"type":"Point"}
+}

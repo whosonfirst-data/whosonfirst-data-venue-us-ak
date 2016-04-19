@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.881506,61.165663,-149.881506,61.165663",
+    "geom:latitude":61.165663,
+    "geom:longitude":-149.881506,
+    "iso:country":"US",
+    "sg:address":"6101 A St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 0604",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iLYfjd9bTpcUk48Gt8JLb_61.165663_-149.881506@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"50f7cac7b0e759f5e40d12bb47ea28c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102193977"
+        }
+    ],
+    "wof:id":"102193977",
+    "wof:lastmodified":1449068194,
+    "wof:name":"CAT Transportation Trucking",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.881506,61.165663,-149.881506,61.165663],
+  "geometry": {"coordinates":[-149.881506,61.165663],"type":"Point"}
+}

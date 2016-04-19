@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.898023,61.197123,-149.898023,61.197123",
+    "geom:latitude":61.197123,
+    "geom:longitude":-149.898023,
+    "iso:country":"US",
+    "sg:address":"2522 Arctic Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 0521",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.rsa-ak.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CXO8PLdujAfstwIpJESvL_61.197123_-149.898023@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"361ff309e0ac626e740ee645f9d2193b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102176671"
+        }
+    ],
+    "wof:id":"102176671",
+    "wof:lastmodified":1449069346,
+    "wof:name":"RSA Engineering",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.898023,61.197123,-149.898023,61.197123],
+  "geometry": {"coordinates":[-149.898023,61.197123],"type":"Point"}
+}

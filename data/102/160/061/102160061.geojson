@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.451174,61.583025,-149.451174,61.583025",
+    "geom:latitude":61.583025,
+    "geom:longitude":-149.451174,
+    "iso:country":"US",
+    "sg:address":"200 W Swanson Ave",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 9777",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JnxBtfCdtqRiOTALg8rYe_61.583025_-149.451174@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8ba26a701c2461b8d86abe737cd5d210",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102160061"
+        }
+    ],
+    "wof:id":"102160061",
+    "wof:lastmodified":1449069777,
+    "wof:name":"Lube Express",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.451174,61.583025,-149.451174,61.583025],
+  "geometry": {"coordinates":[-149.451174,61.583025],"type":"Point"}
+}

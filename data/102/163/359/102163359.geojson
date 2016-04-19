@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.444114,61.583171,-149.444114,61.583171",
+    "geom:latitude":61.583171,
+    "geom:longitude":-149.444114,
+    "iso:country":"US",
+    "sg:address":"291 E Swanson Ave",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 4000",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ],
+    "sg:website":"www.matsurecovery.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ADdkHXaKXIx8rCY47F2Xd_61.583171_-149.444114@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d8ab60db29d1d9496a33e97aa4270aa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102163359"
+        }
+    ],
+    "wof:id":"102163359",
+    "wof:lastmodified":1449070160,
+    "wof:name":"Mat-Su Recovery Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.444114,61.583171,-149.444114,61.583171],
+  "geometry": {"coordinates":[-149.444114,61.583171],"type":"Point"}
+}

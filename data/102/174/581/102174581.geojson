@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.804364,61.153311,-149.804364,61.153311",
+    "geom:latitude":61.153311,
+    "geom:longitude":-149.804364,
+    "iso:country":"US",
+    "sg:address":"7348 Abbott Loop Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 9077",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873745,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Dzzc57OetPZxV08vVCyMZ_61.153311_-149.804364@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"901172b40ca9fdec7693e71f06c5ae37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873745,
+            "region_id":85688573,
+            "venue_id":"102174581"
+        }
+    ],
+    "wof:id":"102174581",
+    "wof:lastmodified":1449068138,
+    "wof:name":"Anchorage Bible Fellowship",
+    "wof:parent_id":85873745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.804364,61.153311,-149.804364,61.153311],
+  "geometry": {"coordinates":[-149.804364,61.153311],"type":"Point"}
+}

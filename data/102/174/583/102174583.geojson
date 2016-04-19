@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.340964,61.58468,-149.340964,61.58468",
+    "geom:latitude":61.58468,
+    "geom:longitude":-149.340964,
+    "iso:country":"US",
+    "sg:address":"4360 Snider Dr",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 7930",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916225,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uX6iuztuoGXlncMA06VlZ_61.584680_-149.340964@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b3678ed3cffdb360797ad47f6f448bd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916225,
+            "region_id":85688573,
+            "venue_id":"102174583"
+        }
+    ],
+    "wof:id":"102174583",
+    "wof:lastmodified":1449068141,
+    "wof:name":"All Cratures Veterinary Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.340964,61.58468,-149.340964,61.58468],
+  "geometry": {"coordinates":[-149.340964,61.58468],"type":"Point"}
+}

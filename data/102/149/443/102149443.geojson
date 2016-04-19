@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.452873,64.826093,-147.452873,64.826093",
+    "geom:latitude":64.826093,
+    "geom:longitude":-147.452873,
+    "iso:country":"US",
+    "sg:address":"1805 Kendall Ave",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 490 2161",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916555,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vVLHOJ1ETj71jwn2de62t_64.826093_-147.452873@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bd4e9aeed6e5ff459b29d8f281b1ba2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916555,
+            "region_id":85688573,
+            "venue_id":"102149443"
+        }
+    ],
+    "wof:id":"102149443",
+    "wof:lastmodified":1449067769,
+    "wof:name":"Glen's Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.452873,64.826093,-147.452873,64.826093],
+  "geometry": {"coordinates":[-147.452873,64.826093],"type":"Point"}
+}

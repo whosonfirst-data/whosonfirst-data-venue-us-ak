@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.674076,55.353193,-131.674076,55.353193",
+    "geom:latitude":55.353193,
+    "geom:longitude":-131.674076,
+    "iso:country":"US",
+    "sg:address":"2303 5th Ave",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 5461",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "hostel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g4Z283OhPI1zypguERRSx_55.353193_-131.674076@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f1ff28b234e3ff226ee6c6656ce300a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102184807"
+        }
+    ],
+    "wof:id":"102184807",
+    "wof:lastmodified":1449068216,
+    "wof:name":"Hostel-Eagleview",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.674076,55.353193,-131.674076,55.353193],
+  "geometry": {"coordinates":[-131.674076,55.353193],"type":"Point"}
+}

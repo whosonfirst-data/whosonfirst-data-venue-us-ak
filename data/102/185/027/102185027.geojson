@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.830503,61.151887,-149.830503,61.151887",
+    "geom:latitude":61.151887,
+    "geom:longitude":-149.830503,
+    "iso:country":"US",
+    "sg:address":"2848 Lore Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 2775",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "nursery",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cEIQTbtDrhmuRMu0BNLOm_61.151887_-149.830503@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b8ce4852eba1195d8d5fb89ad33d693f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102185027"
+        }
+    ],
+    "wof:id":"102185027",
+    "wof:lastmodified":1449068197,
+    "wof:name":"Bush Nursery & Hydroseeding",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.830503,61.151887,-149.830503,61.151887],
+  "geometry": {"coordinates":[-149.830503,61.151887],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.271502,60.553431,-151.271502,60.553431",
+    "geom:latitude":60.553431,
+    "geom:longitude":-151.271502,
+    "iso:country":"US",
+    "sg:address":"225 S Spruce St",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 4555",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sykQgemDHyMJNuhfUDG1C_60.553431_-151.271502@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fbdfff183494e2245d8d8a01ab2bb3fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102195901"
+        }
+    ],
+    "wof:id":"102195901",
+    "wof:lastmodified":1449069363,
+    "wof:name":"Our Lady Of The Angels",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.271502,60.553431,-151.271502,60.553431],
+  "geometry": {"coordinates":[-151.271502,60.553431],"type":"Point"}
+}

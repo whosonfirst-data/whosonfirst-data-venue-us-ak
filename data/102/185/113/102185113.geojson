@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.763843,55.414045,-131.763843,55.414045",
+    "geom:latitude":55.414045,
+    "geom:longitude":-131.763843,
+    "iso:country":"US",
+    "sg:address":"486 Barbara Ln",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 8077",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PDoZ1O65yBw3TGzMleiph_55.414045_-131.763843@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"01f44a67a7b5595cbfa0cfb8de25a3b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "region_id":85688573,
+            "venue_id":"102185113"
+        }
+    ],
+    "wof:id":"102185113",
+    "wof:lastmodified":1449068199,
+    "wof:name":"Gateway Courier",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.763843,55.414045,-131.763843,55.414045],
+  "geometry": {"coordinates":[-131.763843,55.414045],"type":"Point"}
+}

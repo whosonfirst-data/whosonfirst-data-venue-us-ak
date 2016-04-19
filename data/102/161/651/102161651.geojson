@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.753277,61.197551,-149.753277,61.197551",
+    "geom:latitude":61.197551,
+    "geom:longitude":-149.753277,
+    "iso:country":"US",
+    "sg:address":"2521 Brittany Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 0734",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "transcribing",
+        "disc"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869053,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3X6exjjlwAweLssIskkUs9_61.197551_-149.753277@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"49acf88b7676bef917cb6b3c1b652ee8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869053,
+            "region_id":85688573,
+            "venue_id":"102161651"
+        }
+    ],
+    "wof:id":"102161651",
+    "wof:lastmodified":1449068710,
+    "wof:name":"Verbatim Transcripts",
+    "wof:parent_id":85869053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.753277,61.197551,-149.753277,61.197551],
+  "geometry": {"coordinates":[-149.753277,61.197551],"type":"Point"}
+}

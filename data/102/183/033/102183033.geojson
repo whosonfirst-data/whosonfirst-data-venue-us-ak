@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.740424,61.094145,-149.740424,61.094145",
+    "geom:latitude":61.094145,
+    "geom:longitude":-149.740424,
+    "iso:country":"US",
+    "sg:address":"7501 E 140th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 2444",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "excavation",
+        "work",
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873741,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qDj2SOOaf9gpx92fNKE8M_61.094145_-149.740424@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4a13a102f0f1ee0a8ba86cc519a31ed6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873741,
+            "region_id":85688573,
+            "venue_id":"102183033"
+        }
+    ],
+    "wof:id":"102183033",
+    "wof:lastmodified":1449069041,
+    "wof:name":"A Plus Home Services Inc",
+    "wof:parent_id":85873741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.740424,61.094145,-149.740424,61.094145],
+  "geometry": {"coordinates":[-149.740424,61.094145],"type":"Point"}
+}

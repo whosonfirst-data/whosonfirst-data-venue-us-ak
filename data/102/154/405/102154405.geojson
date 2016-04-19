@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.413904,57.787187,-152.413904,57.787187",
+    "geom:latitude":57.787187,
+    "geom:longitude":-152.413904,
+    "iso:country":"US",
+    "sg:address":"308 Shelikof St",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 3652",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "crane"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VpixFjR0pMUq34QWhd1FT_57.787187_-152.413904@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"86ba98f2384812d00ac67279f7ca7b26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102154405"
+        }
+    ],
+    "wof:id":"102154405",
+    "wof:lastmodified":1449070248,
+    "wof:name":"Arc-N-Spark",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.413904,57.787187,-152.413904,57.787187],
+  "geometry": {"coordinates":[-152.413904,57.787187],"type":"Point"}
+}

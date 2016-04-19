@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.072588,61.6346,-149.072588,61.6346",
+    "geom:latitude":61.6346,
+    "geom:longitude":-149.072588,
+    "iso:country":"US",
+    "sg:address":"4905 Slumber Dr",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 746 1474",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home",
+        "log",
+        "cabin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916219,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23vjz6FgqjNxE1sJ2RxNKi_61.634600_-149.072588@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f64fe8b903caa48beb8ea1130ced343",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916219,
+            "region_id":85688573,
+            "venue_id":"102176087"
+        }
+    ],
+    "wof:id":"102176087",
+    "wof:lastmodified":1449069346,
+    "wof:name":"A & B Sawmill",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.072588,61.6346,-149.072588,61.6346],
+  "geometry": {"coordinates":[-149.072588,61.6346],"type":"Point"}
+}

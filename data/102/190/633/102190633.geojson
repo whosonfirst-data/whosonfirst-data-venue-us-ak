@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.354458,57.063103,-135.354458,57.063103",
+    "geom:latitude":57.063103,
+    "geom:longitude":-135.354458,
+    "iso:country":"US",
+    "sg:address":"1309 Halibut Point Rd",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 3145",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "acupuncture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JC947csJZEUWDKmqghY4N_57.063103_-135.354458@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f2641c4e7731d56661aa8a4f8e1472d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102190633"
+        }
+    ],
+    "wof:id":"102190633",
+    "wof:lastmodified":1449070037,
+    "wof:name":"Alternative Healing",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.354458,57.063103,-135.354458,57.063103],
+  "geometry": {"coordinates":[-135.354458,57.063103],"type":"Point"}
+}

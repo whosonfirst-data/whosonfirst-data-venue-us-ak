@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.782834,64.810182,-147.782834,64.810182",
+    "geom:latitude":64.810182,
+    "geom:longitude":-147.782834,
+    "iso:country":"US",
+    "sg:address":"3650 Worrell Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 0939",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916551,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NDmUV8X9k4TJyy5Zp3OKK_64.810182_-147.782834@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"37c89ad5c8a6e231952caad27c6d142e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916551,
+            "region_id":85688573,
+            "venue_id":"102155311"
+        }
+    ],
+    "wof:id":"102155311",
+    "wof:lastmodified":1449069743,
+    "wof:name":"Northern Truck Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.782834,64.810182,-147.782834,64.810182],
+  "geometry": {"coordinates":[-147.782834,64.810182],"type":"Point"}
+}

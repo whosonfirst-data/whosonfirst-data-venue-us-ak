@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.733592,61.223892,-149.733592,61.223892",
+    "geom:latitude":61.223892,
+    "geom:longitude":-149.733592,
+    "iso:country":"US",
+    "sg:address":"156 Muldoon Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 338 9921",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MFUKfMVwnaKwWxxD8ufKm_61.223892_-149.733592@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c443789990df0bc0d2c51c97fe2540bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102163191"
+        }
+    ],
+    "wof:id":"102163191",
+    "wof:lastmodified":1449070164,
+    "wof:name":"Crazy Horse Too",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.733592,61.223892,-149.733592,61.223892],
+  "geometry": {"coordinates":[-149.733592,61.223892],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.749383,61.209796,-149.749383,61.209796",
+    "geom:latitude":61.209796,
+    "geom:longitude":-149.749383,
+    "iso:country":"US",
+    "sg:address":"7101 Debarr Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 5681",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LFEPRZ2xND8DMCmo7pGpt_61.209796_-149.749383@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e5763489b1025c2a58eec5161e7e0850",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102183121"
+        }
+    ],
+    "wof:id":"102183121",
+    "wof:lastmodified":1449069043,
+    "wof:name":"M B Contracting Co Inc",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.749383,61.209796,-149.749383,61.209796],
+  "geometry": {"coordinates":[-149.749383,61.209796],"type":"Point"}
+}

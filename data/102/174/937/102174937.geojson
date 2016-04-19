@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.859367,61.219578,-149.859367,61.219578",
+    "geom:latitude":61.219578,
+    "geom:longitude":-149.859367,
+    "iso:country":"US",
+    "sg:address":"202 Post Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 770 5573",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "automobile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TwRBK9cZRYpVtLjbs7qrO_61.219578_-149.859367@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"27c948f35889a95f5f5a79fb3302ab0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102174937"
+        }
+    ],
+    "wof:id":"102174937",
+    "wof:lastmodified":1449068138,
+    "wof:name":"Auto America",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.859367,61.219578,-149.859367,61.219578],
+  "geometry": {"coordinates":[-149.859367,61.219578],"type":"Point"}
+}

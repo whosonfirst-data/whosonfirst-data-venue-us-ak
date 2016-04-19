@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.943225,61.198721,-149.943225,61.198721",
+    "geom:latitude":61.198721,
+    "geom:longitude":-149.943225,
+    "iso:country":"US",
+    "sg:address":"2326 Turnagain Pkwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 278 4600",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "market",
+        "analysis"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873721,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dM8p5Cm5zjTOoq6lfXWys_61.198721_-149.943225@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"275599cd2eff0399aafea72a63cdca17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873721,
+            "region_id":85688573,
+            "venue_id":"102182649"
+        }
+    ],
+    "wof:id":"102182649",
+    "wof:lastmodified":1449069281,
+    "wof:name":"Ivan Moore Research",
+    "wof:parent_id":85873721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.943225,61.198721,-149.943225,61.198721],
+  "geometry": {"coordinates":[-149.943225,61.198721],"type":"Point"}
+}

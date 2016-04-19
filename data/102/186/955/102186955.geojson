@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.079879,60.539025,-151.079879,60.539025",
+    "geom:latitude":60.539025,
+    "geom:longitude":-151.079879,
+    "iso:country":"US",
+    "sg:address":"1385 Nighthawk Ln",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 6000",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gaXMouFc73seLdqSHHyf8_60.539025_-151.079879@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"146a94723eccc4a49225fc0624e4edfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102186955"
+        }
+    ],
+    "wof:id":"102186955",
+    "wof:lastmodified":1449069655,
+    "wof:name":"Alaska Cab Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.079879,60.539025,-151.079879,60.539025],
+  "geometry": {"coordinates":[-151.079879,60.539025],"type":"Point"}
+}

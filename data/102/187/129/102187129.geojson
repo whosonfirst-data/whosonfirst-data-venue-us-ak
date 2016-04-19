@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.854209,61.185014,-149.854209,61.185014",
+    "geom:latitude":61.185014,
+    "geom:longitude":-149.854209,
+    "iso:country":"US",
+    "sg:address":"3960 Locarno Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 9700",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "c",
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Sjs6M2eRYb6t3eYhPiHCO_61.185014_-149.854209@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f6d3a5fa834f97b5e1b56380f87af49f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102187129"
+        }
+    ],
+    "wof:id":"102187129",
+    "wof:lastmodified":1449068160,
+    "wof:name":"Mechanical Enterprises Inc",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.854209,61.185014,-149.854209,61.185014],
+  "geometry": {"coordinates":[-149.854209,61.185014],"type":"Point"}
+}

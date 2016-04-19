@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.278721,60.576828,-151.278721,60.576828",
+    "geom:latitude":60.576828,
+    "geom:longitude":-151.278721,
+    "iso:country":"US",
+    "sg:address":"1530 Windward Dr",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 335 4463",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "snow",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qiTerMeLVgcrFCKJdI01T_60.576828_-151.278721@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"848bdb5e962b91f180019fc6d96f8500",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102185023"
+        }
+    ],
+    "wof:id":"102185023",
+    "wof:lastmodified":1449068198,
+    "wof:name":"Moore Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.278721,60.576828,-151.278721,60.576828],
+  "geometry": {"coordinates":[-151.278721,60.576828],"type":"Point"}
+}

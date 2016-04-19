@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.649397,58.387677,-134.649397,58.387677",
+    "geom:latitude":58.387677,
+    "geom:longitude":-134.649397,
+    "iso:country":"US",
+    "sg:address":"11869 Glacier Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 463 1775",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:website":"www.jsd.k12.ak.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915729,
+        85633793,
+        85688573,
+        102081399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xedqs8oiGzzcIyr7ASyPf_58.387677_-134.649397@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"089f38385527f41dc31a1fab03ebac66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "region_id":85688573,
+            "venue_id":"102166285"
+        }
+    ],
+    "wof:id":"102166285",
+    "wof:lastmodified":1449069082,
+    "wof:name":"Auke Bay Elementary School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.649397,58.387677,-134.649397,58.387677],
+  "geometry": {"coordinates":[-134.649397,58.387677],"type":"Point"}
+}

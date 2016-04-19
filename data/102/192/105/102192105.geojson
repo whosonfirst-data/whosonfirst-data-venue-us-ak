@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.409918,58.3021,-134.409918,58.3021",
+    "geom:latitude":58.3021,
+    "geom:longitude":-134.409918,
+    "iso:country":"US",
+    "sg:address":"120 4th St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 465 3500",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53dSiXeayOBs48NtxTeKne_58.302100_-134.409918@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5c251e4ac7443c360230069db727190a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102192105"
+        }
+    ],
+    "wof:id":"102192105",
+    "wof:lastmodified":1449069504,
+    "wof:name":"Governor's Office",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.409918,58.3021,-134.409918,58.3021],
+  "geometry": {"coordinates":[-134.409918,58.3021],"type":"Point"}
+}

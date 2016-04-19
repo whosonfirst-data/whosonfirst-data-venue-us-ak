@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.334114,57.052403,-135.334114,57.052403",
+    "geom:latitude":57.052403,
+    "geom:longitude":-135.334114,
+    "iso:country":"US",
+    "sg:address":"330 Seward St",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 0979",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zVO0PWe28C8l13yZd7UIH_57.052403_-135.334114@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ec7187118997c8a0e485e01a8606ce34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102188877"
+        }
+    ],
+    "wof:id":"102188877",
+    "wof:lastmodified":1449068946,
+    "wof:name":"Raven Dining Room",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.334114,57.052403,-135.334114,57.052403],
+  "geometry": {"coordinates":[-135.334114,57.052403],"type":"Point"}
+}

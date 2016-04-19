@@ -1,0 +1,67 @@
+{
+  "id": "102148351",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.863906,61.14056,-149.863906,61.14056",
+    "geom:latitude":61.14056,
+    "geom:longitude":-149.863906,
+    "iso:country":"US",
+    "sg:address":"8931 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 6881",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:website":"www.thesportsauthority.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85915707,
+        102085881,
+        85809155
+    ],
+    "wof:brand_id":420575655,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z5C36TOTGo1bzVpFB1yNT_61.140560_-149.863906@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"94eba5e6cbd271672ab4039cb56b6f73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102148351"
+        }
+    ],
+    "wof:id":"102148351",
+    "wof:lastmodified":1457209692,
+    "wof:name":"Sports Authority",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.863906,
+    61.14056,
+    -149.863906,
+    61.14056
+],
+  "geometry": {"coordinates":[-149.86390599999999,61.14056],"type":"Point"}
+}

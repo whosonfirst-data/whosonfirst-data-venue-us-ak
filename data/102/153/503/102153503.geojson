@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.720059,55.371491,-131.720059,55.371491",
+    "geom:latitude":55.371491,
+    "geom:longitude":-131.720059,
+    "iso:country":"US",
+    "sg:address":"5351 Shoreline Dr",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Wine & Distilled Alcoholic Beverages",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 247 2337",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "brewer",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nk8gnI3h0v6705SyuIoYr_55.371491_-131.720059@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2c22968f3d19ccb7663dec2dd5a3e021",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102153503"
+        }
+    ],
+    "wof:id":"102153503",
+    "wof:lastmodified":1449069463,
+    "wof:name":"Ketchikan Brewing Supplies",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.720059,55.371491,-131.720059,55.371491],
+  "geometry": {"coordinates":[-131.720059,55.371491],"type":"Point"}
+}

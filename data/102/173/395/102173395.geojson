@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.813918,61.115774,-149.813918,61.115774",
+    "geom:latitude":61.115774,
+    "geom:longitude":-149.813918,
+    "iso:country":"US",
+    "sg:address":"3710 E Klatt Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 9737",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oL7uXbM90lrD0Hzm0BaBd_61.115774_-149.813918@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bb9c83ed56bed83c1082d9b8786177bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102173395"
+        }
+    ],
+    "wof:id":"102173395",
+    "wof:lastmodified":1449068265,
+    "wof:name":"MKS Rental & Equipment",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.813918,61.115774,-149.813918,61.115774],
+  "geometry": {"coordinates":[-149.813918,61.115774],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.808186,61.177921,-149.808186,61.177921",
+    "geom:latitude":61.177921,
+    "geom:longitude":-149.808186,
+    "iso:country":"US",
+    "sg:address":"4711 S Bragaw St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 343 8122",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rz3x65May3rNlvEwQRz6D_61.177921_-149.808186@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2bd35088a839ea715e10e8499c357d92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102151715"
+        }
+    ],
+    "wof:id":"102151715",
+    "wof:lastmodified":1449067782,
+    "wof:name":"Anchorage Animal Control",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.808186,61.177921,-149.808186,61.177921],
+  "geometry": {"coordinates":[-149.808186,61.177921],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.804882,61.223873,-149.804882,61.223873",
+    "geom:latitude":61.223873,
+    "geom:longitude":-149.804882,
+    "iso:country":"US",
+    "sg:address":"4010 Mountain View Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 3351",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2esNv3pX0iJWhX2MzJ5bbK_61.223873_-149.804882@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"51173d530218332d17b2b90f4ed6c989",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102164043"
+        }
+    ],
+    "wof:id":"102164043",
+    "wof:lastmodified":1449068089,
+    "wof:name":"Dar-Con Corporation Contrs",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.804882,61.223873,-149.804882,61.223873],
+  "geometry": {"coordinates":[-149.804882,61.223873],"type":"Point"}
+}

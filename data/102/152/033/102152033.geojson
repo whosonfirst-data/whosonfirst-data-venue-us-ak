@@ -1,0 +1,67 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.941161,61.182313,-149.941161,61.182313",
+    "geom:latitude":61.182313,
+    "geom:longitude":-149.941161,
+    "iso:country":"US",
+    "sg:address":"2825 W 42nd Pl",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 5130",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "info",
+        "addiction",
+        "abuse",
+        "treatment",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26KVUR1Om8zDPitSYCDxUF_61.182313_-149.941161@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e4d4e2317fcad004b0c9402c9fd8f038",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102152033"
+        }
+    ],
+    "wof:id":"102152033",
+    "wof:lastmodified":1449069634,
+    "wof:name":"Genesis Recovery Svc Inc",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.941161,61.182313,-149.941161,61.182313],
+  "geometry": {"coordinates":[-149.941161,61.182313],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.623884,61.569531,-149.623884,61.569531",
+    "geom:latitude":61.569531,
+    "geom:longitude":-149.623884,
+    "iso:country":"US",
+    "sg:address":"6781 Joes Dr",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 0924",
+    "sg:postcode":"99687",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916215,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K3I6maaxKbymDXpUawK94_61.569531_-149.623884@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8556cbd0fc9e8bc8fcfffdda4c4c946c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916215,
+            "region_id":85688573,
+            "venue_id":"102179753"
+        }
+    ],
+    "wof:id":"102179753",
+    "wof:lastmodified":1449069940,
+    "wof:name":"Axberg Builders",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.623884,61.569531,-149.623884,61.569531],
+  "geometry": {"coordinates":[-149.623884,61.569531],"type":"Point"}
+}

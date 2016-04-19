@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.927999,61.123036,-149.927999,61.123036",
+    "geom:latitude":61.123036,
+    "geom:longitude":-149.927999,
+    "iso:country":"US",
+    "sg:address":"10616 Flagship Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 2562",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mg3KsCmw1GI5vh0qBttyz_61.123036_-149.927999@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"13b83d1bb3b5b6ac70844e0d7e908ef1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102152407"
+        }
+    ],
+    "wof:id":"102152407",
+    "wof:lastmodified":1449069634,
+    "wof:name":"Northern Lights Celtic Dancers",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.927999,61.123036,-149.927999,61.123036],
+  "geometry": {"coordinates":[-149.927999,61.123036],"type":"Point"}
+}

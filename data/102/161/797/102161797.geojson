@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.107695,61.602119,-149.107695,61.602119",
+    "geom:latitude":61.602119,
+    "geom:longitude":-149.107695,
+    "iso:country":"US",
+    "sg:address":"435 S Denali St",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 746 8101",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915577,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68lFHLQlsj6QGxxqx1g9d8_61.602119_-149.107695@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"825aeeed458bb1f365b59c9ef5c9e776",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915577,
+            "region_id":85688573,
+            "venue_id":"102161797"
+        }
+    ],
+    "wof:id":"102161797",
+    "wof:lastmodified":1449068713,
+    "wof:name":"Small Claims Court Clerk",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.107695,61.602119,-149.107695,61.602119],
+  "geometry": {"coordinates":[-149.107695,61.602119],"type":"Point"}
+}

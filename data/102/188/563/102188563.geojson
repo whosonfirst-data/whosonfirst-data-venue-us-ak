@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.81846,61.177598,-149.81846,61.177598",
+    "geom:latitude":61.177598,
+    "geom:longitude":-149.81846,
+    "iso:country":"US",
+    "sg:address":"3310 Max Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 6767",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "computer",
+        "electronic",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5l2UDmWsg86Kmii0uoeCRj_61.177598_-149.818460@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fcb1b5c27e0e20f774681bc2eb125278",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102188563"
+        }
+    ],
+    "wof:id":"102188563",
+    "wof:lastmodified":1449068944,
+    "wof:name":"Johnny Johnson",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.81846,61.177598,-149.81846,61.177598],
+  "geometry": {"coordinates":[-149.81846,61.177598],"type":"Point"}
+}

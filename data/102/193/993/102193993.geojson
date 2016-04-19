@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.231113,60.561055,-151.231113,60.561055",
+    "geom:latitude":60.561055,
+    "geom:longitude":-151.231113,
+    "iso:country":"US",
+    "sg:address":"10288 Kenai Spur Hwy",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 3949",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.kenaichrysler.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YcRtvgUvZkcLiTRasRbPm_60.561055_-151.231113@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7b0c9076a92f1c3b56e42462659f15a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102193993"
+        }
+    ],
+    "wof:id":"102193993",
+    "wof:lastmodified":1449068192,
+    "wof:name":"Kenai Chrysler Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.231113,60.561055,-151.231113,60.561055],
+  "geometry": {"coordinates":[-151.231113,60.561055],"type":"Point"}
+}

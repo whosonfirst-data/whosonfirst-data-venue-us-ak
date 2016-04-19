@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.552877,59.647638,-151.552877,59.647638",
+    "geom:latitude":59.647638,
+    "geom:longitude":-151.552877,
+    "iso:country":"US",
+    "sg:address":"343 Soundview Ave",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 9793",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "nutritionist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bwRtXo9leILkrvYLr8fpZ_59.647638_-151.552877@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8155eb4ecfc611a544a815b6a82fa19f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102168967"
+        }
+    ],
+    "wof:id":"102168967",
+    "wof:lastmodified":1449069008,
+    "wof:name":"Wellness Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.552877,59.647638,-151.552877,59.647638],
+  "geometry": {"coordinates":[-151.552877,59.647638],"type":"Point"}
+}

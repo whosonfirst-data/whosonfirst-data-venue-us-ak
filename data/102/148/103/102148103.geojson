@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.507297,58.356217,-134.507297,58.356217",
+    "geom:latitude":58.356217,
+    "geom:longitude":-134.507297,
+    "iso:country":"US",
+    "sg:address":"6225 Alaway Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 780 6161",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WYGXPX87x5eTPDUV7w8SJ_58.356217_-134.507297@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dc4a5a84ee29106e409d916a3e002fa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102148103"
+        }
+    ],
+    "wof:id":"102148103",
+    "wof:lastmodified":1449069783,
+    "wof:name":"Duran Construction Co",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.507297,58.356217,-134.507297,58.356217],
+  "geometry": {"coordinates":[-134.507297,58.356217],"type":"Point"}
+}

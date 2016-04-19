@@ -1,0 +1,69 @@
+{
+  "id": "102193867",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.773837,61.209648,-149.773837,61.209648",
+    "geom:latitude":61.209648,
+    "geom:longitude":-149.773837,
+    "iso:country":"US",
+    "sg:address":"5600 Debarr Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 929 7848",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85915707,
+        102085881,
+        85869053
+    ],
+    "wof:brand_id":420573815,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KUUNuiUHq0xO3KFXupuwO_61.209648_-149.773837@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3fa36855a6d69965e68ecd2cf560a462",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869053,
+            "region_id":85688573,
+            "venue_id":"102193867"
+        }
+    ],
+    "wof:id":"102193867",
+    "wof:lastmodified":1457207516,
+    "wof:name":"Rent-A-Center",
+    "wof:parent_id":85869053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.773837,
+    61.209648,
+    -149.773837,
+    61.209648
+],
+  "geometry": {"coordinates":[-149.77383699999999,61.209648],"type":"Point"}
+}

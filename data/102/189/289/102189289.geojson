@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.488377,58.356651,-134.488377,58.356651",
+    "geom:latitude":58.356651,
+    "geom:longitude":-134.488377,
+    "iso:country":"US",
+    "sg:address":"5452 Shaune Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Wine & Distilled Alcoholic Beverages",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 780 4798",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "liquor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LbXeSWsumBua2pZGaktcT_58.356651_-134.488377@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b36997187605bb4a284972591ead2e50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102189289"
+        }
+    ],
+    "wof:id":"102189289",
+    "wof:lastmodified":1449069499,
+    "wof:name":"Odom Co",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.488377,58.356651,-134.488377,58.356651],
+  "geometry": {"coordinates":[-134.488377,58.356651],"type":"Point"}
+}

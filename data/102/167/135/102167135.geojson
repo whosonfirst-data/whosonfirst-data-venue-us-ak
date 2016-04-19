@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.8369,61.12206,-149.8369,61.12206",
+    "geom:latitude":61.12206,
+    "geom:longitude":-149.8369,
+    "iso:country":"US",
+    "sg:address":"10900 Forest Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 929 4999",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "programming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71m7zXbkSXjAzEsLO7qyKi_61.122060_-149.836900@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3611012bcad1b80dfa334aa6cb1c52b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102167135"
+        }
+    ],
+    "wof:id":"102167135",
+    "wof:lastmodified":1449069002,
+    "wof:name":"Jacob's Chaos",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.8369,61.12206,-149.8369,61.12206],
+  "geometry": {"coordinates":[-149.8369,61.12206],"type":"Point"}
+}

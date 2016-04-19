@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.302796,61.904501,-147.302796,61.904501",
+    "geom:latitude":61.904501,
+    "geom:longitude":-147.302796,
+    "iso:country":"US",
+    "sg:address":"1 Glenn Hwy",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 8334",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916167,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tySqjI0Wl5uIzmGdlZmMs_61.904501_-147.302796@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c42f2387daa813143a1dfb66fd01279a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916167,
+            "region_id":85688573,
+            "venue_id":"102178135"
+        }
+    ],
+    "wof:id":"102178135",
+    "wof:lastmodified":1449069531,
+    "wof:name":"Turner Construction Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.302796,61.904501,-147.302796,61.904501],
+  "geometry": {"coordinates":[-147.302796,61.904501],"type":"Point"}
+}

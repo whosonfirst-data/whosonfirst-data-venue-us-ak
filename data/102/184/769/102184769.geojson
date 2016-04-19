@@ -1,0 +1,70 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.595249,58.362248,-134.595249,58.362248",
+    "geom:latitude":58.362248,
+    "geom:longitude":-134.595249,
+    "iso:country":"US",
+    "sg:address":"2114 Radcliffe Rd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 7274",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "water",
+        "storage",
+        "well",
+        "drilling",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915729,
+        85633793,
+        85688573,
+        102081399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25wJVXoyIUZ2yEAjg4zKMQ_58.362248_-134.595249@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dc81747c5e7e0efd16f15d1b3d992a6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "region_id":85688573,
+            "venue_id":"102184769"
+        }
+    ],
+    "wof:id":"102184769",
+    "wof:lastmodified":1449068216,
+    "wof:name":"F & R Mini Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.595249,58.362248,-134.595249,58.362248],
+  "geometry": {"coordinates":[-134.595249,58.362248],"type":"Point"}
+}

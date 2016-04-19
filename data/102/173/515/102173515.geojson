@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.870367,61.197778,-149.870367,61.197778",
+    "geom:latitude":61.197778,
+    "geom:longitude":-149.870367,
+    "iso:country":"US",
+    "sg:address":"602 E Fireweed Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 2565",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PNWE7SBg28G1wYfCn9vhz_61.197778_-149.870367@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6c6c8169f30a95efa2c20fb0f9c97099",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102173515"
+        }
+    ],
+    "wof:id":"102173515",
+    "wof:lastmodified":1449068264,
+    "wof:name":"Steve's Spenard Sports Pub",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.870367,61.197778,-149.870367,61.197778],
+  "geometry": {"coordinates":[-149.870367,61.197778],"type":"Point"}
+}

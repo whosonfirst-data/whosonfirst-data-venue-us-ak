@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.834145,61.206027,-149.834145,61.206027",
+    "geom:latitude":61.206027,
+    "geom:longitude":-149.834145,
+    "iso:country":"US",
+    "sg:address":"2410 E 16th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 3353",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "consultant",
+        "designer"
+    ],
+    "sg:website":"www.alaskascenes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PgZLiOizbwv9v2F6PnUjz_61.206027_-149.834145@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b5e2cc25c0b28e3fcdcf04738f78ba69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102182923"
+        }
+    ],
+    "wof:id":"102182923",
+    "wof:lastmodified":1449069281,
+    "wof:name":"Online Designs",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.834145,61.206027,-149.834145,61.206027],
+  "geometry": {"coordinates":[-149.834145,61.206027],"type":"Point"}
+}

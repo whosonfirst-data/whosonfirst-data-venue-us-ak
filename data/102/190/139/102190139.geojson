@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.956573,61.141659,-149.956573,61.141659",
+    "geom:latitude":61.141659,
+    "geom:longitude":-149.956573,
+    "iso:country":"US",
+    "sg:address":"8740 Beachwood Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 9752",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "snow",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1inV5ikI3B0wyJC3zNrpXM_61.141659_-149.956573@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a192f237809638db7d08be2173e40e1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102190139"
+        }
+    ],
+    "wof:id":"102190139",
+    "wof:lastmodified":1449070035,
+    "wof:name":"M D Svc",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.956573,61.141659,-149.956573,61.141659],
+  "geometry": {"coordinates":[-149.956573,61.141659],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.487013,58.35665,-134.487013,58.35665",
+    "geom:latitude":58.35665,
+    "geom:longitude":-134.487013,
+    "iso:country":"US",
+    "sg:address":"5422 Shaune Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 3200",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pxzg7CgbZxWDfIwwvwdBK_58.356650_-134.487013@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fecb1ef07f016d7bd17027b999774def",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102171633"
+        }
+    ],
+    "wof:id":"102171633",
+    "wof:lastmodified":1449070227,
+    "wof:name":"J & J-Jet Steam",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.487013,58.35665,-134.487013,58.35665],
+  "geometry": {"coordinates":[-134.487013,58.35665],"type":"Point"}
+}

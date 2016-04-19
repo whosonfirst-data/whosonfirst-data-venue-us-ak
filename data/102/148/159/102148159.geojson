@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.722486,64.817157,-147.722486,64.817157",
+    "geom:latitude":64.817157,
+    "geom:longitude":-147.722486,
+    "iso:country":"US",
+    "sg:address":"701 Bidwill Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 787 8777",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "pipe",
+        "line",
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BNt8O5pfg4iDcd9I0Ra8G_64.817157_-147.722486@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0f1ffeadb880fee76ea013cabf1d1b17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102148159"
+        }
+    ],
+    "wof:id":"102148159",
+    "wof:lastmodified":1449069784,
+    "wof:name":"Alyeska Pipeline Svc Co",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.722486,64.817157,-147.722486,64.817157],
+  "geometry": {"coordinates":[-147.722486,64.817157],"type":"Point"}
+}

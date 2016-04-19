@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.834284,61.158733,-149.834284,61.158733",
+    "geom:latitude":61.158733,
+    "geom:longitude":-149.834284,
+    "iso:country":"US",
+    "sg:address":"6828 Lake Otis Pkwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 1277",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2N94LdS5ZNcpVZR97QHAxN_61.158733_-149.834284@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1553d73086d7a5da379f661627203062",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102183663"
+        }
+    ],
+    "wof:id":"102183663",
+    "wof:lastmodified":1449069043,
+    "wof:name":"Holiday Station Stores",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.834284,61.158733,-149.834284,61.158733],
+  "geometry": {"coordinates":[-149.834284,61.158733],"type":"Point"}
+}

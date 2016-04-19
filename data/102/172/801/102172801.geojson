@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.31443,59.455661,-135.31443,59.455661",
+    "geom:latitude":59.455661,
+    "geom:longitude":-135.31443,
+    "iso:country":"US",
+    "sg:address":"684 Broadway",
+    "sg:city":"Skagway",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 983 3033",
+    "sg:postcode":"99840",
+    "sg:province":"AK",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85917083,
+        85633793,
+        85688573,
+        102081007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6REHTt9yKV6VPpaCM9LUOf_59.455661_-135.314430@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"059b5ca4349cc0292dbfabc310f15225",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081007,
+            "locality_id":85917083,
+            "region_id":85688573,
+            "venue_id":"102172801"
+        }
+    ],
+    "wof:id":"102172801",
+    "wof:lastmodified":1449068736,
+    "wof:name":"Legacy Jewelers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.31443,59.455661,-135.31443,59.455661],
+  "geometry": {"coordinates":[-135.31443,59.455661],"type":"Point"}
+}

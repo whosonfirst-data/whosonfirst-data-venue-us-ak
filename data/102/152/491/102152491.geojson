@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.350709,64.750643,-147.350709,64.750643",
+    "geom:latitude":64.750643,
+    "geom:longitude":-147.350709,
+    "iso:country":"US",
+    "sg:address":"101 E 5th Ave",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 4663",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915639,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OA5HqGsMcbw4QGtnkt3ay_64.750643_-147.350709@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"459b7c7b9758b101986cb1c7d36f1d5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915639,
+            "region_id":85688573,
+            "venue_id":"102152491"
+        }
+    ],
+    "wof:id":"102152491",
+    "wof:lastmodified":1449069633,
+    "wof:name":"Santa's Senior Citizens",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.350709,64.750643,-147.350709,64.750643],
+  "geometry": {"coordinates":[-147.350709,64.750643],"type":"Point"}
+}

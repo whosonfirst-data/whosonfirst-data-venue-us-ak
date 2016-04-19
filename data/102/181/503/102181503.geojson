@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.847458,61.185836,-149.847458,61.185836",
+    "geom:latitude":61.185836,
+    "geom:longitude":-149.847458,
+    "iso:country":"US",
+    "sg:address":"1800 Stratford Ct",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 4616",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bWn3SJhnwdSJSzWtU7imD_61.185836_-149.847458@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e84dd11a37881bc33a0001a5f94fd9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102181503"
+        }
+    ],
+    "wof:id":"102181503",
+    "wof:lastmodified":1449069237,
+    "wof:name":"Acme Transfer Svc Of Alaska",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.847458,61.185836,-149.847458,61.185836],
+  "geometry": {"coordinates":[-149.847458,61.185836],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.76859,64.853812,-147.76859,64.853812",
+    "geom:latitude":64.853812,
+    "geom:longitude":-147.76859,
+    "iso:country":"US",
+    "sg:address":"934 Elizabeth St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 1863",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869043,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aTJCdUwOCYQiu4fsRrOwU_64.853812_-147.768590@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"543ca37d56b2634a3f4249c218d02ac6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85869043,
+            "region_id":85688573,
+            "venue_id":"102178527"
+        }
+    ],
+    "wof:id":"102178527",
+    "wof:lastmodified":1449069531,
+    "wof:name":"World Wide Movers Inc",
+    "wof:parent_id":85869043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.76859,64.853812,-147.76859,64.853812],
+  "geometry": {"coordinates":[-147.76859,64.853812],"type":"Point"}
+}

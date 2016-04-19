@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.236718,60.559931,-151.236718,60.559931",
+    "geom:latitude":60.559931,
+    "geom:longitude":-151.236718,
+    "iso:country":"US",
+    "sg:address":"10544 Kenai Spur Hwy",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 6559",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MZjwkFozVIsylBeAXFVdx_60.559931_-151.236718@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f5b8e6c3b9002714fc2e5c27eb7acfeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102179071"
+        }
+    ],
+    "wof:id":"102179071",
+    "wof:lastmodified":1449069942,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.236718,60.559931,-151.236718,60.559931],
+  "geometry": {"coordinates":[-151.236718,60.559931],"type":"Point"}
+}

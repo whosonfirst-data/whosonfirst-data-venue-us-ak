@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.812732,64.847949,-147.812732,64.847949",
+    "geom:latitude":64.847949,
+    "geom:longitude":-147.812732,
+    "iso:country":"US",
+    "sg:address":"734 University Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 458 8020",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Mm3JliOLLAnDRM958j5BD_64.847949_-147.812732@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"829382fcacfc6db0ae36cb1c915b1de2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102166669"
+        }
+    ],
+    "wof:id":"102166669",
+    "wof:lastmodified":1449069083,
+    "wof:name":"Oasis Restaurant & Lounge",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.812732,64.847949,-147.812732,64.847949],
+  "geometry": {"coordinates":[-147.812732,64.847949],"type":"Point"}
+}

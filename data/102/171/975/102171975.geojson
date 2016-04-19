@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.148632,61.602523,-149.148632,61.602523",
+    "geom:latitude":61.602523,
+    "geom:longitude":-149.148632,
+    "iso:country":"US",
+    "sg:address":"2050 Hemmer Rd",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 6019",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_592kxxShEFyH57yHfAHsfL_61.602523_-149.148632@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5fab31c73b57978a0d720b7f17a5b8f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "region_id":85688573,
+            "venue_id":"102171975"
+        }
+    ],
+    "wof:id":"102171975",
+    "wof:lastmodified":1449070224,
+    "wof:name":"Daybreak Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.148632,61.602523,-149.148632,61.602523],
+  "geometry": {"coordinates":[-149.148632,61.602523],"type":"Point"}
+}

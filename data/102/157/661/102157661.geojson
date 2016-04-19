@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.855518,61.230388,-149.855518,61.230388",
+    "geom:latitude":61.230388,
+    "geom:longitude":-149.855518,
+    "iso:country":"US",
+    "sg:address":"905 Richardson Vista Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 360 0676",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "instruction",
+        "skiing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873711,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WWEzrIABY5nH86nQ6jsuI_61.230388_-149.855518@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8e4bb3979e3eb813f946034cde0e1393",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873711,
+            "region_id":85688573,
+            "venue_id":"102157661"
+        }
+    ],
+    "wof:id":"102157661",
+    "wof:lastmodified":1449069833,
+    "wof:name":"Absolute Edge",
+    "wof:parent_id":85873711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.855518,61.230388,-149.855518,61.230388],
+  "geometry": {"coordinates":[-149.855518,61.230388],"type":"Point"}
+}

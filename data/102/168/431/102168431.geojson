@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.569051,58.359184,-134.569051,58.359184",
+    "geom:latitude":58.359184,
+    "geom:longitude":-134.569051,
+    "iso:country":"US",
+    "sg:address":"8415 Airport Blvd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 780 4404",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "work",
+        "electrical"
+    ],
+    "sg:website":"www.alcanelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915729,
+        85633793,
+        85688573,
+        102081399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02ZVCvtv6M0bPMQJKRpV61_58.359184_-134.569051@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ee57531a12e5a8db75278b574c3a577",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "region_id":85688573,
+            "venue_id":"102168431"
+        }
+    ],
+    "wof:id":"102168431",
+    "wof:lastmodified":1449069006,
+    "wof:name":"Alcan Electrical & Engineering",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.569051,58.359184,-134.569051,58.359184],
+  "geometry": {"coordinates":[-134.569051,58.359184],"type":"Point"}
+}

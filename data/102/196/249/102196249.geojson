@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.440599,60.110402,-149.440599,60.110402",
+    "geom:latitude":60.110402,
+    "geom:longitude":-149.440599,
+    "iso:country":"US",
+    "sg:address":"804 4th Ave",
+    "sg:city":"Seward",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 224 3400",
+    "sg:postcode":"99664",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915769,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Rm9zmU5tz5IfJmEN8yWQs_60.110402_-149.440599@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5a4315c3fb631b7404d585d8fdb74c19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915769,
+            "region_id":85688573,
+            "venue_id":"102196249"
+        }
+    ],
+    "wof:id":"102196249",
+    "wof:lastmodified":1449068336,
+    "wof:name":"Resurrection Rental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.440599,60.110402,-149.440599,60.110402],
+  "geometry": {"coordinates":[-149.440599,60.110402],"type":"Point"}
+}

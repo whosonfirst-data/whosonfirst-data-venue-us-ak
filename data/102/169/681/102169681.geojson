@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.892769,61.215523,-149.892769,61.215523",
+    "geom:latitude":61.215523,
+    "geom:longitude":-149.892769,
+    "iso:country":"US",
+    "sg:address":"550 W 7th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 7469",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "attorney"
+    ],
+    "sg:website":"www.alaskabar.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FUPoHZ1Dbo6tqrQMbk775_61.215523_-149.892769@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5fb9b6dc1524ec3ddb8745f049fc4a96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102169681"
+        }
+    ],
+    "wof:id":"102169681",
+    "wof:lastmodified":1449069246,
+    "wof:name":"Alaska Bar Assn",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.892769,61.215523,-149.892769,61.215523],
+  "geometry": {"coordinates":[-149.892769,61.215523],"type":"Point"}
+}

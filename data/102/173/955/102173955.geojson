@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.810793,64.853507,-147.810793,64.853507",
+    "geom:latitude":64.853507,
+    "geom:longitude":-147.810793,
+    "iso:country":"US",
+    "sg:address":"3701 Cameron St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 0068",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LFFhpvEBz1npfIHT8AMbx_64.853507_-147.810793@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cdc92d10427f16d42fd59f09b0ec3c7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102173955"
+        }
+    ],
+    "wof:id":"102173955",
+    "wof:lastmodified":1449068265,
+    "wof:name":"University Avenue Truck & Car",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.810793,64.853507,-147.810793,64.853507],
+  "geometry": {"coordinates":[-147.810793,64.853507],"type":"Point"}
+}

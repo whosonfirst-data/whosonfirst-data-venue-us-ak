@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.729238,64.859416,-147.729238,64.859416",
+    "geom:latitude":64.859416,
+    "geom:longitude":-147.729238,
+    "iso:country":"US",
+    "sg:address":"912 College Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 4466",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "archery",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830247,
+        85633793,
+        85916559,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bs4543yuH5wa4oASgH7T4_64.859416_-147.729238@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fe36ccaf18aea2b6cce298a9ba5ecb72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "neighbourhood_id":85830247,
+            "region_id":85688573,
+            "venue_id":"102157201"
+        }
+    ],
+    "wof:id":"102157201",
+    "wof:lastmodified":1449069831,
+    "wof:name":"Fox Sports Den",
+    "wof:parent_id":85830247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.729238,64.859416,-147.729238,64.859416],
+  "geometry": {"coordinates":[-147.729238,64.859416],"type":"Point"}
+}

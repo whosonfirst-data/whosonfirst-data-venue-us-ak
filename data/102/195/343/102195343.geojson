@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.41781,58.304885,-134.41781,58.304885",
+    "geom:latitude":58.304885,
+    "geom:longitude":-134.41781,
+    "iso:country":"US",
+    "sg:address":"245 Irwin St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 463 3372",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "charter",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VIvpa7hsCxiTkEraa2zek_58.304885_-134.417810@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c5a31e9b4d2024716f6ca57f65b72405",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102195343"
+        }
+    ],
+    "wof:id":"102195343",
+    "wof:lastmodified":1449069363,
+    "wof:name":"Women Sail Alaska",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.41781,58.304885,-134.41781,58.304885],
+  "geometry": {"coordinates":[-134.41781,58.304885],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.883064,61.195359,-149.883064,61.195359",
+    "geom:latitude":61.195359,
+    "geom:longitude":-149.883064,
+    "iso:country":"US",
+    "sg:address":"2609 A St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 1431",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nzyxqJthT2inFH8xYgX5T_61.195359_-149.883064@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8bc55182b1a9cf391aee827d2c4fa5e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102191381"
+        }
+    ],
+    "wof:id":"102191381",
+    "wof:lastmodified":1449069201,
+    "wof:name":"Electric Inc",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.883064,61.195359,-149.883064,61.195359],
+  "geometry": {"coordinates":[-149.883064,61.195359],"type":"Point"}
+}

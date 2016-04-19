@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.523424,64.976156,-147.523424,64.976156",
+    "geom:latitude":64.976156,
+    "geom:longitude":-147.523424,
+    "iso:country":"US",
+    "sg:address":"1300 Eisele Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 1200",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "federal",
+        "program",
+        "adm"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q6CbL2CWL5L7eE1PDwoax_64.976156_-147.523424@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a42db55ba6477629279a25c6784cc4b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "region_id":85688573,
+            "venue_id":"102152967"
+        }
+    ],
+    "wof:id":"102152967",
+    "wof:lastmodified":1449069637,
+    "wof:name":"US Commerce Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.523424,64.976156,-147.523424,64.976156],
+  "geometry": {"coordinates":[-147.523424,64.976156],"type":"Point"}
+}

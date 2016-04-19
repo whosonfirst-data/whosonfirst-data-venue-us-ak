@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.852289,61.172968,-149.852289,61.172968",
+    "geom:latitude":61.172968,
+    "geom:longitude":-149.852289,
+    "iso:country":"US",
+    "sg:address":"5351 Larkspur St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 2604",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "out"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DO5hRY4aDqrcSTL2tr8Fv_61.172968_-149.852289@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8d021504237c5e06b9fa0f2efad42de4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102153323"
+        }
+    ],
+    "wof:id":"102153323",
+    "wof:lastmodified":1449069461,
+    "wof:name":"Tia's Gourmet Sausage",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.852289,61.172968,-149.852289,61.172968],
+  "geometry": {"coordinates":[-149.852289,61.172968],"type":"Point"}
+}

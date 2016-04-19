@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.704993,64.848236,-147.704993,64.848236",
+    "geom:latitude":64.848236,
+    "geom:longitude":-147.704993,
+    "iso:country":"US",
+    "sg:address":"201 Old Steese Hwy",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 4247",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1trG73GCDzG3vn7yr96Wsv_64.848236_-147.704993@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a3a6a25e5cc253bf7e512bf2b8d0ebc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102168595"
+        }
+    ],
+    "wof:id":"102168595",
+    "wof:lastmodified":1449069008,
+    "wof:name":"Illusions Styling Salon",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.704993,64.848236,-147.704993,64.848236],
+  "geometry": {"coordinates":[-147.704993,64.848236],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.789202,61.08694,-149.789202,61.08694",
+    "geom:latitude":61.08694,
+    "geom:longitude":-149.789202,
+    "iso:country":"US",
+    "sg:address":"5151 Woodhaven Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 6023",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873751,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OecLk61XuBTHngIlUKIQ6_61.086940_-149.789202@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd14dee96bc364e2c0186278f718d25e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873751,
+            "region_id":85688573,
+            "venue_id":"102176657"
+        }
+    ],
+    "wof:id":"102176657",
+    "wof:lastmodified":1449069342,
+    "wof:name":"Mountain Ash Landscaping",
+    "wof:parent_id":85873751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.789202,61.08694,-149.789202,61.08694],
+  "geometry": {"coordinates":[-149.789202,61.08694],"type":"Point"}
+}

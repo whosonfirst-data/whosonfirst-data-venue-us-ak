@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.834868,61.228651,-149.834868,61.228651",
+    "geom:latitude":61.228651,
+    "geom:longitude":-149.834868,
+    "iso:country":"US",
+    "sg:address":"2400 Railroad Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 8785",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820221,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iA4HR9i2dY9lOLiLSFs3R_61.228651_-149.834868@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"632e1177ddde4cd8188a48ba81b4f280",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85820221,
+            "region_id":85688573,
+            "venue_id":"102194005"
+        }
+    ],
+    "wof:id":"102194005",
+    "wof:lastmodified":1449069829,
+    "wof:name":"Bob Benson Trucking",
+    "wof:parent_id":85820221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.834868,61.228651,-149.834868,61.228651],
+  "geometry": {"coordinates":[-149.834868,61.228651],"type":"Point"}
+}

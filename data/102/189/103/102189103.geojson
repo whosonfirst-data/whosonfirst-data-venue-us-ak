@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.759518,61.214736,-149.759518,61.214736",
+    "geom:latitude":61.214736,
+    "geom:longitude":-149.759518,
+    "iso:country":"US",
+    "sg:address":"6610 E 8th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 336 2327",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cr0czHunmKKfFH9CefAXF_61.214736_-149.759518@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3c4cf274dd523b457e9abe4c46c6f3f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102189103"
+        }
+    ],
+    "wof:id":"102189103",
+    "wof:lastmodified":1449069498,
+    "wof:name":"Bear Plumbing & Heating",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.759518,61.214736,-149.759518,61.214736],
+  "geometry": {"coordinates":[-149.759518,61.214736],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.462972,64.831223,-147.462972,64.831223",
+    "geom:latitude":64.831223,
+    "geom:longitude":-147.462972,
+    "iso:country":"US",
+    "sg:address":"1796 Loose Moose Loop",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 2456",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916555,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VWF3oClbxYx87GY1uETzw_64.831223_-147.462972@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ba7434a352df453cc26b4d8c82d0586",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916555,
+            "region_id":85688573,
+            "venue_id":"102155987"
+        }
+    ],
+    "wof:id":"102155987",
+    "wof:lastmodified":1449069744,
+    "wof:name":"Ron's Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.462972,64.831223,-147.462972,64.831223],
+  "geometry": {"coordinates":[-147.462972,64.831223],"type":"Point"}
+}

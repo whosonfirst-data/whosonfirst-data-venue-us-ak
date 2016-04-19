@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.95761,61.15785,-149.95761,61.15785",
+    "geom:latitude":61.15785,
+    "geom:longitude":-149.95761,
+    "iso:country":"US",
+    "sg:address":"6812 Cutty Sark St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 6753",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "truck",
+        "refrigeration",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Tttmspxr6HudLEb887RRT_61.157850_-149.957610@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fff0ead3c7de835e71264d71e78903cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102178297"
+        }
+    ],
+    "wof:id":"102178297",
+    "wof:lastmodified":1449069531,
+    "wof:name":"North Pacific Freight Lines",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.95761,61.15785,-149.95761,61.15785],
+  "geometry": {"coordinates":[-149.95761,61.15785],"type":"Point"}
+}

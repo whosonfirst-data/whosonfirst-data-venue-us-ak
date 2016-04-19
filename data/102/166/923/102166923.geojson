@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.717316,64.834515,-147.717316,64.834515",
+    "geom:latitude":64.834515,
+    "geom:longitude":-147.717316,
+    "iso:country":"US",
+    "sg:address":"1514 S Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 1530",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XFysgtMPm0q7kNWym28Wt_64.834515_-147.717316@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a5239cf07b31e3c1e0d553cb666123b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102166923"
+        }
+    ],
+    "wof:id":"102166923",
+    "wof:lastmodified":1449069088,
+    "wof:name":"US Cooperative Extension",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.717316,64.834515,-147.717316,64.834515],
+  "geometry": {"coordinates":[-147.717316,64.834515],"type":"Point"}
+}

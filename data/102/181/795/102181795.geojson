@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.341649,57.051547,-135.341649,57.051547",
+    "geom:latitude":57.051547,
+    "geom:longitude":-135.341649,
+    "iso:country":"US",
+    "sg:address":"208 Katlian St",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 8667",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0c8OzravpGQvLO1NYGydmP_57.051547_-135.341649@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"923bef84f2408e0b3179b700db22cced",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102181795"
+        }
+    ],
+    "wof:id":"102181795",
+    "wof:lastmodified":1449069234,
+    "wof:name":"Taranoff's Sitkakwan Gifts",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.341649,57.051547,-135.341649,57.051547],
+  "geometry": {"coordinates":[-135.341649,57.051547],"type":"Point"}
+}

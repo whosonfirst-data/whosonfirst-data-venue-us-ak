@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.906287,61.19968,-149.906287,61.19968",
+    "geom:latitude":61.19968,
+    "geom:longitude":-149.906287,
+    "iso:country":"US",
+    "sg:address":"2609 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 332 2274",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Uh2qISYB1FoiN6fAGl2RC_61.199680_-149.906287@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d0f85e66ba4a087db246a8e7555de50f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102155839"
+        }
+    ],
+    "wof:id":"102155839",
+    "wof:lastmodified":1449069744,
+    "wof:name":"Cash City",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.906287,61.19968,-149.906287,61.19968],
+  "geometry": {"coordinates":[-149.906287,61.19968],"type":"Point"}
+}

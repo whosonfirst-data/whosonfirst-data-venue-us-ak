@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.705016,64.850556,-147.705016,64.850556",
+    "geom:latitude":64.850556,
+    "geom:longitude":-147.705016,
+    "iso:country":"US",
+    "sg:address":"29 College Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 3232",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "carpet",
+        "cleaning",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aufcmDkiCmlCuXl42OYc0_64.850556_-147.705016@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3ae39fbc96690d2b628bd98279b69f80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102157041"
+        }
+    ],
+    "wof:id":"102157041",
+    "wof:lastmodified":1449069832,
+    "wof:name":"Thermax Clean Care Ctr",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.705016,64.850556,-147.705016,64.850556],
+  "geometry": {"coordinates":[-147.705016,64.850556],"type":"Point"}
+}

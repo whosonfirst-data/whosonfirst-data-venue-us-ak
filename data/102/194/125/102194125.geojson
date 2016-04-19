@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.693707,64.844704,-147.693707,64.844704",
+    "geom:latitude":64.844704,
+    "geom:longitude":-147.693707,
+    "iso:country":"US",
+    "sg:address":"600 3rd St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 2100",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dZ9vFkNW3LYBu3qwfuPuu_64.844704_-147.693707@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8f460169514a83a8a24469fc41aea5a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102194125"
+        }
+    ],
+    "wof:id":"102194125",
+    "wof:lastmodified":1449069830,
+    "wof:name":"Gold Rush",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.693707,64.844704,-147.693707,64.844704],
+  "geometry": {"coordinates":[-147.693707,64.844704],"type":"Point"}
+}

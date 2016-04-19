@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.80614,61.204752,-149.80614,61.204752",
+    "geom:latitude":61.204752,
+    "geom:longitude":-149.80614,
+    "iso:country":"US",
+    "sg:address":"3935 Reka Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 1275",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aDV14oqUqgpa5O3Yd8Lke_61.204752_-149.806140@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fa1857724c2e3ad44b4356666385149c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102160267"
+        }
+    ],
+    "wof:id":"102160267",
+    "wof:lastmodified":1449069777,
+    "wof:name":"Denali Home Health",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.80614,61.204752,-149.80614,61.204752],
+  "geometry": {"coordinates":[-149.80614,61.204752],"type":"Point"}
+}

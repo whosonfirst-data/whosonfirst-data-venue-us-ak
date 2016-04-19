@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.809909,61.224225,-149.809909,61.224225",
+    "geom:latitude":61.224225,
+    "geom:longitude":-149.809909,
+    "iso:country":"US",
+    "sg:address":"3825 Mountain View Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 0533",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4or2IkaosP5ZXGaP9m7j3X_61.224225_-149.809909@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c5ad56e6158bc0719261d9806ef10ef5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102161139"
+        }
+    ],
+    "wof:id":"102161139",
+    "wof:lastmodified":1449068708,
+    "wof:name":"Brewster's Clothing & Footwear",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.809909,61.224225,-149.809909,61.224225],
+  "geometry": {"coordinates":[-149.809909,61.224225],"type":"Point"}
+}

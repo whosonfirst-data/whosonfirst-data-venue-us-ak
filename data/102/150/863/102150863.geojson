@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.398698,58.279532,-134.398698,58.279532",
+    "geom:latitude":58.279532,
+    "geom:longitude":-134.398698,
+    "iso:country":"US",
+    "sg:address":"1514 2nd St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 364 5254",
+    "sg:postcode":"99824",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915729,
+        85633793,
+        85688573,
+        102081399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yE2HwBoNfDiOXD1x5rcfl_58.279532_-134.398698@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3fdca14477e5212e20398244a1cb8310",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "region_id":85688573,
+            "venue_id":"102150863"
+        }
+    ],
+    "wof:id":"102150863",
+    "wof:lastmodified":1449067791,
+    "wof:name":"Alaska Fjord View",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.398698,58.279532,-134.398698,58.279532],
+  "geometry": {"coordinates":[-134.398698,58.279532],"type":"Point"}
+}

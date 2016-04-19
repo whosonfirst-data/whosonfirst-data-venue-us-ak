@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.414446,58.300177,-134.414446,58.300177",
+    "geom:latitude":58.300177,
+    "geom:longitude":-134.414446,
+    "iso:country":"US",
+    "sg:address":"395 Whittier St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 465 2901",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:website":"www.museums.state.ak.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7H0mIQYZHNSECr6Q7D1xPD_58.300177_-134.414446@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fa3680202c0219eb3c980d21f37791dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102148357"
+        }
+    ],
+    "wof:id":"102148357",
+    "wof:lastmodified":1449069787,
+    "wof:name":"State Museum",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.414446,58.300177,-134.414446,58.300177],
+  "geometry": {"coordinates":[-134.414446,58.300177],"type":"Point"}
+}

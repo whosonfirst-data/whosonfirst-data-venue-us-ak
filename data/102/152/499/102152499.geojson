@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.802526,61.14242,-149.802526,61.14242",
+    "geom:latitude":61.14242,
+    "geom:longitude":-149.802526,
+    "iso:country":"US",
+    "sg:address":"8500 Solar Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 346 1997",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873745,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YGLio0SnAQM8pv28oPRbP_61.142420_-149.802526@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9c48aa68323060c2fcb527fdeae6a742",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873745,
+            "region_id":85688573,
+            "venue_id":"102152499"
+        }
+    ],
+    "wof:id":"102152499",
+    "wof:lastmodified":1449069633,
+    "wof:name":"Chugach Painting & Pape",
+    "wof:parent_id":85873745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.802526,61.14242,-149.802526,61.14242],
+  "geometry": {"coordinates":[-149.802526,61.14242],"type":"Point"}
+}

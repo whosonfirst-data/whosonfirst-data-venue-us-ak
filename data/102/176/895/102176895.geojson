@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.845429,61.14549,-149.845429,61.14549",
+    "geom:latitude":61.14549,
+    "geom:longitude":-149.845429,
+    "iso:country":"US",
+    "sg:address":"8150 Petersburg St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 2300",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cargo",
+        "container",
+        "freight"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28Xtl6R7AW0ZZtTGHOfDiW_61.145490_-149.845429@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"996253678bfe43267ca0b5e7b45b30ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102176895"
+        }
+    ],
+    "wof:id":"102176895",
+    "wof:lastmodified":1449069346,
+    "wof:name":"Container Specialties-Alaska",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.845429,61.14549,-149.845429,61.14549],
+  "geometry": {"coordinates":[-149.845429,61.14549],"type":"Point"}
+}

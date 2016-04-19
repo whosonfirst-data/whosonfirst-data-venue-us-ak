@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.579652,58.362952,-134.579652,58.362952",
+    "geom:latitude":58.362952,
+    "geom:longitude":-134.579652,
+    "iso:country":"US",
+    "sg:address":"2055 Jordan Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 9251",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TWbhvycrS8y1TmFSn3qP2_58.362952_-134.579652@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5604f18b902eebb69f3951fd4c322b97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102173135"
+        }
+    ],
+    "wof:id":"102173135",
+    "wof:lastmodified":1449068265,
+    "wof:name":"Northern Hot Spots",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.579652,58.362952,-134.579652,58.362952],
+  "geometry": {"coordinates":[-134.579652,58.362952],"type":"Point"}
+}

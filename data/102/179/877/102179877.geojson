@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.815396,64.845143,-147.815396,64.845143",
+    "geom:latitude":64.845143,
+    "geom:longitude":-147.815396,
+    "iso:country":"US",
+    "sg:address":"550 Long Spur Loop",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 0083",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cosmetic",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IrsPtWkVjPSP00rLYqMcw_64.845143_-147.815396@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6923da717f5c5dbe6822853194037ba2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102179877"
+        }
+    ],
+    "wof:id":"102179877",
+    "wof:lastmodified":1449069942,
+    "wof:name":"Mary Kay Cosmetics",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.815396,64.845143,-147.815396,64.845143],
+  "geometry": {"coordinates":[-147.815396,64.845143],"type":"Point"}
+}

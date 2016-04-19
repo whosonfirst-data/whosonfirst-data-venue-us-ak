@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.712463,64.824098,-147.712463,64.824098",
+    "geom:latitude":64.824098,
+    "geom:longitude":-147.712463,
+    "iso:country":"US",
+    "sg:address":"2525 S Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 5707",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.affordableusedcars.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24LloF6bUtPD7GF21pWWXh_64.824098_-147.712463@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b80f4a3c827df80c56a02439db9d7be9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102157267"
+        }
+    ],
+    "wof:id":"102157267",
+    "wof:lastmodified":1449069833,
+    "wof:name":"Affordable Used Cars",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.712463,64.824098,-147.712463,64.824098],
+  "geometry": {"coordinates":[-147.712463,64.824098],"type":"Point"}
+}

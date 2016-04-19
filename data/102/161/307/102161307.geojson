@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.38601,61.61824,-149.38601,61.61824",
+    "geom:latitude":61.61824,
+    "geom:longitude":-149.38601,
+    "iso:country":"US",
+    "sg:address":"3341 Aoki Dr",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 3390",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916261,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1G77vmD4SNJ2Ml5ZyA2u05_61.618240_-149.386010@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e09206211571f539571fc6301dd62fd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916261,
+            "region_id":85688573,
+            "venue_id":"102161307"
+        }
+    ],
+    "wof:id":"102161307",
+    "wof:lastmodified":1449068710,
+    "wof:name":"Anderson Door",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.38601,61.61824,-149.38601,61.61824],
+  "geometry": {"coordinates":[-149.38601,61.61824],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.722206,61.117624,-149.722206,61.117624",
+    "geom:latitude":61.117624,
+    "geom:longitude":-149.722206,
+    "iso:country":"US",
+    "sg:address":"11650 Cobra Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 6846",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "house",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873747,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4H95mA0WPq4d2tzmb9vzWY_61.117624_-149.722206@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3911210a580663f02120ffb77be139c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873747,
+            "region_id":85688573,
+            "venue_id":"102162815"
+        }
+    ],
+    "wof:id":"102162815",
+    "wof:lastmodified":1449069821,
+    "wof:name":"Hans M Schwaiger Cnstr Co",
+    "wof:parent_id":85873747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.722206,61.117624,-149.722206,61.117624],
+  "geometry": {"coordinates":[-149.722206,61.117624],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.900302,59.400144,-135.900302,59.400144",
+    "geom:latitude":59.400144,
+    "geom:longitude":-135.900302,
+    "iso:country":"US",
+    "sg:address":"102 Falconer Ave",
+    "sg:city":"Haines",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 767 5539",
+    "sg:postcode":"99827",
+    "sg:province":"AK",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85917153,
+        85633793,
+        85688573,
+        102081003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aWsLwn0lP04xuuJiV8gkM_59.400144_-135.900302@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4995a6a8580c13032645cebe9479266d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081003,
+            "locality_id":85917153,
+            "region_id":85688573,
+            "venue_id":"102189475"
+        }
+    ],
+    "wof:id":"102189475",
+    "wof:lastmodified":1449069496,
+    "wof:name":"Warren General Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.900302,59.400144,-135.900302,59.400144],
+  "geometry": {"coordinates":[-135.900302,59.400144],"type":"Point"}
+}

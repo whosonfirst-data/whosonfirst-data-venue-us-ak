@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.939615,61.195311,-149.939615,61.195311",
+    "geom:latitude":61.195311,
+    "geom:longitude":-149.939615,
+    "iso:country":"US",
+    "sg:address":"3004 W Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 278 0072",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Cd78PGHuh8dAPfradadSQ_61.195311_-149.939615@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3d1db8293b8b1fbe8957b0ce21206e28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102169039"
+        }
+    ],
+    "wof:id":"102169039",
+    "wof:lastmodified":1449069250,
+    "wof:name":"Nicholas Atkinson",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.939615,61.195311,-149.939615,61.195311],
+  "geometry": {"coordinates":[-149.939615,61.195311],"type":"Point"}
+}

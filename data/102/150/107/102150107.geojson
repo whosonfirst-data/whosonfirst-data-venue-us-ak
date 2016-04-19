@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.940966,61.179862,-149.940966,61.179862",
+    "geom:latitude":61.179862,
+    "geom:longitude":-149.940966,
+    "iso:country":"US",
+    "sg:address":"3009 Lakeshore Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 3485",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:website":"www.lakeshoremotorinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26n0riopsThfPB81Tozc39_61.179862_-149.940966@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2ea38c06f45152c3970370c98d2a10ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102150107"
+        }
+    ],
+    "wof:id":"102150107",
+    "wof:lastmodified":1449067785,
+    "wof:name":"Lakeshore Motor Inn",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.940966,61.179862,-149.940966,61.179862],
+  "geometry": {"coordinates":[-149.940966,61.179862],"type":"Point"}
+}

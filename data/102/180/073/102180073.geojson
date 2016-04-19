@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.820417,61.189751,-149.820417,61.189751",
+    "geom:latitude":61.189751,
+    "geom:longitude":-149.820417,
+    "iso:country":"US",
+    "sg:address":"3300 Providence Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 261 5070",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58QwS91ccXf6ytJEIIXd56_61.189751_-149.820417@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0e13d02487ece3035eace6e276327c89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102180073"
+        }
+    ],
+    "wof:id":"102180073",
+    "wof:lastmodified":1449067873,
+    "wof:name":"Mary Demers DO",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.820417,61.189751,-149.820417,61.189751],
+  "geometry": {"coordinates":[-149.820417,61.189751],"type":"Point"}
+}

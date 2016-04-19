@@ -1,0 +1,67 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.808364,61.214963,-149.808364,61.214963",
+    "geom:latitude":61.214963,
+    "geom:longitude":-149.808364,
+    "iso:country":"US",
+    "sg:address":"700 S Bragaw St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 278 3621",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "club",
+        "health",
+        "studio",
+        "gymnasium"
+    ],
+    "sg:website":"www.mytacnet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HetpNIFLPNdR2VnbbksVG_61.214963_-149.808364@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7570307d427c685a2c87709a01f08948",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102158573"
+        }
+    ],
+    "wof:id":"102158573",
+    "wof:lastmodified":1449069395,
+    "wof:name":"Alaska Club",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.808364,61.214963,-149.808364,61.214963],
+  "geometry": {"coordinates":[-149.808364,61.214963],"type":"Point"}
+}

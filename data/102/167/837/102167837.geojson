@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.714416,64.828414,-147.714416,64.828414",
+    "geom:latitude":64.828414,
+    "geom:longitude":-147.714416,
+    "iso:country":"US",
+    "sg:address":"2100 S Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 1981",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "electric",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AnNzNX1AIwR8xbgr7siNx_64.828414_-147.714416@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2c7344ba0a486ba83c99d90f3c68f995",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102167837"
+        }
+    ],
+    "wof:id":"102167837",
+    "wof:lastmodified":1449069001,
+    "wof:name":"Tesco Lighting & Design Ctr",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.714416,64.828414,-147.714416,64.828414],
+  "geometry": {"coordinates":[-147.714416,64.828414],"type":"Point"}
+}

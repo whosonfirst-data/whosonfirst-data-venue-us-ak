@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.685098,64.869107,-147.685098,64.869107",
+    "geom:latitude":64.869107,
+    "geom:longitude":-147.685098,
+    "iso:country":"US",
+    "sg:address":"438 Fleshman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 2609",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "interstate",
+        "trucking",
+        "stripping",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71EPKeqMpxszz46Jcn4SbL_64.869107_-147.685098@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ae7e24f0065dbd0ccfcefd5e8b55208a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102151911"
+        }
+    ],
+    "wof:id":"102151911",
+    "wof:lastmodified":1449067783,
+    "wof:name":"B & M Mobile Services",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.685098,64.869107,-147.685098,64.869107],
+  "geometry": {"coordinates":[-147.685098,64.869107],"type":"Point"}
+}

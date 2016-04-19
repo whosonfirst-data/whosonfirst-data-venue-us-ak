@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.33065,57.053154,-135.33065,57.053154",
+    "geom:latitude":57.053154,
+    "geom:longitude":-135.33065,
+    "iso:country":"US",
+    "sg:address":"304 Baranof St",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 5088",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HIinBsMHnqnfJiuIc5tZy_57.053154_-135.330650@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a304f92bc7c19a6a9bb78c476390809a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102157739"
+        }
+    ],
+    "wof:id":"102157739",
+    "wof:lastmodified":1449069831,
+    "wof:name":"Baranof Island Housing Auth",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.33065,57.053154,-135.33065,57.053154],
+  "geometry": {"coordinates":[-135.33065,57.053154],"type":"Point"}
+}

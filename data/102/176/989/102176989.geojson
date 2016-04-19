@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.731545,64.809474,-147.731545,64.809474",
+    "geom:latitude":64.809474,
+    "geom:longitude":-147.731545,
+    "iso:country":"US",
+    "sg:address":"1250 Queens Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 4235",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JT5A9TkIKXsIyNL2LOE8V_64.809474_-147.731545@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f44aea15594d74820d1a169b42ebf329",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102176989"
+        }
+    ],
+    "wof:id":"102176989",
+    "wof:lastmodified":1449069346,
+    "wof:name":"Burgess Transportation",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.731545,64.809474,-147.731545,64.809474],
+  "geometry": {"coordinates":[-147.731545,64.809474],"type":"Point"}
+}

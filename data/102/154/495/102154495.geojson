@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.8682,61.179312,-149.8682,61.179312",
+    "geom:latitude":61.179312,
+    "geom:longitude":-149.8682,
+    "iso:country":"US",
+    "sg:address":"4516 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 762 5100",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BZi7LaZaGts2dkiCt1CrZ_61.179312_-149.868200@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4107908b3a812b85c7b5c895382fc244",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102154495"
+        }
+    ],
+    "wof:id":"102154495",
+    "wof:lastmodified":1449070244,
+    "wof:name":"Lithia Hyundai Of Anchorage",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.8682,61.179312,-149.8682,61.179312],
+  "geometry": {"coordinates":[-149.8682,61.179312],"type":"Point"}
+}

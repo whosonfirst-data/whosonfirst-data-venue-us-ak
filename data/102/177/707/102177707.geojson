@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.841533,64.814033,-147.841533,64.814033",
+    "geom:latitude":64.814033,
+    "geom:longitude":-147.841533,
+    "iso:country":"US",
+    "sg:address":"3708 University Ave S",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 0948",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916551,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cBR4ltHhie15TSvLLPydK_64.814033_-147.841533@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7311395823251847604d046428566258",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916551,
+            "region_id":85688573,
+            "venue_id":"102177707"
+        }
+    ],
+    "wof:id":"102177707",
+    "wof:lastmodified":1449070209,
+    "wof:name":"Northland Aviation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.841533,64.814033,-147.841533,64.814033],
+  "geometry": {"coordinates":[-147.841533,64.814033],"type":"Point"}
+}

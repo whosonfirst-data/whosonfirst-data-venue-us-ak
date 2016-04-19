@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.94292,61.188985,-149.94292,61.188985",
+    "geom:latitude":61.188985,
+    "geom:longitude":-149.94292,
+    "iso:country":"US",
+    "sg:address":"3900 Wisconsin St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 2000",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tywt6Mzb9I8sTZgOqbJMu_61.188985_-149.942920@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"79825ad24bf5710e275daf0530ffa0c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102183139"
+        }
+    ],
+    "wof:id":"102183139",
+    "wof:lastmodified":1449069040,
+    "wof:name":"Our Lady Of Guadalupe Parish",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.94292,61.188985,-149.94292,61.188985],
+  "geometry": {"coordinates":[-149.94292,61.188985],"type":"Point"}
+}

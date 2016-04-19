@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.506583,59.640518,-151.506583,59.640518",
+    "geom:latitude":59.640518,
+    "geom:longitude":-151.506583,
+    "iso:country":"US",
+    "sg:address":"3482 Landings St",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 7767",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "newspaper",
+        "guide",
+        "publishing"
+    ],
+    "sg:website":"www.homernews.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FYFH8tCaO4cOYlqW0unc4_59.640518_-151.506583@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"09e588d704bc8dfd274224fc46af1eb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102196455"
+        }
+    ],
+    "wof:id":"102196455",
+    "wof:lastmodified":1449068339,
+    "wof:name":"Homer News",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.506583,59.640518,-151.506583,59.640518],
+  "geometry": {"coordinates":[-151.506583,59.640518],"type":"Point"}
+}

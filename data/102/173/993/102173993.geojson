@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.866831,61.144657,-149.866831,61.144657",
+    "geom:latitude":61.144657,
+    "geom:longitude":-149.866831,
+    "iso:country":"US",
+    "sg:address":"800 E Dimond Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 5445",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cPhEpbOvkbQa3YRGnwPI2_61.144657_-149.866831@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"704cb93316ffeaf5d57ebafde320e38d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102173993"
+        }
+    ],
+    "wof:id":"102173993",
+    "wof:lastmodified":1449068266,
+    "wof:name":"Cole Consulting",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.866831,61.144657,-149.866831,61.144657],
+  "geometry": {"coordinates":[-149.866831,61.144657],"type":"Point"}
+}

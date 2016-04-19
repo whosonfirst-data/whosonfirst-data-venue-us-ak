@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.313065,57.049472,-135.313065,57.049472",
+    "geom:latitude":57.049472,
+    "geom:longitude":-135.313065,
+    "iso:country":"US",
+    "sg:address":"1317 Sawmill Creek Rd",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 6800",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EhX81KCC5trume8Le865z_57.049472_-135.313065@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d7d1f8e0b27d53caa727e6a09c8c957f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102196389"
+        }
+    ],
+    "wof:id":"102196389",
+    "wof:lastmodified":1449068338,
+    "wof:name":"Barkers Auto Repair",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.313065,57.049472,-135.313065,57.049472],
+  "geometry": {"coordinates":[-135.313065,57.049472],"type":"Point"}
+}

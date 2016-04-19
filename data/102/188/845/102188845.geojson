@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.679955,64.818173,-147.679955,64.818173",
+    "geom:latitude":64.818173,
+    "geom:longitude":-147.679955,
+    "iso:country":"US",
+    "sg:address":"751 Old Richardson Hwy",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 2030",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kxwlQHIweWAasW83E5ciD_64.818173_-147.679955@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c617cd4ce148594d7508364c31734757",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102188845"
+        }
+    ],
+    "wof:id":"102188845",
+    "wof:lastmodified":1449068945,
+    "wof:name":"Charitable Gaming Div",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.679955,64.818173,-147.679955,64.818173],
+  "geometry": {"coordinates":[-147.679955,64.818173],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.822086,61.154896,-149.822086,61.154896",
+    "geom:latitude":61.154896,
+    "geom:longitude":-149.822086,
+    "iso:country":"US",
+    "sg:address":"7321 Bulen Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 317 7598",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hCoaby9kZVg9JAJM4ueq4_61.154896_-149.822086@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"18fe54d65e0d878b37068a23ba445ba8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102150505"
+        }
+    ],
+    "wof:id":"102150505",
+    "wof:lastmodified":1449067791,
+    "wof:name":"Alaska Lawn Service",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.822086,61.154896,-149.822086,61.154896],
+  "geometry": {"coordinates":[-149.822086,61.154896],"type":"Point"}
+}

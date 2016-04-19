@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.416586,59.600853,-151.416586,59.600853",
+    "geom:latitude":59.600853,
+    "geom:longitude":-151.416586,
+    "iso:country":"US",
+    "sg:address":"4611 Homer Spit Rd",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 8206",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cL9LV4ja1Ubq3s8kolH3l_59.600853_-151.416586@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1e55fc3bb4b4b9710e747d62823c03d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102178355"
+        }
+    ],
+    "wof:id":"102178355",
+    "wof:lastmodified":1449069530,
+    "wof:name":"Homer Spit Campground",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.416586,59.600853,-151.416586,59.600853],
+  "geometry": {"coordinates":[-151.416586,59.600853],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.374999,56.464706,-132.374999,56.464706",
+    "geom:latitude":56.464706,
+    "geom:longitude":-132.374999,
+    "iso:country":"US",
+    "sg:address":"793 Zimovia Hwy",
+    "sg:city":"Wrangell",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 874 2141",
+    "sg:postcode":"99929",
+    "sg:province":"AK",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916111,
+        85633793,
+        85688573,
+        102081901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31WtzNP2XhTkfjYwnm9l1j_56.464706_-132.374999@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a7a5dfe2110e8f543c41f65e13c6b589",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081901,
+            "locality_id":85916111,
+            "region_id":85688573,
+            "venue_id":"102176939"
+        }
+    ],
+    "wof:id":"102176939",
+    "wof:lastmodified":1449069345,
+    "wof:name":"Northwind Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.374999,56.464706,-132.374999,56.464706],
+  "geometry": {"coordinates":[-132.374999,56.464706],"type":"Point"}
+}

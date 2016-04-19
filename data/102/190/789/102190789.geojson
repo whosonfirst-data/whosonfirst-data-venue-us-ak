@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.331096,64.788014,-147.331096,64.788014",
+    "geom:latitude":64.788014,
+    "geom:longitude":-147.331096,
+    "iso:country":"US",
+    "sg:address":"2373 Pool St",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 2704",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916555,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05P10yOSlKO8kLfoAMTYP6_64.788014_-147.331096@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c843d190de680f6d169a0d588b734c9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916555,
+            "region_id":85688573,
+            "venue_id":"102190789"
+        }
+    ],
+    "wof:id":"102190789",
+    "wof:lastmodified":1449070033,
+    "wof:name":"H & R Flooring",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.331096,64.788014,-147.331096,64.788014],
+  "geometry": {"coordinates":[-147.331096,64.788014],"type":"Point"}
+}

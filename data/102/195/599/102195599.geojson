@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.420813,58.300999,-134.420813,58.300999",
+    "geom:latitude":58.300999,
+    "geom:longitude":-134.420813,
+    "iso:country":"US",
+    "sg:address":"820 Glacier Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 5322",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.juneau.lib.ak.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1F91OegLa6qrHRq6f5HaNC_58.300999_-134.420813@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0d2f136de9e603759de87ae027563a05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102195599"
+        }
+    ],
+    "wof:id":"102195599",
+    "wof:lastmodified":1449069364,
+    "wof:name":"Juneau Fire Dept",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.420813,58.300999,-134.420813,58.300999],
+  "geometry": {"coordinates":[-134.420813,58.300999],"type":"Point"}
+}

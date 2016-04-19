@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.404869,58.30007,-134.404869,58.30007",
+    "geom:latitude":58.30007,
+    "geom:longitude":-134.404869,
+    "iso:country":"US",
+    "sg:address":"145 S Franklin St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 3910",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xeaFcitiqObWsusTEtHBs_58.300070_-134.404869@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cf5a6498afee66b9221a3acd90a5e4bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102170491"
+        }
+    ],
+    "wof:id":"102170491",
+    "wof:lastmodified":1449068016,
+    "wof:name":"Dockside Jewelers",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.404869,58.30007,-134.404869,58.30007],
+  "geometry": {"coordinates":[-134.404869,58.30007],"type":"Point"}
+}

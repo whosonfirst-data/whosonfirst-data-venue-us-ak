@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.822159,61.157882,-149.822159,61.157882",
+    "geom:latitude":61.157882,
+    "geom:longitude":-149.822159,
+    "iso:country":"US",
+    "sg:address":"3210 Racquet Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 3419",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "sg:website":"www.mcwhorters.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1naq8ZH3UqlM42j9CQO7lu_61.157882_-149.822159@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d43365010bbbbbbeac1b1f9cbd5752bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102193871"
+        }
+    ],
+    "wof:id":"102193871",
+    "wof:lastmodified":1449068193,
+    "wof:name":"Airtech",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.822159,61.157882,-149.822159,61.157882],
+  "geometry": {"coordinates":[-149.822159,61.157882],"type":"Point"}
+}

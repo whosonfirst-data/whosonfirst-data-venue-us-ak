@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.579016,58.387928,-134.579016,58.387928",
+    "geom:latitude":58.387928,
+    "geom:longitude":-134.579016,
+    "iso:country":"US",
+    "sg:address":"3722 Portage Blvd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 0927",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25FrGqMtA6GLWzyCbf2eN4_58.387928_-134.579016@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4b1e43beda8813b47fe89f8484ed6389",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102171761"
+        }
+    ],
+    "wof:id":"102171761",
+    "wof:lastmodified":1449070224,
+    "wof:name":"Shallies Construction",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.579016,58.387928,-134.579016,58.387928],
+  "geometry": {"coordinates":[-134.579016,58.387928],"type":"Point"}
+}

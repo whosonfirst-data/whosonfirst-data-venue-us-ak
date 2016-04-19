@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.88657,61.170196,-149.88657,61.170196",
+    "geom:latitude":61.170196,
+    "geom:longitude":-149.88657,
+    "iso:country":"US",
+    "sg:address":"201 W Potter Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 2028",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "bars",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28UAi62xmPO4VhlY4Y80dO_61.170196_-149.886570@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"546e1825bd15c36555be696da799fc4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102162783"
+        }
+    ],
+    "wof:id":"102162783",
+    "wof:lastmodified":1449069822,
+    "wof:name":"Perkup Espresso",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.88657,61.170196,-149.88657,61.170196],
+  "geometry": {"coordinates":[-149.88657,61.170196],"type":"Point"}
+}

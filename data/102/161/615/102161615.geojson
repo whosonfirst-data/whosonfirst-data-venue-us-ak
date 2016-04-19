@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.804182,61.11534,-149.804182,61.11534",
+    "geom:latitude":61.11534,
+    "geom:longitude":-149.804182,
+    "iso:country":"US",
+    "sg:address":"11600 Elmore Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 6129",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MTSGFO7pdztBkMwAq5LMC_61.115340_-149.804182@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ce3daaa294063ac230b27d89365b8988",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102161615"
+        }
+    ],
+    "wof:id":"102161615",
+    "wof:lastmodified":1449068712,
+    "wof:name":"Shepherd Of The Hills Lutheran",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.804182,61.11534,-149.804182,61.11534],
+  "geometry": {"coordinates":[-149.804182,61.11534],"type":"Point"}
+}

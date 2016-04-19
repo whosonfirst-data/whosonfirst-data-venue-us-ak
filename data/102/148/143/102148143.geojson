@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.807674,61.147902,-149.807674,61.147902",
+    "geom:latitude":61.147902,
+    "geom:longitude":-149.807674,
+    "iso:country":"US",
+    "sg:address":"4015 Iona Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 7873",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "pattern",
+        "book",
+        "quilt",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873745,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dNQed6GomEcaZtzg2Ti7s_61.147902_-149.807674@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"96990e12cf8f457363706881e61f77d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873745,
+            "region_id":85688573,
+            "venue_id":"102148143"
+        }
+    ],
+    "wof:id":"102148143",
+    "wof:lastmodified":1449069785,
+    "wof:name":"Bear Paw Productions",
+    "wof:parent_id":85873745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.807674,61.147902,-149.807674,61.147902],
+  "geometry": {"coordinates":[-149.807674,61.147902],"type":"Point"}
+}

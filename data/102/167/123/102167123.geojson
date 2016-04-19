@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.447615,61.583175,-149.447615,61.583175",
+    "geom:latitude":61.583175,
+    "geom:longitude":-149.447615,
+    "iso:country":"US",
+    "sg:address":"191 E Swanson Ave",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 357 4563",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hoKQ5xqdMSvJlSUaqMbis_61.583175_-149.447615@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"29f3ed3b802aef92f9862aa080c5d7e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102167123"
+        }
+    ],
+    "wof:id":"102167123",
+    "wof:lastmodified":1449069002,
+    "wof:name":"Soil & Water Conservation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.447615,61.583175,-149.447615,61.583175],
+  "geometry": {"coordinates":[-149.447615,61.583175],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.702041,64.810626,-147.702041,64.810626",
+    "geom:latitude":64.810626,
+    "geom:longitude":-147.702041,
+    "iso:country":"US",
+    "sg:address":"3725 Braddock St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 6739",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qZImUQ9uTZN90aMwQw8e2_64.810626_-147.702041@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"117666fb410d6065542793fad17f1d07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102174437"
+        }
+    ],
+    "wof:id":"102174437",
+    "wof:lastmodified":1449068139,
+    "wof:name":"Norcon Inc",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.702041,64.810626,-147.702041,64.810626],
+  "geometry": {"coordinates":[-147.702041,64.810626],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.561029,58.39388,-134.561029,58.39388",
+    "geom:latitude":58.39388,
+    "geom:longitude":-134.561029,
+    "iso:country":"US",
+    "sg:address":"8476 Thunder Mountain Rd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 7555",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mobile",
+        "home",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nup5p5OOTedRPQSS4H5FR_58.393880_-134.561029@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"11e12ee8679cd42b142f1e4ceab37c55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102158279"
+        }
+    ],
+    "wof:id":"102158279",
+    "wof:lastmodified":1449069394,
+    "wof:name":"Thunder Mountain Mobile Park",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.561029,58.39388,-134.561029,58.39388],
+  "geometry": {"coordinates":[-134.561029,58.39388],"type":"Point"}
+}

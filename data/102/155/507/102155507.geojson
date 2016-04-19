@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.480285,61.406859,-149.480285,61.406859",
+    "geom:latitude":61.406859,
+    "geom:longitude":-149.480285,
+    "iso:country":"US",
+    "sg:address":"20627 Upper Bowery Ln",
+    "sg:city":"Chugiak",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 688 4602",
+    "sg:postcode":"99567",
+    "sg:province":"AK",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806187,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ViiYuuuVtKL8N1ydL1eiF_61.406859_-149.480285@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"416a21ea5aa61aec7fe84da79315ff64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85806187,
+            "region_id":85688573,
+            "venue_id":"102155507"
+        }
+    ],
+    "wof:id":"102155507",
+    "wof:lastmodified":1449069744,
+    "wof:name":"Chugiak Pumping",
+    "wof:parent_id":85806187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.480285,61.406859,-149.480285,61.406859],
+  "geometry": {"coordinates":[-149.480285,61.406859],"type":"Point"}
+}

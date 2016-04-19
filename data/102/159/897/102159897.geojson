@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.864466,61.219605,-149.864466,61.219605",
+    "geom:latitude":61.219605,
+    "geom:longitude":-149.864466,
+    "iso:country":"US",
+    "sg:address":"1021 E 3rd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 1731",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OGgCViW23ZC0HPgKWgCFx_61.219605_-149.864466@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"24d5d4b7261f7f16aa6a712d326764ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102159897"
+        }
+    ],
+    "wof:id":"102159897",
+    "wof:lastmodified":1449068093,
+    "wof:name":"Brother Francis Shelter",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.864466,61.219605,-149.864466,61.219605],
+  "geometry": {"coordinates":[-149.864466,61.219605],"type":"Point"}
+}

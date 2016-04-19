@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.730014,61.095493,-149.730014,61.095493",
+    "geom:latitude":61.095493,
+    "geom:longitude":-149.730014,
+    "iso:country":"US",
+    "sg:address":"7935 Hillside Way",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 6222",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873747,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_017PobccVyKCkgT5K0SbLE_61.095493_-149.730014@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2c4cc007a9c3cace86e9b2b46a9efba3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873747,
+            "region_id":85688573,
+            "venue_id":"102174155"
+        }
+    ],
+    "wof:id":"102174155",
+    "wof:lastmodified":1449068141,
+    "wof:name":"Alaska Psychological Svc",
+    "wof:parent_id":85873747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.730014,61.095493,-149.730014,61.095493],
+  "geometry": {"coordinates":[-149.730014,61.095493],"type":"Point"}
+}

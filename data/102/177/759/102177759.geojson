@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.753729,64.81289,-147.753729,64.81289",
+    "geom:latitude":64.81289,
+    "geom:longitude":-147.753729,
+    "iso:country":"US",
+    "sg:address":"1855 Van Horn Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 7519",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cFZibIQ4T6xpWZKI0yyzD_64.812890_-147.753729@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"160e08a5e32e02112d4fee238e238d5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102177759"
+        }
+    ],
+    "wof:id":"102177759",
+    "wof:lastmodified":1449070211,
+    "wof:name":"Club Soda",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.753729,64.81289,-147.753729,64.81289],
+  "geometry": {"coordinates":[-147.753729,64.81289],"type":"Point"}
+}

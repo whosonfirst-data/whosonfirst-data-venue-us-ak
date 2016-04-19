@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.483147,58.357713,-134.483147,58.357713",
+    "geom:latitude":58.357713,
+    "geom:longitude":-134.483147,
+    "iso:country":"US",
+    "sg:address":"5322 Commercial Blvd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 790 2886",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fmqExHo2Cx19RjSprGCBO_58.357713_-134.483147@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"015924cdaf938fdaf304c48e2e4a0193",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102154217"
+        }
+    ],
+    "wof:id":"102154217",
+    "wof:lastmodified":1449070247,
+    "wof:name":"Jax Express Lube",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.483147,58.357713,-134.483147,58.357713],
+  "geometry": {"coordinates":[-134.483147,58.357713],"type":"Point"}
+}

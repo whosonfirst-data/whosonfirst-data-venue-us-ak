@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.405161,57.788297,-152.405161,57.788297",
+    "geom:latitude":57.788297,
+    "geom:longitude":-152.405161,
+    "iso:country":"US",
+    "sg:address":"322 Center St",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 3664",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XZWHRh4XXYD5xHt0fGlE8_57.788297_-152.405161@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3df93c462963a911e287b544a6c188a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102192477"
+        }
+    ],
+    "wof:id":"102192477",
+    "wof:lastmodified":1449069503,
+    "wof:name":"Pat's Barber Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.405161,57.788297,-152.405161,57.788297],
+  "geometry": {"coordinates":[-152.405161,57.788297],"type":"Point"}
+}

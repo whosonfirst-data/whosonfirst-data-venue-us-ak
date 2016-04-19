@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.888343,61.178154,-149.888343,61.178154",
+    "geom:latitude":61.178154,
+    "geom:longitude":-149.888343,
+    "iso:country":"US",
+    "sg:address":"4501 Bus Park Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 334 2400",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Rm02R8KP7RkRZQIgYb8XW_61.178154_-149.888343@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5bc60bd574396f13530698caa5973a90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102163065"
+        }
+    ],
+    "wof:id":"102163065",
+    "wof:lastmodified":1449070164,
+    "wof:name":"Medical Assistance Div",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.888343,61.178154,-149.888343,61.178154],
+  "geometry": {"coordinates":[-149.888343,61.178154],"type":"Point"}
+}

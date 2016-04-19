@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.942736,61.142972,-149.942736,61.142972",
+    "geom:latitude":61.142972,
+    "geom:longitude":-149.942736,
+    "iso:country":"US",
+    "sg:address":"3309 W 86th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 3623",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZbXU8tEh2s0ynzIKrCYyW_61.142972_-149.942736@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4074bb5f9473b739f4dde266d0fa2e81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102158785"
+        }
+    ],
+    "wof:id":"102158785",
+    "wof:lastmodified":1449069395,
+    "wof:name":"Talking Leaves Books & Collect",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.942736,61.142972,-149.942736,61.142972],
+  "geometry": {"coordinates":[-149.942736,61.142972],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.85314,61.108574,-149.85314,61.108574",
+    "geom:latitude":61.108574,
+    "geom:longitude":-149.85314,
+    "iso:country":"US",
+    "sg:address":"1530 Huffman Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 0438",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NA53EVZzlQNX9MldhTjEA_61.108574_-149.853140@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"78f78fee107949d817fdb857e52e0ceb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102165899"
+        }
+    ],
+    "wof:id":"102165899",
+    "wof:lastmodified":1449070219,
+    "wof:name":"Williams Energy Svc",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.85314,61.108574,-149.85314,61.108574],
+  "geometry": {"coordinates":[-149.85314,61.108574],"type":"Point"}
+}

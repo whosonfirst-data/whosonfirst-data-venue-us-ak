@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.382582,56.471153,-132.382582,56.471153",
+    "geom:latitude":56.471153,
+    "geom:longitude":-132.382582,
+    "iso:country":"US",
+    "sg:address":"325 Front St",
+    "sg:city":"Wrangell",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 874 2392",
+    "sg:postcode":"99929",
+    "sg:province":"AK",
+    "sg:tags":[
+        "television"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916111,
+        85633793,
+        85688573,
+        102081901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sFfMza5LSS9PxjN3t5BwU_56.471153_-132.382582@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a476b8ab580d85a54ebcc1adbc58a38a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081901,
+            "locality_id":85916111,
+            "region_id":85688573,
+            "venue_id":"102176959"
+        }
+    ],
+    "wof:id":"102176959",
+    "wof:lastmodified":1449069349,
+    "wof:name":"GCI Cable",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.382582,56.471153,-132.382582,56.471153],
+  "geometry": {"coordinates":[-132.382582,56.471153],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.726289,64.859113,-147.726289,64.859113",
+    "geom:latitude":64.859113,
+    "geom:longitude":-147.726289,
+    "iso:country":"US",
+    "sg:address":"825 College Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 4635",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cleaners",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830247,
+        85633793,
+        85916559,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ioTjcDYwF1bjquFkIc5zl_64.859113_-147.726289@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b769759bf3901bdb316b5f928c9cd21b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "neighbourhood_id":85830247,
+            "region_id":85688573,
+            "venue_id":"102152039"
+        }
+    ],
+    "wof:id":"102152039",
+    "wof:lastmodified":1449069637,
+    "wof:name":"Rainbow Cleaning Systems",
+    "wof:parent_id":85830247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.726289,64.859113,-147.726289,64.859113],
+  "geometry": {"coordinates":[-147.726289,64.859113],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.8586,61.198187,-149.8586,61.198187",
+    "geom:latitude":61.198187,
+    "geom:longitude":-149.8586,
+    "iso:country":"US",
+    "sg:address":"2524 Redwood St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 9199",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NVFR4C71c75EbBG9Iesah_61.198187_-149.858600@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8c6d75b92345fc82433cc399ef360d8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102193369"
+        }
+    ],
+    "wof:id":"102193369",
+    "wof:lastmodified":1449068195,
+    "wof:name":"Mike's Towing & Assoc",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.8586,61.198187,-149.8586,61.198187],
+  "geometry": {"coordinates":[-149.8586,61.198187],"type":"Point"}
+}

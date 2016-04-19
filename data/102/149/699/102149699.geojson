@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.730299,64.826038,-147.730299,64.826038",
+    "geom:latitude":64.826038,
+    "geom:longitude":-147.730299,
+    "iso:country":"US",
+    "sg:address":"2316 S Barnette St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 458 8400",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jXbBiW2QvSaRwcMSNBybj_64.826038_-147.730299@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eec154d789c9ab791cd120c1087a7433",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102149699"
+        }
+    ],
+    "wof:id":"102149699",
+    "wof:lastmodified":1449067768,
+    "wof:name":"Love Social Svc Ctr",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.730299,64.826038,-147.730299,64.826038],
+  "geometry": {"coordinates":[-147.730299,64.826038],"type":"Point"}
+}

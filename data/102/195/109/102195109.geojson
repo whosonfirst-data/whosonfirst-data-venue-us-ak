@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.781115,61.201405,-149.781115,61.201405",
+    "geom:latitude":61.201405,
+    "geom:longitude":-149.781115,
+    "iso:country":"US",
+    "sg:address":"2111 Farmer Pl",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 1447",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "heavy",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806647,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Y0CNxprAlSVw2gJObp3Kc_61.201405_-149.781115@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7de6f9a17ada64042154c01720b53b26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85806647,
+            "region_id":85688573,
+            "venue_id":"102195109"
+        }
+    ],
+    "wof:id":"102195109",
+    "wof:lastmodified":1449069363,
+    "wof:name":"State Leasing & Equipment Inc",
+    "wof:parent_id":85806647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.781115,61.201405,-149.781115,61.201405],
+  "geometry": {"coordinates":[-149.781115,61.201405],"type":"Point"}
+}

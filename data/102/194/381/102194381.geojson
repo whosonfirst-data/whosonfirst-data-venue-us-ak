@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.847669,61.136689,-149.847669,61.136689",
+    "geom:latitude":61.136689,
+    "geom:longitude":-149.847669,
+    "iso:country":"US",
+    "sg:address":"9312 Vanguard Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 325 2252",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:website":"www.chugachschools.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lm07tcmXkrqY4Znm2PNnt_61.136689_-149.847669@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"63ffaf2e121c862064ef3d367b89a922",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102194381"
+        }
+    ],
+    "wof:id":"102194381",
+    "wof:lastmodified":1449069824,
+    "wof:name":"Chugach School District",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.847669,61.136689,-149.847669,61.136689],
+  "geometry": {"coordinates":[-149.847669,61.136689],"type":"Point"}
+}

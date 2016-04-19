@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.858816,61.144662,-149.858816,61.144662",
+    "geom:latitude":61.144662,
+    "geom:longitude":-149.858816,
+    "iso:country":"US",
+    "sg:address":"1310 E Dimond Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 8184",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hFrIf4pG2mdrP9M2vSd4P_61.144662_-149.858816@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"700b6e98826db3eed6e22c1b1dad269c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102194477"
+        }
+    ],
+    "wof:id":"102194477",
+    "wof:lastmodified":1449069828,
+    "wof:name":"Over The Rainbow Toy Store",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.858816,61.144662,-149.858816,61.144662],
+  "geometry": {"coordinates":[-149.858816,61.144662],"type":"Point"}
+}

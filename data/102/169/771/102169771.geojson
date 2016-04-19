@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.432706,61.5823,-149.432706,61.5823",
+    "geom:latitude":61.5823,
+    "geom:longitude":-149.432706,
+    "iso:country":"US",
+    "sg:address":"721 Westpoint Dr",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 4645",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vsfwrUStoClFSAUutJvIu_61.582300_-149.432706@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ec4d07597e711478f4708f4f4a75a760",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102169771"
+        }
+    ],
+    "wof:id":"102169771",
+    "wof:lastmodified":1449069247,
+    "wof:name":"Mr Lube",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.432706,61.5823,-149.432706,61.5823],
+  "geometry": {"coordinates":[-149.432706,61.5823],"type":"Point"}
+}

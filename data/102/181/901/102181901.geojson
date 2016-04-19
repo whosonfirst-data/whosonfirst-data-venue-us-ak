@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.830623,61.176847,-149.830623,61.176847",
+    "geom:latitude":61.176847,
+    "geom:longitude":-149.830623,
+    "iso:country":"US",
+    "sg:address":"4901 Folker St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 6844",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02Ejee8AmbrGMavOgQyNQT_61.176847_-149.830623@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5104b93041b34b8fa4ce5d054f5eb7b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102181901"
+        }
+    ],
+    "wof:id":"102181901",
+    "wof:lastmodified":1449069234,
+    "wof:name":"Plunkett Enterprises",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.830623,61.176847,-149.830623,61.176847],
+  "geometry": {"coordinates":[-149.830623,61.176847],"type":"Point"}
+}

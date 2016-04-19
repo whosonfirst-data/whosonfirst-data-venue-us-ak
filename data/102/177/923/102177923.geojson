@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.412061,59.67627,-151.412061,59.67627",
+    "geom:latitude":59.67627,
+    "geom:longitude":-151.412061,
+    "iso:country":"US",
+    "sg:address":"40904 Seaside Farm Rd",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 7850",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834363,
+        85633793,
+        85915739,
+        102081909,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T643Pao9R4pBM02nhWSHj_59.676270_-151.412061@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"394e267692fb21856690568f25affaa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "neighbourhood_id":85834363,
+            "region_id":85688573,
+            "venue_id":"102177923"
+        }
+    ],
+    "wof:id":"102177923",
+    "wof:lastmodified":1449070210,
+    "wof:name":"Seaside Farm Accommodations",
+    "wof:parent_id":85834363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.412061,59.67627,-151.412061,59.67627],
+  "geometry": {"coordinates":[-151.412061,59.67627],"type":"Point"}
+}

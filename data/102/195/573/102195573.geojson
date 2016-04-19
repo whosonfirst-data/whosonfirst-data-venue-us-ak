@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.944369,61.141168,-149.944369,61.141168",
+    "geom:latitude":61.141168,
+    "geom:longitude":-149.944369,
+    "iso:country":"US",
+    "sg:address":"3441 W 88th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 9171",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6piIoIFf3lL2DGbvp94vqu_61.141168_-149.944369@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"343a1a71d8872e08948d330d71164b73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102195573"
+        }
+    ],
+    "wof:id":"102195573",
+    "wof:lastmodified":1449069364,
+    "wof:name":"Total Effects Hair Salon",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.944369,61.141168,-149.944369,61.141168],
+  "geometry": {"coordinates":[-149.944369,61.141168],"type":"Point"}
+}

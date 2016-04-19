@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.775967,61.082244,-149.775967,61.082244",
+    "geom:latitude":61.082244,
+    "geom:longitude":-149.775967,
+    "iso:country":"US",
+    "sg:address":"5501 Rabbit Creek Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 6777",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873751,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PORvSySsIyMXhgW8CmisH_61.082244_-149.775967@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"091c713fb60b3afc8ee2c832b9fab124",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873751,
+            "region_id":85688573,
+            "venue_id":"102155243"
+        }
+    ],
+    "wof:id":"102155243",
+    "wof:lastmodified":1449069744,
+    "wof:name":"A-Ardvark Automotive",
+    "wof:parent_id":85873751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.775967,61.082244,-149.775967,61.082244],
+  "geometry": {"coordinates":[-149.775967,61.082244],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.744053,61.112158,-149.744053,61.112158",
+    "geom:latitude":61.112158,
+    "geom:longitude":-149.744053,
+    "iso:country":"US",
+    "sg:address":"7440 Alatna Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 6556",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873747,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HbMl3f0E5LVMrqhFbuX5E_61.112158_-149.744053@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5a328aa32e6d122997995a1cfc68be4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873747,
+            "region_id":85688573,
+            "venue_id":"102147919"
+        }
+    ],
+    "wof:id":"102147919",
+    "wof:lastmodified":1449069930,
+    "wof:name":"Alaskan Frontier Gardens B & B",
+    "wof:parent_id":85873747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.744053,61.112158,-149.744053,61.112158],
+  "geometry": {"coordinates":[-149.744053,61.112158],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.913049,61.1904,-149.913049,61.1904",
+    "geom:latitude":61.1904,
+    "geom:longitude":-149.913049,
+    "iso:country":"US",
+    "sg:address":"1303 W 33rd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 2212",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "investment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ug7MIyeICWrYKEtndeIhv_61.190400_-149.913049@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"15a6fcc15f7fb7bbd35578177805272a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102196259"
+        }
+    ],
+    "wof:id":"102196259",
+    "wof:lastmodified":1449068336,
+    "wof:name":"Interstate Investments",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.913049,61.1904,-149.913049,61.1904],
+  "geometry": {"coordinates":[-149.913049,61.1904],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.85268,61.108661,-149.85268,61.108661",
+    "geom:latitude":61.108661,
+    "geom:longitude":-149.85268,
+    "iso:country":"US",
+    "sg:address":"1501 Huffman Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 339 1310",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LpUdq5YU660oKgVBwRH61_61.108661_-149.852680@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"51e3b6bb02c6ecaf5a4c80c82a99c925",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102187659"
+        }
+    ],
+    "wof:id":"102187659",
+    "wof:lastmodified":1449068153,
+    "wof:name":"Oaken Keg Spirit Shops",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.85268,61.108661,-149.85268,61.108661],
+  "geometry": {"coordinates":[-149.85268,61.108661],"type":"Point"}
+}

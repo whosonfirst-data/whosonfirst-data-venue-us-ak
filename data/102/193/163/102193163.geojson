@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.51134,61.585793,-149.51134,61.585793",
+    "geom:latitude":61.585793,
+    "geom:longitude":-149.51134,
+    "iso:country":"US",
+    "sg:address":"2220 Success Dr",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 8484",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h9xiefY16CyXpuV69CXbN_61.585793_-149.511340@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db1477454e75fb3165844b3c22f9a776",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102193163"
+        }
+    ],
+    "wof:id":"102193163",
+    "wof:lastmodified":1449068195,
+    "wof:name":"Residential Plumbing & Heating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.51134,61.585793,-149.51134,61.585793],
+  "geometry": {"coordinates":[-149.51134,61.585793],"type":"Point"}
+}

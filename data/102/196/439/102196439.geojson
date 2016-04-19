@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.792971,61.079464,-149.792971,61.079464",
+    "geom:latitude":61.079464,
+    "geom:longitude":-149.792971,
+    "iso:country":"US",
+    "sg:address":"4861 Southpark Bluff Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 8152",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873751,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yzfHoBMbnYHBExJc9BQfD_61.079464_-149.792971@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"19c57eba676b72ae9ae1b463256051cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873751,
+            "region_id":85688573,
+            "venue_id":"102196439"
+        }
+    ],
+    "wof:id":"102196439",
+    "wof:lastmodified":1449068336,
+    "wof:name":"Fine Line Builders Inc",
+    "wof:parent_id":85873751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.792971,61.079464,-149.792971,61.079464],
+  "geometry": {"coordinates":[-149.792971,61.079464],"type":"Point"}
+}

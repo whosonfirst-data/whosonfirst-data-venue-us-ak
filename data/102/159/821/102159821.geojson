@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.114083,61.597777,-149.114083,61.597777",
+    "geom:latitude":61.597777,
+    "geom:longitude":-149.114083,
+    "iso:country":"US",
+    "sg:address":"250 E Fireweed Ave",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 4241",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "sg:website":"www.state.ak.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915577,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OVSh5g4WfXUPbywFkjYt7_61.597777_-149.114083@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0ba70dbb0ba63ae152351cba6d07be79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915577,
+            "region_id":85688573,
+            "venue_id":"102159821"
+        }
+    ],
+    "wof:id":"102159821",
+    "wof:lastmodified":1449068094,
+    "wof:name":"Pioneer Homes",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.114083,61.597777,-149.114083,61.597777],
+  "geometry": {"coordinates":[-149.114083,61.597777],"type":"Point"}
+}

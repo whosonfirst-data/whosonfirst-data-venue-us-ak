@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.912627,64.913676,-147.912627,64.913676",
+    "geom:latitude":64.913676,
+    "geom:longitude":-147.912627,
+    "iso:country":"US",
+    "sg:address":"2591 Goldstream Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 455 6200",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916569,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VL4WUYcuDitJ2Zdm5bWUx_64.913676_-147.912627@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"383c9a65d718ebed69c88771474ce644",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916569,
+            "region_id":85688573,
+            "venue_id":"102192361"
+        }
+    ],
+    "wof:id":"102192361",
+    "wof:lastmodified":1449069504,
+    "wof:name":"Goldstream General Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.912627,64.913676,-147.912627,64.913676],
+  "geometry": {"coordinates":[-147.912627,64.913676],"type":"Point"}
+}

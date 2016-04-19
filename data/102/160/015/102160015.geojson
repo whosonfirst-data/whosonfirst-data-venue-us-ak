@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.664398,55.347434,-131.664398,55.347434",
+    "geom:latitude":55.347434,
+    "geom:longitude":-131.664398,
+    "iso:country":"US",
+    "sg:address":"1624 Tongass Ave",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 3838",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DhOz7vqcy6mWwJPDKd5hL_55.347434_-131.664398@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"af7db8690abb4d2c649c3e30c747f6d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102160015"
+        }
+    ],
+    "wof:id":"102160015",
+    "wof:lastmodified":1449069775,
+    "wof:name":"Ron's Plumbing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.664398,55.347434,-131.664398,55.347434],
+  "geometry": {"coordinates":[-131.664398,55.347434],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.949922,61.145762,-149.949922,61.145762",
+    "geom:latitude":61.145762,
+    "geom:longitude":-149.949922,
+    "iso:country":"US",
+    "sg:address":"8316 Loganberry St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 0969",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tzgGsuj8ESRpM0aYOg1NP_61.145762_-149.949922@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7d954efb952f11df1a1ad074e2067915",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102153359"
+        }
+    ],
+    "wof:id":"102153359",
+    "wof:lastmodified":1449069461,
+    "wof:name":"Snyder's Repair",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.949922,61.145762,-149.949922,61.145762],
+  "geometry": {"coordinates":[-149.949922,61.145762],"type":"Point"}
+}

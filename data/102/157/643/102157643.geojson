@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.43829,60.10283,-149.43829,60.10283",
+    "geom:latitude":60.10283,
+    "geom:longitude":-149.43829,
+    "iso:country":"US",
+    "sg:address":"500 Adams St",
+    "sg:city":"Seward",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 224 4049",
+    "sg:postcode":"99664",
+    "sg:province":"AK",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915769,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wpGMkOhMX00YhxVCsqH87_60.102830_-149.438290@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ef5b8c75a85717c78d85c9e5df78b844",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915769,
+            "region_id":85688573,
+            "venue_id":"102157643"
+        }
+    ],
+    "wof:id":"102157643",
+    "wof:lastmodified":1449069831,
+    "wof:name":"City Of Seward Engineering",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.43829,60.10283,-149.43829,60.10283],
+  "geometry": {"coordinates":[-149.43829,60.10283],"type":"Point"}
+}

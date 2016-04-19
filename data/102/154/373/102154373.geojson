@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.086908,64.564509,-149.086908,64.564509",
+    "geom:latitude":64.564509,
+    "geom:longitude":-149.086908,
+    "iso:country":"US",
+    "sg:address":"415 Front St",
+    "sg:city":"Nenana",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 832 5415",
+    "sg:postcode":"99760",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915849,
+        85633793,
+        85688573,
+        102081905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ziiqr7Oox84Re5eOiYVIP_64.564509_-149.086908@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dbbb93aa8826a06bc313e7a1b57119c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081905,
+            "locality_id":85915849,
+            "region_id":85688573,
+            "venue_id":"102154373"
+        }
+    ],
+    "wof:id":"102154373",
+    "wof:lastmodified":1449070243,
+    "wof:name":"Alaska Railroad Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.086908,64.564509,-149.086908,64.564509],
+  "geometry": {"coordinates":[-149.086908,64.564509],"type":"Point"}
+}

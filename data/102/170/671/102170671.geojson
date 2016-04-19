@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.714465,64.828274,-147.714465,64.828274",
+    "geom:latitude":64.828274,
+    "geom:longitude":-147.714465,
+    "iso:country":"US",
+    "sg:address":"2118 S Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 7558",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4taUB9EWjcFYSopKAu4aK5_64.828274_-147.714465@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a95586a21ecd45bd3c6b5c3e452d879f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102170671"
+        }
+    ],
+    "wof:id":"102170671",
+    "wof:lastmodified":1449068017,
+    "wof:name":"Lookin Up Real Estate",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.714465,64.828274,-147.714465,64.828274],
+  "geometry": {"coordinates":[-147.714465,64.828274],"type":"Point"}
+}

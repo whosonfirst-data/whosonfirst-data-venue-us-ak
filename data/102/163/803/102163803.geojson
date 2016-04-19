@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.816476,61.103745,-149.816476,61.103745",
+    "geom:latitude":61.103745,
+    "geom:longitude":-149.816476,
+    "iso:country":"US",
+    "sg:address":"3601 Taiga Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 346 2379",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aLFIQkoMA8MoEq96YlPoX_61.103745_-149.816476@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ad259f7d96832aecf8fe26b8ff9008d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102163803"
+        }
+    ],
+    "wof:id":"102163803",
+    "wof:lastmodified":1449070164,
+    "wof:name":"Kodiak Electric & Builders",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.816476,61.103745,-149.816476,61.103745],
+  "geometry": {"coordinates":[-149.816476,61.103745],"type":"Point"}
+}

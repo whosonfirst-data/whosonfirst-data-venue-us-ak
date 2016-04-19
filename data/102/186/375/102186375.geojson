@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.047337,61.541725,-149.047337,61.541725",
+    "geom:latitude":61.541725,
+    "geom:longitude":-149.047337,
+    "iso:country":"US",
+    "sg:address":"4205 Bodenburg Loop",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 3944",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916303,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wzMpdRFgMHQxSXDG4Y6FV_61.541725_-149.047337@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"037363b374fe6dcf694ca8669c7a0c77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916303,
+            "region_id":85688573,
+            "venue_id":"102186375"
+        }
+    ],
+    "wof:id":"102186375",
+    "wof:lastmodified":1449069652,
+    "wof:name":"Alaska Commercial Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.047337,61.541725,-149.047337,61.541725],
+  "geometry": {"coordinates":[-149.047337,61.541725],"type":"Point"}
+}

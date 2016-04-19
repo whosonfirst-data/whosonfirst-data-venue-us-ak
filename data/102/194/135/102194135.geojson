@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.679756,64.818296,-147.679756,64.818296",
+    "geom:latitude":64.818296,
+    "geom:longitude":-147.679756,
+    "iso:country":"US",
+    "sg:address":"758 Old Richardson Hwy",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 8287",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "paint",
+        "commercial",
+        "painter",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MRUGIXKnhKVtOzmNaiyyb_64.818296_-147.679756@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ae95faf261f675bb2f8a593cee88a36f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102194135"
+        }
+    ],
+    "wof:id":"102194135",
+    "wof:lastmodified":1449069828,
+    "wof:name":"Gundersen Painting Inc",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.679756,64.818296,-147.679756,64.818296],
+  "geometry": {"coordinates":[-147.679756,64.818296],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.400561,57.791915,-152.400561,57.791915",
+    "geom:latitude":57.791915,
+    "geom:longitude":-152.400561,
+    "iso:country":"US",
+    "sg:address":"425 Upper Mill Bay Rd",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 481 3111",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "alternative",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dJyy62reJ34IK3IE73b5N_57.791915_-152.400561@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d325d2e922127c9927e1ae92e82e0a01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102171575"
+        }
+    ],
+    "wof:id":"102171575",
+    "wof:lastmodified":1449070222,
+    "wof:name":"Swan's Touch",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.400561,57.791915,-152.400561,57.791915],
+  "geometry": {"coordinates":[-152.400561,57.791915],"type":"Point"}
+}

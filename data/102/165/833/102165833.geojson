@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.040735,64.568005,-147.040735,64.568005",
+    "geom:latitude":64.568005,
+    "geom:longitude":-147.040735,
+    "iso:country":"US",
+    "sg:address":"6617 Richardson Hwy",
+    "sg:city":"Salcha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 3035",
+    "sg:postcode":"99714",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cat",
+        "dog",
+        "kennel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916579,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DPWoVPxP5vk3XyYV1KchZ_64.568005_-147.040735@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"92d4a988960bdd7ef79dfae556694f78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916579,
+            "region_id":85688573,
+            "venue_id":"102165833"
+        }
+    ],
+    "wof:id":"102165833",
+    "wof:lastmodified":1449070214,
+    "wof:name":"Katmi Kennels & Harness Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.040735,64.568005,-147.040735,64.568005],
+  "geometry": {"coordinates":[-147.040735,64.568005],"type":"Point"}
+}

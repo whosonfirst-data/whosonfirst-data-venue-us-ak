@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.468737,61.581479,-149.468737,61.581479",
+    "geom:latitude":61.581479,
+    "geom:longitude":-149.468737,
+    "iso:country":"US",
+    "sg:address":"725 W Parks Hwy",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 357 7364",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "product",
+        "health",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TqyZs74vT3tz9K5o0KYzk_61.581479_-149.468737@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f47783f600f863993fc1662de9ea9aa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102156805"
+        }
+    ],
+    "wof:id":"102156805",
+    "wof:lastmodified":1449068282,
+    "wof:name":"Alaska Midnite Scents",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.468737,61.581479,-149.468737,61.581479],
+  "geometry": {"coordinates":[-149.468737,61.581479],"type":"Point"}
+}

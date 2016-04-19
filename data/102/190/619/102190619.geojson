@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.87253,61.197789,-149.87253,61.197789",
+    "geom:latitude":61.197789,
+    "geom:longitude":-149.87253,
+    "iso:country":"US",
+    "sg:address":"502 E Fireweed Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 6111",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dentist"
+    ],
+    "sg:website":"www.drbliss.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32UJT2f5LKSHqOp4nyeSSf_61.197789_-149.872530@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b72a223f91fcb87ab8849439bbef105c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102190619"
+        }
+    ],
+    "wof:id":"102190619",
+    "wof:lastmodified":1449070032,
+    "wof:name":"Lenaker Dental Practice",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.87253,61.197789,-149.87253,61.197789],
+  "geometry": {"coordinates":[-149.87253,61.197789],"type":"Point"}
+}

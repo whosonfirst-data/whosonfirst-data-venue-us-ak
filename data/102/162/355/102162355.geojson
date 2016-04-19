@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.302712,61.579123,-149.302712,61.579123",
+    "geom:latitude":61.579123,
+    "geom:longitude":-149.302712,
+    "iso:country":"US",
+    "sg:address":"5875 Hideaway Cir",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 6014",
+    "sg:postcode":"99687",
+    "sg:province":"AK",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916225,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5L8miawhb5Y60xszl0SN4U_61.579123_-149.302712@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d498ed17647a2cc92c93223a2ccc8669",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916225,
+            "region_id":85688573,
+            "venue_id":"102162355"
+        }
+    ],
+    "wof:id":"102162355",
+    "wof:lastmodified":1449069822,
+    "wof:name":"World Paving",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.302712,61.579123,-149.302712,61.579123],
+  "geometry": {"coordinates":[-149.302712,61.579123],"type":"Point"}
+}

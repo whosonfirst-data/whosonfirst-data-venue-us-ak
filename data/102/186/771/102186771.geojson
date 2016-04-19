@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.447649,58.316772,-134.447649,58.316772",
+    "geom:latitude":58.316772,
+    "geom:longitude":-134.447649,
+    "iso:country":"US",
+    "sg:address":"1900 Wickersham Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 2422",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "sg:website":"www.alaskawolfhouse.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2B5FNkltSj577h58y5gHqi_58.316772_-134.447649@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ea76070098ff0989c85e8428256b29a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102186771"
+        }
+    ],
+    "wof:id":"102186771",
+    "wof:lastmodified":1449069655,
+    "wof:name":"Alaska Wolf House",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.447649,58.316772,-134.447649,58.316772],
+  "geometry": {"coordinates":[-134.447649,58.316772],"type":"Point"}
+}

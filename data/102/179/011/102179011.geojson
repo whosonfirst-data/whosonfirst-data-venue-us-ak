@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.711273,64.830745,-147.711273,64.830745",
+    "geom:latitude":64.830745,
+    "geom:longitude":-147.711273,
+    "iso:country":"US",
+    "sg:address":"204 18th Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 7449",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ly2OhxT3ZODtlFzeYPVeW_64.830745_-147.711273@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d7d1bc5591cacfac615ecce654daed4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102179011"
+        }
+    ],
+    "wof:id":"102179011",
+    "wof:lastmodified":1449069943,
+    "wof:name":"Alaska 4 Wheel Drive Spec",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.711273,64.830745,-147.711273,64.830745],
+  "geometry": {"coordinates":[-147.711273,64.830745],"type":"Point"}
+}

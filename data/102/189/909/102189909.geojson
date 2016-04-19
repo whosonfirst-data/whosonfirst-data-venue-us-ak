@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.40734,57.787899,-152.40734,57.787899",
+    "geom:latitude":57.787899,
+    "geom:longitude":-152.40734,
+    "iso:country":"US",
+    "sg:address":"420 Marine Way W",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 4041",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xi1CApdCqEA69WCG9Mx0M_57.787899_-152.407340@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5a2a253395200b3b6599ca527ee13d54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102189909"
+        }
+    ],
+    "wof:id":"102189909",
+    "wof:lastmodified":1449069498,
+    "wof:name":"M/V Lazy Bay",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.40734,57.787899,-152.40734,57.787899],
+  "geometry": {"coordinates":[-152.40734,57.787899],"type":"Point"}
+}

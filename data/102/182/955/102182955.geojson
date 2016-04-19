@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.713709,64.838224,-147.713709,64.838224",
+    "geom:latitude":64.838224,
+    "geom:longitude":-147.713709,
+    "iso:country":"US",
+    "sg:address":"1200 Noble St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 3777",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "bars",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SAcGHDARUSyJkjNT64HNw_64.838224_-147.713709@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7675856d5bc3b06781c2d269f85cbb17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102182955"
+        }
+    ],
+    "wof:id":"102182955",
+    "wof:lastmodified":1449069280,
+    "wof:name":"Forget Me Not Espresso",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.713709,64.838224,-147.713709,64.838224],
+  "geometry": {"coordinates":[-147.713709,64.838224],"type":"Point"}
+}

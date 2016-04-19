@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.710652,64.810015,-147.710652,64.810015",
+    "geom:latitude":64.810015,
+    "geom:longitude":-147.710652,
+    "iso:country":"US",
+    "sg:address":"3775 S Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 1955",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n0YjQytZuFctsfY8ZwHTz_64.810015_-147.710652@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1d6bf3ba4da06d182b26f7860341163b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102158997"
+        }
+    ],
+    "wof:id":"102158997",
+    "wof:lastmodified":1449069394,
+    "wof:name":"G T Automotive LLC",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.710652,64.810015,-147.710652,64.810015],
+  "geometry": {"coordinates":[-147.710652,64.810015],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.84528,61.146707,-149.84528,61.146707",
+    "geom:latitude":61.146707,
+    "geom:longitude":-149.84528,
+    "iso:country":"US",
+    "sg:address":"8361 Petersburg St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 7272",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XBNyTydQOOMYuQvgY6jT3_61.146707_-149.845280@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2df5805dc83d54a1b80f5a3b4c1333af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102165421"
+        }
+    ],
+    "wof:id":"102165421",
+    "wof:lastmodified":1449070214,
+    "wof:name":"Industrial Roofing Inc",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.84528,61.146707,-149.84528,61.146707],
+  "geometry": {"coordinates":[-149.84528,61.146707],"type":"Point"}
+}

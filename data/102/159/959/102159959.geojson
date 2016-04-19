@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.752099,61.206308,-149.752099,61.206308",
+    "geom:latitude":61.206308,
+    "geom:longitude":-149.752099,
+    "iso:country":"US",
+    "sg:address":"1415 Marten St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 0915",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "consultant",
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0W7bgCkeimhMpjxeA80kwu_61.206308_-149.752099@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"10219b41edef24f872b5acf3980cfc95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102159959"
+        }
+    ],
+    "wof:id":"102159959",
+    "wof:lastmodified":1449068095,
+    "wof:name":"Dr Hardwick Learning Ctr",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.752099,61.206308,-149.752099,61.206308],
+  "geometry": {"coordinates":[-149.752099,61.206308],"type":"Point"}
+}

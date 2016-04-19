@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.8101,61.160181,-149.8101,61.160181",
+    "geom:latitude":61.160181,
+    "geom:longitude":-149.8101,
+    "iso:country":"US",
+    "sg:address":"3933 E 67th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 1229",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PuVKssIwN1iNLsmf7E5hz_61.160181_-149.810100@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9896bc9931803327473e13b4f4d1f2ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102152095"
+        }
+    ],
+    "wof:id":"102152095",
+    "wof:lastmodified":1449069634,
+    "wof:name":"Cook Inlet Landscapes",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.8101,61.160181,-149.8101,61.160181],
+  "geometry": {"coordinates":[-149.8101,61.160181],"type":"Point"}
+}

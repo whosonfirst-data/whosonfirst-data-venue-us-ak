@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.742855,64.834092,-147.742855,64.834092",
+    "geom:latitude":64.834092,
+    "geom:longitude":-147.742855,
+    "iso:country":"US",
+    "sg:address":"1501 Bluebell St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 1311",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_143pmHgv2QoJKhs5dpTFEV_64.834092_-147.742855@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bdf0691b0364187c2eeb1aacd7e6d551",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102182845"
+        }
+    ],
+    "wof:id":"102182845",
+    "wof:lastmodified":1449069278,
+    "wof:name":"Arctic Cleaning",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.742855,64.834092,-147.742855,64.834092],
+  "geometry": {"coordinates":[-147.742855,64.834092],"type":"Point"}
+}

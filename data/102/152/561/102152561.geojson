@@ -1,0 +1,71 @@
+{
+  "id": "102152561",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-147.710474,64.842986,-147.710474,64.842986",
+    "geom:latitude":64.842986,
+    "geom:longitude":-147.710474,
+    "iso:country":"US",
+    "sg:address":"201 3rd Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 224 5567",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "state",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85915635,
+        102081397,
+        85848979
+    ],
+    "wof:brand_id":420575639,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bIaDCrW2XzEwZQIkabJS6_64.842986_-147.710474@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"15abdbc37fdad6cca045ddd9e295ad42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102152561"
+        }
+    ],
+    "wof:id":"102152561",
+    "wof:lastmodified":1457209685,
+    "wof:name":"Health Dept",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -147.710474,
+    64.842986,
+    -147.710474,
+    64.842986
+],
+  "geometry": {"coordinates":[-147.710474,64.842986],"type":"Point"}
+}

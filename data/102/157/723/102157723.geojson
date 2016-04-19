@@ -1,0 +1,72 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.725404,61.222301,-149.725404,61.222301",
+    "geom:latitude":61.222301,
+    "geom:longitude":-149.725404,
+    "iso:country":"US",
+    "sg:address":"8310 Peck Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 360 3578",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "grip",
+        "handle",
+        "stout",
+        "fighting",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jSBSTnKocvvOp2yN6WN7h_61.222301_-149.725404@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3d1aedd4e1b960d0fbca9a9169e7cbbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102157723"
+        }
+    ],
+    "wof:id":"102157723",
+    "wof:lastmodified":1449069832,
+    "wof:name":"S & W Industries",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.725404,61.222301,-149.725404,61.222301],
+  "geometry": {"coordinates":[-149.725404,61.222301],"type":"Point"}
+}

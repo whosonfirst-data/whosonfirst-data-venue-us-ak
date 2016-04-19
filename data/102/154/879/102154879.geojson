@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.978845,61.158993,-149.978845,61.158993",
+    "geom:latitude":61.158993,
+    "geom:longitude":-149.978845,
+    "iso:country":"US",
+    "sg:address":"4900 Raspberry Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 245 5530",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MrsuuTwgWxypINpGiJ3FA_61.158993_-149.978845@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"503570c5af6d44c87462f9242dee7a00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102154879"
+        }
+    ],
+    "wof:id":"102154879",
+    "wof:lastmodified":1449070241,
+    "wof:name":"Kincaid Elementary School",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.978845,61.158993,-149.978845,61.158993],
+  "geometry": {"coordinates":[-149.978845,61.158993],"type":"Point"}
+}

@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-150.990474,60.501056,-150.990474,60.501056",
+    "geom:latitude":60.501056,
+    "geom:longitude":-150.990474,
+    "iso:country":"US",
+    "sg:address":"41735 Sterling Hwy",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 3880",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:website":"www.wildernessway.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916845,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21FyNwkDxBJ2Mao7psAebj_60.501056_-150.990474@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"add12849053a2f3c1b67d299fef01175",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916845,
+            "region_id":85688573,
+            "venue_id":"102175649"
+        }
+    ],
+    "wof:id":"102175649",
+    "wof:lastmodified":1449069470,
+    "wof:name":"Wilderness Way",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-150.990474,60.501056,-150.990474,60.501056],
+  "geometry": {"coordinates":[-150.990474,60.501056],"type":"Point"}
+}

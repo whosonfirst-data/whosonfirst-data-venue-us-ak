@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.660416,55.34618,-131.660416,55.34618",
+    "geom:latitude":55.34618,
+    "geom:longitude":-131.660416,
+    "iso:country":"US",
+    "sg:address":"1429 Tongass Ave",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 8847",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NYYd0ZW25AzhOYqHva3LP_55.346180_-131.660416@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"93db6167eff64fc3d51ce7de69543ffb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102180865"
+        }
+    ],
+    "wof:id":"102180865",
+    "wof:lastmodified":1449067876,
+    "wof:name":"Amak Towing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.660416,55.34618,-131.660416,55.34618],
+  "geometry": {"coordinates":[-131.660416,55.34618],"type":"Point"}
+}

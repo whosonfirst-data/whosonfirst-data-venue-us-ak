@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.060516,60.48469,-151.060516,60.48469",
+    "geom:latitude":60.48469,
+    "geom:longitude":-151.060516,
+    "iso:country":"US",
+    "sg:address":"44109 Sterling Hwy",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 5700",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0f8JJrLN0zEKy73VrPKm9n_60.484690_-151.060516@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"29f44f3cc941bf1b742fef94434ec4a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102181025"
+        }
+    ],
+    "wof:id":"102181025",
+    "wof:lastmodified":1449069235,
+    "wof:name":"Don Jose's Mexican Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.060516,60.48469,-151.060516,60.48469],
+  "geometry": {"coordinates":[-151.060516,60.48469],"type":"Point"}
+}

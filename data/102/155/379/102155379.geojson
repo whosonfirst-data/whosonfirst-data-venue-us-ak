@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.908217,61.200615,-149.908217,61.200615",
+    "geom:latitude":61.200615,
+    "geom:longitude":-149.908217,
+    "iso:country":"US",
+    "sg:address":"2419 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 2419",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CBmhgrHm6frCyY8MTQkKM_61.200615_-149.908217@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"227ac8830c6566f296706f1f011ecfc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102155379"
+        }
+    ],
+    "wof:id":"102155379",
+    "wof:lastmodified":1449069743,
+    "wof:name":"Sweet Vivian's",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.908217,61.200615,-149.908217,61.200615],
+  "geometry": {"coordinates":[-149.908217,61.200615],"type":"Point"}
+}

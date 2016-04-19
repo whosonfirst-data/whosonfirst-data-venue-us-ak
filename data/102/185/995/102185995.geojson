@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.508978,58.359386,-134.508978,58.359386",
+    "geom:latitude":58.359386,
+    "geom:longitude":-134.508978,
+    "iso:country":"US",
+    "sg:address":"6205 Glacier Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 780 6066",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Y7I7rhNRyEJDFK54vcOHo_58.359386_-134.508978@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5ba9341d7bf80c203eeb85daa8b4b7da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102185995"
+        }
+    ],
+    "wof:id":"102185995",
+    "wof:lastmodified":1449068199,
+    "wof:name":"David G Logan DDS",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.508978,58.359386,-134.508978,58.359386],
+  "geometry": {"coordinates":[-134.508978,58.359386],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.820701,64.836707,-147.820701,64.836707",
+    "geom:latitude":64.836707,
+    "geom:longitude":-147.820701,
+    "iso:country":"US",
+    "sg:address":"3755 Airport Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 1400",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mAT1z5BNxLgsZHVxJ3cLM_64.836707_-147.820701@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1c05aa716d5af7c23fe941ce459101c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102156629"
+        }
+    ],
+    "wof:id":"102156629",
+    "wof:lastmodified":1449068283,
+    "wof:name":"Fred Meyer One Stop Shopping",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.820701,64.836707,-147.820701,64.836707],
+  "geometry": {"coordinates":[-147.820701,64.836707],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.89545,61.214071,-149.89545,61.214071",
+    "geom:latitude":61.214071,
+    "geom:longitude":-149.89545,
+    "iso:country":"US",
+    "sg:address":"845 G St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 6633",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MWhl8mCxw8UXwywE0OHLp_61.214071_-149.895450@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dc27571321b701b980b29ffc8ad74600",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102150493"
+        }
+    ],
+    "wof:id":"102150493",
+    "wof:lastmodified":1449067789,
+    "wof:name":"Quantum Investigations",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.89545,61.214071,-149.89545,61.214071],
+  "geometry": {"coordinates":[-149.89545,61.214071],"type":"Point"}
+}

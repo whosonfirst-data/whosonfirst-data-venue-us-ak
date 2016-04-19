@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.486654,61.579697,-149.486654,61.579697",
+    "geom:latitude":61.579697,
+    "geom:longitude":-149.486654,
+    "iso:country":"US",
+    "sg:address":"1651 W Parks Hwy",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 892 6005",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jK0Wc5ieALNyogdq1hjVh_61.579697_-149.486654@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2aa169ad405ccd3db95e3c5e6e8a60d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102178969"
+        }
+    ],
+    "wof:id":"102178969",
+    "wof:lastmodified":1449069530,
+    "wof:name":"Susitna Rose Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.486654,61.579697,-149.486654,61.579697],
+  "geometry": {"coordinates":[-149.486654,61.579697],"type":"Point"}
+}

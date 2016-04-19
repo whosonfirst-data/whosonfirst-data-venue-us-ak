@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.352922,64.753666,-147.352922,64.753666",
+    "geom:latitude":64.753666,
+    "geom:longitude":-147.352922,
+    "iso:country":"US",
+    "sg:address":"101 S Santa Claus Ln",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 3538",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915639,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gA20CRc5Am0NR2xEkNbGi_64.753666_-147.352922@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ed32d7deea9899d27751f07790a19e67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915639,
+            "region_id":85688573,
+            "venue_id":"102189985"
+        }
+    ],
+    "wof:id":"102189985",
+    "wof:lastmodified":1449069496,
+    "wof:name":"Food Factory",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.352922,64.753666,-147.352922,64.753666],
+  "geometry": {"coordinates":[-147.352922,64.753666],"type":"Point"}
+}

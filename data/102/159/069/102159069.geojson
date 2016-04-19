@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.064907,60.490147,-151.064907,60.490147",
+    "geom:latitude":60.490147,
+    "geom:longitude":-151.064907,
+    "iso:country":"US",
+    "sg:address":"170 N Birch Ln",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 1770",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:website":"www.freedomrealty.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50P8C8ujV0PR14pIdz7UCg_60.490147_-151.064907@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0222e9401d51d0bf48b66f611e4ead4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102159069"
+        }
+    ],
+    "wof:id":"102159069",
+    "wof:lastmodified":1449068094,
+    "wof:name":"Freedom Realty",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.064907,60.490147,-151.064907,60.490147],
+  "geometry": {"coordinates":[-151.064907,60.490147],"type":"Point"}
+}

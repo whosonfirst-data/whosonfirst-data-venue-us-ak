@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.808565,61.180912,-149.808565,61.180912",
+    "geom:latitude":61.180912,
+    "geom:longitude":-149.808565,
+    "iso:country":"US",
+    "sg:address":"3639 E Tudor Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 267 4924",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PBvDuPwVBueOrspEYiQTA_61.180912_-149.808565@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7ea62301915d26e81c928cc99e1e761e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102171899"
+        }
+    ],
+    "wof:id":"102171899",
+    "wof:lastmodified":1449070228,
+    "wof:name":"Fire Dept-Hazardous Materials",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.808565,61.180912,-149.808565,61.180912],
+  "geometry": {"coordinates":[-149.808565,61.180912],"type":"Point"}
+}

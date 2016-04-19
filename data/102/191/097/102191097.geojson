@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.843326,61.147002,-149.843326,61.147002",
+    "geom:latitude":61.147002,
+    "geom:longitude":-149.843326,
+    "iso:country":"US",
+    "sg:address":"8241 Dimond Hook Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 6222",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "heavy",
+        "cleanup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GIpzO5dDdCBeeLzJNcfN4_61.147002_-149.843326@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"646cf30db0e72ef8d184e514634f375f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102191097"
+        }
+    ],
+    "wof:id":"102191097",
+    "wof:lastmodified":1449069201,
+    "wof:name":"Linder Leasing",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.843326,61.147002,-149.843326,61.147002],
+  "geometry": {"coordinates":[-149.843326,61.147002],"type":"Point"}
+}

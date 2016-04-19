@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.709292,64.840905,-147.709292,64.840905",
+    "geom:latitude":64.840905,
+    "geom:longitude":-147.709292,
+    "iso:country":"US",
+    "sg:address":"313 7th Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 1218",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4glXbwWG9jSQfleW3Qgd6y_64.840905_-147.709292@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"717821888a255c82d8f822c2642637b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102153035"
+        }
+    ],
+    "wof:id":"102153035",
+    "wof:lastmodified":1449069462,
+    "wof:name":"Shanklin Computer Svc",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.709292,64.840905,-147.709292,64.840905],
+  "geometry": {"coordinates":[-147.709292,64.840905],"type":"Point"}
+}

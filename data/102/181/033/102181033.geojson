@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.719577,64.840563,-147.719577,64.840563",
+    "geom:latitude":64.840563,
+    "geom:longitude":-147.719577,
+    "iso:country":"US",
+    "sg:address":"515 7th Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 3454",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:website":"www.cchrc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IDufCW2bRUUZvjs8EBs4D_64.840563_-147.719577@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"845212e3f0f455d15feb4adc1491b0db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102181033"
+        }
+    ],
+    "wof:id":"102181033",
+    "wof:lastmodified":1449069230,
+    "wof:name":"Cold Climate Housing",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.719577,64.840563,-147.719577,64.840563],
+  "geometry": {"coordinates":[-147.719577,64.840563],"type":"Point"}
+}

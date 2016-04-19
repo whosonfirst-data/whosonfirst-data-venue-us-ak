@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.481224,61.59704,-149.481224,61.59704",
+    "geom:latitude":61.59704,
+    "geom:longitude":-149.481224,
+    "iso:country":"US",
+    "sg:address":"1600 Lucas Rd",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 9464",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "painting",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ao9IUlhQ9ufaG2L7gwB2u_61.597040_-149.481224@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b7f776fed15df113bace67f47f8e8cd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102156499"
+        }
+    ],
+    "wof:id":"102156499",
+    "wof:lastmodified":1449068282,
+    "wof:name":"Wings Of Color",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.481224,61.59704,-149.481224,61.59704],
+  "geometry": {"coordinates":[-149.481224,61.59704],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.75185,61.214474,-149.75185,61.214474",
+    "geom:latitude":61.214474,
+    "geom:longitude":-149.75185,
+    "iso:country":"US",
+    "sg:address":"812 Winter Haven St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 3566",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PLUJiXIftPzed3Cscrfoe_61.214474_-149.751850@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4bc964772d0f93892317ae99cc3fc9b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102150055"
+        }
+    ],
+    "wof:id":"102150055",
+    "wof:lastmodified":1449067790,
+    "wof:name":"Nordby Photography",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.75185,61.214474,-149.75185,61.214474],
+  "geometry": {"coordinates":[-149.75185,61.214474],"type":"Point"}
+}

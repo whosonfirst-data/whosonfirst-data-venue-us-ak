@@ -1,0 +1,67 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.633922,58.392449,-134.633922,58.392449",
+    "geom:latitude":58.392449,
+    "geom:longitude":-134.633922,
+    "iso:country":"US",
+    "sg:address":"11860 Mendenhall Loop Rd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 4661",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "snow",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915729,
+        85633793,
+        85688573,
+        102081399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6txyeeXkfLRP6237ww580K_58.392449_-134.633922@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8e82e0204f4143c1bfc2a7c524dd288a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "region_id":85688573,
+            "venue_id":"102188803"
+        }
+    ],
+    "wof:id":"102188803",
+    "wof:lastmodified":1449068948,
+    "wof:name":"Dave's Snow Removal",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.633922,58.392449,-134.633922,58.392449],
+  "geometry": {"coordinates":[-134.633922,58.392449],"type":"Point"}
+}

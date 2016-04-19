@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.95125,61.190623,-149.95125,61.190623",
+    "geom:latitude":61.190623,
+    "geom:longitude":-149.95125,
+    "iso:country":"US",
+    "sg:address":"3620 Challenger Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 7296",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34fdOmqw10mM6qkDksh0X5_61.190623_-149.951250@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"875a1224ecf8e927e4bd1f6eb2d18ff8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102151889"
+        }
+    ],
+    "wof:id":"102151889",
+    "wof:lastmodified":1449067779,
+    "wof:name":"Arctic Bookman",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.95125,61.190623,-149.95125,61.190623],
+  "geometry": {"coordinates":[-149.95125,61.190623],"type":"Point"}
+}

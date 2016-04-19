@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.843358,61.163848,-149.843358,61.163848",
+    "geom:latitude":61.163848,
+    "geom:longitude":-149.843358,
+    "iso:country":"US",
+    "sg:address":"6111 Quinhagak St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 868 5079",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aR00ETUpht6KpkPCeepKn_61.163848_-149.843358@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"71757e43107d6bb164fe01f6f53343a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102196229"
+        }
+    ],
+    "wof:id":"102196229",
+    "wof:lastmodified":1449068338,
+    "wof:name":"Ranes & Shine Auto",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.843358,61.163848,-149.843358,61.163848],
+  "geometry": {"coordinates":[-149.843358,61.163848],"type":"Point"}
+}

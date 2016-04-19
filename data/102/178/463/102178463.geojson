@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.662403,64.843742,-147.662403,64.843742",
+    "geom:latitude":64.843742,
+    "geom:longitude":-147.662403,
+    "iso:country":"US",
+    "sg:address":"512 Trainor Gate Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 4519",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rbDGxJDxt8zcNy3txa6qy_64.843742_-147.662403@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"61f9f92f4cd7fdbd4efa436295cbdfb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102178463"
+        }
+    ],
+    "wof:id":"102178463",
+    "wof:lastmodified":1449069530,
+    "wof:name":"Ken Persinger-Repair Svc",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.662403,64.843742,-147.662403,64.843742],
+  "geometry": {"coordinates":[-147.662403,64.843742],"type":"Point"}
+}

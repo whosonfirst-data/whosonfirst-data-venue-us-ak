@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.881449,61.198118,-149.881449,61.198118",
+    "geom:latitude":61.198118,
+    "geom:longitude":-149.881449,
+    "iso:country":"US",
+    "sg:address":"110 E Fireweed Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 6711",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "bingo",
+        "game"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48orzEcLD2JHjMsXjlzgQP_61.198118_-149.881449@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"670cd51930a92b07fd7474b3fc6ab741",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102175121"
+        }
+    ],
+    "wof:id":"102175121",
+    "wof:lastmodified":1449069470,
+    "wof:name":"Gold Cache Bingo",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.881449,61.198118,-149.881449,61.198118],
+  "geometry": {"coordinates":[-149.881449,61.198118],"type":"Point"}
+}

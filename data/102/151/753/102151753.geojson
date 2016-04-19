@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.632689,59.682908,-151.632689,59.682908",
+    "geom:latitude":59.682908,
+    "geom:longitude":-151.632689,
+    "iso:country":"US",
+    "sg:address":"66060 Diamond Ridge Rd",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 6000",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916995,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qNSdEpxBf1Wo3q2YLzBBd_59.682908_-151.632689@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bd843f0d13d1c7b255d52e885f989ff0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916995,
+            "region_id":85688573,
+            "venue_id":"102151753"
+        }
+    ],
+    "wof:id":"102151753",
+    "wof:lastmodified":1449067780,
+    "wof:name":"KWAVE/KPEN",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.632689,59.682908,-151.632689,59.682908],
+  "geometry": {"coordinates":[-151.632689,59.682908],"type":"Point"}
+}

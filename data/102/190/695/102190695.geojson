@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.54128,58.338559,-134.54128,58.338559",
+    "geom:latitude":58.338559,
+    "geom:longitude":-134.54128,
+    "iso:country":"US",
+    "sg:address":"8750 N Douglas Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 3424",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "artist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915729,
+        85633793,
+        85688573,
+        102081399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j6qACIWhqcyi8VkXPgJGy_58.338559_-134.541280@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8f3024395bdf717379ef737610ac5103",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "region_id":85688573,
+            "venue_id":"102190695"
+        }
+    ],
+    "wof:id":"102190695",
+    "wof:lastmodified":1449070034,
+    "wof:name":"Anderson Artworks",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.54128,58.338559,-134.54128,58.338559],
+  "geometry": {"coordinates":[-134.54128,58.338559],"type":"Point"}
+}

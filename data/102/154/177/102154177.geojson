@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.381629,56.461351,-132.381629,56.461351",
+    "geom:latitude":56.461351,
+    "geom:longitude":-132.381629,
+    "iso:country":"US",
+    "sg:address":"1119 Peninsula St",
+    "sg:city":"Wrangell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 874 3330",
+    "sg:postcode":"99929",
+    "sg:province":"AK",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916111,
+        85633793,
+        85688573,
+        102081901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nHAZONWgimtOctOhSyh86_56.461351_-132.381629@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f1337a38eba50f8302598ca03cf4e43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081901,
+            "locality_id":85916111,
+            "region_id":85688573,
+            "venue_id":"102154177"
+        }
+    ],
+    "wof:id":"102154177",
+    "wof:lastmodified":1449070247,
+    "wof:name":"Wrangell Truck & Auto",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.381629,56.461351,-132.381629,56.461351],
+  "geometry": {"coordinates":[-132.381629,56.461351],"type":"Point"}
+}

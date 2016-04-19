@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-161.77043,60.791847,-161.77043,60.791847",
+    "geom:latitude":60.791847,
+    "geom:longitude":-161.77043,
+    "iso:country":"US",
+    "sg:address":"201 Akiak Dr",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 543 4500",
+    "sg:postcode":"99559",
+    "sg:province":"AK",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915901,
+        85633793,
+        85688573,
+        102085877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4m7k11tY8Z3CFryMnbgcU1_60.791847_-161.770430@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2d6974177429c71930f6bea06373df02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085877,
+            "locality_id":85915901,
+            "region_id":85688573,
+            "venue_id":"102152985"
+        }
+    ],
+    "wof:id":"102152985",
+    "wof:lastmodified":1449069635,
+    "wof:name":"Kuskokwim Campus-UAF",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-161.77043,60.791847,-161.77043,60.791847],
+  "geometry": {"coordinates":[-161.77043,60.791847],"type":"Point"}
+}

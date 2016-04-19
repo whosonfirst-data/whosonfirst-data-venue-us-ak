@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.017948,61.583411,-149.017948,61.583411",
+    "geom:latitude":61.583411,
+    "geom:longitude":-149.017948,
+    "iso:country":"US",
+    "sg:address":"245 Brimar St",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 2860",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916303,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00Rfgo6BWRG8bUIyTAMLDE_61.583411_-149.017948@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"459daff05fe43b53f491e2b9ed59ac2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916303,
+            "region_id":85688573,
+            "venue_id":"102186095"
+        }
+    ],
+    "wof:id":"102186095",
+    "wof:lastmodified":1449069655,
+    "wof:name":"Trans-Alaska Mechanical",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.017948,61.583411,-149.017948,61.583411],
+  "geometry": {"coordinates":[-149.017948,61.583411],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.976289,61.145059,-149.976289,61.145059",
+    "geom:latitude":61.145059,
+    "geom:longitude":-149.976289,
+    "iso:country":"US",
+    "sg:address":"8230 Wilcox St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 351 4721",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "snow",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cQcjQ6aahEIFhlUaogAtr_61.145059_-149.976289@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ff2441e369f247a10428eb5e640d309f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102177915"
+        }
+    ],
+    "wof:id":"102177915",
+    "wof:lastmodified":1449070209,
+    "wof:name":"AAA Ornery Leprechaun Snow",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.976289,61.145059,-149.976289,61.145059],
+  "geometry": {"coordinates":[-149.976289,61.145059],"type":"Point"}
+}

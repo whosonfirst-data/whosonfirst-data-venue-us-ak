@@ -1,0 +1,75 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.897877,61.167961,-149.897877,61.167961",
+    "geom:latitude":61.167961,
+    "geom:longitude":-149.897877,
+    "iso:country":"US",
+    "sg:address":"5861 Arctic Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 7863",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop",
+        "industrial",
+        "mfg",
+        "who",
+        "metal",
+        "supply",
+        "rock",
+        "precious"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BeL8Mr7QElgplBUQldBvk_61.167961_-149.897877@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"abff99f759cad6e0674f993392b57c90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102194693"
+        }
+    ],
+    "wof:id":"102194693",
+    "wof:lastmodified":1449069823,
+    "wof:name":"Nature's Jewels",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.897877,61.167961,-149.897877,61.167961],
+  "geometry": {"coordinates":[-149.897877,61.167961],"type":"Point"}
+}

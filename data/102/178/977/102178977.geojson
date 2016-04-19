@@ -1,0 +1,67 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.943676,61.174672,-149.943676,61.174672",
+    "geom:latitude":61.174672,
+    "geom:longitude":-149.943676,
+    "iso:country":"US",
+    "sg:address":"5011 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 4624",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "aircraft",
+        "parts",
+        "supply"
+    ],
+    "sg:website":"www.aviall.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xzMhayduwbwh6h9e7N51t_61.174672_-149.943676@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"477ef9b58dd9f241c7894f19f186fd73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102178977"
+        }
+    ],
+    "wof:id":"102178977",
+    "wof:lastmodified":1449069535,
+    "wof:name":"Aviall Inc",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.943676,61.174672,-149.943676,61.174672],
+  "geometry": {"coordinates":[-149.943676,61.174672],"type":"Point"}
+}

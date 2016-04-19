@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.826622,61.223829,-149.826622,61.223829",
+    "geom:latitude":61.223829,
+    "geom:longitude":-149.826622,
+    "iso:country":"US",
+    "sg:address":"3002 Commercial Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 1392",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_029TR5BbjCOL7kZx1TtyFC_61.223829_-149.826622@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"23f9e13292f46e12e06c622761d35bbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102177411"
+        }
+    ],
+    "wof:id":"102177411",
+    "wof:lastmodified":1449070202,
+    "wof:name":"Metro Electric Inc",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.826622,61.223829,-149.826622,61.223829],
+  "geometry": {"coordinates":[-149.826622,61.223829],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.602369,58.402504,-134.602369,58.402504",
+    "geom:latitude":58.402504,
+    "geom:longitude":-134.602369,
+    "iso:country":"US",
+    "sg:address":"10221 Heron Way",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 7210",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915729,
+        85633793,
+        85688573,
+        102081399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Bt0OuRum8ytDeGuXp5s3M_58.402504_-134.602369@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ec353ef2787b88ab4ef697b8c2b24c38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "region_id":85688573,
+            "venue_id":"102167881"
+        }
+    ],
+    "wof:id":"102167881",
+    "wof:lastmodified":1449069001,
+    "wof:name":"Tug Petrel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.602369,58.402504,-134.602369,58.402504],
+  "geometry": {"coordinates":[-134.602369,58.402504],"type":"Point"}
+}

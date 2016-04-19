@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.893682,59.398345,-135.893682,59.398345",
+    "geom:latitude":59.398345,
+    "geom:longitude":-135.893682,
+    "iso:country":"US",
+    "sg:address":"32 Chilkat Ave",
+    "sg:city":"Haines",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 767 5505",
+    "sg:postcode":"99827",
+    "sg:province":"AK",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85917153,
+        85633793,
+        85688573,
+        102081003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lmcZpl5UGu7BlNfkgKI8l_59.398345_-135.893682@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"87a21adc9a29ee22ac55bc158735671d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081003,
+            "locality_id":85917153,
+            "region_id":85688573,
+            "venue_id":"102190701"
+        }
+    ],
+    "wof:id":"102190701",
+    "wof:lastmodified":1449070036,
+    "wof:name":"Chilkat Indian Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.893682,59.398345,-135.893682,59.398345],
+  "geometry": {"coordinates":[-135.893682,59.398345],"type":"Point"}
+}

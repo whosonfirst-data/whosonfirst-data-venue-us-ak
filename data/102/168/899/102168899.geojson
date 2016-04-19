@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.777054,64.812879,-147.777054,64.812879",
+    "geom:latitude":64.812879,
+    "geom:longitude":-147.777054,
+    "iso:country":"US",
+    "sg:address":"2333 Van Horn Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 6264",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Zew7SWJHFeDtbddJXcRGK_64.812879_-147.777054@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0f75a544288820577cf1d8e44c8dc3b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102168899"
+        }
+    ],
+    "wof:id":"102168899",
+    "wof:lastmodified":1449069009,
+    "wof:name":"Bowers Office Products Inc",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.777054,64.812879,-147.777054,64.812879],
+  "geometry": {"coordinates":[-147.777054,64.812879],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.922114,61.17501,-149.922114,61.17501",
+    "geom:latitude":61.17501,
+    "geom:longitude":-149.922114,
+    "iso:country":"US",
+    "sg:address":"4919 Van Buren St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 742 8655",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dV0N4RMTCv5FSiHybRduG_61.175010_-149.922114@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"df3796e4512178fabe1930f0ef503232",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102180215"
+        }
+    ],
+    "wof:id":"102180215",
+    "wof:lastmodified":1449067876,
+    "wof:name":"Elementary Science Ctr",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.922114,61.17501,-149.922114,61.17501],
+  "geometry": {"coordinates":[-149.922114,61.17501],"type":"Point"}
+}

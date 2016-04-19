@@ -1,0 +1,68 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.087683,60.481846,-151.087683,60.481846",
+    "geom:latitude":60.481846,
+    "geom:longitude":-151.087683,
+    "iso:country":"US",
+    "sg:address":"330 Kobuk Ct",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 1221",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "excavation",
+        "contractor",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qz5XSSpNAINYn1k146JCO_60.481846_-151.087683@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cc047aefdf7df0f5be9795df8c9b5010",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102153459"
+        }
+    ],
+    "wof:id":"102153459",
+    "wof:lastmodified":1449069460,
+    "wof:name":"Edward M Maurice Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.087683,60.481846,-151.087683,60.481846],
+  "geometry": {"coordinates":[-151.087683,60.481846],"type":"Point"}
+}

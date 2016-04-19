@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.288769,64.890752,-147.288769,64.890752",
+    "geom:latitude":64.890752,
+    "geom:longitude":-147.288769,
+    "iso:country":"US",
+    "sg:address":"3570 Mink Ln",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 9738",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "machine",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916545,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_135vnIqywsgeiXgzxxxrP6_64.890752_-147.288769@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ca856f45174ef75f4072e26e4186d32f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916545,
+            "region_id":85688573,
+            "venue_id":"102173155"
+        }
+    ],
+    "wof:id":"102173155",
+    "wof:lastmodified":1449068266,
+    "wof:name":"Manning Machine & Fabrication",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.288769,64.890752,-147.288769,64.890752],
+  "geometry": {"coordinates":[-147.288769,64.890752],"type":"Point"}
+}

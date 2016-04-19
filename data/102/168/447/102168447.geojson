@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.733445,61.205757,-149.733445,61.205757",
+    "geom:latitude":61.205757,
+    "geom:longitude":-149.733445,
+    "iso:country":"US",
+    "sg:address":"1551 Muldoon Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 332 1551",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61vTYcGI2ienbyOdVGPgsu_61.205757_-149.733445@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9f436eeb9886fe72bdf3654b6dece2dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102168447"
+        }
+    ],
+    "wof:id":"102168447",
+    "wof:lastmodified":1449069007,
+    "wof:name":"Schuck's Auto Supply",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.733445,61.205757,-149.733445,61.205757],
+  "geometry": {"coordinates":[-149.733445,61.205757],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.435637,61.555664,-149.435637,61.555664",
+    "geom:latitude":61.555664,
+    "geom:longitude":-149.435637,
+    "iso:country":"US",
+    "sg:address":"2510 Althea St",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 8817",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916243,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mosiqI5LgwcCELCN3ndqF_61.555664_-149.435637@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"710e0998311ac60db1c07a3fae251459",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916243,
+            "region_id":85688573,
+            "venue_id":"102179747"
+        }
+    ],
+    "wof:id":"102179747",
+    "wof:lastmodified":1449069941,
+    "wof:name":"Homestead Garage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.435637,61.555664,-149.435637,61.555664],
+  "geometry": {"coordinates":[-149.435637,61.555664],"type":"Point"}
+}

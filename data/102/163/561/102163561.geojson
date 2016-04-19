@@ -1,0 +1,73 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.902988,61.185214,-149.902988,61.185214",
+    "geom:latitude":61.185214,
+    "geom:longitude":-149.902988,
+    "iso:country":"US",
+    "sg:address":"942 W 39th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 227 5931",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573,
+        85850461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gqyhP7TRmKixKvmwywkCf_61.185214_-149.902988@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"79399cba22c63b306a91419e2e481c31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102163561"
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102163561"
+        }
+    ],
+    "wof:id":"102163561",
+    "wof:lastmodified":1449070164,
+    "wof:name":"Brett D Smith",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.902988,61.185214,-149.902988,61.185214],
+  "geometry": {"coordinates":[-149.902988,61.185214],"type":"Point"}
+}

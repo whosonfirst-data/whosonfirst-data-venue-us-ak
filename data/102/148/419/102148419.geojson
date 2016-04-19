@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.901647,61.217563,-149.901647,61.217563",
+    "geom:latitude":61.217563,
+    "geom:longitude":-149.901647,
+    "iso:country":"US",
+    "sg:address":"400 K St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 1401",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oJZOLmD9m8OQASzOGmvd1_61.217563_-149.901647@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7af783038996b694b8e88cffbe593924",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102148419"
+        }
+    ],
+    "wof:id":"102148419",
+    "wof:lastmodified":1449069787,
+    "wof:name":"Sandwich Deck",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.901647,61.217563,-149.901647,61.217563],
+  "geometry": {"coordinates":[-149.901647,61.217563],"type":"Point"}
+}

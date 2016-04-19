@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.902408,61.197038,-149.902408,61.197038",
+    "geom:latitude":61.197038,
+    "geom:longitude":-149.902408,
+    "iso:country":"US",
+    "sg:address":"1046 W 26th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 0110",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67m9FuMZwqX7OUyxW4qCrU_61.197038_-149.902408@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c6c2afe1b45285696bcf19ce7da8ddda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102176947"
+        }
+    ],
+    "wof:id":"102176947",
+    "wof:lastmodified":1449069346,
+    "wof:name":"Nicole Apartments",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.902408,61.197038,-149.902408,61.197038],
+  "geometry": {"coordinates":[-149.902408,61.197038],"type":"Point"}
+}

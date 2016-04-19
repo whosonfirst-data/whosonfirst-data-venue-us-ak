@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.878844,61.198019,-149.878844,61.198019",
+    "geom:latitude":61.198019,
+    "geom:longitude":-149.878844,
+    "iso:country":"US",
+    "sg:address":"210 E Fireweed Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 569 1515",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gbEKixiBsXTVoQNEKi9Qe_61.198019_-149.878844@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2a1d94bcbfc3d7219e427d39e9f5a64d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102189559"
+        }
+    ],
+    "wof:id":"102189559",
+    "wof:lastmodified":1449069499,
+    "wof:name":"Straight Out Of Philly",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.878844,61.198019,-149.878844,61.198019],
+  "geometry": {"coordinates":[-149.878844,61.198019],"type":"Point"}
+}

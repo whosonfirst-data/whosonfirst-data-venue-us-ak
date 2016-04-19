@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.810238,64.854476,-147.810238,64.854476",
+    "geom:latitude":64.854476,
+    "geom:longitude":-147.810238,
+    "iso:country":"US",
+    "sg:address":"1157 Deborah Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 2052",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JQUtm1ADZjmuQIHk8G3Qc_64.854476_-147.810238@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7dd716fb2e9e073d4d6e638f10ba0712",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102151697"
+        }
+    ],
+    "wof:id":"102151697",
+    "wof:lastmodified":1449067782,
+    "wof:name":"Whole Earth Grocery & Deli",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.810238,64.854476,-147.810238,64.854476],
+  "geometry": {"coordinates":[-147.810238,64.854476],"type":"Point"}
+}

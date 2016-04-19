@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.676957,64.813204,-147.676957,64.813204",
+    "geom:latitude":64.813204,
+    "geom:longitude":-147.676957,
+    "iso:country":"US",
+    "sg:address":"3300 Lakeview Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 455 8899",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4x2pjXvoUPfSFl2xPK24Ez_64.813204_-147.676957@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"26b4d9c3700a11f9b6c8ad5cee2ace87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102152681"
+        }
+    ],
+    "wof:id":"102152681",
+    "wof:lastmodified":1449069634,
+    "wof:name":"Executive Taxi",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.676957,64.813204,-147.676957,64.813204],
+  "geometry": {"coordinates":[-147.676957,64.813204],"type":"Point"}
+}

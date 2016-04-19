@@ -1,0 +1,70 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.895632,61.168772,-149.895632,61.168772",
+    "geom:latitude":61.168772,
+    "geom:longitude":-149.895632,
+    "iso:country":"US",
+    "sg:address":"520 W 58th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 2451",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "control",
+        "contractor"
+    ],
+    "sg:website":"www.autocontrols.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45bjdoFzaq7gpsPuLPH8vM_61.168772_-149.895632@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"238051e950aee1b72dae770f9ca151ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102185131"
+        }
+    ],
+    "wof:id":"102185131",
+    "wof:lastmodified":1449068196,
+    "wof:name":"Automated Control Systems",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.895632,61.168772,-149.895632,61.168772],
+  "geometry": {"coordinates":[-149.895632,61.168772],"type":"Point"}
+}

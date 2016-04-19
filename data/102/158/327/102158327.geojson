@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-156.776535,71.289087,-156.776535,71.289087",
+    "geom:latitude":71.289087,
+    "geom:longitude":-156.776535,
+    "iso:country":"US",
+    "sg:address":"1637 Okpik St",
+    "sg:city":"Barrow",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 852 2815",
+    "sg:postcode":"99723",
+    "sg:province":"AK",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915545,
+        85633793,
+        85688573,
+        102081001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63gtdxinFPw3WKf37jCLi4_71.289087_-156.776535@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e1cffe2dbf6bffa69db37743303b2ec5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081001,
+            "locality_id":85915545,
+            "region_id":85688573,
+            "venue_id":"102158327"
+        }
+    ],
+    "wof:id":"102158327",
+    "wof:lastmodified":1449069394,
+    "wof:name":"Felix's Janitorial Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-156.776535,71.289087,-156.776535,71.289087],
+  "geometry": {"coordinates":[-156.776535,71.289087],"type":"Point"}
+}

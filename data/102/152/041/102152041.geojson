@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.44497,59.235858,-135.44497,59.235858",
+    "geom:latitude":59.235858,
+    "geom:longitude":-135.44497,
+    "iso:country":"US",
+    "sg:address":"18 2nd Ave",
+    "sg:city":"Haines",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 766 2950",
+    "sg:postcode":"99827",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842771,
+        85633793,
+        85916629,
+        102083767,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SE45jf1BlE7PqWi3tFz6Q_59.235858_-135.444970@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"48c35cbb282e46cb8b4784460c12c201",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083767,
+            "locality_id":85916629,
+            "neighbourhood_id":85842771,
+            "region_id":85688573,
+            "venue_id":"102152041"
+        }
+    ],
+    "wof:id":"102152041",
+    "wof:lastmodified":1449069635,
+    "wof:name":"Bell's Store",
+    "wof:parent_id":85842771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.44497,59.235858,-135.44497,59.235858],
+  "geometry": {"coordinates":[-135.44497,59.235858],"type":"Point"}
+}

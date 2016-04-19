@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.525421,59.647052,-151.525421,59.647052",
+    "geom:latitude":59.647052,
+    "geom:longitude":-151.525421,
+    "iso:country":"US",
+    "sg:address":"3977 Lake St",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 8551",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "sg:website":"www.homerelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6v6GaCTCQywapSWeL6ZMCo_59.647052_-151.525421@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"064cc75666ad84fc51a135a86dcfdd6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102152035"
+        }
+    ],
+    "wof:id":"102152035",
+    "wof:lastmodified":1449069637,
+    "wof:name":"Homer Electric Assn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.525421,59.647052,-151.525421,59.647052],
+  "geometry": {"coordinates":[-151.525421,59.647052],"type":"Point"}
+}

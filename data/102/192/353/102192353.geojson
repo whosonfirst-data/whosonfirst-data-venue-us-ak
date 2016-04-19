@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.592299,58.386347,-134.592299,58.386347",
+    "geom:latitude":58.386347,
+    "geom:longitude":-134.592299,
+    "iso:country":"US",
+    "sg:address":"9410 Long Run Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 3877",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HxVWLxM6aaJB9I7jmCXjb_58.386347_-134.592299@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"17c3b40eb4fa5ff543f92bdfe3829944",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102192353"
+        }
+    ],
+    "wof:id":"102192353",
+    "wof:lastmodified":1449069503,
+    "wof:name":"R D Almlie Construction",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.592299,58.386347,-134.592299,58.386347],
+  "geometry": {"coordinates":[-134.592299,58.386347],"type":"Point"}
+}

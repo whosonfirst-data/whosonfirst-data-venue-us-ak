@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.190615,61.663259,-149.190615,61.663259",
+    "geom:latitude":61.663259,
+    "geom:longitude":-149.190615,
+    "iso:country":"US",
+    "sg:address":"7461 Nangle St",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 0468",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916261,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CfTxgjMEa44rrkr6jcEAX_61.663259_-149.190615@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f8b1bfe0dd538af9912d47649d0f3f80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916261,
+            "region_id":85688573,
+            "venue_id":"102192803"
+        }
+    ],
+    "wof:id":"102192803",
+    "wof:lastmodified":1449069506,
+    "wof:name":"OFFGRIDAPPLIANCES.COM",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.190615,61.663259,-149.190615,61.663259],
+  "geometry": {"coordinates":[-149.190615,61.663259],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.347295,57.055033,-135.347295,57.055033",
+    "geom:latitude":57.055033,
+    "geom:longitude":-135.347295,
+    "iso:country":"US",
+    "sg:address":"614 Katlian St",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 3343",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OD4lPNxd2zR5cBPcj0aS1_57.055033_-135.347295@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1c2af9ba746ee08acbc741203820adb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102194049"
+        }
+    ],
+    "wof:id":"102194049",
+    "wof:lastmodified":1449069829,
+    "wof:name":"Petro Express Car Wash & Gas",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.347295,57.055033,-135.347295,57.055033],
+  "geometry": {"coordinates":[-135.347295,57.055033],"type":"Point"}
+}

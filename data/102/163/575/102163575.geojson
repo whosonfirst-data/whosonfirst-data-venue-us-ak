@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.178732,60.397928,-151.178732,60.397928",
+    "geom:latitude":60.397928,
+    "geom:longitude":-151.178732,
+    "iso:country":"US",
+    "sg:address":"28765 Brewer Rd",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 5205",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916957,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JFQh6x3QrHhzTR2rNiLmv_60.397928_-151.178732@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e115416024b9b3348416d6ef61b537e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916957,
+            "region_id":85688573,
+            "venue_id":"102163575"
+        }
+    ],
+    "wof:id":"102163575",
+    "wof:lastmodified":1449070160,
+    "wof:name":"Squeaky Clean Janitorial",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.178732,60.397928,-151.178732,60.397928],
+  "geometry": {"coordinates":[-151.178732,60.397928],"type":"Point"}
+}

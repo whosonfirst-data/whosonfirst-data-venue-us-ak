@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.864975,61.211721,-149.864975,61.211721",
+    "geom:latitude":61.211721,
+    "geom:longitude":-149.864975,
+    "iso:country":"US",
+    "sg:address":"1008 Juneau St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 8800",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "deaf",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Iy5CPqeKWtFnaeBHUNI2E_61.211721_-149.864975@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"15b6b19df2a789f08990d2f5d93eb78e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102153639"
+        }
+    ],
+    "wof:id":"102153639",
+    "wof:lastmodified":1449069462,
+    "wof:name":"Hands-On Interpreting Svc",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.864975,61.211721,-149.864975,61.211721],
+  "geometry": {"coordinates":[-149.864975,61.211721],"type":"Point"}
+}

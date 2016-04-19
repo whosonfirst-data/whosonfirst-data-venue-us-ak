@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.339786,57.048783,-135.339786,57.048783",
+    "geom:latitude":57.048783,
+    "geom:longitude":-135.339786,
+    "iso:country":"US",
+    "sg:address":"100 Lincoln St",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 1811",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0e0SyPT9gOl8lKNv4gEBPR_57.048783_-135.339786@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5604da6009f8402b290cd9a6dd9412b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102158071"
+        }
+    ],
+    "wof:id":"102158071",
+    "wof:lastmodified":1449069393,
+    "wof:name":"Municipal Clerk",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.339786,57.048783,-135.339786,57.048783],
+  "geometry": {"coordinates":[-135.339786,57.048783],"type":"Point"}
+}

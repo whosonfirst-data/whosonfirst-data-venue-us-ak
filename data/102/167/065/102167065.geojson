@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.721569,55.408948,-131.721569,55.408948",
+    "geom:latitude":55.408948,
+    "geom:longitude":-131.721569,
+    "iso:country":"US",
+    "sg:address":"7480 N Tongass Hwy",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 8778",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jYRmPBrFMJCRhUVVOVVE3_55.408948_-131.721569@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"670d9e9aebeb4f9241e51def0c6bd9fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "region_id":85688573,
+            "venue_id":"102167065"
+        }
+    ],
+    "wof:id":"102167065",
+    "wof:lastmodified":1449069003,
+    "wof:name":"Southeast Auto Rental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.721569,55.408948,-131.721569,55.408948],
+  "geometry": {"coordinates":[-131.721569,55.408948],"type":"Point"}
+}

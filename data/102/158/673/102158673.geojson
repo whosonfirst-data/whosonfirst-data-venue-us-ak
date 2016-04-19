@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.6601,64.843108,-147.6601,64.843108",
+    "geom:latitude":64.843108,
+    "geom:longitude":-147.6601,
+    "iso:country":"US",
+    "sg:address":"410 Trainor Gate Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 5433",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42OTr1vop58zHGt7X1hgHK_64.843108_-147.660100@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"629308577f988ef9afa97955b1989fae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102158673"
+        }
+    ],
+    "wof:id":"102158673",
+    "wof:lastmodified":1449069393,
+    "wof:name":"Sunshine Health Foods",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.6601,64.843108,-147.6601,64.843108],
+  "geometry": {"coordinates":[-147.6601,64.843108],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.892114,61.155556,-149.892114,61.155556",
+    "geom:latitude":61.155556,
+    "geom:longitude":-149.892114,
+    "iso:country":"US",
+    "sg:address":"7217 Arctic Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 8210",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "video",
+        "disc",
+        "tape",
+        "cassette"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4L3sOlbSyyg7TonBf4Qsal_61.155556_-149.892114@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eed95b65b348f4b0b320a52de06b1b83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102165987"
+        }
+    ],
+    "wof:id":"102165987",
+    "wof:lastmodified":1449070214,
+    "wof:name":"Video City",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.892114,61.155556,-149.892114,61.155556],
+  "geometry": {"coordinates":[-149.892114,61.155556],"type":"Point"}
+}

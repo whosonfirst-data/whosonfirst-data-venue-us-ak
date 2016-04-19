@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.778298,61.195811,-149.778298,61.195811",
+    "geom:latitude":61.195811,
+    "geom:longitude":-149.778298,
+    "iso:country":"US",
+    "sg:address":"2639 Boniface Pkwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 1561",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806647,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1h7bQ7PVY3BNdFuXvYVtqP_61.195811_-149.778298@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3367c295825bc46fc7c0e973ff897949",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85806647,
+            "region_id":85688573,
+            "venue_id":"102164905"
+        }
+    ],
+    "wof:id":"102164905",
+    "wof:lastmodified":1449068091,
+    "wof:name":"Mario Townsend Dvm",
+    "wof:parent_id":85806647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.778298,61.195811,-149.778298,61.195811],
+  "geometry": {"coordinates":[-149.778298,61.195811],"type":"Point"}
+}

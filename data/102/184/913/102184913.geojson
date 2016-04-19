@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.920081,61.188149,-149.920081,61.188149",
+    "geom:latitude":61.188149,
+    "geom:longitude":-149.920081,
+    "iso:country":"US",
+    "sg:address":"1903 W 36th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 0031",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2R20TZEoGydegwQiOLYQqq_61.188149_-149.920081@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"49d6ba624b24d9413ecc83afac04d9bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102184913"
+        }
+    ],
+    "wof:id":"102184913",
+    "wof:lastmodified":1449068216,
+    "wof:name":"Henrietta Vaden Inc",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.920081,61.188149,-149.920081,61.188149],
+  "geometry": {"coordinates":[-149.920081,61.188149],"type":"Point"}
+}

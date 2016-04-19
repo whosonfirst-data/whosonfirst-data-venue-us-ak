@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-146.358689,61.129931,-146.358689,61.129931",
+    "geom:latitude":61.129931,
+    "geom:longitude":-146.358689,
+    "iso:country":"US",
+    "sg:address":"359 Fairbanks Dr",
+    "sg:city":"Valdez",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 835 4301",
+    "sg:postcode":"99686",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915585,
+        85633793,
+        85688573,
+        102081911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ooUlMNejFVP2tV0hV8m9O_61.129931_-146.358689@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b332be03b7cf04aa99f93fc21ecd6d83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915585,
+            "region_id":85688573,
+            "venue_id":"102177011"
+        }
+    ],
+    "wof:id":"102177011",
+    "wof:lastmodified":1449070209,
+    "wof:name":"Copper Valley Electric Assn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-146.358689,61.129931,-146.358689,61.129931],
+  "geometry": {"coordinates":[-146.358689,61.129931],"type":"Point"}
+}

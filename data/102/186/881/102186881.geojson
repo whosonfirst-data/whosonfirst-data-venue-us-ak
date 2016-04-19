@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.88895,61.214685,-149.88895,61.214685",
+    "geom:latitude":61.214685,
+    "geom:longitude":-149.88895,
+    "iso:country":"US",
+    "sg:address":"325 W 8th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 1000",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AGCTLVwVv7pqNyJz2WIbN_61.214685_-149.888950@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dc0c3448e98cdf30cfa18be0d92c4371",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102186881"
+        }
+    ],
+    "wof:id":"102186881",
+    "wof:lastmodified":1449069655,
+    "wof:name":"Clarion Suites",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.88895,61.214685,-149.88895,61.214685],
+  "geometry": {"coordinates":[-149.88895,61.214685],"type":"Point"}
+}

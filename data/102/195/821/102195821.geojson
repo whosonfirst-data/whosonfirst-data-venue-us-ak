@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.422068,58.302011,-134.422068,58.302011",
+    "geom:latitude":58.302011,
+    "geom:longitude":-134.422068,
+    "iso:country":"US",
+    "sg:address":"801 W 10th St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 465 2814",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "sg:website":"www.labor.state.ak.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24nmc5yZKVRZnGPS7ex6vt_58.302011_-134.422068@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5c4886b439f53cdc1fcde82c1bd945d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102195821"
+        }
+    ],
+    "wof:id":"102195821",
+    "wof:lastmodified":1449069363,
+    "wof:name":"Vocational Rehabilitation",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.422068,58.302011,-134.422068,58.302011],
+  "geometry": {"coordinates":[-134.422068,58.302011],"type":"Point"}
+}

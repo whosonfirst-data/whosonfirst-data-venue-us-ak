@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.692729,64.851258,-147.692729,64.851258",
+    "geom:latitude":64.851258,
+    "geom:longitude":-147.692729,
+    "iso:country":"US",
+    "sg:address":"739 Old Steese Hwy",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 8882",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62Rjl0hgeglageDbL5ZsNA_64.851258_-147.692729@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"46c5bd24444024db6847c3c128c7c6e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102185389"
+        }
+    ],
+    "wof:id":"102185389",
+    "wof:lastmodified":1449068198,
+    "wof:name":"Ken's Fairbanks Alignment Auto",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.692729,64.851258,-147.692729,64.851258],
+  "geometry": {"coordinates":[-147.692729,64.851258],"type":"Point"}
+}

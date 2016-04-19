@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.838126,61.182617,-149.838126,61.182617",
+    "geom:latitude":61.182617,
+    "geom:longitude":-149.838126,
+    "iso:country":"US",
+    "sg:address":"4003 Lake Otis Pkwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 6655",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NXWYQD8HMANiLLwtE0i6z_61.182617_-149.838126@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7fea57337bdac8a5acec336e664c8e29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102184559"
+        }
+    ],
+    "wof:id":"102184559",
+    "wof:lastmodified":1449068218,
+    "wof:name":"Healthsouth Diagnostic Ctr",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.838126,61.182617,-149.838126,61.182617],
+  "geometry": {"coordinates":[-149.838126,61.182617],"type":"Point"}
+}

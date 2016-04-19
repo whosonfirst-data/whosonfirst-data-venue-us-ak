@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.354186,57.812532,-152.354186,57.812532",
+    "geom:latitude":57.812532,
+    "geom:longitude":-152.354186,
+    "iso:country":"US",
+    "sg:address":"3449 E Rezanof Dr",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 9812",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "clinic"
+    ],
+    "sg:website":"www.kana.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Mbwzns2W4kFHyR8DjN6aT_57.812532_-152.354186@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"68d1380833eb743438cc11749c96a415",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102162271"
+        }
+    ],
+    "wof:id":"102162271",
+    "wof:lastmodified":1449069822,
+    "wof:name":"Kodiak Area Native Assn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.354186,57.812532,-152.354186,57.812532],
+  "geometry": {"coordinates":[-152.354186,57.812532],"type":"Point"}
+}

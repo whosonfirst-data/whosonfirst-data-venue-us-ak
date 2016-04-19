@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.679913,64.845804,-147.679913,64.845804",
+    "geom:latitude":64.845804,
+    "geom:longitude":-147.679913,
+    "iso:country":"US",
+    "sg:address":"338 Eureka Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 8254",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "quilting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qbvyZENyQPPLOk0Qp1ekh_64.845804_-147.679913@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"92ac850f96dd092c6964a0364f480903",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102148649"
+        }
+    ],
+    "wof:id":"102148649",
+    "wof:lastmodified":1449069784,
+    "wof:name":"Eureka Quilting",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.679913,64.845804,-147.679913,64.845804],
+  "geometry": {"coordinates":[-147.679913,64.845804],"type":"Point"}
+}

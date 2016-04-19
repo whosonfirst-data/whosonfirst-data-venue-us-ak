@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.939312,64.913612,-147.939312,64.913612",
+    "geom:latitude":64.913612,
+    "geom:longitude":-147.939312,
+    "iso:country":"US",
+    "sg:address":"2866 Monarch Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 455 7450",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916569,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pHgnaMQKrOCoOdiGiFS8D_64.913612_-147.939312@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e138edc1b05496694e8fc8b2b397c68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916569,
+            "region_id":85688573,
+            "venue_id":"102149383"
+        }
+    ],
+    "wof:id":"102149383",
+    "wof:lastmodified":1449067770,
+    "wof:name":"Metropolitan Garage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.939312,64.913612,-147.939312,64.913612],
+  "geometry": {"coordinates":[-147.939312,64.913612],"type":"Point"}
+}

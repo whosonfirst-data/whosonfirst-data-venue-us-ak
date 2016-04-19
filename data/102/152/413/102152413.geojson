@@ -1,0 +1,70 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.070065,60.495939,-151.070065,60.495939",
+    "geom:latitude":60.495939,
+    "geom:longitude":-151.070065,
+    "iso:country":"US",
+    "sg:address":"35618 Kenai Spur Hwy",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 260 7674",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop",
+        "coffee",
+        "eating",
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Pq7ldD6Ehh0qkW7xd1mcL_60.495939_-151.070065@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b665293c14632764365a0d487f85f96e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102152413"
+        }
+    ],
+    "wof:id":"102152413",
+    "wof:lastmodified":1449069633,
+    "wof:name":"Grind",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.070065,60.495939,-151.070065,60.495939],
+  "geometry": {"coordinates":[-151.070065,60.495939],"type":"Point"}
+}

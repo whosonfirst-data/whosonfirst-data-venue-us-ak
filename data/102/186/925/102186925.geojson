@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-158.461401,59.039973,-158.461401,59.039973",
+    "geom:latitude":59.039973,
+    "geom:longitude":-158.461401,
+    "iso:country":"US",
+    "sg:address":"141 Main St E",
+    "sg:city":"Dillingham",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 842 1069",
+    "sg:postcode":"99576",
+    "sg:province":"AK",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915613,
+        85633793,
+        85688573,
+        102080995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LG2uYywYy2L6mkuZxYhvX_59.039973_-158.461401@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bf61aefa8d68422166fce311b4c2444b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080995,
+            "locality_id":85915613,
+            "region_id":85688573,
+            "venue_id":"102186925"
+        }
+    ],
+    "wof:id":"102186925",
+    "wof:lastmodified":1449069653,
+    "wof:name":"Dillingham Harbor Master",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-158.461401,59.039973,-158.461401,59.039973],
+  "geometry": {"coordinates":[-158.461401,59.039973],"type":"Point"}
+}

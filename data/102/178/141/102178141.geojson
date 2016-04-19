@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.864102,61.146165,-149.864102,61.146165",
+    "geom:latitude":61.146165,
+    "geom:longitude":-149.864102,
+    "iso:country":"US",
+    "sg:address":"8101 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 1670",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KlORuAv5ihm0Ayef1M8wM_61.146165_-149.864102@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e681355fab801755f0f92cf2f02c7a7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102178141"
+        }
+    ],
+    "wof:id":"102178141",
+    "wof:lastmodified":1449069531,
+    "wof:name":"Alyeska Towing Automotive Rpr",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.864102,61.146165,-149.864102,61.146165],
+  "geometry": {"coordinates":[-149.864102,61.146165],"type":"Point"}
+}

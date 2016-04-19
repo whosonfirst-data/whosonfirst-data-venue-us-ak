@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.85731,61.214525,-149.85731,61.214525",
+    "geom:latitude":61.214525,
+    "geom:longitude":-149.85731,
+    "iso:country":"US",
+    "sg:address":"1338 E 8th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 748 0985",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_051Ago1a477HIjl04BDI3r_61.214525_-149.857310@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7bc0ce8d39a2b656284df8a9d87076d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102179993"
+        }
+    ],
+    "wof:id":"102179993",
+    "wof:lastmodified":1449069942,
+    "wof:name":"Advance Industries",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.85731,61.214525,-149.85731,61.214525],
+  "geometry": {"coordinates":[-149.85731,61.214525],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.808272,61.206468,-149.808272,61.206468",
+    "geom:latitude":61.206468,
+    "geom:longitude":-149.808272,
+    "iso:country":"US",
+    "sg:address":"1565 S Bragaw St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 5200",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iAet8yS9t2oUEtj5jsOAY_61.206468_-149.808272@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"014c2a38fcad67666c157e41ce6a2ca4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102179321"
+        }
+    ],
+    "wof:id":"102179321",
+    "wof:lastmodified":1449069940,
+    "wof:name":"Greatland Dental Laboratory",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.808272,61.206468,-149.808272,61.206468],
+  "geometry": {"coordinates":[-149.808272,61.206468],"type":"Point"}
+}

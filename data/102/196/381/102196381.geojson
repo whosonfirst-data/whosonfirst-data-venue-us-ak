@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.894546,64.813806,-147.894546,64.813806",
+    "geom:latitude":64.813806,
+    "geom:longitude":-147.894546,
+    "iso:country":"US",
+    "sg:address":"2391 Shanks Mare Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 458 8526",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916563,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1d5yBL3Bs6fKd6l4y1nqKN_64.813806_-147.894546@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7600f1dc16d4175c1c407bd563653900",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916563,
+            "region_id":85688573,
+            "venue_id":"102196381"
+        }
+    ],
+    "wof:id":"102196381",
+    "wof:lastmodified":1449068336,
+    "wof:name":"William J Ryan",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.894546,64.813806,-147.894546,64.813806],
+  "geometry": {"coordinates":[-147.894546,64.813806],"type":"Point"}
+}

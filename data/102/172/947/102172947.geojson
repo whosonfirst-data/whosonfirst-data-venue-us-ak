@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-145.758595,60.545837,-145.758595,60.545837",
+    "geom:latitude":60.545837,
+    "geom:longitude":-145.758595,
+    "iso:country":"US",
+    "sg:address":"401 1st St",
+    "sg:city":"Cordova",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 424 7253",
+    "sg:postcode":"99574",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839707,
+        85633793,
+        85915567,
+        102081911,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ohgshpJTAFcuYONh52Vz3_60.545837_-145.758595@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"955d9cef67d129300b8b3ab3cc0297c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915567,
+            "neighbourhood_id":85839707,
+            "region_id":85688573,
+            "venue_id":"102172947"
+        }
+    ],
+    "wof:id":"102172947",
+    "wof:lastmodified":1449068737,
+    "wof:name":"Alaskan Real Estate",
+    "wof:parent_id":85839707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-145.758595,60.545837,-145.758595,60.545837],
+  "geometry": {"coordinates":[-145.758595,60.545837],"type":"Point"}
+}

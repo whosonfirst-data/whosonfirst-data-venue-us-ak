@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.840771,61.18084,-149.840771,61.18084",
+    "geom:latitude":61.18084,
+    "geom:longitude":-149.840771,
+    "iso:country":"US",
+    "sg:address":"2222 E Tudor Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 7692",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uq8rI5bGhQrf5ciTx292x_61.180840_-149.840771@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c8aa6606cd3dfaef04a2f9ce04ace74c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102176841"
+        }
+    ],
+    "wof:id":"102176841",
+    "wof:lastmodified":1449069347,
+    "wof:name":"Eaglecrest Academy",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.840771,61.18084,-149.840771,61.18084],
+  "geometry": {"coordinates":[-149.840771,61.18084],"type":"Point"}
+}

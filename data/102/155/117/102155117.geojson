@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.030971,60.478686,-151.030971,60.478686",
+    "geom:latitude":60.478686,
+    "geom:longitude":-151.030971,
+    "iso:country":"US",
+    "sg:address":"657 Funny River Rd",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 260 5458",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d8wVkbpXw0XLBIgnspXQl_60.478686_-151.030971@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0229b2671803ededf39a5d585d8aa67f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102155117"
+        }
+    ],
+    "wof:id":"102155117",
+    "wof:lastmodified":1449069744,
+    "wof:name":"High Country Aviation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.030971,60.478686,-151.030971,60.478686],
+  "geometry": {"coordinates":[-151.030971,60.478686],"type":"Point"}
+}

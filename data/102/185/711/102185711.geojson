@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.769785,64.83551,-147.769785,64.83551",
+    "geom:latitude":64.83551,
+    "geom:longitude":-147.769785,
+    "iso:country":"US",
+    "sg:address":"1419 Moore St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 5876",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f0Ywvh5nQ38OT4Kb7NwKQ_64.835510_-147.769785@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e7669c6e41944e90390f4d4c6b9376c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102185711"
+        }
+    ],
+    "wof:id":"102185711",
+    "wof:lastmodified":1449068197,
+    "wof:name":"Louie Petit Trucking",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.769785,64.83551,-147.769785,64.83551],
+  "geometry": {"coordinates":[-147.769785,64.83551],"type":"Point"}
+}

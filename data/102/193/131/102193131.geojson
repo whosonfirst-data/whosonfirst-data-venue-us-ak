@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-165.389229,64.497265,-165.389229,64.497265",
+    "geom:latitude":64.497265,
+    "geom:longitude":-165.389229,
+    "iso:country":"US",
+    "sg:address":"892 E 4th Ave",
+    "sg:city":"Nome",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 443 2888",
+    "sg:postcode":"99762",
+    "sg:province":"AK",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915489,
+        85633793,
+        85688573,
+        102081401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NmZNLizXArPeDWDutK0PV_64.497265_-165.389229@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c8c7c92dad154dec1e885d1418df2dc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081401,
+            "locality_id":85915489,
+            "region_id":85688573,
+            "venue_id":"102193131"
+        }
+    ],
+    "wof:id":"102193131",
+    "wof:lastmodified":1449068193,
+    "wof:name":"Alaska Housing Finance Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-165.389229,64.497265,-165.389229,64.497265],
+  "geometry": {"coordinates":[-165.389229,64.497265],"type":"Point"}
+}

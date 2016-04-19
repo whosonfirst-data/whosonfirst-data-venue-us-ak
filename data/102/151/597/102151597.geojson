@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.742808,61.230405,-149.742808,61.230405",
+    "geom:latitude":61.230405,
+    "geom:longitude":-149.742808,
+    "iso:country":"US",
+    "sg:address":"1200 N Muldoon Rd",
+    "sg:city":"Elmendorf Afb",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 338 7275",
+    "sg:postcode":"99506",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NU2JuJ9ppaG4fWwoO46jG_61.230405_-149.742808@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9a0e9fa5d664fd3578fe7331dc1f1362",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102151597"
+        }
+    ],
+    "wof:id":"102151597",
+    "wof:lastmodified":1449067781,
+    "wof:name":"Anchorage RV Park",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.742808,61.230405,-149.742808,61.230405],
+  "geometry": {"coordinates":[-149.742808,61.230405],"type":"Point"}
+}

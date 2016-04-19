@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.868014,61.174394,-149.868014,61.174394",
+    "geom:latitude":61.174394,
+    "geom:longitude":-149.868014,
+    "iso:country":"US",
+    "sg:address":"4831 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 2029",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "report",
+        "construction"
+    ],
+    "sg:website":"www.theplansroom.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dbU4Pf5OqgCwHcm3MrzJS_61.174394_-149.868014@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"00fbfa30ae201ae51b5f9e69a22605fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102177573"
+        }
+    ],
+    "wof:id":"102177573",
+    "wof:lastmodified":1449070209,
+    "wof:name":"Plans Room",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.868014,61.174394,-149.868014,61.174394],
+  "geometry": {"coordinates":[-149.868014,61.174394],"type":"Point"}
+}

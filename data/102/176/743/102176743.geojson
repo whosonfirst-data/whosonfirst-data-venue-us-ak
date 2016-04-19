@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.739294,61.124262,-149.739294,61.124262",
+    "geom:latitude":61.124262,
+    "geom:longitude":-149.739294,
+    "iso:country":"US",
+    "sg:address":"10661 Elies Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 336 5143",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "sawmill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873747,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ih95G9d7grrCcJTc8g0ck_61.124262_-149.739294@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9e3e0a38639ecad311cc32a5e60a074c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873747,
+            "region_id":85688573,
+            "venue_id":"102176743"
+        }
+    ],
+    "wof:id":"102176743",
+    "wof:lastmodified":1449069348,
+    "wof:name":"Parker's Portable Saw Mill",
+    "wof:parent_id":85873747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.739294,61.124262,-149.739294,61.124262],
+  "geometry": {"coordinates":[-149.739294,61.124262],"type":"Point"}
+}

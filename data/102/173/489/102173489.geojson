@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.93529,61.188946,-149.93529,61.188946",
+    "geom:latitude":61.188946,
+    "geom:longitude":-149.93529,
+    "iso:country":"US",
+    "sg:address":"3919 E Turnagain Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 3574",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vSvUaMKOhisi9NIlNYM4p_61.188946_-149.935290@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e06a956ed3f7481d58824df9bf655a79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102173489"
+        }
+    ],
+    "wof:id":"102173489",
+    "wof:lastmodified":1449068265,
+    "wof:name":"Turnagain Circle Apartments",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.93529,61.188946,-149.93529,61.188946],
+  "geometry": {"coordinates":[-149.93529,61.188946],"type":"Point"}
+}

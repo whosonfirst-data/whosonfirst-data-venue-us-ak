@@ -1,0 +1,67 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.843171,61.141053,-149.843171,61.141053",
+    "geom:latitude":61.141053,
+    "geom:longitude":-149.843171,
+    "iso:country":"US",
+    "sg:address":"2000 E 88th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 3533",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "development",
+        "gas",
+        "oil",
+        "exploration"
+    ],
+    "sg:website":"www.fairweather.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PhUob3CpZsnqVCfzYJyRX_61.141053_-149.843171@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"66f47ffaf260a33f7c8fffc55e62107d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102184719"
+        }
+    ],
+    "wof:id":"102184719",
+    "wof:lastmodified":1449068216,
+    "wof:name":"Fairweather",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.843171,61.141053,-149.843171,61.141053],
+  "geometry": {"coordinates":[-149.843171,61.141053],"type":"Point"}
+}

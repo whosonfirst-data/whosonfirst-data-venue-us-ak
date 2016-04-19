@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.921427,61.194867,-149.921427,61.194867",
+    "geom:latitude":61.194867,
+    "geom:longitude":-149.921427,
+    "iso:country":"US",
+    "sg:address":"2002 W Benson Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 2340",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Uisl0kdBf7gFNEKMtsgN6_61.194867_-149.921427@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1bcb6ea5fd59070b339f1f2c3babd35c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102184923"
+        }
+    ],
+    "wof:id":"102184923",
+    "wof:lastmodified":1449068217,
+    "wof:name":"Chang Linda Dvm",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.921427,61.194867,-149.921427,61.194867],
+  "geometry": {"coordinates":[-149.921427,61.194867],"type":"Point"}
+}

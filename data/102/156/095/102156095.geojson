@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.878861,61.113004,-149.878861,61.113004",
+    "geom:latitude":61.113004,
+    "geom:longitude":-149.878861,
+    "iso:country":"US",
+    "sg:address":"11910 Johns Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 8446",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "upholstered",
+        "household",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873755,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lq5PbF3rOTzb8zVwIZV3w_61.113004_-149.878861@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9b12329439d7c3b95dbee9d082c10654",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873755,
+            "region_id":85688573,
+            "venue_id":"102156095"
+        }
+    ],
+    "wof:id":"102156095",
+    "wof:lastmodified":1449068282,
+    "wof:name":"Anchorage Upholstery",
+    "wof:parent_id":85873755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.878861,61.113004,-149.878861,61.113004],
+  "geometry": {"coordinates":[-149.878861,61.113004],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.702606,64.847312,-147.702606,64.847312",
+    "geom:latitude":64.847312,
+    "geom:longitude":-147.702606,
+    "iso:country":"US",
+    "sg:address":"209 Forty Mile Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 6445",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_522VxvvgLC7DqOQUUbB75Z_64.847312_-147.702606@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f69e57231a098489048dcfbea7fc9cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102194759"
+        }
+    ],
+    "wof:id":"102194759",
+    "wof:lastmodified":1449069829,
+    "wof:name":"Hospitality House",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.702606,64.847312,-147.702606,64.847312],
+  "geometry": {"coordinates":[-147.702606,64.847312],"type":"Point"}
+}

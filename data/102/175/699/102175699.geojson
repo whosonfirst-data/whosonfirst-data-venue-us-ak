@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.44434,61.401696,-149.44434,61.401696",
+    "geom:latitude":61.401696,
+    "geom:longitude":-149.44434,
+    "iso:country":"US",
+    "sg:address":"23450 Big Sky Dr",
+    "sg:city":"Chugiak",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 688 0366",
+    "sg:postcode":"99567",
+    "sg:province":"AK",
+    "sg:tags":[
+        "saddlery",
+        "harness"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806187,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UWrvqQDrxKdIjOWCQjPc9_61.401696_-149.444340@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c5048c622f222490dd0ab43ab3669a1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85806187,
+            "region_id":85688573,
+            "venue_id":"102175699"
+        }
+    ],
+    "wof:id":"102175699",
+    "wof:lastmodified":1449069464,
+    "wof:name":"Diamond 'D' Custom Leather",
+    "wof:parent_id":85806187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.44434,61.401696,-149.44434,61.401696],
+  "geometry": {"coordinates":[-149.44434,61.401696],"type":"Point"}
+}

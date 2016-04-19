@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.701505,64.83803,-147.701505,64.83803",
+    "geom:latitude":64.83803,
+    "geom:longitude":-147.701505,
+    "iso:country":"US",
+    "sg:address":"308 Slater Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 4300",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "counseling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I73BxstNOFe9TijPllI1f_64.838030_-147.701505@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d416122b28e364a41fd39089ae3f0951",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102179413"
+        }
+    ],
+    "wof:id":"102179413",
+    "wof:lastmodified":1449069942,
+    "wof:name":"Career Callings",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.701505,64.83803,-147.701505,64.83803],
+  "geometry": {"coordinates":[-147.701505,64.83803],"type":"Point"}
+}

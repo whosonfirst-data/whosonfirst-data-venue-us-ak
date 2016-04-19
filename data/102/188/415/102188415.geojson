@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.72602,64.839603,-147.72602,64.839603",
+    "geom:latitude":64.839603,
+    "geom:longitude":-147.72602,
+    "iso:country":"US",
+    "sg:address":"801 Barnette St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 455 4820",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "technical",
+        "trade"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PUSMJ2tpPz4C1YOAgOy7K_64.839603_-147.726020@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"64f91a04f39e157b88018eb83b88481e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102188415"
+        }
+    ],
+    "wof:id":"102188415",
+    "wof:lastmodified":1449068947,
+    "wof:name":"E-Tech Global",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.72602,64.839603,-147.72602,64.839603],
+  "geometry": {"coordinates":[-147.72602,64.839603],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.406324,58.300017,-134.406324,58.300017",
+    "geom:latitude":58.300017,
+    "geom:longitude":-134.406324,
+    "iso:country":"US",
+    "sg:address":"105 Municipal Way",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 5216",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "city",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SiDlW6wm2YfNai7FGMmX5_58.300017_-134.406324@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4c15b2b4de33ba32a09597e25386778e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102194345"
+        }
+    ],
+    "wof:id":"102194345",
+    "wof:lastmodified":1449069830,
+    "wof:name":"Juneau City Controller",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.406324,58.300017,-134.406324,58.300017],
+  "geometry": {"coordinates":[-134.406324,58.300017],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.699514,64.813018,-147.699514,64.813018",
+    "geom:latitude":64.813018,
+    "geom:longitude":-147.699514,
+    "iso:country":"US",
+    "sg:address":"360 E Van Horn Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 5905",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YpHlr8XSvg5W7NpAcFsus_64.813018_-147.699514@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"069da37d799e5b9f092a1357113b714e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102173981"
+        }
+    ],
+    "wof:id":"102173981",
+    "wof:lastmodified":1449068272,
+    "wof:name":"WTW Trucking",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.699514,64.813018,-147.699514,64.813018],
+  "geometry": {"coordinates":[-147.699514,64.813018],"type":"Point"}
+}

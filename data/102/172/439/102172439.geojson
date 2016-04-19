@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.908515,61.189123,-149.908515,61.189123",
+    "geom:latitude":61.189123,
+    "geom:longitude":-149.908515,
+    "iso:country":"US",
+    "sg:address":"3400 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 1912",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "alternative",
+        "abortion"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WkTR0rvmc9FvyKfnVLxJC_61.189123_-149.908515@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a0739b3359bf84effa2318b7be352e59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102172439"
+        }
+    ],
+    "wof:id":"102172439",
+    "wof:lastmodified":1449068734,
+    "wof:name":"Abortions Alternatives",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.908515,61.189123,-149.908515,61.189123],
+  "geometry": {"coordinates":[-149.908515,61.189123],"type":"Point"}
+}

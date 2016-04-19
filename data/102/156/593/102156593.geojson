@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.069951,60.495444,-151.069951,60.495444",
+    "geom:latitude":60.495444,
+    "geom:longitude":-151.069951,
+    "iso:country":"US",
+    "sg:address":"35557 Kenai Spur Hwy",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 6630",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QSRMo1O3JdsW4r3FrMnmj_60.495444_-151.069951@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e9775031e5ec74fc538bf9349fef425",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102156593"
+        }
+    ],
+    "wof:id":"102156593",
+    "wof:lastmodified":1449068281,
+    "wof:name":"Soldotna Florist",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.069951,60.495444,-151.069951,60.495444],
+  "geometry": {"coordinates":[-151.069951,60.495444],"type":"Point"}
+}

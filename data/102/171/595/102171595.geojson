@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.537781,61.326657,-149.537781,61.326657",
+    "geom:latitude":61.326657,
+    "geom:longitude":-149.537781,
+    "iso:country":"US",
+    "sg:address":"18340 Stillwater Dr",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 696 1289",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:tags":[
+        "glass",
+        "leaded"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IM0nbCNuX1eqPyfm5aRTP_61.326657_-149.537781@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7b5a594a8c8d365d9a83e4c99af44fe4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102171595"
+        }
+    ],
+    "wof:id":"102171595",
+    "wof:lastmodified":1449070228,
+    "wof:name":"Glass Smith",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.537781,61.326657,-149.537781,61.326657],
+  "geometry": {"coordinates":[-149.537781,61.326657],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.862518,64.820864,-147.862518,64.820864",
+    "geom:latitude":64.820864,
+    "geom:longitude":-147.862518,
+    "iso:country":"US",
+    "sg:address":"6260 Old Airport Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 0112",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916609,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wfGAiV8p3fBw8HOGj9cG2_64.820864_-147.862518@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"506a2c972fafbba748b5784f0a1ef60a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "region_id":85688573,
+            "venue_id":"102185999"
+        }
+    ],
+    "wof:id":"102185999",
+    "wof:lastmodified":1449068198,
+    "wof:name":"Arctic Circle Air",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.862518,64.820864,-147.862518,64.820864],
+  "geometry": {"coordinates":[-147.862518,64.820864],"type":"Point"}
+}

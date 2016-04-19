@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.337588,64.774744,-147.337588,64.774744",
+    "geom:latitude":64.774744,
+    "geom:longitude":-147.337588,
+    "iso:country":"US",
+    "sg:address":"3032 Super Cub Ln",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 2125",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916555,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iHnAuXFOsNaT9i9PA5Ozp_64.774744_-147.337588@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"48ed97a7a16db9191757def66cffc7c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916555,
+            "region_id":85688573,
+            "venue_id":"102168931"
+        }
+    ],
+    "wof:id":"102168931",
+    "wof:lastmodified":1449069009,
+    "wof:name":"Black Bear Taxidermy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.337588,64.774744,-147.337588,64.774744],
+  "geometry": {"coordinates":[-147.337588,64.774744],"type":"Point"}
+}

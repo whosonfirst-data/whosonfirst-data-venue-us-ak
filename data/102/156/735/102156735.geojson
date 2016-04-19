@@ -1,0 +1,57 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.79273,55.472479,-131.79273,55.472479",
+    "geom:latitude":55.472479,
+    "geom:longitude":-131.79273,
+    "iso:country":"US",
+    "sg:address":"37 Potter Rd",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 8829",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:website":"www.southeastexposure.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ymHCkCfMo6FTFC2CGRqHS_55.472479_-131.792730@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5884a61556a57521f9fc91198bcd0f00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "region_id":85688573,
+            "venue_id":"102156735"
+        }
+    ],
+    "wof:id":"102156735",
+    "wof:lastmodified":1449068283,
+    "wof:name":"Southeast Exposure",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.79273,55.472479,-131.79273,55.472479],
+  "geometry": {"coordinates":[-131.79273,55.472479],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.51145,64.834811,-147.51145,64.834811",
+    "geom:latitude":64.834811,
+    "geom:longitude":-147.51145,
+    "iso:country":"US",
+    "sg:address":"1310 Fickes Loop",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 1955",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916555,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RmSvqpKQ9Zs1uloEdekzM_64.834811_-147.511450@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7f3817b20e9247e5cde45e70563895a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916555,
+            "region_id":85688573,
+            "venue_id":"102173341"
+        }
+    ],
+    "wof:id":"102173341",
+    "wof:lastmodified":1449068272,
+    "wof:name":"Lost Nugget Lodging",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.51145,64.834811,-147.51145,64.834811],
+  "geometry": {"coordinates":[-147.51145,64.834811],"type":"Point"}
+}

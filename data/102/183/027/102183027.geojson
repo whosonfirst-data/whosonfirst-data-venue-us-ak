@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.46599,59.667786,-151.46599,59.667786",
+    "geom:latitude":59.667786,
+    "geom:longitude":-151.46599,
+    "iso:country":"US",
+    "sg:address":"41470 Bear Creek Dr",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 2439",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834363,
+        85633793,
+        85915739,
+        102081909,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Eo0nI1BLiwlT2qx86zFUJ_59.667786_-151.465990@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"34c55f6fe34fe61e8aae082ce1a2538a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "neighbourhood_id":85834363,
+            "region_id":85688573,
+            "venue_id":"102183027"
+        }
+    ],
+    "wof:id":"102183027",
+    "wof:lastmodified":1449069039,
+    "wof:name":"Alaska Timberframe",
+    "wof:parent_id":85834363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.46599,59.667786,-151.46599,59.667786],
+  "geometry": {"coordinates":[-151.46599,59.667786],"type":"Point"}
+}

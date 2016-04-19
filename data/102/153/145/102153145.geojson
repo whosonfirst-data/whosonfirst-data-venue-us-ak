@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.954323,61.185171,-149.954323,61.185171",
+    "geom:latitude":61.185171,
+    "geom:longitude":-149.954323,
+    "iso:country":"US",
+    "sg:address":"3701 Roald Amundsen Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 0676",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0F1S1NSTnAcmpnb6Xw6ACJ_61.185171_-149.954323@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b568594264b2ec4178092e5edf7e0b07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102153145"
+        }
+    ],
+    "wof:id":"102153145",
+    "wof:lastmodified":1449069461,
+    "wof:name":"Northern Lights Mechanical",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.954323,61.185171,-149.954323,61.185171],
+  "geometry": {"coordinates":[-149.954323,61.185171],"type":"Point"}
+}

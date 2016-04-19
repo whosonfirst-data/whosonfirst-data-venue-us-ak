@@ -1,0 +1,70 @@
+{
+  "id": "102158187",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-147.710723,64.817787,-147.710723,64.817787",
+    "geom:latitude":64.817787,
+    "geom:longitude":-147.710723,
+    "iso:country":"US",
+    "sg:address":"3175 S Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 3664",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85915635,
+        102081397,
+        85869047
+    ],
+    "wof:brand_id":420574171,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IGbmzDgXXWTP4HBpjqIyo_64.817787_-147.710723@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f60324401041c85e6e8a0afd1201d5b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102158187"
+        }
+    ],
+    "wof:id":"102158187",
+    "wof:lastmodified":1457208589,
+    "wof:name":"Budget Rent A Car",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -147.710723,
+    64.817787,
+    -147.710723,
+    64.817787
+],
+  "geometry": {"coordinates":[-147.710723,64.817787],"type":"Point"}
+}

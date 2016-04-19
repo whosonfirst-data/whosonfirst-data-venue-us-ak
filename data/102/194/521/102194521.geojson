@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.890814,61.218626,-149.890814,61.218626",
+    "geom:latitude":61.218626,
+    "geom:longitude":-149.890814,
+    "iso:country":"US",
+    "sg:address":"443 W 4th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 278 6901",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l6BIdnCromjPyT9XulRGz_61.218626_-149.890814@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3a5c5004a5000ce6c06039d60dc7826e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102194521"
+        }
+    ],
+    "wof:id":"102194521",
+    "wof:lastmodified":1449069831,
+    "wof:name":"Alaska Salmon Chowder House",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.890814,61.218626,-149.890814,61.218626],
+  "geometry": {"coordinates":[-149.890814,61.218626],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-148.078425,64.757205,-148.078425,64.757205",
+    "geom:latitude":64.757205,
+    "geom:longitude":-148.078425,
+    "iso:country":"US",
+    "sg:address":"4300 Tyler Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 9402",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916563,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OdR7ijbVVbOTCNayX0sOj_64.757205_-148.078425@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"26205c93954bea29c1998e31fb4a8519",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916563,
+            "region_id":85688573,
+            "venue_id":"102176443"
+        }
+    ],
+    "wof:id":"102176443",
+    "wof:lastmodified":1449069346,
+    "wof:name":"Fairbanks Roofing & Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-148.078425,64.757205,-148.078425,64.757205],
+  "geometry": {"coordinates":[-148.078425,64.757205],"type":"Point"}
+}

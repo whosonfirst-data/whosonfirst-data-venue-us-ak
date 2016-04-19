@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.114611,61.603853,-149.114611,61.603853",
+    "geom:latitude":61.603853,
+    "geom:longitude":-149.114611,
+    "iso:country":"US",
+    "sg:address":"342 S Alaska St",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 746 7874",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915577,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LjH61jDkXQ9W30muC0U93_61.603853_-149.114611@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a0ce53636b1e1075c938beb0ef5a57a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915577,
+            "region_id":85688573,
+            "venue_id":"102190589"
+        }
+    ],
+    "wof:id":"102190589",
+    "wof:lastmodified":1449070035,
+    "wof:name":"Infinity Physical Therapy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.114611,61.603853,-149.114611,61.603853],
+  "geometry": {"coordinates":[-149.114611,61.603853],"type":"Point"}
+}

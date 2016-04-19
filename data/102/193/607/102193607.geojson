@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.895271,61.168772,-149.895271,61.168772",
+    "geom:latitude":61.168772,
+    "geom:longitude":-149.895271,
+    "iso:country":"US",
+    "sg:address":"552 W 58th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 3930",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "distribution",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21tneVjEf8kCB3qQJ0zCyA_61.168772_-149.895271@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ebf7f54b609d82fb614d31293c7d32fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102193607"
+        }
+    ],
+    "wof:id":"102193607",
+    "wof:lastmodified":1449068192,
+    "wof:name":"Amco Industrial",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.895271,61.168772,-149.895271,61.168772],
+  "geometry": {"coordinates":[-149.895271,61.168772],"type":"Point"}
+}

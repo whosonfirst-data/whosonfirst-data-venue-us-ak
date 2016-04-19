@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.980038,61.148084,-149.980038,61.148084",
+    "geom:latitude":61.148084,
+    "geom:longitude":-149.980038,
+    "iso:country":"US",
+    "sg:address":"8042 Seacliff St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 8871",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kVY9QSMnIYvTy8QOnbXS3_61.148084_-149.980038@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b0540f01cf5b27c7df89986f7c4367e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102163837"
+        }
+    ],
+    "wof:id":"102163837",
+    "wof:lastmodified":1449070159,
+    "wof:name":"Have Tools Will Travel",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.980038,61.148084,-149.980038,61.148084],
+  "geometry": {"coordinates":[-149.980038,61.148084],"type":"Point"}
+}

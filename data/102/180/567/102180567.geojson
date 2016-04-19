@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.949269,61.187659,-149.949269,61.187659",
+    "geom:latitude":61.187659,
+    "geom:longitude":-149.949269,
+    "iso:country":"US",
+    "sg:address":"3400 Sagan Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 0071",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "lobbyist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25643gedisFxVB0cLp84Yp_61.187659_-149.949269@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"04d7a81fb18431325c0378668c2d8274",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102180567"
+        }
+    ],
+    "wof:id":"102180567",
+    "wof:lastmodified":1449067876,
+    "wof:name":"Sullivan & Assoc",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.949269,61.187659,-149.949269,61.187659],
+  "geometry": {"coordinates":[-149.949269,61.187659],"type":"Point"}
+}

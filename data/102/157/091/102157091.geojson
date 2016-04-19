@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.501943,61.587588,-149.501943,61.587588",
+    "geom:latitude":61.587588,
+    "geom:longitude":-149.501943,
+    "iso:country":"US",
+    "sg:address":"1201 Melanie Ave",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 3090",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eFPZP7eBryTXkxhPUroYh_61.587588_-149.501943@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1a1260520f3bd53694af1e850d637d7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102157091"
+        }
+    ],
+    "wof:id":"102157091",
+    "wof:lastmodified":1449069830,
+    "wof:name":"Bales Repair & Welding",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.501943,61.587588,-149.501943,61.587588],
+  "geometry": {"coordinates":[-149.501943,61.587588],"type":"Point"}
+}

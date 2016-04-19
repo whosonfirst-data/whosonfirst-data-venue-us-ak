@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.072234,60.493321,-151.072234,60.493321",
+    "geom:latitude":60.493321,
+    "geom:longitude":-151.072234,
+    "iso:country":"US",
+    "sg:address":"246 N Binkley St",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 6393",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vTLVj2CMdLgcEgtX4SVYj_60.493321_-151.072234@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2c5aa9d7dc4843440a63086a4e4fda30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102169195"
+        }
+    ],
+    "wof:id":"102169195",
+    "wof:lastmodified":1449069246,
+    "wof:name":"Binkley Street Dental Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.072234,60.493321,-151.072234,60.493321],
+  "geometry": {"coordinates":[-151.072234,60.493321],"type":"Point"}
+}

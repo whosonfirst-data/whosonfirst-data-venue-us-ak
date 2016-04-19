@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.892909,61.171662,-149.892909,61.171662",
+    "geom:latitude":61.171662,
+    "geom:longitude":-149.892909,
+    "iso:country":"US",
+    "sg:address":"660 W 54th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 5432",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "snow",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6s4aPYtDAXjlQ0Fb73xMuD_61.171662_-149.892909@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"96ab179c37a6b49797e85ed49e63cc13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102189179"
+        }
+    ],
+    "wof:id":"102189179",
+    "wof:lastmodified":1449069499,
+    "wof:name":"C & G Svc",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.892909,61.171662,-149.892909,61.171662],
+  "geometry": {"coordinates":[-149.892909,61.171662],"type":"Point"}
+}

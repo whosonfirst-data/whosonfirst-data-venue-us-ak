@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.620553,64.957641,-147.620553,64.957641",
+    "geom:latitude":64.957641,
+    "geom:longitude":-147.620553,
+    "iso:country":"US",
+    "sg:address":"2195 Old Steese Hwy N",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 2739",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "brewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916597,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d8O9iQBCzP0ftpCeLf3oM_64.957641_-147.620553@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1d01a8cde699247912b78f6b93a1a1e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916597,
+            "region_id":85688573,
+            "venue_id":"102166107"
+        }
+    ],
+    "wof:id":"102166107",
+    "wof:lastmodified":1449069082,
+    "wof:name":"Silver Gulch Brewing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.620553,64.957641,-147.620553,64.957641],
+  "geometry": {"coordinates":[-147.620553,64.957641],"type":"Point"}
+}

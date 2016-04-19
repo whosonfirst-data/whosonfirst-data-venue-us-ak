@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.609244,64.904204,-147.609244,64.904204",
+    "geom:latitude":64.904204,
+    "geom:longitude":-147.609244,
+    "iso:country":"US",
+    "sg:address":"970 Old Steese Hwy N",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 458 7024",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916559,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jg5F8Z8Ex9cGj6Ir9PDxt_64.904204_-147.609244@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2343f35691b192c7f48addf09323049f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "region_id":85688573,
+            "venue_id":"102171545"
+        }
+    ],
+    "wof:id":"102171545",
+    "wof:lastmodified":1449070222,
+    "wof:name":"Lifewater Engineering Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.609244,64.904204,-147.609244,64.904204],
+  "geometry": {"coordinates":[-147.609244,64.904204],"type":"Point"}
+}

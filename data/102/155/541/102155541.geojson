@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.727602,64.834246,-147.727602,64.834246",
+    "geom:latitude":64.834246,
+    "geom:longitude":-147.727602,
+    "iso:country":"US",
+    "sg:address":"1531 Gillam Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 4407",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71zmzXf5Mtdd8sdQ10TiP3_64.834246_-147.727602@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"253ea0bdb31bdcf5ca1e0c1495103d98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102155541"
+        }
+    ],
+    "wof:id":"102155541",
+    "wof:lastmodified":1449069742,
+    "wof:name":"David Stephenson CPA",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.727602,64.834246,-147.727602,64.834246],
+  "geometry": {"coordinates":[-147.727602,64.834246],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.109564,61.598895,-149.109564,61.598895",
+    "geom:latitude":61.598895,
+    "geom:longitude":-149.109564,
+    "iso:country":"US",
+    "sg:address":"325 E Elmwood Ave",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 746 6118",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915577,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RiLv4ix11YOb86ofqjhBs_61.598895_-149.109564@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"38d2f08a63c8cf2ebcf4744bd9fa7b6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915577,
+            "region_id":85688573,
+            "venue_id":"102158453"
+        }
+    ],
+    "wof:id":"102158453",
+    "wof:lastmodified":1449069395,
+    "wof:name":"Inn Cafe'",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.109564,61.598895,-149.109564,61.598895],
+  "geometry": {"coordinates":[-149.109564,61.598895],"type":"Point"}
+}

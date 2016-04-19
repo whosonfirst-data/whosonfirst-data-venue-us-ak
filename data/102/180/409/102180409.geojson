@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.73143,64.845434,-147.73143,64.845434",
+    "geom:latitude":64.845434,
+    "geom:longitude":-147.73143,
+    "iso:country":"US",
+    "sg:address":"1035 2nd Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 1823",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34hYIrM1K9TKnH1YdEp8Ja_64.845434_-147.731430@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fbde7650bc894324c9f6abb492369213",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102180409"
+        }
+    ],
+    "wof:id":"102180409",
+    "wof:lastmodified":1449067872,
+    "wof:name":"Abacus Accounting",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.73143,64.845434,-147.73143,64.845434],
+  "geometry": {"coordinates":[-147.73143,64.845434],"type":"Point"}
+}

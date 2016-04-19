@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.874362,64.836431,-147.874362,64.836431",
+    "geom:latitude":64.836431,
+    "geom:longitude":-147.874362,
+    "iso:country":"US",
+    "sg:address":"1347 Gold Rush Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 8678",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916609,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uOF3o15ZI8LZbVcRt41Uh_64.836431_-147.874362@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"83e4176790a614f7821c9e1785bdc17d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "region_id":85688573,
+            "venue_id":"102165065"
+        }
+    ],
+    "wof:id":"102165065",
+    "wof:lastmodified":1449070217,
+    "wof:name":"Gold Rush Bed & Breakfast",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.874362,64.836431,-147.874362,64.836431],
+  "geometry": {"coordinates":[-147.874362,64.836431],"type":"Point"}
+}

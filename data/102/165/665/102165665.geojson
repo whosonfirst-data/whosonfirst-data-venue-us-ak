@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.072324,60.49499,-151.072324,60.49499",
+    "geom:latitude":60.49499,
+    "geom:longitude":-151.072324,
+    "iso:country":"US",
+    "sg:address":"299 N Binkley St",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 3800",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:website":"www.soldotnapharmacy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0O56VnyuPXqA8NXAaiXXNM_60.494990_-151.072324@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"06a82129d46618f059758dfbad2c9ca2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102165665"
+        }
+    ],
+    "wof:id":"102165665",
+    "wof:lastmodified":1449070214,
+    "wof:name":"Soldotna Professional Pharmacy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.072324,60.49499,-151.072324,60.49499],
+  "geometry": {"coordinates":[-151.072324,60.49499],"type":"Point"}
+}

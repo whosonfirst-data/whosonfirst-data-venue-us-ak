@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.762449,64.812891,-147.762449,64.812891",
+    "geom:latitude":64.812891,
+    "geom:longitude":-147.762449,
+    "iso:country":"US",
+    "sg:address":"2093 Van Horn Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 4888",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20OWB3p51oJekJ9zLWPSKz_64.812891_-147.762449@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"39a0eff8be2592829869532a892e3953",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102169391"
+        }
+    ],
+    "wof:id":"102169391",
+    "wof:lastmodified":1449069247,
+    "wof:name":"Computerwerks",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.762449,64.812891,-147.762449,64.812891],
+  "geometry": {"coordinates":[-147.762449,64.812891],"type":"Point"}
+}

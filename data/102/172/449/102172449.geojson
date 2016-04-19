@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.893951,61.212648,-149.893951,61.212648",
+    "geom:latitude":61.212648,
+    "geom:longitude":-149.893951,
+    "iso:country":"US",
+    "sg:address":"616 W 10th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 0914",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.pbyukon.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UrU6KYOOzdPmDADuoyzrf_61.212648_-149.893951@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8d6f712a076a263389127da5556be781",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102172449"
+        }
+    ],
+    "wof:id":"102172449",
+    "wof:lastmodified":1449068738,
+    "wof:name":"Presbytery Of Yukon",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.893951,61.212648,-149.893951,61.212648],
+  "geometry": {"coordinates":[-149.893951,61.212648],"type":"Point"}
+}

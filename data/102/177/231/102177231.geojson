@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.331096,64.788013,-147.331096,64.788013",
+    "geom:latitude":64.788013,
+    "geom:longitude":-147.331096,
+    "iso:country":"US",
+    "sg:address":"2371 Pool St",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 4673",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "counseling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916555,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65DV1sxS1sd0tsBn6sJlPt_64.788013_-147.331096@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5c0df04a7a5291be82bdf426744a4837",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916555,
+            "region_id":85688573,
+            "venue_id":"102177231"
+        }
+    ],
+    "wof:id":"102177231",
+    "wof:lastmodified":1449070208,
+    "wof:name":"Samaritan Counseling Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.331096,64.788013,-147.331096,64.788013],
+  "geometry": {"coordinates":[-147.331096,64.788013],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.728636,64.828473,-147.728636,64.828473",
+    "geom:latitude":64.828473,
+    "geom:longitude":-147.728636,
+    "iso:country":"US",
+    "sg:address":"1108 21st Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 3506",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TGMWXTuu78G1QRYWfjleq_64.828473_-147.728636@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1370929cad8a65b20f95fd39f70abcdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102152291"
+        }
+    ],
+    "wof:id":"102152291",
+    "wof:lastmodified":1449069634,
+    "wof:name":"DSAR",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.728636,64.828473,-147.728636,64.828473],
+  "geometry": {"coordinates":[-147.728636,64.828473],"type":"Point"}
+}

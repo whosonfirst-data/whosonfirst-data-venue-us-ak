@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.444632,59.237096,-135.444632,59.237096",
+    "geom:latitude":59.237096,
+    "geom:longitude":-135.444632,
+    "iso:country":"US",
+    "sg:address":"201 Union St",
+    "sg:city":"Haines",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 766 2126",
+    "sg:postcode":"99827",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842771,
+        85633793,
+        85916629,
+        102083767,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NMVZOqajNa8S0gLwQY4jM_59.237096_-135.444632@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a9d286ea1ab81581e94a132b03410052",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083767,
+            "locality_id":85916629,
+            "neighbourhood_id":85842771,
+            "region_id":85688573,
+            "venue_id":"102195827"
+        }
+    ],
+    "wof:id":"102195827",
+    "wof:lastmodified":1449069364,
+    "wof:name":"Haines Christian Ctr",
+    "wof:parent_id":85842771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.444632,59.237096,-135.444632,59.237096],
+  "geometry": {"coordinates":[-135.444632,59.237096],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.697998,64.815353,-147.697998,64.815353",
+    "geom:latitude":64.815353,
+    "geom:longitude":-147.697998,
+    "iso:country":"US",
+    "sg:address":"3400 Macarthur St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 5704",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915635,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12GZGk8tVZF6OFOBGfM3ps_64.815353_-147.697998@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dcf718aa44d4a6f6dfa93bfa9e2c44cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "region_id":85688573,
+            "venue_id":"102165433"
+        }
+    ],
+    "wof:id":"102165433",
+    "wof:lastmodified":1449070214,
+    "wof:name":"Paragon Plumbing & Heating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.697998,64.815353,-147.697998,64.815353],
+  "geometry": {"coordinates":[-147.697998,64.815353],"type":"Point"}
+}

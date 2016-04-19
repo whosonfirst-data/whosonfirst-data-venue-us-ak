@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.74025,61.09422,-149.74025,61.09422",
+    "geom:latitude":61.09422,
+    "geom:longitude":-149.74025,
+    "iso:country":"US",
+    "sg:address":"7535 E 140th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 3538",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873741,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EScPZDlaLDbnJT7ipBFHn_61.094220_-149.740250@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7bb2897d73287e970f60c619cfc8b584",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873741,
+            "region_id":85688573,
+            "venue_id":"102163747"
+        }
+    ],
+    "wof:id":"102163747",
+    "wof:lastmodified":1449070160,
+    "wof:name":"LHS Management",
+    "wof:parent_id":85873741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.74025,61.09422,-149.74025,61.09422],
+  "geometry": {"coordinates":[-149.74025,61.09422],"type":"Point"}
+}

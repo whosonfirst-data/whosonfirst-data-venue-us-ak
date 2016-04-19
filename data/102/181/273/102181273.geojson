@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.918071,61.186075,-149.918071,61.186075",
+    "geom:latitude":61.186075,
+    "geom:longitude":-149.918071,
+    "iso:country":"US",
+    "sg:address":"3812 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 2622",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3h2oW4qTs1Su7Xcpa8lCYC_61.186075_-149.918071@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5ac9e10c6c06b7ba1f70479707016343",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102181273"
+        }
+    ],
+    "wof:id":"102181273",
+    "wof:lastmodified":1449069234,
+    "wof:name":"MBA Consulting Engineers Inc",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.918071,61.186075,-149.918071,61.186075],
+  "geometry": {"coordinates":[-149.918071,61.186075],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.404773,58.299952,-134.404773,58.299952",
+    "geom:latitude":58.299952,
+    "geom:longitude":-134.404773,
+    "iso:country":"US",
+    "sg:address":"184 S Franklin St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 1270",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ep9LKdXfy0oAul3z1lojQ_58.299952_-134.404773@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ab4fe3901765f69f5eeb9315d997c6a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102164627"
+        }
+    ],
+    "wof:id":"102164627",
+    "wof:lastmodified":1449068093,
+    "wof:name":"Rendezvous",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.404773,58.299952,-134.404773,58.299952],
+  "geometry": {"coordinates":[-134.404773,58.299952],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.886602,61.189506,-149.886602,61.189506",
+    "geom:latitude":61.189506,
+    "geom:longitude":-149.886602,
+    "iso:country":"US",
+    "sg:address":"3300 C St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 7468",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33OdQsKeCHa5NQsB5fw1hf_61.189506_-149.886602@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6e86cfbbcaa32beb450ba7480f265b49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102169133"
+        }
+    ],
+    "wof:id":"102169133",
+    "wof:lastmodified":1449069248,
+    "wof:name":"Globe Real Estate Inc",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.886602,61.189506,-149.886602,61.189506],
+  "geometry": {"coordinates":[-149.886602,61.189506],"type":"Point"}
+}

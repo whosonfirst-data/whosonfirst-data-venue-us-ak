@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.673172,64.847657,-147.673172,64.847657",
+    "geom:latitude":64.847657,
+    "geom:longitude":-147.673172,
+    "iso:country":"US",
+    "sg:address":"410 Craig Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 458 8543",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46Pup5wfSmhTIxhXhxJGr1_64.847657_-147.673172@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bbbd9af8b2b5f4bcd9c1e555ff4d679c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102173367"
+        }
+    ],
+    "wof:id":"102173367",
+    "wof:lastmodified":1449068266,
+    "wof:name":"Sandra's Child Care",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.673172,64.847657,-147.673172,64.847657],
+  "geometry": {"coordinates":[-147.673172,64.847657],"type":"Point"}
+}

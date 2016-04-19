@@ -1,0 +1,73 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.83822,61.1723,-149.83822,61.1723",
+    "geom:latitude":61.1723,
+    "geom:longitude":-149.83822,
+    "iso:country":"US",
+    "sg:address":"5406 Lake Otis Pkwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 3490",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "sell",
+        "installs",
+        "heating",
+        "system",
+        "furnace",
+        "fireplace"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h1l1cyOFevrqeQC9fsbXA_61.172300_-149.838220@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3e1a034c91e222baa28323950d5b9ae5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102166807"
+        }
+    ],
+    "wof:id":"102166807",
+    "wof:lastmodified":1449069083,
+    "wof:name":"Diamond Heating Comfort System",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.83822,61.1723,-149.83822,61.1723],
+  "geometry": {"coordinates":[-149.83822,61.1723],"type":"Point"}
+}

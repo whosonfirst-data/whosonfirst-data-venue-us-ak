@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.89918,61.215518,-149.89918,61.215518",
+    "geom:latitude":61.215518,
+    "geom:longitude":-149.89918,
+    "iso:country":"US",
+    "sg:address":"820 W 7th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 8000",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873721,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KhttRh6xxqUcMrSZyyCyw_61.215518_-149.899180@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5369a78dd7a186356c763c72e3b0d547",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873721,
+            "region_id":85688573,
+            "venue_id":"102164505"
+        }
+    ],
+    "wof:id":"102164505",
+    "wof:lastmodified":1449068090,
+    "wof:name":"Anchorage Marriott Downtown",
+    "wof:parent_id":85873721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.89918,61.215518,-149.89918,61.215518],
+  "geometry": {"coordinates":[-149.89918,61.215518],"type":"Point"}
+}

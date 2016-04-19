@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.758605,61.218791,-149.758605,61.218791",
+    "geom:latitude":61.218791,
+    "geom:longitude":-149.758605,
+    "iso:country":"US",
+    "sg:address":"421 Donna Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 0732",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IwHPapvm1tKmHk4ePzz7J_61.218791_-149.758605@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b32ec1a19479e97d7c3a08da3200be42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102172469"
+        }
+    ],
+    "wof:id":"102172469",
+    "wof:lastmodified":1449068739,
+    "wof:name":"Yong's Hair Salon",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.758605,61.218791,-149.758605,61.218791],
+  "geometry": {"coordinates":[-149.758605,61.218791],"type":"Point"}
+}

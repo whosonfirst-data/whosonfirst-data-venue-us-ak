@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.69379,64.844659,-147.69379,64.844659",
+    "geom:latitude":64.844659,
+    "geom:longitude":-147.69379,
+    "iso:country":"US",
+    "sg:address":"609 3rd St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 8814",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6f1ciD1n1Gp8XQUa2dzu5s_64.844659_-147.693790@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e053a187f3f453cde0dcc4510b9d3f9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102184791"
+        }
+    ],
+    "wof:id":"102184791",
+    "wof:lastmodified":1449068218,
+    "wof:name":"Fairbanks Native Assoc",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.69379,64.844659,-147.69379,64.844659],
+  "geometry": {"coordinates":[-147.69379,64.844659],"type":"Point"}
+}

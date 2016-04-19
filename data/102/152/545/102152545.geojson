@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.733437,61.222946,-149.733437,61.222946",
+    "geom:latitude":61.222946,
+    "geom:longitude":-149.733437,
+    "iso:country":"US",
+    "sg:address":"171 Muldoon Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 338 0606",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72Xr9pzToOW9Z8wTpTyRh3_61.222946_-149.733437@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bcdeaf47c3036c79202703c4a7a5c893",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102152545"
+        }
+    ],
+    "wof:id":"102152545",
+    "wof:lastmodified":1449069634,
+    "wof:name":"J R's Barber Shop",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.733437,61.222946,-149.733437,61.222946],
+  "geometry": {"coordinates":[-149.733437,61.222946],"type":"Point"}
+}

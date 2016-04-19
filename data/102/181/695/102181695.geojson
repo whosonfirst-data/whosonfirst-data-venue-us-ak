@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.897877,61.16888,-149.897877,61.16888",
+    "geom:latitude":61.16888,
+    "geom:longitude":-149.897877,
+    "iso:country":"US",
+    "sg:address":"5703 Arctic Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 9534",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31n8t1xRVLN5vp3sohgjOz_61.168880_-149.897877@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"05dcf045cb6a9c088512357bd8e08e1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102181695"
+        }
+    ],
+    "wof:id":"102181695",
+    "wof:lastmodified":1449069234,
+    "wof:name":"Alaska Professional Volunteers",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.897877,61.16888,-149.897877,61.16888],
+  "geometry": {"coordinates":[-149.897877,61.16888],"type":"Point"}
+}

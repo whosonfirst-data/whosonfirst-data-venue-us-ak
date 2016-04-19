@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.405458,61.623155,-149.405458,61.623155",
+    "geom:latitude":61.623155,
+    "geom:longitude":-149.405458,
+    "iso:country":"US",
+    "sg:address":"1800 Red Fox Dr",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 357 5309",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916185,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YecDnaR3Qc65w95tUrA8i_61.623155_-149.405458@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2d121c976a121d10fe4aeb98c73acd2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916185,
+            "region_id":85688573,
+            "venue_id":"102151187"
+        }
+    ],
+    "wof:id":"102151187",
+    "wof:lastmodified":1449067779,
+    "wof:name":"Alaska Mobile Marine Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.405458,61.623155,-149.405458,61.623155],
+  "geometry": {"coordinates":[-149.405458,61.623155],"type":"Point"}
+}

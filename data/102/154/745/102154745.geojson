@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.73359,61.223304,-149.73359,61.223304",
+    "geom:latitude":61.223304,
+    "geom:longitude":-149.73359,
+    "iso:country":"US",
+    "sg:address":"106 Muldoon Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 770 5464",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "bars",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DMW6fSizDDMxjJyyGj4YD_61.223304_-149.733590@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"abd2ce48edbe2463b7c3ef9dd7b660f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102154745"
+        }
+    ],
+    "wof:id":"102154745",
+    "wof:lastmodified":1449070248,
+    "wof:name":"Alaska Espresso",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.73359,61.223304,-149.73359,61.223304],
+  "geometry": {"coordinates":[-149.73359,61.223304],"type":"Point"}
+}

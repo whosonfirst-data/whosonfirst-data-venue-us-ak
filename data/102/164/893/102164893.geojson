@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-161.770271,60.79683,-161.770271,60.79683",
+    "geom:latitude":60.79683,
+    "geom:longitude":-161.770271,
+    "iso:country":"US",
+    "sg:address":"155 6th Ave",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 543 7288",
+    "sg:postcode":"99559",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915901,
+        85633793,
+        85688573,
+        102085877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mANLrF8QikZyntzhJa4us_60.796830_-161.770271@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b927270c5e04d8186067afc0963729ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085877,
+            "locality_id":85915901,
+            "region_id":85688573,
+            "venue_id":"102164893"
+        }
+    ],
+    "wof:id":"102164893",
+    "wof:lastmodified":1449068090,
+    "wof:name":"Lumni's Auto",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-161.770271,60.79683,-161.770271,60.79683],
+  "geometry": {"coordinates":[-161.770271,60.79683],"type":"Point"}
+}

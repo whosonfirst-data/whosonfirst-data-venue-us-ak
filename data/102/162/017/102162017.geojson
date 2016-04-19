@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.769866,61.190772,-149.769866,61.190772",
+    "geom:latitude":61.190772,
+    "geom:longitude":-149.769866,
+    "iso:country":"US",
+    "sg:address":"3213 Glenn Don Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 2631",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806647,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LZpfW7pkF1f0qczopKrfb_61.190772_-149.769866@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"26aac1eab4a7fa02f1346da11b9c02cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85806647,
+            "region_id":85688573,
+            "venue_id":"102162017"
+        }
+    ],
+    "wof:id":"102162017",
+    "wof:lastmodified":1449069821,
+    "wof:name":"Herbalife Distributors",
+    "wof:parent_id":85806647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.769866,61.190772,-149.769866,61.190772],
+  "geometry": {"coordinates":[-149.769866,61.190772],"type":"Point"}
+}

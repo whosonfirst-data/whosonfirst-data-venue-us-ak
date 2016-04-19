@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.899141,61.214685,-149.899141,61.214685",
+    "geom:latitude":61.214685,
+    "geom:longitude":-149.899141,
+    "iso:country":"US",
+    "sg:address":"825 W 8th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 278 8470",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:website":"www.alaskadatatech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873721,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K0oQ2bxYZ8zEBRZidjd2p_61.214685_-149.899141@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"611e87d5633833c6fe7bfca08994eb02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873721,
+            "region_id":85688573,
+            "venue_id":"102148261"
+        }
+    ],
+    "wof:id":"102148261",
+    "wof:lastmodified":1449069779,
+    "wof:name":"Alaska Data Technologies",
+    "wof:parent_id":85873721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.899141,61.214685,-149.899141,61.214685],
+  "geometry": {"coordinates":[-149.899141,61.214685],"type":"Point"}
+}

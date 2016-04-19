@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.895452,61.20784,-149.895452,61.20784",
+    "geom:latitude":61.20784,
+    "geom:longitude":-149.895452,
+    "iso:country":"US",
+    "sg:address":"1413 G St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 6261",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873721,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TWqfBXsYQQZQQvu8lylkW_61.207840_-149.895452@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0ee483976f4088969cc3921357177ffa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873721,
+            "region_id":85688573,
+            "venue_id":"102162167"
+        }
+    ],
+    "wof:id":"102162167",
+    "wof:lastmodified":1449069822,
+    "wof:name":"Movement Therapeutics",
+    "wof:parent_id":85873721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.895452,61.20784,-149.895452,61.20784],
+  "geometry": {"coordinates":[-149.895452,61.20784],"type":"Point"}
+}

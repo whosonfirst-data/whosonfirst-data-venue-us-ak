@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.862236,61.187983,-149.862236,61.187983",
+    "geom:latitude":61.187983,
+    "geom:longitude":-149.862236,
+    "iso:country":"US",
+    "sg:address":"1000 E 36th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 1804",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_460od78iU5wBEpVUoFc8Jd_61.187983_-149.862236@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"54c2833d9cf91b8c45047df1f559adec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102188809"
+        }
+    ],
+    "wof:id":"102188809",
+    "wof:lastmodified":1449068946,
+    "wof:name":"Executive Quarters Styling",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.862236,61.187983,-149.862236,61.187983],
+  "geometry": {"coordinates":[-149.862236,61.187983],"type":"Point"}
+}

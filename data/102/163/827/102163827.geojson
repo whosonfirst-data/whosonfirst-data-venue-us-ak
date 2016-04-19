@@ -1,0 +1,68 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.716572,64.832789,-147.716572,64.832789",
+    "geom:latitude":64.832789,
+    "geom:longitude":-147.716572,
+    "iso:country":"US",
+    "sg:address":"1620 S Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 7758",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UDTfisZ3PFr4g2qNW8J0F_64.832789_-147.716572@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ffbe16048e3ae94a67f34ce07198a44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102163827"
+        }
+    ],
+    "wof:id":"102163827",
+    "wof:lastmodified":1449070160,
+    "wof:name":"Fairbanks Paint & Glass Co",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.716572,64.832789,-147.716572,64.832789],
+  "geometry": {"coordinates":[-147.716572,64.832789],"type":"Point"}
+}

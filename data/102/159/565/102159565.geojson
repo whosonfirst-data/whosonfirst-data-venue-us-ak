@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.872999,61.209099,-149.872999,61.209099",
+    "geom:latitude":61.209099,
+    "geom:longitude":-149.872999,
+    "iso:country":"US",
+    "sg:address":"1341 Fairbanks St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 6001",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_439EXo8J3EDvZzC3ufeymH_61.209099_-149.872999@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9f61554975b47a04989124e009fd9329",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102159565"
+        }
+    ],
+    "wof:id":"102159565",
+    "wof:lastmodified":1449068094,
+    "wof:name":"Alaska Managed Care Pharmacy",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.872999,61.209099,-149.872999,61.209099],
+  "geometry": {"coordinates":[-149.872999,61.209099],"type":"Point"}
+}

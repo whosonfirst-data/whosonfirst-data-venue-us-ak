@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.936452,61.183973,-149.936452,61.183973",
+    "geom:latitude":61.183973,
+    "geom:longitude":-149.936452,
+    "iso:country":"US",
+    "sg:address":"4004 Merrill Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 8363",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "blueprinting",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JZPgqjPxtegG2OSbye6H8_61.183973_-149.936452@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"282db2b7561630512fc615099b5f81ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102179769"
+        }
+    ],
+    "wof:id":"102179769",
+    "wof:lastmodified":1449069942,
+    "wof:name":"D W Enterprises",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.936452,61.183973,-149.936452,61.183973],
+  "geometry": {"coordinates":[-149.936452,61.183973],"type":"Point"}
+}

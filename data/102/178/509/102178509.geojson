@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.871282,61.11916,-149.871282,61.11916",
+    "geom:latitude":61.11916,
+    "geom:longitude":-149.871282,
+    "iso:country":"US",
+    "sg:address":"11221 Olive Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 0022",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873755,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QtjPztGRaTb4tyx3gVZoH_61.119160_-149.871282@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a5b31636f165322376654d0d486a99a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873755,
+            "region_id":85688573,
+            "venue_id":"102178509"
+        }
+    ],
+    "wof:id":"102178509",
+    "wof:lastmodified":1449069529,
+    "wof:name":"Swanson General Contractors",
+    "wof:parent_id":85873755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.871282,61.11916,-149.871282,61.11916],
+  "geometry": {"coordinates":[-149.871282,61.11916],"type":"Point"}
+}

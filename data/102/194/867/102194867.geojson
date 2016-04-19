@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.396863,57.797848,-152.396863,57.797848",
+    "geom:latitude":57.797848,
+    "geom:longitude":-152.396863,
+    "iso:country":"US",
+    "sg:address":"315 Maple Ave",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 8233",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vrE43CbQQJivshG1KIBIp_57.797848_-152.396863@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"89e9b8c9163dfe2f1eff6fe4abf378aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102194867"
+        }
+    ],
+    "wof:id":"102194867",
+    "wof:lastmodified":1449069828,
+    "wof:name":"Maria's Hair Boutique",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.396863,57.797848,-152.396863,57.797848],
+  "geometry": {"coordinates":[-152.396863,57.797848],"type":"Point"}
+}

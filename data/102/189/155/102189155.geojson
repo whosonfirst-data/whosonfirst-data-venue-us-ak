@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.71681,64.849215,-147.71681,64.849215",
+    "geom:latitude":64.849215,
+    "geom:longitude":-147.71681,
+    "iso:country":"US",
+    "sg:address":"345 Minnie St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 1802",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "sg:website":"www.minniestreetbandb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Mf2x3A2bHec5Pls9yJ722_64.849215_-147.716810@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b8b1998b6260c8c6bcb428a45161401b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102189155"
+        }
+    ],
+    "wof:id":"102189155",
+    "wof:lastmodified":1449069498,
+    "wof:name":"Minnie Street Bed & Breakfast",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.71681,64.849215,-147.71681,64.849215],
+  "geometry": {"coordinates":[-147.71681,64.849215],"type":"Point"}
+}

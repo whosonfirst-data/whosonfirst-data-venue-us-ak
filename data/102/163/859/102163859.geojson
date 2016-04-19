@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.404584,58.299785,-134.404584,58.299785",
+    "geom:latitude":58.299785,
+    "geom:longitude":-134.404584,
+    "iso:country":"US",
+    "sg:address":"152 S Franklin St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 463 5575",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aCW76dqT6ICqHKkSoxqB6_58.299785_-134.404584@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9368cef756eb913c8a03f1eb5e4f1cae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102163859"
+        }
+    ],
+    "wof:id":"102163859",
+    "wof:lastmodified":1449070165,
+    "wof:name":"Alaska Rainforest Gifts",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.404584,58.299785,-134.404584,58.299785],
+  "geometry": {"coordinates":[-134.404584,58.299785],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.93662,61.181178,-149.93662,61.181178",
+    "geom:latitude":61.181178,
+    "geom:longitude":-149.93662,
+    "iso:country":"US",
+    "sg:address":"4411 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 8848",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:website":"www.staysmart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ONYdv87gNcu1s6JVPaPck_61.181178_-149.936620@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"759ccd668ebfc3b2a5cde7700df12904",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102179449"
+        }
+    ],
+    "wof:id":"102179449",
+    "wof:lastmodified":1449069943,
+    "wof:name":"Holiday Inn Express Anchorage",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.93662,61.181178,-149.93662,61.181178],
+  "geometry": {"coordinates":[-149.93662,61.181178],"type":"Point"}
+}

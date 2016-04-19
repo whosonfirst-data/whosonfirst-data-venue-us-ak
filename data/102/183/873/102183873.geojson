@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.567324,58.395106,-134.567324,58.395106",
+    "geom:latitude":58.395106,
+    "geom:longitude":-134.567324,
+    "iso:country":"US",
+    "sg:address":"4118 Aspen Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 7688",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FkyorK26Ah1oQ9Qq9URHq_58.395106_-134.567324@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"90f91c7b06baff8f6633469cc36b452d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102183873"
+        }
+    ],
+    "wof:id":"102183873",
+    "wof:lastmodified":1449069041,
+    "wof:name":"Duck Creek Bed & Breakfast",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.567324,58.395106,-134.567324,58.395106],
+  "geometry": {"coordinates":[-134.567324,58.395106],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.858684,61.220551,-149.858684,61.220551",
+    "geom:latitude":61.220551,
+    "geom:longitude":-149.858684,
+    "iso:country":"US",
+    "sg:address":"105 Post Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 2628",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ltBVtwm2AiNc3QIMEUiK7_61.220551_-149.858684@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"946e459127fa0436d9a27b02705123dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102154015"
+        }
+    ],
+    "wof:id":"102154015",
+    "wof:lastmodified":1449070244,
+    "wof:name":"Boat Works",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.858684,61.220551,-149.858684,61.220551],
+  "geometry": {"coordinates":[-149.858684,61.220551],"type":"Point"}
+}

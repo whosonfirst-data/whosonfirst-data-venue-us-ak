@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.939923,61.198073,-149.939923,61.198073",
+    "geom:latitude":61.198073,
+    "geom:longitude":-149.939923,
+    "iso:country":"US",
+    "sg:address":"2601 Brooke Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 0738",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w1fusEMxEbsU2XkW0jQIZ_61.198073_-149.939923@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"66417e95a5611ce24091f7484e328aa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102162497"
+        }
+    ],
+    "wof:id":"102162497",
+    "wof:lastmodified":1449069824,
+    "wof:name":"Bk Roofing",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.939923,61.198073,-149.939923,61.198073],
+  "geometry": {"coordinates":[-149.939923,61.198073],"type":"Point"}
+}

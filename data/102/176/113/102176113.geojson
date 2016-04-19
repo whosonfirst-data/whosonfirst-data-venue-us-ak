@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.398903,57.790545,-152.398903,57.790545",
+    "geom:latitude":57.790545,
+    "geom:longitude":-152.398903,
+    "iso:country":"US",
+    "sg:address":"413 E Rezanof Dr",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 3257",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GTXFQfqIfQhWJ6xZ26vMC_57.790545_-152.398903@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ea0f3df6569d7ef827c880df39d207e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102176113"
+        }
+    ],
+    "wof:id":"102176113",
+    "wof:lastmodified":1449069351,
+    "wof:name":"Daniel H Farrar DDS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.398903,57.790545,-152.398903,57.790545],
+  "geometry": {"coordinates":[-152.398903,57.790545],"type":"Point"}
+}

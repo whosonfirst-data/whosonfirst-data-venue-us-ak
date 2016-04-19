@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.621131,64.895741,-147.621131,64.895741",
+    "geom:latitude":64.895741,
+    "geom:longitude":-147.621131,
+    "iso:country":"US",
+    "sg:address":"330 Golf Club Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 4653",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916559,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lUsOqA1HU4f5FWkJGox3O_64.895741_-147.621131@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d365edc4f05cae60746a58a5517c3c4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "region_id":85688573,
+            "venue_id":"102161525"
+        }
+    ],
+    "wof:id":"102161525",
+    "wof:lastmodified":1449068712,
+    "wof:name":"North Star Golf Club",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.621131,64.895741,-147.621131,64.895741],
+  "geometry": {"coordinates":[-147.621131,64.895741],"type":"Point"}
+}

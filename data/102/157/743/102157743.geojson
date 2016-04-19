@@ -1,0 +1,68 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.854815,61.222547,-149.854815,61.222547",
+    "geom:latitude":61.222547,
+    "geom:longitude":-149.854815,
+    "iso:country":"US",
+    "sg:address":"1415 Spar Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 5505",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "p",
+        "product",
+        "mfg",
+        "merchandise",
+        "plastic"
+    ],
+    "sg:website":"www.plaschem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873711,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YnTP2VX13j4nV20ZGzXZ4_61.222547_-149.854815@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4e2de094578a6f78930b204ee0c28d48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873711,
+            "region_id":85688573,
+            "venue_id":"102157743"
+        }
+    ],
+    "wof:id":"102157743",
+    "wof:lastmodified":1449069834,
+    "wof:name":"Plaschem Supply & Consulting",
+    "wof:parent_id":85873711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.854815,61.222547,-149.854815,61.222547],
+  "geometry": {"coordinates":[-149.854815,61.222547],"type":"Point"}
+}

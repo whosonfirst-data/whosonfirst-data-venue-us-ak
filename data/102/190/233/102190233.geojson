@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.267162,60.552341,-151.267162,60.552341",
+    "geom:latitude":60.552341,
+    "geom:longitude":-151.267162,
+    "iso:country":"US",
+    "sg:address":"514 Overland Ave",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 4405",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qiaNa6iWLNyw2JvOGlnvS_60.552341_-151.267162@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6405a1545b45ce0c5447992118cee3ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102190233"
+        }
+    ],
+    "wof:id":"102190233",
+    "wof:lastmodified":1449070037,
+    "wof:name":"Bay Arms Apartment",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.267162,60.552341,-151.267162,60.552341],
+  "geometry": {"coordinates":[-151.267162,60.552341],"type":"Point"}
+}

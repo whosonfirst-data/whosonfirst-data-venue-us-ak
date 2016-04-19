@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.413691,57.787158,-152.413691,57.787158",
+    "geom:latitude":57.787158,
+    "geom:longitude":-152.413691,
+    "iso:country":"US",
+    "sg:address":"317 Shelikof St",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 8575",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "seafood"
+    ],
+    "sg:website":"www.islandseafoods.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2o4x3BARsi0zxPTN2VVowx_57.787158_-152.413691@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f564ca9080aebcf700ef788f9afa7430",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102159263"
+        }
+    ],
+    "wof:id":"102159263",
+    "wof:lastmodified":1449068095,
+    "wof:name":"Island Seafoods",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.413691,57.787158,-152.413691,57.787158],
+  "geometry": {"coordinates":[-152.413691,57.787158],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.847546,61.223529,-149.847546,61.223529",
+    "geom:latitude":61.223529,
+    "geom:longitude":-149.847546,
+    "iso:country":"US",
+    "sg:address":"1745 Ship Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 3538",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873711,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ujH44apZ4afvE1qnKTJOQ_61.223529_-149.847546@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ee79a6838ddb5671bbc0226fa47bdd98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873711,
+            "region_id":85688573,
+            "venue_id":"102160237"
+        }
+    ],
+    "wof:id":"102160237",
+    "wof:lastmodified":1449069772,
+    "wof:name":"Superior Machine & Welding",
+    "wof:parent_id":85873711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.847546,61.223529,-149.847546,61.223529],
+  "geometry": {"coordinates":[-149.847546,61.223529],"type":"Point"}
+}

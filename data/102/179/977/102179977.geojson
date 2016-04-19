@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.075182,60.496225,-151.075182,60.496225",
+    "geom:latitude":60.496225,
+    "geom:longitude":-151.075182,
+    "iso:country":"US",
+    "sg:address":"334 Columbine St",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 1407",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OZqUUEOfZAdQCO8eEi7b4_60.496225_-151.075182@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8e4d591d1cebadd684c25cea9fc177a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102179977"
+        }
+    ],
+    "wof:id":"102179977",
+    "wof:lastmodified":1449069943,
+    "wof:name":"Parkview Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.075182,60.496225,-151.075182,60.496225],
+  "geometry": {"coordinates":[-151.075182,60.496225],"type":"Point"}
+}

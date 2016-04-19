@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.355826,61.598286,-149.355826,61.598286",
+    "geom:latitude":61.598286,
+    "geom:longitude":-149.355826,
+    "iso:country":"US",
+    "sg:address":"3825 Palmdale Dr",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 9614",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916225,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QuwFY5aB8fDzqTgF3dZnT_61.598286_-149.355826@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0f839dfc9250d13205662a95b6abb9ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916225,
+            "region_id":85688573,
+            "venue_id":"102176551"
+        }
+    ],
+    "wof:id":"102176551",
+    "wof:lastmodified":1449069347,
+    "wof:name":"Raven Engineering Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.355826,61.598286,-149.355826,61.598286],
+  "geometry": {"coordinates":[-149.355826,61.598286],"type":"Point"}
+}

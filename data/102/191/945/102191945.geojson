@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.441558,61.582455,-149.441558,61.582455",
+    "geom:latitude":61.582455,
+    "geom:longitude":-149.441558,
+    "iso:country":"US",
+    "sg:address":"322 Main St",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 3215",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7R18FFnUnVSR0n8kfe94WG_61.582455_-149.441558@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1324277708f7afa372ce691ea770f0fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102191945"
+        }
+    ],
+    "wof:id":"102191945",
+    "wof:lastmodified":1449069201,
+    "wof:name":"Rupright & Foster",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.441558,61.582455,-149.441558,61.582455],
+  "geometry": {"coordinates":[-149.441558,61.582455],"type":"Point"}
+}

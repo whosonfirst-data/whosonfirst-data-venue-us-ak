@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.759397,64.818425,-147.759397,64.818425",
+    "geom:latitude":64.818425,
+    "geom:longitude":-147.759397,
+    "iso:country":"US",
+    "sg:address":"3125 N Van Horn Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 0252",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ypzorg59uuNhGZylmeqz0_64.818425_-147.759397@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ddfb7a24275ed3c49e50f19c1a817f46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102189841"
+        }
+    ],
+    "wof:id":"102189841",
+    "wof:lastmodified":1449069497,
+    "wof:name":"Samson Electric Inc",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.759397,64.818425,-147.759397,64.818425],
+  "geometry": {"coordinates":[-147.759397,64.818425],"type":"Point"}
+}

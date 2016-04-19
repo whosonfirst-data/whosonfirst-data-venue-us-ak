@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.895016,64.81099,-147.895016,64.81099",
+    "geom:latitude":64.81099,
+    "geom:longitude":-147.895016,
+    "iso:country":"US",
+    "sg:address":"5670 Supply Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 8122",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "sg:website":"www.reedsmarine.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916609,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PphwerDbTKT5gjqZoXuC4_64.810990_-147.895016@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c2b2dbac08c2ba1bf87edbc8dd3dd189",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "region_id":85688573,
+            "venue_id":"102162977"
+        }
+    ],
+    "wof:id":"102162977",
+    "wof:lastmodified":1449069823,
+    "wof:name":"Reed's Snowmachine & Marine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.895016,64.81099,-147.895016,64.81099],
+  "geometry": {"coordinates":[-147.895016,64.81099],"type":"Point"}
+}

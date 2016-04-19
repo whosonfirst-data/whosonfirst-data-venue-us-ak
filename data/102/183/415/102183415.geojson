@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.848724,61.143663,-149.848724,61.143663",
+    "geom:latitude":61.143663,
+    "geom:longitude":-149.848724,
+    "iso:country":"US",
+    "sg:address":"1750 Abbott Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 3313",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1q39Ganl2onnsolp1Y6M3r_61.143663_-149.848724@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"207705646c2252b70d59521e586dc8f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102183415"
+        }
+    ],
+    "wof:id":"102183415",
+    "wof:lastmodified":1449069042,
+    "wof:name":"Alzheimer's Disease Resource",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.848724,61.143663,-149.848724,61.143663],
+  "geometry": {"coordinates":[-149.848724,61.143663],"type":"Point"}
+}

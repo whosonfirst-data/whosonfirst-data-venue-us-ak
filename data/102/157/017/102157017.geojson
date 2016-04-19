@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.891382,61.217807,-149.891382,61.217807",
+    "geom:latitude":61.217807,
+    "geom:longitude":-149.891382,
+    "iso:country":"US",
+    "sg:address":"425 E St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 7570",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14PQiR0EZnlHhfAnQgJ56h_61.217807_-149.891382@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5494c721ec278dc8e79369de85612a12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102157017"
+        }
+    ],
+    "wof:id":"102157017",
+    "wof:lastmodified":1449069832,
+    "wof:name":"Town Square Market",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.891382,61.217807,-149.891382,61.217807],
+  "geometry": {"coordinates":[-149.891382,61.217807],"type":"Point"}
+}

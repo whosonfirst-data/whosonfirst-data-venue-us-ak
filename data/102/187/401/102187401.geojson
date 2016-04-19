@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.760584,64.847572,-147.760584,64.847572",
+    "geom:latitude":64.847572,
+    "geom:longitude":-147.760584,
+    "iso:country":"US",
+    "sg:address":"1971 Livengood Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 1975",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "house",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d1D8hiwLx9UKhTTVndzI7_64.847572_-147.760584@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"150f72b1431a1466ae1908a735b2f4e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102187401"
+        }
+    ],
+    "wof:id":"102187401",
+    "wof:lastmodified":1449068161,
+    "wof:name":"Mastercraft",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.760584,64.847572,-147.760584,64.847572],
+  "geometry": {"coordinates":[-147.760584,64.847572],"type":"Point"}
+}

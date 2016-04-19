@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.778479,64.812967,-147.778479,64.812967",
+    "geom:latitude":64.812967,
+    "geom:longitude":-147.778479,
+    "iso:country":"US",
+    "sg:address":"2260 Van Horn Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 4389",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48Kfe6rYMYoP24q2CGVRHl_64.812967_-147.778479@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"87b78b85910a65b4972fc9c758aa9477",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "region_id":85688573,
+            "venue_id":"102175755"
+        }
+    ],
+    "wof:id":"102175755",
+    "wof:lastmodified":1449069465,
+    "wof:name":"Fine Tuned Wheels",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.778479,64.812967,-147.778479,64.812967],
+  "geometry": {"coordinates":[-147.778479,64.812967],"type":"Point"}
+}

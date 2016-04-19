@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.86808,61.197003,-149.86808,61.197003",
+    "geom:latitude":61.197003,
+    "geom:longitude":-149.86808,
+    "iso:country":"US",
+    "sg:address":"2700 Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 5000",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "snow",
+        "removal"
+    ],
+    "sg:website":"www.akplow.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BEze5OLmUBryMdgS7IBvt_61.197003_-149.868080@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3535b84c3eb55e6b60f14b6598dc9810",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102184189"
+        }
+    ],
+    "wof:id":"102184189",
+    "wof:lastmodified":1449068217,
+    "wof:name":"Alaska Snow Plowing",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.86808,61.197003,-149.86808,61.197003],
+  "geometry": {"coordinates":[-149.86808,61.197003],"type":"Point"}
+}

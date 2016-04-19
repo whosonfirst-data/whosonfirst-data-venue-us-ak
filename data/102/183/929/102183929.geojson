@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.411401,58.302869,-134.411401,58.302869",
+    "geom:latitude":58.302869,
+    "geom:longitude":-134.411401,
+    "iso:country":"US",
+    "sg:address":"129 6th St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 465 3808",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "state",
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZZ7xFcmx83wtgmB7RbdXA_58.302869_-134.411401@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e84a471513d61e74f9126ba8d7c7e138",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102183929"
+        }
+    ],
+    "wof:id":"102183929",
+    "wof:lastmodified":1449069042,
+    "wof:name":"Ak Leg Affairs Agency Ref Libr",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.411401,58.302869,-134.411401,58.302869],
+  "geometry": {"coordinates":[-134.411401,58.302869],"type":"Point"}
+}

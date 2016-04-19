@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.890891,61.212798,-149.890891,61.212798",
+    "geom:latitude":61.212798,
+    "geom:longitude":-149.890891,
+    "iso:country":"US",
+    "sg:address":"435 W 10th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 6351",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "gymnasium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tpc3ERwegX8LIFHqqejJ2_61.212798_-149.890891@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d4717d6bb4f36fd06d2353c1f60c4cf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102192855"
+        }
+    ],
+    "wof:id":"102192855",
+    "wof:lastmodified":1449069505,
+    "wof:name":"Pete's City Gym",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.890891,61.212798,-149.890891,61.212798],
+  "geometry": {"coordinates":[-149.890891,61.212798],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.401829,57.790953,-152.401829,57.790953",
+    "geom:latitude":57.790953,
+    "geom:longitude":-152.401829,
+    "iso:country":"US",
+    "sg:address":"311 Mill Bay Rd",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 5333",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "camping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ac6WZE9CMOeti5BaOqtZ3_57.790953_-152.401829@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bafcbe8ecb39bf82e3d59cd821b2656d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102182137"
+        }
+    ],
+    "wof:id":"102182137",
+    "wof:lastmodified":1449069281,
+    "wof:name":"Kodiak Kamps",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.401829,57.790953,-152.401829,57.790953],
+  "geometry": {"coordinates":[-152.401829,57.790953],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.895016,64.810952,-147.895016,64.810952",
+    "geom:latitude":64.810952,
+    "geom:longitude":-147.895016,
+    "iso:country":"US",
+    "sg:address":"5690 Supply Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 2327",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "heavy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916609,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EnmKcjYZ1Y0HjSxc0Hdgv_64.810952_-147.895016@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bc685f86651877dd28e37710276d9d0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "region_id":85688573,
+            "venue_id":"102152159"
+        }
+    ],
+    "wof:id":"102152159",
+    "wof:lastmodified":1449069633,
+    "wof:name":"Fairbanks Excavation Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.895016,64.810952,-147.895016,64.810952],
+  "geometry": {"coordinates":[-147.895016,64.810952],"type":"Point"}
+}

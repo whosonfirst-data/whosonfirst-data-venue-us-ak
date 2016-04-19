@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.653364,64.904187,-147.653364,64.904187",
+    "geom:latitude":64.904187,
+    "geom:longitude":-147.653364,
+    "iso:country":"US",
+    "sg:address":"218 Marten Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 3832",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916559,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FoF6CLvQ0LoHdOIYkQ3uL_64.904187_-147.653364@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"323752c80a2a77bf107e2536a354745f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "region_id":85688573,
+            "venue_id":"102185499"
+        }
+    ],
+    "wof:id":"102185499",
+    "wof:lastmodified":1449068195,
+    "wof:name":"Bruce's Burner Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.653364,64.904187,-147.653364,64.904187],
+  "geometry": {"coordinates":[-147.653364,64.904187],"type":"Point"}
+}

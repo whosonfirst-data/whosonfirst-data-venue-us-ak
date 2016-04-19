@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.778113,64.820298,-147.778113,64.820298",
+    "geom:latitude":64.820298,
+    "geom:longitude":-147.778113,
+    "iso:country":"US",
+    "sg:address":"2014 30th Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 8485",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_041VfKsOdjBkPUwTiUUoMg_64.820298_-147.778113@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3379c4f588bac259e4f9c7f3ef3d6b40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102168929"
+        }
+    ],
+    "wof:id":"102168929",
+    "wof:lastmodified":1449069007,
+    "wof:name":"Fairbanks Montessori Assn",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.778113,64.820298,-147.778113,64.820298],
+  "geometry": {"coordinates":[-147.778113,64.820298],"type":"Point"}
+}

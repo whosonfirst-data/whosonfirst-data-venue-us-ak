@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.456194,64.886554,-147.456194,64.886554",
+    "geom:latitude":64.886554,
+    "geom:longitude":-147.456194,
+    "iso:country":"US",
+    "sg:address":"551 Eberhardt Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 7855",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "sg:website":"www.atasteofalaska.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916545,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2J1Q60sbqAAXDbA43PeGTd_64.886554_-147.456194@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"40e52c052b7efc4cf1f8b3cfb7b15aa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916545,
+            "region_id":85688573,
+            "venue_id":"102153935"
+        }
+    ],
+    "wof:id":"102153935",
+    "wof:lastmodified":1449069462,
+    "wof:name":"A Taste Of Alaska Lodge",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.456194,64.886554,-147.456194,64.886554],
+  "geometry": {"coordinates":[-147.456194,64.886554],"type":"Point"}
+}

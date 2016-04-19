@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.445326,61.572758,-149.445326,61.572758",
+    "geom:latitude":61.572758,
+    "geom:longitude":-149.445326,
+    "iso:country":"US",
+    "sg:address":"1000 Check St",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 2613",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lH7Ly3yVTFFhiJnjNuOK1_61.572758_-149.445326@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d26442ddab48fe7b842c00fa3ae1ad99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102183611"
+        }
+    ],
+    "wof:id":"102183611",
+    "wof:lastmodified":1449069043,
+    "wof:name":"Valley Diesel & Marine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.445326,61.572758,-149.445326,61.572758],
+  "geometry": {"coordinates":[-149.445326,61.572758],"type":"Point"}
+}

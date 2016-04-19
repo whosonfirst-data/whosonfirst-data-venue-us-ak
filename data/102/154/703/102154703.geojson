@@ -1,0 +1,67 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.875644,61.146643,-149.875644,61.146643",
+    "geom:latitude":61.146643,
+    "geom:longitude":-149.875644,
+    "iso:country":"US",
+    "sg:address":"8301 Schoon St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 6996",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "ventilation",
+        "air",
+        "installation",
+        "conditioning",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OiTjP5CAmHWM6WjHqhPTt_61.146643_-149.875644@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"108bcb8eb1477e619a1c544afcf64602",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102154703"
+        }
+    ],
+    "wof:id":"102154703",
+    "wof:lastmodified":1449070243,
+    "wof:name":"Northern Shtmtl Fabricators",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.875644,61.146643,-149.875644,61.146643],
+  "geometry": {"coordinates":[-149.875644,61.146643],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.689719,55.361496,-131.689719,55.361496",
+    "geom:latitude":55.361496,
+    "geom:longitude":-131.689719,
+    "iso:country":"US",
+    "sg:address":"3870 Evergreen Ave",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 2655",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "sg:website":"www.cornerbnb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09BOB8D1pGKssnRGqOBt0u_55.361496_-131.689719@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"76c79ea6a5648dc350d5a516406fb682",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102153461"
+        }
+    ],
+    "wof:id":"102153461",
+    "wof:lastmodified":1449069460,
+    "wof:name":"Corner Bed & Breakfast",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.689719,55.361496,-131.689719,55.361496],
+  "geometry": {"coordinates":[-131.689719,55.361496],"type":"Point"}
+}

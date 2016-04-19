@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.342241,57.051884,-135.342241,57.051884",
+    "geom:latitude":57.051884,
+    "geom:longitude":-135.342241,
+    "iso:country":"US",
+    "sg:address":"264 Katlian St",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Seafood",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 7115",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:website":"www.alaskaseafood.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01fNUzw5f2CQV5Z3D2ubNI_57.051884_-135.342241@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a5ec44e572747c039899c0c0ceedf96d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102164005"
+        }
+    ],
+    "wof:id":"102164005",
+    "wof:lastmodified":1449068092,
+    "wof:name":"Alaska Hook & Line Seafood",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.342241,57.051884,-135.342241,57.051884],
+  "geometry": {"coordinates":[-135.342241,57.051884],"type":"Point"}
+}

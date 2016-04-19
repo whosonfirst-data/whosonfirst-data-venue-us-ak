@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.90913,61.177808,-149.90913,61.177808",
+    "geom:latitude":61.177808,
+    "geom:longitude":-149.90913,
+    "iso:country":"US",
+    "sg:address":"1207 W 47th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 2225",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gxHSkt614bkN292zJE3U7_61.177808_-149.909130@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b7df563f979345f50204e452b541e840",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102178189"
+        }
+    ],
+    "wof:id":"102178189",
+    "wof:lastmodified":1449069531,
+    "wof:name":"Electric Doctor Inc",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.90913,61.177808,-149.90913,61.177808],
+  "geometry": {"coordinates":[-149.90913,61.177808],"type":"Point"}
+}

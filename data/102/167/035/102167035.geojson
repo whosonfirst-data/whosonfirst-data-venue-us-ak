@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.899052,61.213704,-149.899052,61.213704",
+    "geom:latitude":61.213704,
+    "geom:longitude":-149.899052,
+    "iso:country":"US",
+    "sg:address":"835 W 9th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 1488",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873721,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7M5plsLD8jmAlzAisuAip8_61.213704_-149.899052@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"309c5a353bfb98f5d92b5edca66ceae6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873721,
+            "region_id":85688573,
+            "venue_id":"102167035"
+        }
+    ],
+    "wof:id":"102167035",
+    "wof:lastmodified":1449069003,
+    "wof:name":"Downtown Dental Svc",
+    "wof:parent_id":85873721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.899052,61.213704,-149.899052,61.213704],
+  "geometry": {"coordinates":[-149.899052,61.213704],"type":"Point"}
+}

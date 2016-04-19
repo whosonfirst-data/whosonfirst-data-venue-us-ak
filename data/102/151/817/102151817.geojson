@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.611573,58.366961,-134.611573,58.366961",
+    "geom:latitude":58.366961,
+    "geom:longitude":-134.611573,
+    "iso:country":"US",
+    "sg:address":"10412 Crazy Horse Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 4116",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915729,
+        85633793,
+        85688573,
+        102081399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tqhNKdyUSrMkJA5zyiDQa_58.366961_-134.611573@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9248c896e51184bcbe4eece6af61d029",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "region_id":85688573,
+            "venue_id":"102151817"
+        }
+    ],
+    "wof:id":"102151817",
+    "wof:lastmodified":1449067782,
+    "wof:name":"Vanpool Painting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.611573,58.366961,-134.611573,58.366961],
+  "geometry": {"coordinates":[-134.611573,58.366961],"type":"Point"}
+}

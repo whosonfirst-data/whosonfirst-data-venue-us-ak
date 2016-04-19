@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.864637,64.819037,-147.864637,64.819037",
+    "geom:latitude":64.819037,
+    "geom:longitude":-147.864637,
+    "iso:country":"US",
+    "sg:address":"6450 Airport Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 459 0370",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916551,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1y5qlzUVFaDxpnRTq1uMW0_64.819037_-147.864637@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0cd55923050594ee393770af504a7293",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916551,
+            "region_id":85688573,
+            "venue_id":"102159035"
+        }
+    ],
+    "wof:id":"102159035",
+    "wof:lastmodified":1449068095,
+    "wof:name":"Cargolux Airlines",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.864637,64.819037,-147.864637,64.819037],
+  "geometry": {"coordinates":[-147.864637,64.819037],"type":"Point"}
+}

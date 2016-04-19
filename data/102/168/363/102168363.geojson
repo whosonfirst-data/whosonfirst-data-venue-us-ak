@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.585704,58.383539,-134.585704,58.383539",
+    "geom:latitude":58.383539,
+    "geom:longitude":-134.585704,
+    "iso:country":"US",
+    "sg:address":"3460 Kant Ct",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 4869",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "hanging",
+        "painter",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YvkFthrYNGTwlhpHquoqk_58.383539_-134.585704@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"90bc8af6b13e8f94a8265f57a1e826ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102168363"
+        }
+    ],
+    "wof:id":"102168363",
+    "wof:lastmodified":1449069009,
+    "wof:name":"C & C Interiors",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.585704,58.383539,-134.585704,58.383539],
+  "geometry": {"coordinates":[-134.585704,58.383539],"type":"Point"}
+}

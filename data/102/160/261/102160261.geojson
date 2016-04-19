@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-146.353962,61.129867,-146.353962,61.129867",
+    "geom:latitude":61.129867,
+    "geom:longitude":-146.353962,
+    "iso:country":"US",
+    "sg:address":"200 Chenega Ave",
+    "sg:city":"Valdez",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 835 4636",
+    "sg:postcode":"99686",
+    "sg:province":"AK",
+    "sg:tags":[
+        "information",
+        "tourist"
+    ],
+    "sg:website":"www.valdezalaska.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915585,
+        85633793,
+        85688573,
+        102081911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iR6sTXFmMsPJQwOTkVPHf_61.129867_-146.353962@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4454f487bcc6ca3aabc5c7a7f127c203",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915585,
+            "region_id":85688573,
+            "venue_id":"102160261"
+        }
+    ],
+    "wof:id":"102160261",
+    "wof:lastmodified":1449069771,
+    "wof:name":"Visitors Information Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-146.353962,61.129867,-146.353962,61.129867],
+  "geometry": {"coordinates":[-146.353962,61.129867],"type":"Point"}
+}

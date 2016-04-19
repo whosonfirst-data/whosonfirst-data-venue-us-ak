@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.901131,61.158076,-149.901131,61.158076",
+    "geom:latitude":61.158076,
+    "geom:longitude":-149.901131,
+    "iso:country":"US",
+    "sg:address":"6910 Joseph St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 7004",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3meuLjkwNbTF1o3PZ8Ha2N_61.158076_-149.901131@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ec4ad5773bf30f7334e04fa27e7465f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102151625"
+        }
+    ],
+    "wof:id":"102151625",
+    "wof:lastmodified":1449067782,
+    "wof:name":"Anchorage School Of Music Inc",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.901131,61.158076,-149.901131,61.158076],
+  "geometry": {"coordinates":[-149.901131,61.158076],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.573941,58.358451,-134.573941,58.358451",
+    "geom:latitude":58.358451,
+    "geom:longitude":-134.573941,
+    "iso:country":"US",
+    "sg:address":"8995 Yandukin Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 5600",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "helicopter",
+        "rental"
+    ],
+    "sg:website":"www.coastalhelicopters.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915729,
+        85633793,
+        85688573,
+        102081399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bTOSnnFeardiKW43R7uMk_58.358451_-134.573941@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c9b17206b1d354aa1a680cdc26ef7036",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "region_id":85688573,
+            "venue_id":"102176597"
+        }
+    ],
+    "wof:id":"102176597",
+    "wof:lastmodified":1449069350,
+    "wof:name":"Coastal Helicopters",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.573941,58.358451,-134.573941,58.358451],
+  "geometry": {"coordinates":[-134.573941,58.358451],"type":"Point"}
+}

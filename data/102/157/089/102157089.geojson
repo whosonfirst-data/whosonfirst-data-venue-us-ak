@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.059477,60.485557,-151.059477,60.485557",
+    "geom:latitude":60.485557,
+    "geom:longitude":-151.059477,
+    "iso:country":"US",
+    "sg:address":"121 Smiths Way",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 8495",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3enzIXrcUmuM4ltkB17jCl_60.485557_-151.059477@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8588213ba15733034575257fdb60ba1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102157089"
+        }
+    ],
+    "wof:id":"102157089",
+    "wof:lastmodified":1449069830,
+    "wof:name":"Soldotna Wash & Dry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.059477,60.485557,-151.059477,60.485557],
+  "geometry": {"coordinates":[-151.059477,60.485557],"type":"Point"}
+}

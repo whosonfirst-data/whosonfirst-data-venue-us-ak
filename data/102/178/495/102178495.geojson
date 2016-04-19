@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.727626,61.212488,-149.727626,61.212488",
+    "geom:latitude":61.212488,
+    "geom:longitude":-149.727626,
+    "iso:country":"US",
+    "sg:address":"1010 Friendly Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 694 4474",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58gFDeEDRWZgGZJNVM6evT_61.212488_-149.727626@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3431f464b7cce7675bcdf98dfcf66191",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102178495"
+        }
+    ],
+    "wof:id":"102178495",
+    "wof:lastmodified":1449069530,
+    "wof:name":"Expert Auto Glass",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.727626,61.212488,-149.727626,61.212488],
+  "geometry": {"coordinates":[-149.727626,61.212488],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.91142,61.179883,-149.91142,61.179883",
+    "geom:latitude":61.179883,
+    "geom:longitude":-149.91142,
+    "iso:country":"US",
+    "sg:address":"1503 W 45th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 3320",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KKqJWi4qRKgtrBemgUG6A_61.179883_-149.911420@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"45fa1db1c35db56054072d47dd708f28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102156949"
+        }
+    ],
+    "wof:id":"102156949",
+    "wof:lastmodified":1449068281,
+    "wof:name":"Crocker Drywakll & Painting",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.91142,61.179883,-149.91142,61.179883],
+  "geometry": {"coordinates":[-149.91142,61.179883],"type":"Point"}
+}

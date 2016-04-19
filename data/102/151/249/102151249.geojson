@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-158.458355,59.039381,-158.458355,59.039381",
+    "geom:latitude":59.039381,
+    "geom:longitude":-158.458355,
+    "iso:country":"US",
+    "sg:address":"217 C St",
+    "sg:city":"Dillingham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 842 4204",
+    "sg:postcode":"99576",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915613,
+        85633793,
+        85688573,
+        102080995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mPPAcl37prrcbZBPx5k9K_59.039381_-158.458355@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e6ed2e487b9565c46cf24aba5b195300",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080995,
+            "locality_id":85915613,
+            "region_id":85688573,
+            "venue_id":"102151249"
+        }
+    ],
+    "wof:id":"102151249",
+    "wof:lastmodified":1449067780,
+    "wof:name":"Coastal Power Contractors Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-158.458355,59.039381,-158.458355,59.039381],
+  "geometry": {"coordinates":[-158.458355,59.039381],"type":"Point"}
+}

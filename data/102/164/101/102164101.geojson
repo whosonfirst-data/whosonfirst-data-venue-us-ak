@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-145.760783,60.549803,-145.760783,60.549803",
+    "geom:latitude":60.549803,
+    "geom:longitude":-145.760783,
+    "iso:country":"US",
+    "sg:address":"201 Industry Rd",
+    "sg:city":"Cordova",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 424 3354",
+    "sg:postcode":"99574",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839707,
+        85633793,
+        85915567,
+        102081911,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6t5ipl8m9H029BnEACuK74_60.549803_-145.760783@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"04bb9837839f33a2fdf366fb9bd6e903",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915567,
+            "neighbourhood_id":85839707,
+            "region_id":85688573,
+            "venue_id":"102164101"
+        }
+    ],
+    "wof:id":"102164101",
+    "wof:lastmodified":1449068091,
+    "wof:name":"Whiskey Ridge Trading Co",
+    "wof:parent_id":85839707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-145.760783,60.549803,-145.760783,60.549803],
+  "geometry": {"coordinates":[-145.760783,60.549803],"type":"Point"}
+}

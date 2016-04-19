@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.834037,61.120851,-149.834037,61.120851",
+    "geom:latitude":61.120851,
+    "geom:longitude":-149.834037,
+    "iso:country":"US",
+    "sg:address":"10800 Lake Otis Pkwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 6020",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YGp4uok6jSaLKj9Tg2x2i_61.120851_-149.834037@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"add8fcec656459761e4a5359256a5dca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102150803"
+        }
+    ],
+    "wof:id":"102150803",
+    "wof:lastmodified":1449067792,
+    "wof:name":"Christian Church Of Anchorage",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.834037,61.120851,-149.834037,61.120851],
+  "geometry": {"coordinates":[-149.834037,61.120851],"type":"Point"}
+}

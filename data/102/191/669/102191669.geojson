@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.408059,57.788199,-152.408059,57.788199",
+    "geom:latitude":57.788199,
+    "geom:longitude":-152.408059,
+    "iso:country":"US",
+    "sg:address":"515 Marine Way W",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 7700",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "sg:website":"www.kodiakelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RgshCPkkRCvlJfpXkcNKh_57.788199_-152.408059@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"70b2ca57727e003bcca86a9187cf92f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102191669"
+        }
+    ],
+    "wof:id":"102191669",
+    "wof:lastmodified":1449069201,
+    "wof:name":"Kodiak Electric Assn Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.408059,57.788199,-152.408059,57.788199],
+  "geometry": {"coordinates":[-152.408059,57.788199],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.676344,64.870698,-147.676344,64.870698",
+    "geom:latitude":64.870698,
+    "geom:longitude":-147.676344,
+    "iso:country":"US",
+    "sg:address":"255 Farmers Loop Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 3853",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OlBNzBqslHsXc7cwUXfLF_64.870698_-147.676344@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4d45ca0dcc1a56b62be36a5de8b8a813",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102153155"
+        }
+    ],
+    "wof:id":"102153155",
+    "wof:lastmodified":1449069463,
+    "wof:name":"Aversa Enterprises",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.676344,64.870698,-147.676344,64.870698],
+  "geometry": {"coordinates":[-147.676344,64.870698],"type":"Point"}
+}

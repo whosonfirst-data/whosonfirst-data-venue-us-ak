@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.453018,59.666474,-151.453018,59.666474",
+    "geom:latitude":59.666474,
+    "geom:longitude":-151.453018,
+    "iso:country":"US",
+    "sg:address":"60998 E End Rd",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 1393",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834363,
+        85633793,
+        85915739,
+        102081909,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0T8U5Wcq8OtvXxRrR3K6V1_59.666474_-151.453018@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a64024e4bdeca02ccf367c6e960719e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "neighbourhood_id":85834363,
+            "region_id":85688573,
+            "venue_id":"102188551"
+        }
+    ],
+    "wof:id":"102188551",
+    "wof:lastmodified":1449068945,
+    "wof:name":"Home Run Oil Co",
+    "wof:parent_id":85834363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.453018,59.666474,-151.453018,59.666474],
+  "geometry": {"coordinates":[-151.453018,59.666474],"type":"Point"}
+}

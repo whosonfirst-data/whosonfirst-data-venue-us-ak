@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.795165,61.217828,-149.795165,61.217828",
+    "geom:latitude":61.217828,
+    "geom:longitude":-149.795165,
+    "iso:country":"US",
+    "sg:address":"400 S Bliss St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 338 0291",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xu89jAFIfBfED56xiuujT_61.217828_-149.795165@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"276d1f7c187c49532783db47f4cf2ddf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102196167"
+        }
+    ],
+    "wof:id":"102196167",
+    "wof:lastmodified":1449068337,
+    "wof:name":"NP Services",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.795165,61.217828,-149.795165,61.217828],
+  "geometry": {"coordinates":[-149.795165,61.217828],"type":"Point"}
+}

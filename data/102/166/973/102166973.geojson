@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.906548,61.198529,-149.906548,61.198529",
+    "geom:latitude":61.198529,
+    "geom:longitude":-149.906548,
+    "iso:country":"US",
+    "sg:address":"1473 W 25th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 0225",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pXQXlf6vGjBLDvG9TqkJn_61.198529_-149.906548@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"783c784f11b2233ed47701642293b296",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102166973"
+        }
+    ],
+    "wof:id":"102166973",
+    "wof:lastmodified":1449069086,
+    "wof:name":"Pier 25 Apartments",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.906548,61.198529,-149.906548,61.198529],
+  "geometry": {"coordinates":[-149.906548,61.198529],"type":"Point"}
+}

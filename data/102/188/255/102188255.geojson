@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.374994,57.804124,-152.374994,57.804124",
+    "geom:latitude":57.804124,
+    "geom:longitude":-152.374994,
+    "iso:country":"US",
+    "sg:address":"2191 Mill Bay Rd",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 6196",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "leasing",
+        "charter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jXP2wb9pYHJPU5U1pifgn_57.804124_-152.374994@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eba84c7827f0caadfcd3571175ecb747",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102188255"
+        }
+    ],
+    "wof:id":"102188255",
+    "wof:lastmodified":1449068946,
+    "wof:name":"Island Air Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.374994,57.804124,-152.374994,57.804124],
+  "geometry": {"coordinates":[-152.374994,57.804124],"type":"Point"}
+}

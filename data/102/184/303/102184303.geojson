@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.720114,64.843319,-147.720114,64.843319",
+    "geom:latitude":64.843319,
+    "geom:longitude":-147.720114,
+    "iso:country":"US",
+    "sg:address":"537 2nd Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 2323",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "craft",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_679rhLFFJZ0LEf4N87wSuU_64.843319_-147.720114@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"606123218e362b611de3c2c7f35dee12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102184303"
+        }
+    ],
+    "wof:id":"102184303",
+    "wof:lastmodified":1449068216,
+    "wof:name":"Beads & Things",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.720114,64.843319,-147.720114,64.843319],
+  "geometry": {"coordinates":[-147.720114,64.843319],"type":"Point"}
+}

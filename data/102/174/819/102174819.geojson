@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.716079,64.841007,-147.716079,64.841007",
+    "geom:latitude":64.841007,
+    "geom:longitude":-147.716079,
+    "iso:country":"US",
+    "sg:address":"408 7th Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 455 8555",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22A7UUEYqIWrrMba6yee2M_64.841007_-147.716079@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db58bba82e24a3375aeb6cbf16ef0db5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102174819"
+        }
+    ],
+    "wof:id":"102174819",
+    "wof:lastmodified":1449068137,
+    "wof:name":"Leslie's Salon & Day Spa",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.716079,64.841007,-147.716079,64.841007],
+  "geometry": {"coordinates":[-147.716079,64.841007],"type":"Point"}
+}

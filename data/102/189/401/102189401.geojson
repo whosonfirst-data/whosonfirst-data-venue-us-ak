@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.82628,61.100363,-149.82628,61.100363",
+    "geom:latitude":61.100363,
+    "geom:longitude":-149.82628,
+    "iso:country":"US",
+    "sg:address":"3577 Spinnaker Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 7067",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "rubber",
+        "stamp",
+        "plastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2duRDKmV211OTiudUIioV4_61.100363_-149.826280@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b45526485cb2e6e632f803f68d6a8cde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102189401"
+        }
+    ],
+    "wof:id":"102189401",
+    "wof:lastmodified":1449069498,
+    "wof:name":"B B Crafts",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.82628,61.100363,-149.82628,61.100363],
+  "geometry": {"coordinates":[-149.82628,61.100363],"type":"Point"}
+}

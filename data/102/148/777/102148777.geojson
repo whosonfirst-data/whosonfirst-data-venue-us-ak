@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.808306,61.209471,-149.808306,61.209471",
+    "geom:latitude":61.209471,
+    "geom:longitude":-149.808306,
+    "iso:country":"US",
+    "sg:address":"1405 S Bragaw St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 1712",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6S2ogrQwhVBU6i5UW1Rsot_61.209471_-149.808306@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"faa773abd9a24e4657a10c63948182c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102148777"
+        }
+    ],
+    "wof:id":"102148777",
+    "wof:lastmodified":1449069785,
+    "wof:name":"Williams Express",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.808306,61.209471,-149.808306,61.209471],
+  "geometry": {"coordinates":[-149.808306,61.209471],"type":"Point"}
+}

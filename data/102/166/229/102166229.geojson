@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.288623,64.734767,-147.288623,64.734767",
+    "geom:latitude":64.734767,
+    "geom:longitude":-147.288623,
+    "iso:country":"US",
+    "sg:address":"2916 Saint Nicholas Dr",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 0622",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916555,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49JysJCyRNLwbGwyN4gwcb_64.734767_-147.288623@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2fefae3570fa6247f630a7f75fc41997",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916555,
+            "region_id":85688573,
+            "venue_id":"102166229"
+        }
+    ],
+    "wof:id":"102166229",
+    "wof:lastmodified":1449069085,
+    "wof:name":"Conkle's Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.288623,64.734767,-147.288623,64.734767],
+  "geometry": {"coordinates":[-147.288623,64.734767],"type":"Point"}
+}

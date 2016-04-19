@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.773385,61.134878,-149.773385,61.134878",
+    "geom:latitude":61.134878,
+    "geom:longitude":-149.773385,
+    "iso:country":"US",
+    "sg:address":"6051 Barry Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 346 2029",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873745,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32dLqaiAvWMomWcdMWApmv_61.134878_-149.773385@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"85f05ba07a5158c340e5a0a297cfd8f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873745,
+            "region_id":85688573,
+            "venue_id":"102166639"
+        }
+    ],
+    "wof:id":"102166639",
+    "wof:lastmodified":1449069087,
+    "wof:name":"Doner Fisheries",
+    "wof:parent_id":85873745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.773385,61.134878,-149.773385,61.134878],
+  "geometry": {"coordinates":[-149.773385,61.134878],"type":"Point"}
+}

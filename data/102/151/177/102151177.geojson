@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.964428,61.190697,-149.964428,61.190697",
+    "geom:latitude":61.190697,
+    "geom:longitude":-149.964428,
+    "iso:country":"US",
+    "sg:address":"3360 Orbit Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 0073",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dietitian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852831,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TjZn1MjALYv2mxzP4o2Ke_61.190697_-149.964428@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fb701e057cf2e10c6e3bce8a77859d4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":"102151177"
+        }
+    ],
+    "wof:id":"102151177",
+    "wof:lastmodified":1449067783,
+    "wof:name":"Dietary Insights & Exercise",
+    "wof:parent_id":85852831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.964428,61.190697,-149.964428,61.190697],
+  "geometry": {"coordinates":[-149.964428,61.190697],"type":"Point"}
+}

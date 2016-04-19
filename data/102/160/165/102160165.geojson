@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.760133,61.209795,-149.760133,61.209795",
+    "geom:latitude":61.209795,
+    "geom:longitude":-149.760133,
+    "iso:country":"US",
+    "sg:address":"6411 Debarr Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 1413",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "skating",
+        "rink"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869053,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nINu0BWp6TFJTGpxpw82U_61.209795_-149.760133@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5b9971abc529447bcacc0ee3fb5db2d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869053,
+            "region_id":85688573,
+            "venue_id":"102160165"
+        }
+    ],
+    "wof:id":"102160165",
+    "wof:lastmodified":1449069779,
+    "wof:name":"Royal Roller Rink",
+    "wof:parent_id":85869053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.760133,61.209795,-149.760133,61.209795],
+  "geometry": {"coordinates":[-149.760133,61.209795],"type":"Point"}
+}

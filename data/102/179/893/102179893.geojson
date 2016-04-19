@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.808469,61.230302,-149.808469,61.230302",
+    "geom:latitude":61.230302,
+    "geom:longitude":-149.808469,
+    "iso:country":"US",
+    "sg:address":"816 N Bragaw St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 222 6925",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jxw9QmwF09PhZn1sqNKAu_61.230302_-149.808469@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4e1b5b4fb89fba8c2d147937e2336a47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102179893"
+        }
+    ],
+    "wof:id":"102179893",
+    "wof:lastmodified":1449069943,
+    "wof:name":"Anthony Construction",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.808469,61.230302,-149.808469,61.230302],
+  "geometry": {"coordinates":[-149.808469,61.230302],"type":"Point"}
+}

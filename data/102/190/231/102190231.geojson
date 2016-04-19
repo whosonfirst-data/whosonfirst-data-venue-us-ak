@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.441482,61.584102,-149.441482,61.584102",
+    "geom:latitude":61.584102,
+    "geom:longitude":-149.441482,
+    "iso:country":"US",
+    "sg:address":"500 Main St",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 5595",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "counseling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4om7VF43SRj7YYXTyWLMls_61.584102_-149.441482@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8f9abe8d67e3147ce6dba6539dd8b9f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102190231"
+        }
+    ],
+    "wof:id":"102190231",
+    "wof:lastmodified":1449070034,
+    "wof:name":"Alpha Counseling & Education",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.441482,61.584102,-149.441482,61.584102],
+  "geometry": {"coordinates":[-149.441482,61.584102],"type":"Point"}
+}

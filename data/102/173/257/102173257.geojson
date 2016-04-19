@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.769711,64.836844,-147.769711,64.836844",
+    "geom:latitude":64.836844,
+    "geom:longitude":-147.769711,
+    "iso:country":"US",
+    "sg:address":"2106 Airport Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 3803",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "leasing",
+        "charter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XCo1OQtoW5IWezfvRNCcq_64.836844_-147.769711@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"133dc3bcf0773f1440700e1052fdd4fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102173257"
+        }
+    ],
+    "wof:id":"102173257",
+    "wof:lastmodified":1449068265,
+    "wof:name":"Clifford R Everts",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.769711,64.836844,-147.769711,64.836844],
+  "geometry": {"coordinates":[-147.769711,64.836844],"type":"Point"}
+}

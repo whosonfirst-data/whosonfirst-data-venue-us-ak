@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.672784,64.840663,-147.672784,64.840663",
+    "geom:latitude":64.840663,
+    "geom:longitude":-147.672784,
+    "iso:country":"US",
+    "sg:address":"514 Juneau Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 6729",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contracting",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ioVwJQguiCwCmd31ftQid_64.840663_-147.672784@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"15dd254d4abc75def3f9a7c5e460a40e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102170033"
+        }
+    ],
+    "wof:id":"102170033",
+    "wof:lastmodified":1449068017,
+    "wof:name":"Interior Construction & Design",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.672784,64.840663,-147.672784,64.840663],
+  "geometry": {"coordinates":[-147.672784,64.840663],"type":"Point"}
+}

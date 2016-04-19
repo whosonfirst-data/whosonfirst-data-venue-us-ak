@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.590255,58.374484,-134.590255,58.374484",
+    "geom:latitude":58.374484,
+    "geom:longitude":-134.590255,
+    "iso:country":"US",
+    "sg:address":"2841 Riverside Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 4165",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SBnVhvhWOMrMfNTVObMyx_58.374484_-134.590255@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9e64d140af1c488f82dd67e443738664",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102178255"
+        }
+    ],
+    "wof:id":"102178255",
+    "wof:lastmodified":1449069531,
+    "wof:name":"Juneau Physical Therapy",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.590255,58.374484,-134.590255,58.374484],
+  "geometry": {"coordinates":[-134.590255,58.374484],"type":"Point"}
+}

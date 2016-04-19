@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.822824,61.108627,-149.822824,61.108627",
+    "geom:latitude":61.108627,
+    "geom:longitude":-149.822824,
+    "iso:country":"US",
+    "sg:address":"12000 Wagner St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 5012",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "website",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48SE2g1PxI64Ox0XC6sUgu_61.108627_-149.822824@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dfa0fa61daf58e41d6f3b0a93b98966a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102169385"
+        }
+    ],
+    "wof:id":"102169385",
+    "wof:lastmodified":1449069247,
+    "wof:name":"Alaskalink",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.822824,61.108627,-149.822824,61.108627],
+  "geometry": {"coordinates":[-149.822824,61.108627],"type":"Point"}
+}

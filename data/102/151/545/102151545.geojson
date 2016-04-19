@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.972958,61.185824,-149.972958,61.185824",
+    "geom:latitude":61.185824,
+    "geom:longitude":-149.972958,
+    "iso:country":"US",
+    "sg:address":"4841 Lakeshore Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 245 1879",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "sg:website":"www.transnorthern.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852831,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1viGwlGgSolHYXPbZDuT6G_61.185824_-149.972958@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5cb88b57a97d525cf85986eb3cb5bf73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":"102151545"
+        }
+    ],
+    "wof:id":"102151545",
+    "wof:lastmodified":1449067780,
+    "wof:name":"Transnorthern Aviation Inc",
+    "wof:parent_id":85852831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.972958,61.185824,-149.972958,61.185824],
+  "geometry": {"coordinates":[-149.972958,61.185824],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.154214,60.480478,-151.154214,60.480478",
+    "geom:latitude":60.480478,
+    "geom:longitude":-151.154214,
+    "iso:country":"US",
+    "sg:address":"47323 Merrywood Ave",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 1847",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916957,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BlNdgE715GvPs6wCiTS7x_60.480478_-151.154214@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ae3c12cf6deb130f547fe8dc83a07aba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916957,
+            "region_id":85688573,
+            "venue_id":"102187723"
+        }
+    ],
+    "wof:id":"102187723",
+    "wof:lastmodified":1449068159,
+    "wof:name":"Peninsula Sanitation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.154214,60.480478,-151.154214,60.480478],
+  "geometry": {"coordinates":[-151.154214,60.480478],"type":"Point"}
+}

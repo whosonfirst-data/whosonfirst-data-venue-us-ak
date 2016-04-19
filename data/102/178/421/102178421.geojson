@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.761777,64.85604,-147.761777,64.85604",
+    "geom:latitude":64.85604,
+    "geom:longitude":-147.761777,
+    "iso:country":"US",
+    "sg:address":"1260 Aurora Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 3864",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869043,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QMa0A0xf4T91quiOL8m40_64.856040_-147.761777@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"758de7c1a90e8c90c07f6cc2562a7403",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85869043,
+            "region_id":85688573,
+            "venue_id":"102178421"
+        }
+    ],
+    "wof:id":"102178421",
+    "wof:lastmodified":1449069531,
+    "wof:name":"Sheet Metal",
+    "wof:parent_id":85869043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.761777,64.85604,-147.761777,64.85604],
+  "geometry": {"coordinates":[-147.761777,64.85604],"type":"Point"}
+}

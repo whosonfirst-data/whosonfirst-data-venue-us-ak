@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.444552,61.575519,-149.444552,61.575519",
+    "geom:latitude":61.575519,
+    "geom:longitude":-149.444552,
+    "iso:country":"US",
+    "sg:address":"300 Centaur Ave",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 7586",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "lawn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WCmgSI9tzEIo8MRLP8hMZ_61.575519_-149.444552@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2417c170de0c36f96a246b5b8e4a8bb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102189341"
+        }
+    ],
+    "wof:id":"102189341",
+    "wof:lastmodified":1449069499,
+    "wof:name":"Far North Garden Supply",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.444552,61.575519,-149.444552,61.575519],
+  "geometry": {"coordinates":[-149.444552,61.575519],"type":"Point"}
+}

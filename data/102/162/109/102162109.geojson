@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.632892,64.885755,-147.632892,64.885755",
+    "geom:latitude":64.885755,
+    "geom:longitude":-147.632892,
+    "iso:country":"US",
+    "sg:address":"602 Old Steese Hwy N",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 2886",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916559,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uAR2NuMs53UeG0zpeesAW_64.885755_-147.632892@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f44a73f798740ff98dadd7bde2f1a688",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "region_id":85688573,
+            "venue_id":"102162109"
+        }
+    ],
+    "wof:id":"102162109",
+    "wof:lastmodified":1449069822,
+    "wof:name":"Firehouse Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.632892,64.885755,-147.632892,64.885755],
+  "geometry": {"coordinates":[-147.632892,64.885755],"type":"Point"}
+}

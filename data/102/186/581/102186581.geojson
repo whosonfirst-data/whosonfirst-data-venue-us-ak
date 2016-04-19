@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.966311,61.193754,-149.966311,61.193754",
+    "geom:latitude":61.193754,
+    "geom:longitude":-149.966311,
+    "iso:country":"US",
+    "sg:address":"2837 Wendys Way",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 6561",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "book",
+        "rare",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852831,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40sT0MDQiBJawFDUouvaBw_61.193754_-149.966311@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f16e3456ebe1124b06eb63b895e30b51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":"102186581"
+        }
+    ],
+    "wof:id":"102186581",
+    "wof:lastmodified":1449069653,
+    "wof:name":"Alaska Renaissance Books",
+    "wof:parent_id":85852831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.966311,61.193754,-149.966311,61.193754],
+  "geometry": {"coordinates":[-149.966311,61.193754],"type":"Point"}
+}

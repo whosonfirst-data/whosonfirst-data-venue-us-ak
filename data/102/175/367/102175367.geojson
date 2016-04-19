@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.850331,61.158698,-149.850331,61.158698",
+    "geom:latitude":61.158698,
+    "geom:longitude":-149.850331,
+    "iso:country":"US",
+    "sg:address":"7111 Viburnum Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 2362",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cosmetic",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JtrAdKwyfwBk58n4R9NtV_61.158698_-149.850331@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d2b7cb2e9ad5591040c7a1be9d7867ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102175367"
+        }
+    ],
+    "wof:id":"102175367",
+    "wof:lastmodified":1449069465,
+    "wof:name":"Mary Kay Cosmetics",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.850331,61.158698,-149.850331,61.158698],
+  "geometry": {"coordinates":[-149.850331,61.158698],"type":"Point"}
+}

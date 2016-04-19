@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.710288,64.849199,-147.710288,64.849199",
+    "geom:latitude":64.849199,
+    "geom:longitude":-147.710288,
+    "iso:country":"US",
+    "sg:address":"201 Minnie St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 7555",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "sporting",
+        "good"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Yaepq4QJEOAqBoAezg92x_64.849199_-147.710288@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"df7d3aab6d6eda94f1fd04f6b5df3b9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102180007"
+        }
+    ],
+    "wof:id":"102180007",
+    "wof:lastmodified":1449067877,
+    "wof:name":"Apocalypse Design Inc",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.710288,64.849199,-147.710288,64.849199],
+  "geometry": {"coordinates":[-147.710288,64.849199],"type":"Point"}
+}

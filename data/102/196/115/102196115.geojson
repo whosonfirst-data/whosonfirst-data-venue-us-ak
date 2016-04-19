@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.717321,64.834543,-147.717321,64.834543",
+    "geom:latitude":64.834543,
+    "geom:longitude":-147.717321,
+    "iso:country":"US",
+    "sg:address":"1512 S Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 3386",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mJKxLHkffghpmBiTPnXC8_64.834543_-147.717321@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4730ff98153fddb23396d9e335e64e27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102196115"
+        }
+    ],
+    "wof:id":"102196115",
+    "wof:lastmodified":1449068335,
+    "wof:name":"Fairbanks Hair Design",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.717321,64.834543,-147.717321,64.834543],
+  "geometry": {"coordinates":[-147.717321,64.834543],"type":"Point"}
+}

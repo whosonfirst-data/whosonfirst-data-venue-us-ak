@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.487327,58.359065,-134.487327,58.359065",
+    "geom:latitude":58.359065,
+    "geom:longitude":-134.487327,
+    "iso:country":"US",
+    "sg:address":"1782 Anka St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 780 6766",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rB52EGupgapvbfsb1Wz6i_58.359065_-134.487327@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f5c1bb20f9db8072e11b150b04398bc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102165565"
+        }
+    ],
+    "wof:id":"102165565",
+    "wof:lastmodified":1449070218,
+    "wof:name":"Behrends Mechanical Inc",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.487327,58.359065,-134.487327,58.359065],
+  "geometry": {"coordinates":[-134.487327,58.359065],"type":"Point"}
+}

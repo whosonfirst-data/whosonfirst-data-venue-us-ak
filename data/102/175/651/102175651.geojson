@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.792434,64.827306,-147.792434,64.827306",
+    "geom:latitude":64.827306,
+    "geom:longitude":-147.792434,
+    "iso:country":"US",
+    "sg:address":"3133 Davis Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 0515",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HakxfiyqJ74PxHHAeIJPz_64.827306_-147.792434@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"da9987a45a8455b9aef984c822c3acca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102175651"
+        }
+    ],
+    "wof:id":"102175651",
+    "wof:lastmodified":1449069464,
+    "wof:name":"Gbc Inc",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.792434,64.827306,-147.792434,64.827306],
+  "geometry": {"coordinates":[-147.792434,64.827306],"type":"Point"}
+}

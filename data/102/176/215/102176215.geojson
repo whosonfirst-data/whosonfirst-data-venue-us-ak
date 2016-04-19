@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.64312,55.343814,-131.64312,55.343814",
+    "geom:latitude":55.343814,
+    "geom:longitude":-131.64312,
+    "iso:country":"US",
+    "sg:address":"710 Park Ave",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 247 8676",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Kno7Dox2x5MyRq0EUQdat_55.343814_-131.643120@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e7b104cf57553a38366cd5a8a29a1cc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102176215"
+        }
+    ],
+    "wof:id":"102176215",
+    "wof:lastmodified":1449069347,
+    "wof:name":"Salon Park Ave",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.64312,55.343814,-131.64312,55.343814],
+  "geometry": {"coordinates":[-131.64312,55.343814],"type":"Point"}
+}

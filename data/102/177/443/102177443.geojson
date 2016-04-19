@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.800138,64.834244,-147.800138,64.834244",
+    "geom:latitude":64.834244,
+    "geom:longitude":-147.800138,
+    "iso:country":"US",
+    "sg:address":"1503 Washington Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 4675",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D5b2L8fvO3M5Pbvnm9mQG_64.834244_-147.800138@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"30410f60d9f9d40d96ebfbc8bb0f8bfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102177443"
+        }
+    ],
+    "wof:id":"102177443",
+    "wof:lastmodified":1449070209,
+    "wof:name":"Executive Apartments",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.800138,64.834244,-147.800138,64.834244],
+  "geometry": {"coordinates":[-147.800138,64.834244],"type":"Point"}
+}

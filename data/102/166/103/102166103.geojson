@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.878022,61.166316,-149.878022,61.166316",
+    "geom:latitude":61.166316,
+    "geom:longitude":-149.878022,
+    "iso:country":"US",
+    "sg:address":"320 E Dowling Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 9131",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EaUTjEJjC80w938JCtX8B_61.166316_-149.878022@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2275ec8e2a6685ecd6c3f44e649428aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102166103"
+        }
+    ],
+    "wof:id":"102166103",
+    "wof:lastmodified":1449069085,
+    "wof:name":"William H Gill Consulting",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.878022,61.166316,-149.878022,61.166316],
+  "geometry": {"coordinates":[-149.878022,61.166316],"type":"Point"}
+}

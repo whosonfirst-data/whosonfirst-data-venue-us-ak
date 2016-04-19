@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.858745,61.189827,-149.858745,61.189827",
+    "geom:latitude":61.189827,
+    "geom:longitude":-149.858745,
+    "iso:country":"US",
+    "sg:address":"3400 Latouche St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 257 7200",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RxbZLkpVU2x8dWyg6tzjO_61.189827_-149.858745@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"27e2164e65475ee31ed6d160f26222ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102162157"
+        }
+    ],
+    "wof:id":"102162157",
+    "wof:lastmodified":1449069824,
+    "wof:name":"Denali Alaskan Federal CU",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.858745,61.189827,-149.858745,61.189827],
+  "geometry": {"coordinates":[-149.858745,61.189827],"type":"Point"}
+}

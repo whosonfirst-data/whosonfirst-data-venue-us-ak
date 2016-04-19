@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.987511,61.182247,-149.987511,61.182247",
+    "geom:latitude":61.182247,
+    "geom:longitude":-149.987511,
+    "iso:country":"US",
+    "sg:address":"6000 de Havilland Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 4322",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852831,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TnFQWoa1j9GpmLsmC1459_61.182247_-149.987511@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1bc992d6dae84c3b4bef577fb611102c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":"102182585"
+        }
+    ],
+    "wof:id":"102182585",
+    "wof:lastmodified":1449069281,
+    "wof:name":"Aircraft Service Intl",
+    "wof:parent_id":85852831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.987511,61.182247,-149.987511,61.182247],
+  "geometry": {"coordinates":[-149.987511,61.182247],"type":"Point"}
+}

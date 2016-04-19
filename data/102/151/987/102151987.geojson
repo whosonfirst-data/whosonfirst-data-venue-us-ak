@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.921384,61.195292,-149.921384,61.195292",
+    "geom:latitude":61.195292,
+    "geom:longitude":-149.921384,
+    "iso:country":"US",
+    "sg:address":"1900 W Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 5678",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "sg:website":"www.spinellhomes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TFG4JNwXVo8fjfqveb9T6_61.195292_-149.921384@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cdaa2593e9627c07a4db67c4fdcee6b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102151987"
+        }
+    ],
+    "wof:id":"102151987",
+    "wof:lastmodified":1449067782,
+    "wof:name":"Spinell Homes Inc",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.921384,61.195292,-149.921384,61.195292],
+  "geometry": {"coordinates":[-149.921384,61.195292],"type":"Point"}
+}

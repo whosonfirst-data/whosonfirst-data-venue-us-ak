@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.34815,61.584633,-149.34815,61.584633",
+    "geom:latitude":61.584633,
+    "geom:longitude":-149.34815,
+    "iso:country":"US",
+    "sg:address":"3720 Steven Dr",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 6766",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916225,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kqALVAhzbzoyhTeQihdJZ_61.584633_-149.348150@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c8a28abae50247563d0bf3fe6bda8a31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916225,
+            "region_id":85688573,
+            "venue_id":"102161571"
+        }
+    ],
+    "wof:id":"102161571",
+    "wof:lastmodified":1449068710,
+    "wof:name":"Pioneer Studio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.34815,61.584633,-149.34815,61.584633],
+  "geometry": {"coordinates":[-149.34815,61.584633],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.850986,61.170666,-149.850986,61.170666",
+    "geom:latitude":61.170666,
+    "geom:longitude":-149.850986,
+    "iso:country":"US",
+    "sg:address":"5402 Windflower Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 332 3376",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "food",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oSmWfZP8DSDYZ5ZrxrAXI_61.170666_-149.850986@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"da4f6d5521d267c22d26ae1c92d01ea3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102166043"
+        }
+    ],
+    "wof:id":"102166043",
+    "wof:lastmodified":1449069085,
+    "wof:name":"Acosta Retail Sales & Mrktng",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.850986,61.170666,-149.850986,61.170666],
+  "geometry": {"coordinates":[-149.850986,61.170666],"type":"Point"}
+}

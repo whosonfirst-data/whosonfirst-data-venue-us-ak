@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.864007,61.156011,-149.864007,61.156011",
+    "geom:latitude":61.156011,
+    "geom:longitude":-149.864007,
+    "iso:country":"US",
+    "sg:address":"7015 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 1190",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZPh7NHmViiRX8xfEBtSoI_61.156011_-149.864007@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"71c333034d9907736d88a160a4f5e065",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102160889"
+        }
+    ],
+    "wof:id":"102160889",
+    "wof:lastmodified":1449069772,
+    "wof:name":"Anchorage Auto & Electric",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.864007,61.156011,-149.864007,61.156011],
+  "geometry": {"coordinates":[-149.864007,61.156011],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.653133,55.344082,-131.653133,55.344082",
+    "geom:latitude":55.344082,
+    "geom:longitude":-131.653133,
+    "iso:country":"US",
+    "sg:address":"811 Water St",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 3192",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XoaWIbnFoZskVGjjGjtr2_55.344082_-131.653133@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4b1d8287c5c69cf20cb18f655389b32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102168829"
+        }
+    ],
+    "wof:id":"102168829",
+    "wof:lastmodified":1449069008,
+    "wof:name":"Bookhouse",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.653133,55.344082,-131.653133,55.344082],
+  "geometry": {"coordinates":[-131.653133,55.344082],"type":"Point"}
+}

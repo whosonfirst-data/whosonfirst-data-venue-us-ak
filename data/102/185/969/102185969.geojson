@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.884285,61.110752,-149.884285,61.110752",
+    "geom:latitude":61.110752,
+    "geom:longitude":-149.884285,
+    "iso:country":"US",
+    "sg:address":"201 Bonnie Jean Ct",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 2643",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home",
+        "general",
+        "family",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fcr4yxe0BW4pL9r22Zvxi_61.110752_-149.884285@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2949f0061ae296052feec5fdd317360e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102185969"
+        }
+    ],
+    "wof:id":"102185969",
+    "wof:lastmodified":1449068196,
+    "wof:name":"Harvey Enterprises",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.884285,61.110752,-149.884285,61.110752],
+  "geometry": {"coordinates":[-149.884285,61.110752],"type":"Point"}
+}

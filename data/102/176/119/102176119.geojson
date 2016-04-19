@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.889328,61.213968,-149.889328,61.213968",
+    "geom:latitude":61.213968,
+    "geom:longitude":-149.889328,
+    "iso:country":"US",
+    "sg:address":"835 D St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 4501",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home",
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jXJArmK50KlZRC1sOUeIt_61.213968_-149.889328@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ed64b2b4be784f3dee74536a7e77c0c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102176119"
+        }
+    ],
+    "wof:id":"102176119",
+    "wof:lastmodified":1449069346,
+    "wof:name":"Glennwood Center",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.889328,61.213968,-149.889328,61.213968],
+  "geometry": {"coordinates":[-149.889328,61.213968],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.856988,61.161803,-149.856988,61.161803",
+    "geom:latitude":61.161803,
+    "geom:longitude":-149.856988,
+    "iso:country":"US",
+    "sg:address":"6510 Homer Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Plants",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 3480",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "florist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZhOkX0mi2quntN3Qm2MU1_61.161803_-149.856988@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"af47ce4e9f2132f5d502470faee49381",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102186775"
+        }
+    ],
+    "wof:id":"102186775",
+    "wof:lastmodified":1449069655,
+    "wof:name":"Statewide Wholesale",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.856988,61.161803,-149.856988,61.161803],
+  "geometry": {"coordinates":[-149.856988,61.161803],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.755281,64.813547,-147.755281,64.813547",
+    "geom:latitude":64.813547,
+    "geom:longitude":-147.755281,
+    "iso:country":"US",
+    "sg:address":"3534 Industrial Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 8822",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fPJGlQyPC0egyE8Xnbv5v_64.813547_-147.755281@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5f58837d188ebf1ad029aa6d886349a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102169173"
+        }
+    ],
+    "wof:id":"102169173",
+    "wof:lastmodified":1449069246,
+    "wof:name":"Arctic Winds Musical Instrmnt",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.755281,64.813547,-147.755281,64.813547],
+  "geometry": {"coordinates":[-147.755281,64.813547],"type":"Point"}
+}

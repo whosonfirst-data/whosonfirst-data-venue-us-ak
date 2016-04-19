@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.835446,61.104329,-149.835446,61.104329",
+    "geom:latitude":61.104329,
+    "geom:longitude":-149.835446,
+    "iso:country":"US",
+    "sg:address":"2530 Autumn Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 3000",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "fabrication",
+        "structural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZmVyCfn42SopLYMadLmZX_61.104329_-149.835446@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b8cb4e4b6496ca55e60cfb9ba1b29640",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102190637"
+        }
+    ],
+    "wof:id":"102190637",
+    "wof:lastmodified":1449070035,
+    "wof:name":"Alaska Fab",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.835446,61.104329,-149.835446,61.104329],
+  "geometry": {"coordinates":[-149.835446,61.104329],"type":"Point"}
+}

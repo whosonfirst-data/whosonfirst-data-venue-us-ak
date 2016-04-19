@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.88854,61.168336,-149.88854,61.168336",
+    "geom:latitude":61.168336,
+    "geom:longitude":-149.88854,
+    "iso:country":"US",
+    "sg:address":"5631 Silverado Way",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 2894",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "fish",
+        "net"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16dBp21xHlBmwEEFouBPti_61.168336_-149.888540@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"61d8df4c0c0b05de8dc3059aed916711",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102152411"
+        }
+    ],
+    "wof:id":"102152411",
+    "wof:lastmodified":1449069634,
+    "wof:name":"Donalson Co",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.88854,61.168336,-149.88854,61.168336],
+  "geometry": {"coordinates":[-149.88854,61.168336],"type":"Point"}
+}

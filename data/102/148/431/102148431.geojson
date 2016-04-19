@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.485525,59.655116,-151.485525,59.655116",
+    "geom:latitude":59.655116,
+    "geom:longitude":-151.485525,
+    "iso:country":"US",
+    "sg:address":"2158 Aspen Ln",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 7070",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KziQJX3aoPzb2lvN6id8o_59.655116_-151.485525@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fd7919aaccd57a11596a369da49265ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102148431"
+        }
+    ],
+    "wof:id":"102148431",
+    "wof:lastmodified":1449069785,
+    "wof:name":"Brown's Sure-Lock Of Homer",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.485525,59.655116,-151.485525,59.655116],
+  "geometry": {"coordinates":[-151.485525,59.655116],"type":"Point"}
+}

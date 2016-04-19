@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.401171,58.298365,-134.401171,58.298365",
+    "geom:latitude":58.298365,
+    "geom:longitude":-134.401171,
+    "iso:country":"US",
+    "sg:address":"269 Gastineau Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 463 2555",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JMPmPMu7MHPkSYity5WId_58.298365_-134.401171@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"761e8628c4372ee2833e604be3dd67af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102187435"
+        }
+    ],
+    "wof:id":"102187435",
+    "wof:lastmodified":1449068160,
+    "wof:name":"Green House Private Cottage",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.401171,58.298365,-134.401171,58.298365],
+  "geometry": {"coordinates":[-134.401171,58.298365],"type":"Point"}
+}

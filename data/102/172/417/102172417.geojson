@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.976176,61.186002,-149.976176,61.186002",
+    "geom:latitude":61.186002,
+    "geom:longitude":-149.976176,
+    "iso:country":"US",
+    "sg:address":"3831 Aircraft Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 5556",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852831,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mof0MZN0QLbVDHxUCUV97_61.186002_-149.976176@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"90e0a57c8ded86993d5aa2c0fc5df121",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":"102172417"
+        }
+    ],
+    "wof:id":"102172417",
+    "wof:lastmodified":1449068735,
+    "wof:name":"Fly North Air Charter",
+    "wof:parent_id":85852831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.976176,61.186002,-149.976176,61.186002],
+  "geometry": {"coordinates":[-149.976176,61.186002],"type":"Point"}
+}

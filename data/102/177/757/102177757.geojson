@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.753966,61.209003,-149.753966,61.209003",
+    "geom:latitude":61.209003,
+    "geom:longitude":-149.753966,
+    "iso:country":"US",
+    "sg:address":"1607 Otter St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 338 1790",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869053,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38IbcOICiVnridpWo7pQKp_61.209003_-149.753966@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2051ce7905aa449dee1067cef483da50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869053,
+            "region_id":85688573,
+            "venue_id":"102177757"
+        }
+    ],
+    "wof:id":"102177757",
+    "wof:lastmodified":1449070208,
+    "wof:name":"Pstarl Services",
+    "wof:parent_id":85869053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.753966,61.209003,-149.753966,61.209003],
+  "geometry": {"coordinates":[-149.753966,61.209003],"type":"Point"}
+}

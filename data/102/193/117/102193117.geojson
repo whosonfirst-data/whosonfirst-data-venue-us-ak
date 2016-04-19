@@ -1,0 +1,70 @@
+{
+  "id": "102193117",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-147.752105,64.84265,-147.752105,64.84265",
+    "geom:latitude":64.84265,
+    "geom:longitude":-147.752105,
+    "iso:country":"US",
+    "sg:address":"202 Wien Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 459 8704",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "state",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85915635,
+        102081397,
+        85848979
+    ],
+    "wof:brand_id":420575603,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RyLKy4qGrHPW5nGWqJtHx_64.842650_-147.752105@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2905cc07a356a8301b3dfd6ef91de350",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102193117"
+        }
+    ],
+    "wof:id":"102193117",
+    "wof:lastmodified":1457209666,
+    "wof:name":"Army National Guard",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -147.752105,
+    64.84265,
+    -147.752105,
+    64.84265
+],
+  "geometry": {"coordinates":[-147.752105,64.84265000000001],"type":"Point"}
+}

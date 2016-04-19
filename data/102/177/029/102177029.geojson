@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.897282,61.171176,-149.897282,61.171176",
+    "geom:latitude":61.171176,
+    "geom:longitude":-149.897282,
+    "iso:country":"US",
+    "sg:address":"436 W Potter Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 6333",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.cwonsautorepair.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hxGsqpCfCqzWqPk89z0ME_61.171176_-149.897282@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"33ac4b59373f27cd147ab824ea753605",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102177029"
+        }
+    ],
+    "wof:id":"102177029",
+    "wof:lastmodified":1449070208,
+    "wof:name":"Won's Auto Repair",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.897282,61.171176,-149.897282,61.171176],
+  "geometry": {"coordinates":[-149.897282,61.171176],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.72683,61.228348,-149.72683,61.228348",
+    "geom:latitude":61.228348,
+    "geom:longitude":-149.72683,
+    "iso:country":"US",
+    "sg:address":"8650 Glenn Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 338 3870",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VltPRhL3LhID1nn334vZh_61.228348_-149.726830@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"28701b3348c94c2c9dd26ead560e6b4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102187213"
+        }
+    ],
+    "wof:id":"102187213",
+    "wof:lastmodified":1449068154,
+    "wof:name":"Anchorage Treatment Dept",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.72683,61.228348,-149.72683,61.228348],
+  "geometry": {"coordinates":[-149.72683,61.228348],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.437114,60.104933,-149.437114,60.104933",
+    "geom:latitude":60.104933,
+    "geom:longitude":-149.437114,
+    "iso:country":"US",
+    "sg:address":"412 6th Ave",
+    "sg:city":"Seward",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 224 7495",
+    "sg:postcode":"99664",
+    "sg:province":"AK",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915769,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i1LuDuwjQvmT75PKUADVq_60.104933_-149.437114@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"175599c6aaf7c6a9156bd83ed42a4cd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915769,
+            "region_id":85688573,
+            "venue_id":"102170499"
+        }
+    ],
+    "wof:id":"102170499",
+    "wof:lastmodified":1449068016,
+    "wof:name":"Seward City Animal Control",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.437114,60.104933,-149.437114,60.104933],
+  "geometry": {"coordinates":[-149.437114,60.104933],"type":"Point"}
+}

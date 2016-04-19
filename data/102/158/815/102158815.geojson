@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.87739,64.814272,-147.87739,64.814272",
+    "geom:latitude":64.814272,
+    "geom:longitude":-147.87739,
+    "iso:country":"US",
+    "sg:address":"5175 Airport Industrial Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 9186",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916551,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FX3PbZHlKrBAwV3p2WDBQ_64.814272_-147.877390@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"94f74bfee1bcfeac292f3c847bbece5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916551,
+            "region_id":85688573,
+            "venue_id":"102158815"
+        }
+    ],
+    "wof:id":"102158815",
+    "wof:lastmodified":1449069393,
+    "wof:name":"Alaska Airlines Air Cargo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.87739,64.814272,-147.87739,64.814272],
+  "geometry": {"coordinates":[-147.87739,64.814272],"type":"Point"}
+}

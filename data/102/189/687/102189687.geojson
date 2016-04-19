@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.721843,64.841619,-147.721843,64.841619",
+    "geom:latitude":64.841619,
+    "geom:longitude":-147.721843,
+    "iso:country":"US",
+    "sg:address":"645 5th Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 459 6333",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YTNk82j1OlvOTqqWkqAvc_64.841619_-147.721843@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4330429c63708280fe039f3f9aa926e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102189687"
+        }
+    ],
+    "wof:id":"102189687",
+    "wof:lastmodified":1449069497,
+    "wof:name":"CenturyTel",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.721843,64.841619,-147.721843,64.841619],
+  "geometry": {"coordinates":[-147.721843,64.841619],"type":"Point"}
+}

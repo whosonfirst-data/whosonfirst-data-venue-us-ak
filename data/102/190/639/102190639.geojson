@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.812675,64.854587,-147.812675,64.854587",
+    "geom:latitude":64.854587,
+    "geom:longitude":-147.812675,
+    "iso:country":"US",
+    "sg:address":"1197 University Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 8738",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DqYz9tP0v4r2AvYx3GUeD_64.854587_-147.812675@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9539ef4acae19182a65580e18f979773",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102190639"
+        }
+    ],
+    "wof:id":"102190639",
+    "wof:lastmodified":1449070037,
+    "wof:name":"Chinese Fellowship",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.812675,64.854587,-147.812675,64.854587],
+  "geometry": {"coordinates":[-147.812675,64.854587],"type":"Point"}
+}

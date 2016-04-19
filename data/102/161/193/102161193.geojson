@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.403124,61.615157,-149.403124,61.615157",
+    "geom:latitude":61.615157,
+    "geom:longitude":-149.403124,
+    "iso:country":"US",
+    "sg:address":"1905 Jacksnipe Ct",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 1492",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916185,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fUQ614ODAOI3IQjALBVbv_61.615157_-149.403124@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"714ecfe0dd8017d00ca489a9050c5b68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916185,
+            "region_id":85688573,
+            "venue_id":"102161193"
+        }
+    ],
+    "wof:id":"102161193",
+    "wof:lastmodified":1449068710,
+    "wof:name":"Techni-Clean",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.403124,61.615157,-149.403124,61.615157],
+  "geometry": {"coordinates":[-149.403124,61.615157],"type":"Point"}
+}

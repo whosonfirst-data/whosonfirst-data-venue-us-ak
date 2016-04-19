@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.466841,61.581585,-149.466841,61.581585",
+    "geom:latitude":61.581585,
+    "geom:longitude":-149.466841,
+    "iso:country":"US",
+    "sg:address":"601 W Parks Hwy",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 5900",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wyDPa1bVHtRJjqkHdotq3_61.581585_-149.466841@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"84e74bf3c40dbb398f8e0f8d5bb5a31b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102187159"
+        }
+    ],
+    "wof:id":"102187159",
+    "wof:lastmodified":1449068158,
+    "wof:name":"Wasilla Chevron Food Mart",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.466841,61.581585,-149.466841,61.581585],
+  "geometry": {"coordinates":[-149.466841,61.581585],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.838433,61.089791,-149.838433,61.089791",
+    "geom:latitude":61.089791,
+    "geom:longitude":-149.838433,
+    "iso:country":"US",
+    "sg:address":"14321 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 3039",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873755,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i8V821sVNcAXgwp6DE32s_61.089791_-149.838433@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f732f1c27e11f942d703c22889603b0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873755,
+            "region_id":85688573,
+            "venue_id":"102188973"
+        }
+    ],
+    "wof:id":"102188973",
+    "wof:lastmodified":1449068947,
+    "wof:name":"Julie's Garden",
+    "wof:parent_id":85873755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.838433,61.089791,-149.838433,61.089791],
+  "geometry": {"coordinates":[-149.838433,61.089791],"type":"Point"}
+}

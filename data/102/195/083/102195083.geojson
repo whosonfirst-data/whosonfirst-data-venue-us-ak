@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.780811,64.860275,-147.780811,64.860275",
+    "geom:latitude":64.860275,
+    "geom:longitude":-147.780811,
+    "iso:country":"US",
+    "sg:address":"1845 Caribou Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 455 6506",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "sg:website":"www.akbestph.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869043,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qHIWAdMg4f1i98hHb1lIQ_64.860275_-147.780811@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"74799506b52406010083305c4c4125e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85869043,
+            "region_id":85688573,
+            "venue_id":"102195083"
+        }
+    ],
+    "wof:id":"102195083",
+    "wof:lastmodified":1449069364,
+    "wof:name":"Alaska Best Plumbing & Heating",
+    "wof:parent_id":85869043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.780811,64.860275,-147.780811,64.860275],
+  "geometry": {"coordinates":[-147.780811,64.860275],"type":"Point"}
+}

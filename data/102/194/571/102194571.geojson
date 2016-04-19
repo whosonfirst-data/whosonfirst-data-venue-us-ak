@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.878761,61.198163,-149.878761,61.198163",
+    "geom:latitude":61.198163,
+    "geom:longitude":-149.878761,
+    "iso:country":"US",
+    "sg:address":"213 E Fireweed Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 7700",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25LLi68ummYKxHUzg6ea9T_61.198163_-149.878761@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0afb1040845ea30dbaa5414226693dea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102194571"
+        }
+    ],
+    "wof:id":"102194571",
+    "wof:lastmodified":1449069828,
+    "wof:name":"Chiropractic Health Clinic",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.878761,61.198163,-149.878761,61.198163],
+  "geometry": {"coordinates":[-149.878761,61.198163],"type":"Point"}
+}

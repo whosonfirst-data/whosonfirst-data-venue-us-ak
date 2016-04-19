@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.485244,58.357717,-134.485244,58.357717",
+    "geom:latitude":58.357717,
+    "geom:longitude":-134.485244,
+    "iso:country":"US",
+    "sg:address":"5366 Commercial Blvd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 780 3600",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67duHI37GxbUUNhdPXwwo4_58.357717_-134.485244@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4d633c42d58c44d942d223142934a7b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102158243"
+        }
+    ],
+    "wof:id":"102158243",
+    "wof:lastmodified":1449069394,
+    "wof:name":"Kappler Computer Svc Inc",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.485244,58.357717,-134.485244,58.357717],
+  "geometry": {"coordinates":[-134.485244,58.357717],"type":"Point"}
+}

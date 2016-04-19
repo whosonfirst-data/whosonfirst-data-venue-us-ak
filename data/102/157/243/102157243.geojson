@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.803175,61.181975,-149.803175,61.181975",
+    "geom:latitude":61.181975,
+    "geom:longitude":-149.803175,
+    "iso:country":"US",
+    "sg:address":"4315 Diplomacy Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 2662",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1raBCs8rMkCiC7Nj3Mnckd_61.181975_-149.803175@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f4dedb971feaa164e2f4a43fac7311e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102157243"
+        }
+    ],
+    "wof:id":"102157243",
+    "wof:lastmodified":1449069831,
+    "wof:name":"Alaska Native Medical Ctr",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.803175,61.181975,-149.803175,61.181975],
+  "geometry": {"coordinates":[-149.803175,61.181975],"type":"Point"}
+}

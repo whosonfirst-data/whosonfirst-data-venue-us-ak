@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.852384,61.192426,-149.852384,61.192426",
+    "geom:latitude":61.192426,
+    "geom:longitude":-149.852384,
+    "iso:country":"US",
+    "sg:address":"3044 Wentworth St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 8331",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ab4rGAtnKvW8USumy5X2O_61.192426_-149.852384@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"079413c8d7f33093147614b6fa989683",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102175991"
+        }
+    ],
+    "wof:id":"102175991",
+    "wof:lastmodified":1449069465,
+    "wof:name":"Angel Rest",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.852384,61.192426,-149.852384,61.192426],
+  "geometry": {"coordinates":[-149.852384,61.192426],"type":"Point"}
+}

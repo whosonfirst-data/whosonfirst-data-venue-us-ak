@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.82403,64.873016,-147.82403,64.873016",
+    "geom:latitude":64.873016,
+    "geom:longitude":-147.82403,
+    "iso:country":"US",
+    "sg:address":"1825 Farmers Loop Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 2211",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "piano"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916609,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xr4ws3U0mcm8jsJdOXKs0_64.873016_-147.824030@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"07265dfc9bab86b614a268896fb6f167",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "region_id":85688573,
+            "venue_id":"102178931"
+        }
+    ],
+    "wof:id":"102178931",
+    "wof:lastmodified":1449069536,
+    "wof:name":"Barney's Piano Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.82403,64.873016,-147.82403,64.873016],
+  "geometry": {"coordinates":[-147.82403,64.873016],"type":"Point"}
+}

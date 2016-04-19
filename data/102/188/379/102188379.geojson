@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.880781,61.195289,-149.880781,61.195289",
+    "geom:latitude":61.195289,
+    "geom:longitude":-149.880781,
+    "iso:country":"US",
+    "sg:address":"2601 Barrow St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 2453",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "bicycle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75izslB8barwcZ1RODa01l_61.195289_-149.880781@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"941e4d8ddcdf4d566298ef1fa048fb27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102188379"
+        }
+    ],
+    "wof:id":"102188379",
+    "wof:lastmodified":1449068946,
+    "wof:name":"Bike Exchange",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.880781,61.195289,-149.880781,61.195289],
+  "geometry": {"coordinates":[-149.880781,61.195289],"type":"Point"}
+}

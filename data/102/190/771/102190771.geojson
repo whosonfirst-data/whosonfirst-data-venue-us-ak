@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.800661,64.834695,-147.800661,64.834695",
+    "geom:latitude":64.834695,
+    "geom:longitude":-147.800661,
+    "iso:country":"US",
+    "sg:address":"1300 Washington Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 4576",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11CjFMMZBVJs5uhZSiiTRY_64.834695_-147.800661@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c21ea9c7f4e137535f1969d0bd337396",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102190771"
+        }
+    ],
+    "wof:id":"102190771",
+    "wof:lastmodified":1449070033,
+    "wof:name":"Robinson & Enerson PC",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.800661,64.834695,-147.800661,64.834695],
+  "geometry": {"coordinates":[-147.800661,64.834695],"type":"Point"}
+}

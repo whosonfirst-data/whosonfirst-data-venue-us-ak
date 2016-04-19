@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.917192,61.19537,-149.917192,61.19537",
+    "geom:latitude":61.19537,
+    "geom:longitude":-149.917192,
+    "iso:country":"US",
+    "sg:address":"1741 W Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 7571",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "skating",
+        "rink"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MkE7c7k4eQGFJwiohWo59_61.195370_-149.917192@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b78348757cd694ec3c9162e64c1b8f3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102156099"
+        }
+    ],
+    "wof:id":"102156099",
+    "wof:lastmodified":1449068282,
+    "wof:name":"Dempsey-Anderson Ice Arena",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.917192,61.19537,-149.917192,61.19537],
+  "geometry": {"coordinates":[-149.917192,61.19537],"type":"Point"}
+}

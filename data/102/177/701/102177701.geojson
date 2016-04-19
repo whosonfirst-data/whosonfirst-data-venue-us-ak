@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.42263,64.809894,-147.42263,64.809894",
+    "geom:latitude":64.809894,
+    "geom:longitude":-147.42263,
+    "iso:country":"US",
+    "sg:address":"1225 Hartzog Loop",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 7707",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916555,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3i5Dvv4uLJ1lObW4XwLGwa_64.809894_-147.422630@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c782eb8b4eddad5661f8a49500ccd12a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916555,
+            "region_id":85688573,
+            "venue_id":"102177701"
+        }
+    ],
+    "wof:id":"102177701",
+    "wof:lastmodified":1449070207,
+    "wof:name":"Dave's Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.42263,64.809894,-147.42263,64.809894],
+  "geometry": {"coordinates":[-147.42263,64.809894],"type":"Point"}
+}

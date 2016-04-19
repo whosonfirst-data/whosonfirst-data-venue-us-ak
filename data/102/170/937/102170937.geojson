@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.778567,64.859045,-147.778567,64.859045",
+    "geom:latitude":64.859045,
+    "geom:longitude":-147.778567,
+    "iso:country":"US",
+    "sg:address":"1645 Old Pioneer Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 4167",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869043,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_185vuGJnTG49WzK7q7BJ0P_64.859045_-147.778567@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c0e1b46b45f0e05fb6308575b2c3b978",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85869043,
+            "region_id":85688573,
+            "venue_id":"102170937"
+        }
+    ],
+    "wof:id":"102170937",
+    "wof:lastmodified":1449068018,
+    "wof:name":"J & E Trees",
+    "wof:parent_id":85869043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.778567,64.859045,-147.778567,64.859045],
+  "geometry": {"coordinates":[-147.778567,64.859045],"type":"Point"}
+}

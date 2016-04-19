@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.151676,60.482554,-151.151676,60.482554",
+    "geom:latitude":60.482554,
+    "geom:longitude":-151.151676,
+    "iso:country":"US",
+    "sg:address":"44066 Kalifornsky Beach Rd",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 260 6682",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "pet",
+        "crematory",
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916957,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Yj0Hcyii0Rd3Rl5TXVlAC_60.482554_-151.151676@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"198b3af538c88725077a643e781a1344",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916957,
+            "region_id":85688573,
+            "venue_id":"102156297"
+        }
+    ],
+    "wof:id":"102156297",
+    "wof:lastmodified":1449068282,
+    "wof:name":"Twin Cities Pet Cremation Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.151676,60.482554,-151.151676,60.482554],
+  "geometry": {"coordinates":[-151.151676,60.482554],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.822563,61.215555,-149.822563,61.215555",
+    "geom:latitude":61.215555,
+    "geom:longitude":-149.822563,
+    "iso:country":"US",
+    "sg:address":"3101 Penland Pkwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 2937",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "alteration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60rIvQrtMl9dSXjF2NYclI_61.215555_-149.822563@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cf299ef4445d8f4a7de55d220a0fc13b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102161919"
+        }
+    ],
+    "wof:id":"102161919",
+    "wof:lastmodified":1449068710,
+    "wof:name":"Swan Tailoring & Alterations",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.822563,61.215555,-149.822563,61.215555],
+  "geometry": {"coordinates":[-149.822563,61.215555],"type":"Point"}
+}

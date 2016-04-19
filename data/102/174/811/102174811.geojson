@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.336209,57.050819,-135.336209,57.050819",
+    "geom:latitude":57.050819,
+    "geom:longitude":-135.336209,
+    "iso:country":"US",
+    "sg:address":"241 Lincoln St",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 6990",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67u5IVJJjoTObpZWXpWPtN_57.050819_-135.336209@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1fd12030f3132ba6f3c3c8c755b19824",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102174811"
+        }
+    ],
+    "wof:id":"102174811",
+    "wof:lastmodified":1449068137,
+    "wof:name":"Artist Cove Gallery Inc",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.336209,57.050819,-135.336209,57.050819],
+  "geometry": {"coordinates":[-135.336209,57.050819],"type":"Point"}
+}

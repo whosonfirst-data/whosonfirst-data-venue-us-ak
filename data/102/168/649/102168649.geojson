@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.836232,61.180762,-149.836232,61.180762",
+    "geom:latitude":61.180762,
+    "geom:longitude":-149.836232,
+    "iso:country":"US",
+    "sg:address":"2476 E Tudor Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 6229",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18Zr0iVHGDUMvcywrhifhk_61.180762_-149.836232@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"351d4f2da78d611c1581f9256c0f4466",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102168649"
+        }
+    ],
+    "wof:id":"102168649",
+    "wof:lastmodified":1449069006,
+    "wof:name":"Hierophant Metaphysical Store",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.836232,61.180762,-149.836232,61.180762],
+  "geometry": {"coordinates":[-149.836232,61.180762],"type":"Point"}
+}

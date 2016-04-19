@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.872506,61.11035,-149.872506,61.11035",
+    "geom:latitude":61.11035,
+    "geom:longitude":-149.872506,
+    "iso:country":"US",
+    "sg:address":"470 Dailey Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 7407",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873755,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IS1qkceUhZyuryDXEqpvO_61.110350_-149.872506@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3f29278813f303ca3dc8ede5a2cb8d78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873755,
+            "region_id":85688573,
+            "venue_id":"102186085"
+        }
+    ],
+    "wof:id":"102186085",
+    "wof:lastmodified":1449069653,
+    "wof:name":"Aurora Mobile Medical Svc",
+    "wof:parent_id":85873755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.872506,61.11035,-149.872506,61.11035],
+  "geometry": {"coordinates":[-149.872506,61.11035],"type":"Point"}
+}

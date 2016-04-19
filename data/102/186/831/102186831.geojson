@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.888439,61.194185,-149.888439,61.194185",
+    "geom:latitude":61.194185,
+    "geom:longitude":-149.888439,
+    "iso:country":"US",
+    "sg:address":"360 W Benson Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 8494",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "casualty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Wm9iJZTWFYN0Y5MQL1Kow_61.194185_-149.888439@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"483cde7987f67036da5057cf5e308ab7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102186831"
+        }
+    ],
+    "wof:id":"102186831",
+    "wof:lastmodified":1449069655,
+    "wof:name":"North Star Underwriting Mgrs",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.888439,61.194185,-149.888439,61.194185],
+  "geometry": {"coordinates":[-149.888439,61.194185],"type":"Point"}
+}

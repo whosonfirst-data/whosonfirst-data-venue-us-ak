@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.441415,61.581084,-149.441415,61.581084",
+    "geom:latitude":61.581084,
+    "geom:longitude":-149.441415,
+    "iso:country":"US",
+    "sg:address":"211 Main St",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 4004",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TMUdKonw6z5diub891QDz_61.581084_-149.441415@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"562671f24229d1a25d0e3defbfa1f322",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102159803"
+        }
+    ],
+    "wof:id":"102159803",
+    "wof:lastmodified":1449068096,
+    "wof:name":"Tesoro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.441415,61.581084,-149.441415,61.581084],
+  "geometry": {"coordinates":[-149.441415,61.581084],"type":"Point"}
+}

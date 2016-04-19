@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.769936,64.835536,-147.769936,64.835536",
+    "geom:latitude":64.835536,
+    "geom:longitude":-147.769936,
+    "iso:country":"US",
+    "sg:address":"1420 Moore St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 4450",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TUefFKYr6zf0pqRw37NtW_64.835536_-147.769936@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bdd137a60708ed9848062660d64249c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102151555"
+        }
+    ],
+    "wof:id":"102151555",
+    "wof:lastmodified":1449067782,
+    "wof:name":"Moore Street Senior Apartments",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.769936,64.835536,-147.769936,64.835536],
+  "geometry": {"coordinates":[-147.769936,64.835536],"type":"Point"}
+}

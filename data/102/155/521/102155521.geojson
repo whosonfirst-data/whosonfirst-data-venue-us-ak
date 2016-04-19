@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.928456,64.806317,-147.928456,64.806317",
+    "geom:latitude":64.806317,
+    "geom:longitude":-147.928456,
+    "iso:country":"US",
+    "sg:address":"1371 Wike Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 7287",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916563,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WOcfQTd6radOmk2qppqZB_64.806317_-147.928456@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"696daedf770922abaf2e5f23d44c9d75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916563,
+            "region_id":85688573,
+            "venue_id":"102155521"
+        }
+    ],
+    "wof:id":"102155521",
+    "wof:lastmodified":1449069745,
+    "wof:name":"Renew Air Taxi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.928456,64.806317,-147.928456,64.806317],
+  "geometry": {"coordinates":[-147.928456,64.806317],"type":"Point"}
+}

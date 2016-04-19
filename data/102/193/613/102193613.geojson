@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.426421,58.29263,-134.426421,58.29263",
+    "geom:latitude":58.29263,
+    "geom:longitude":-134.426421,
+    "iso:country":"US",
+    "sg:address":"3090 Douglas Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 2603",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:website":"www.budgetinsuranceagency.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32qmd4071e0v5I5I5ZaL0f_58.292630_-134.426421@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b97b4b503d4546d30905c6f937bb6dd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102193613"
+        }
+    ],
+    "wof:id":"102193613",
+    "wof:lastmodified":1449068191,
+    "wof:name":"Budget Insurance",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.426421,58.29263,-134.426421,58.29263],
+  "geometry": {"coordinates":[-134.426421,58.29263],"type":"Point"}
+}

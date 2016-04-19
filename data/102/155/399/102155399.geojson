@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.891985,61.220452,-149.891985,61.220452",
+    "geom:latitude":61.220452,
+    "geom:longitude":-149.891985,
+    "iso:country":"US",
+    "sg:address":"534 W 2nd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 9115",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pcurgz8qRcDh27piHYkK5_61.220452_-149.891985@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"425e15e7c8e880d659695da1540d81b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102155399"
+        }
+    ],
+    "wof:id":"102155399",
+    "wof:lastmodified":1449069743,
+    "wof:name":"Cook Inlet Eyewear",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.891985,61.220452,-149.891985,61.220452],
+  "geometry": {"coordinates":[-149.891985,61.220452],"type":"Point"}
+}

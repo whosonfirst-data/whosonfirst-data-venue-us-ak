@@ -1,0 +1,68 @@
+{
+  "id": "102193577",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.56511,61.332833,-149.56511,61.332833",
+    "geom:latitude":61.332833,
+    "geom:longitude":-149.56511,
+    "iso:country":"US",
+    "sg:address":"12450 Old Glenn Hwy",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 622 1500",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:brand_id":420574101,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZNkTqNLlzSe1wlH1iSKpq_61.332833_-149.565110@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3ddb2f3e4d03686e199c26cec1f9cf9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102193577"
+        }
+    ],
+    "wof:id":"102193577",
+    "wof:lastmodified":1457208479,
+    "wof:name":"Midas Auto Svc Experts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.56511,
+    61.332833,
+    -149.56511,
+    61.332833
+],
+  "geometry": {"coordinates":[-149.56511,61.332833],"type":"Point"}
+}

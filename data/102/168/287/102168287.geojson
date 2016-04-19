@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.877071,61.217243,-149.877071,61.217243",
+    "geom:latitude":61.217243,
+    "geom:longitude":-149.877071,
+    "iso:country":"US",
+    "sg:address":"567 Denali St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 830 7733",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "spa",
+        "hot",
+        "tub"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cXewLv1FPRx7DlrDs8u7l_61.217243_-149.877071@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c6ce15f674c84c05ec61df4b09abf0cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102168287"
+        }
+    ],
+    "wof:id":"102168287",
+    "wof:lastmodified":1449069002,
+    "wof:name":"Alaska Spa Technology",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.877071,61.217243,-149.877071,61.217243],
+  "geometry": {"coordinates":[-149.877071,61.217243],"type":"Point"}
+}

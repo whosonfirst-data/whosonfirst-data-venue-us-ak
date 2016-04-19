@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-150.87471,60.511357,-150.87471,60.511357",
+    "geom:latitude":60.511357,
+    "geom:longitude":-150.87471,
+    "iso:country":"US",
+    "sg:address":"36375 Lakeview St",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 2546",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "snow",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916845,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29FtRdtwuFdwtI99S9CHu9_60.511357_-150.874710@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"92429202aef235aaad0ae674a157e884",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916845,
+            "region_id":85688573,
+            "venue_id":"102193441"
+        }
+    ],
+    "wof:id":"102193441",
+    "wof:lastmodified":1449068193,
+    "wof:name":"Peninsula Plowing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-150.87471,60.511357,-150.87471,60.511357],
+  "geometry": {"coordinates":[-150.87471,60.511357],"type":"Point"}
+}

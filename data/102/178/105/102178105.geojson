@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.942766,61.192495,-149.942766,61.192495",
+    "geom:latitude":61.192495,
+    "geom:longitude":-149.942766,
+    "iso:country":"US",
+    "sg:address":"2810 W 31st Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 4986",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7epoTowm8Sy32wn7D7L1aT_61.192495_-149.942766@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"137a016d91dd93599063119ca8628d13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102178105"
+        }
+    ],
+    "wof:id":"102178105",
+    "wof:lastmodified":1449069530,
+    "wof:name":"Johnson's Repair",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.942766,61.192495,-149.942766,61.192495],
+  "geometry": {"coordinates":[-149.942766,61.192495],"type":"Point"}
+}

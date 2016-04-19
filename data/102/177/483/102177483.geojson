@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.856972,61.109891,-149.856972,61.109891",
+    "geom:latitude":61.109891,
+    "geom:longitude":-149.856972,
+    "iso:country":"US",
+    "sg:address":"1320 Huffman Park Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 7177",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qvY7d1K6irmcbyz2RE9AE_61.109891_-149.856972@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"029301fbcd65002b37a738aaf40abbe8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102177483"
+        }
+    ],
+    "wof:id":"102177483",
+    "wof:lastmodified":1449070209,
+    "wof:name":"Alaskan Ace Hardware",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.856972,61.109891,-149.856972,61.109891],
+  "geometry": {"coordinates":[-149.856972,61.109891],"type":"Point"}
+}

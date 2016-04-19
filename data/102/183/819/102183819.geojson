@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.441954,59.229488,-135.441954,59.229488",
+    "geom:latitude":59.229488,
+    "geom:longitude":-135.441954,
+    "iso:country":"US",
+    "sg:address":"57 Mud Bay Rd",
+    "sg:city":"Haines",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 766 2900",
+    "sg:postcode":"99827",
+    "sg:province":"AK",
+    "sg:website":"www.mtnviewmotel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842771,
+        85633793,
+        85916629,
+        102083767,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nDaiHaZxYa2h8B2fJyzIw_59.229488_-135.441954@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d580b29406aa720d657d6bb01b65efe3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083767,
+            "locality_id":85916629,
+            "neighbourhood_id":85842771,
+            "region_id":85688573,
+            "venue_id":"102183819"
+        }
+    ],
+    "wof:id":"102183819",
+    "wof:lastmodified":1449069041,
+    "wof:name":"Mountain View Motel",
+    "wof:parent_id":85842771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.441954,59.229488,-135.441954,59.229488],
+  "geometry": {"coordinates":[-135.441954,59.229488],"type":"Point"}
+}

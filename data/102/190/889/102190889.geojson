@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.784693,61.137511,-149.784693,61.137511",
+    "geom:latitude":61.137511,
+    "geom:longitude":-149.784693,
+    "iso:country":"US",
+    "sg:address":"5150 Abbott Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 1924",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873745,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02YGi1qfNeSKS2EBrocwvV_61.137511_-149.784693@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e58b21e20832fa4bdd7a13c6e60e420a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873745,
+            "region_id":85688573,
+            "venue_id":"102190889"
+        }
+    ],
+    "wof:id":"102190889",
+    "wof:lastmodified":1449070034,
+    "wof:name":"Anchorage Evangelical Free Chr",
+    "wof:parent_id":85873745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.784693,61.137511,-149.784693,61.137511],
+  "geometry": {"coordinates":[-149.784693,61.137511],"type":"Point"}
+}

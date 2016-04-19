@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.778453,64.805684,-147.778453,64.805684",
+    "geom:latitude":64.805684,
+    "geom:longitude":-147.778453,
+    "iso:country":"US",
+    "sg:address":"4089 Peger Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 4940",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916551,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3epNSUcmM0x5EKUWrlKDwa_64.805684_-147.778453@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"61460c32c075f3644cd4b95a36c9b68b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916551,
+            "region_id":85688573,
+            "venue_id":"102150277"
+        }
+    ],
+    "wof:id":"102150277",
+    "wof:lastmodified":1449067786,
+    "wof:name":"A-1 Recovery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.778453,64.805684,-147.778453,64.805684],
+  "geometry": {"coordinates":[-147.778453,64.805684],"type":"Point"}
+}

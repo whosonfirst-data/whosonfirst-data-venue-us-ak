@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.699064,61.253878,-149.699064,61.253878",
+    "geom:latitude":61.253878,
+    "geom:longitude":-149.699064,
+    "iso:country":"US",
+    "sg:address":"600 Richardson Dr",
+    "sg:city":"Fort Richardson",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 428 1229",
+    "sg:postcode":"99505",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820221,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xIz7dPGy7JF4KQyaPVAzI_61.253878_-149.699064@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f80774e7621fc4bffc93b5bf40292c5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85820221,
+            "region_id":85688573,
+            "venue_id":"102178033"
+        }
+    ],
+    "wof:id":"102178033",
+    "wof:lastmodified":1449069530,
+    "wof:name":"King Salmon Barber Shop",
+    "wof:parent_id":85820221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.699064,61.253878,-149.699064,61.253878],
+  "geometry": {"coordinates":[-149.699064,61.253878],"type":"Point"}
+}

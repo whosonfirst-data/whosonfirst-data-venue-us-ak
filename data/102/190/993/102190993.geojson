@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.773005,64.856077,-147.773005,64.856077",
+    "geom:latitude":64.856077,
+    "geom:longitude":-147.773005,
+    "iso:country":"US",
+    "sg:address":"921 Aspen St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 4415",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "sg:website":"www.grasle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sN334BpXkqtp6oUfwFCk3_64.856077_-147.773005@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"55ddc91c3e6269abe07a9e4552860577",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102190993"
+        }
+    ],
+    "wof:id":"102190993",
+    "wof:lastmodified":1449070035,
+    "wof:name":"Grasle & Assoc",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.773005,64.856077,-147.773005,64.856077],
+  "geometry": {"coordinates":[-147.773005,64.856077],"type":"Point"}
+}

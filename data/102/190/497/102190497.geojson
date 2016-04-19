@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.584375,58.363005,-134.584375,58.363005",
+    "geom:latitude":58.363005,
+    "geom:longitude":-134.584375,
+    "iso:country":"US",
+    "sg:address":"9190 Glacier Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 9476",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02gnt3tvBQ6Ai3wK1RRNWo_58.363005_-134.584375@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"301deea0e4bf8be6c3dd4547f6ad119e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102190497"
+        }
+    ],
+    "wof:id":"102190497",
+    "wof:lastmodified":1449070036,
+    "wof:name":"Mike's Airport Express",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.584375,58.363005,-134.584375,58.363005],
+  "geometry": {"coordinates":[-134.584375,58.363005],"type":"Point"}
+}

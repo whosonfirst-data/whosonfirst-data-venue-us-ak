@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.800972,61.225796,-149.800972,61.225796",
+    "geom:latitude":61.225796,
+    "geom:longitude":-149.800972,
+    "iso:country":"US",
+    "sg:address":"120 N Hoyt St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 7535",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ],
+    "sg:website":"www.ruralcap.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GUUFUzh2qZJnriEleuRbU_61.225796_-149.800972@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8d4e430b15b3b6a30440861c879fcea5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102175255"
+        }
+    ],
+    "wof:id":"102175255",
+    "wof:lastmodified":1449069464,
+    "wof:name":"Homeward Bound",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.800972,61.225796,-149.800972,61.225796],
+  "geometry": {"coordinates":[-149.800972,61.225796],"type":"Point"}
+}

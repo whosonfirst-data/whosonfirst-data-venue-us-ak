@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.871103,61.21139,-149.871103,61.21139",
+    "geom:latitude":61.21139,
+    "geom:longitude":-149.871103,
+    "iso:country":"US",
+    "sg:address":"1172 Gambell St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 3354",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GitT6Zt6jcOpOBM7mVAEU_61.211390_-149.871103@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d775d8fc0f2f9b5e052af68f198ee1a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102190611"
+        }
+    ],
+    "wof:id":"102190611",
+    "wof:lastmodified":1449070036,
+    "wof:name":"Royal Donuts & Deli",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.871103,61.21139,-149.871103,61.21139],
+  "geometry": {"coordinates":[-149.871103,61.21139],"type":"Point"}
+}

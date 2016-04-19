@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.199673,60.422146,-151.199673,60.422146",
+    "geom:latitude":60.422146,
+    "geom:longitude":-151.199673,
+    "iso:country":"US",
+    "sg:address":"30530 Tanadak St",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 260 6699",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916957,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gmBzM3QG43A26u0omFXa2_60.422146_-151.199673@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"36a066e27bcde308b36cfd73abf82ab2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916957,
+            "region_id":85688573,
+            "venue_id":"102171241"
+        }
+    ],
+    "wof:id":"102171241",
+    "wof:lastmodified":1449070228,
+    "wof:name":"Renegade Custom Cycle",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.199673,60.422146,-151.199673,60.422146],
+  "geometry": {"coordinates":[-151.199673,60.422146],"type":"Point"}
+}

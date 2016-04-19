@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-165.399559,64.498012,-165.399559,64.498012",
+    "geom:latitude":64.498012,
+    "geom:longitude":-165.399559,
+    "iso:country":"US",
+    "sg:address":"415 E 3rd Ave",
+    "sg:city":"Nome",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 443 5256",
+    "sg:postcode":"99762",
+    "sg:province":"AK",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915489,
+        85633793,
+        85688573,
+        102081401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IKeaSw1DYr2XvoUxcooQr_64.498012_-165.399559@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a43248ea23bb69ca0b8854c9ccda8110",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081401,
+            "locality_id":85915489,
+            "region_id":85688573,
+            "venue_id":"102150043"
+        }
+    ],
+    "wof:id":"102150043",
+    "wof:lastmodified":1449067790,
+    "wof:name":"Bering Straits Housing Auth",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-165.399559,64.498012,-165.399559,64.498012],
+  "geometry": {"coordinates":[-165.399559,64.498012],"type":"Point"}
+}

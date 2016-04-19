@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.412603,58.300834,-134.412603,58.300834",
+    "geom:latitude":58.300834,
+    "geom:longitude":-134.412603,
+    "iso:country":"US",
+    "sg:address":"410 Willoughby Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 465 3027",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "sg:website":"www.chems.alaska.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77rnzZSAVMF8Qu1dc0Z8GW_58.300834_-134.412603@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cc61b2ba0745c6014d501b99903e3bbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102182483"
+        }
+    ],
+    "wof:id":"102182483",
+    "wof:lastmodified":1449069280,
+    "wof:name":"Emergency Medical Svc",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.412603,58.300834,-134.412603,58.300834],
+  "geometry": {"coordinates":[-134.412603,58.300834],"type":"Point"}
+}

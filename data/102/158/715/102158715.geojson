@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.843678,61.218615,-149.843678,61.218615",
+    "geom:latitude":61.218615,
+    "geom:longitude":-149.843678,
+    "iso:country":"US",
+    "sg:address":"1905 E 4th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 868 7373",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SOkMaa9Aeklzi08N4BZ3G_61.218615_-149.843678@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3a7e03e4d0d5aa096fe2da1567a55757",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102158715"
+        }
+    ],
+    "wof:id":"102158715",
+    "wof:lastmodified":1449069395,
+    "wof:name":"Safe Harbor Inn",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.843678,61.218615,-149.843678,61.218615],
+  "geometry": {"coordinates":[-149.843678,61.218615],"type":"Point"}
+}

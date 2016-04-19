@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.132475,60.422752,-151.132475,60.422752",
+    "geom:latitude":60.422752,
+    "geom:longitude":-151.132475,
+    "iso:country":"US",
+    "sg:address":"47185 Tobacco Ln",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 260 3351",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916957,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eKgO2ZiBlBrYizfHvw8DU_60.422752_-151.132475@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1ac74861151d00db6388517110179631",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916957,
+            "region_id":85688573,
+            "venue_id":"102154263"
+        }
+    ],
+    "wof:id":"102154263",
+    "wof:lastmodified":1449070246,
+    "wof:name":"Midnight Sun Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.132475,60.422752,-151.132475,60.422752],
+  "geometry": {"coordinates":[-151.132475,60.422752],"type":"Point"}
+}

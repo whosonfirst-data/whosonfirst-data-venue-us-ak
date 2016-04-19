@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.086953,60.481806,-151.086953,60.481806",
+    "geom:latitude":60.481806,
+    "geom:longitude":-151.086953,
+    "iso:country":"US",
+    "sg:address":"205 S Kobuk St",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 3969",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FONakMVLJXywNaLevxE5o_60.481806_-151.086953@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b72ee45059c78e25c58f7537509ba528",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102175327"
+        }
+    ],
+    "wof:id":"102175327",
+    "wof:lastmodified":1449069465,
+    "wof:name":"City of Soldotna",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.086953,60.481806,-151.086953,60.481806],
+  "geometry": {"coordinates":[-151.086953,60.481806],"type":"Point"}
+}

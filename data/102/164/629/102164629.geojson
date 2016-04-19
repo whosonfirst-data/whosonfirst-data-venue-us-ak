@@ -1,0 +1,73 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.852895,61.199163,-149.852895,61.199163",
+    "geom:latitude":61.199163,
+    "geom:longitude":-149.852895,
+    "iso:country":"US",
+    "sg:address":"1526 Bannister Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 2559",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573,
+        85873717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dK2rLuLHLFdaK4KK45dm3_61.199163_-149.852895@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c2a6b1f51ec8f8938df096b38883def7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102164629"
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102164629"
+        }
+    ],
+    "wof:id":"102164629",
+    "wof:lastmodified":1449068090,
+    "wof:name":"Easterly Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.852895,61.199163,-149.852895,61.199163],
+  "geometry": {"coordinates":[-149.852895,61.199163],"type":"Point"}
+}

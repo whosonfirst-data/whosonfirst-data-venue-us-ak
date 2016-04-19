@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.906624,61.191423,-149.906624,61.191423",
+    "geom:latitude":61.191423,
+    "geom:longitude":-149.906624,
+    "iso:country":"US",
+    "sg:address":"3205 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 3503",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Vsrsa1YVpobKpFK5s81kG_61.191423_-149.906624@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"92ca847e47a8ac292b5e8c1b48e6b4a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102162107"
+        }
+    ],
+    "wof:id":"102162107",
+    "wof:lastmodified":1449069821,
+    "wof:name":"Spenard Pawn Shop",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.906624,61.191423,-149.906624,61.191423],
+  "geometry": {"coordinates":[-149.906624,61.191423],"type":"Point"}
+}

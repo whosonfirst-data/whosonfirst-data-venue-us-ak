@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.754339,64.862466,-147.754339,64.862466",
+    "geom:latitude":64.862466,
+    "geom:longitude":-147.754339,
+    "iso:country":"US",
+    "sg:address":"1637 College Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 7433",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869043,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dJjECQE3LrclLCdPTClut_64.862466_-147.754339@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a12db51d342b07cf742adf0bfd54df56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85869043,
+            "region_id":85688573,
+            "venue_id":"102164315"
+        }
+    ],
+    "wof:id":"102164315",
+    "wof:lastmodified":1449068091,
+    "wof:name":"Thunder Road",
+    "wof:parent_id":85869043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.754339,64.862466,-147.754339,64.862466],
+  "geometry": {"coordinates":[-147.754339,64.862466],"type":"Point"}
+}

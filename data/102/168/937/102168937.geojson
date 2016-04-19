@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.784891,64.861863,-147.784891,64.861863",
+    "geom:latitude":64.861863,
+    "geom:longitude":-147.784891,
+    "iso:country":"US",
+    "sg:address":"2757 College Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 8869",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "organization",
+        "arts",
+        "information"
+    ],
+    "sg:website":"www.fsaf.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869043,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MayqYT1WHKkMadoemkNJx_64.861863_-147.784891@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4770b67185280e66c39d4a66ca34f7c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85869043,
+            "region_id":85688573,
+            "venue_id":"102168937"
+        }
+    ],
+    "wof:id":"102168937",
+    "wof:lastmodified":1449069007,
+    "wof:name":"Fairbanks Summer Arts Festival",
+    "wof:parent_id":85869043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.784891,64.861863,-147.784891,64.861863],
+  "geometry": {"coordinates":[-147.784891,64.861863],"type":"Point"}
+}

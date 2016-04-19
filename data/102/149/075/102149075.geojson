@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.859538,61.166472,-149.859538,61.166472",
+    "geom:latitude":61.166472,
+    "geom:longitude":-149.859538,
+    "iso:country":"US",
+    "sg:address":"1205 E Dowling Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 3722",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "car",
+        "armored"
+    ],
+    "sg:website":"www.loomisfargo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tR5mlhKT9yTLbgoJx0eYk_61.166472_-149.859538@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c230bfdf6a3e135de33cc00294326611",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102149075"
+        }
+    ],
+    "wof:id":"102149075",
+    "wof:lastmodified":1449067769,
+    "wof:name":"Loomis Fargo & Co",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.859538,61.166472,-149.859538,61.166472],
+  "geometry": {"coordinates":[-149.859538,61.166472],"type":"Point"}
+}

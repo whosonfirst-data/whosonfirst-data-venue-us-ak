@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.906349,61.18752,-149.906349,61.18752",
+    "geom:latitude":61.18752,
+    "geom:longitude":-149.906349,
+    "iso:country":"US",
+    "sg:address":"1200 Wilshire Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 5511",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TdMnkjKawX0BN3NOpbXwE_61.187520_-149.906349@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d58b6c6cb27f7f9ba05b558a2e05ea72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102149897"
+        }
+    ],
+    "wof:id":"102149897",
+    "wof:lastmodified":1449067770,
+    "wof:name":"Lana's Perfect TEN",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.906349,61.18752,-149.906349,61.18752],
+  "geometry": {"coordinates":[-149.906349,61.18752],"type":"Point"}
+}

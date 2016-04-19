@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.441556,61.58402,-149.441556,61.58402",
+    "geom:latitude":61.58402,
+    "geom:longitude":-149.441556,
+    "iso:country":"US",
+    "sg:address":"490 Main St",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 357 3311",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vcy0IFlYGyw78BIfrR4US_61.584020_-149.441556@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6dacce1c9269ac81975d91f34b93c62e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102171797"
+        }
+    ],
+    "wof:id":"102171797",
+    "wof:lastmodified":1449070227,
+    "wof:name":"Kopp & Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.441556,61.58402,-149.441556,61.58402],
+  "geometry": {"coordinates":[-149.441556,61.58402],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.865532,61.101133,-149.865532,61.101133",
+    "geom:latitude":61.101133,
+    "geom:longitude":-149.865532,
+    "iso:country":"US",
+    "sg:address":"961 Coral Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 4164",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "sg:website":"www.1chickadee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873755,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RHndP3JhcS2iXjR2G56SV_61.101133_-149.865532@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"13e98b6cf248bbc7434ce3ee03e6e22a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873755,
+            "region_id":85688573,
+            "venue_id":"102152833"
+        }
+    ],
+    "wof:id":"102152833",
+    "wof:lastmodified":1449069634,
+    "wof:name":"Chickadee Bed & Breakfast",
+    "wof:parent_id":85873755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.865532,61.101133,-149.865532,61.101133],
+  "geometry": {"coordinates":[-149.865532,61.101133],"type":"Point"}
+}

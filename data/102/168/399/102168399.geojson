@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.882665,61.112776,-149.882665,61.112776",
+    "geom:latitude":61.112776,
+    "geom:longitude":-149.882665,
+    "iso:country":"US",
+    "sg:address":"221 Ellen Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 5105",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873755,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EfiVvMyYWlkWqiAdNSWwM_61.112776_-149.882665@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"75350262b313197243b8b2b784c10b66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873755,
+            "region_id":85688573,
+            "venue_id":"102168399"
+        }
+    ],
+    "wof:id":"102168399",
+    "wof:lastmodified":1449069006,
+    "wof:name":"Horton Construction",
+    "wof:parent_id":85873755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.882665,61.112776,-149.882665,61.112776],
+  "geometry": {"coordinates":[-149.882665,61.112776],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.405251,57.788506,-152.405251,57.788506",
+    "geom:latitude":57.788506,
+    "geom:longitude":-152.405251,
+    "iso:country":"US",
+    "sg:address":"307 Center St",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 3783",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Cg7aF5oyLvnFXBt1pgOt3_57.788506_-152.405251@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"974e01e0d87cf70fe84f2d4159028525",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102172397"
+        }
+    ],
+    "wof:id":"102172397",
+    "wof:lastmodified":1449068736,
+    "wof:name":"Public Assistance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.405251,57.788506,-152.405251,57.788506],
+  "geometry": {"coordinates":[-152.405251,57.788506],"type":"Point"}
+}

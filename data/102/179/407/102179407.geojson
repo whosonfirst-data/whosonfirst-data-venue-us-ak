@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.739168,61.191103,-149.739168,61.191103",
+    "geom:latitude":61.191103,
+    "geom:longitude":-149.739168,
+    "iso:country":"US",
+    "sg:address":"3336 Robin St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 4638",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873735,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6em1DVth4a3S2Gu15eMn9D_61.191103_-149.739168@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"67c458a171426772d21909823e02c22d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873735,
+            "region_id":85688573,
+            "venue_id":"102179407"
+        }
+    ],
+    "wof:id":"102179407",
+    "wof:lastmodified":1449069941,
+    "wof:name":"Dixies Pampered Pooch",
+    "wof:parent_id":85873735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.739168,61.191103,-149.739168,61.191103],
+  "geometry": {"coordinates":[-149.739168,61.191103],"type":"Point"}
+}

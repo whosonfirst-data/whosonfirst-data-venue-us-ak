@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.58009,61.330454,-149.58009,61.330454",
+    "geom:latitude":61.330454,
+    "geom:longitude":-149.58009,
+    "iso:country":"US",
+    "sg:address":"16709 Farm Ave",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 694 8324",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3l6tpVrpr6xsxMOVHSkpqS_61.330454_-149.580090@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c5a45d0a26e4694c7efd5b7955cb7d63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102148093"
+        }
+    ],
+    "wof:id":"102148093",
+    "wof:lastmodified":1449069780,
+    "wof:name":"MRW Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.58009,61.330454,-149.58009,61.330454],
+  "geometry": {"coordinates":[-149.58009,61.330454],"type":"Point"}
+}

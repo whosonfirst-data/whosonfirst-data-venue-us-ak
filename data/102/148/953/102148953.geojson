@@ -1,0 +1,67 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.774135,64.812878,-147.774135,64.812878",
+    "geom:latitude":64.812878,
+    "geom:longitude":-147.774135,
+    "iso:country":"US",
+    "sg:address":"2225 Van Horn Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 1831",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "sg:website":"www.westmech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77VQfM98AbQoB51kfgeSmu_64.812878_-147.774135@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cf4fe6eedc90e24df4adcd9513242c81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102148953"
+        }
+    ],
+    "wof:id":"102148953",
+    "wof:lastmodified":1449069785,
+    "wof:name":"Western Mechanical Inc",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.774135,64.812878,-147.774135,64.812878],
+  "geometry": {"coordinates":[-147.774135,64.812878],"type":"Point"}
+}

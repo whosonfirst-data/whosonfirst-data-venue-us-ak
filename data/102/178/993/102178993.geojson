@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.239458,60.563015,-151.239458,60.563015",
+    "geom:latitude":60.563015,
+    "geom:longitude":-151.239458,
+    "iso:country":"US",
+    "sg:address":"255 Airport Way",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 3949",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Hly7kOgYqA5QaUovy2oR9_60.563015_-151.239458@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"71f8944890298b5f9b2c4cc5ef9d23db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102178993"
+        }
+    ],
+    "wof:id":"102178993",
+    "wof:lastmodified":1449069530,
+    "wof:name":"Kenai Chrysler Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.239458,60.563015,-151.239458,60.563015],
+  "geometry": {"coordinates":[-151.239458,60.563015],"type":"Point"}
+}

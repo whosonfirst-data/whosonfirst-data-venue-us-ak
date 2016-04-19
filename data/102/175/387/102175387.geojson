@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.864059,61.154944,-149.864059,61.154944",
+    "geom:latitude":61.154944,
+    "geom:longitude":-149.864059,
+    "iso:country":"US",
+    "sg:address":"7125 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 2229",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56NOXNJ4g8AIt8WNRWwBWo_61.154944_-149.864059@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9362cefce35f40b06c9eca6170cc1ed1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102175387"
+        }
+    ],
+    "wof:id":"102175387",
+    "wof:lastmodified":1449069469,
+    "wof:name":"Associated Insurance Svc",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.864059,61.154944,-149.864059,61.154944],
+  "geometry": {"coordinates":[-149.864059,61.154944],"type":"Point"}
+}

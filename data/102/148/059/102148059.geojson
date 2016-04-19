@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.763087,61.111837,-149.763087,61.111837",
+    "geom:latitude":61.111837,
+    "geom:longitude":-149.763087,
+    "iso:country":"US",
+    "sg:address":"11821 Moose Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 7010",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SI8e36fPoMNJ032d0ZuMm_61.111837_-149.763087@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"70f4ddbbfbab04b8ee532e6227d3d7b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102148059"
+        }
+    ],
+    "wof:id":"102148059",
+    "wof:lastmodified":1449069784,
+    "wof:name":"Woods Plumbing & Heating Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.763087,61.111837,-149.763087,61.111837],
+  "geometry": {"coordinates":[-149.763087,61.111837],"type":"Point"}
+}

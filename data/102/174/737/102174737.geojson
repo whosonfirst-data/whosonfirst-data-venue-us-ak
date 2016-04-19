@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.745231,61.187507,-149.745231,61.187507",
+    "geom:latitude":61.187507,
+    "geom:longitude":-149.745231,
+    "iso:country":"US",
+    "sg:address":"7307 Hennings Way",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 338 1874",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "building",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873735,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OydTazaK9KPhxRB6EXCi5_61.187507_-149.745231@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fa1db84eaf726ff45aea441be72dac44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873735,
+            "region_id":85688573,
+            "venue_id":"102174737"
+        }
+    ],
+    "wof:id":"102174737",
+    "wof:lastmodified":1449068138,
+    "wof:name":"Home Inspection Svc",
+    "wof:parent_id":85873735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.745231,61.187507,-149.745231,61.187507],
+  "geometry": {"coordinates":[-149.745231,61.187507],"type":"Point"}
+}

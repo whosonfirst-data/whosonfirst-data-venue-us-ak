@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.485452,58.359404,-134.485452,58.359404",
+    "geom:latitude":58.359404,
+    "geom:longitude":-134.485452,
+    "iso:country":"US",
+    "sg:address":"1750 Anka St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 780 6860",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JvXoYfZS3kMJxQEyCThet_58.359404_-134.485452@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"044bc1f8ce3cf457ee7cad5b1cc6a240",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102167315"
+        }
+    ],
+    "wof:id":"102167315",
+    "wof:lastmodified":1449069003,
+    "wof:name":"Northern Lights Development",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.485452,58.359404,-134.485452,58.359404],
+  "geometry": {"coordinates":[-134.485452,58.359404],"type":"Point"}
+}

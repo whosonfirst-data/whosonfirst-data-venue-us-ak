@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.945682,61.188379,-149.945682,61.188379",
+    "geom:latitude":61.188379,
+    "geom:longitude":-149.945682,
+    "iso:country":"US",
+    "sg:address":"3400 Orion Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 8649",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HDNLvqB1yVaBndDHz2gBh_61.188379_-149.945682@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"76bd0bbb2dcb5b45484a8fa1e5bdcbf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102152093"
+        }
+    ],
+    "wof:id":"102152093",
+    "wof:lastmodified":1449069633,
+    "wof:name":"Cats Custom Accounting Tax",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.945682,61.188379,-149.945682,61.188379],
+  "geometry": {"coordinates":[-149.945682,61.188379],"type":"Point"}
+}

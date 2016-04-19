@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-166.506805,53.852571,-166.506805,53.852571",
+    "geom:latitude":53.852571,
+    "geom:longitude":-166.506805,
+    "iso:country":"US",
+    "sg:address":"123 Steward Rd",
+    "sg:city":"Unalaska",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 581 5350",
+    "sg:postcode":"99685",
+    "sg:province":"AK",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916059,
+        85633793,
+        85688573,
+        102080627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cobjRVh31TDwWlNfMfFQu_53.852571_-166.506805@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9405f3ec36f9ea58b36e31b8a57dcd82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080627,
+            "locality_id":85916059,
+            "region_id":85688573,
+            "venue_id":"102184609"
+        }
+    ],
+    "wof:id":"102184609",
+    "wof:lastmodified":1449068215,
+    "wof:name":"A Cleaner Look",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-166.506805,53.852571,-166.506805,53.852571],
+  "geometry": {"coordinates":[-166.506805,53.852571],"type":"Point"}
+}

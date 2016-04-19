@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.875562,61.148807,-149.875562,61.148807",
+    "geom:latitude":61.148807,
+    "geom:longitude":-149.875562,
+    "iso:country":"US",
+    "sg:address":"8005 Schoon St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 5354",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:website":"www.alaska.agc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6C85S5rhA3zAen3hbosdLx_61.148807_-149.875562@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2d26228a3a09fec20da0f3776c75706a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102169573"
+        }
+    ],
+    "wof:id":"102169573",
+    "wof:lastmodified":1449069248,
+    "wof:name":"Associated General Contractors",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.875562,61.148807,-149.875562,61.148807],
+  "geometry": {"coordinates":[-149.875562,61.148807],"type":"Point"}
+}

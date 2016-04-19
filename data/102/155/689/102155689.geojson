@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.812667,64.847411,-147.812667,64.847411",
+    "geom:latitude":64.847411,
+    "geom:longitude":-147.812667,
+    "iso:country":"US",
+    "sg:address":"701 University Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 7223",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37GPdBvzRMjzNnqdirP1SN_64.847411_-147.812667@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"96e39e34c316f75a154e2c6047fff297",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102155689"
+        }
+    ],
+    "wof:id":"102155689",
+    "wof:lastmodified":1449069745,
+    "wof:name":"Todd Z Wentz DDS",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.812667,64.847411,-147.812667,64.847411],
+  "geometry": {"coordinates":[-147.812667,64.847411],"type":"Point"}
+}

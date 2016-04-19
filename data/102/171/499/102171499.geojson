@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.432269,61.582301,-149.432269,61.582301",
+    "geom:latitude":61.582301,
+    "geom:longitude":-149.432269,
+    "iso:country":"US",
+    "sg:address":"745 Westpoint Dr",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 4141",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5I8T6sfnXK4NJgM0Wwpg5c_61.582301_-149.432269@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e3d4fee036fe0db430e54540b487ec8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102171499"
+        }
+    ],
+    "wof:id":"102171499",
+    "wof:lastmodified":1449070221,
+    "wof:name":"Wasilla Wash Day Laundry & Dry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.432269,61.582301,-149.432269,61.582301],
+  "geometry": {"coordinates":[-149.432269,61.582301],"type":"Point"}
+}

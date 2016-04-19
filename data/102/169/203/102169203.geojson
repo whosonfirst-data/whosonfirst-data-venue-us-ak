@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.755593,61.2299,-149.755593,61.2299",
+    "geom:latitude":61.2299,
+    "geom:longitude":-149.755593,
+    "iso:country":"US",
+    "sg:address":"5887 Wilkins Ave",
+    "sg:city":"Elmendorf Afb",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 646 7747",
+    "sg:postcode":"99506",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Bdouj86Pg69B0s9C4gsYQ_61.229900_-149.755593@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"99f8e41a197163a796a30a9aed40a93b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102169203"
+        }
+    ],
+    "wof:id":"102169203",
+    "wof:lastmodified":1449069246,
+    "wof:name":"L E Electric",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.755593,61.2299,-149.755593,61.2299],
+  "geometry": {"coordinates":[-149.755593,61.2299],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.841278,61.222543,-149.841278,61.222543",
+    "geom:latitude":61.222543,
+    "geom:longitude":-149.841278,
+    "iso:country":"US",
+    "sg:address":"2209 Spar Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Stationery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 6191",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "product",
+        "paper"
+    ],
+    "sg:website":"www.wcpc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MU4bUBEUZDFjEN4e0Wg8i_61.222543_-149.841278@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"05992a59bdc1cd356d959c4e1803e772",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102165737"
+        }
+    ],
+    "wof:id":"102165737",
+    "wof:lastmodified":1449070213,
+    "wof:name":"West Coast Paper Co",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.841278,61.222543,-149.841278,61.222543],
+  "geometry": {"coordinates":[-149.841278,61.222543],"type":"Point"}
+}

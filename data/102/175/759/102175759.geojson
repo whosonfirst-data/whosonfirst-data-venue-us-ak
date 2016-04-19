@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.402549,58.298105,-134.402549,58.298105",
+    "geom:latitude":58.298105,
+    "geom:longitude":-134.402549,
+    "iso:country":"US",
+    "sg:address":"315 S Franklin St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 463 3099",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hIsppuksTjC5iTNZ4YFQI_58.298105_-134.402549@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d6438c6ac5d1e40085a0936f50ef56b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102175759"
+        }
+    ],
+    "wof:id":"102175759",
+    "wof:lastmodified":1449069468,
+    "wof:name":"L & L Hair Salon",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.402549,58.298105,-134.402549,58.298105],
+  "geometry": {"coordinates":[-134.402549,58.298105],"type":"Point"}
+}

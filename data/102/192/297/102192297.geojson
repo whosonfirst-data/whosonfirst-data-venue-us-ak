@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.788625,61.189413,-149.788625,61.189413",
+    "geom:latitude":61.189413,
+    "geom:longitude":-149.788625,
+    "iso:country":"US",
+    "sg:address":"3464 Newcomb Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 5755",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "environmental",
+        "product"
+    ],
+    "sg:website":"www.geocheminc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n9O8A7hwLPYpmQDlV5Tl7_61.189413_-149.788625@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"853daa7d491dfc3d950236a8940b4f3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102192297"
+        }
+    ],
+    "wof:id":"102192297",
+    "wof:lastmodified":1449069503,
+    "wof:name":"Geochem Inc",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.788625,61.189413,-149.788625,61.189413],
+  "geometry": {"coordinates":[-149.788625,61.189413],"type":"Point"}
+}

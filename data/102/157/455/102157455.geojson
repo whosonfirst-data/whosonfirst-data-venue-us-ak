@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.826744,61.148279,-149.826744,61.148279",
+    "geom:latitude":61.148279,
+    "geom:longitude":-149.826744,
+    "iso:country":"US",
+    "sg:address":"2910 E 80th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 4769",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CtZY4LkB3rX3QvT9PE88n_61.148279_-149.826744@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a1613912a0886f15634df0f84fd89c10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102157455"
+        }
+    ],
+    "wof:id":"102157455",
+    "wof:lastmodified":1449069831,
+    "wof:name":"First Class Auto Body",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.826744,61.148279,-149.826744,61.148279],
+  "geometry": {"coordinates":[-149.826744,61.148279],"type":"Point"}
+}

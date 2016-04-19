@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.606288,58.366101,-134.606288,58.366101",
+    "geom:latitude":58.366101,
+    "geom:longitude":-134.606288,
+    "iso:country":"US",
+    "sg:address":"10020 Crazy Horse Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 6184",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "action",
+        "agency",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W2WV1P2ttzWYWWDrpWqSa_58.366101_-134.606288@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"36fb1cf90fb9d79c628aa16d822304a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102184473"
+        }
+    ],
+    "wof:id":"102184473",
+    "wof:lastmodified":1449068215,
+    "wof:name":"Southeast Alaska Food Bank",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.606288,58.366101,-134.606288,58.366101],
+  "geometry": {"coordinates":[-134.606288,58.366101],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-145.751084,60.543185,-145.751084,60.543185",
+    "geom:latitude":60.543185,
+    "geom:longitude":-145.751084,
+    "iso:country":"US",
+    "sg:address":"409 6th St",
+    "sg:city":"Cordova",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 424 7154",
+    "sg:postcode":"99574",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839707,
+        85633793,
+        85915567,
+        102081911,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wLrbPUFgwjuO7BkPQ9TpO_60.543185_-145.751084@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bf3a127bcde27e763d1e149c350e6987",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915567,
+            "neighbourhood_id":85839707,
+            "region_id":85688573,
+            "venue_id":"102158917"
+        }
+    ],
+    "wof:id":"102158917",
+    "wof:lastmodified":1449069394,
+    "wof:name":"Cordova Mews Apartments Office",
+    "wof:parent_id":85839707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-145.751084,60.543185,-145.751084,60.543185],
+  "geometry": {"coordinates":[-145.751084,60.543185],"type":"Point"}
+}

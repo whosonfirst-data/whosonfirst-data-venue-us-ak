@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.781745,61.119623,-149.781745,61.119623",
+    "geom:latitude":61.119623,
+    "geom:longitude":-149.781745,
+    "iso:country":"US",
+    "sg:address":"10821 Totem Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 868 1715",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873745,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ow3DColE58X5fWeZE35Ak_61.119623_-149.781745@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"317f2c23ab29c9864ab447232e694778",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873745,
+            "region_id":85688573,
+            "venue_id":"102155321"
+        }
+    ],
+    "wof:id":"102155321",
+    "wof:lastmodified":1449069742,
+    "wof:name":"New Grace Christian Church",
+    "wof:parent_id":85873745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.781745,61.119623,-149.781745,61.119623],
+  "geometry": {"coordinates":[-149.781745,61.119623],"type":"Point"}
+}

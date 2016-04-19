@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.957803,61.175788,-149.957803,61.175788",
+    "geom:latitude":61.175788,
+    "geom:longitude":-149.957803,
+    "iso:country":"US",
+    "sg:address":"4025 W 50th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 4313",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Kp00TIcopDximnwQcBkp9_61.175788_-149.957803@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3a46d215e5e2af9ed7f1e5164307b64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102167313"
+        }
+    ],
+    "wof:id":"102167313",
+    "wof:lastmodified":1449069001,
+    "wof:name":"DHL Express",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.957803,61.175788,-149.957803,61.175788],
+  "geometry": {"coordinates":[-149.957803,61.175788],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.702189,64.809999,-147.702189,64.809999",
+    "geom:latitude":64.809999,
+    "geom:longitude":-147.702189,
+    "iso:country":"US",
+    "sg:address":"3650 Braddock St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 3697",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "broadcasting",
+        "co"
+    ],
+    "sg:website":"www.tvtv.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50D4NHgm7DAz9IP9RNQvDW_64.809999_-147.702189@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"27f7910618e5e9dcd2aca6fe511f0f74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102189009"
+        }
+    ],
+    "wof:id":"102189009",
+    "wof:lastmodified":1449069498,
+    "wof:name":"KFXF",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.702189,64.809999,-147.702189,64.809999],
+  "geometry": {"coordinates":[-147.702189,64.809999],"type":"Point"}
+}

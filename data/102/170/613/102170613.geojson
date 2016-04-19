@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.353424,64.755453,-147.353424,64.755453",
+    "geom:latitude":64.755453,
+    "geom:longitude":-147.353424,
+    "iso:country":"US",
+    "sg:address":"145 N Santa Claus Ln",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 9496",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915639,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fs7f9w2096RqVEP9xr7WQ_64.755453_-147.353424@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3206a3c6a468e6b38768f7431062e72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915639,
+            "region_id":85688573,
+            "venue_id":"102170613"
+        }
+    ],
+    "wof:id":"102170613",
+    "wof:lastmodified":1449068017,
+    "wof:name":"North Pole Vision Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.353424,64.755453,-147.353424,64.755453],
+  "geometry": {"coordinates":[-147.353424,64.755453],"type":"Point"}
+}

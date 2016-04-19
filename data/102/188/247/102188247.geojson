@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.723344,55.374404,-131.723344,55.374404",
+    "geom:latitude":55.374404,
+    "geom:longitude":-131.723344,
+    "iso:country":"US",
+    "sg:address":"5559 N Tongass Hwy",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 247 6842",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uvCLJhONSMB57A8l7WGcC_55.374404_-131.723344@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7cb8a768da61db8b473125e5f3eee4b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102188247"
+        }
+    ],
+    "wof:id":"102188247",
+    "wof:lastmodified":1449068946,
+    "wof:name":"North Tongass Car Wash",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.723344,55.374404,-131.723344,55.374404],
+  "geometry": {"coordinates":[-131.723344,55.374404],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.476307,59.662819,-151.476307,59.662819",
+    "geom:latitude":59.662819,
+    "geom:longitude":-151.476307,
+    "iso:country":"US",
+    "sg:address":"5007 Clover Ln",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 9010",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w7OKqdnVFBoyvHIxypEhB_59.662819_-151.476307@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3dd6562c8f9b84ebf2022d4a1276be78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102175325"
+        }
+    ],
+    "wof:id":"102175325",
+    "wof:lastmodified":1449069464,
+    "wof:name":"Wolfe's Lawns",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.476307,59.662819,-151.476307,59.662819],
+  "geometry": {"coordinates":[-151.476307,59.662819],"type":"Point"}
+}

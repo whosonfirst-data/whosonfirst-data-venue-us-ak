@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.404266,58.298615,-134.404266,58.298615",
+    "geom:latitude":58.298615,
+    "geom:longitude":-134.404266,
+    "iso:country":"US",
+    "sg:address":"200 Admiral Way",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 6286",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "candle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SJnMWXH1VJfuvGf9dXRUT_58.298615_-134.404266@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"27e8e8b4c9cf556e983c4e7b91ff40a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102159391"
+        }
+    ],
+    "wof:id":"102159391",
+    "wof:lastmodified":1449068095,
+    "wof:name":"Northern Lights Candle Co",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.404266,58.298615,-134.404266,58.298615],
+  "geometry": {"coordinates":[-134.404266,58.298615],"type":"Point"}
+}

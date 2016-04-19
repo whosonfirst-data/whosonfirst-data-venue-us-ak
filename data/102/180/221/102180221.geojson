@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.722376,61.191294,-149.722376,61.191294",
+    "geom:latitude":61.191294,
+    "geom:longitude":-149.722376,
+    "iso:country":"US",
+    "sg:address":"3231 Cherry St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 332 0320",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873735,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RzA9PIrPkZx2L6GG2oXY6_61.191294_-149.722376@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f4a5d7144969c9f536461d1eabd70e6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873735,
+            "region_id":85688573,
+            "venue_id":"102180221"
+        }
+    ],
+    "wof:id":"102180221",
+    "wof:lastmodified":1449067874,
+    "wof:name":"H & H Finishing",
+    "wof:parent_id":85873735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.722376,61.191294,-149.722376,61.191294],
+  "geometry": {"coordinates":[-149.722376,61.191294],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.935441,61.130323,-149.935441,61.130323",
+    "geom:latitude":61.130323,
+    "geom:longitude":-149.935441,
+    "iso:country":"US",
+    "sg:address":"2933 W 100th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 5206",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tackle",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Bvndt13quqrjKpCj9SFsW_61.130323_-149.935441@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"99ab76e7d17e2092352f7f2ba56e0717",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102166841"
+        }
+    ],
+    "wof:id":"102166841",
+    "wof:lastmodified":1449069083,
+    "wof:name":"American Classic Sales",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.935441,61.130323,-149.935441,61.130323],
+  "geometry": {"coordinates":[-149.935441,61.130323],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.967703,61.13673,-149.967703,61.13673",
+    "geom:latitude":61.13673,
+    "geom:longitude":-149.967703,
+    "iso:country":"US",
+    "sg:address":"9521 Emerald St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 8088",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "house",
+        "handyman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PrPkUDsjoCFXKWCJBWg3g_61.136730_-149.967703@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"90dce5fa4126706d4086d7f2c05d71bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102179643"
+        }
+    ],
+    "wof:id":"102179643",
+    "wof:lastmodified":1449069943,
+    "wof:name":"Odd Job",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.967703,61.13673,-149.967703,61.13673],
+  "geometry": {"coordinates":[-149.967703,61.13673],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.716755,64.858161,-147.716755,64.858161",
+    "geom:latitude":64.858161,
+    "geom:longitude":-147.716755,
+    "iso:country":"US",
+    "sg:address":"400 College Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 7625",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "high",
+        "fidelity",
+        "stereophonic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830247,
+        85633793,
+        85916559,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Kur1xVcGCSYzhuuzAyD9e_64.858161_-147.716755@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6a6c43e1ac4ebe722555cf5a318a9e63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "neighbourhood_id":85830247,
+            "region_id":85688573,
+            "venue_id":"102160491"
+        }
+    ],
+    "wof:id":"102160491",
+    "wof:lastmodified":1449069772,
+    "wof:name":"Audio Advisors Of Alaska",
+    "wof:parent_id":85830247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.716755,64.858161,-147.716755,64.858161],
+  "geometry": {"coordinates":[-147.716755,64.858161],"type":"Point"}
+}

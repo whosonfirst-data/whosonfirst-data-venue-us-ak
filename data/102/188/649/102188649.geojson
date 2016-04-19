@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.867526,61.215662,-149.867526,61.215662",
+    "geom:latitude":61.215662,
+    "geom:longitude":-149.867526,
+    "iso:country":"US",
+    "sg:address":"839 E 7th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 336 5450",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6z7SQ9pU2iiWYPupVHmfUx_61.215662_-149.867526@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5d47ab3a61e8eb2252926d40df50f44f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102188649"
+        }
+    ],
+    "wof:id":"102188649",
+    "wof:lastmodified":1449068947,
+    "wof:name":"Anchorage Homes",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.867526,61.215662,-149.867526,61.215662],
+  "geometry": {"coordinates":[-149.867526,61.215662],"type":"Point"}
+}

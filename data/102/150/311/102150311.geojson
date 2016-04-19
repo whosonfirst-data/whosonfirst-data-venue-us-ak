@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.779852,61.180889,-149.779852,61.180889",
+    "geom:latitude":61.180889,
+    "geom:longitude":-149.779852,
+    "iso:country":"US",
+    "sg:address":"5201 E Tudor Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 332 2282",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "treatment",
+        "skin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QBc1NrNVvoxZkyyUtfDjz_61.180889_-149.779852@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f6e74eb3841b3c7f2957febdfa6fc635",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102150311"
+        }
+    ],
+    "wof:id":"102150311",
+    "wof:lastmodified":1449067791,
+    "wof:name":"Boston Aesthetics",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.779852,61.180889,-149.779852,61.180889],
+  "geometry": {"coordinates":[-149.779852,61.180889],"type":"Point"}
+}

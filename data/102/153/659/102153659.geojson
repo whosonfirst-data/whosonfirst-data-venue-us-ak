@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.059385,60.486164,-151.059385,60.486164",
+    "geom:latitude":60.486164,
+    "geom:longitude":-151.059385,
+    "iso:country":"US",
+    "sg:address":"155 Smiths Way",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 3168",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33La7iJ4aBcyvGvTDL4G5F_60.486164_-151.059385@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f125aac40a2305e92e312b1d986a50b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102153659"
+        }
+    ],
+    "wof:id":"102153659",
+    "wof:lastmodified":1449069460,
+    "wof:name":"Soldotna Optometry Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.059385,60.486164,-151.059385,60.486164],
+  "geometry": {"coordinates":[-151.059385,60.486164],"type":"Point"}
+}

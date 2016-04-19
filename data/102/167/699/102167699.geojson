@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.814257,61.206914,-149.814257,61.206914",
+    "geom:latitude":61.206914,
+    "geom:longitude":-149.814257,
+    "iso:country":"US",
+    "sg:address":"1544 Valarian St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 278 2870",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bqksDFTCW28sJq9eiHJIo_61.206914_-149.814257@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1128094075e9065b4bc40c13f26dc6ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102167699"
+        }
+    ],
+    "wof:id":"102167699",
+    "wof:lastmodified":1449069001,
+    "wof:name":"Glass Man",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.814257,61.206914,-149.814257,61.206914],
+  "geometry": {"coordinates":[-149.814257,61.206914],"type":"Point"}
+}

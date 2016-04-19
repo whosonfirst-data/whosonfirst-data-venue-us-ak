@@ -1,0 +1,70 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.751148,64.816233,-147.751148,64.816233",
+    "geom:latitude":64.816233,
+    "geom:longitude":-147.751148,
+    "iso:country":"US",
+    "sg:address":"3408 International St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 7111",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "natural",
+        "liquid",
+        "gas",
+        "trucking",
+        "production",
+        "operator",
+        "local"
+    ],
+    "sg:website":"www.fngas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EmYQ41wcjhCvV3b67jjDi_64.816233_-147.751148@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dd83946be3dda95c179af1fcc20e19da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102149375"
+        }
+    ],
+    "wof:id":"102149375",
+    "wof:lastmodified":1449067767,
+    "wof:name":"Fairbanks Natural Gas",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.751148,64.816233,-147.751148,64.816233],
+  "geometry": {"coordinates":[-147.751148,64.816233],"type":"Point"}
+}

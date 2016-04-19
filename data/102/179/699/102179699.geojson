@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.886621,61.221426,-149.886621,61.221426",
+    "geom:latitude":61.221426,
+    "geom:longitude":-149.886621,
+    "iso:country":"US",
+    "sg:address":"240 W 1st Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Wine & Distilled Alcoholic Beverages",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 8511",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "liquor"
+    ],
+    "sg:website":"www.odomcorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CbKc7Xd6knZ70TOCBTrPx_61.221426_-149.886621@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1b576513bcdd740821f954e7e32eef82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102179699"
+        }
+    ],
+    "wof:id":"102179699",
+    "wof:lastmodified":1449069941,
+    "wof:name":"Anchorage Cold Storage Odom Co",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.886621,61.221426,-149.886621,61.221426],
+  "geometry": {"coordinates":[-149.886621,61.221426],"type":"Point"}
+}

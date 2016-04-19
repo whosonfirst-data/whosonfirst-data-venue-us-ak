@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.331098,64.787845,-147.331098,64.787845",
+    "geom:latitude":64.787845,
+    "geom:longitude":-147.331098,
+    "iso:country":"US",
+    "sg:address":"2000 Pool St",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 0678",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916555,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Xrf08BLcyH7TmJP1JaMU4_64.787845_-147.331098@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7bdda81bd789928192d6575c0d894a0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916555,
+            "region_id":85688573,
+            "venue_id":"102159701"
+        }
+    ],
+    "wof:id":"102159701",
+    "wof:lastmodified":1449068094,
+    "wof:name":"TLC Special Needs Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.331098,64.787845,-147.331098,64.787845],
+  "geometry": {"coordinates":[-147.331098,64.787845],"type":"Point"}
+}

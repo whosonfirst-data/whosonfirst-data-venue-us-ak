@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.937975,56.807815,-132.937975,56.807815",
+    "geom:latitude":56.807815,
+    "geom:longitude":-132.937975,
+    "iso:country":"US",
+    "sg:address":"1504 Haugen Dr",
+    "sg:city":"Petersburg",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 772 4255",
+    "sg:postcode":"99833",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916033,
+        85633793,
+        85688573,
+        102081899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43zCM4esMzOPJHdID2A3lL_56.807815_-132.937975@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e1e0de78feb6c1c87eaafe024883a96a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081899,
+            "locality_id":85916033,
+            "region_id":85688573,
+            "venue_id":"102151133"
+        }
+    ],
+    "wof:id":"102151133",
+    "wof:lastmodified":1449067781,
+    "wof:name":"Alaska Airlines Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.937975,56.807815,-132.937975,56.807815],
+  "geometry": {"coordinates":[-132.937975,56.807815],"type":"Point"}
+}

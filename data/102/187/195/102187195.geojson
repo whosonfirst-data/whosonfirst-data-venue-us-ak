@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.719697,61.115972,-149.719697,61.115972",
+    "geom:latitude":61.115972,
+    "geom:longitude":-149.719697,
+    "iso:country":"US",
+    "sg:address":"11480 Browder Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 222 4893",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873747,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5147Ecl747EsYHPIV9GE1e_61.115972_-149.719697@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6d878fc17d76c9d8fbf348b8035fcbdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873747,
+            "region_id":85688573,
+            "venue_id":"102187195"
+        }
+    ],
+    "wof:id":"102187195",
+    "wof:lastmodified":1449068159,
+    "wof:name":"Daniel W Beardsley",
+    "wof:parent_id":85873747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.719697,61.115972,-149.719697,61.115972],
+  "geometry": {"coordinates":[-149.719697,61.115972],"type":"Point"}
+}

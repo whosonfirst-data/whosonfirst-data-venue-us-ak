@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.334596,57.053421,-135.334596,57.053421",
+    "geom:latitude":57.053421,
+    "geom:longitude":-135.334596,
+    "iso:country":"US",
+    "sg:address":"408 Lake St",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 7140",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RUBo9Q79Bx95NvDphcThG_57.053421_-135.334596@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3c5cd244fd0d64b9a221c2ed226d90ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102179465"
+        }
+    ],
+    "wof:id":"102179465",
+    "wof:lastmodified":1449069942,
+    "wof:name":"Graham Law Firm",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.334596,57.053421,-135.334596,57.053421],
+  "geometry": {"coordinates":[-135.334596,57.053421],"type":"Point"}
+}

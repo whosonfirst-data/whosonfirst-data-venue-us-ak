@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.792179,64.858213,-147.792179,64.858213",
+    "geom:latitude":64.858213,
+    "geom:longitude":-147.792179,
+    "iso:country":"US",
+    "sg:address":"3090 Totem Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 5359",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "model",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869043,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kx91EuDs9JZt7oRms75tl_64.858213_-147.792179@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dd7c8706d4d3686083f00123e8d84b5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85869043,
+            "region_id":85688573,
+            "venue_id":"102158697"
+        }
+    ],
+    "wof:id":"102158697",
+    "wof:lastmodified":1449069393,
+    "wof:name":"Fifer's Flying Things",
+    "wof:parent_id":85869043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.792179,64.858213,-147.792179,64.858213],
+  "geometry": {"coordinates":[-147.792179,64.858213],"type":"Point"}
+}

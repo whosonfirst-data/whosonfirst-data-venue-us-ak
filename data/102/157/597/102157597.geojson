@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.790913,61.089424,-149.790913,61.089424",
+    "geom:latitude":61.089424,
+    "geom:longitude":-149.790913,
+    "iso:country":"US",
+    "sg:address":"4701 E 145th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 7038",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873751,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NrykO0lAGRLOlqDA12IRv_61.089424_-149.790913@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eca500bd15f251d56bb307ed5052da0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873751,
+            "region_id":85688573,
+            "venue_id":"102157597"
+        }
+    ],
+    "wof:id":"102157597",
+    "wof:lastmodified":1449069833,
+    "wof:name":"Sling Thing The",
+    "wof:parent_id":85873751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.790913,61.089424,-149.790913,61.089424],
+  "geometry": {"coordinates":[-149.790913,61.089424],"type":"Point"}
+}

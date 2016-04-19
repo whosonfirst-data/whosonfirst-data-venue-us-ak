@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-158.765792,56.255311,-158.765792,56.255311",
+    "geom:latitude":56.255311,
+    "geom:longitude":-158.765792,
+    "iso:country":"US",
+    "sg:address":"123 Brown Bear Way",
+    "sg:city":"Chignik Lake",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 845 2210",
+    "sg:postcode":"99548",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916939,
+        85633793,
+        85688573,
+        102080999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zlUdXWQIBEAz3EZH852oH_56.255311_-158.765792@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"142bff4da422b5d1e2ca916520f57019",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080999,
+            "locality_id":85916939,
+            "region_id":85688573,
+            "venue_id":"102169207"
+        }
+    ],
+    "wof:id":"102169207",
+    "wof:lastmodified":1449069248,
+    "wof:name":"Chignik Lake School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-158.765792,56.255311,-158.765792,56.255311],
+  "geometry": {"coordinates":[-158.765792,56.255311],"type":"Point"}
+}

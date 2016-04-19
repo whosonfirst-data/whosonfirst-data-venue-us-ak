@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.352713,64.752431,-147.352713,64.752431",
+    "geom:latitude":64.752431,
+    "geom:longitude":-147.352713,
+    "iso:country":"US",
+    "sg:address":"320 S Santa Claus Ln",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 8668",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915639,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oiiXZFDZfoFU9rs2e6ISl_64.752431_-147.352713@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a1b3047ca2ab9c741a4f78659adf73fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915639,
+            "region_id":85688573,
+            "venue_id":"102150647"
+        }
+    ],
+    "wof:id":"102150647",
+    "wof:lastmodified":1449067791,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.352713,64.752431,-147.352713,64.752431],
+  "geometry": {"coordinates":[-147.352713,64.752431],"type":"Point"}
+}

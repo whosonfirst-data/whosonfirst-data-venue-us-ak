@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-156.788124,71.291484,-156.788124,71.291484",
+    "geom:latitude":71.291484,
+    "geom:longitude":-156.788124,
+    "iso:country":"US",
+    "sg:address":"717 Nachik St",
+    "sg:city":"Barrow",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 852 5483",
+    "sg:postcode":"99723",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915545,
+        85633793,
+        85688573,
+        102081001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SWtoJphAX61LLqzyRQpbw_71.291484_-156.788124@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3cf51c19c268ed922e173ea03450b9c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081001,
+            "locality_id":85915545,
+            "region_id":85688573,
+            "venue_id":"102180975"
+        }
+    ],
+    "wof:id":"102180975",
+    "wof:lastmodified":1449067877,
+    "wof:name":"Northern Lights Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-156.788124,71.291484,-156.788124,71.291484],
+  "geometry": {"coordinates":[-156.788124,71.291484],"type":"Point"}
+}

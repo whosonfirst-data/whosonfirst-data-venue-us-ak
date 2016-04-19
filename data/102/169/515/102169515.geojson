@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.970558,61.134736,-149.970558,61.134736",
+    "geom:latitude":61.134736,
+    "geom:longitude":-149.970558,
+    "iso:country":"US",
+    "sg:address":"9200 Emerald St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 0577",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "herb"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IY4bNVNn7AMmgLTWeQOUJ_61.134736_-149.970558@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"15fe0b588c7cf8dfaba470107fe6f315",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102169515"
+        }
+    ],
+    "wof:id":"102169515",
+    "wof:lastmodified":1449069247,
+    "wof:name":"Emerald Herbs",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.970558,61.134736,-149.970558,61.134736],
+  "geometry": {"coordinates":[-149.970558,61.134736],"type":"Point"}
+}

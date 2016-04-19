@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.469328,58.329585,-134.469328,58.329585",
+    "geom:latitude":58.329585,
+    "geom:longitude":-134.469328,
+    "iso:country":"US",
+    "sg:address":"3239 Hospital Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 0124",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853509,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ijQE3I5zm7IVRX7BlHxNQ_58.329585_-134.469328@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"414ea6d21dd74ef141ecb03a52fca6b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85853509,
+            "region_id":85688573,
+            "venue_id":"102162219"
+        }
+    ],
+    "wof:id":"102162219",
+    "wof:lastmodified":1449069825,
+    "wof:name":"Twin Lake Cafe",
+    "wof:parent_id":85853509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.469328,58.329585,-134.469328,58.329585],
+  "geometry": {"coordinates":[-134.469328,58.329585],"type":"Point"}
+}

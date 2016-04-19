@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.685367,55.352703,-131.685367,55.352703",
+    "geom:latitude":55.352703,
+    "geom:longitude":-131.685367,
+    "iso:country":"US",
+    "sg:address":"3100 Tongass Ave",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 247 0222",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0X77GRrpFIUquAYce8mA1Z_55.352703_-131.685367@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c235416ba6956c7a970f2cfd1d2465c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102159463"
+        }
+    ],
+    "wof:id":"102159463",
+    "wof:lastmodified":1449068093,
+    "wof:name":"Home HEALTH-Kgh",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.685367,55.352703,-131.685367,55.352703],
+  "geometry": {"coordinates":[-131.685367,55.352703],"type":"Point"}
+}

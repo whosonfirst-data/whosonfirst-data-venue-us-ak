@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.778609,64.816142,-147.778609,64.816142",
+    "geom:latitude":64.816142,
+    "geom:longitude":-147.778609,
+    "iso:country":"US",
+    "sg:address":"3290 Peger Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 455 7335",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "clearing",
+        "land",
+        "leveling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hU9LkxrSOA4w8sM3enapr_64.816142_-147.778609@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"895bdbd62cf358fba1726374f7d09be6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102167459"
+        }
+    ],
+    "wof:id":"102167459",
+    "wof:lastmodified":1449069001,
+    "wof:name":"T J's Land Clearing Inc",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.778609,64.816142,-147.778609,64.816142],
+  "geometry": {"coordinates":[-147.778609,64.816142],"type":"Point"}
+}

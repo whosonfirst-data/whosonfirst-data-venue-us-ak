@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.413654,61.578069,-149.413654,61.578069",
+    "geom:latitude":61.578069,
+    "geom:longitude":-149.413654,
+    "iso:country":"US",
+    "sg:address":"1501 E Parks Hwy",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 357 1455",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zsjkpVY3mg4rp0fiB3Vui_61.578069_-149.413654@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"11f5b28c006ab5dcac35917169478a09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102181009"
+        }
+    ],
+    "wof:id":"102181009",
+    "wof:lastmodified":1449069236,
+    "wof:name":"Optical Shoppe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.413654,61.578069,-149.413654,61.578069],
+  "geometry": {"coordinates":[-149.413654,61.578069],"type":"Point"}
+}

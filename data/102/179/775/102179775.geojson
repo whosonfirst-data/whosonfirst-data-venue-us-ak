@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.901654,61.209692,-149.901654,61.209692",
+    "geom:latitude":61.209692,
+    "geom:longitude":-149.901654,
+    "iso:country":"US",
+    "sg:address":"900 W 13th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 9797",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873721,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TBUQu5u4HRV8ZXDzeePka_61.209692_-149.901654@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7e22e0a77b45d5680c0ccd0e63d87a95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873721,
+            "region_id":85688573,
+            "venue_id":"102179775"
+        }
+    ],
+    "wof:id":"102179775",
+    "wof:lastmodified":1449069943,
+    "wof:name":"L'Aroma Bakery & Deli",
+    "wof:parent_id":85873721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.901654,61.209692,-149.901654,61.209692],
+  "geometry": {"coordinates":[-149.901654,61.209692],"type":"Point"}
+}

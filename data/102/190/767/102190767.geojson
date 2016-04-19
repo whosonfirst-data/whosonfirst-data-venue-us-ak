@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.331098,64.787825,-147.331098,64.787825",
+    "geom:latitude":64.787825,
+    "geom:longitude":-147.331098,
+    "iso:country":"US",
+    "sg:address":"1956 Pool St",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 1266",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916555,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WMf6mbcLfN55H6ba2njnE_64.787825_-147.331098@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bf4246edbccc8dcc2eee3a2373583dfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916555,
+            "region_id":85688573,
+            "venue_id":"102190767"
+        }
+    ],
+    "wof:id":"102190767",
+    "wof:lastmodified":1449070035,
+    "wof:name":"Mappa Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.331098,64.787825,-147.331098,64.787825],
+  "geometry": {"coordinates":[-147.331098,64.787825],"type":"Point"}
+}

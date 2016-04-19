@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.359239,57.81259,-152.359239,57.81259",
+    "geom:latitude":57.81259,
+    "geom:longitude":-152.359239,
+    "iso:country":"US",
+    "sg:address":"3265 Mill Bay Rd",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 6211",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iYAulDnVLKRCrRHq8RShQ_57.812590_-152.359239@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"18c86936d5ee052e920570fc2af50b4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "region_id":85688573,
+            "venue_id":"102161001"
+        }
+    ],
+    "wof:id":"102161001",
+    "wof:lastmodified":1449068710,
+    "wof:name":"Foster Marine Svc Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.359239,57.81259,-152.359239,57.81259],
+  "geometry": {"coordinates":[-152.359239,57.81259],"type":"Point"}
+}

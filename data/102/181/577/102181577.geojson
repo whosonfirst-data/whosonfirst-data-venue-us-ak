@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.42054,58.288131,-134.42054,58.288131",
+    "geom:latitude":58.288131,
+    "geom:longitude":-134.42054,
+    "iso:country":"US",
+    "sg:address":"2723 John St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 364 3371",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "book"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5P5U557qRJM6y1QAhT9WwM_58.288131_-134.420540@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eb7c3d54cd31c4f6069e7b63d35ad5b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102181577"
+        }
+    ],
+    "wof:id":"102181577",
+    "wof:lastmodified":1449069237,
+    "wof:name":"Seadrome Press",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.42054,58.288131,-134.42054,58.288131],
+  "geometry": {"coordinates":[-134.42054,58.288131],"type":"Point"}
+}

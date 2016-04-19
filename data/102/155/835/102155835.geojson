@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.245494,60.564171,-151.245494,60.564171",
+    "geom:latitude":60.564171,
+    "geom:longitude":-151.245494,
+    "iso:country":"US",
+    "sg:address":"200 N Willow St",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 0405",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1E1UOw9oDpG6KZhyoDddWd_60.564171_-151.245494@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d33b959ba5c4c3d675d381fa7724d35e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102155835"
+        }
+    ],
+    "wof:id":"102155835",
+    "wof:lastmodified":1449069742,
+    "wof:name":"Jim's Towing & Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.245494,60.564171,-151.245494,60.564171],
+  "geometry": {"coordinates":[-151.245494,60.564171],"type":"Point"}
+}

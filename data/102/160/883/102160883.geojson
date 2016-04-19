@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.922427,61.187993,-149.922427,61.187993",
+    "geom:latitude":61.187993,
+    "geom:longitude":-149.922427,
+    "iso:country":"US",
+    "sg:address":"2020 W 36th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 677 7935",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ba2e43nNShsYaYCvaYut9_61.187993_-149.922427@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"edc4bb3164b299fa9b7b9c405bd3054e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102160883"
+        }
+    ],
+    "wof:id":"102160883",
+    "wof:lastmodified":1449069777,
+    "wof:name":"Alaska Toby Charters",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.922427,61.187993,-149.922427,61.187993],
+  "geometry": {"coordinates":[-149.922427,61.187993],"type":"Point"}
+}

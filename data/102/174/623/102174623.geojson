@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.569002,58.359184,-134.569002,58.359184",
+    "geom:latitude":58.359184,
+    "geom:longitude":-134.569002,
+    "iso:country":"US",
+    "sg:address":"8411 Airport Blvd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 9705",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "action",
+        "agency",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915729,
+        85633793,
+        85688573,
+        102081399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PprTB2Us83J0XTBJ36Q3K_58.359184_-134.569002@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e82accca412d21e54c1ebe46e4f64da6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "region_id":85688573,
+            "venue_id":"102174623"
+        }
+    ],
+    "wof:id":"102174623",
+    "wof:lastmodified":1449068138,
+    "wof:name":"Helping Hands",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.569002,58.359184,-134.569002,58.359184],
+  "geometry": {"coordinates":[-134.569002,58.359184],"type":"Point"}
+}

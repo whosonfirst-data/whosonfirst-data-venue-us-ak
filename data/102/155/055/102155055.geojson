@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.16057,61.590794,-149.16057,61.590794",
+    "geom:latitude":61.590794,
+    "geom:longitude":-149.16057,
+    "iso:country":"US",
+    "sg:address":"1150 Helen Dr",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 4483",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.firstbaptistpalmer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RMaUZlYAgn38s4xybWhM0_61.590794_-149.160570@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0913c8cf8bca3e46a601e552e79f15ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "region_id":85688573,
+            "venue_id":"102155055"
+        }
+    ],
+    "wof:id":"102155055",
+    "wof:lastmodified":1449069744,
+    "wof:name":"First Baptist Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.16057,61.590794,-149.16057,61.590794],
+  "geometry": {"coordinates":[-149.16057,61.590794],"type":"Point"}
+}

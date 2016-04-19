@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.88123,61.219531,-149.88123,61.219531",
+    "geom:latitude":61.219531,
+    "geom:longitude":-149.88123,
+    "iso:country":"US",
+    "sg:address":"201 Barrow St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 278 5437",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Jg7S4ioMynEk0riLzvWpl_61.219531_-149.881230@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"58f4cacbcc3da36bd7f2d60aac1c258a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102171175"
+        }
+    ],
+    "wof:id":"102171175",
+    "wof:lastmodified":1449070224,
+    "wof:name":"Native Village Of Eklutna's",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.88123,61.219531,-149.88123,61.219531],
+  "geometry": {"coordinates":[-149.88123,61.219531],"type":"Point"}
+}

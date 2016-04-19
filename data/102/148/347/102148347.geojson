@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.829489,64.83537,-147.829489,64.83537",
+    "geom:latitude":64.83537,
+    "geom:longitude":-147.829489,
+    "iso:country":"US",
+    "sg:address":"1450 Karen Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 3265",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "leather"
+    ],
+    "sg:website":"www.harleyoutpost.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6K7bkRNqgh1fCvsFdeCjRP_64.835370_-147.829489@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e114f186d0b6cf1e06637de36755f9a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102148347"
+        }
+    ],
+    "wof:id":"102148347",
+    "wof:lastmodified":1449069785,
+    "wof:name":"Harley-Davidson Inc",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.829489,64.83537,-147.829489,64.83537],
+  "geometry": {"coordinates":[-147.829489,64.83537],"type":"Point"}
+}

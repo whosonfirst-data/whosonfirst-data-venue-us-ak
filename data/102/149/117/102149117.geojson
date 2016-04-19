@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.580151,64.932759,-147.580151,64.932759",
+    "geom:latitude":64.932759,
+    "geom:longitude":-147.580151,
+    "iso:country":"US",
+    "sg:address":"693 Gold Vein Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 1898",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "instrument",
+        "scientific",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916545,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Pd4Rf0yoUhz0toJiMZyHP_64.932759_-147.580151@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f755166760a805602284be7ffbbf28e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916545,
+            "region_id":85688573,
+            "venue_id":"102149117"
+        }
+    ],
+    "wof:id":"102149117",
+    "wof:lastmodified":1449067769,
+    "wof:name":"Snow-Hydro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.580151,64.932759,-147.580151,64.932759],
+  "geometry": {"coordinates":[-147.580151,64.932759],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.830005,61.099768,-149.830005,61.099768",
+    "geom:latitude":61.099768,
+    "geom:longitude":-149.830005,
+    "iso:country":"US",
+    "sg:address":"13300 Windrush Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 3327",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VGN4Gx29339lgAlqpDDAI_61.099768_-149.830005@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"57ae80703c887f3d165d9529e55e9327",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102169325"
+        }
+    ],
+    "wof:id":"102169325",
+    "wof:lastmodified":1449069247,
+    "wof:name":"Debbie's Hair Studio",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.830005,61.099768,-149.830005,61.099768],
+  "geometry": {"coordinates":[-149.830005,61.099768],"type":"Point"}
+}

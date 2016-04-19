@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.840971,61.195309,-149.840971,61.195309",
+    "geom:latitude":61.195309,
+    "geom:longitude":-149.840971,
+    "iso:country":"US",
+    "sg:address":"2220 E Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 2210",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jbem64Knp3OXL2vnWhmi9_61.195309_-149.840971@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0dee5bf765f167062519dc6bcd38b802",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102187069"
+        }
+    ],
+    "wof:id":"102187069",
+    "wof:lastmodified":1449068158,
+    "wof:name":"Brown Jug",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.840971,61.195309,-149.840971,61.195309],
+  "geometry": {"coordinates":[-149.840971,61.195309],"type":"Point"}
+}

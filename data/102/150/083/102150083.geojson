@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.081598,60.505561,-151.081598,60.505561",
+    "geom:latitude":60.505561,
+    "geom:longitude":-151.081598,
+    "iso:country":"US",
+    "sg:address":"36225 Kenai Spur Hwy",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 9334",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "sg:website":"www.enstargas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916859,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25c525EEpjzYKxDuc2R3Tp_60.505561_-151.081598@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d5dfd2863f531a7eb24e0a7db205863b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916859,
+            "region_id":85688573,
+            "venue_id":"102150083"
+        }
+    ],
+    "wof:id":"102150083",
+    "wof:lastmodified":1449067791,
+    "wof:name":"Enstar Natural Gas Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.081598,60.505561,-151.081598,60.505561],
+  "geometry": {"coordinates":[-151.081598,60.505561],"type":"Point"}
+}

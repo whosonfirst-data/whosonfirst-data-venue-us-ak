@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.429414,59.694161,-151.429414,59.694161",
+    "geom:latitude":59.694161,
+    "geom:longitude":-151.429414,
+    "iso:country":"US",
+    "sg:address":"61030 Skyline Dr",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 2255",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916983,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ay4Q2YyTkRK0jVgYUEl7z_59.694161_-151.429414@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f4ac99c13ba93ec8e61b8de41b4e0d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916983,
+            "region_id":85688573,
+            "venue_id":"102149909"
+        }
+    ],
+    "wof:id":"102149909",
+    "wof:lastmodified":1449067770,
+    "wof:name":"Acme Carpet Cleaning",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.429414,59.694161,-151.429414,59.694161],
+  "geometry": {"coordinates":[-151.429414,59.694161],"type":"Point"}
+}

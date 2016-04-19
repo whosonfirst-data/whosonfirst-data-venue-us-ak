@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.808274,61.205469,-149.808274,61.205469",
+    "geom:latitude":61.205469,
+    "geom:longitude":-149.808274,
+    "iso:country":"US",
+    "sg:address":"1711 S Bragaw St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 5279",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j1SyX0PUeKfVOOrbvjdEE_61.205469_-149.808274@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a3cc553bc69b998e5f8e083cf91640ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102158267"
+        }
+    ],
+    "wof:id":"102158267",
+    "wof:lastmodified":1449069395,
+    "wof:name":"Family Worship Ctr",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.808274,61.205469,-149.808274,61.205469],
+  "geometry": {"coordinates":[-149.808274,61.205469],"type":"Point"}
+}

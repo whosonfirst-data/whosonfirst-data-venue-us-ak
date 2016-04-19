@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-139.732219,59.550046,-139.732219,59.550046",
+    "geom:latitude":59.550046,
+    "geom:longitude":-139.732219,
+    "iso:country":"US",
+    "sg:address":"552 Mallott Ave",
+    "sg:city":"Yakutat",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 784 3395",
+    "sg:postcode":"99689",
+    "sg:province":"AK",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916675,
+        85633793,
+        85688573,
+        102081907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XtiMDpGDDLCdR10jhqDBM_59.550046_-139.732219@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"118a0e6ae13eaf3c0d93dbd68a61826b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081907,
+            "locality_id":85916675,
+            "region_id":85688573,
+            "venue_id":"102194777"
+        }
+    ],
+    "wof:id":"102194777",
+    "wof:lastmodified":1449069828,
+    "wof:name":"Monti Bay Foods",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-139.732219,59.550046,-139.732219,59.550046],
+  "geometry": {"coordinates":[-139.732219,59.550046],"type":"Point"}
+}

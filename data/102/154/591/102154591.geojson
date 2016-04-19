@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.262522,60.552857,-151.262522,60.552857",
+    "geom:latitude":60.552857,
+    "geom:longitude":-151.262522,
+    "iso:country":"US",
+    "sg:address":"912 Highland Ave",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 9611",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "out"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NnljjYrahNKNdrCibh3gC_60.552857_-151.262522@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"91aba99051f2b8603559dd0d60d2f516",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102154591"
+        }
+    ],
+    "wof:id":"102154591",
+    "wof:lastmodified":1449070244,
+    "wof:name":"Burger Bus",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.262522,60.552857,-151.262522,60.552857],
+  "geometry": {"coordinates":[-151.262522,60.552857],"type":"Point"}
+}

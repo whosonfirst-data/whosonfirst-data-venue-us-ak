@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.550065,59.651572,-151.550065,59.651572",
+    "geom:latitude":59.651572,
+    "geom:longitude":-151.550065,
+    "iso:country":"US",
+    "sg:address":"4300 Bartlett St",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 8101",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:website":"www.sphosp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42xEVukO35F1CJBknaqE2J_59.651572_-151.550065@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6cb2b1d25f1301d002d07d4443649069",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102192025"
+        }
+    ],
+    "wof:id":"102192025",
+    "wof:lastmodified":1449069505,
+    "wof:name":"South Peninsula Hospital",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.550065,59.651572,-151.550065,59.651572],
+  "geometry": {"coordinates":[-151.550065,59.651572],"type":"Point"}
+}

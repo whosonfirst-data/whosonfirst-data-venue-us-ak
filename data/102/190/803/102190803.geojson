@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.076845,60.506965,-151.076845,60.506965",
+    "geom:latitude":60.506965,
+    "geom:longitude":-151.076845,
+    "iso:country":"US",
+    "sg:address":"44640 Parkway Ave",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 2706",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916859,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fkI2TOZquGLDFql0QiaDp_60.506965_-151.076845@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"77d49b798e698cd8979572158de69431",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916859,
+            "region_id":85688573,
+            "venue_id":"102190803"
+        }
+    ],
+    "wof:id":"102190803",
+    "wof:lastmodified":1449070036,
+    "wof:name":"Soldotna Elks Lodge",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.076845,60.506965,-151.076845,60.506965],
+  "geometry": {"coordinates":[-151.076845,60.506965],"type":"Point"}
+}

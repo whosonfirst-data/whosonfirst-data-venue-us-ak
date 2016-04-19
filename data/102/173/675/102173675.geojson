@@ -1,0 +1,71 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.77563,61.220624,-149.77563,61.220624",
+    "geom:latitude":61.220624,
+    "geom:longitude":-149.77563,
+    "iso:country":"US",
+    "sg:address":"5601 Camelot Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 1655",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "management",
+        "commercial",
+        "op",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3X9FX5fR7Ide9QqDjThmLF_61.220624_-149.775630@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4d3427396606f7f00c5ce09f6b9a363e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102173675"
+        }
+    ],
+    "wof:id":"102173675",
+    "wof:lastmodified":1449068265,
+    "wof:name":"Chuck Higgins Company",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.77563,61.220624,-149.77563,61.220624],
+  "geometry": {"coordinates":[-149.77563,61.220624],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.88662,61.194258,-149.88662,61.194258",
+    "geom:latitude":61.194258,
+    "geom:longitude":-149.88662,
+    "iso:country":"US",
+    "sg:address":"101 W Benson Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 5317",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UBfHt4cCuVwFZCiotdEGL_61.194258_-149.886620@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c7735303c79b1fe0d43b42ea56733dc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102162173"
+        }
+    ],
+    "wof:id":"102162173",
+    "wof:lastmodified":1449069821,
+    "wof:name":"Harry's Restaurant",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.88662,61.194258,-149.88662,61.194258],
+  "geometry": {"coordinates":[-149.88662,61.194258],"type":"Point"}
+}

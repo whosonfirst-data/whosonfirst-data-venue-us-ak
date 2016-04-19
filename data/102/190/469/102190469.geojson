@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.463981,59.644105,-151.463981,59.644105",
+    "geom:latitude":59.644105,
+    "geom:longitude":-151.463981,
+    "iso:country":"US",
+    "sg:address":"2559 Kachemak Dr",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 7158",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "storage",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bzeOSr71W13I9oUZPf0uZ_59.644105_-151.463981@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"42fa89f096427e4d70d74a5ad44c47e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102190469"
+        }
+    ],
+    "wof:id":"102190469",
+    "wof:lastmodified":1449070037,
+    "wof:name":"Homer Boat Yard",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.463981,59.644105,-151.463981,59.644105],
+  "geometry": {"coordinates":[-151.463981,59.644105],"type":"Point"}
+}

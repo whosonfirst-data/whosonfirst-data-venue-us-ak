@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.892769,61.215523,-149.892769,61.215523",
+    "geom:latitude":61.215523,
+    "geom:longitude":-149.892769,
+    "iso:country":"US",
+    "sg:address":"550 W 7th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 278 2277",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "management"
+    ],
+    "sg:website":"www.cgprop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xu0KURPEiHmaLaUMpsOCV_61.215523_-149.892769@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5fb9b6dc1524ec3ddb8745f049fc4a96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102149681"
+        }
+    ],
+    "wof:id":"102149681",
+    "wof:lastmodified":1449067769,
+    "wof:name":"Carr Gottstein Properties",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.892769,61.215523,-149.892769,61.215523],
+  "geometry": {"coordinates":[-149.892769,61.215523],"type":"Point"}
+}

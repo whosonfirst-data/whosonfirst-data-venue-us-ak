@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.944365,61.159819,-149.944365,61.159819",
+    "geom:latitude":61.159819,
+    "geom:longitude":-149.944365,
+    "iso:country":"US",
+    "sg:address":"6725 Blackberry St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 250 3726",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "lapidary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iUma3bd5Iy5fo34UZqVIB_61.159819_-149.944365@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4ee4a69536639aa77343ec8eadf9fce9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102152179"
+        }
+    ],
+    "wof:id":"102152179",
+    "wof:lastmodified":1449069637,
+    "wof:name":"Stone Age Alaska",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.944365,61.159819,-149.944365,61.159819],
+  "geometry": {"coordinates":[-149.944365,61.159819],"type":"Point"}
+}

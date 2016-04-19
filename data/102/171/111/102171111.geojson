@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.952697,61.161276,-149.952697,61.161276",
+    "geom:latitude":61.161276,
+    "geom:longitude":-149.952697,
+    "iso:country":"US",
+    "sg:address":"6614 Lakeway Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 6655",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nLAhHC6dMC1DA4Yn0JB9R_61.161276_-149.952697@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cfd44fbefdede045398e2acc148cad13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102171111"
+        }
+    ],
+    "wof:id":"102171111",
+    "wof:lastmodified":1449070228,
+    "wof:name":"Lakeway Villa",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.952697,61.161276,-149.952697,61.161276],
+  "geometry": {"coordinates":[-149.952697,61.161276],"type":"Point"}
+}

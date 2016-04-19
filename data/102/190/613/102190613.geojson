@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-158.535609,59.03109,-158.535609,59.03109",
+    "geom:latitude":59.03109,
+    "geom:longitude":-158.535609,
+    "iso:country":"US",
+    "sg:address":"3005 Kanakanak Rd",
+    "sg:city":"Dillingham",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 842 4220",
+    "sg:postcode":"99576",
+    "sg:province":"AK",
+    "sg:tags":[
+        "boat",
+        "launching"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836479,
+        85633793,
+        85915613,
+        102080995,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43xSH7bhD10mZ4K4r0zD9s_59.031090_-158.535609@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"95cfc6335087f1294c2a82a97cad6d8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080995,
+            "locality_id":85915613,
+            "neighbourhood_id":85836479,
+            "region_id":85688573,
+            "venue_id":"102190613"
+        }
+    ],
+    "wof:id":"102190613",
+    "wof:lastmodified":1449070034,
+    "wof:name":"Squaw Creek Boat Mover",
+    "wof:parent_id":85836479,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-158.535609,59.03109,-158.535609,59.03109],
+  "geometry": {"coordinates":[-158.535609,59.03109],"type":"Point"}
+}

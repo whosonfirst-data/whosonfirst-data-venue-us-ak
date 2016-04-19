@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.432162,61.593982,-149.432162,61.593982",
+    "geom:latitude":61.593982,
+    "geom:longitude":-149.432162,
+    "iso:country":"US",
+    "sg:address":"800 Blind Nick Dr",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 357 5060",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JXRXDmnhSvvbvzOPxmjEt_61.593982_-149.432162@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"22117a7f20fa29cfb3c8840e985f2f70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102150185"
+        }
+    ],
+    "wof:id":"102150185",
+    "wof:lastmodified":1449067791,
+    "wof:name":"Aqua Vac",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.432162,61.593982,-149.432162,61.593982],
+  "geometry": {"coordinates":[-149.432162,61.593982],"type":"Point"}
+}

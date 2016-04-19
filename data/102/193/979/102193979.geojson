@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.905511,61.197229,-149.905511,61.197229",
+    "geom:latitude":61.197229,
+    "geom:longitude":-149.905511,
+    "iso:country":"US",
+    "sg:address":"2602 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 278 0039",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41KKyKJmH4qmWRTxEtWw6v_61.197229_-149.905511@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"35aef7318b009c72b338361195a32e70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102193979"
+        }
+    ],
+    "wof:id":"102193979",
+    "wof:lastmodified":1449068194,
+    "wof:name":"Korean Rice Cake Co",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.905511,61.197229,-149.905511,61.197229],
+  "geometry": {"coordinates":[-149.905511,61.197229],"type":"Point"}
+}

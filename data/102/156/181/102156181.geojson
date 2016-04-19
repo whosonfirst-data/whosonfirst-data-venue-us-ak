@@ -1,0 +1,72 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.899665,61.215896,-149.899665,61.215896",
+    "geom:latitude":61.215896,
+    "geom:longitude":-149.899665,
+    "iso:country":"US",
+    "sg:address":"630 I St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 4243",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573,
+        85873721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PzPkCcgIuYrgiSXZWoted_61.215896_-149.899665@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"14f951bb86028cd8cc074178630fe16e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102156181"
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873721,
+            "region_id":85688573,
+            "venue_id":"102156181"
+        }
+    ],
+    "wof:id":"102156181",
+    "wof:lastmodified":1449068283,
+    "wof:name":"Wayne Cates Accounting Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.899665,61.215896,-149.899665,61.215896],
+  "geometry": {"coordinates":[-149.899665,61.215896],"type":"Point"}
+}

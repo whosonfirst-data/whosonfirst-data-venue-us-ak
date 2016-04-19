@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-165.415375,64.499358,-165.415375,64.499358",
+    "geom:latitude":64.499358,
+    "geom:longitude":-165.415375,
+    "iso:country":"US",
+    "sg:address":"285 W 1st Ave",
+    "sg:city":"Nome",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 443 7575",
+    "sg:postcode":"99762",
+    "sg:province":"AK",
+    "sg:tags":[
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915489,
+        85633793,
+        85688573,
+        102081401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42WSCX9qZ3bY2Q2gKrsWMv_64.499358_-165.415375@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7b8c1bf408a8270b43e7f284ab1bbc73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081401,
+            "locality_id":85915489,
+            "region_id":85688573,
+            "venue_id":"102186841"
+        }
+    ],
+    "wof:id":"102186841",
+    "wof:lastmodified":1449069653,
+    "wof:name":"Nook Net",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-165.415375,64.499358,-165.415375,64.499358],
+  "geometry": {"coordinates":[-165.415375,64.499358],"type":"Point"}
+}

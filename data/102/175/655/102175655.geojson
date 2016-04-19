@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.744098,61.196718,-149.744098,61.196718",
+    "geom:latitude":61.196718,
+    "geom:longitude":-149.744098,
+    "iso:country":"US",
+    "sg:address":"7310 Augustine Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 332 4004",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873735,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cHZZnrwpOuymvAA4pwkR5_61.196718_-149.744098@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c2545055a2cd8edad1972092e6aeccb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873735,
+            "region_id":85688573,
+            "venue_id":"102175655"
+        }
+    ],
+    "wof:id":"102175655",
+    "wof:lastmodified":1449069464,
+    "wof:name":"Espresso Consultants US",
+    "wof:parent_id":85873735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.744098,61.196718,-149.744098,61.196718],
+  "geometry": {"coordinates":[-149.744098,61.196718],"type":"Point"}
+}

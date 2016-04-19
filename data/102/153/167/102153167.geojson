@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.804234,61.100499,-149.804234,61.100499",
+    "geom:latitude":61.100499,
+    "geom:longitude":-149.804234,
+    "iso:country":"US",
+    "sg:address":"13400 Elmore Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 742 6200",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mw2l1RBceU14BfmWVv4UP_61.100499_-149.804234@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8055faf59b1cebb057a9d566a4413c4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102153167"
+        }
+    ],
+    "wof:id":"102153167",
+    "wof:lastmodified":1449069462,
+    "wof:name":"South High School",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.804234,61.100499,-149.804234,61.100499],
+  "geometry": {"coordinates":[-149.804234,61.100499],"type":"Point"}
+}

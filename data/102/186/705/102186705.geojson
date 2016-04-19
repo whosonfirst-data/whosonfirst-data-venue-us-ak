@@ -1,0 +1,72 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.878008,61.149947,-149.878008,61.149947",
+    "geom:latitude":61.149947,
+    "geom:longitude":-149.878008,
+    "iso:country":"US",
+    "sg:address":"7820 King St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 9006",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "venetian",
+        "blind",
+        "product",
+        "drapery",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f08wvHgWT7VV11KzvIunQ_61.149947_-149.878008@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6a74b20f2f8684ed91451e825685526e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102186705"
+        }
+    ],
+    "wof:id":"102186705",
+    "wof:lastmodified":1449069655,
+    "wof:name":"Blinds Unlimited",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.878008,61.149947,-149.878008,61.149947],
+  "geometry": {"coordinates":[-149.878008,61.149947],"type":"Point"}
+}

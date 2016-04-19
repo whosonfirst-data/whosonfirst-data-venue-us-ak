@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.331096,64.788031,-147.331096,64.788031",
+    "geom:latitude":64.788031,
+    "geom:longitude":-147.331096,
+    "iso:country":"US",
+    "sg:address":"2410 Pool St",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 6020",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916555,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gMs2FemEHz812yeUOJmUR_64.788031_-147.331096@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5f43e270a500b9fd9664f85cd08007c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916555,
+            "region_id":85688573,
+            "venue_id":"102187807"
+        }
+    ],
+    "wof:id":"102187807",
+    "wof:lastmodified":1449068159,
+    "wof:name":"Her Leasing & Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.331096,64.788031,-147.331096,64.788031],
+  "geometry": {"coordinates":[-147.331096,64.788031],"type":"Point"}
+}

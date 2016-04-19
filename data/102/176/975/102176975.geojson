@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.71294,64.825231,-147.71294,64.825231",
+    "geom:latitude":64.825231,
+    "geom:longitude":-147.71294,
+    "iso:country":"US",
+    "sg:address":"2403 S Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 2224",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dceiLgL5N81ZiYKH6c2x4_64.825231_-147.712940@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f4e124d3cdf3a273e361c26b7b7f1413",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102176975"
+        }
+    ],
+    "wof:id":"102176975",
+    "wof:lastmodified":1449069348,
+    "wof:name":"Fairbanks Pawn & 2nd Hand",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.71294,64.825231,-147.71294,64.825231],
+  "geometry": {"coordinates":[-147.71294,64.825231],"type":"Point"}
+}

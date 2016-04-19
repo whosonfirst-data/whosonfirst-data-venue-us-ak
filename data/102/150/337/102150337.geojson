@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.720508,61.103105,-149.720508,61.103105",
+    "geom:latitude":61.103105,
+    "geom:longitude":-149.720508,
+    "iso:country":"US",
+    "sg:address":"8701 Spendlove Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 8234",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873747,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79HaVmyfQ4uSStlrlZfZPF_61.103105_-149.720508@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c46cc34186a22fddfe9ad2a6f01e28d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873747,
+            "region_id":85688573,
+            "venue_id":"102150337"
+        }
+    ],
+    "wof:id":"102150337",
+    "wof:lastmodified":1449067791,
+    "wof:name":"H4M Corp",
+    "wof:parent_id":85873747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.720508,61.103105,-149.720508,61.103105],
+  "geometry": {"coordinates":[-149.720508,61.103105],"type":"Point"}
+}

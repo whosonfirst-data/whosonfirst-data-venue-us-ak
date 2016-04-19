@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.412123,58.300437,-134.412123,58.300437",
+    "geom:latitude":58.300437,
+    "geom:longitude":-134.412123,
+    "iso:country":"US",
+    "sg:address":"324 Willoughby Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 463 2624",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XWVjkMu7sM7VyRsRHeOLa_58.300437_-134.412123@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"46dfbbac1f14b52ac77314cd44fe2186",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102173001"
+        }
+    ],
+    "wof:id":"102173001",
+    "wof:lastmodified":1449068263,
+    "wof:name":"Alaska Legal Research",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.412123,58.300437,-134.412123,58.300437],
+  "geometry": {"coordinates":[-134.412123,58.300437],"type":"Point"}
+}

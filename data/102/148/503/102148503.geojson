@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.838167,61.103826,-149.838167,61.103826",
+    "geom:latitude":61.103826,
+    "geom:longitude":-149.838167,
+    "iso:country":"US",
+    "sg:address":"2200 Steeple Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 2328",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "specialty",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CWcArYA748iEUeVujPPaW_61.103826_-149.838167@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4a3270d66ec93907815c5db14366505c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102148503"
+        }
+    ],
+    "wof:id":"102148503",
+    "wof:lastmodified":1449069786,
+    "wof:name":"Jrf Enterprises",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.838167,61.103826,-149.838167,61.103826],
+  "geometry": {"coordinates":[-149.838167,61.103826],"type":"Point"}
+}

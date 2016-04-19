@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.804999,64.835236,-147.804999,64.835236",
+    "geom:latitude":64.835236,
+    "geom:longitude":-147.804999,
+    "iso:country":"US",
+    "sg:address":"1316 Bedrock St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 6241",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:website":"www.klondike-inn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yqrc8byCvxtyQc9N6HoMM_64.835236_-147.804999@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6dff8ac358f6620f59846bc89b841356",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102193709"
+        }
+    ],
+    "wof:id":"102193709",
+    "wof:lastmodified":1449068192,
+    "wof:name":"Klondike Inn",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.804999,64.835236,-147.804999,64.835236],
+  "geometry": {"coordinates":[-147.804999,64.835236],"type":"Point"}
+}

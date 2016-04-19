@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.89124,64.807301,-147.89124,64.807301",
+    "geom:latitude":64.807301,
+    "geom:longitude":-147.89124,
+    "iso:country":"US",
+    "sg:address":"5855 Airport Industrial Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 0062",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:website":"www.aerofuel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916609,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MbB426LS8uKeyOLW9d3yS_64.807301_-147.891240@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f912b433e374037c85373c8c720f79da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "region_id":85688573,
+            "venue_id":"102148639"
+        }
+    ],
+    "wof:id":"102148639",
+    "wof:lastmodified":1449069786,
+    "wof:name":"Alaska Aerofuel Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.89124,64.807301,-147.89124,64.807301],
+  "geometry": {"coordinates":[-147.89124,64.807301],"type":"Point"}
+}

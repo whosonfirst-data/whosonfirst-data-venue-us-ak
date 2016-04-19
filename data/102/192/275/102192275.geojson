@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.774329,61.133432,-149.774329,61.133432",
+    "geom:latitude":61.133432,
+    "geom:longitude":-149.774329,
+    "iso:country":"US",
+    "sg:address":"9701 Birch Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 346 3151",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873745,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3On1G6Qb2Dips7TNvRWdgu_61.133432_-149.774329@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c8573ae4f392228f0be9da00ce00bbb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873745,
+            "region_id":85688573,
+            "venue_id":"102192275"
+        }
+    ],
+    "wof:id":"102192275",
+    "wof:lastmodified":1449069503,
+    "wof:name":"AAA Window Cleaning Inc",
+    "wof:parent_id":85873745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.774329,61.133432,-149.774329,61.133432],
+  "geometry": {"coordinates":[-149.774329,61.133432],"type":"Point"}
+}

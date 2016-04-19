@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.309905,61.609936,-149.309905,61.609936",
+    "geom:latitude":61.609936,
+    "geom:longitude":-149.309905,
+    "iso:country":"US",
+    "sg:address":"2741 Cottonwood Loop",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 3759",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916225,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2j4uINOOMkEI7nwJTXAcA9_61.609936_-149.309905@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"94da0a779aec1f6e52cb956034db6925",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916225,
+            "region_id":85688573,
+            "venue_id":"102155591"
+        }
+    ],
+    "wof:id":"102155591",
+    "wof:lastmodified":1449069743,
+    "wof:name":"S & S Tile Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.309905,61.609936,-149.309905,61.609936],
+  "geometry": {"coordinates":[-149.309905,61.609936],"type":"Point"}
+}

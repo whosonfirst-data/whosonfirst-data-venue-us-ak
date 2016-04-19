@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.891372,61.218793,-149.891372,61.218793",
+    "geom:latitude":61.218793,
+    "geom:longitude":-149.891372,
+    "iso:country":"US",
+    "sg:address":"325 E St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 5272",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NOuOkYEl2og6JhxUsrSOx_61.218793_-149.891372@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"25588aba6291a5962bfb6cf8f0416f48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102164489"
+        }
+    ],
+    "wof:id":"102164489",
+    "wof:lastmodified":1449068090,
+    "wof:name":"Lehi's Old Fashion Barber Shop",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.891372,61.218793,-149.891372,61.218793],
+  "geometry": {"coordinates":[-149.891372,61.218793],"type":"Point"}
+}

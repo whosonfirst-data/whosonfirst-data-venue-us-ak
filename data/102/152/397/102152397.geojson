@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.900182,61.171329,-149.900182,61.171329",
+    "geom:latitude":61.171329,
+    "geom:longitude":-149.900182,
+    "iso:country":"US",
+    "sg:address":"5304 N Star St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Arcade",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 7004",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "amusement",
+        "devices"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yWlfeIlJbM36NzwdOtJ3m_61.171329_-149.900182@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6e78b9fe5bfa1af18ac1b2bd22d795bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102152397"
+        }
+    ],
+    "wof:id":"102152397",
+    "wof:lastmodified":1449069635,
+    "wof:name":"S & W Entertainment",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.900182,61.171329,-149.900182,61.171329],
+  "geometry": {"coordinates":[-149.900182,61.171329],"type":"Point"}
+}

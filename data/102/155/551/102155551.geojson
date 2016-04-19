@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.850556,61.176003,-149.850556,61.176003",
+    "geom:latitude":61.176003,
+    "geom:longitude":-149.850556,
+    "iso:country":"US",
+    "sg:address":"1747 Wickersham Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 6028",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FhodyFZwebLuS2gNrXoBd_61.176003_-149.850556@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7e1a9a983cb3058213c9b6b9228e17bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102155551"
+        }
+    ],
+    "wof:id":"102155551",
+    "wof:lastmodified":1449069743,
+    "wof:name":"Thania's Adult Foster Care",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.850556,61.176003,-149.850556,61.176003],
+  "geometry": {"coordinates":[-149.850556,61.176003],"type":"Point"}
+}

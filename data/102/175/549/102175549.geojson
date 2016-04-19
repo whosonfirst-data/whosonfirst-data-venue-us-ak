@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.888486,61.16285,-149.888486,61.16285",
+    "geom:latitude":61.16285,
+    "geom:longitude":-149.888486,
+    "iso:country":"US",
+    "sg:address":"6108 Mackay St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 3100",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aeZy3Fm6aiRqFwTyZCZ8d_61.162850_-149.888486@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7c3b917c024aa19a91cb3fb393045bdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102175549"
+        }
+    ],
+    "wof:id":"102175549",
+    "wof:lastmodified":1449069464,
+    "wof:name":"Alaska Elevator Co",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.888486,61.16285,-149.888486,61.16285],
+  "geometry": {"coordinates":[-149.888486,61.16285],"type":"Point"}
+}

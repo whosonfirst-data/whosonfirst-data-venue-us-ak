@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.836645,61.125779,-149.836645,61.125779",
+    "geom:latitude":61.125779,
+    "geom:longitude":-149.836645,
+    "iso:country":"US",
+    "sg:address":"10637 Spruce Vw Lp",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 8381",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tjJzYPdTTv4kIK30eIzkT_61.125779_-149.836645@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"16ecb0dafbb793edb1860b750efb2317",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102148041"
+        }
+    ],
+    "wof:id":"102148041",
+    "wof:lastmodified":1449069785,
+    "wof:name":"Smr Janitoral Svc",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.836645,61.125779,-149.836645,61.125779],
+  "geometry": {"coordinates":[-149.836645,61.125779],"type":"Point"}
+}

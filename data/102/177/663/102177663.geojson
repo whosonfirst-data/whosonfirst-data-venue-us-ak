@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.826461,61.10511,-149.826461,61.10511",
+    "geom:latitude":61.10511,
+    "geom:longitude":-149.826461,
+    "iso:country":"US",
+    "sg:address":"12611 Gander St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 8555",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fuKrCKSloYH4tQx7Sywyf_61.105110_-149.826461@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f6bfc81e450c2beda4e25df18d55fef9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102177663"
+        }
+    ],
+    "wof:id":"102177663",
+    "wof:lastmodified":1449070209,
+    "wof:name":"Vega Electric",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.826461,61.10511,-149.826461,61.10511],
+  "geometry": {"coordinates":[-149.826461,61.10511],"type":"Point"}
+}

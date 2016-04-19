@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.236141,60.571769,-151.236141,60.571769",
+    "geom:latitude":60.571769,
+    "geom:longitude":-151.236141,
+    "iso:country":"US",
+    "sg:address":"403 N Willow St",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 5700",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ITUcXt8UnoAK0Upw9CiV5_60.571769_-151.236141@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5cb6050176976eb515d29cad95452c9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102189799"
+        }
+    ],
+    "wof:id":"102189799",
+    "wof:lastmodified":1449069498,
+    "wof:name":"Alaska Flying Network",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.236141,60.571769,-151.236141,60.571769],
+  "geometry": {"coordinates":[-151.236141,60.571769],"type":"Point"}
+}

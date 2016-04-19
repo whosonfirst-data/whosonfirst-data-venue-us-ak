@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.778321,61.219359,-149.778321,61.219359",
+    "geom:latitude":61.219359,
+    "geom:longitude":-149.778321,
+    "iso:country":"US",
+    "sg:address":"341 Boniface Pkwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 338 7350",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uZ08uxX00u7EqnD3yWnDU_61.219359_-149.778321@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"838b491568b73ac55432acef88724da3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102157979"
+        }
+    ],
+    "wof:id":"102157979",
+    "wof:lastmodified":1449069832,
+    "wof:name":"2 Go Mart-Tesoro Northstore",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.778321,61.219359,-149.778321,61.219359],
+  "geometry": {"coordinates":[-149.778321,61.219359],"type":"Point"}
+}

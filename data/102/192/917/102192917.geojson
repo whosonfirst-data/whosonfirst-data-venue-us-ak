@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.720187,61.136721,-149.720187,61.136721",
+    "geom:latitude":61.136721,
+    "geom:longitude":-149.720187,
+    "iso:country":"US",
+    "sg:address":"9230 Buddy Werner Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 4466",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "residential",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873747,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HivONLZbioNeQtSWSGUhe_61.136721_-149.720187@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c77097e73fa6504b1fd5947472ecd844",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873747,
+            "region_id":85688573,
+            "venue_id":"102192917"
+        }
+    ],
+    "wof:id":"102192917",
+    "wof:lastmodified":1449069505,
+    "wof:name":"Kam Kam LLC",
+    "wof:parent_id":85873747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.720187,61.136721,-149.720187,61.136721],
+  "geometry": {"coordinates":[-149.720187,61.136721],"type":"Point"}
+}

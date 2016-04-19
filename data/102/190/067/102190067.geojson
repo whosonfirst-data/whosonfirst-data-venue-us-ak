@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-165.409664,64.497922,-165.409664,64.497922",
+    "geom:latitude":64.497922,
+    "geom:longitude":-165.409664,
+    "iso:country":"US",
+    "sg:address":"110 Front St",
+    "sg:city":"Nome",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 443 2550",
+    "sg:postcode":"99762",
+    "sg:province":"AK",
+    "sg:tags":[
+        "television"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915489,
+        85633793,
+        85688573,
+        102081401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ec4NWQt6uSle3PqrGuRbT_64.497922_-165.409664@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fb53339607071a9944f690bb0aafc59b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081401,
+            "locality_id":85915489,
+            "region_id":85688573,
+            "venue_id":"102190067"
+        }
+    ],
+    "wof:id":"102190067",
+    "wof:lastmodified":1449070034,
+    "wof:name":"GCI",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-165.409664,64.497922,-165.409664,64.497922],
+  "geometry": {"coordinates":[-165.409664,64.497922],"type":"Point"}
+}

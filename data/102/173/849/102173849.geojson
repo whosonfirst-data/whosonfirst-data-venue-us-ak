@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.819195,64.832869,-147.819195,64.832869",
+    "geom:latitude":64.832869,
+    "geom:longitude":-147.819195,
+    "iso:country":"US",
+    "sg:address":"3704 Erickson Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 1110",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nWrTw4P8FHXmB7LzT8kAL_64.832869_-147.819195@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db359ee90f1138b7d2679aefc80d09fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102173849"
+        }
+    ],
+    "wof:id":"102173849",
+    "wof:lastmodified":1449068262,
+    "wof:name":"Fairbanks Funeral Home",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.819195,64.832869,-147.819195,64.832869],
+  "geometry": {"coordinates":[-147.819195,64.832869],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.447391,59.235251,-135.447391,59.235251",
+    "geom:latitude":59.235251,
+    "geom:longitude":-135.447391,
+    "iso:country":"US",
+    "sg:address":"315 Main St",
+    "sg:city":"Haines",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 766 2811",
+    "sg:postcode":"99827",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842771,
+        85633793,
+        85916629,
+        102083767,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44ySNTo9BrdU7D54Rg7kyM_59.235251_-135.447391@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0daa0c06823034ab67f04253d09f5f49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083767,
+            "locality_id":85916629,
+            "neighbourhood_id":85842771,
+            "region_id":85688573,
+            "venue_id":"102168553"
+        }
+    ],
+    "wof:id":"102168553",
+    "wof:lastmodified":1449069003,
+    "wof:name":"Haines Elementary",
+    "wof:parent_id":85842771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.447391,59.235251,-135.447391,59.235251],
+  "geometry": {"coordinates":[-135.447391,59.235251],"type":"Point"}
+}

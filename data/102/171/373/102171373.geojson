@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.760835,64.863749,-147.760835,64.863749",
+    "geom:latitude":64.863749,
+    "geom:longitude":-147.760835,
+    "iso:country":"US",
+    "sg:address":"1800 College Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 8800",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869043,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68OvIVG4q3C3CvOnHmPSk6_64.863749_-147.760835@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"84b2e8d3cccfed34f4cc9710ca7744fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85869043,
+            "region_id":85688573,
+            "venue_id":"102171373"
+        }
+    ],
+    "wof:id":"102171373",
+    "wof:lastmodified":1449070223,
+    "wof:name":"North Star Ballet School",
+    "wof:parent_id":85869043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.760835,64.863749,-147.760835,64.863749],
+  "geometry": {"coordinates":[-147.760835,64.863749],"type":"Point"}
+}

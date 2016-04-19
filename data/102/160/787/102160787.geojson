@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.858742,61.188676,-149.858742,61.188676",
+    "geom:latitude":61.188676,
+    "geom:longitude":-149.858742,
+    "iso:country":"US",
+    "sg:address":"3546 Latouche St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 9229",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CYQHD8gcNJSOoXUbMANX5_61.188676_-149.858742@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7500632c5c53d4831bc5229701a6681a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102160787"
+        }
+    ],
+    "wof:id":"102160787",
+    "wof:lastmodified":1449069775,
+    "wof:name":"Providence Family Practice Ctr",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.858742,61.188676,-149.858742,61.188676],
+  "geometry": {"coordinates":[-149.858742,61.188676],"type":"Point"}
+}

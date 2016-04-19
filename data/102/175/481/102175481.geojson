@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.4464,59.231508,-135.4464,59.231508",
+    "geom:latitude":59.231508,
+    "geom:longitude":-135.4464,
+    "iso:country":"US",
+    "sg:address":"270 2nd Ave",
+    "sg:city":"Haines",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 766 2329",
+    "sg:postcode":"99827",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842771,
+        85633793,
+        85916629,
+        102083767,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10OgtCDl3q6bBcjW2Wkxvb_59.231508_-135.446400@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"acbb8217e70f2a46b3c865ffde380410",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083767,
+            "locality_id":85916629,
+            "neighbourhood_id":85842771,
+            "region_id":85688573,
+            "venue_id":"102175481"
+        }
+    ],
+    "wof:id":"102175481",
+    "wof:lastmodified":1449069470,
+    "wof:name":"Dusty Trails Apartments",
+    "wof:parent_id":85842771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.4464,59.231508,-135.4464,59.231508],
+  "geometry": {"coordinates":[-135.4464,59.231508],"type":"Point"}
+}

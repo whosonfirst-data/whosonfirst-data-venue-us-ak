@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.863895,61.124517,-149.863895,61.124517",
+    "geom:latitude":61.124517,
+    "geom:longitude":-149.863895,
+    "iso:country":"US",
+    "sg:address":"10560 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 278 4287",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:website":"www.firstgroupamerica.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PaoRrbm0nQVpxiER9rgdr_61.124517_-149.863895@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a964cc4bc1b7c9ab222366696a4b4dc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102177219"
+        }
+    ],
+    "wof:id":"102177219",
+    "wof:lastmodified":1449070209,
+    "wof:name":"First Student",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.863895,61.124517,-149.863895,61.124517],
+  "geometry": {"coordinates":[-149.863895,61.124517],"type":"Point"}
+}

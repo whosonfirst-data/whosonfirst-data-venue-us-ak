@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.190648,60.563211,-151.190648,60.563211",
+    "geom:latitude":60.563211,
+    "geom:longitude":-151.190648,
+    "iso:country":"US",
+    "sg:address":"302 Baker St",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 4294",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "water",
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SqmSe6IjJIaRZ8SPTs9BD_60.563211_-151.190648@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"12020d15b893607e7e2c95f0d763503b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102166621"
+        }
+    ],
+    "wof:id":"102166621",
+    "wof:lastmodified":1449069088,
+    "wof:name":"Peninsula Drilling",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.190648,60.563211,-151.190648,60.563211],
+  "geometry": {"coordinates":[-151.190648,60.563211],"type":"Point"}
+}

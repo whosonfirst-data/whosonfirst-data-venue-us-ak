@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.854438,64.826573,-147.854438,64.826573",
+    "geom:latitude":64.826573,
+    "geom:longitude":-147.854438,
+    "iso:country":"US",
+    "sg:address":"6104 Old Airport Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 0905",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916609,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cnSEWe11YsYRimef6FhUA_64.826573_-147.854438@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"50a29ab76d144032450711646039ef34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "region_id":85688573,
+            "venue_id":"102192103"
+        }
+    ],
+    "wof:id":"102192103",
+    "wof:lastmodified":1449069503,
+    "wof:name":"Empire Airlines",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.854438,64.826573,-147.854438,64.826573],
+  "geometry": {"coordinates":[-147.854438,64.826573],"type":"Point"}
+}

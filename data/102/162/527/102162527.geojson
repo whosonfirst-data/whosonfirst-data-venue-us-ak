@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.778519,64.804407,-147.778519,64.804407",
+    "geom:latitude":64.804407,
+    "geom:longitude":-147.778519,
+    "iso:country":"US",
+    "sg:address":"4594 Peger Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 7777",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916551,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d8ADx2zMlUAle4WGm1Atf_64.804407_-147.778519@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c188348533b550f958c1f71bea47f231",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916551,
+            "region_id":85688573,
+            "venue_id":"102162527"
+        }
+    ],
+    "wof:id":"102162527",
+    "wof:lastmodified":1449069823,
+    "wof:name":"B & B Excavation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.778519,64.804407,-147.778519,64.804407],
+  "geometry": {"coordinates":[-147.778519,64.804407],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.872396,61.231077,-149.872396,61.231077",
+    "geom:latitude":61.231077,
+    "geom:longitude":-149.872396,
+    "iso:country":"US",
+    "sg:address":"867 E Loop Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 1119",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873711,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pKnFmUHbziasc5drd3IES_61.231077_-149.872396@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cbb6667656a63e266a869af69e26fbb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873711,
+            "region_id":85688573,
+            "venue_id":"102180035"
+        }
+    ],
+    "wof:id":"102180035",
+    "wof:lastmodified":1449067877,
+    "wof:name":"Hollywood Liquor Store",
+    "wof:parent_id":85873711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.872396,61.231077,-149.872396,61.231077],
+  "geometry": {"coordinates":[-149.872396,61.231077],"type":"Point"}
+}

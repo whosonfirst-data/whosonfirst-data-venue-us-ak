@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.318785,59.455115,-135.318785,59.455115",
+    "geom:latitude":59.455115,
+    "geom:longitude":-135.318785,
+    "iso:country":"US",
+    "sg:address":"456 3rd",
+    "sg:city":"Skagway",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 983 2131",
+    "sg:postcode":"99840",
+    "sg:province":"AK",
+    "sg:tags":[
+        "hostel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85917083,
+        85633793,
+        85688573,
+        102081007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2U9FvzlAVODgcv2rrsOHHr_59.455115_-135.318785@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"07a0426bfc3fb9f83118e5efee8f09aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081007,
+            "locality_id":85917083,
+            "region_id":85688573,
+            "venue_id":"102181713"
+        }
+    ],
+    "wof:id":"102181713",
+    "wof:lastmodified":1449069235,
+    "wof:name":"Skagway Home Hostel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.318785,59.455115,-135.318785,59.455115],
+  "geometry": {"coordinates":[-135.318785,59.455115],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.845745,64.812296,-147.845745,64.812296",
+    "geom:latitude":64.812296,
+    "geom:longitude":-147.845745,
+    "iso:country":"US",
+    "sg:address":"3788 University Ave S",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 8359",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916551,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BquanG7MXc6SwH7zID39r_64.812296_-147.845745@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"417763213474d42e510d324e6da3f4b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916551,
+            "region_id":85688573,
+            "venue_id":"102172143"
+        }
+    ],
+    "wof:id":"102172143",
+    "wof:lastmodified":1449068737,
+    "wof:name":"Bellair Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.845745,64.812296,-147.845745,64.812296],
+  "geometry": {"coordinates":[-147.845745,64.812296],"type":"Point"}
+}

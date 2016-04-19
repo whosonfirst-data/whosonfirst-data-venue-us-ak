@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.715138,64.859601,-147.715138,64.859601",
+    "geom:latitude":64.859601,
+    "geom:longitude":-147.715138,
+    "iso:country":"US",
+    "sg:address":"17 Anna Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 1927",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830247,
+        85633793,
+        85916559,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31KlY5aXLnStfOiMn0zxHV_64.859601_-147.715138@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"58d037d2e7183f8f88a5b04b88ea2a79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "neighbourhood_id":85830247,
+            "region_id":85688573,
+            "venue_id":"102177599"
+        }
+    ],
+    "wof:id":"102177599",
+    "wof:lastmodified":1449070208,
+    "wof:name":"International Beauty Shop",
+    "wof:parent_id":85830247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.715138,64.859601,-147.715138,64.859601],
+  "geometry": {"coordinates":[-147.715138,64.859601],"type":"Point"}
+}

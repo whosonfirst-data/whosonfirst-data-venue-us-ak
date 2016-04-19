@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.376957,56.469466,-132.376957,56.469466",
+    "geom:latitude":56.469466,
+    "geom:longitude":-132.376957,
+    "iso:country":"US",
+    "sg:address":"431 Zimovia Hwy",
+    "sg:city":"Wrangell",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 874 3304",
+    "sg:postcode":"99929",
+    "sg:province":"AK",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916111,
+        85633793,
+        85688573,
+        102081901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NXhNxCk4RotZhkV8ZpsXp_56.469466_-132.376957@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e35ff53bbeefdf690e4919ba4ac49497",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081901,
+            "locality_id":85916111,
+            "region_id":85688573,
+            "venue_id":"102195057"
+        }
+    ],
+    "wof:id":"102195057",
+    "wof:lastmodified":1449069364,
+    "wof:name":"Wrangell Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.376957,56.469466,-132.376957,56.469466],
+  "geometry": {"coordinates":[-132.376957,56.469466],"type":"Point"}
+}

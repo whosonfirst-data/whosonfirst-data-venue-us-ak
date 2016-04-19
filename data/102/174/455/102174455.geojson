@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.826694,64.822206,-147.826694,64.822206",
+    "geom:latitude":64.822206,
+    "geom:longitude":-147.826694,
+    "iso:country":"US",
+    "sg:address":"3450 University Ave S",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 1115",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916551,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wvQQF2Y6QVtBsdK9N3dNi_64.822206_-147.826694@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bb74c812836559264ea2a99191b37b99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916551,
+            "region_id":85688573,
+            "venue_id":"102174455"
+        }
+    ],
+    "wof:id":"102174455",
+    "wof:lastmodified":1449068141,
+    "wof:name":"Arctic Air Alaska Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.826694,64.822206,-147.826694,64.822206],
+  "geometry": {"coordinates":[-147.826694,64.822206],"type":"Point"}
+}

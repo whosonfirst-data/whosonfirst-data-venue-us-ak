@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.563869,61.33482,-149.563869,61.33482",
+    "geom:latitude":61.33482,
+    "geom:longitude":-149.563869,
+    "iso:country":"US",
+    "sg:address":"12621 Old Glenn Hwy",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 694 4788",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XbQ3V9yb61qePSzF2auHC_61.334820_-149.563869@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5ea4ff41fc74943e70c5f2eff5c6efab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102152005"
+        }
+    ],
+    "wof:id":"102152005",
+    "wof:lastmodified":1449069637,
+    "wof:name":"Hands Off Touchless Car Wash",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.563869,61.33482,-149.563869,61.33482],
+  "geometry": {"coordinates":[-149.563869,61.33482],"type":"Point"}
+}

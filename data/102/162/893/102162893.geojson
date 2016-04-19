@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.369323,64.780059,-147.369323,64.780059",
+    "geom:latitude":64.780059,
+    "geom:longitude":-147.369323,
+    "iso:country":"US",
+    "sg:address":"2750 Regal Ave",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 7625",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916555,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1p9MqQGpUXF2OlKSM8yyvS_64.780059_-147.369323@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"16feb24817c4b01004da8bd391b980c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916555,
+            "region_id":85688573,
+            "venue_id":"102162893"
+        }
+    ],
+    "wof:id":"102162893",
+    "wof:lastmodified":1449069824,
+    "wof:name":"Rocks Heating Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.369323,64.780059,-147.369323,64.780059],
+  "geometry": {"coordinates":[-147.369323,64.780059],"type":"Point"}
+}

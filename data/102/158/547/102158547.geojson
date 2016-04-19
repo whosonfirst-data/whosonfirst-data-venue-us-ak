@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.116944,61.599497,-149.116944,61.599497",
+    "geom:latitude":61.599497,
+    "geom:longitude":-149.116944,
+    "iso:country":"US",
+    "sg:address":"231 W Evergreen Ave",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 3709",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915577,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yxyj8HMSZWYKXwNeRKBIS_61.599497_-149.116944@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a7083333710c1bc79262a4216ef7abf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915577,
+            "region_id":85688573,
+            "venue_id":"102158547"
+        }
+    ],
+    "wof:id":"102158547",
+    "wof:lastmodified":1449069393,
+    "wof:name":"Palmer Building Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.116944,61.599497,-149.116944,61.599497],
+  "geometry": {"coordinates":[-149.116944,61.599497],"type":"Point"}
+}

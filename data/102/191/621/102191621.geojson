@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.80508,61.224024,-149.80508,61.224024",
+    "geom:latitude":61.224024,
+    "geom:longitude":-149.80508,
+    "iso:country":"US",
+    "sg:address":"4035 Mountain View Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 7799",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KETgFp2hjdQzpSwOeBImK_61.224024_-149.805080@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a9a92e9d34ec66d11dc4d87cd0009290",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102191621"
+        }
+    ],
+    "wof:id":"102191621",
+    "wof:lastmodified":1449069203,
+    "wof:name":"Hamburger House",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.80508,61.224024,-149.80508,61.224024],
+  "geometry": {"coordinates":[-149.80508,61.224024],"type":"Point"}
+}

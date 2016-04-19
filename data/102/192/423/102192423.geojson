@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.412567,58.300787,-134.412567,58.300787",
+    "geom:latitude":58.300787,
+    "geom:longitude":-134.412567,
+    "iso:country":"US",
+    "sg:address":"400 Willoughby Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 465 4563",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Rc91mKwFXFDdmQd8u7Zxk_58.300787_-134.412567@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"75b9308e3cec935bd7f402caec765ec7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102192423"
+        }
+    ],
+    "wof:id":"102192423",
+    "wof:lastmodified":1449069503,
+    "wof:name":"Parks & Outdoor Recreation Div",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.412567,58.300787,-134.412567,58.300787],
+  "geometry": {"coordinates":[-134.412567,58.300787],"type":"Point"}
+}

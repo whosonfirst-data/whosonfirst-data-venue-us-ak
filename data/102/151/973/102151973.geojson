@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.654046,55.345267,-131.654046,55.345267",
+    "geom:latitude":55.345267,
+    "geom:longitude":-131.654046,
+    "iso:country":"US",
+    "sg:address":"312 Young St",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 1927",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0H6Jc7xiavvnRLf4GWYzqk_55.345267_-131.654046@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e06e0dd1894a19a34170e19840b0525e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102151973"
+        }
+    ],
+    "wof:id":"102151973",
+    "wof:lastmodified":1449067782,
+    "wof:name":"Johansen Consulting Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.654046,55.345267,-131.654046,55.345267],
+  "geometry": {"coordinates":[-131.654046,55.345267],"type":"Point"}
+}

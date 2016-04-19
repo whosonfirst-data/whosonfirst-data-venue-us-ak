@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.871076,61.209756,-149.871076,61.209756",
+    "geom:latitude":61.209756,
+    "geom:longitude":-149.871076,
+    "iso:country":"US",
+    "sg:address":"605 E 13th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 6431",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:website":"www.vfgrace.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07QnKp7V9JcH1ZlIYOog5G_61.209756_-149.871076@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d0f9e18ef0d47b8b86377ac5b65b1db0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102189945"
+        }
+    ],
+    "wof:id":"102189945",
+    "wof:lastmodified":1449069496,
+    "wof:name":"V F Grace Inc",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.871076,61.209756,-149.871076,61.209756],
+  "geometry": {"coordinates":[-149.871076,61.209756],"type":"Point"}
+}

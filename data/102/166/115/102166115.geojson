@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.912079,61.139306,-149.912079,61.139306",
+    "geom:latitude":61.139306,
+    "geom:longitude":-149.912079,
+    "iso:country":"US",
+    "sg:address":"1820 W Dimond Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 3497",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tVOzJnEruOcqMtaG4T2ID_61.139306_-149.912079@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3cfe478d46ee70b4ed839843204168ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102166115"
+        }
+    ],
+    "wof:id":"102166115",
+    "wof:lastmodified":1449069084,
+    "wof:name":"Dimond Auto & Truck Svc Ctr",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.912079,61.139306,-149.912079,61.139306],
+  "geometry": {"coordinates":[-149.912079,61.139306],"type":"Point"}
+}

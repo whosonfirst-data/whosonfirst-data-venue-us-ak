@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-150.984477,60.500573,-150.984477,60.500573",
+    "geom:latitude":60.500573,
+    "geom:longitude":-150.984477,
+    "iso:country":"US",
+    "sg:address":"35910 S Jawle St",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 260 3333",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916845,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XtVYuXRf2cRay99sDFuW6_60.500573_-150.984477@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"259a44923de2eccfa31e89f69b1967cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916845,
+            "region_id":85688573,
+            "venue_id":"102172337"
+        }
+    ],
+    "wof:id":"102172337",
+    "wof:lastmodified":1449068736,
+    "wof:name":"Soldotna-Sterling Funeral Home",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-150.984477,60.500573,-150.984477,60.500573],
+  "geometry": {"coordinates":[-150.984477,60.500573],"type":"Point"}
+}

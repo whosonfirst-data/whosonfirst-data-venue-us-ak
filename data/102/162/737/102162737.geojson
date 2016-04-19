@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.791335,61.100169,-149.791335,61.100169",
+    "geom:latitude":61.100169,
+    "geom:longitude":-149.791335,
+    "iso:country":"US",
+    "sg:address":"13350 Ridgewood Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 2888",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "concrete",
+        "work"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3izpyfd7czBoWAvVwXdRCG_61.100169_-149.791335@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"567ab72db54953bee8690ec934894a06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102162737"
+        }
+    ],
+    "wof:id":"102162737",
+    "wof:lastmodified":1449069821,
+    "wof:name":"Arctic Sun Concrete Cutting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.791335,61.100169,-149.791335,61.100169],
+  "geometry": {"coordinates":[-149.791335,61.100169],"type":"Point"}
+}

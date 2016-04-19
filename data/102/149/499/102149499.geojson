@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.331096,64.788072,-147.331096,64.788072",
+    "geom:latitude":64.788072,
+    "geom:longitude":-147.331096,
+    "iso:country":"US",
+    "sg:address":"2500 Pool St",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 8277",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "emulsion",
+        "cutback",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916555,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kVm5STWuJrbpARoSWUClY_64.788072_-147.331096@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"742b87d68608a3894ff96ca9dd821973",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916555,
+            "region_id":85688573,
+            "venue_id":"102149499"
+        }
+    ],
+    "wof:id":"102149499",
+    "wof:lastmodified":1449067768,
+    "wof:name":"Emulsion Products of Alaska",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.331096,64.788072,-147.331096,64.788072],
+  "geometry": {"coordinates":[-147.331096,64.788072],"type":"Point"}
+}

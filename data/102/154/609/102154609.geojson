@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.946586,61.19257,-149.946586,61.19257",
+    "geom:latitude":61.19257,
+    "geom:longitude":-149.946586,
+    "iso:country":"US",
+    "sg:address":"3201 W 31st Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 9299",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zCSjeFwgKmGNdVIGDs3DK_61.192570_-149.946586@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6b9ca3ebac1a11e171261b4c774b34b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102154609"
+        }
+    ],
+    "wof:id":"102154609",
+    "wof:lastmodified":1449070243,
+    "wof:name":"Circumpolar Expeditions",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.946586,61.19257,-149.946586,61.19257],
+  "geometry": {"coordinates":[-149.946586,61.19257],"type":"Point"}
+}

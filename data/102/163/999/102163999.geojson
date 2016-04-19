@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.858069,61.170095,-149.858069,61.170095",
+    "geom:latitude":61.170095,
+    "geom:longitude":-149.858069,
+    "iso:country":"US",
+    "sg:address":"1111 E 56th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 343 6262",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "city",
+        "program"
+    ],
+    "sg:website":"www.ci.anchorage.ak.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mXAALNrqdJuSRKq9PdHBe_61.170095_-149.858069@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e4599e15d94eb8a6870edb32cdb23e87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102163999"
+        }
+    ],
+    "wof:id":"102163999",
+    "wof:lastmodified":1449070164,
+    "wof:name":"Solid Waste Svc",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.858069,61.170095,-149.858069,61.170095],
+  "geometry": {"coordinates":[-149.858069,61.170095],"type":"Point"}
+}

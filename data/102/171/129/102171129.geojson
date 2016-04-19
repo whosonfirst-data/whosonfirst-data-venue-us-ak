@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.872756,61.110349,-149.872756,61.110349",
+    "geom:latitude":61.110349,
+    "geom:longitude":-149.872756,
+    "iso:country":"US",
+    "sg:address":"500 Dailey Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 3111",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873755,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73tQnRqJQN4reDZnvdh3AX_61.110349_-149.872756@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"273a33d59a962ed104c4c98754590648",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873755,
+            "region_id":85688573,
+            "venue_id":"102171129"
+        }
+    ],
+    "wof:id":"102171129",
+    "wof:lastmodified":1449070224,
+    "wof:name":"Teddy Bear House B & B",
+    "wof:parent_id":85873755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.872756,61.110349,-149.872756,61.110349],
+  "geometry": {"coordinates":[-149.872756,61.110349],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.822745,61.112605,-149.822745,61.112605",
+    "geom:latitude":61.112605,
+    "geom:longitude":-149.822745,
+    "iso:country":"US",
+    "sg:address":"11641 Wagner St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 677 2102",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "adjuster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2i7TWkNZAMyWkgHngmJBvz_61.112605_-149.822745@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d63914ba09ad58e13703d63b626e0263",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102178493"
+        }
+    ],
+    "wof:id":"102178493",
+    "wof:lastmodified":1449069529,
+    "wof:name":"Alaska's Premier Adjusting",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.822745,61.112605,-149.822745,61.112605],
+  "geometry": {"coordinates":[-149.822745,61.112605],"type":"Point"}
+}

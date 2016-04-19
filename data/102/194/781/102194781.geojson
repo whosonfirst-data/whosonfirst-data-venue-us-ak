@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.812569,61.094099,-149.812569,61.094099",
+    "geom:latitude":61.094099,
+    "geom:longitude":-149.812569,
+    "iso:country":"US",
+    "sg:address":"3700 de Armoun Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 5176",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YnNzCqPBW6G6XWBYwTGGs_61.094099_-149.812569@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d5425b28b6dfbf3c8b9f65251b6cded7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102194781"
+        }
+    ],
+    "wof:id":"102194781",
+    "wof:lastmodified":1449069827,
+    "wof:name":"Grandma's House",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.812569,61.094099,-149.812569,61.094099],
+  "geometry": {"coordinates":[-149.812569,61.094099],"type":"Point"}
+}

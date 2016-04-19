@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.863875,61.115847,-149.863875,61.115847",
+    "geom:latitude":61.115847,
+    "geom:longitude":-149.863875,
+    "iso:country":"US",
+    "sg:address":"11400 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 336 2929",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Rvv8uIjEvdLJkZodYW7QY_61.115847_-149.863875@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2cf1dcae22bd271831c0ddd5e2e76383",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102188935"
+        }
+    ],
+    "wof:id":"102188935",
+    "wof:lastmodified":1449068946,
+    "wof:name":"Greg & Kathy's Barber Shop",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.863875,61.115847,-149.863875,61.115847],
+  "geometry": {"coordinates":[-149.863875,61.115847],"type":"Point"}
+}

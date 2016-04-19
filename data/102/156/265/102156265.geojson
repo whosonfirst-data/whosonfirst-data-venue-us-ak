@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.734723,55.38427,-131.734723,55.38427",
+    "geom:latitude":55.38427,
+    "geom:longitude":-131.734723,
+    "iso:country":"US",
+    "sg:address":"34 Ridge Rd N",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 247 5521",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "heavy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68SBGoeLeO1ZgD0xcAH0wV_55.384270_-131.734723@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c3d82036fbf434db3b5d8b00f4d00c73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102156265"
+        }
+    ],
+    "wof:id":"102156265",
+    "wof:lastmodified":1449068282,
+    "wof:name":"Smart Construction Mobile",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.734723,55.38427,-131.734723,55.38427],
+  "geometry": {"coordinates":[-131.734723,55.38427],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.660423,55.346186,-131.660423,55.346186",
+    "geom:latitude":55.346186,
+    "geom:longitude":-131.660423,
+    "iso:country":"US",
+    "sg:address":"1430 Tongass Ave",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 247 2847",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zPYVIM57Ovh7rxMGvPzSs_55.346186_-131.660423@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3fa3d79fae70d18ae6539db6c1e98578",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102179309"
+        }
+    ],
+    "wof:id":"102179309",
+    "wof:lastmodified":1449069942,
+    "wof:name":"Ketchikan Pest Control",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.660423,55.346186,-131.660423,55.346186],
+  "geometry": {"coordinates":[-131.660423,55.346186],"type":"Point"}
+}

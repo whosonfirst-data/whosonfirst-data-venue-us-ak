@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.392961,58.27571,-134.392961,58.27571",
+    "geom:latitude":58.27571,
+    "geom:longitude":-134.392961,
+    "iso:country":"US",
+    "sg:address":"802 3rd St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 465 3384",
+    "sg:postcode":"99824",
+    "sg:province":"AK",
+    "sg:tags":[
+        "probation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915729,
+        85633793,
+        85688573,
+        102081399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19YzV9hRxD8j6JtzWPPvbC_58.275710_-134.392961@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"16fd6bc7c65284ea8cfd290188ab5231",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "region_id":85688573,
+            "venue_id":"102154377"
+        }
+    ],
+    "wof:id":"102154377",
+    "wof:lastmodified":1449070243,
+    "wof:name":"Parole Board",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.392961,58.27571,-134.392961,58.27571],
+  "geometry": {"coordinates":[-134.392961,58.27571],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.354768,61.609367,-149.354768,61.609367",
+    "geom:latitude":61.609367,
+    "geom:longitude":-149.354768,
+    "iso:country":"US",
+    "sg:address":"2671 Tambert Ave",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 357 4561",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916225,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0U9IrjWAw9FbGsec2syOot_61.609367_-149.354768@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1feb20a46bd4f2cc7f9ed7671946239d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916225,
+            "region_id":85688573,
+            "venue_id":"102190579"
+        }
+    ],
+    "wof:id":"102190579",
+    "wof:lastmodified":1449070032,
+    "wof:name":"Van Asdoll & Sons",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.354768,61.609367,-149.354768,61.609367],
+  "geometry": {"coordinates":[-149.354768,61.609367],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.734604,64.840883,-147.734604,64.840883",
+    "geom:latitude":64.840883,
+    "geom:longitude":-147.734604,
+    "iso:country":"US",
+    "sg:address":"958 Cowles St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 1111",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WJ2R8thzTUmbtikHsEahd_64.840883_-147.734604@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3d814df8dc8133a2dd379bf7cb67978",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102190935"
+        }
+    ],
+    "wof:id":"102190935",
+    "wof:lastmodified":1449070036,
+    "wof:name":"Seoul Grocery",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.734604,64.840883,-147.734604,64.840883],
+  "geometry": {"coordinates":[-147.734604,64.840883],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.994873,61.195645,-149.994873,61.195645",
+    "geom:latitude":61.195645,
+    "geom:longitude":-149.994873,
+    "iso:country":"US",
+    "sg:address":"6111 Lockheed Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 0009",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852831,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4M1Bh8gXGxRXsTMUe5MxIl_61.195645_-149.994873@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c74513eca8772506a2ab3ace1fd74a3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":"102193625"
+        }
+    ],
+    "wof:id":"102193625",
+    "wof:lastmodified":1449068195,
+    "wof:name":"Everts Air Cargo",
+    "wof:parent_id":85852831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.994873,61.195645,-149.994873,61.195645],
+  "geometry": {"coordinates":[-149.994873,61.195645],"type":"Point"}
+}

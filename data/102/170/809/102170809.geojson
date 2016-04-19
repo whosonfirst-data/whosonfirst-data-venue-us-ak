@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.881331,61.198184,-149.881331,61.198184",
+    "geom:latitude":61.198184,
+    "geom:longitude":-149.881331,
+    "iso:country":"US",
+    "sg:address":"100 E Fireweed Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 5111",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dealer"
+    ],
+    "sg:website":"www.lingohouse.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BK4j35johFXfN1QJUkeQY_61.198184_-149.881331@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"24e8b03521cfc42fdb3ac74ee34f0157",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102170809"
+        }
+    ],
+    "wof:id":"102170809",
+    "wof:lastmodified":1449068019,
+    "wof:name":"Lingo House",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.881331,61.198184,-149.881331,61.198184],
+  "geometry": {"coordinates":[-149.881331,61.198184],"type":"Point"}
+}

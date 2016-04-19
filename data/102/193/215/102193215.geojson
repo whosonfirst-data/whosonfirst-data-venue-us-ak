@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.909352,61.20765,-149.909352,61.20765",
+    "geom:latitude":61.20765,
+    "geom:longitude":-149.909352,
+    "iso:country":"US",
+    "sg:address":"1326 W 15th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 3009",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873721,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EtfkmLHN3AePrL6Ob2WZz_61.207650_-149.909352@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5775ca4acfa0a68ceea2de32c6f9592b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873721,
+            "region_id":85688573,
+            "venue_id":"102193215"
+        }
+    ],
+    "wof:id":"102193215",
+    "wof:lastmodified":1449068193,
+    "wof:name":"Inlet Bed & Breakfast",
+    "wof:parent_id":85873721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.909352,61.20765,-149.909352,61.20765],
+  "geometry": {"coordinates":[-149.909352,61.20765],"type":"Point"}
+}

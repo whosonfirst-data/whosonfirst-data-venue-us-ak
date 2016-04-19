@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.888983,61.217491,-149.888983,61.217491",
+    "geom:latitude":61.217491,
+    "geom:longitude":-149.888983,
+    "iso:country":"US",
+    "sg:address":"320 W 5th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 5554",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uVB5ucRuZdk1o0yssOD1Z_61.217491_-149.888983@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7eca7e3b8e29c59a6706e4efa95525cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102186895"
+        }
+    ],
+    "wof:id":"102186895",
+    "wof:lastmodified":1449069653,
+    "wof:name":"Liz Nails",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.888983,61.217491,-149.888983,61.217491],
+  "geometry": {"coordinates":[-149.888983,61.217491],"type":"Point"}
+}

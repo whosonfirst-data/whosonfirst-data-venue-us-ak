@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.59061,58.366459,-134.59061,58.366459",
+    "geom:latitude":58.366459,
+    "geom:longitude":-134.59061,
+    "iso:country":"US",
+    "sg:address":"9342 Glacier Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 7070",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qO2iMmCDBDAfURlZ7ARSa_58.366459_-134.590610@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e9395fb365038b3ab55f9d1b86a35b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102163957"
+        }
+    ],
+    "wof:id":"102163957",
+    "wof:lastmodified":1449070164,
+    "wof:name":"Vito & Nick's Pizzaria",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.59061,58.366459,-134.59061,58.366459],
+  "geometry": {"coordinates":[-134.59061,58.366459],"type":"Point"}
+}

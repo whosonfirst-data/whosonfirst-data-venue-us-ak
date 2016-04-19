@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.633764,64.911591,-147.633764,64.911591",
+    "geom:latitude":64.911591,
+    "geom:longitude":-147.633764,
+    "iso:country":"US",
+    "sg:address":"217 Sunny Hills Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 1700",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "high",
+        "fidelity",
+        "stereophonic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916559,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mKDz2AoOC8UYOPoGImmCO_64.911591_-147.633764@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4752260089cb48aaa7ad4ef08e80626f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "region_id":85688573,
+            "venue_id":"102158671"
+        }
+    ],
+    "wof:id":"102158671",
+    "wof:lastmodified":1449069393,
+    "wof:name":"Northern Electronic Design",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.633764,64.911591,-147.633764,64.911591],
+  "geometry": {"coordinates":[-147.633764,64.911591],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.898796,61.156454,-149.898796,61.156454",
+    "geom:latitude":61.156454,
+    "geom:longitude":-149.898796,
+    "iso:country":"US",
+    "sg:address":"941 W 71st Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 7728",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dtzouqtv4Hn2qTIFJwwTO_61.156454_-149.898796@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"98f07a6c3fec193c25ff8678f20eca56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102176617"
+        }
+    ],
+    "wof:id":"102176617",
+    "wof:lastmodified":1449069342,
+    "wof:name":"Crittenden & Assoc",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.898796,61.156454,-149.898796,61.156454],
+  "geometry": {"coordinates":[-149.898796,61.156454],"type":"Point"}
+}

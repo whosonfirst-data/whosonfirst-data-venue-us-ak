@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.860967,61.159317,-149.860967,61.159317",
+    "geom:latitude":61.159317,
+    "geom:longitude":-149.860967,
+    "iso:country":"US",
+    "sg:address":"1211 E 68th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 783 3100",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nGxTklTOzfJrrZTvJVfso_61.159317_-149.860967@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a794b00b0968f825387ae1cd12e03d09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102182153"
+        }
+    ],
+    "wof:id":"102182153",
+    "wof:lastmodified":1449069281,
+    "wof:name":"Alyeska Towing & Storage",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.860967,61.159317,-149.860967,61.159317],
+  "geometry": {"coordinates":[-149.860967,61.159317],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.80099,61.231263,-149.80099,61.231263",
+    "geom:latitude":61.231263,
+    "geom:longitude":-149.80099,
+    "iso:country":"US",
+    "sg:address":"708 N Hoyt St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 646 9745",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wansaisRtsr34nYURu2S3_61.231263_-149.800990@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8b762b6929452a51b4d04ae2f7cd216a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102155179"
+        }
+    ],
+    "wof:id":"102155179",
+    "wof:lastmodified":1449069746,
+    "wof:name":"Play Time Daycare",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.80099,61.231263,-149.80099,61.231263],
+  "geometry": {"coordinates":[-149.80099,61.231263],"type":"Point"}
+}

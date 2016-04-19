@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.803687,64.836716,-147.803687,64.836716",
+    "geom:latitude":64.836716,
+    "geom:longitude":-147.803687,
+    "iso:country":"US",
+    "sg:address":"3435 Airport Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 374 3232",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RcVHLw814Ienie7KSfiEJ_64.836716_-147.803687@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"82881dce48c39643f6e5f2018cebd392",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102161779"
+        }
+    ],
+    "wof:id":"102161779",
+    "wof:lastmodified":1449068707,
+    "wof:name":"Aurora Solutions",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.803687,64.836716,-147.803687,64.836716],
+  "geometry": {"coordinates":[-147.803687,64.836716],"type":"Point"}
+}

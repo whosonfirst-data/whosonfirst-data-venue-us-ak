@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.886542,61.193411,-149.886542,61.193411",
+    "geom:latitude":61.193411,
+    "geom:longitude":-149.886542,
+    "iso:country":"US",
+    "sg:address":"3001 C St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 273 4000",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "federal",
+        "affairs",
+        "govt",
+        "admin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dY3vM6oyYliMXBSMMtUEk_61.193411_-149.886542@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"905e1fa72e9fcdf187508e2ec2e46ba6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102185809"
+        }
+    ],
+    "wof:id":"102185809",
+    "wof:lastmodified":1449068197,
+    "wof:name":"Us Veterans Affairs Dept",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.886542,61.193411,-149.886542,61.193411],
+  "geometry": {"coordinates":[-149.886542,61.193411],"type":"Point"}
+}

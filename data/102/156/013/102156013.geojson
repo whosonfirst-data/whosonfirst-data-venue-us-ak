@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.845456,61.128599,-149.845456,61.128599",
+    "geom:latitude":61.128599,
+    "geom:longitude":-149.845456,
+    "iso:country":"US",
+    "sg:address":"10250 Jamestown Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 242 6481",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qoW9wZW0yJCzXamHWn87m_61.128599_-149.845456@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2969b218d87ce820650cad7ed395f3f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102156013"
+        }
+    ],
+    "wof:id":"102156013",
+    "wof:lastmodified":1449068282,
+    "wof:name":"Michael Basalyga",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.845456,61.128599,-149.845456,61.128599],
+  "geometry": {"coordinates":[-149.845456,61.128599],"type":"Point"}
+}

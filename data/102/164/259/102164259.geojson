@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.917115,64.81952,-147.917115,64.81952",
+    "geom:latitude":64.81952,
+    "geom:longitude":-147.917115,
+    "iso:country":"US",
+    "sg:address":"1062 Dolphin Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 1505",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916563,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60Ka9KF3QEK3PhCtVjdTCf_64.819520_-147.917115@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3e5bacf3ee2b0760840fefc44b66d1c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916563,
+            "region_id":85688573,
+            "venue_id":"102164259"
+        }
+    ],
+    "wof:id":"102164259",
+    "wof:lastmodified":1449068091,
+    "wof:name":"Apex Aviation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.917115,64.81952,-147.917115,64.81952],
+  "geometry": {"coordinates":[-147.917115,64.81952],"type":"Point"}
+}

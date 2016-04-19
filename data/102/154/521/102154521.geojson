@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-161.7911,60.805104,-161.7911,60.805104",
+    "geom:latitude":60.805104,
+    "geom:longitude":-161.7911,
+    "iso:country":"US",
+    "sg:address":"460 Ptarmigan St",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 543 5454",
+    "sg:postcode":"99559",
+    "sg:province":"AK",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915901,
+        85633793,
+        85688573,
+        102085877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zVnB1SE0DlMsf34nelx8z_60.805104_-161.791100@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"28af4e52e14ddbe0753342ac60b2a3d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085877,
+            "locality_id":85915901,
+            "region_id":85688573,
+            "venue_id":"102154521"
+        }
+    ],
+    "wof:id":"102154521",
+    "wof:lastmodified":1449070248,
+    "wof:name":"Quyana Cab",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-161.7911,60.805104,-161.7911,60.805104],
+  "geometry": {"coordinates":[-161.7911,60.805104],"type":"Point"}
+}

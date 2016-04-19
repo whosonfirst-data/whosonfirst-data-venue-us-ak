@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.972819,61.175656,-149.972819,61.175656",
+    "geom:latitude":61.175656,
+    "geom:longitude":-149.972819,
+    "iso:country":"US",
+    "sg:address":"4450 W 50th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 2158",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852831,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ep6JV6u9AykG3LixLhxvn_61.175656_-149.972819@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a2a9049fd0fe252e5cc5583d4130713d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":"102191993"
+        }
+    ],
+    "wof:id":"102191993",
+    "wof:lastmodified":1449069201,
+    "wof:name":"Aircraft Support Svc",
+    "wof:parent_id":85852831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.972819,61.175656,-149.972819,61.175656],
+  "geometry": {"coordinates":[-149.972819,61.175656],"type":"Point"}
+}

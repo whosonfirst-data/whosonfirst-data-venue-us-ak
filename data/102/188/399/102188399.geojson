@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.46488,61.398488,-149.46488,61.398488",
+    "geom:latitude":61.398488,
+    "geom:longitude":-149.46488,
+    "iso:country":"US",
+    "sg:address":"22402 Birchwood Loop Rd",
+    "sg:city":"Chugiak",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 688 2668",
+    "sg:postcode":"99567",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806187,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RueXvP2NaMjRkKX5mLpb6_61.398488_-149.464880@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9f8e82662d2841c3e60b9093d757d240",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85806187,
+            "region_id":85688573,
+            "venue_id":"102188399"
+        }
+    ],
+    "wof:id":"102188399",
+    "wof:lastmodified":1449068944,
+    "wof:name":"Denali View Senior Housing",
+    "wof:parent_id":85806187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.46488,61.398488,-149.46488,61.398488],
+  "geometry": {"coordinates":[-149.46488,61.398488],"type":"Point"}
+}

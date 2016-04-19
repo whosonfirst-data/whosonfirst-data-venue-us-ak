@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.770975,61.209782,-149.770975,61.209782",
+    "geom:latitude":61.209782,
+    "geom:longitude":-149.770975,
+    "iso:country":"US",
+    "sg:address":"1204 Norman St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 4651",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869053,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Bl67Lhn2zk9r6HFYGini3_61.209782_-149.770975@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"44e2072e87d2f51bc50c9de104c739c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869053,
+            "region_id":85688573,
+            "venue_id":"102164929"
+        }
+    ],
+    "wof:id":"102164929",
+    "wof:lastmodified":1449068090,
+    "wof:name":"Birchtree Estates Apartments",
+    "wof:parent_id":85869053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.770975,61.209782,-149.770975,61.209782],
+  "geometry": {"coordinates":[-149.770975,61.209782],"type":"Point"}
+}

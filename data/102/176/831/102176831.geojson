@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.878792,61.195363,-149.878792,61.195363",
+    "geom:latitude":61.195363,
+    "geom:longitude":-149.878792,
+    "iso:country":"US",
+    "sg:address":"207 E Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 792 6538",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:website":"www.anhc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vO0SaEwchJIK0AZttN88e_61.195363_-149.878792@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3585886dfc07e5357ce957667bf0d2fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102176831"
+        }
+    ],
+    "wof:id":"102176831",
+    "wof:lastmodified":1449069347,
+    "wof:name":"Anchorage Neighborhood Health",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.878792,61.195363,-149.878792,61.195363],
+  "geometry": {"coordinates":[-149.878792,61.195363],"type":"Point"}
+}

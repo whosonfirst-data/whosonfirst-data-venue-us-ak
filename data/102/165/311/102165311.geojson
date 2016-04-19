@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.405526,57.790971,-152.405526,57.790971",
+    "geom:latitude":57.790971,
+    "geom:longitude":-152.405526,
+    "iso:country":"US",
+    "sg:address":"517 Lower Mill Bay Rd",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 1024",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ik2MJ5WLJFAa3qmlsKwrT_57.790971_-152.405526@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"18c5ddab8319441d0e76a3d8598c238d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102165311"
+        }
+    ],
+    "wof:id":"102165311",
+    "wof:lastmodified":1449070214,
+    "wof:name":"Gonzalez Meat & Seafood Market",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.405526,57.790971,-152.405526,57.790971],
+  "geometry": {"coordinates":[-152.405526,57.790971],"type":"Point"}
+}

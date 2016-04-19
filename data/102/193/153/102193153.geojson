@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.816576,61.180911,-149.816576,61.180911",
+    "geom:latitude":61.180911,
+    "geom:longitude":-149.816576,
+    "iso:country":"US",
+    "sg:address":"3405 E Tudor Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 6868",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2j6NUM8QJjQv8xw0nAtUAC_61.180911_-149.816576@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e506aaf93db3eda1e54ac8048ecfc5d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102193153"
+        }
+    ],
+    "wof:id":"102193153",
+    "wof:lastmodified":1449068195,
+    "wof:name":"Express Market",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.816576,61.180911,-149.816576,61.180911],
+  "geometry": {"coordinates":[-149.816576,61.180911],"type":"Point"}
+}

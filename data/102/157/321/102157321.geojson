@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.504081,59.6398,-151.504081,59.6398",
+    "geom:latitude":59.6398,
+    "geom:longitude":-151.504081,
+    "iso:country":"US",
+    "sg:address":"1532 Ocean Dr",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 8406",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "all",
+        "terrain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mhFLwUIey14KVQUkoQzCj_59.639800_-151.504081@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"56c18153843d926366b2024b98d530f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102157321"
+        }
+    ],
+    "wof:id":"102157321",
+    "wof:lastmodified":1449069830,
+    "wof:name":"Homer Saw & Cycle",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.504081,59.6398,-151.504081,59.6398],
+  "geometry": {"coordinates":[-151.504081,59.6398],"type":"Point"}
+}

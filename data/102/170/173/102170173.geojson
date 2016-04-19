@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-156.774218,71.297587,-156.774218,71.297587",
+    "geom:latitude":71.297587,
+    "geom:longitude":-156.774218,
+    "iso:country":"US",
+    "sg:address":"3210 Simmonds St",
+    "sg:city":"Barrow",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 852 6699",
+    "sg:postcode":"99723",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915545,
+        85633793,
+        85688573,
+        102081001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08OkG15vtPhhaNgSFkvygT_71.297587_-156.774218@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e6239f755ff67ab1fdedbe0c3d9693b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081001,
+            "locality_id":85915545,
+            "region_id":85688573,
+            "venue_id":"102170173"
+        }
+    ],
+    "wof:id":"102170173",
+    "wof:lastmodified":1449068016,
+    "wof:name":"UAS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-156.774218,71.297587,-156.774218,71.297587],
+  "geometry": {"coordinates":[-156.774218,71.297587],"type":"Point"}
+}

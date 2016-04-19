@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.81272,64.846286,-147.81272,64.846286",
+    "geom:latitude":64.846286,
+    "geom:longitude":-147.81272,
+    "iso:country":"US",
+    "sg:address":"610 University Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 2105",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Qhn3gUBNasAOpEsAOSwok_64.846286_-147.812720@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"edc03061c89fc969c0a5578d73c3102b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102156643"
+        }
+    ],
+    "wof:id":"102156643",
+    "wof:lastmodified":1449068283,
+    "wof:name":"Environmental Conservation",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.81272,64.846286,-147.81272,64.846286],
+  "geometry": {"coordinates":[-147.81272,64.846286],"type":"Point"}
+}

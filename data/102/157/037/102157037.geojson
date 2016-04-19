@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.406468,57.789105,-152.406468,57.789105",
+    "geom:latitude":57.789105,
+    "geom:longitude":-152.406468,
+    "iso:country":"US",
+    "sg:address":"202 Center St",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 6369",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Juy0ti3wa2FtjuO7Q5HTP_57.789105_-152.406468@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"873a576af01c916b09862c06200adec8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102157037"
+        }
+    ],
+    "wof:id":"102157037",
+    "wof:lastmodified":1449069834,
+    "wof:name":"University Of Alaska",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.406468,57.789105,-152.406468,57.789105],
+  "geometry": {"coordinates":[-152.406468,57.789105],"type":"Point"}
+}

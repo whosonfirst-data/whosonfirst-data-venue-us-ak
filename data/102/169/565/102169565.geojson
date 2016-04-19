@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.533585,59.647206,-151.533585,59.647206",
+    "geom:latitude":59.647206,
+    "geom:longitude":-151.533585,
+    "iso:country":"US",
+    "sg:address":"491 E Pioneer Ave",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 8121",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vDnMKbvpZNV5Of7SRUyPC_59.647206_-151.533585@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a2b5e7a49e2d5aa405127f56c64182ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102169565"
+        }
+    ],
+    "wof:id":"102169565",
+    "wof:lastmodified":1449069248,
+    "wof:name":"Homer City Hall",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.533585,59.647206,-151.533585,59.647206],
+  "geometry": {"coordinates":[-151.533585,59.647206],"type":"Point"}
+}

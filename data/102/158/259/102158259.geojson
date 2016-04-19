@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.897845,61.188009,-149.897845,61.188009",
+    "geom:latitude":61.188009,
+    "geom:longitude":-149.897845,
+    "iso:country":"US",
+    "sg:address":"712 W 36th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 1958",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3utOLEFn6LIOmKIMvtbsGv_61.188009_-149.897845@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b4b423bb03e1db9addee44ee77963d88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102158259"
+        }
+    ],
+    "wof:id":"102158259",
+    "wof:lastmodified":1449069392,
+    "wof:name":"National Electrical Contrs",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.897845,61.188009,-149.897845,61.188009],
+  "geometry": {"coordinates":[-149.897845,61.188009],"type":"Point"}
+}

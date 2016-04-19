@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.401191,57.789207,-152.401191,57.789207",
+    "geom:latitude":57.789207,
+    "geom:longitude":-152.401191,
+    "iso:country":"US",
+    "sg:address":"302 Erskine Ave",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 6181",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2t7h5p7vBU2kKuXWF4PHYx_57.789207_-152.401191@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f3dd5b18f940344ba1b553bf2e873b88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102175639"
+        }
+    ],
+    "wof:id":"102175639",
+    "wof:lastmodified":1449069469,
+    "wof:name":"Kodiak Senior Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.401191,57.789207,-152.401191,57.789207],
+  "geometry": {"coordinates":[-152.401191,57.789207],"type":"Point"}
+}

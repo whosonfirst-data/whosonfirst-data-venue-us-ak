@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.929903,61.182414,-149.929903,61.182414",
+    "geom:latitude":61.182414,
+    "geom:longitude":-149.929903,
+    "iso:country":"US",
+    "sg:address":"4110 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 3433",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5H9rgxnTDAxnF3jclmdhDD_61.182414_-149.929903@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5c2e11bbaf355485169e47af7b0db121",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102194011"
+        }
+    ],
+    "wof:id":"102194011",
+    "wof:lastmodified":1449069830,
+    "wof:name":"Anchorage Eagle Nest Hotel",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.929903,61.182414,-149.929903,61.182414],
+  "geometry": {"coordinates":[-149.929903,61.182414],"type":"Point"}
+}

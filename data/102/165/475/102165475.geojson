@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.859153,61.159731,-149.859153,61.159731",
+    "geom:latitude":61.159731,
+    "geom:longitude":-149.859153,
+    "iso:country":"US",
+    "sg:address":"6657 Greenwood St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 2608",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "used",
+        "boiler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PNmpQwYgLKOAA8SHHlQv8_61.159731_-149.859153@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d7421ecb022a0c2aec5a534314bc3c5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102165475"
+        }
+    ],
+    "wof:id":"102165475",
+    "wof:lastmodified":1449070214,
+    "wof:name":"Proctor Sales Inc",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.859153,61.159731,-149.859153,61.159731],
+  "geometry": {"coordinates":[-149.859153,61.159731],"type":"Point"}
+}

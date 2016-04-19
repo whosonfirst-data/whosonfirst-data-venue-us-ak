@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.878007,61.150691,-149.878007,61.150691",
+    "geom:latitude":61.150691,
+    "geom:longitude":-149.878007,
+    "iso:country":"US",
+    "sg:address":"7900 King St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 2550",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "field",
+        "oil"
+    ],
+    "sg:website":"www.hydril.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D0X3yV1rVUrfhGk71nfy6_61.150691_-149.878007@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"de9ab395406adb67c0af635ce45b793f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102165941"
+        }
+    ],
+    "wof:id":"102165941",
+    "wof:lastmodified":1449070213,
+    "wof:name":"Hydril",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.878007,61.150691,-149.878007,61.150691],
+  "geometry": {"coordinates":[-149.878007,61.150691],"type":"Point"}
+}

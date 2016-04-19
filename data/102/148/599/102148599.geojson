@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.693881,61.088362,-149.693881,61.088362",
+    "geom:latitude":61.088362,
+    "geom:longitude":-149.693881,
+    "iso:country":"US",
+    "sg:address":"14530 Echo St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 1355",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873757,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WYRkeQT5xYctv8lO6f171_61.088362_-149.693881@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"08fd5e47302222673452672e39a51529",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873757,
+            "region_id":85688573,
+            "venue_id":"102148599"
+        }
+    ],
+    "wof:id":"102148599",
+    "wof:lastmodified":1449069784,
+    "wof:name":"Flattop Technical Svc",
+    "wof:parent_id":85873757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.693881,61.088362,-149.693881,61.088362],
+  "geometry": {"coordinates":[-149.693881,61.088362],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.804097,64.836705,-147.804097,64.836705",
+    "geom:latitude":64.836705,
+    "geom:longitude":-147.804097,
+    "iso:country":"US",
+    "sg:address":"3423 Airport Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 8097",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sZWfafaWN7Q9gvQbX0IiP_64.836705_-147.804097@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f4a0b9af3b888cefe34c73fcd53a9abf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102187615"
+        }
+    ],
+    "wof:id":"102187615",
+    "wof:lastmodified":1449068158,
+    "wof:name":"Fletcher Paints",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.804097,64.836705,-147.804097,64.836705],
+  "geometry": {"coordinates":[-147.804097,64.836705],"type":"Point"}
+}

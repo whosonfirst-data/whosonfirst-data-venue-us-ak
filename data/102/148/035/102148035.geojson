@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.753593,64.862378,-147.753593,64.862378",
+    "geom:latitude":64.862378,
+    "geom:longitude":-147.753593,
+    "iso:country":"US",
+    "sg:address":"1651 College Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 6055",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869043,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ykaz58xQgtE5TSJTE9wI1_64.862378_-147.753593@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bdc641d884fcf589dfda3f317557278d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85869043,
+            "region_id":85688573,
+            "venue_id":"102148035"
+        }
+    ],
+    "wof:id":"102148035",
+    "wof:lastmodified":1449069786,
+    "wof:name":"Aurora Animal Clinic",
+    "wof:parent_id":85869043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.753593,64.862378,-147.753593,64.862378],
+  "geometry": {"coordinates":[-147.753593,64.862378],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.908614,61.193631,-149.908614,61.193631",
+    "geom:latitude":61.193631,
+    "geom:longitude":-149.908614,
+    "iso:country":"US",
+    "sg:address":"1500 W Benson Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 257 3600",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6b78rvsyZMWPM1YBfP9VVI_61.193631_-149.908614@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7cb532492681b5620550d3a68fffdd22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102190289"
+        }
+    ],
+    "wof:id":"102190289",
+    "wof:lastmodified":1449070037,
+    "wof:name":"Wells Fargo Home Mortgage Inc",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.908614,61.193631,-149.908614,61.193631],
+  "geometry": {"coordinates":[-149.908614,61.193631],"type":"Point"}
+}

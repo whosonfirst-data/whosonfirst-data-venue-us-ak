@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.854672,61.10297,-149.854672,61.10297",
+    "geom:latitude":61.10297,
+    "geom:longitude":-149.854672,
+    "iso:country":"US",
+    "sg:address":"1730 Cara Loop",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 5601",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BAS1yNyGEqkMG5zbptAsb_61.102970_-149.854672@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bc8d1c94a7b753d88ad2a08c863055d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102176069"
+        }
+    ],
+    "wof:id":"102176069",
+    "wof:lastmodified":1449069348,
+    "wof:name":"Wingquest Enterprises",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.854672,61.10297,-149.854672,61.10297],
+  "geometry": {"coordinates":[-149.854672,61.10297],"type":"Point"}
+}

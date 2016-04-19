@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.732358,64.859576,-147.732358,64.859576",
+    "geom:latitude":64.859576,
+    "geom:longitude":-147.732358,
+    "iso:country":"US",
+    "sg:address":"1018 College Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 5252",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830247,
+        85633793,
+        85916559,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Vg9mSPefZIb5imyzk3q6v_64.859576_-147.732358@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6d8178efbf436f05421cdf0b0ef3968c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "neighbourhood_id":85830247,
+            "region_id":85688573,
+            "venue_id":"102168069"
+        }
+    ],
+    "wof:id":"102168069",
+    "wof:lastmodified":1449069006,
+    "wof:name":"Denali Chiropractic Clinic",
+    "wof:parent_id":85830247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.732358,64.859576,-147.732358,64.859576],
+  "geometry": {"coordinates":[-147.732358,64.859576],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.804696,61.231416,-149.804696,61.231416",
+    "geom:latitude":61.231416,
+    "geom:longitude":-149.804696,
+    "iso:country":"US",
+    "sg:address":"4005 McPhee Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 742 3900",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Z76hVDiTZE9Pyb2GaiIlH_61.231416_-149.804696@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8e70e0ea09b383dcc4fa8053de3be160",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102171313"
+        }
+    ],
+    "wof:id":"102171313",
+    "wof:lastmodified":1449070221,
+    "wof:name":"Mt View Elementary School",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.804696,61.231416,-149.804696,61.231416],
+  "geometry": {"coordinates":[-149.804696,61.231416],"type":"Point"}
+}

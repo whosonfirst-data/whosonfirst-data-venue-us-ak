@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.861457,61.110554,-149.861457,61.110554",
+    "geom:latitude":61.110554,
+    "geom:longitude":-149.861457,
+    "iso:country":"US",
+    "sg:address":"12101 Industry Way",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 222 0900",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fvzlHqgZoSGdobyRx6GzS_61.110554_-149.861457@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"14d281a04c2d047f97b05a38644baf60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102160817"
+        }
+    ],
+    "wof:id":"102160817",
+    "wof:lastmodified":1449069779,
+    "wof:name":"Alaska Warehouse Specialists",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.861457,61.110554,-149.861457,61.110554],
+  "geometry": {"coordinates":[-149.861457,61.110554],"type":"Point"}
+}

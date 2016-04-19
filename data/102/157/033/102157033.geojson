@@ -1,0 +1,69 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.671034,55.350369,-131.671034,55.350369",
+    "geom:latitude":55.350369,
+    "geom:longitude":-131.671034,
+    "iso:country":"US",
+    "sg:address":"212 Austin St",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 7408",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dealer",
+        "laying",
+        "rug",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GYyiScXaRadL6fXrw5GIY_55.350369_-131.671034@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1c81de353e81d9231a4451dd5190e559",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102157033"
+        }
+    ],
+    "wof:id":"102157033",
+    "wof:lastmodified":1449069830,
+    "wof:name":"Hometown Flooring",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.671034,55.350369,-131.671034,55.350369],
+  "geometry": {"coordinates":[-131.671034,55.350369],"type":"Point"}
+}

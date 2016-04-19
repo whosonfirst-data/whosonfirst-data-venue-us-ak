@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.953147,61.195283,-149.953147,61.195283",
+    "geom:latitude":61.195283,
+    "geom:longitude":-149.953147,
+    "iso:country":"US",
+    "sg:address":"3500 W Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 742 7200",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852831,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_458HbFBVwLQOW7UIb9ezgz_61.195283_-149.953147@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6fbd373f5831f9dfb63a4732add7c5e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":"102193707"
+        }
+    ],
+    "wof:id":"102193707",
+    "wof:lastmodified":1449068195,
+    "wof:name":"Turnagain Elementary School",
+    "wof:parent_id":85852831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.953147,61.195283,-149.953147,61.195283],
+  "geometry": {"coordinates":[-149.953147,61.195283],"type":"Point"}
+}

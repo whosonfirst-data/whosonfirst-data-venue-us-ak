@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.628526,55.335281,-131.628526,55.335281",
+    "geom:latitude":55.335281,
+    "geom:longitude":-131.628526,
+    "iso:country":"US",
+    "sg:address":"600 Stedman St",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 5250",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "educational",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07GJvlPYgLMlB5m6DJrk9l_55.335281_-131.628526@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"58d4bc2b733275b7b921e52ece4cbd11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102161437"
+        }
+    ],
+    "wof:id":"102161437",
+    "wof:lastmodified":1449068711,
+    "wof:name":"Ketchikan Adult Education Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.628526,55.335281,-131.628526,55.335281],
+  "geometry": {"coordinates":[-131.628526,55.335281],"type":"Point"}
+}

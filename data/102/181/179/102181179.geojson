@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.897959,61.188084,-149.897959,61.188084",
+    "geom:latitude":61.188084,
+    "geom:longitude":-149.897959,
+    "iso:country":"US",
+    "sg:address":"701 W 36th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 3366",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dnxmlIVjRwjQAD7FG6jvf_61.188084_-149.897959@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cec653253440b3dba5a1b197e6180b15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102181179"
+        }
+    ],
+    "wof:id":"102181179",
+    "wof:lastmodified":1449069237,
+    "wof:name":"Stems Inc",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.897959,61.188084,-149.897959,61.188084],
+  "geometry": {"coordinates":[-149.897959,61.188084],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.63119,64.871509,-147.63119,64.871509",
+    "geom:latitude":64.871509,
+    "geom:longitude":-147.63119,
+    "iso:country":"US",
+    "sg:address":"225 Wilderness Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 460 1606",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916545,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vF855ow62dQhzEaT44qlH_64.871509_-147.631190@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"97a902c6905bc675910385a4ebcf4501",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916545,
+            "region_id":85688573,
+            "venue_id":"102178445"
+        }
+    ],
+    "wof:id":"102178445",
+    "wof:lastmodified":1449069530,
+    "wof:name":"Aurora Towing & Recovery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.63119,64.871509,-147.63119,64.871509],
+  "geometry": {"coordinates":[-147.63119,64.871509],"type":"Point"}
+}

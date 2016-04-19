@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.720421,64.832606,-147.720421,64.832606",
+    "geom:latitude":64.832606,
+    "geom:longitude":-147.720421,
+    "iso:country":"US",
+    "sg:address":"1617 Mary Ann St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 8999",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f5JCQfYZik0StIjr90leL_64.832606_-147.720421@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"df825fe1669c08699f196c127affda58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102169199"
+        }
+    ],
+    "wof:id":"102169199",
+    "wof:lastmodified":1449069246,
+    "wof:name":"Rug Doctor Fairbanks",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.720421,64.832606,-147.720421,64.832606],
+  "geometry": {"coordinates":[-147.720421,64.832606],"type":"Point"}
+}

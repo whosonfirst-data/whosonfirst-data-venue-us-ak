@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.438721,60.101249,-149.438721,60.101249",
+    "geom:latitude":60.101249,
+    "geom:longitude":-149.438721,
+    "iso:country":"US",
+    "sg:address":"217 5th Ave",
+    "sg:city":"Seward",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 224 8001",
+    "sg:postcode":"99664",
+    "sg:province":"AK",
+    "sg:website":"www.hotelseward.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915769,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xjwn0CTpU7bx8f0ObkJwP_60.101249_-149.438721@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4b80743239d749537f07a55d150ab419",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915769,
+            "region_id":85688573,
+            "venue_id":"102191419"
+        }
+    ],
+    "wof:id":"102191419",
+    "wof:lastmodified":1449069203,
+    "wof:name":"New Seward Hotel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.438721,60.101249,-149.438721,60.101249],
+  "geometry": {"coordinates":[-149.438721,60.101249],"type":"Point"}
+}

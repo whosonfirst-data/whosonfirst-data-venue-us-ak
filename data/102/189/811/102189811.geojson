@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.874185,61.230496,-149.874185,61.230496",
+    "geom:latitude":61.230496,
+    "geom:longitude":-149.874185,
+    "iso:country":"US",
+    "sg:address":"841 E Loop Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 7272",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873711,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3n25TFfyzn107CnmDiIecD_61.230496_-149.874185@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"31299e41f276d0ca76134d5f3a12c5f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873711,
+            "region_id":85688573,
+            "venue_id":"102189811"
+        }
+    ],
+    "wof:id":"102189811",
+    "wof:lastmodified":1449069497,
+    "wof:name":"NCOA",
+    "wof:parent_id":85873711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.874185,61.230496,-149.874185,61.230496],
+  "geometry": {"coordinates":[-149.874185,61.230496],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.563516,61.335958,-149.563516,61.335958",
+    "geom:latitude":61.335958,
+    "geom:longitude":-149.563516,
+    "iso:country":"US",
+    "sg:address":"12812 Old Glenn Hwy",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 622 9675",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tnKn3j7BDIz598X2IGTrb_61.335958_-149.563516@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"005e24a51756a449c3b93715b4088261",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102150935"
+        }
+    ],
+    "wof:id":"102150935",
+    "wof:lastmodified":1449067792,
+    "wof:name":"Health Works Family Medical",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.563516,61.335958,-149.563516,61.335958],
+  "geometry": {"coordinates":[-149.563516,61.335958],"type":"Point"}
+}

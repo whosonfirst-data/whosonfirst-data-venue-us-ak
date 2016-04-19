@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.404094,58.299591,-134.404094,58.299591",
+    "geom:latitude":58.299591,
+    "geom:longitude":-134.404094,
+    "iso:country":"US",
+    "sg:address":"219 S Franklin St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 8953",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:website":"www.galligaskins.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KUrK9HdbW9yfwlKzgfxnw_58.299591_-134.404094@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d8cb96a818e6301f045a575e7ee34453",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102181705"
+        }
+    ],
+    "wof:id":"102181705",
+    "wof:lastmodified":1449069236,
+    "wof:name":"Galligaskins",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.404094,58.299591,-134.404094,58.299591],
+  "geometry": {"coordinates":[-134.404094,58.299591],"type":"Point"}
+}

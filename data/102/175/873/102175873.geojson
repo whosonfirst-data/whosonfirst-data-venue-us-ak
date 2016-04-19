@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.897884,61.187679,-149.897884,61.187679",
+    "geom:latitude":61.187679,
+    "geom:longitude":-149.897884,
+    "iso:country":"US",
+    "sg:address":"3705 Arctic Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 8421",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58cFcj3P3j6qAE0g2Ej1ia_61.187679_-149.897884@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"be202e2a4240404513b99f82adeb23a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102175873"
+        }
+    ],
+    "wof:id":"102175873",
+    "wof:lastmodified":1449069465,
+    "wof:name":"Alaska Management Consultants",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.897884,61.187679,-149.897884,61.187679],
+  "geometry": {"coordinates":[-149.897884,61.187679],"type":"Point"}
+}

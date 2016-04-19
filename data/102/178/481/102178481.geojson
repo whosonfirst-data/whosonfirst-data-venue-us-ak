@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.57255,58.383424,-134.57255,58.383424",
+    "geom:latitude":58.383424,
+    "geom:longitude":-134.57255,
+    "iso:country":"US",
+    "sg:address":"3400 Tongass Blvd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 463 1801",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:website":"www.jsd.k12.ak.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EDiRmOi9s060IDESgNp63_58.383424_-134.572550@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c2c7c77a3dd6635b30ca88de0311c577",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102178481"
+        }
+    ],
+    "wof:id":"102178481",
+    "wof:lastmodified":1449069532,
+    "wof:name":"Glacier Valley Elem School",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.57255,58.383424,-134.57255,58.383424],
+  "geometry": {"coordinates":[-134.57255,58.383424],"type":"Point"}
+}

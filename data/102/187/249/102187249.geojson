@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.481512,61.640992,-149.481512,61.640992",
+    "geom:latitude":61.640992,
+    "geom:longitude":-149.481512,
+    "iso:country":"US",
+    "sg:address":"5300 N Salvage Way",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 2039",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916215,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CGRZFPjSblFpx05HiD1R6_61.640992_-149.481512@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"00e4d23dae88d46070b2fa68a18df2b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916215,
+            "region_id":85688573,
+            "venue_id":"102187249"
+        }
+    ],
+    "wof:id":"102187249",
+    "wof:lastmodified":1449068154,
+    "wof:name":"Alaska Truck Salvage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.481512,61.640992,-149.481512,61.640992],
+  "geometry": {"coordinates":[-149.481512,61.640992],"type":"Point"}
+}

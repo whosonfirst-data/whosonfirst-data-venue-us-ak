@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.248401,60.561448,-151.248401,60.561448",
+    "geom:latitude":60.561448,
+    "geom:longitude":-151.248401,
+    "iso:country":"US",
+    "sg:address":"145 N Willow St",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 4232",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Z7UCMuqLccxxx8wDTnAcb_60.561448_-151.248401@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"445a1e008bee3ab448c1da732c3ae001",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102183907"
+        }
+    ],
+    "wof:id":"102183907",
+    "wof:lastmodified":1449069044,
+    "wof:name":"Ron's Rent It Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.248401,60.561448,-151.248401,60.561448],
+  "geometry": {"coordinates":[-151.248401,60.561448],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.342227,57.818934,-152.342227,57.818934",
+    "geom:latitude":57.818934,
+    "geom:longitude":-152.342227,
+    "iso:country":"US",
+    "sg:address":"4115 Woodland Dr",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 5250",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1schs3SfqTGbSmrrVtOFGT_57.818934_-152.342227@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9d9d9b390f7a2d4195a82287eb56f579",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "region_id":85688573,
+            "venue_id":"102149783"
+        }
+    ],
+    "wof:id":"102149783",
+    "wof:lastmodified":1449067766,
+    "wof:name":"Woodland Dance Studio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.342227,57.818934,-152.342227,57.818934],
+  "geometry": {"coordinates":[-152.342227,57.818934],"type":"Point"}
+}

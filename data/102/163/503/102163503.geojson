@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.410853,58.30384,-134.410853,58.30384",
+    "geom:latitude":58.30384,
+    "geom:longitude":-134.410853,
+    "iso:country":"US",
+    "sg:address":"605 N Franklin St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 3601",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KzYmLX45gg9SIxb70Wcvs_58.303840_-134.410853@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a2816277e181f9b5da90e7ef3ef1deec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102163503"
+        }
+    ],
+    "wof:id":"102163503",
+    "wof:lastmodified":1449070163,
+    "wof:name":"Jonathan Wolfson General Contg",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.410853,58.30384,-134.410853,58.30384],
+  "geometry": {"coordinates":[-134.410853,58.30384],"type":"Point"}
+}

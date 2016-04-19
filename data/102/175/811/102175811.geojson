@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.069982,60.495498,-151.069982,60.495498",
+    "geom:latitude":60.495498,
+    "geom:longitude":-151.069982,
+    "iso:country":"US",
+    "sg:address":"35561 Kenai Spur Hwy",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 260 6544",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4y3R5pyuuJZOaiyTtBos7a_60.495498_-151.069982@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"652643d7db2112af2303fc2133720eba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102175811"
+        }
+    ],
+    "wof:id":"102175811",
+    "wof:lastmodified":1449069464,
+    "wof:name":"Ultimate Tan",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.069982,60.495498,-151.069982,60.495498],
+  "geometry": {"coordinates":[-151.069982,60.495498],"type":"Point"}
+}

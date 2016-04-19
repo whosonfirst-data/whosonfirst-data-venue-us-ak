@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.531923,59.645352,-151.531923,59.645352",
+    "geom:latitude":59.645352,
+    "geom:longitude":-151.531923,
+    "iso:country":"US",
+    "sg:address":"552 Bonanza Ave",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 226 2500",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "hydraulic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Sfa8oRwd9Qr8EKNsDURE4_59.645352_-151.531923@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a768290e9ea34e8e48cf93cd5c70c5fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102190047"
+        }
+    ],
+    "wof:id":"102190047",
+    "wof:lastmodified":1449070037,
+    "wof:name":"A J's General Hydraulic Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.531923,59.645352,-151.531923,59.645352],
+  "geometry": {"coordinates":[-151.531923,59.645352],"type":"Point"}
+}

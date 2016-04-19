@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.892771,61.214536,-149.892771,61.214536",
+    "geom:latitude":61.214536,
+    "geom:longitude":-149.892771,
+    "iso:country":"US",
+    "sg:address":"550 W 8th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 269 4000",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LItej3h2pjKt7oLEPsTcl_61.214536_-149.892771@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ce5e19cf78e20d5e748f0140ff4c604",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102182753"
+        }
+    ],
+    "wof:id":"102182753",
+    "wof:lastmodified":1449069278,
+    "wof:name":"Health & Social Svc Dept",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.892771,61.214536,-149.892771,61.214536],
+  "geometry": {"coordinates":[-149.892771,61.214536],"type":"Point"}
+}

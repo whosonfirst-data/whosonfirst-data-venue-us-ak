@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.546519,59.64496,-151.546519,59.64496",
+    "geom:latitude":59.64496,
+    "geom:longitude":-151.546519,
+    "iso:country":"US",
+    "sg:address":"158 W Pioneer Ave",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 4999",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop",
+        "consignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ntmeVkjifi1ZyMwjKcp1M_59.644960_-151.546519@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f05340160f45a15f5e5226c84409600a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102185223"
+        }
+    ],
+    "wof:id":"102185223",
+    "wof:lastmodified":1449068195,
+    "wof:name":"Fringe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.546519,59.64496,-151.546519,59.64496],
+  "geometry": {"coordinates":[-151.546519,59.64496],"type":"Point"}
+}

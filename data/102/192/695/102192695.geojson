@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.907303,61.140457,-149.907303,61.140457",
+    "geom:latitude":61.140457,
+    "geom:longitude":-149.907303,
+    "iso:country":"US",
+    "sg:address":"1200 W Dimond Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 6860",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rE15TvyCy1SxgKfvKdn97_61.140457_-149.907303@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d541109fbfc3354a3e895d1fcd362684",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102192695"
+        }
+    ],
+    "wof:id":"102192695",
+    "wof:lastmodified":1449069504,
+    "wof:name":"Star Housekeeping Svc",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.907303,61.140457,-149.907303,61.140457],
+  "geometry": {"coordinates":[-149.907303,61.140457],"type":"Point"}
+}

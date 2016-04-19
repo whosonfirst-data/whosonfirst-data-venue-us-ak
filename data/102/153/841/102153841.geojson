@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.722723,64.846666,-147.722723,64.846666",
+    "geom:latitude":64.846666,
+    "geom:longitude":-147.722723,
+    "iso:country":"US",
+    "sg:address":"200 N Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 6661",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "sg:website":"www.newsminer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5knOXH7NRisRgAMEowl8n2_64.846666_-147.722723@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"be1bb9281d1803149f03e49bb39526d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102153841"
+        }
+    ],
+    "wof:id":"102153841",
+    "wof:lastmodified":1449069460,
+    "wof:name":"Fairbanks Daily News-Miner",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.722723,64.846666,-147.722723,64.846666],
+  "geometry": {"coordinates":[-147.722723,64.846666],"type":"Point"}
+}

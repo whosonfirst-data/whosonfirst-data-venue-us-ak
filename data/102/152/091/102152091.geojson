@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.769263,61.204385,-149.769263,61.204385",
+    "geom:latitude":61.204385,
+    "geom:longitude":-149.769263,
+    "iso:country":"US",
+    "sg:address":"1709 Kepner Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 8164",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "band",
+        "orchestra"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869053,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5svOyDXZDX0agzoc5RnVOn_61.204385_-149.769263@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5663a203510e18530559fbe028ca6505",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869053,
+            "region_id":85688573,
+            "venue_id":"102152091"
+        }
+    ],
+    "wof:id":"102152091",
+    "wof:lastmodified":1449069634,
+    "wof:name":"Carrot Palace",
+    "wof:parent_id":85869053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.769263,61.204385,-149.769263,61.204385],
+  "geometry": {"coordinates":[-149.769263,61.204385],"type":"Point"}
+}

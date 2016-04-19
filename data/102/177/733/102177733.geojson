@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.359656,61.57845,-149.359656,61.57845",
+    "geom:latitude":61.57845,
+    "geom:longitude":-149.359656,
+    "iso:country":"US",
+    "sg:address":"500 S Seward Meridian Pkwy",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 2378",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "television"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34kWeQJW9jjaQMi9in5B76_61.578450_-149.359656@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"662f214396d5756566e50d141542af32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "region_id":85688573,
+            "venue_id":"102177733"
+        }
+    ],
+    "wof:id":"102177733",
+    "wof:lastmodified":1449070203,
+    "wof:name":"Alaska's Best Satellite",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.359656,61.57845,-149.359656,61.57845],
+  "geometry": {"coordinates":[-149.359656,61.57845],"type":"Point"}
+}

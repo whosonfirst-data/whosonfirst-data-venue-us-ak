@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-161.774432,60.796674,-161.774432,60.796674",
+    "geom:latitude":60.796674,
+    "geom:longitude":-161.774432,
+    "iso:country":"US",
+    "sg:address":"439 Ridgecrest Dr",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 543 4343",
+    "sg:postcode":"99559",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915901,
+        85633793,
+        85688573,
+        102085877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r9YzSDBUYnuXWvt8xwRrk_60.796674_-161.774432@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"45b99661605f53da021b1529577074b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085877,
+            "locality_id":85915901,
+            "region_id":85688573,
+            "venue_id":"102195245"
+        }
+    ],
+    "wof:id":"102195245",
+    "wof:lastmodified":1449069365,
+    "wof:name":"Casa Teriyaki",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-161.774432,60.796674,-161.774432,60.796674],
+  "geometry": {"coordinates":[-161.774432,60.796674],"type":"Point"}
+}

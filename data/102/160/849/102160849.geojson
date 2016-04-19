@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.774388,61.09327,-149.774388,61.09327",
+    "geom:latitude":61.09327,
+    "geom:longitude":-149.774388,
+    "iso:country":"US",
+    "sg:address":"14000 Golden View Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 4252",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "i",
+        "specialty"
+    ],
+    "sg:website":"www.alaskabowhunting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873751,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lBtZ1zL8xbQEzDwxR7H4n_61.093270_-149.774388@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b4dbf61bc663a9f5faf6763ef0c8d821",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873751,
+            "region_id":85688573,
+            "venue_id":"102160849"
+        }
+    ],
+    "wof:id":"102160849",
+    "wof:lastmodified":1449069774,
+    "wof:name":"Alaska Bowhunting Supply",
+    "wof:parent_id":85873751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.774388,61.09327,-149.774388,61.09327],
+  "geometry": {"coordinates":[-149.774388,61.09327],"type":"Point"}
+}

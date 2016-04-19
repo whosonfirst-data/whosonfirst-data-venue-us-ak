@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.750684,61.124406,-149.750684,61.124406",
+    "geom:latitude":61.124406,
+    "geom:longitude":-149.750684,
+    "iso:country":"US",
+    "sg:address":"7041 E Tree Ct",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 7700",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873747,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OGd3IVmDHXRj2pCmLVxs6_61.124406_-149.750684@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dcca9556a0123bbad4edb3a78b1c566f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873747,
+            "region_id":85688573,
+            "venue_id":"102174365"
+        }
+    ],
+    "wof:id":"102174365",
+    "wof:lastmodified":1449068139,
+    "wof:name":"Chiropractic Health Clinic",
+    "wof:parent_id":85873747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.750684,61.124406,-149.750684,61.124406],
+  "geometry": {"coordinates":[-149.750684,61.124406],"type":"Point"}
+}

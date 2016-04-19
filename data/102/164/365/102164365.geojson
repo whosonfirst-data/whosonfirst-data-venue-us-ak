@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.512036,59.638341,-151.512036,59.638341",
+    "geom:latitude":59.638341,
+    "geom:longitude":-151.512036,
+    "iso:country":"US",
+    "sg:address":"1230 Ocean Dr",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 8783",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "pilot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UUdODzfZDVPKaLNHScD6z_59.638341_-151.512036@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7420f960dad7da0f809259724e2abfad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102164365"
+        }
+    ],
+    "wof:id":"102164365",
+    "wof:lastmodified":1449068085,
+    "wof:name":"Southwest Alaska Pilots Assn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.512036,59.638341,-151.512036,59.638341],
+  "geometry": {"coordinates":[-151.512036,59.638341],"type":"Point"}
+}

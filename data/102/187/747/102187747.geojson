@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.971595,56.781788,-132.971595,56.781788",
+    "geom:latitude":56.781788,
+    "geom:longitude":-132.971595,
+    "iso:country":"US",
+    "sg:address":"326 Mitkof Hwy",
+    "sg:city":"Petersburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 772 2288",
+    "sg:postcode":"99833",
+    "sg:province":"AK",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847465,
+        85633793,
+        85916033,
+        102081899,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EPC3Q47v8wC5tYR1eI0gJ_56.781788_-132.971595@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"65da4c906cef56e2e5368a1942ca6560",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081899,
+            "locality_id":85916033,
+            "neighbourhood_id":85847465,
+            "region_id":85688573,
+            "venue_id":"102187747"
+        }
+    ],
+    "wof:id":"102187747",
+    "wof:lastmodified":1449068158,
+    "wof:name":"Arrowhead LP Gas",
+    "wof:parent_id":85847465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.971595,56.781788,-132.971595,56.781788],
+  "geometry": {"coordinates":[-132.971595,56.781788],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.729253,64.849774,-147.729253,64.849774",
+    "geom:latitude":64.849774,
+    "geom:longitude":-147.729253,
+    "iso:country":"US",
+    "sg:address":"1222 Well St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 6137",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OYUGSJvp51lfg19hbWLD3_64.849774_-147.729253@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"13e689a0f35047c858a75eb973d44111",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102148077"
+        }
+    ],
+    "wof:id":"102148077",
+    "wof:lastmodified":1449069784,
+    "wof:name":"Keith B Gianni MD",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.729253,64.849774,-147.729253,64.849774],
+  "geometry": {"coordinates":[-147.729253,64.849774],"type":"Point"}
+}

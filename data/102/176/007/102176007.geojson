@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.708166,64.840799,-147.708166,64.840799",
+    "geom:latitude":64.840799,
+    "geom:longitude":-147.708166,
+    "iso:country":"US",
+    "sg:address":"331 7th Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 5643",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zPOZ5fIMOBshZRggRMQYj_64.840799_-147.708166@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ff27358e06e874930b6f390a0d9477ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102176007"
+        }
+    ],
+    "wof:id":"102176007",
+    "wof:lastmodified":1449069347,
+    "wof:name":"Greatland Knives",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.708166,64.840799,-147.708166,64.840799],
+  "geometry": {"coordinates":[-147.708166,64.840799],"type":"Point"}
+}

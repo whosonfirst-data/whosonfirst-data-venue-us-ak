@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.446792,59.236732,-135.446792,59.236732",
+    "geom:latitude":59.236732,
+    "geom:longitude":-135.446792,
+    "iso:country":"US",
+    "sg:address":"151 3rd Ave",
+    "sg:city":"Haines",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 766 3340",
+    "sg:postcode":"99827",
+    "sg:province":"AK",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842771,
+        85633793,
+        85916629,
+        102083767,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PEAcPM4HHGYei2zLudcL6_59.236732_-135.446792@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4ee7579b4de4f6ea5419761a4ec7e57d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083767,
+            "locality_id":85916629,
+            "neighbourhood_id":85842771,
+            "region_id":85688573,
+            "venue_id":"102148643"
+        }
+    ],
+    "wof:id":"102148643",
+    "wof:lastmodified":1449069786,
+    "wof:name":"Mountain Market",
+    "wof:parent_id":85842771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.446792,59.236732,-135.446792,59.236732],
+  "geometry": {"coordinates":[-135.446792,59.236732],"type":"Point"}
+}

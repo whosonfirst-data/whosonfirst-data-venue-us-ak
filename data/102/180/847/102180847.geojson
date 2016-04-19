@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.337227,61.579168,-149.337227,61.579168",
+    "geom:latitude":61.579168,
+    "geom:longitude":-149.337227,
+    "iso:country":"US",
+    "sg:address":"4500 Mitzie Ct",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 7892",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916225,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KYn2k537JMa8Go4lP5q5m_61.579168_-149.337227@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1eb122e24d9f1b27929ac83bc813527c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916225,
+            "region_id":85688573,
+            "venue_id":"102180847"
+        }
+    ],
+    "wof:id":"102180847",
+    "wof:lastmodified":1449067873,
+    "wof:name":"Hard Rok Plumbing & Heating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.337227,61.579168,-149.337227,61.579168],
+  "geometry": {"coordinates":[-149.337227,61.579168],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.808194,61.179093,-149.808194,61.179093",
+    "geom:latitude":61.179093,
+    "geom:longitude":-149.808194,
+    "iso:country":"US",
+    "sg:address":"4501 S Bragaw St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 7867",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "program",
+        "prevention",
+        "crime"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JIEjOiq8wnxkOJAxNoO9I_61.179093_-149.808194@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"65fa012c857a83b7f2278e312b508828",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102181501"
+        }
+    ],
+    "wof:id":"102181501",
+    "wof:lastmodified":1449069236,
+    "wof:name":"Crime Stoppers-Anchorage Inc",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.808194,61.179093,-149.808194,61.179093],
+  "geometry": {"coordinates":[-149.808194,61.179093],"type":"Point"}
+}

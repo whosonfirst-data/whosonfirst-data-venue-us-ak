@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.852048,64.808316,-147.852048,64.808316",
+    "geom:latitude":64.808316,
+    "geom:longitude":-147.852048,
+    "iso:country":"US",
+    "sg:address":"3811 University Ave S",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 0137",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916551,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qFFMaKcyevrr1bgPJR6r7_64.808316_-147.852048@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"75abb3a7ebe7d1d69777aad94ffce9f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916551,
+            "region_id":85688573,
+            "venue_id":"102182549"
+        }
+    ],
+    "wof:id":"102182549",
+    "wof:lastmodified":1449069280,
+    "wof:name":"US Automated Flight Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.852048,64.808316,-147.852048,64.808316],
+  "geometry": {"coordinates":[-147.852048,64.808316],"type":"Point"}
+}

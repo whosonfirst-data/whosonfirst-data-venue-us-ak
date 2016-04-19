@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.769359,61.057483,-149.769359,61.057483",
+    "geom:latitude":61.057483,
+    "geom:longitude":-149.769359,
+    "iso:country":"US",
+    "sg:address":"5925 Austria Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 0253",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "siding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873751,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Lc5qfPGXPnUTiVqDmj6PP_61.057483_-149.769359@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1ce3d87d58b30f879a09a84ca42485f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873751,
+            "region_id":85688573,
+            "venue_id":"102161847"
+        }
+    ],
+    "wof:id":"102161847",
+    "wof:lastmodified":1449068712,
+    "wof:name":"All Decked Out",
+    "wof:parent_id":85873751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.769359,61.057483,-149.769359,61.057483],
+  "geometry": {"coordinates":[-149.769359,61.057483],"type":"Point"}
+}

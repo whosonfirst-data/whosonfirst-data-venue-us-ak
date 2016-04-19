@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.123736,60.724504,-151.123736,60.724504",
+    "geom:latitude":60.724504,
+    "geom:longitude":-151.123736,
+    "iso:country":"US",
+    "sg:address":"46430 Jake's Way",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 776 8650",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916883,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JRbZfOyOaREvIbjKfAJ0v_60.724504_-151.123736@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"55841f96aa53abcd116465b16b488086",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916883,
+            "region_id":85688573,
+            "venue_id":"102181295"
+        }
+    ],
+    "wof:id":"102181295",
+    "wof:lastmodified":1449069235,
+    "wof:name":"Espresso Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.123736,60.724504,-151.123736,60.724504],
+  "geometry": {"coordinates":[-151.123736,60.724504],"type":"Point"}
+}

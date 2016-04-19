@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-156.77988,71.292311,-156.77988,71.292311",
+    "geom:latitude":71.292311,
+    "geom:longitude":-156.77988,
+    "iso:country":"US",
+    "sg:address":"1265 Agvik St",
+    "sg:city":"Barrow",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 852 3464",
+    "sg:postcode":"99723",
+    "sg:province":"AK",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915545,
+        85633793,
+        85688573,
+        102081001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CxWwSYSiAxP9GrT55m8cf_71.292311_-156.779880@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1fa3cc60ec5e57b2652db09be334502a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081001,
+            "locality_id":85915545,
+            "region_id":85688573,
+            "venue_id":"102174383"
+        }
+    ],
+    "wof:id":"102174383",
+    "wof:lastmodified":1449068139,
+    "wof:name":"Fish & Game Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-156.77988,71.292311,-156.77988,71.292311],
+  "geometry": {"coordinates":[-156.77988,71.292311],"type":"Point"}
+}

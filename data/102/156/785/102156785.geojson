@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.745722,61.217018,-149.745722,61.217018",
+    "geom:latitude":61.217018,
+    "geom:longitude":-149.745722,
+    "iso:country":"US",
+    "sg:address":"7101 E 6th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 3352",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "ceramic",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E866YTDhxsMZg2uED4kXn_61.217018_-149.745722@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9864908ad4fca4bf13803616ae282511",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102156785"
+        }
+    ],
+    "wof:id":"102156785",
+    "wof:lastmodified":1449068284,
+    "wof:name":"Alaska Ceramic Cache",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.745722,61.217018,-149.745722,61.217018],
+  "geometry": {"coordinates":[-149.745722,61.217018],"type":"Point"}
+}

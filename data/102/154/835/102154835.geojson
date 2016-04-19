@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.331096,64.787983,-147.331096,64.787983",
+    "geom:latitude":64.787983,
+    "geom:longitude":-147.331096,
+    "iso:country":"US",
+    "sg:address":"2305 Pool St",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 9909",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "automobile",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916555,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00TNctA5wKG1ZrWBlh1SP6_64.787983_-147.331096@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0aa87b73283cde9979a7baf6898e25d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916555,
+            "region_id":85688573,
+            "venue_id":"102154835"
+        }
+    ],
+    "wof:id":"102154835",
+    "wof:lastmodified":1449070242,
+    "wof:name":"Mighty Auto Parts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.331096,64.787983,-147.331096,64.787983],
+  "geometry": {"coordinates":[-147.331096,64.787983],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.489794,58.357871,-134.489794,58.357871",
+    "geom:latitude":58.357871,
+    "geom:longitude":-134.489794,
+    "iso:country":"US",
+    "sg:address":"5441 Commercial Blvd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 465 3392",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "program",
+        "state",
+        "adm"
+    ],
+    "sg:website":"www.vitalrecords.alaska.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VXQJAUat9gk0BHFTtmMvX_58.357871_-134.489794@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f1b61a09691d2e3e2e8baf1809c8ad31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102161371"
+        }
+    ],
+    "wof:id":"102161371",
+    "wof:lastmodified":1449068711,
+    "wof:name":"Vital Statistics Bureau",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.489794,58.357871,-134.489794,58.357871],
+  "geometry": {"coordinates":[-134.489794,58.357871],"type":"Point"}
+}

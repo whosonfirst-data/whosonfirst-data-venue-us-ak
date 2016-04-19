@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.669338,64.8517,-147.669338,64.8517",
+    "geom:latitude":64.8517,
+    "geom:longitude":-147.669338,
+    "iso:country":"US",
+    "sg:address":"1007 Shannon Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 5147",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fMIhWHFl16uNS8T4A6bJK_64.851700_-147.669338@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cae610379635950b0c6054bf08560ac6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102195033"
+        }
+    ],
+    "wof:id":"102195033",
+    "wof:lastmodified":1449069362,
+    "wof:name":"Progressive Plumbing & Heating",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.669338,64.8517,-147.669338,64.8517],
+  "geometry": {"coordinates":[-147.669338,64.8517],"type":"Point"}
+}

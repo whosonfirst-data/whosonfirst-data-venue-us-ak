@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-150.995805,60.500916,-150.995805,60.500916",
+    "geom:latitude":60.500916,
+    "geom:longitude":-150.995805,
+    "iso:country":"US",
+    "sg:address":"41910 Sterling Hwy",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 5577",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916845,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04jJsMiFtX4Z2MbMxBK2RL_60.500916_-150.995805@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"04a972947997ff926169696919c9ec51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916845,
+            "region_id":85688573,
+            "venue_id":"102163133"
+        }
+    ],
+    "wof:id":"102163133",
+    "wof:lastmodified":1449070165,
+    "wof:name":"Church Of Christ Soldotna",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-150.995805,60.500916,-150.995805,60.500916],
+  "geometry": {"coordinates":[-150.995805,60.500916],"type":"Point"}
+}

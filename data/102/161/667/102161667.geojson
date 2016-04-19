@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.861731,61.201901,-149.861731,61.201901",
+    "geom:latitude":61.201901,
+    "geom:longitude":-149.861731,
+    "iso:country":"US",
+    "sg:address":"1019 E 20th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 9564",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PI9LDgzGIpQdsdLvIPxky_61.201901_-149.861731@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9b38f0d91b18a84e7f4984536f3868c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102161667"
+        }
+    ],
+    "wof:id":"102161667",
+    "wof:lastmodified":1449068711,
+    "wof:name":"Chester Park Estates",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.861731,61.201901,-149.861731,61.201901],
+  "geometry": {"coordinates":[-149.861731,61.201901],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.505513,61.587391,-149.505513,61.587391",
+    "geom:latitude":61.587391,
+    "geom:longitude":-149.505513,
+    "iso:country":"US",
+    "sg:address":"2331 Melanie Ave",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 4619",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nHvi0jN5b2sWlo9hJxgEu_61.587391_-149.505513@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d5afe798eec0341e9129773483ae7553",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102161047"
+        }
+    ],
+    "wof:id":"102161047",
+    "wof:lastmodified":1449068710,
+    "wof:name":"Busy Bees Cleaning",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.505513,61.587391,-149.505513,61.587391],
+  "geometry": {"coordinates":[-149.505513,61.587391],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.828461,61.09413,-149.828461,61.09413",
+    "geom:latitude":61.09413,
+    "geom:longitude":-149.828461,
+    "iso:country":"US",
+    "sg:address":"2820 de Armoun Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 346 4618",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plastering",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XUo7wjGMkmBmqAJyCndQf_61.094130_-149.828461@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e8a7e1a966f63764027726a83651435b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102176079"
+        }
+    ],
+    "wof:id":"102176079",
+    "wof:lastmodified":1449069348,
+    "wof:name":"Stewart Construction Co",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.828461,61.09413,-149.828461,61.09413],
+  "geometry": {"coordinates":[-149.828461,61.09413],"type":"Point"}
+}

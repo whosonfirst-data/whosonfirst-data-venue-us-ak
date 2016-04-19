@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.845782,61.224033,-149.845782,61.224033",
+    "geom:latitude":61.224033,
+    "geom:longitude":-149.845782,
+    "iso:country":"US",
+    "sg:address":"311 N Sitka St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 0125",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "asbestos",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873711,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IrvmyRezu2uyeidRA1Bzn_61.224033_-149.845782@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"609d286d58c181b60a4e696f75897d92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873711,
+            "region_id":85688573,
+            "venue_id":"102172557"
+        }
+    ],
+    "wof:id":"102172557",
+    "wof:lastmodified":1449068736,
+    "wof:name":"Central Environmental Inc",
+    "wof:parent_id":85873711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.845782,61.224033,-149.845782,61.224033],
+  "geometry": {"coordinates":[-149.845782,61.224033],"type":"Point"}
+}

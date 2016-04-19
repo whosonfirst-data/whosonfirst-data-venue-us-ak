@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.492132,59.64372,-151.492132,59.64372",
+    "geom:latitude":59.64372,
+    "geom:longitude":-151.492132,
+    "iso:country":"US",
+    "sg:address":"3520 F A A Rd",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 7771",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "helicopter",
+        "rental"
+    ],
+    "sg:website":"www.maritimehelicopters.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vIOATUCPLRTFMa63I1kd6_59.643720_-151.492132@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7741ac7d4729385aef5b084dfeed7aea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102153567"
+        }
+    ],
+    "wof:id":"102153567",
+    "wof:lastmodified":1449069463,
+    "wof:name":"Maritime Helicopters",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.492132,59.64372,-151.492132,59.64372],
+  "geometry": {"coordinates":[-151.492132,59.64372],"type":"Point"}
+}

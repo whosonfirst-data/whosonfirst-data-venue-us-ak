@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.585457,58.361366,-134.585457,58.361366",
+    "geom:latitude":58.361366,
+    "geom:longitude":-134.585457,
+    "iso:country":"US",
+    "sg:address":"9243 Bonnett Way",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 4001",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eRwo5P53V2ChMsNFqk2kk_58.361366_-134.585457@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4a5c5e494278378c9ad0588ebf8c5ece",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102190679"
+        }
+    ],
+    "wof:id":"102190679",
+    "wof:lastmodified":1449070036,
+    "wof:name":"Juneau City Field Maintenance",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.585457,58.361366,-134.585457,58.361366],
+  "geometry": {"coordinates":[-134.585457,58.361366],"type":"Point"}
+}

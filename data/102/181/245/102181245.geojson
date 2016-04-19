@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.336146,57.050681,-135.336146,57.050681",
+    "geom:latitude":57.050681,
+    "geom:longitude":-135.336146,
+    "iso:country":"US",
+    "sg:address":"236 Lincoln St",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 966 2428",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_407Nk4r7gqIbuhcKfROcRJ_57.050681_-135.336146@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"84a5894fff56a06169cd6062f233b611",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102181245"
+        }
+    ],
+    "wof:id":"102181245",
+    "wof:lastmodified":1449069237,
+    "wof:name":"Pizza Express",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.336146,57.050681,-135.336146,57.050681],
+  "geometry": {"coordinates":[-135.336146,57.050681],"type":"Point"}
+}

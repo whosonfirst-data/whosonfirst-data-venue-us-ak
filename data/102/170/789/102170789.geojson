@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.836606,61.22786,-149.836606,61.22786",
+    "geom:latitude":61.22786,
+    "geom:longitude":-149.836606,
+    "iso:country":"US",
+    "sg:address":"2600 Railroad Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 3020",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820221,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JmmJbHXznZEGIJOWCB1Ke_61.227860_-149.836606@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"02e2ec73045500719bb567862285d3b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85820221,
+            "region_id":85688573,
+            "venue_id":"102170789"
+        }
+    ],
+    "wof:id":"102170789",
+    "wof:lastmodified":1449068018,
+    "wof:name":"Houston Painting Co Inc",
+    "wof:parent_id":85820221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.836606,61.22786,-149.836606,61.22786],
+  "geometry": {"coordinates":[-149.836606,61.22786],"type":"Point"}
+}

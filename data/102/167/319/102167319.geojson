@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.992946,64.785991,-147.992946,64.785991",
+    "geom:latitude":64.785991,
+    "geom:longitude":-147.992946,
+    "iso:country":"US",
+    "sg:address":"1825 Perkins Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 5852",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916563,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xOEHeBqmkDrhXPgh662i4_64.785991_-147.992946@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e34de97db932ad1c63b5ddafae6dcfa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916563,
+            "region_id":85688573,
+            "venue_id":"102167319"
+        }
+    ],
+    "wof:id":"102167319",
+    "wof:lastmodified":1449069001,
+    "wof:name":"Arthur N Caissie",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.992946,64.785991,-147.992946,64.785991],
+  "geometry": {"coordinates":[-147.992946,64.785991],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.703222,64.848771,-147.703222,64.848771",
+    "geom:latitude":64.848771,
+    "geom:longitude":-147.703222,
+    "iso:country":"US",
+    "sg:address":"314 Old Steese Hwy",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 356 1253",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f22jrLRFDeuuN8bTWosAX_64.848771_-147.703222@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c3bfe4eff3bb9d69ceb1e6c7e093cb19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102186679"
+        }
+    ],
+    "wof:id":"102186679",
+    "wof:lastmodified":1449069654,
+    "wof:name":"Mac Federal Credit Union",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.703222,64.848771,-147.703222,64.848771],
+  "geometry": {"coordinates":[-147.703222,64.848771],"type":"Point"}
+}

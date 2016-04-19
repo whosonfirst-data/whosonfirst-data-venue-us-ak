@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-156.79213,71.290662,-156.79213,71.290662",
+    "geom:latitude":71.290662,
+    "geom:longitude":-156.79213,
+    "iso:country":"US",
+    "sg:address":"936 Stevenson St",
+    "sg:city":"Barrow",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 852 2500",
+    "sg:postcode":"99723",
+    "sg:province":"AK",
+    "sg:tags":[
+        "water",
+        "bulk",
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915545,
+        85633793,
+        85688573,
+        102081001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qjpydlr7rblw11mHCtQR4_71.290662_-156.792130@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6c442723bf37deaa82bf6bfe257d4f3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081001,
+            "locality_id":85915545,
+            "region_id":85688573,
+            "venue_id":"102175881"
+        }
+    ],
+    "wof:id":"102175881",
+    "wof:lastmodified":1449069465,
+    "wof:name":"Water Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-156.79213,71.290662,-156.79213,71.290662],
+  "geometry": {"coordinates":[-156.79213,71.290662],"type":"Point"}
+}

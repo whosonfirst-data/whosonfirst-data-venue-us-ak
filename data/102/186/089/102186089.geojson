@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.67628,64.884592,-147.67628,64.884592",
+    "geom:latitude":64.884592,
+    "geom:longitude":-147.67628,
+    "iso:country":"US",
+    "sg:address":"399 Farmers Loop Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 6111",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "furnace",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916559,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fImus5KGpCateUBKZlAev_64.884592_-147.676280@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db6bcd5652afc80ace269698e75b3f96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "region_id":85688573,
+            "venue_id":"102186089"
+        }
+    ],
+    "wof:id":"102186089",
+    "wof:lastmodified":1449069652,
+    "wof:name":"Fast Alaska Heating Sales",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.67628,64.884592,-147.67628,64.884592],
+  "geometry": {"coordinates":[-147.67628,64.884592],"type":"Point"}
+}

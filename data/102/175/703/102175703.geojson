@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.724574,64.837328,-147.724574,64.837328",
+    "geom:latitude":64.837328,
+    "geom:longitude":-147.724574,
+    "iso:country":"US",
+    "sg:address":"748 Gaffney Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 3882",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SCtP7XmTx5XmxyWzjzxAX_64.837328_-147.724574@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2d5cd71b1dd52155a28f3be50e1fcd16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102175703"
+        }
+    ],
+    "wof:id":"102175703",
+    "wof:lastmodified":1449069464,
+    "wof:name":"Net Tech Inc",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.724574,64.837328,-147.724574,64.837328],
+  "geometry": {"coordinates":[-147.724574,64.837328],"type":"Point"}
+}

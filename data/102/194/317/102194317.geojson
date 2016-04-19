@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.725868,61.109595,-149.725868,61.109595",
+    "geom:latitude":61.109595,
+    "geom:longitude":-149.725868,
+    "iso:country":"US",
+    "sg:address":"8501 Sultana Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 2510",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873747,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XIhTuIsEkXx8CM579kPgn_61.109595_-149.725868@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b7cb410f94a3e9158d18ea46bb612d35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873747,
+            "region_id":85688573,
+            "venue_id":"102194317"
+        }
+    ],
+    "wof:id":"102194317",
+    "wof:lastmodified":1449069827,
+    "wof:name":"John E Schultz DO",
+    "wof:parent_id":85873747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.725868,61.109595,-149.725868,61.109595],
+  "geometry": {"coordinates":[-149.725868,61.109595],"type":"Point"}
+}

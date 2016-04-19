@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.397591,57.793691,-152.397591,57.793691",
+    "geom:latitude":57.793691,
+    "geom:longitude":-152.397591,
+    "iso:country":"US",
+    "sg:address":"813 Mill Bay Rd",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 4499",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YwdJfsq71XkzvSYcc7GNH_57.793691_-152.397591@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e2a59ba21afd48d9a11f375970f6d7f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102192999"
+        }
+    ],
+    "wof:id":"102192999",
+    "wof:lastmodified":1449069505,
+    "wof:name":"Arctic Physical Therapy Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.397591,57.793691,-152.397591,57.793691],
+  "geometry": {"coordinates":[-152.397591,57.793691],"type":"Point"}
+}

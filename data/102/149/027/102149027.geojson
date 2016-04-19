@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.707436,64.848966,-147.707436,64.848966",
+    "geom:latitude":64.848966,
+    "geom:longitude":-147.707436,
+    "iso:country":"US",
+    "sg:address":"114 Minnie St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 4509",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xYoXA1v8ZPyxBB01rn550_64.848966_-147.707436@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"024defab7e56f196260e593d27b880bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102149027"
+        }
+    ],
+    "wof:id":"102149027",
+    "wof:lastmodified":1449067770,
+    "wof:name":"North Star Childrens Dntstry",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.707436,64.848966,-147.707436,64.848966],
+  "geometry": {"coordinates":[-147.707436,64.848966],"type":"Point"}
+}

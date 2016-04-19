@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.81344,61.091463,-149.81344,61.091463",
+    "geom:latitude":61.091463,
+    "geom:longitude":-149.81344,
+    "iso:country":"US",
+    "sg:address":"14300 Ida Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 0249",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03TKMgbAu3vE0Kogs7Ateb_61.091463_-149.813440@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d6d6be0f15c8c04bc5708ef58e25aad1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102187141"
+        }
+    ],
+    "wof:id":"102187141",
+    "wof:lastmodified":1449068158,
+    "wof:name":"Tundra Mechanical Inc",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.81344,61.091463,-149.81344,61.091463],
+  "geometry": {"coordinates":[-149.81344,61.091463],"type":"Point"}
+}

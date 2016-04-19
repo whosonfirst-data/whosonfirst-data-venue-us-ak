@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.710809,64.81178,-147.710809,64.81178",
+    "geom:latitude":64.81178,
+    "geom:longitude":-147.710809,
+    "iso:country":"US",
+    "sg:address":"3908 S Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 4306",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "sg:website":"www.landmarkalaska.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gCAXSOPdFU9hb7h5WsXwX_64.811780_-147.710809@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b15b42a17ecc6ef90e59c943b0d92703",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102176621"
+        }
+    ],
+    "wof:id":"102176621",
+    "wof:lastmodified":1449069350,
+    "wof:name":"Landmark Inc",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.710809,64.81178,-147.710809,64.81178],
+  "geometry": {"coordinates":[-147.710809,64.81178],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-145.709411,64.031519,-145.709411,64.031519",
+    "geom:latitude":64.031519,
+    "geom:longitude":-145.709411,
+    "iso:country":"US",
+    "sg:address":"1420 Alaska Hwy",
+    "sg:city":"Delta Junction",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 895 4080",
+    "sg:postcode":"99737",
+    "sg:province":"AK",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915595,
+        85633793,
+        85688573,
+        102080993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08cnrE8XbGuVhe5o6hOD8D_64.031519_-145.709411@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6edeee8bb90ccbeb56e9deed6d748e25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080993,
+            "locality_id":85915595,
+            "region_id":85688573,
+            "venue_id":"102156303"
+        }
+    ],
+    "wof:id":"102156303",
+    "wof:lastmodified":1449068278,
+    "wof:name":"Crimestoppers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-145.709411,64.031519,-145.709411,64.031519],
+  "geometry": {"coordinates":[-145.709411,64.031519],"type":"Point"}
+}

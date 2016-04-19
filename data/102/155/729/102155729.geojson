@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.792526,64.849081,-147.792526,64.849081",
+    "geom:latitude":64.849081,
+    "geom:longitude":-147.792526,
+    "iso:country":"US",
+    "sg:address":"3420 Phillips Field Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 4960",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "concrete",
+        "shape",
+        "block"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tq1DlnwZE4vrdmW6WY5iM_64.849081_-147.792526@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5788a34c1753c469fa55c7ff1ffd38a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102155729"
+        }
+    ],
+    "wof:id":"102155729",
+    "wof:lastmodified":1449069743,
+    "wof:name":"University Block Co",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.792526,64.849081,-147.792526,64.849081],
+  "geometry": {"coordinates":[-147.792526,64.849081],"type":"Point"}
+}

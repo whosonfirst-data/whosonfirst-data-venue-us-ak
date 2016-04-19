@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.909625,61.195372,-149.909625,61.195372",
+    "geom:latitude":61.195372,
+    "geom:longitude":-149.909625,
+    "iso:country":"US",
+    "sg:address":"1417 W Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 2233",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V2AxBZw8QdirQtCyYUIn7_61.195372_-149.909625@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ce53cff5d05b1459605f0e0cf9d6ca5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102150645"
+        }
+    ],
+    "wof:id":"102150645",
+    "wof:lastmodified":1449067786,
+    "wof:name":"State Farm Insurance",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.909625,61.195372,-149.909625,61.195372],
+  "geometry": {"coordinates":[-149.909625,61.195372],"type":"Point"}
+}

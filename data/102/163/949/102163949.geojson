@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.284072,64.781121,-147.284072,64.781121",
+    "geom:latitude":64.781121,
+    "geom:longitude":-147.284072,
+    "iso:country":"US",
+    "sg:address":"1925 Greenwood St",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 1230",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916555,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29UwoMNbzjIY9pGBZkiPdl_64.781121_-147.284072@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"46e3a83d86972074676d1a7adf4a74db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916555,
+            "region_id":85688573,
+            "venue_id":"102163949"
+        }
+    ],
+    "wof:id":"102163949",
+    "wof:lastmodified":1449070165,
+    "wof:name":"Northern Carpet Cleaning",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.284072,64.781121,-147.284072,64.781121],
+  "geometry": {"coordinates":[-147.284072,64.781121],"type":"Point"}
+}

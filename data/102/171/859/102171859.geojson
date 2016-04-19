@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.558013,58.360081,-134.558013,58.360081",
+    "geom:latitude":58.360081,
+    "geom:longitude":-134.558013,
+    "iso:country":"US",
+    "sg:address":"7691 Glacier Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 7551",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "computer",
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915729,
+        85633793,
+        85688573,
+        102081399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Z6NLmHH9z1kkgoOxpTXku_58.360081_-134.558013@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ef3695cf2aa4958cc19d443e8c79a64d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "region_id":85688573,
+            "venue_id":"102171859"
+        }
+    ],
+    "wof:id":"102171859",
+    "wof:lastmodified":1449070223,
+    "wof:name":"Southast Alsk Vterinary Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.558013,58.360081,-134.558013,58.360081],
+  "geometry": {"coordinates":[-134.558013,58.360081],"type":"Point"}
+}

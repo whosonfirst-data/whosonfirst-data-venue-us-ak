@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.862723,61.13006,-149.862723,61.13006",
+    "geom:latitude":61.13006,
+    "geom:longitude":-149.862723,
+    "iso:country":"US",
+    "sg:address":"9825 William Jones Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 0093",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iDLMAuVSpSGz1MgwBYaTc_61.130060_-149.862723@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a8b187182d9ab9174dd92fa180efabe3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102173191"
+        }
+    ],
+    "wof:id":"102173191",
+    "wof:lastmodified":1449068265,
+    "wof:name":"Advanced Industries",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.862723,61.13006,-149.862723,61.13006],
+  "geometry": {"coordinates":[-149.862723,61.13006],"type":"Point"}
+}

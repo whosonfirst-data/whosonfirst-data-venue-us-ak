@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.432424,61.395514,-149.432424,61.395514",
+    "geom:latitude":61.395514,
+    "geom:longitude":-149.432424,
+    "iso:country":"US",
+    "sg:address":"24149 Platsek Dr",
+    "sg:city":"Chugiak",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 688 5204",
+    "sg:postcode":"99567",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869049,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hOcsacfYfldwNdvdoCSSl_61.395514_-149.432424@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b0ba749158b12e3093e305d9fef7025e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869049,
+            "region_id":85688573,
+            "venue_id":"102165557"
+        }
+    ],
+    "wof:id":"102165557",
+    "wof:lastmodified":1449070217,
+    "wof:name":"Kids Corner Child Care",
+    "wof:parent_id":85869049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.432424,61.395514,-149.432424,61.395514],
+  "geometry": {"coordinates":[-149.432424,61.395514],"type":"Point"}
+}

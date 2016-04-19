@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.585711,58.361371,-134.585711,58.361371",
+    "geom:latitude":58.361371,
+    "geom:longitude":-134.585711,
+    "iso:country":"US",
+    "sg:address":"9203 Bonnett Way",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 3945",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KvtkIWxcaWuDPfzjGWDre_58.361371_-134.585711@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"96e3a54c53bf83cd7ca567f4054b8ad3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102169343"
+        }
+    ],
+    "wof:id":"102169343",
+    "wof:lastmodified":1449069249,
+    "wof:name":"Empire Airlines",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.585711,58.361371,-134.585711,58.361371],
+  "geometry": {"coordinates":[-134.585711,58.361371],"type":"Point"}
+}

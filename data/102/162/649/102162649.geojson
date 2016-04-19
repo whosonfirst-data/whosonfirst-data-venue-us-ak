@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.802163,55.441681,-131.802163,55.441681",
+    "geom:latitude":55.441681,
+    "geom:longitude":-131.802163,
+    "iso:country":"US",
+    "sg:address":"176 Pond Reef Rd",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 247 5027",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qgcrxc1n89eztMegZYAEP_55.441681_-131.802163@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1826cfeae56dbaefc9862acbcf9f6e22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "region_id":85688573,
+            "venue_id":"102162649"
+        }
+    ],
+    "wof:id":"102162649",
+    "wof:lastmodified":1449069823,
+    "wof:name":"Joe Schwierking Inspection",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.802163,55.441681,-131.802163,55.441681],
+  "geometry": {"coordinates":[-131.802163,55.441681],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-145.547492,64.040905,-145.547492,64.040905",
+    "geom:latitude":64.040905,
+    "geom:longitude":-145.547492,
+    "iso:country":"US",
+    "sg:address":"1649 Souhrada Rd",
+    "sg:city":"Delta Junction",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 895 4331",
+    "sg:postcode":"99737",
+    "sg:province":"AK",
+    "sg:tags":[
+        "consultant",
+        "sanitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916509,
+        85633793,
+        85688573,
+        102080993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4N3obfewLvaGI0Uf0U3A9v_64.040905_-145.547492@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"38b34250e582ce049471d38bbd778273",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080993,
+            "locality_id":85916509,
+            "region_id":85688573,
+            "venue_id":"102194827"
+        }
+    ],
+    "wof:id":"102194827",
+    "wof:lastmodified":1449069828,
+    "wof:name":"Delta Sanitation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-145.547492,64.040905,-145.547492,64.040905],
+  "geometry": {"coordinates":[-145.547492,64.040905],"type":"Point"}
+}

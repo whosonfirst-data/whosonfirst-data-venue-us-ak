@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.955969,61.197845,-149.955969,61.197845",
+    "geom:latitude":61.197845,
+    "geom:longitude":-149.955969,
+    "iso:country":"US",
+    "sg:address":"2427 Spur Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 7010",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "crane"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852831,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uGTYoArFpTq5oNdHzmKLf_61.197845_-149.955969@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bd837331b262be6db331d1447a47e9d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":"102153151"
+        }
+    ],
+    "wof:id":"102153151",
+    "wof:lastmodified":1449069460,
+    "wof:name":"Gunderson Equipment LTD",
+    "wof:parent_id":85852831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.955969,61.197845,-149.955969,61.197845],
+  "geometry": {"coordinates":[-149.955969,61.197845],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.91068,61.140133,-149.91068,61.140133",
+    "geom:latitude":61.140133,
+    "geom:longitude":-149.91068,
+    "iso:country":"US",
+    "sg:address":"8850 Runamuck Pl",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 0499",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "recreational",
+        "leasing",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00A03LQQM2bQ0HOVGGMjJY_61.140133_-149.910680@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"438815a1bc2f055fb42b593b82cdca93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102156817"
+        }
+    ],
+    "wof:id":"102156817",
+    "wof:lastmodified":1449068284,
+    "wof:name":"Cruise America",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.91068,61.140133,-149.91068,61.140133],
+  "geometry": {"coordinates":[-149.91068,61.140133],"type":"Point"}
+}

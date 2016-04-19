@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.452592,61.574871,-149.452592,61.574871",
+    "geom:latitude":61.574871,
+    "geom:longitude":-149.452592,
+    "iso:country":"US",
+    "sg:address":"100 W Lake View Ave",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 5333",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XFGdyYUaYmiTOlgOyWssY_61.574871_-149.452592@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5732b5d3f7ecbd29f55998362a70adcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102169579"
+        }
+    ],
+    "wof:id":"102169579",
+    "wof:lastmodified":1449069246,
+    "wof:name":"Carney Law Firm",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.452592,61.574871,-149.452592,61.574871],
+  "geometry": {"coordinates":[-149.452592,61.574871],"type":"Point"}
+}

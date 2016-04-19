@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.563575,59.669501,-151.563575,59.669501",
+    "geom:latitude":59.669501,
+    "geom:longitude":-151.563575,
+    "iso:country":"US",
+    "sg:address":"66945 Skyline Dr",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 226 2226",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GlEA5slotR2eFiOunPo8o_59.669501_-151.563575@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0d2b61ee4a47eefec3d5a1ac16fa74c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102177627"
+        }
+    ],
+    "wof:id":"102177627",
+    "wof:lastmodified":1449070210,
+    "wof:name":"Lodge At Homer",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.563575,59.669501,-151.563575,59.669501],
+  "geometry": {"coordinates":[-151.563575,59.669501],"type":"Point"}
+}

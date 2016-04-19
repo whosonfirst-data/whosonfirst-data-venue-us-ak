@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.905269,61.166267,-149.905269,61.166267",
+    "geom:latitude":61.166267,
+    "geom:longitude":-149.905269,
+    "iso:country":"US",
+    "sg:address":"1400 W Dowling Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 1423",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "concrete",
+        "block",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6B2yByZFt3YCmIKDhDhsOQ_61.166267_-149.905269@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0d76c718b7dc5c22e6689cd16a23cf1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102193325"
+        }
+    ],
+    "wof:id":"102193325",
+    "wof:lastmodified":1449068191,
+    "wof:name":"Davis Concrete",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.905269,61.166267,-149.905269,61.166267],
+  "geometry": {"coordinates":[-149.905269,61.166267],"type":"Point"}
+}

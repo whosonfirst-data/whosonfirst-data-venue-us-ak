@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.478734,61.389304,-149.478734,61.389304",
+    "geom:latitude":61.389304,
+    "geom:longitude":-149.478734,
+    "iso:country":"US",
+    "sg:address":"18530 Old Glenn Hwy",
+    "sg:city":"Chugiak",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 688 2660",
+    "sg:postcode":"99567",
+    "sg:province":"AK",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806187,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39SahqNezbfdUzXUMP6rZZ_61.389304_-149.478734@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b9b23dce79b6f859839fb25950ea1d5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85806187,
+            "region_id":85688573,
+            "venue_id":"102162851"
+        }
+    ],
+    "wof:id":"102162851",
+    "wof:lastmodified":1449069822,
+    "wof:name":"Chugiak Children's Svc",
+    "wof:parent_id":85806187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.478734,61.389304,-149.478734,61.389304],
+  "geometry": {"coordinates":[-149.478734,61.389304],"type":"Point"}
+}

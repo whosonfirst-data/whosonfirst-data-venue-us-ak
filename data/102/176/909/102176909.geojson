@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.930551,61.184928,-149.930551,61.184928",
+    "geom:latitude":61.184928,
+    "geom:longitude":-149.930551,
+    "iso:country":"US",
+    "sg:address":"4001 Arkansas Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 929 7656",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "manager",
+        "recruiter",
+        "promoter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UK3KSA7dYQHGIu0Cnz688_61.184928_-149.930551@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cf726c40a709470d2b03f9efb639b8ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102176909"
+        }
+    ],
+    "wof:id":"102176909",
+    "wof:lastmodified":1449069348,
+    "wof:name":"Sports Officials Assn",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.930551,61.184928,-149.930551,61.184928],
+  "geometry": {"coordinates":[-149.930551,61.184928],"type":"Point"}
+}

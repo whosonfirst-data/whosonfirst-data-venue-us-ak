@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.17132,61.637577,-149.17132,61.637577",
+    "geom:latitude":61.637577,
+    "geom:longitude":-149.17132,
+    "iso:country":"US",
+    "sg:address":"10901 Center St",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 746 6881",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916265,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gBtXFqxrIJkMvjegncczZ_61.637577_-149.171320@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"551dc24d6cfab0fb4b52daf146a9b3e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916265,
+            "region_id":85688573,
+            "venue_id":"102166849"
+        }
+    ],
+    "wof:id":"102166849",
+    "wof:lastmodified":1449069083,
+    "wof:name":"Alaska's Caribou Cabins",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.17132,61.637577,-149.17132,61.637577],
+  "geometry": {"coordinates":[-149.17132,61.637577],"type":"Point"}
+}

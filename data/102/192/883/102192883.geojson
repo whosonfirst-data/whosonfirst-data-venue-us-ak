@@ -1,0 +1,67 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.733399,61.195375,-149.733399,61.195375",
+    "geom:latitude":61.195375,
+    "geom:longitude":-149.733399,
+    "iso:country":"US",
+    "sg:address":"2221 Muldoon Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 6511",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home",
+        "general",
+        "commercial",
+        "family",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873735,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nrOj5XJglyCWxkr3pzL3G_61.195375_-149.733399@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db432ec0fe8d3e372e8ac18577154471",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873735,
+            "region_id":85688573,
+            "venue_id":"102192883"
+        }
+    ],
+    "wof:id":"102192883",
+    "wof:lastmodified":1449069504,
+    "wof:name":"Cronin Services",
+    "wof:parent_id":85873735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.733399,61.195375,-149.733399,61.195375],
+  "geometry": {"coordinates":[-149.733399,61.195375],"type":"Point"}
+}

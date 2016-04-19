@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.49212,58.34904,-134.49212,58.34904",
+    "geom:latitude":58.34904,
+    "geom:longitude":-134.49212,
+    "iso:country":"US",
+    "sg:address":"5100 Glacier Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 780 4281",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UiFiUEbcCSwPHcooIRcol_58.349040_-134.492120@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"74e4e072b7e55f3e9e8561db0e667aa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102183199"
+        }
+    ],
+    "wof:id":"102183199",
+    "wof:lastmodified":1449069041,
+    "wof:name":"Church Of Jesus Christ Of Lds",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.49212,58.34904,-134.49212,58.34904],
+  "geometry": {"coordinates":[-134.49212,58.34904],"type":"Point"}
+}

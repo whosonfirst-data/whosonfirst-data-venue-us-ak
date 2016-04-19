@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.604806,58.364327,-134.604806,58.364327",
+    "geom:latitude":58.364327,
+    "geom:longitude":-134.604806,
+    "iso:country":"US",
+    "sg:address":"2279 Industrial Blvd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 9245",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915729,
+        85633793,
+        85688573,
+        102081399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rICHauneqXoq8cKSU3a9y_58.364327_-134.604806@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e5e9480595384652b25572d32ca73724",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "region_id":85688573,
+            "venue_id":"102165015"
+        }
+    ],
+    "wof:id":"102165015",
+    "wof:lastmodified":1449070214,
+    "wof:name":"Alaska Marine Maintenance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.604806,58.364327,-134.604806,58.364327],
+  "geometry": {"coordinates":[-134.604806,58.364327],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.420594,61.631843,-149.420594,61.631843",
+    "geom:latitude":61.631843,
+    "geom:longitude":-149.420594,
+    "iso:country":"US",
+    "sg:address":"4340 Bull Moose Dr",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 2485",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "resurfacing",
+        "laying",
+        "refinishing",
+        "floor"
+    ],
+    "sg:website":"www.akind.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916185,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Kkn7cNU7NG1EbjSXJv9J7_61.631843_-149.420594@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d22c49183716b2c0452e58f8fa65a43c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916185,
+            "region_id":85688573,
+            "venue_id":"102168893"
+        }
+    ],
+    "wof:id":"102168893",
+    "wof:lastmodified":1449069008,
+    "wof:name":"Alaskan Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.420594,61.631843,-149.420594,61.631843],
+  "geometry": {"coordinates":[-149.420594,61.631843],"type":"Point"}
+}

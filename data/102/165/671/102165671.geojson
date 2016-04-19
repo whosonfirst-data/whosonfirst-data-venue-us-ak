@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.835201,61.168734,-149.835201,61.168734",
+    "geom:latitude":61.168734,
+    "geom:longitude":-149.835201,
+    "iso:country":"US",
+    "sg:address":"5606 Tonga St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 4880",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aHCyA0oc60Hba4i9U3vNy_61.168734_-149.835201@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bca228e69a2fce200ea5018eae0323e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102165671"
+        }
+    ],
+    "wof:id":"102165671",
+    "wof:lastmodified":1449070214,
+    "wof:name":"Silverado Automotive",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.835201,61.168734,-149.835201,61.168734],
+  "geometry": {"coordinates":[-149.835201,61.168734],"type":"Point"}
+}

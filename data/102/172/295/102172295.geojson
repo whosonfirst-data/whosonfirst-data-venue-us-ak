@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.9501,61.19576,-149.9501,61.19576",
+    "geom:latitude":61.19576,
+    "geom:longitude":-149.9501,
+    "iso:country":"US",
+    "sg:address":"3322 Seppala Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 8990",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852831,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z9aqopI3O0hQ7HTlwI8G5_61.195760_-149.950100@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4ae6b9f25cc582b7a6ec7be5c34f6c72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":"102172295"
+        }
+    ],
+    "wof:id":"102172295",
+    "wof:lastmodified":1449068737,
+    "wof:name":"Silk Software",
+    "wof:parent_id":85852831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.9501,61.19576,-149.9501,61.19576],
+  "geometry": {"coordinates":[-149.9501,61.19576],"type":"Point"}
+}

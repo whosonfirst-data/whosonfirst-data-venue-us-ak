@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.386862,57.79845,-152.386862,57.79845",
+    "geom:latitude":57.79845,
+    "geom:longitude":-152.386862,
+    "iso:country":"US",
+    "sg:address":"1417 Mill Bay Rd",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 4186",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cabinet",
+        "carpentry",
+        "maker",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zRYHgO6kZ38K1cKnluv3z_57.798450_-152.386862@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"33ae5a57cd1f2c66111e640e6e404427",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102169939"
+        }
+    ],
+    "wof:id":"102169939",
+    "wof:lastmodified":1449069246,
+    "wof:name":"Accident Cabinets",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.386862,57.79845,-152.386862,57.79845],
+  "geometry": {"coordinates":[-152.386862,57.79845],"type":"Point"}
+}

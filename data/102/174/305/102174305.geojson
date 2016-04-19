@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.906804,61.180652,-149.906804,61.180652",
+    "geom:latitude":61.180652,
+    "geom:longitude":-149.906804,
+    "iso:country":"US",
+    "sg:address":"1201 W Tudor Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 0018",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "garlic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IxxPay7E1BnxmWI5WS3wL_61.180652_-149.906804@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c2b6297a6f2a43fcc03307504c82606c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102174305"
+        }
+    ],
+    "wof:id":"102174305",
+    "wof:lastmodified":1449068138,
+    "wof:name":"Fil-AM Market",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.906804,61.180652,-149.906804,61.180652],
+  "geometry": {"coordinates":[-149.906804,61.180652],"type":"Point"}
+}

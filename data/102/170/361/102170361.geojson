@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.838748,61.208953,-149.838748,61.208953",
+    "geom:latitude":61.208953,
+    "geom:longitude":-149.838748,
+    "iso:country":"US",
+    "sg:address":"900 Merrill Field Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 278 5277",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "instrument",
+        "aircraft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nIKO5VImH86FnSgPRX08r_61.208953_-149.838748@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3e4f5d434eae004004dfa084cd50c56f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102170361"
+        }
+    ],
+    "wof:id":"102170361",
+    "wof:lastmodified":1449068019,
+    "wof:name":"Merrill Field Instruments",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.838748,61.208953,-149.838748,61.208953],
+  "geometry": {"coordinates":[-149.838748,61.208953],"type":"Point"}
+}

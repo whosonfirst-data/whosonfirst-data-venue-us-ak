@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.932702,61.182168,-149.932702,61.182168",
+    "geom:latitude":61.182168,
+    "geom:longitude":-149.932702,
+    "iso:country":"US",
+    "sg:address":"4334 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 245 0834",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "bars",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7C0IcxR8IqsHiqayFJDNcd_61.182168_-149.932702@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fdab0dc33f6c698a819f84249428d29b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102164413"
+        }
+    ],
+    "wof:id":"102164413",
+    "wof:lastmodified":1449068084,
+    "wof:name":"Uncle Monkey's Moca",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.932702,61.182168,-149.932702,61.182168],
+  "geometry": {"coordinates":[-149.932702,61.182168],"type":"Point"}
+}

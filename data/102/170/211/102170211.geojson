@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.071513,60.490197,-151.071513,60.490197",
+    "geom:latitude":60.490197,
+    "geom:longitude":-151.071513,
+    "iso:country":"US",
+    "sg:address":"162 E Park Ave",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 260 9221",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hZ23DAuv4FtZwyzybnYLS_60.490197_-151.071513@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cc028db0a0b06599055e2265ba986c8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102170211"
+        }
+    ],
+    "wof:id":"102170211",
+    "wof:lastmodified":1449068018,
+    "wof:name":"Montessori Charter School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.071513,60.490197,-151.071513,60.490197],
+  "geometry": {"coordinates":[-151.071513,60.490197],"type":"Point"}
+}

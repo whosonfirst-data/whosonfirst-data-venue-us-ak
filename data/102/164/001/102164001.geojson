@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.735214,61.214156,-149.735214,61.214156",
+    "geom:latitude":61.214156,
+    "geom:longitude":-149.735214,
+    "iso:country":"US",
+    "sg:address":"7610 Old Harbor Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 338 1300",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "audit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MMBwqM0zGzqWAxAzyKtJS_61.214156_-149.735214@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"593daf889d4c89dddb045e0d3f7e9f2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102164001"
+        }
+    ],
+    "wof:id":"102164001",
+    "wof:lastmodified":1449068090,
+    "wof:name":"Northland Business Svc",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.735214,61.214156,-149.735214,61.214156],
+  "geometry": {"coordinates":[-149.735214,61.214156],"type":"Point"}
+}

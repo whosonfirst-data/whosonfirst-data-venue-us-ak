@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.887258,61.204107,-149.887258,61.204107",
+    "geom:latitude":61.204107,
+    "geom:longitude":-149.887258,
+    "iso:country":"US",
+    "sg:address":"1689 C St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 929 9870",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "historical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IVwTPM1wCKsbaswPJXWMY_61.204107_-149.887258@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9c521854890022c927a8452bf7a76e87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102186133"
+        }
+    ],
+    "wof:id":"102186133",
+    "wof:lastmodified":1449069655,
+    "wof:name":"Alaska Association-Historic",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.887258,61.204107,-149.887258,61.204107],
+  "geometry": {"coordinates":[-149.887258,61.204107],"type":"Point"}
+}

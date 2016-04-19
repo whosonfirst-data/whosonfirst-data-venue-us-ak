@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.758204,64.836843,-147.758204,64.836843",
+    "geom:latitude":64.836843,
+    "geom:longitude":-147.758204,
+    "iso:country":"US",
+    "sg:address":"1688 Airport Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 2379",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "oil"
+    ],
+    "sg:website":"www.petrostar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LQTye3T7TujBrw96eyYTy_64.836843_-147.758204@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e4735da9df110f33f7108d47fe2afe08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102187335"
+        }
+    ],
+    "wof:id":"102187335",
+    "wof:lastmodified":1449068159,
+    "wof:name":"Shell",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.758204,64.836843,-147.758204,64.836843],
+  "geometry": {"coordinates":[-147.758204,64.836843],"type":"Point"}
+}

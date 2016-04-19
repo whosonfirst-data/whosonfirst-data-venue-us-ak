@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.829137,61.103119,-149.829137,61.103119",
+    "geom:latitude":61.103119,
+    "geom:longitude":-149.829137,
+    "iso:country":"US",
+    "sg:address":"2730 Kempton Hills Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 6138",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "venetian",
+        "blind"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_461CW6kTOdEiL8E3p34qyd_61.103119_-149.829137@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"44ae22f9ee17f66092450e57d37d436c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102169265"
+        }
+    ],
+    "wof:id":"102169265",
+    "wof:lastmodified":1449069247,
+    "wof:name":"C & Sons Inc",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.829137,61.103119,-149.829137,61.103119],
+  "geometry": {"coordinates":[-149.829137,61.103119],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.676989,64.81802,-147.676989,64.81802",
+    "geom:latitude":64.81802,
+    "geom:longitude":-147.676989,
+    "iso:country":"US",
+    "sg:address":"3140 Lakeview Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 1711",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "steel"
+    ],
+    "sg:website":"www.greertank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wmMyTmoZIGpqu4UrWw59k_64.818020_-147.676989@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b53abf3a8b54901e5dec903ba41f6666",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102157903"
+        }
+    ],
+    "wof:id":"102157903",
+    "wof:lastmodified":1449069830,
+    "wof:name":"Greer Tank & Welding",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.676989,64.81802,-147.676989,64.81802],
+  "geometry": {"coordinates":[-147.676989,64.81802],"type":"Point"}
+}

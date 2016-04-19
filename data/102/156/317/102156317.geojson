@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.878007,61.150878,-149.878007,61.150878",
+    "geom:latitude":61.150878,
+    "geom:longitude":-149.878007,
+    "iso:country":"US",
+    "sg:address":"7920 King St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 6620",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "water",
+        "heater"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rpXNQjgx3q64rLkjKseHv_61.150878_-149.878007@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"abd438ad82e595fe08cb9b0dc8617712",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102156317"
+        }
+    ],
+    "wof:id":"102156317",
+    "wof:lastmodified":1449068282,
+    "wof:name":"Anchorage Plumbing & Heating",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.878007,61.150878,-149.878007,61.150878],
+  "geometry": {"coordinates":[-149.878007,61.150878],"type":"Point"}
+}

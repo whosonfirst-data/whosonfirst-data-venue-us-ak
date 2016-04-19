@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.325057,57.05085,-135.325057,57.05085",
+    "geom:latitude":57.05085,
+    "geom:longitude":-135.325057,
+    "iso:country":"US",
+    "sg:address":"719 Lincoln St",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 3051",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "work",
+        "carpentry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ehXatK0By5KlWQ56XdVz8_57.050850_-135.325057@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c12d6cbd3ca83078b9602e392f92d4fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102151735"
+        }
+    ],
+    "wof:id":"102151735",
+    "wof:lastmodified":1449067783,
+    "wof:name":"OConnell Construction",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.325057,57.05085,-135.325057,57.05085],
+  "geometry": {"coordinates":[-135.325057,57.05085],"type":"Point"}
+}

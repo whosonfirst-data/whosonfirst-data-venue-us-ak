@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-133.09462,55.554224,-133.09462,55.554224",
+    "geom:latitude":55.554224,
+    "geom:longitude":-133.09462,
+    "iso:country":"US",
+    "sg:address":"550 Summit St",
+    "sg:city":"Klawock",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 755 2261",
+    "sg:postcode":"99925",
+    "sg:province":"AK",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916085,
+        85633793,
+        85688573,
+        102081403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hsJwRq0pBPU74uRORM3s0_55.554224_-133.094620@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"85c52241cc30dd96782155d40c341170",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081403,
+            "locality_id":85916085,
+            "region_id":85688573,
+            "venue_id":"102180017"
+        }
+    ],
+    "wof:id":"102180017",
+    "wof:lastmodified":1449067877,
+    "wof:name":"City Of Klawock",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-133.09462,55.554224,-133.09462,55.554224],
+  "geometry": {"coordinates":[-133.09462,55.554224],"type":"Point"}
+}

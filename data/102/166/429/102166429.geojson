@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.828885,61.209788,-149.828885,61.209788",
+    "geom:latitude":61.209788,
+    "geom:longitude":-149.828885,
+    "iso:country":"US",
+    "sg:address":"2741 Debarr Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 3366",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.summitfamily.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Msp9LDempQyr1KZprFYYU_61.209788_-149.828885@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"87ac0ee50ffe6bda685fd1ae6779f161",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102166429"
+        }
+    ],
+    "wof:id":"102166429",
+    "wof:lastmodified":1449069088,
+    "wof:name":"Summit Family Practice",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.828885,61.209788,-149.828885,61.209788],
+  "geometry": {"coordinates":[-149.828885,61.209788],"type":"Point"}
+}

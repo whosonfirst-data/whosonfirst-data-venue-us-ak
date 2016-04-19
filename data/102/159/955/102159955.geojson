@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.79555,64.827389,-147.79555,64.827389",
+    "geom:latitude":64.827389,
+    "geom:longitude":-147.79555,
+    "iso:country":"US",
+    "sg:address":"3045 Davis Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 0247",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "concrete",
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70AIP2JH0IlZ70BWdGW0ay_64.827389_-147.795550@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"129920dc7ad046709df208301a7283f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102159955"
+        }
+    ],
+    "wof:id":"102159955",
+    "wof:lastmodified":1449068095,
+    "wof:name":"J & L Service Construction",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.79555,64.827389,-147.79555,64.827389],
+  "geometry": {"coordinates":[-147.79555,64.827389],"type":"Point"}
+}

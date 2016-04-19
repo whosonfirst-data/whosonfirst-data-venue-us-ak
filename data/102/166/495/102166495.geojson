@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.944799,64.893234,-147.944799,64.893234",
+    "geom:latitude":64.893234,
+    "geom:longitude":-147.944799,
+    "iso:country":"US",
+    "sg:address":"780 Sheep Creek Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 6921",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916599,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FmVUMjSKfpAn884MTXoYg_64.893234_-147.944799@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"26ee2d7b6c7b973607afb69a03503492",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916599,
+            "region_id":85688573,
+            "venue_id":"102166495"
+        }
+    ],
+    "wof:id":"102166495",
+    "wof:lastmodified":1449069087,
+    "wof:name":"Ann's Greenhouse",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.944799,64.893234,-147.944799,64.893234],
+  "geometry": {"coordinates":[-147.944799,64.893234],"type":"Point"}
+}

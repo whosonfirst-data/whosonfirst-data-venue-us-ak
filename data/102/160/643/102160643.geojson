@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.731624,64.809474,-147.731624,64.809474",
+    "geom:latitude":64.809474,
+    "geom:longitude":-147.731624,
+    "iso:country":"US",
+    "sg:address":"1256 Queens Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 9068",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tD4Ieu33m0D7wsnj93Szp_64.809474_-147.731624@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d514a1af9631e0729dc85862060cf2e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102160643"
+        }
+    ],
+    "wof:id":"102160643",
+    "wof:lastmodified":1449069779,
+    "wof:name":"Act Now Upholstery",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.731624,64.809474,-147.731624,64.809474],
+  "geometry": {"coordinates":[-147.731624,64.809474],"type":"Point"}
+}

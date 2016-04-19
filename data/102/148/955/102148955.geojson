@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.449438,61.56742,-149.449438,61.56742",
+    "geom:latitude":61.56742,
+    "geom:longitude":-149.449438,
+    "iso:country":"US",
+    "sg:address":"1301 S Century Cir",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 5000",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "sg:website":"www.matsutransit.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PH6znNvaRWpUraaEkfgs7_61.567420_-149.449438@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"278e50979c54790806da80dc6b1af46e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102148955"
+        }
+    ],
+    "wof:id":"102148955",
+    "wof:lastmodified":1449069785,
+    "wof:name":"MASCOT",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.449438,61.56742,-149.449438,61.56742],
+  "geometry": {"coordinates":[-149.449438,61.56742],"type":"Point"}
+}

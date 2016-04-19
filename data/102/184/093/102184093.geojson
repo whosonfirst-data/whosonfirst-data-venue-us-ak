@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.879903,61.164305,-149.879903,61.164305",
+    "geom:latitude":61.164305,
+    "geom:longitude":-149.879903,
+    "iso:country":"US",
+    "sg:address":"141 A St Lp",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 1294",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35UGFfDjALNsvvpDFlEqn7_61.164305_-149.879903@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8a3c34a634974c18d0cfce20e46116c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102184093"
+        }
+    ],
+    "wof:id":"102184093",
+    "wof:lastmodified":1449068215,
+    "wof:name":"Mc Lin Contractors",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.879903,61.164305,-149.879903,61.164305],
+  "geometry": {"coordinates":[-149.879903,61.164305],"type":"Point"}
+}

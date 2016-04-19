@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.316767,57.051656,-135.316767,57.051656",
+    "geom:latitude":57.051656,
+    "geom:longitude":-135.316767,
+    "iso:country":"US",
+    "sg:address":"1314 Sawmill Creek Rd",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 8887",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0glgUMyhh8fX23TvYG5e21_57.051656_-135.316767@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b5ead518e931bef278c242e1249d83b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102189291"
+        }
+    ],
+    "wof:id":"102189291",
+    "wof:lastmodified":1449069497,
+    "wof:name":"Sitka Electric Company",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.316767,57.051656,-135.316767,57.051656],
+  "geometry": {"coordinates":[-135.316767,57.051656],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.788228,64.839653,-147.788228,64.839653",
+    "geom:latitude":64.839653,
+    "geom:longitude":-147.788228,
+    "iso:country":"US",
+    "sg:address":"1131 Ivy Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 8041",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TtuOW6n04yOTlJc6tlErP_64.839653_-147.788228@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f58abb4aec0107d1aad7e9bce6604815",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102188911"
+        }
+    ],
+    "wof:id":"102188911",
+    "wof:lastmodified":1449068947,
+    "wof:name":"Weber Stump Grinding",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.788228,64.839653,-147.788228,64.839653],
+  "geometry": {"coordinates":[-147.788228,64.839653],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.825093,61.207357,-149.825093,61.207357",
+    "geom:latitude":61.207357,
+    "geom:longitude":-149.825093,
+    "iso:country":"US",
+    "sg:address":"1569 Garden St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 646 4002",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "concrete",
+        "restoration",
+        "cleaning",
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20YkrpwHDFZiprCNjEnOhD_61.207357_-149.825093@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"40df642cf1985245e3075fd4e515469b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102178223"
+        }
+    ],
+    "wof:id":"102178223",
+    "wof:lastmodified":1449069528,
+    "wof:name":"Uretek Alaska Inc",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.825093,61.207357,-149.825093,61.207357],
+  "geometry": {"coordinates":[-149.825093,61.207357],"type":"Point"}
+}

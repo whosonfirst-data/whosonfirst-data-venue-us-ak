@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.544246,59.652829,-151.544246,59.652829",
+    "geom:latitude":59.652829,
+    "geom:longitude":-151.544246,
+    "iso:country":"US",
+    "sg:address":"124 Mountain View Dr",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 299 0322",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "terminal",
+        "line",
+        "barge"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47ASysl9BWxpJJcDiVUaIB_59.652829_-151.544246@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3c624ce607f0087e7817f11bbe6e32cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102175801"
+        }
+    ],
+    "wof:id":"102175801",
+    "wof:lastmodified":1449069468,
+    "wof:name":"Herring Island Haulers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.544246,59.652829,-151.544246,59.652829],
+  "geometry": {"coordinates":[-151.544246,59.652829],"type":"Point"}
+}

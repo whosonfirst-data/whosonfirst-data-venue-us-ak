@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.737072,61.215563,-149.737072,61.215563",
+    "geom:latitude":61.215563,
+    "geom:longitude":-149.737072,
+    "iso:country":"US",
+    "sg:address":"7530 Maryland Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 0063",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7k9hgENqGQ7E0PHFPNYuZ2_61.215563_-149.737072@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e81e656d2a0c860f1cb80c79f128c835",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102196045"
+        }
+    ],
+    "wof:id":"102196045",
+    "wof:lastmodified":1449068338,
+    "wof:name":"Nina's Rsvp Maid Svc",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.737072,61.215563,-149.737072,61.215563],
+  "geometry": {"coordinates":[-149.737072,61.215563],"type":"Point"}
+}

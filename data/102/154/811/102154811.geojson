@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.079731,60.47765,-151.079731,60.47765",
+    "geom:latitude":60.47765,
+    "geom:longitude":-151.079731,
+    "iso:country":"US",
+    "sg:address":"44758 Sterling Hwy",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 260 6794",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "alternative",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kBWTbMVRulW2LMQuop3ML_60.477650_-151.079731@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"25953f2b2ce17e4ff052ea561f0a31e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102154811"
+        }
+    ],
+    "wof:id":"102154811",
+    "wof:lastmodified":1449070244,
+    "wof:name":"Kayoktuk Care",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.079731,60.47765,-151.079731,60.47765],
+  "geometry": {"coordinates":[-151.079731,60.47765],"type":"Point"}
+}

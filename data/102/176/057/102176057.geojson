@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.886539,61.191696,-149.886539,61.191696",
+    "geom:latitude":61.191696,
+    "geom:longitude":-149.886539,
+    "iso:country":"US",
+    "sg:address":"3111 C St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 261 7500",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WMaXXd7oUezWXQcErnxzq_61.191696_-149.886539@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"43cf9f9c9c225a9cdacc3582a8f0e983",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102176057"
+        }
+    ],
+    "wof:id":"102176057",
+    "wof:lastmodified":1449069347,
+    "wof:name":"French Bean",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.886539,61.191696,-149.886539,61.191696],
+  "geometry": {"coordinates":[-149.886539,61.191696],"type":"Point"}
+}

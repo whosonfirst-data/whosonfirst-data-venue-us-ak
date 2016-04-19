@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.951831,61.154959,-149.951831,61.154959",
+    "geom:latitude":61.154959,
+    "geom:longitude":-149.951831,
+    "iso:country":"US",
+    "sg:address":"7141 Jewel Lake Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 0749",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JiRsC6MGFO5CewhrxAtA2_61.154959_-149.951831@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4a777181afdb0ea8f7854bcd6468e608",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102162653"
+        }
+    ],
+    "wof:id":"102162653",
+    "wof:lastmodified":1449069821,
+    "wof:name":"Value Liquor",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.951831,61.154959,-149.951831,61.154959],
+  "geometry": {"coordinates":[-149.951831,61.154959],"type":"Point"}
+}

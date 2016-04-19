@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-165.411403,64.498178,-165.411403,64.498178",
+    "geom:latitude":64.498178,
+    "geom:longitude":-165.411403,
+    "iso:country":"US",
+    "sg:address":"433 Front St",
+    "sg:city":"Nome",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 443 2023",
+    "sg:postcode":"99762",
+    "sg:province":"AK",
+    "sg:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915489,
+        85633793,
+        85688573,
+        102081401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2t8WmDlqlYr1DKyGnu6bkV_64.498178_-165.411403@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bbe64d542bb3b4d6433bc8a5d437ad15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081401,
+            "locality_id":85915489,
+            "region_id":85688573,
+            "venue_id":"102166791"
+        }
+    ],
+    "wof:id":"102166791",
+    "wof:lastmodified":1449069086,
+    "wof:name":"State Of Alaska Recruiting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-165.411403,64.498178,-165.411403,64.498178],
+  "geometry": {"coordinates":[-165.411403,64.498178],"type":"Point"}
+}

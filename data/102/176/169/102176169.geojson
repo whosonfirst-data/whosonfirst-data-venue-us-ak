@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.541915,61.585969,-149.541915,61.585969",
+    "geom:latitude":61.585969,
+    "geom:longitude":-149.541915,
+    "iso:country":"US",
+    "sg:address":"3981 Tweed Ct",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 6930",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916215,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yBwmDYedb5xIc6NG0WaBV_61.585969_-149.541915@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9dff29bf23979e5c7f4b33a143d19c34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916215,
+            "region_id":85688573,
+            "venue_id":"102176169"
+        }
+    ],
+    "wof:id":"102176169",
+    "wof:lastmodified":1449069346,
+    "wof:name":"Shell Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.541915,61.585969,-149.541915,61.585969],
+  "geometry": {"coordinates":[-149.541915,61.585969],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.394806,58.277655,-134.394806,58.277655",
+    "geom:latitude":58.277655,
+    "geom:longitude":-134.394806,
+    "iso:country":"US",
+    "sg:address":"1102 2nd St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 364 1595",
+    "sg:postcode":"99824",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915729,
+        85633793,
+        85688573,
+        102081399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bZFP218AdbQWEQ1gcbeig_58.277655_-134.394806@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"04ebb4a02c678021fd0c1d8a741c0556",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "region_id":85688573,
+            "venue_id":"102152225"
+        }
+    ],
+    "wof:id":"102152225",
+    "wof:lastmodified":1449069634,
+    "wof:name":"Island Pub",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.394806,58.277655,-134.394806,58.277655],
+  "geometry": {"coordinates":[-134.394806,58.277655],"type":"Point"}
+}

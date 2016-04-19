@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-161.74878,60.791777,-161.74878,60.791777",
+    "geom:latitude":60.791777,
+    "geom:longitude":-161.74878,
+    "iso:country":"US",
+    "sg:address":"920 Front St",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 543 3408",
+    "sg:postcode":"99559",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915901,
+        85633793,
+        85688573,
+        102085877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ui7INbYGtdCgY30tMeZgg_60.791777_-161.748780@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"52a8033d7506fe7102935992cb1c276f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085877,
+            "locality_id":85915901,
+            "region_id":85688573,
+            "venue_id":"102168895"
+        }
+    ],
+    "wof:id":"102168895",
+    "wof:lastmodified":1449069006,
+    "wof:name":"Front Street Cafe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-161.74878,60.791777,-161.74878,60.791777],
+  "geometry": {"coordinates":[-161.74878,60.791777],"type":"Point"}
+}

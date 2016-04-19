@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.685244,64.846681,-147.685244,64.846681",
+    "geom:latitude":64.846681,
+    "geom:longitude":-147.685244,
+    "iso:country":"US",
+    "sg:address":"205 Dunbar Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 5214",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Gc01OsPHYYgsz5lRVPjYr_64.846681_-147.685244@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7371e4da3e5467d6cd682b77be656ad1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102170453"
+        }
+    ],
+    "wof:id":"102170453",
+    "wof:lastmodified":1449068018,
+    "wof:name":"Mutual Of Omaha Insurance Co",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.685244,64.846681,-147.685244,64.846681],
+  "geometry": {"coordinates":[-147.685244,64.846681],"type":"Point"}
+}

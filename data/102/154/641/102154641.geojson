@@ -1,0 +1,67 @@
+{
+  "id": "102154641",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.879472,61.180879,-149.879472,61.180879",
+    "geom:latitude":61.180879,
+    "geom:longitude":-149.879472,
+    "iso:country":"US",
+    "sg:address":"201 E Tudor Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 3993",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:website":"www.officedepot.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85915707,
+        102085881,
+        85873723
+    ],
+    "wof:brand_id":420574129,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SXgYl7sydZnl7kMTfKx63_61.180879_-149.879472@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"38b599bf0d80a8fb732d964042cdcd1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102154641"
+        }
+    ],
+    "wof:id":"102154641",
+    "wof:lastmodified":1457208524,
+    "wof:name":"Office Depot",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.879472,
+    61.180879,
+    -149.879472,
+    61.180879
+],
+  "geometry": {"coordinates":[-149.87947199999999,61.180879],"type":"Point"}
+}

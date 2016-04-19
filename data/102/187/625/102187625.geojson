@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.768547,64.812883,-147.768547,64.812883",
+    "geom:latitude":64.812883,
+    "geom:longitude":-147.768547,
+    "iso:country":"US",
+    "sg:address":"2151 Van Horn Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 1147",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KOWVXfHo5xEeF4diQUJvz_64.812883_-147.768547@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"64226dfc22de54c3c4bc76b49fb49104",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102187625"
+        }
+    ],
+    "wof:id":"102187625",
+    "wof:lastmodified":1449068161,
+    "wof:name":"Corporate Express",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.768547,64.812883,-147.768547,64.812883],
+  "geometry": {"coordinates":[-147.768547,64.812883],"type":"Point"}
+}

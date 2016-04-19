@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.440078,59.240235,-135.440078,59.240235",
+    "geom:latitude":59.240235,
+    "geom:longitude":-135.440078,
+    "iso:country":"US",
+    "sg:address":"381 1st Ave",
+    "sg:city":"Haines",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 983 2548",
+    "sg:postcode":"99827",
+    "sg:province":"AK",
+    "sg:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842771,
+        85633793,
+        85916629,
+        102083767,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61lK0s8gyAZ4BQhenAfG7k_59.240235_-135.440078@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5fc9e0c71e48670c2b513bc4eec8e390",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083767,
+            "locality_id":85916629,
+            "neighbourhood_id":85842771,
+            "region_id":85688573,
+            "venue_id":"102193433"
+        }
+    ],
+    "wof:id":"102193433",
+    "wof:lastmodified":1449068193,
+    "wof:name":"Lynn Canal Mental Health",
+    "wof:parent_id":85842771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.440078,59.240235,-135.440078,59.240235],
+  "geometry": {"coordinates":[-135.440078,59.240235],"type":"Point"}
+}

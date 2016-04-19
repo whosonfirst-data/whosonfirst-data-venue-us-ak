@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.800839,61.230159,-149.800839,61.230159",
+    "geom:latitude":61.230159,
+    "geom:longitude":-149.800839,
+    "iso:country":"US",
+    "sg:address":"833 N Hoyt St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 0989",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FOzibazxhP4I9uXKj3pob_61.230159_-149.800839@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d00e2677109872c9716a7687998ce602",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102173687"
+        }
+    ],
+    "wof:id":"102173687",
+    "wof:lastmodified":1449068264,
+    "wof:name":"Mother Lawrence Foundation",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.800839,61.230159,-149.800839,61.230159],
+  "geometry": {"coordinates":[-149.800839,61.230159],"type":"Point"}
+}

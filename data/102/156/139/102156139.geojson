@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-133.094471,55.55423,-133.094471,55.55423",
+    "geom:latitude":55.55423,
+    "geom:longitude":-133.094471,
+    "iso:country":"US",
+    "sg:address":"517 Summit St",
+    "sg:city":"Klawock",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 755 2224",
+    "sg:postcode":"99925",
+    "sg:province":"AK",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916085,
+        85633793,
+        85688573,
+        102081403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WHaDaUKgTfWktfQPmqdTf_55.554230_-133.094471@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c26dca5fe9dee34b7f95b3aff0ad772e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081403,
+            "locality_id":85916085,
+            "region_id":85688573,
+            "venue_id":"102156139"
+        }
+    ],
+    "wof:id":"102156139",
+    "wof:lastmodified":1449068282,
+    "wof:name":"Craig/Klawock Senior Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-133.094471,55.55423,-133.094471,55.55423],
+  "geometry": {"coordinates":[-133.094471,55.55423],"type":"Point"}
+}

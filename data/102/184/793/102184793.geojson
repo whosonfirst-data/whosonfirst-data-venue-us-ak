@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.668575,55.348787,-131.668575,55.348787",
+    "geom:latitude":55.348787,
+    "geom:longitude":-131.668575,
+    "iso:country":"US",
+    "sg:address":"1922 Tongass Ave",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 4660",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lXd8be3Uot9TgkEWtAKUP_55.348787_-131.668575@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ca38f1f3ef179189451945cec8ff0840",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102184793"
+        }
+    ],
+    "wof:id":"102184793",
+    "wof:lastmodified":1449068217,
+    "wof:name":"Westside Liquor Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.668575,55.348787,-131.668575,55.348787],
+  "geometry": {"coordinates":[-131.668575,55.348787],"type":"Point"}
+}

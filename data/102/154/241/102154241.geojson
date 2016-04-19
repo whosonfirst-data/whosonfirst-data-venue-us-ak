@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.492253,58.354921,-134.492253,58.354921",
+    "geom:latitude":58.354921,
+    "geom:longitude":-134.492253,
+    "iso:country":"US",
+    "sg:address":"5445 Glacier Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 780 4666",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "second",
+        "store",
+        "hand"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i9JGU2Dve0Ny1lLwMwN93_58.354921_-134.492253@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"66ac333cae75f94f7a2b82c25656d9ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102154241"
+        }
+    ],
+    "wof:id":"102154241",
+    "wof:lastmodified":1449070247,
+    "wof:name":"Glacier Second Hand Store",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.492253,58.354921,-134.492253,58.354921],
+  "geometry": {"coordinates":[-134.492253,58.354921],"type":"Point"}
+}

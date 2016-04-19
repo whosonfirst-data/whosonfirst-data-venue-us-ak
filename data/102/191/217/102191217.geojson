@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.577123,58.361705,-134.577123,58.361705",
+    "geom:latitude":58.361705,
+    "geom:longitude":-134.577123,
+    "iso:country":"US",
+    "sg:address":"8895 Mallard St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 9300",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.evergreenmotorsjuneau.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TN4Y8BYYHSMupW9IVfQ8v_58.361705_-134.577123@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eb4fb19a5ee0b6288f2ae1d4c6130618",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102191217"
+        }
+    ],
+    "wof:id":"102191217",
+    "wof:lastmodified":1449069202,
+    "wof:name":"Evergreen Motors Inc",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.577123,58.361705,-134.577123,58.361705],
+  "geometry": {"coordinates":[-134.577123,58.361705],"type":"Point"}
+}

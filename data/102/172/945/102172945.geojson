@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.424613,58.303522,-134.424613,58.303522",
+    "geom:latitude":58.303522,
+    "geom:longitude":-134.424613,
+    "iso:country":"US",
+    "sg:address":"1248 Glacier Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 6408",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D5iJBEXdlRmxrBpxcCSEM_58.303522_-134.424613@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ea185886c6623ac8a774a1cb02e8b614",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102172945"
+        }
+    ],
+    "wof:id":"102172945",
+    "wof:lastmodified":1449068735,
+    "wof:name":"J & J Deli-Mart",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.424613,58.303522,-134.424613,58.303522],
+  "geometry": {"coordinates":[-134.424613,58.303522],"type":"Point"}
+}

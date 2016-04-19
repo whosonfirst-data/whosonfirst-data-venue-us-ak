@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.798344,61.068091,-149.798344,61.068091",
+    "geom:latitude":61.068091,
+    "geom:longitude":-149.798344,
+    "iso:country":"US",
+    "sg:address":"4518 Virgo Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 4266",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "underground",
+        "sprinkler",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873751,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Pd6al9POkHI2Bvn2aNQlr_61.068091_-149.798344@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1314a89f4220ea64440d7ff9500e197a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873751,
+            "region_id":85688573,
+            "venue_id":"102178389"
+        }
+    ],
+    "wof:id":"102178389",
+    "wof:lastmodified":1449069531,
+    "wof:name":"Frontier Irrigation Inc",
+    "wof:parent_id":85873751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.798344,61.068091,-149.798344,61.068091],
+  "geometry": {"coordinates":[-149.798344,61.068091],"type":"Point"}
+}

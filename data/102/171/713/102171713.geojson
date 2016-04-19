@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.664271,58.384256,-134.664271,58.384256",
+    "geom:latitude":58.384256,
+    "geom:longitude":-134.664271,
+    "iso:country":"US",
+    "sg:address":"3600 Spartan St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 3600",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818527,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Zf9EkDEIoQo5UFhO57BTh_58.384256_-134.664271@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4ffbbc4f7584720bd1b9acb2169aa628",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85818527,
+            "region_id":85688573,
+            "venue_id":"102171713"
+        }
+    ],
+    "wof:id":"102171713",
+    "wof:lastmodified":1449070228,
+    "wof:name":"Alaska Plumbing & Heating",
+    "wof:parent_id":85818527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.664271,58.384256,-134.664271,58.384256],
+  "geometry": {"coordinates":[-134.664271,58.384256],"type":"Point"}
+}

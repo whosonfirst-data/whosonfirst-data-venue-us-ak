@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.440558,60.100535,-149.440558,60.100535",
+    "geom:latitude":60.100535,
+    "geom:longitude":-149.440558,
+    "iso:country":"US",
+    "sg:address":"301 Railway Ave",
+    "sg:city":"Seward",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 224 6300",
+    "sg:postcode":"99664",
+    "sg:province":"AK",
+    "sg:tags":[
+        "attraction",
+        "tourist"
+    ],
+    "sg:website":"www.alaskasealife.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915769,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M9pgnUXJKTIKm40kkJ4Op_60.100535_-149.440558@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"15c7b770b8113f9bf3574a0b35fb07ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915769,
+            "region_id":85688573,
+            "venue_id":"102164395"
+        }
+    ],
+    "wof:id":"102164395",
+    "wof:lastmodified":1449068091,
+    "wof:name":"Alaska Sealife Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.440558,60.100535,-149.440558,60.100535],
+  "geometry": {"coordinates":[-149.440558,60.100535],"type":"Point"}
+}

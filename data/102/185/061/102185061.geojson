@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.514433,61.393602,-149.514433,61.393602",
+    "geom:latitude":61.393602,
+    "geom:longitude":-149.514433,
+    "iso:country":"US",
+    "sg:address":"19179 Birchwood Loop Rd",
+    "sg:city":"Chugiak",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 688 2570",
+    "sg:postcode":"99567",
+    "sg:province":"AK",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806187,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZByaABmcTxQh8EahIkb1Y_61.393602_-149.514433@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c356aa162e78c5cb06a9cadfe02d0a45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85806187,
+            "region_id":85688573,
+            "venue_id":"102185061"
+        }
+    ],
+    "wof:id":"102185061",
+    "wof:lastmodified":1449068196,
+    "wof:name":"Birchwood Machinery Svc",
+    "wof:parent_id":85806187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.514433,61.393602,-149.514433,61.393602],
+  "geometry": {"coordinates":[-149.514433,61.393602],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.696604,64.819163,-147.696604,64.819163",
+    "geom:latitude":64.819163,
+    "geom:longitude":-147.696604,
+    "iso:country":"US",
+    "sg:address":"445 Old Richardson Hwy",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 8764",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915635,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39CdlXPb7bH4QmULJJ1NhR_64.819163_-147.696604@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"debd369d5cbe92a36b36821f60094c5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "region_id":85688573,
+            "venue_id":"102169589"
+        }
+    ],
+    "wof:id":"102169589",
+    "wof:lastmodified":1449069246,
+    "wof:name":"J & D Auto",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.696604,64.819163,-147.696604,64.819163],
+  "geometry": {"coordinates":[-147.696604,64.819163],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.655357,55.344877,-131.655357,55.344877",
+    "geom:latitude":55.344877,
+    "geom:longitude":-131.655357,
+    "iso:country":"US",
+    "sg:address":"1039 Water St",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 2315",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qWvIuDFwGXZk8LLe5tqlg_55.344877_-131.655357@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7fe082c2d6347b28f0b9bc60fd77b8aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102192809"
+        }
+    ],
+    "wof:id":"102192809",
+    "wof:lastmodified":1449069505,
+    "wof:name":"Ketchikan Kitchen & Bath",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.655357,55.344877,-131.655357,55.344877],
+  "geometry": {"coordinates":[-131.655357,55.344877],"type":"Point"}
+}

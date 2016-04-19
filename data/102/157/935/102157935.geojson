@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.479415,61.38892,-149.479415,61.38892",
+    "geom:latitude":61.38892,
+    "geom:longitude":-149.479415,
+    "iso:country":"US",
+    "sg:address":"18575 Old Glenn Hwy",
+    "sg:city":"Chugiak",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 688 4220",
+    "sg:postcode":"99567",
+    "sg:province":"AK",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806187,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fXQiFSvmhsUW8XPpok1NU_61.388920_-149.479415@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3bf8fe2197b2eeec34634964386963ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85806187,
+            "region_id":85688573,
+            "venue_id":"102157935"
+        }
+    ],
+    "wof:id":"102157935",
+    "wof:lastmodified":1449069832,
+    "wof:name":"Faux Studio",
+    "wof:parent_id":85806187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.479415,61.38892,-149.479415,61.38892],
+  "geometry": {"coordinates":[-149.479415,61.38892],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.901031,61.218628,-149.901031,61.218628",
+    "geom:latitude":61.218628,
+    "geom:longitude":-149.901031,
+    "iso:country":"US",
+    "sg:address":"941 W 4th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 264 0692",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_501zrxJ18LO1UOm9w8hTUT_61.218628_-149.901031@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6c08f282edeb5a6f5aa429d3513a6d00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102188573"
+        }
+    ],
+    "wof:id":"102188573",
+    "wof:lastmodified":1449068946,
+    "wof:name":"Birth Certificates",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.901031,61.218628,-149.901031,61.218628],
+  "geometry": {"coordinates":[-149.901031,61.218628],"type":"Point"}
+}

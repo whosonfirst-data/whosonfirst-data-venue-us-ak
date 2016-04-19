@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.708976,64.835609,-147.708976,64.835609",
+    "geom:latitude":64.835609,
+    "geom:longitude":-147.708976,
+    "iso:country":"US",
+    "sg:address":"208 Gaffney Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 6321",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eCaMLIIFUDtxY6OQSrheT_64.835609_-147.708976@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2b83bb4208e15b71c6239f8933b46e4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102195481"
+        }
+    ],
+    "wof:id":"102195481",
+    "wof:lastmodified":1449069364,
+    "wof:name":"Comet Club",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.708976,64.835609,-147.708976,64.835609],
+  "geometry": {"coordinates":[-147.708976,64.835609],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.939871,61.178237,-149.939871,61.178237",
+    "geom:latitude":61.178237,
+    "geom:longitude":-149.939871,
+    "iso:country":"US",
+    "sg:address":"4619 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 929 2822",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "information",
+        "tourist"
+    ],
+    "sg:website":"www.alaskavisitorscenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Z23uE1QQdkB8OXrznySyI_61.178237_-149.939871@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9d5153ecf84bcc302dd656e4d437855f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102167179"
+        }
+    ],
+    "wof:id":"102167179",
+    "wof:lastmodified":1449069004,
+    "wof:name":"Alaska Visitors Ctr & Tours",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.939871,61.178237,-149.939871,61.178237],
+  "geometry": {"coordinates":[-149.939871,61.178237],"type":"Point"}
+}

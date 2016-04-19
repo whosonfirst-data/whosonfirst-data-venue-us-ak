@@ -1,0 +1,71 @@
+{
+  "id": "102148707",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.959529,61.177986,-149.959529,61.177986",
+    "geom:latitude":61.177986,
+    "geom:longitude":-149.959529,
+    "iso:country":"US",
+    "sg:address":"4111 Aviation Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 269 0555",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "sg:website":"www.dot.state.ak.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85915707,
+        102085881,
+        85850461
+    ],
+    "wof:brand_id":420574155,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0coCUBMTBSTr5ePpIaf5PG_61.177986_-149.959529@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"271941e9ddc662799519c4763bfa0ecf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102148707"
+        }
+    ],
+    "wof:id":"102148707",
+    "wof:lastmodified":1457208561,
+    "wof:name":"Transportation Dept",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.959529,
+    61.177986,
+    -149.959529,
+    61.177986
+],
+  "geometry": {"coordinates":[-149.959529,61.177986],"type":"Point"}
+}

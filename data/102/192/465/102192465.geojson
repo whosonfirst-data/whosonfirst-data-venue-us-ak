@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.413026,59.710046,-151.413026,59.710046",
+    "geom:latitude":59.710046,
+    "geom:longitude":-151.413026,
+    "iso:country":"US",
+    "sg:address":"58405 Skyline Dr",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 4127",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916983,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0usNztE3FaqE7lN8DYAOhz_59.710046_-151.413026@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ae1fd169c27c3bc305892ed4f89aa920",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916983,
+            "region_id":85688573,
+            "venue_id":"102192465"
+        }
+    ],
+    "wof:id":"102192465",
+    "wof:lastmodified":1449069503,
+    "wof:name":"Smith & Smith",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.413026,59.710046,-151.413026,59.710046],
+  "geometry": {"coordinates":[-151.413026,59.710046],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.676569,64.905267,-147.676569,64.905267",
+    "geom:latitude":64.905267,
+    "geom:longitude":-147.676569,
+    "iso:country":"US",
+    "sg:address":"1041 Upper Ct",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 8974",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916559,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uHxp1DhHlUEB6iLKpEhhB_64.905267_-147.676569@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"96fdcb2d6f99bd2358a3c756b621633d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "region_id":85688573,
+            "venue_id":"102168605"
+        }
+    ],
+    "wof:id":"102168605",
+    "wof:lastmodified":1449069007,
+    "wof:name":"Eureka Builders",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.676569,64.905267,-147.676569,64.905267],
+  "geometry": {"coordinates":[-147.676569,64.905267],"type":"Point"}
+}

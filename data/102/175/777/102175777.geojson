@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.835702,61.229653,-149.835702,61.229653",
+    "geom:latitude":61.229653,
+    "geom:longitude":-149.835702,
+    "iso:country":"US",
+    "sg:address":"2217 N Post Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 2606",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "automobile",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820221,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49rpojfji9nemOkT9GVjzP_61.229653_-149.835702@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"26418bc8fef446cd220a8f871fca7daa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85820221,
+            "region_id":85688573,
+            "venue_id":"102175777"
+        }
+    ],
+    "wof:id":"102175777",
+    "wof:lastmodified":1449069465,
+    "wof:name":"Auto Electric Sales & Svc Inc",
+    "wof:parent_id":85820221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.835702,61.229653,-149.835702,61.229653],
+  "geometry": {"coordinates":[-149.835702,61.229653],"type":"Point"}
+}

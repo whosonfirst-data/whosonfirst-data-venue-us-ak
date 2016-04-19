@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.88524,61.213924,-149.88524,61.213924",
+    "geom:latitude":61.213924,
+    "geom:longitude":-149.88524,
+    "iso:country":"US",
+    "sg:address":"831 B St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 1641",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.cornellcompanies.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fMRhkPf8sYAkOIoORmltk_61.213924_-149.885240@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"70071b456fc5e4bcd68eb1f3f4bca2cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102161875"
+        }
+    ],
+    "wof:id":"102161875",
+    "wof:lastmodified":1449068712,
+    "wof:name":"Parkview Center",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.88524,61.213924,-149.88524,61.213924],
+  "geometry": {"coordinates":[-149.88524,61.213924],"type":"Point"}
+}

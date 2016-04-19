@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.394912,58.276755,-134.394912,58.276755",
+    "geom:latitude":58.276755,
+    "geom:longitude":-134.394912,
+    "iso:country":"US",
+    "sg:address":"1016 3rd St",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 364 2378",
+    "sg:postcode":"99824",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915729,
+        85633793,
+        85688573,
+        102081399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iXzZEPk1th0mE9avcvlCK_58.276755_-134.394912@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1a222ed5cbedfc208b134233298a029f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "region_id":85688573,
+            "venue_id":"102170827"
+        }
+    ],
+    "wof:id":"102170827",
+    "wof:lastmodified":1449068017,
+    "wof:name":"Douglas Library",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.394912,58.276755,-134.394912,58.276755],
+  "geometry": {"coordinates":[-134.394912,58.276755],"type":"Point"}
+}

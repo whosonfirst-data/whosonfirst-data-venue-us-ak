@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-150.778596,60.545573,-150.778596,60.545573",
+    "geom:latitude":60.545573,
+    "geom:longitude":-150.778596,
+    "iso:country":"US",
+    "sg:address":"34425 Sunrise Ln",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 4555",
+    "sg:postcode":"99672",
+    "sg:province":"AK",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916845,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yX1dfg9TYC3GI6YjvvHoN_60.545573_-150.778596@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c63367de7d4ba766129f3a0011c4f870",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916845,
+            "region_id":85688573,
+            "venue_id":"102154139"
+        }
+    ],
+    "wof:id":"102154139",
+    "wof:lastmodified":1449070241,
+    "wof:name":"Timber Tree Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-150.778596,60.545573,-150.778596,60.545573],
+  "geometry": {"coordinates":[-150.778596,60.545573],"type":"Point"}
+}

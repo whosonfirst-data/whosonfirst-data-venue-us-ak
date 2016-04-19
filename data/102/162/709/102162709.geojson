@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.671861,64.842639,-147.671861,64.842639",
+    "geom:latitude":64.842639,
+    "geom:longitude":-147.671861,
+    "iso:country":"US",
+    "sg:address":"534 Haines Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 6076",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mail",
+        "order"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PvQpaYLZiU0jv1YAz6d8F_64.842639_-147.671861@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fba6774fa417beeb6f6508648cd6be65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102162709"
+        }
+    ],
+    "wof:id":"102162709",
+    "wof:lastmodified":1449069822,
+    "wof:name":"Expressions Of Life",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.671861,64.842639,-147.671861,64.842639],
+  "geometry": {"coordinates":[-147.671861,64.842639],"type":"Point"}
+}

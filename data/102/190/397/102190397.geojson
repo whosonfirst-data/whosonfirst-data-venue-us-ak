@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.870872,61.189966,-149.870872,61.189966",
+    "geom:latitude":61.189966,
+    "geom:longitude":-149.870872,
+    "iso:country":"US",
+    "sg:address":"3337 Fairbanks St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 5188",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CsA8UIks7oLoYQV6Zvnvx_61.189966_-149.870872@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"24a017896873d69c5b90649f84fe4f2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102190397"
+        }
+    ],
+    "wof:id":"102190397",
+    "wof:lastmodified":1449070035,
+    "wof:name":"Peter's Sushi's Spot",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.870872,61.189966,-149.870872,61.189966],
+  "geometry": {"coordinates":[-149.870872,61.189966],"type":"Point"}
+}

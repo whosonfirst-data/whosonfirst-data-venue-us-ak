@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.875612,61.123799,-149.875612,61.123799",
+    "geom:latitude":61.123799,
+    "geom:longitude":-149.875612,
+    "iso:country":"US",
+    "sg:address":"10420 Olive Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 9400",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "food",
+        "broker"
+    ],
+    "sg:website":"www.fsafood.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JerIlcgwkzWJ4AWU5MxFa_61.123799_-149.875612@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7b4a11be63aa533e71a8055aac23b06b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102155397"
+        }
+    ],
+    "wof:id":"102155397",
+    "wof:lastmodified":1449069743,
+    "wof:name":"Food Services Of America",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.875612,61.123799,-149.875612,61.123799],
+  "geometry": {"coordinates":[-149.875612,61.123799],"type":"Point"}
+}

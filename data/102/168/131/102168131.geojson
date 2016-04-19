@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.77837,61.193363,-149.77837,61.193363",
+    "geom:latitude":61.193363,
+    "geom:longitude":-149.77837,
+    "iso:country":"US",
+    "sg:address":"2801 Boniface Pkwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 7800",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806647,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21ljn2hyabOJW1kRvghuVP_61.193363_-149.778370@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7c8526b4c0df6ad5ab55f56594bbadee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85806647,
+            "region_id":85688573,
+            "venue_id":"102168131"
+        }
+    ],
+    "wof:id":"102168131",
+    "wof:lastmodified":1449069007,
+    "wof:name":"Boniface Chevron",
+    "wof:parent_id":85806647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.77837,61.193363,-149.77837,61.193363],
+  "geometry": {"coordinates":[-149.77837,61.193363],"type":"Point"}
+}

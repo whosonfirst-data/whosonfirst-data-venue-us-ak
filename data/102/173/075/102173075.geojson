@@ -1,0 +1,69 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.847673,61.137659,-149.847673,61.137659",
+    "geom:latitude":61.137659,
+    "geom:longitude":-149.847673,
+    "iso:country":"US",
+    "sg:address":"9024 Vanguard Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 1565",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "portable",
+        "lease"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58aFLODuxTXr1lVSfbbYe2_61.137659_-149.847673@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5bc026c4cdee87ef47d47a4ac539230a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102173075"
+        }
+    ],
+    "wof:id":"102173075",
+    "wof:lastmodified":1449068266,
+    "wof:name":"Alaska Structures Inc",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.847673,61.137659,-149.847673,61.137659],
+  "geometry": {"coordinates":[-149.847673,61.137659],"type":"Point"}
+}

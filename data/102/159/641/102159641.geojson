@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.793314,64.843084,-147.793314,64.843084",
+    "geom:latitude":64.843084,
+    "geom:longitude":-147.793314,
+    "iso:country":"US",
+    "sg:address":"1011 Coppet St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 2055",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wxtEe8eUEowhZ84Dnf0nx_64.843084_-147.793314@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1ece978fde169044a2ee3c22f05f1ce7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102159641"
+        }
+    ],
+    "wof:id":"102159641",
+    "wof:lastmodified":1449068094,
+    "wof:name":"Bob Beewar Realty Inc",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.793314,64.843084,-147.793314,64.843084],
+  "geometry": {"coordinates":[-147.793314,64.843084],"type":"Point"}
+}

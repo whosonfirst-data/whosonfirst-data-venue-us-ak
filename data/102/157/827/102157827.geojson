@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.93645,61.183131,-149.93645,61.183131",
+    "geom:latitude":61.183131,
+    "geom:longitude":-149.93645,
+    "iso:country":"US",
+    "sg:address":"3912 Merrill Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 6876",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "measuring",
+        "instrument",
+        "electrical",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kXytKZUxRXCmSQUMHJ4gl_61.183131_-149.936450@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b6e75ad97d2b651628c3f5cfa7b4c685",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102157827"
+        }
+    ],
+    "wof:id":"102157827",
+    "wof:lastmodified":1449069832,
+    "wof:name":"Technical Support Services",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.93645,61.183131,-149.93645,61.183131],
+  "geometry": {"coordinates":[-149.93645,61.183131],"type":"Point"}
+}

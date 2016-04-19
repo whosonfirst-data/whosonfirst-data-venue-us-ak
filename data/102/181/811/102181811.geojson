@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.793318,61.217237,-149.793318,61.217237",
+    "geom:latitude":61.217237,
+    "geom:longitude":-149.793318,
+    "iso:country":"US",
+    "sg:address":"511 S Pine St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 3868",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869053,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RTgftLm2wruqXy4K3nFtq_61.217237_-149.793318@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cacc0a5dce8d1429598004890638c608",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869053,
+            "region_id":85688573,
+            "venue_id":"102181811"
+        }
+    ],
+    "wof:id":"102181811",
+    "wof:lastmodified":1449069235,
+    "wof:name":"ABC Computer Source",
+    "wof:parent_id":85869053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.793318,61.217237,-149.793318,61.217237],
+  "geometry": {"coordinates":[-149.793318,61.217237],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.649789,58.348883,-134.649789,58.348883",
+    "geom:latitude":58.348883,
+    "geom:longitude":-134.649789,
+    "iso:country":"US",
+    "sg:address":"1010 Otter Run",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 9636",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915729,
+        85633793,
+        85688573,
+        102081399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hNz0CvCJe9rNgbzjAhNbc_58.348883_-134.649789@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ad724c357514c5796d2ca4bb69289032",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "region_id":85688573,
+            "venue_id":"102185049"
+        }
+    ],
+    "wof:id":"102185049",
+    "wof:lastmodified":1449068197,
+    "wof:name":"Otter Run Rentals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.649789,58.348883,-134.649789,58.348883],
+  "geometry": {"coordinates":[-134.649789,58.348883],"type":"Point"}
+}

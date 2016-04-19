@@ -1,0 +1,69 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.567332,58.35947,-134.567332,58.35947",
+    "geom:latitude":58.35947,
+    "geom:longitude":-134.567332,
+    "iso:country":"US",
+    "sg:address":"8355 Old Dairy Rd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 7560",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dealer",
+        "installation",
+        "rug",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915729,
+        85633793,
+        85688573,
+        102081399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vjwuSXLUHwv4enuCiOkIh_58.359470_-134.567332@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e15099b355286f5f5c0afa9793a4fa95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "region_id":85688573,
+            "venue_id":"102167797"
+        }
+    ],
+    "wof:id":"102167797",
+    "wof:lastmodified":1449069002,
+    "wof:name":"Arctic Carpet Service Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.567332,58.35947,-134.567332,58.35947],
+  "geometry": {"coordinates":[-134.567332,58.35947],"type":"Point"}
+}

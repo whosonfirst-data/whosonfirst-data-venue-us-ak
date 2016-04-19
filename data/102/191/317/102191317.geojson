@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.7929,55.433818,-131.7929,55.433818",
+    "geom:latitude":55.433818,
+    "geom:longitude":-131.7929,
+    "iso:country":"US",
+    "sg:address":"10734 N Tongass Hwy",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 3434",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71Srvw5IGE6S86TZOMQ0Px_55.433818_-131.792900@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b4818e15f06dc507f42f81bf5bf119c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "region_id":85688573,
+            "venue_id":"102191317"
+        }
+    ],
+    "wof:id":"102191317",
+    "wof:lastmodified":1449069202,
+    "wof:name":"Alaska Diesel Power",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.7929,55.433818,-131.7929,55.433818],
+  "geometry": {"coordinates":[-131.7929,55.433818],"type":"Point"}
+}

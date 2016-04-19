@@ -1,0 +1,70 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.582121,64.967816,-147.582121,64.967816",
+    "geom:latitude":64.967816,
+    "geom:longitude":-147.582121,
+    "iso:country":"US",
+    "sg:address":"2370 Steese Hwy",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 455 0242",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "boring",
+        "nonmetallic",
+        "metal",
+        "mineral",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916597,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MEBHlkkbJjXFyUhZhpRTV_64.967816_-147.582121@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5f8ff568b63479e21a26dea94c441a38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916597,
+            "region_id":85688573,
+            "venue_id":"102179767"
+        }
+    ],
+    "wof:id":"102179767",
+    "wof:lastmodified":1449069941,
+    "wof:name":"Layne Christensen Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.582121,64.967816,-147.582121,64.967816],
+  "geometry": {"coordinates":[-147.582121,64.967816],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.892039,61.154889,-149.892039,61.154889",
+    "geom:latitude":61.154889,
+    "geom:longitude":-149.892039,
+    "iso:country":"US",
+    "sg:address":"7311 Arctic Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 336 0307",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "hardware"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2REvHpOEQPlPRahNymDDpd_61.154889_-149.892039@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e6285b18450dbd5ae3afc761b9a6e569",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102161305"
+        }
+    ],
+    "wof:id":"102161305",
+    "wof:lastmodified":1449068707,
+    "wof:name":"Beason Company",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.892039,61.154889,-149.892039,61.154889],
+  "geometry": {"coordinates":[-149.892039,61.154889],"type":"Point"}
+}

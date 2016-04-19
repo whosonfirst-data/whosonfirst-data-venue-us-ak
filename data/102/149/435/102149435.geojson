@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.062064,60.488901,-151.062064,60.488901",
+    "geom:latitude":60.488901,
+    "geom:longitude":-151.062064,
+    "iso:country":"US",
+    "sg:address":"35060 Kenai Spur Hwy",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 2839",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "hobby",
+        "model",
+        "supply"
+    ],
+    "sg:website":"www.alaskamodeltrains.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d0HwhcT0hHuu1aSSL7fv0_60.488901_-151.062064@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cacb704876a1734c3a42a7fa5dc8c0b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102149435"
+        }
+    ],
+    "wof:id":"102149435",
+    "wof:lastmodified":1449067771,
+    "wof:name":"Hobby Stop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.062064,60.488901,-151.062064,60.488901],
+  "geometry": {"coordinates":[-151.062064,60.488901],"type":"Point"}
+}

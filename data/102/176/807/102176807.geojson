@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.905428,61.195223,-149.905428,61.195223",
+    "geom:latitude":61.195223,
+    "geom:longitude":-149.905428,
+    "iso:country":"US",
+    "sg:address":"1002 W Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 770 1778",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "diver",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07hXHFJChLfhyW2SpsHWNQ_61.195223_-149.905428@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"990fc3c1d38dcf7cbf40a48afb2dfa21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102176807"
+        }
+    ],
+    "wof:id":"102176807",
+    "wof:lastmodified":1449069346,
+    "wof:name":"Dive Alaska",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.905428,61.195223,-149.905428,61.195223],
+  "geometry": {"coordinates":[-149.905428,61.195223],"type":"Point"}
+}

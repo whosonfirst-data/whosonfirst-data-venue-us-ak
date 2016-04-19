@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.898025,61.172432,-149.898025,61.172432",
+    "geom:latitude":61.172432,
+    "geom:longitude":-149.898025,
+    "iso:country":"US",
+    "sg:address":"5306 Arctic Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 222 7650",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QNAGOIBs86YAnMParjd7B_61.172432_-149.898025@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"678cfa3fdeab9c58a59475e800671b18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102195745"
+        }
+    ],
+    "wof:id":"102195745",
+    "wof:lastmodified":1449069366,
+    "wof:name":"Paint By Magic Touch",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.898025,61.172432,-149.898025,61.172432],
+  "geometry": {"coordinates":[-149.898025,61.172432],"type":"Point"}
+}

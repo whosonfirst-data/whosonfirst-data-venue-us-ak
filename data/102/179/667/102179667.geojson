@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.790111,61.186147,-149.790111,61.186147",
+    "geom:latitude":61.186147,
+    "geom:longitude":-149.790111,
+    "iso:country":"US",
+    "sg:address":"3850 Westminister Way",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 240 6712",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "fiberglass",
+        "repair",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55CbRYNWBYvWetJSxyvPyo_61.186147_-149.790111@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"734c116512554bd99333ea891bb37242",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102179667"
+        }
+    ],
+    "wof:id":"102179667",
+    "wof:lastmodified":1449069941,
+    "wof:name":"Aerovative Composites Inc",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.790111,61.186147,-149.790111,61.186147],
+  "geometry": {"coordinates":[-149.790111,61.186147],"type":"Point"}
+}

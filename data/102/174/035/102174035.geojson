@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.392914,57.791514,-152.392914,57.791514",
+    "geom:latitude":57.791514,
+    "geom:longitude":-152.392914,
+    "iso:country":"US",
+    "sg:address":"616 Mission Rd",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 3500",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "refrigerator",
+        "freezer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4R3ynJNvCtKz0jJhne1COI_57.791514_-152.392914@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c0d9de077aa6c427c4863c208275cd3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102174035"
+        }
+    ],
+    "wof:id":"102174035",
+    "wof:lastmodified":1449068139,
+    "wof:name":"Kodiak Refrigeration",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.392914,57.791514,-152.392914,57.791514],
+  "geometry": {"coordinates":[-152.392914,57.791514],"type":"Point"}
+}

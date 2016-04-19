@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.38402,59.697618,-151.38402,59.697618",
+    "geom:latitude":59.697618,
+    "geom:longitude":-151.38402,
+    "iso:country":"US",
+    "sg:address":"57270 Glacier View Rd",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 7398",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916983,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J7LNwqcplczINROSr8rnN_59.697618_-151.384020@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e8d47e9d2b4ee928c6eb4c33da7a0cd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916983,
+            "region_id":85688573,
+            "venue_id":"102167601"
+        }
+    ],
+    "wof:id":"102167601",
+    "wof:lastmodified":1449069001,
+    "wof:name":"Country Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.38402,59.697618,-151.38402,59.697618],
+  "geometry": {"coordinates":[-151.38402,59.697618],"type":"Point"}
+}

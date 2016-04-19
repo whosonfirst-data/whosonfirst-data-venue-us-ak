@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.547442,55.294407,-131.547442,55.294407",
+    "geom:latitude":55.294407,
+    "geom:longitude":-131.547442,
+    "iso:country":"US",
+    "sg:address":"5591 S Tongass Hwy",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 1322",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OG344xeuD4g61I4csPY3h_55.294407_-131.547442@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e435aa419b366f836ec86567ed6a632a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "region_id":85688573,
+            "venue_id":"102191763"
+        }
+    ],
+    "wof:id":"102191763",
+    "wof:lastmodified":1449069204,
+    "wof:name":"South Tongass Volunteer Fire",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.547442,55.294407,-131.547442,55.294407],
+  "geometry": {"coordinates":[-131.547442,55.294407],"type":"Point"}
+}

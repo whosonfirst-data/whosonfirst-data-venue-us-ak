@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.876645,61.135768,-149.876645,61.135768",
+    "geom:latitude":61.135768,
+    "geom:longitude":-149.876645,
+    "iso:country":"US",
+    "sg:address":"325 E 94th Ct",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 267 4510",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BU1581OPkPSmaD2H388H6_61.135768_-149.876645@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c2e9843dcd3af2d09b21b7dc61608286",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102177127"
+        }
+    ],
+    "wof:id":"102177127",
+    "wof:lastmodified":1449070208,
+    "wof:name":"Anchorage Water Treatment Adm",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.876645,61.135768,-149.876645,61.135768],
+  "geometry": {"coordinates":[-149.876645,61.135768],"type":"Point"}
+}

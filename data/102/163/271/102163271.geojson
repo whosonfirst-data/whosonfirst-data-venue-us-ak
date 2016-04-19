@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.735919,61.218677,-149.735919,61.218677",
+    "geom:latitude":61.218677,
+    "geom:longitude":-149.735919,
+    "iso:country":"US",
+    "sg:address":"7732 E 4th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 929 3763",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kgjn6f9Zt4dnbMPAyVOkO_61.218677_-149.735919@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"49fd2217e45f12469ee423c3570e9eda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102163271"
+        }
+    ],
+    "wof:id":"102163271",
+    "wof:lastmodified":1449070164,
+    "wof:name":"Oma's Igloo",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.735919,61.218677,-149.735919,61.218677],
+  "geometry": {"coordinates":[-149.735919,61.218677],"type":"Point"}
+}

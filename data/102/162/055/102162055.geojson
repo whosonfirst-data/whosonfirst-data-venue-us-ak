@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.685433,55.352568,-131.685433,55.352568",
+    "geom:latitude":55.352568,
+    "geom:longitude":-131.685433,
+    "iso:country":"US",
+    "sg:address":"3101 Tongass Ave",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 1753",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XVxUYlAJwH3DBPqsE9ywp_55.352568_-131.685433@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"54f01958882ff05c76cae309d49bff0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102162055"
+        }
+    ],
+    "wof:id":"102162055",
+    "wof:lastmodified":1449069821,
+    "wof:name":"B & R Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.685433,55.352568,-131.685433,55.352568],
+  "geometry": {"coordinates":[-131.685433,55.352568],"type":"Point"}
+}

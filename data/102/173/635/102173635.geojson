@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.889257,61.1799,-149.889257,61.1799",
+    "geom:latitude":61.1799,
+    "geom:longitude":-149.889257,
+    "iso:country":"US",
+    "sg:address":"4700 Bus Park Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 677 7501",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "air",
+        "ambulance"
+    ],
+    "sg:website":"www.ykhc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32ZqkB3SOqrnafDYrs5FVy_61.179900_-149.889257@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9c1b69033d8eed78d1bb889a3a48fe30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102173635"
+        }
+    ],
+    "wof:id":"102173635",
+    "wof:lastmodified":1449068265,
+    "wof:name":"Yukon Kuskokwim Health Corp",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.889257,61.1799,-149.889257,61.1799],
+  "geometry": {"coordinates":[-149.889257,61.1799],"type":"Point"}
+}

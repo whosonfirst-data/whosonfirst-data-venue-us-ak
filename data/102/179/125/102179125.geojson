@@ -1,0 +1,66 @@
+{
+  "id": "102179125",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-147.756963,64.836841,-147.756963,64.836841",
+    "geom:latitude":64.836841,
+    "geom:longitude":-147.756963,
+    "iso:country":"US",
+    "sg:address":"1800 Airport Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 3399",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85916609,
+        102081397,
+        85856935
+    ],
+    "wof:brand_id":420574645,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bgLBRberu2hLqB5GKoOzY_64.836841_-147.756963@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0fd7f7eec08d8c60eea1449990e1fc18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102179125"
+        }
+    ],
+    "wof:id":"102179125",
+    "wof:lastmodified":1457209077,
+    "wof:name":"Popeyes Chicken & Biscuits",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -147.756963,
+    64.836841,
+    -147.756963,
+    64.836841
+],
+  "geometry": {"coordinates":[-147.75696300000001,64.83684100000001],"type":"Point"}
+}

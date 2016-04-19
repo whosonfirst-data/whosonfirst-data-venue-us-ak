@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.715511,64.834895,-147.715511,64.834895",
+    "geom:latitude":64.834895,
+    "geom:longitude":-147.715511,
+    "iso:country":"US",
+    "sg:address":"1452 Lacey St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 4203",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ED9eRJZN3D3vPJ6EcYcn9_64.834895_-147.715511@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d900692cb124b5df51e27177b5031035",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102161121"
+        }
+    ],
+    "wof:id":"102161121",
+    "wof:lastmodified":1449068711,
+    "wof:name":"All Phase Contracting",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.715511,64.834895,-147.715511,64.834895],
+  "geometry": {"coordinates":[-147.715511,64.834895],"type":"Point"}
+}

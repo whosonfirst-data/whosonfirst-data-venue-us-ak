@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.83619,61.163774,-149.83619,61.163774",
+    "geom:latitude":61.163774,
+    "geom:longitude":-149.83619,
+    "iso:country":"US",
+    "sg:address":"2300 E 63rd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 4433",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "windows",
+        "au",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NRrA2UQ6ONf94LzPmaLXq_61.163774_-149.836190@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"645574305464b3eef54647fd18bbb415",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102182665"
+        }
+    ],
+    "wof:id":"102182665",
+    "wof:lastmodified":1449069280,
+    "wof:name":"Capitol Glass/Northerm Windows",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.83619,61.163774,-149.83619,61.163774],
+  "geometry": {"coordinates":[-149.83619,61.163774],"type":"Point"}
+}

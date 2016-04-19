@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.87918,61.218551,-149.87918,61.218551",
+    "geom:latitude":61.218551,
+    "geom:longitude":-149.87918,
+    "iso:country":"US",
+    "sg:address":"201 E 4th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 646 9964",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q4fwenX5CW19gKFRXrl4d_61.218551_-149.879180@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"74765c8ce6f80feb43c0bffd4b92ef55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102183329"
+        }
+    ],
+    "wof:id":"102183329",
+    "wof:lastmodified":1449069041,
+    "wof:name":"Looyfooy's",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.87918,61.218551,-149.87918,61.218551],
+  "geometry": {"coordinates":[-149.87918,61.218551],"type":"Point"}
+}

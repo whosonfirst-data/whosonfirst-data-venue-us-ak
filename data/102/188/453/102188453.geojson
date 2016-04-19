@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.838299,61.186529,-149.838299,61.186529",
+    "geom:latitude":61.186529,
+    "geom:longitude":-149.838299,
+    "iso:country":"US",
+    "sg:address":"3744 Lake Otis Pkwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 5118",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bKv0biVXVyORJyYI0thft_61.186529_-149.838299@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"72521b2a15458041c913a472d3a861dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102188453"
+        }
+    ],
+    "wof:id":"102188453",
+    "wof:lastmodified":1449068946,
+    "wof:name":"Lake Otis Optical Inc",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.838299,61.186529,-149.838299,61.186529],
+  "geometry": {"coordinates":[-149.838299,61.186529],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.84759,61.223529,-149.84759,61.223529",
+    "geom:latitude":61.223529,
+    "geom:longitude":-149.84759,
+    "iso:country":"US",
+    "sg:address":"1749 Ship Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 5454",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873711,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qbcp6vgo1pCGXbZiT0K7Y_61.223529_-149.847590@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"621313068b2fb268ac49f9f4bb75f558",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873711,
+            "region_id":85688573,
+            "venue_id":"102172867"
+        }
+    ],
+    "wof:id":"102172867",
+    "wof:lastmodified":1449068736,
+    "wof:name":"Amigo",
+    "wof:parent_id":85873711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.84759,61.223529,-149.84759,61.223529],
+  "geometry": {"coordinates":[-149.84759,61.223529],"type":"Point"}
+}

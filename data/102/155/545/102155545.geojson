@@ -1,0 +1,68 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.880561,61.173699,-149.880561,61.173699",
+    "geom:latitude":61.173699,
+    "geom:longitude":-149.880561,
+    "iso:country":"US",
+    "sg:address":"219 E International Airport Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 1997",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "topping",
+        "mfg",
+        "dessert",
+        "jelly",
+        "jam",
+        "syrup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ro858G5oAWupkUPcpUFfU_61.173699_-149.880561@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f7136f2a8db373ba56e0b388f5469c51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102155545"
+        }
+    ],
+    "wof:id":"102155545",
+    "wof:lastmodified":1449069743,
+    "wof:name":"Alaska Wilderness Gourmet",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.880561,61.173699,-149.880561,61.173699],
+  "geometry": {"coordinates":[-149.880561,61.173699],"type":"Point"}
+}

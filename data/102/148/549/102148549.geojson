@@ -1,0 +1,71 @@
+{
+  "id": "102148549",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-147.721435,64.843843,-147.721435,64.843843",
+    "geom:latitude":64.843843,
+    "geom:longitude":-147.721435,
+    "iso:country":"US",
+    "sg:address":"100 Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 8341",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "sg:website":"www.morganstanley.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85915635,
+        102081397,
+        85848979
+    ],
+    "wof:brand_id":420574433,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QLKeGdbfWfTRltpKbbyqa_64.843843_-147.721435@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cfb4d2cb84bfdb4ed72f84d14c4ce17c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102148549"
+        }
+    ],
+    "wof:id":"102148549",
+    "wof:lastmodified":1457208892,
+    "wof:name":"Morgan Stanley",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -147.721435,
+    64.843843,
+    -147.721435,
+    64.843843
+],
+  "geometry": {"coordinates":[-147.72143500000001,64.84384300000001],"type":"Point"}
+}

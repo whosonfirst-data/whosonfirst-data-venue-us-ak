@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.816858,61.225134,-149.816858,61.225134",
+    "geom:latitude":61.225134,
+    "geom:longitude":-149.816858,
+    "iso:country":"US",
+    "sg:address":"3401 Richmond Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 8189",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0So5wGvkU4j4w92v7g9hOC_61.225134_-149.816858@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"81a2088ffc87eb7bf925c67bbd928ef0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102185611"
+        }
+    ],
+    "wof:id":"102185611",
+    "wof:lastmodified":1449068197,
+    "wof:name":"Big Bear Bed & Breakfast",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.816858,61.225134,-149.816858,61.225134],
+  "geometry": {"coordinates":[-149.816858,61.225134],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.346586,64.756431,-147.346586,64.756431",
+    "geom:latitude":64.756431,
+    "geom:longitude":-147.346586,
+    "iso:country":"US",
+    "sg:address":"69 Saint Nicholas Dr",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 5282",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915639,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_723EGD1TPATKhZXuIwrzib_64.756431_-147.346586@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"36745b9b6820b861df5976cc1fa3dd81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915639,
+            "region_id":85688573,
+            "venue_id":"102152735"
+        }
+    ],
+    "wof:id":"102152735",
+    "wof:lastmodified":1449069637,
+    "wof:name":"North Pole Espresso Drive Thru",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.346586,64.756431,-147.346586,64.756431],
+  "geometry": {"coordinates":[-147.346586,64.756431],"type":"Point"}
+}

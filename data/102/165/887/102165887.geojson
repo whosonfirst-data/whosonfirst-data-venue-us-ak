@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.741418,61.183476,-149.741418,61.183476",
+    "geom:latitude":61.183476,
+    "geom:longitude":-149.741418,
+    "iso:country":"US",
+    "sg:address":"4107 James Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 569 3673",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873735,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s2a6GN5aFvZkebSXaCcud_61.183476_-149.741418@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d0bc81a575b0c22a8f42db477f5ccaa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873735,
+            "region_id":85688573,
+            "venue_id":"102165887"
+        }
+    ],
+    "wof:id":"102165887",
+    "wof:lastmodified":1449070217,
+    "wof:name":"James Drive Oxford House",
+    "wof:parent_id":85873735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.741418,61.183476,-149.741418,61.183476],
+  "geometry": {"coordinates":[-149.741418,61.183476],"type":"Point"}
+}

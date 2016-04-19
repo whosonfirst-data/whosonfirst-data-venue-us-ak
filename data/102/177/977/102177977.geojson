@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.812195,61.182814,-149.812195,61.182814",
+    "geom:latitude":61.182814,
+    "geom:longitude":-149.812195,
+    "iso:country":"US",
+    "sg:address":"3640 E 42nd Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 7761",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5in3SJsmvFV5kdgEmzARVc_61.182814_-149.812195@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"83390fd06bfcc331a51951d4ab90e5e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102177977"
+        }
+    ],
+    "wof:id":"102177977",
+    "wof:lastmodified":1449070210,
+    "wof:name":"Superior Products North",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.812195,61.182814,-149.812195,61.182814],
+  "geometry": {"coordinates":[-149.812195,61.182814],"type":"Point"}
+}

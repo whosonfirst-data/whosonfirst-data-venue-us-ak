@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.872422,61.195352,-149.872422,61.195352",
+    "geom:latitude":61.195352,
+    "geom:longitude":-149.872422,
+    "iso:country":"US",
+    "sg:address":"2509 Fairbanks St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 278 8995",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0COm87tBWXCSiHDubEmApo_61.195352_-149.872422@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b1a959b83a16d93d90c09c2d29b8caef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102184221"
+        }
+    ],
+    "wof:id":"102184221",
+    "wof:lastmodified":1449068216,
+    "wof:name":"Wedgewood Mortgage",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.872422,61.195352,-149.872422,61.195352],
+  "geometry": {"coordinates":[-149.872422,61.195352],"type":"Point"}
+}

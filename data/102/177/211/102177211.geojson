@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.715136,64.829868,-147.715136,64.829868",
+    "geom:latitude":64.829868,
+    "geom:longitude":-147.715136,
+    "iso:country":"US",
+    "sg:address":"1917 S Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 6911",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "video",
+        "disc",
+        "tape",
+        "cassette"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NmMPHxlkiJlxHVYsdyusl_64.829868_-147.715136@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eaad6d867c0e8c60a1cc37f1913d552d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102177211"
+        }
+    ],
+    "wof:id":"102177211",
+    "wof:lastmodified":1449070203,
+    "wof:name":"South Side Video",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.715136,64.829868,-147.715136,64.829868],
+  "geometry": {"coordinates":[-147.715136,64.829868],"type":"Point"}
+}

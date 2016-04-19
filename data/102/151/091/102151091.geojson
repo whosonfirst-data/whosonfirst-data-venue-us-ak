@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.412039,58.30057,-134.412039,58.30057",
+    "geom:latitude":58.30057,
+    "geom:longitude":-134.412039,
+    "iso:country":"US",
+    "sg:address":"333 Willoughby Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 465 2500",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "program",
+        "state",
+        "adm"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ki2IlHC81g5gyKY7uJH5d_58.300570_-134.412039@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"12e7da2210522e357a6dda2a2f07c24b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102151091"
+        }
+    ],
+    "wof:id":"102151091",
+    "wof:lastmodified":1449067781,
+    "wof:name":"Commerce & Economic Dev Dept",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.412039,58.30057,-134.412039,58.30057],
+  "geometry": {"coordinates":[-134.412039,58.30057],"type":"Point"}
+}

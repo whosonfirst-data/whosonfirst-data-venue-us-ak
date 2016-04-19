@@ -1,0 +1,67 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.46363,58.326571,-134.46363,58.326571",
+    "geom:latitude":58.326571,
+    "geom:longitude":-134.46363,
+    "iso:country":"US",
+    "sg:address":"2697 Channel Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Aquatic Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 463 5113",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "hatchery",
+        "ranching",
+        "salmon",
+        "fish"
+    ],
+    "sg:website":"www.dipac.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853509,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fdAm9xSLWbySHVBPhTp6R_58.326571_-134.463630@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b49a7abaf565264d616361d4c4c3ff4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85853509,
+            "region_id":85688573,
+            "venue_id":"102175603"
+        }
+    ],
+    "wof:id":"102175603",
+    "wof:lastmodified":1449069470,
+    "wof:name":"Douglas Island Pink & Chum",
+    "wof:parent_id":85853509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.46363,58.326571,-134.46363,58.326571],
+  "geometry": {"coordinates":[-134.46363,58.326571],"type":"Point"}
+}

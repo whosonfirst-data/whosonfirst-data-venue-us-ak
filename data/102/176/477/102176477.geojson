@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.886686,61.194576,-149.886686,61.194576",
+    "geom:latitude":61.194576,
+    "geom:longitude":-149.886686,
+    "iso:country":"US",
+    "sg:address":"2830 C St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 770 1270",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LneMONpUfQbjPiS0595mX_61.194576_-149.886686@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"93d25e70d105165b28b5ac491d0ca544",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102176477"
+        }
+    ],
+    "wof:id":"102176477",
+    "wof:lastmodified":1449069341,
+    "wof:name":"Boston's",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.886686,61.194576,-149.886686,61.194576],
+  "geometry": {"coordinates":[-149.886686,61.194576],"type":"Point"}
+}

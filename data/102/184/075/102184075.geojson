@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.710261,64.805652,-147.710261,64.805652",
+    "geom:latitude":64.805652,
+    "geom:longitude":-147.710261,
+    "iso:country":"US",
+    "sg:address":"455 Sanduri St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 459 1482",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916551,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77Yr8n1bC3YItL8C3EXBYZ_64.805652_-147.710261@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"de7d847ca5bb376d540c15fc512ee446",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916551,
+            "region_id":85688573,
+            "venue_id":"102184075"
+        }
+    ],
+    "wof:id":"102184075",
+    "wof:lastmodified":1449068217,
+    "wof:name":"Fairbanks North Star Landfill",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.710261,64.805652,-147.710261,64.805652],
+  "geometry": {"coordinates":[-147.710261,64.805652],"type":"Point"}
+}

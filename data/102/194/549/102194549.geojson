@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.710737,64.805801,-147.710737,64.805801",
+    "geom:latitude":64.805801,
+    "geom:longitude":-147.710737,
+    "iso:country":"US",
+    "sg:address":"4000 S Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 4000",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "material",
+        "sawmill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5b11sjAEoUUgEGlmBw27wp_64.805801_-147.710737@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a2585175eef57e7d24f8564fc7210db0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "region_id":85688573,
+            "venue_id":"102194549"
+        }
+    ],
+    "wof:id":"102194549",
+    "wof:lastmodified":1449069828,
+    "wof:name":"Northland Wood Products Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.710737,64.805801,-147.710737,64.805801],
+  "geometry": {"coordinates":[-147.710737,64.805801],"type":"Point"}
+}

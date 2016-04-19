@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.576442,61.32433,-149.576442,61.32433",
+    "geom:latitude":61.32433,
+    "geom:longitude":-149.576442,
+    "iso:country":"US",
+    "sg:address":"11471 Business Blvd",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 694 2732",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:website":"www.usps.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hmZIN0FW674rP5I1BI4hi_61.324330_-149.576442@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"43c5a88def0b3c9d80b281b7e51108a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102179281"
+        }
+    ],
+    "wof:id":"102179281",
+    "wof:lastmodified":1449069943,
+    "wof:name":"US Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.576442,61.32433,-149.576442,61.32433],
+  "geometry": {"coordinates":[-149.576442,61.32433],"type":"Point"}
+}

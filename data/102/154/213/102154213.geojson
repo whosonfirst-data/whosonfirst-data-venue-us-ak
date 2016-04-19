@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.895769,61.161037,-149.895769,61.161037",
+    "geom:latitude":61.161037,
+    "geom:longitude":-149.895769,
+    "iso:country":"US",
+    "sg:address":"6307 Arctic Spur Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Beer",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 3030",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Yaf6hPljYsxs90eKThEX1_61.161037_-149.895769@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"70fdc73a645cbbdbe212f45857c9643a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102154213"
+        }
+    ],
+    "wof:id":"102154213",
+    "wof:lastmodified":1449070241,
+    "wof:name":"K L Distributors",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.895769,61.161037,-149.895769,61.161037],
+  "geometry": {"coordinates":[-149.895769,61.161037],"type":"Point"}
+}

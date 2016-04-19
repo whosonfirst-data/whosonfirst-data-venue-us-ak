@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.412034,61.577778,-149.412034,61.577778",
+    "geom:latitude":61.577778,
+    "geom:longitude":-149.412034,
+    "iso:country":"US",
+    "sg:address":"1561 E Parks Hwy",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 3393",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zRGIw5h9c39IwhdBlQrRF_61.577778_-149.412034@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d180248299d14be531dd65d17ca23b1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102155045"
+        }
+    ],
+    "wof:id":"102155045",
+    "wof:lastmodified":1449069745,
+    "wof:name":"Brew Bakers Espresso",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.412034,61.577778,-149.412034,61.577778],
+  "geometry": {"coordinates":[-149.412034,61.577778],"type":"Point"}
+}

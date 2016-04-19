@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.861527,61.187542,-149.861527,61.187542",
+    "geom:latitude":61.187542,
+    "geom:longitude":-149.861527,
+    "iso:country":"US",
+    "sg:address":"3606 Rhone Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 3323",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vlvzlm9htxTi1oqQlSI4y_61.187542_-149.861527@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"230b4c48c01fac388381ead646b30245",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102169049"
+        }
+    ],
+    "wof:id":"102169049",
+    "wof:lastmodified":1449069246,
+    "wof:name":"J Bryson Mc Bratney DDS",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.861527,61.187542,-149.861527,61.187542],
+  "geometry": {"coordinates":[-149.861527,61.187542],"type":"Point"}
+}

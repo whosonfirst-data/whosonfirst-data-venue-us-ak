@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.312132,57.05007,-135.312132,57.05007",
+    "geom:latitude":57.05007,
+    "geom:longitude":-135.312132,
+    "iso:country":"US",
+    "sg:address":"310 Jarvis St",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 8595",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nQmCHSb8eWxgrhyMVc5Cd_57.050070_-135.312132@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"44f37945d4a4c262e0b42fda812d5ba0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102174779"
+        }
+    ],
+    "wof:id":"102174779",
+    "wof:lastmodified":1449068138,
+    "wof:name":"Mini Storage Co",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.312132,57.05007,-135.312132,57.05007],
+  "geometry": {"coordinates":[-135.312132,57.05007],"type":"Point"}
+}

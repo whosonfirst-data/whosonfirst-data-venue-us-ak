@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.765068,64.84571,-147.765068,64.84571",
+    "geom:latitude":64.84571,
+    "geom:longitude":-147.765068,
+    "iso:country":"US",
+    "sg:address":"1908 Chena Landings Loop Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 8080",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:website":"www.choice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64of8eaNtyhx1IOfoJtbY9_64.845710_-147.765068@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c8b3527b2f1ceae07a10149bbe09d572",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102176387"
+        }
+    ],
+    "wof:id":"102176387",
+    "wof:lastmodified":1449069348,
+    "wof:name":"Comfort Inn-Chena River",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.765068,64.84571,-147.765068,64.84571],
+  "geometry": {"coordinates":[-147.765068,64.84571],"type":"Point"}
+}

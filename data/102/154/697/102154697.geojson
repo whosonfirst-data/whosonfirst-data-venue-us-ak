@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.407025,58.304158,-134.407025,58.304158",
+    "geom:latitude":58.304158,
+    "geom:longitude":-134.407025,
+    "iso:country":"US",
+    "sg:address":"517 6th St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 463 3000",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "consultant",
+        "planning",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tbeSWNrsfxMEOEDDCxMqE_58.304158_-134.407025@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"37ca83e70bb6f62f17f473e04a38269a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102154697"
+        }
+    ],
+    "wof:id":"102154697",
+    "wof:lastmodified":1449070243,
+    "wof:name":"Financial Planning Concepts",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.407025,58.304158,-134.407025,58.304158],
+  "geometry": {"coordinates":[-134.407025,58.304158],"type":"Point"}
+}

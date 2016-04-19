@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-158.583516,59.065546,-158.583516,59.065546",
+    "geom:latitude":59.065546,
+    "geom:longitude":-158.583516,
+    "iso:country":"US",
+    "sg:address":"5021 Blueberry St",
+    "sg:city":"Dillingham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 842 2270",
+    "sg:postcode":"99576",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915613,
+        85633793,
+        85688573,
+        102080995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mPsJZNeSEYTgleuNYXLqH_59.065546_-158.583516@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e8662a5351e0fdfdcf8a2f01e85cef70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080995,
+            "locality_id":85915613,
+            "region_id":85688573,
+            "venue_id":"102163013"
+        }
+    ],
+    "wof:id":"102163013",
+    "wof:lastmodified":1449070164,
+    "wof:name":"Bennett Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-158.583516,59.065546,-158.583516,59.065546],
+  "geometry": {"coordinates":[-158.583516,59.065546],"type":"Point"}
+}

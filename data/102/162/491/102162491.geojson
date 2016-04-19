@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.815256,61.180912,-149.815256,61.180912",
+    "geom:latitude":61.180912,
+    "geom:longitude":-149.815256,
+    "iso:country":"US",
+    "sg:address":"3461 E Tudor Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 3806",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2c17dmtblAx4vfGf8tdCOZ_61.180912_-149.815256@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"303b58609b85b9e48bdb6dc2dc2aec9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102162491"
+        }
+    ],
+    "wof:id":"102162491",
+    "wof:lastmodified":1449069820,
+    "wof:name":"Roseland Inc",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.815256,61.180912,-149.815256,61.180912],
+  "geometry": {"coordinates":[-149.815256,61.180912],"type":"Point"}
+}

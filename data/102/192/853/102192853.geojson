@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.637249,55.343206,-131.637249,55.343206",
+    "geom:latitude":55.343206,
+    "geom:longitude":-131.637249,
+    "iso:country":"US",
+    "sg:address":"632 Park Ave",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 2240",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "rehab",
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cFOaYraAAGBrFhLmp5CIe_55.343206_-131.637249@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5fd6f8d36c4c4edb61d87dde107aab3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102192853"
+        }
+    ],
+    "wof:id":"102192853",
+    "wof:lastmodified":1449069503,
+    "wof:name":"Vocational Rehabilitation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.637249,55.343206,-131.637249,55.343206],
+  "geometry": {"coordinates":[-131.637249,55.343206],"type":"Point"}
+}

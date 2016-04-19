@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.866233,61.113119,-149.866233,61.113119",
+    "geom:latitude":61.113119,
+    "geom:longitude":-149.866233,
+    "iso:country":"US",
+    "sg:address":"11900 Gambell St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 9004",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "crane"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873755,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DPIYy9zUxE0EojveGOdUP_61.113119_-149.866233@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fb9cedb30e504705d36227bdcbea88c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873755,
+            "region_id":85688573,
+            "venue_id":"102185405"
+        }
+    ],
+    "wof:id":"102185405",
+    "wof:lastmodified":1449068199,
+    "wof:name":"Alaska Crane LTD",
+    "wof:parent_id":85873755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.866233,61.113119,-149.866233,61.113119],
+  "geometry": {"coordinates":[-149.866233,61.113119],"type":"Point"}
+}

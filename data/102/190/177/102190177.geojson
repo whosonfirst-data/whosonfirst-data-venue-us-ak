@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.879108,61.219617,-149.879108,61.219617",
+    "geom:latitude":61.219617,
+    "geom:longitude":-149.879108,
+    "iso:country":"US",
+    "sg:address":"225 Cordova St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 297 7700",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "furnishing",
+        "church"
+    ],
+    "sg:website":"www.archdioceseofanchorage.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7R8ViU6qMzGG6BhNBgp5vl_61.219617_-149.879108@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ae997c0458eafab557a0fcc0c0944a71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102190177"
+        }
+    ],
+    "wof:id":"102190177",
+    "wof:lastmodified":1449070037,
+    "wof:name":"Archdiocese Of Anchorage",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.879108,61.219617,-149.879108,61.219617],
+  "geometry": {"coordinates":[-149.879108,61.219617],"type":"Point"}
+}

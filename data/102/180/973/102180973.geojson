@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.42541,61.58729,-149.42541,61.58729",
+    "geom:latitude":61.58729,
+    "geom:longitude":-149.42541,
+    "iso:country":"US",
+    "sg:address":"1001 Bogard Rd",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 2225",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ST8urlS12i2kFLpEqDmUa_61.587290_-149.425410@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1cd53ec99c88641047081f6977c5d166",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102180973"
+        }
+    ],
+    "wof:id":"102180973",
+    "wof:lastmodified":1449067876,
+    "wof:name":"Larson Chiropractic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.42541,61.58729,-149.42541,61.58729],
+  "geometry": {"coordinates":[-149.42541,61.58729],"type":"Point"}
+}

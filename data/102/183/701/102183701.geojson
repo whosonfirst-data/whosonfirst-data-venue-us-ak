@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.984763,64.794513,-147.984763,64.794513",
+    "geom:latitude":64.794513,
+    "geom:longitude":-147.984763,
+    "iso:country":"US",
+    "sg:address":"1446 Hans Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 2189",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "leasing",
+        "charter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916563,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_277AqNNn8cDvEjOfmAlnp3_64.794513_-147.984763@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"005dfa88d256dc0b0497806504359a4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916563,
+            "region_id":85688573,
+            "venue_id":"102183701"
+        }
+    ],
+    "wof:id":"102183701",
+    "wof:lastmodified":1449069041,
+    "wof:name":"Caribou Air Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.984763,64.794513,-147.984763,64.794513],
+  "geometry": {"coordinates":[-147.984763,64.794513],"type":"Point"}
+}

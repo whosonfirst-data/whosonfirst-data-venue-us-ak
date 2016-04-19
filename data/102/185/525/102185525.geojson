@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.741122,64.827359,-147.741122,64.827359",
+    "geom:latitude":64.827359,
+    "geom:longitude":-147.741122,
+    "iso:country":"US",
+    "sg:address":"1623 22nd Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 455 6821",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xrOKlCank9My7eswwmaOQ_64.827359_-147.741122@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"329434be546b81bbd1f7c2f521b9425b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102185525"
+        }
+    ],
+    "wof:id":"102185525",
+    "wof:lastmodified":1449068198,
+    "wof:name":"Craysoncom",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.741122,64.827359,-147.741122,64.827359],
+  "geometry": {"coordinates":[-147.741122,64.827359],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-145.760566,60.539108,-145.760566,60.539108",
+    "geom:latitude":60.539108,
+    "geom:longitude":-145.760566,
+    "iso:country":"US",
+    "sg:address":"108 Forestry Way",
+    "sg:city":"Cordova",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 424 3498",
+    "sg:postcode":"99574",
+    "sg:province":"AK",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839707,
+        85633793,
+        85915567,
+        102081911,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25akXrp7XetAQFmzUQ6aUg_60.539108_-145.760566@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f653ea70eda408c8213e0e1961ca6bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915567,
+            "neighbourhood_id":85839707,
+            "region_id":85688573,
+            "venue_id":"102193771"
+        }
+    ],
+    "wof:id":"102193771",
+    "wof:lastmodified":1449068192,
+    "wof:name":"Waterways Veterinary Clinic",
+    "wof:parent_id":85839707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-145.760566,60.539108,-145.760566,60.539108],
+  "geometry": {"coordinates":[-145.760566,60.539108],"type":"Point"}
+}

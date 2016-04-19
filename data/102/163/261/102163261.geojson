@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-150.000849,61.197681,-150.000849,61.197681",
+    "geom:latitude":61.197681,
+    "geom:longitude":-150.000849,
+    "iso:country":"US",
+    "sg:address":"6300 Boeing Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 266 5656",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852831,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GJAV3ozcuDIyLjosVf2wd_61.197681_-150.000849@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2742314a28c2c0fc3bbc5357122fb859",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":"102163261"
+        }
+    ],
+    "wof:id":"102163261",
+    "wof:lastmodified":1449070160,
+    "wof:name":"Northwest Airlines Inc",
+    "wof:parent_id":85852831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-150.000849,61.197681,-150.000849,61.197681],
+  "geometry": {"coordinates":[-150.000849,61.197681],"type":"Point"}
+}

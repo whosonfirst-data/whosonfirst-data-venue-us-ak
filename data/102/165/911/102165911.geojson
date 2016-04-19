@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.837505,61.180762,-149.837505,61.180762",
+    "geom:latitude":61.180762,
+    "geom:longitude":-149.837505,
+    "iso:country":"US",
+    "sg:address":"2482 E Tudor Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 8266",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3et0P9kAbQVn2DTYzaZRNW_61.180762_-149.837505@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"276f0314b879ebe74ad6c850f75f1abe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102165911"
+        }
+    ],
+    "wof:id":"102165911",
+    "wof:lastmodified":1449070218,
+    "wof:name":"A Sun Affair",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.837505,61.180762,-149.837505,61.180762],
+  "geometry": {"coordinates":[-149.837505,61.180762],"type":"Point"}
+}

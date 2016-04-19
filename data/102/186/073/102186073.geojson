@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.940051,61.197994,-149.940051,61.197994",
+    "geom:latitude":61.197994,
+    "geom:longitude":-149.940051,
+    "iso:country":"US",
+    "sg:address":"2600 Brooke Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 5457",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72pgfIgCZcV5VAAT3NLHzm_61.197994_-149.940051@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0d0a10e5841b27780fa2af5d992f30f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102186073"
+        }
+    ],
+    "wof:id":"102186073",
+    "wof:lastmodified":1449069653,
+    "wof:name":"Creative Cakes By Jeryll",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.940051,61.197994,-149.940051,61.197994],
+  "geometry": {"coordinates":[-149.940051,61.197994],"type":"Point"}
+}

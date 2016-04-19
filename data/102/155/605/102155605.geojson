@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.776373,61.130661,-149.776373,61.130661",
+    "geom:latitude":61.130661,
+    "geom:longitude":-149.776373,
+    "iso:country":"US",
+    "sg:address":"5600 E 99th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 346 3261",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "heavy",
+        "except"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873745,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6F3OCy9bbpf3jcNLAkwUOV_61.130661_-149.776373@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c34fc39b8c048ae75217b506f45a3c88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873745,
+            "region_id":85688573,
+            "venue_id":"102155605"
+        }
+    ],
+    "wof:id":"102155605",
+    "wof:lastmodified":1449069743,
+    "wof:name":"G L S LLC",
+    "wof:parent_id":85873745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.776373,61.130661,-149.776373,61.130661],
+  "geometry": {"coordinates":[-149.776373,61.130661],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.850942,64.840911,-147.850942,64.840911",
+    "geom:latitude":64.840911,
+    "geom:longitude":-147.850942,
+    "iso:country":"US",
+    "sg:address":"112 Brigham Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 2110",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gBHQc3tWQaeqqladMskWj_64.840911_-147.850942@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"30d47a02ac1ebf17140d47bad8f1478a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102176067"
+        }
+    ],
+    "wof:id":"102176067",
+    "wof:lastmodified":1449069342,
+    "wof:name":"Input/Output",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.850942,64.840911,-147.850942,64.840911],
+  "geometry": {"coordinates":[-147.850942,64.840911],"type":"Point"}
+}

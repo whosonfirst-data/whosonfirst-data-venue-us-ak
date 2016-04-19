@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.778569,64.808316,-147.778569,64.808316",
+    "geom:latitude":64.808316,
+    "geom:longitude":-147.778569,
+    "iso:country":"US",
+    "sg:address":"3870 Peger Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 8800",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916551,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19IqLzFWqqO6lmwew2sifJ_64.808316_-147.778569@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6c03bd79e7921688d58f3c1a19433cdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916551,
+            "region_id":85688573,
+            "venue_id":"102176345"
+        }
+    ],
+    "wof:id":"102176345",
+    "wof:lastmodified":1449069348,
+    "wof:name":"G & O Machine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.778569,64.808316,-147.778569,64.808316],
+  "geometry": {"coordinates":[-147.778569,64.808316],"type":"Point"}
+}

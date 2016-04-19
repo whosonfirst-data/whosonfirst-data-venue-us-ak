@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.859244,61.106507,-149.859244,61.106507",
+    "geom:latitude":61.106507,
+    "geom:longitude":-149.859244,
+    "iso:country":"US",
+    "sg:address":"12855 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 348 0005",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3F8kBi6ieODjZU50EhuAmF_61.106507_-149.859244@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"49aa82c5a27f181a3675944c035a6c5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102194315"
+        }
+    ],
+    "wof:id":"102194315",
+    "wof:lastmodified":1449069830,
+    "wof:name":"Garden Montessori",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.859244,61.106507,-149.859244,61.106507],
+  "geometry": {"coordinates":[-149.859244,61.106507],"type":"Point"}
+}

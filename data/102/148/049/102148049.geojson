@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.897878,61.194276,-149.897878,61.194276",
+    "geom:latitude":61.194276,
+    "geom:longitude":-149.897878,
+    "iso:country":"US",
+    "sg:address":"2809 Arctic Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 4083",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:website":"www.baileysfurniture.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eUhEd8FRRRviqxx5v8tyU_61.194276_-149.897878@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b37e14094c87d35a3c13ee44ff041c09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102148049"
+        }
+    ],
+    "wof:id":"102148049",
+    "wof:lastmodified":1449069783,
+    "wof:name":"Bailey's Furniture",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.897878,61.194276,-149.897878,61.194276],
+  "geometry": {"coordinates":[-149.897878,61.194276],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.118193,61.601706,-149.118193,61.601706",
+    "geom:latitude":61.601706,
+    "geom:longitude":-149.118193,
+    "iso:country":"US",
+    "sg:address":"531 S Cobb St",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 746 7577",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915577,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cSEkSz892NH1SdU5bNs2G_61.601706_-149.118193@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"27f3e04523a485bda631bf20bbd974f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915577,
+            "region_id":85688573,
+            "venue_id":"102177911"
+        }
+    ],
+    "wof:id":"102177911",
+    "wof:lastmodified":1449070209,
+    "wof:name":"Johnsons Plumbing & Heating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.118193,61.601706,-149.118193,61.601706],
+  "geometry": {"coordinates":[-149.118193,61.601706],"type":"Point"}
+}

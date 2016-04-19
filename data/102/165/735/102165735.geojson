@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.289989,60.702628,-151.289989,60.702628",
+    "geom:latitude":60.702628,
+    "geom:longitude":-151.289989,
+    "iso:country":"US",
+    "sg:address":"51835 Rut Rd",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 776 8545",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916883,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vyxoOHYOmBdJD0Xczt1T9_60.702628_-151.289989@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a50b28060c118b7c425acf72d218eea5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916883,
+            "region_id":85688573,
+            "venue_id":"102165735"
+        }
+    ],
+    "wof:id":"102165735",
+    "wof:lastmodified":1449070218,
+    "wof:name":"Steve's Chevron",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.289989,60.702628,-151.289989,60.702628],
+  "geometry": {"coordinates":[-151.289989,60.702628],"type":"Point"}
+}

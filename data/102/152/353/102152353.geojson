@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.885664,61.200844,-149.885664,61.200844",
+    "geom:latitude":61.200844,
+    "geom:longitude":-149.885664,
+    "iso:country":"US",
+    "sg:address":"247 W 22nd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 0585",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5K344MDFK92CLtehSZw8oO_61.200844_-149.885664@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c44ead3f49aa257135dfc7b5a11e68e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102152353"
+        }
+    ],
+    "wof:id":"102152353",
+    "wof:lastmodified":1449069635,
+    "wof:name":"Mc Mac Shoppe",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.885664,61.200844,-149.885664,61.200844],
+  "geometry": {"coordinates":[-149.885664,61.200844],"type":"Point"}
+}

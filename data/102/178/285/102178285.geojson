@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.454891,61.581744,-149.454891,61.581744",
+    "geom:latitude":61.581744,
+    "geom:longitude":-149.454891,
+    "iso:country":"US",
+    "sg:address":"101 W Parks Hwy",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 4851",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "medicine",
+        "alternative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Td29ZbfnyZQAtmLP1iaOE_61.581744_-149.454891@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7fe74b1fe88cbd4d2f59e4793e922b57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102178285"
+        }
+    ],
+    "wof:id":"102178285",
+    "wof:lastmodified":1449069528,
+    "wof:name":"Wasilla Chiropractic Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.454891,61.581744,-149.454891,61.581744],
+  "geometry": {"coordinates":[-149.454891,61.581744],"type":"Point"}
+}

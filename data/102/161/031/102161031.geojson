@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.858849,64.834536,-147.858849,64.834536",
+    "geom:latitude":64.834536,
+    "geom:longitude":-147.858849,
+    "iso:country":"US",
+    "sg:address":"4697 Chena Small Tracts Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Soap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 8013",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "detergent",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916609,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I435iJD9qBt6kywuqk55Z_64.834536_-147.858849@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"56f61076f3ed04822db955f635360574",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "region_id":85688573,
+            "venue_id":"102161031"
+        }
+    ],
+    "wof:id":"102161031",
+    "wof:lastmodified":1449068712,
+    "wof:name":"Fairbanks Soap Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.858849,64.834536,-147.858849,64.834536],
+  "geometry": {"coordinates":[-147.858849,64.834536],"type":"Point"}
+}

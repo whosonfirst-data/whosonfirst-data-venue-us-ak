@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.112948,61.600128,-149.112948,61.600128",
+    "geom:latitude":61.600128,
+    "geom:longitude":-149.112948,
+    "iso:country":"US",
+    "sg:address":"655 S Valley Way",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 4690",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915577,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Zv9UD9qgZB1YnIX7s1ngn_61.600128_-149.112948@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"04c02854c49f3596087200b4751f36ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915577,
+            "region_id":85688573,
+            "venue_id":"102170617"
+        }
+    ],
+    "wof:id":"102170617",
+    "wof:lastmodified":1449068017,
+    "wof:name":"Palmer Library",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.112948,61.600128,-149.112948,61.600128],
+  "geometry": {"coordinates":[-149.112948,61.600128],"type":"Point"}
+}

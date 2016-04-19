@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.897639,61.220279,-149.897639,61.220279",
+    "geom:latitude":61.220279,
+    "geom:longitude":-149.897639,
+    "iso:country":"US",
+    "sg:address":"250 H St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 278 5000",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JLybxkHAFrWlD9j2PTHME_61.220279_-149.897639@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eb390067c2c82448285c56644563c7f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102175223"
+        }
+    ],
+    "wof:id":"102175223",
+    "wof:lastmodified":1449069464,
+    "wof:name":"Davis Black",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.897639,61.220279,-149.897639,61.220279],
+  "geometry": {"coordinates":[-149.897639,61.220279],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.915914,61.138116,-149.915914,61.138116",
+    "geom:latitude":61.138116,
+    "geom:longitude":-149.915914,
+    "iso:country":"US",
+    "sg:address":"1921 W Dimond Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 2050",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Sxh92pzLMfbbeXsfDoug7_61.138116_-149.915914@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b001bfe05bff2033988e521f212c4003",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102184327"
+        }
+    ],
+    "wof:id":"102184327",
+    "wof:lastmodified":1449068215,
+    "wof:name":"LA Scala Restaurant",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.915914,61.138116,-149.915914,61.138116],
+  "geometry": {"coordinates":[-149.915914,61.138116],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.587355,58.400709,-134.587355,58.400709",
+    "geom:latitude":58.400709,
+    "geom:longitude":-134.587355,
+    "iso:country":"US",
+    "sg:address":"9586 Whitewater Ct",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 9028",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uA7F0K8okXsEM0UZ67Axl_58.400709_-134.587355@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1be827ee345228679e5e4fc3a23fbcd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102161155"
+        }
+    ],
+    "wof:id":"102161155",
+    "wof:lastmodified":1449068714,
+    "wof:name":"Glacier Stenographic Reporters",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.587355,58.400709,-134.587355,58.400709],
+  "geometry": {"coordinates":[-134.587355,58.400709],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.876346,61.131296,-149.876346,61.131296",
+    "geom:latitude":61.131296,
+    "geom:longitude":-149.876346,
+    "iso:country":"US",
+    "sg:address":"209 King Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 7628",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "club",
+        "baseball"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53Bl6k7PiAQ4XCJhLuCyVX_61.131296_-149.876346@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f2035dfcb531c6956802342d26259952",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102182033"
+        }
+    ],
+    "wof:id":"102182033",
+    "wof:lastmodified":1449069280,
+    "wof:name":"Cage",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.876346,61.131296,-149.876346,61.131296],
+  "geometry": {"coordinates":[-149.876346,61.131296],"type":"Point"}
+}

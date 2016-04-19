@@ -1,0 +1,73 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.897495,61.207066,-149.897495,61.207066",
+    "geom:latitude":61.207066,
+    "geom:longitude":-149.897495,
+    "iso:country":"US",
+    "sg:address":"1557 H St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 1000",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "fur",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573,
+        85873721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WWfUl7Z4JUDqDTKtR2WgU_61.207066_-149.897495@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f0be97278f8a01e3ec5848273fb556b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102188787"
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873721,
+            "region_id":85688573,
+            "venue_id":"102188787"
+        }
+    ],
+    "wof:id":"102188787",
+    "wof:lastmodified":1449068946,
+    "wof:name":"North American Fur Sales",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.897495,61.207066,-149.897495,61.207066],
+  "geometry": {"coordinates":[-149.897495,61.207066],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.784559,64.830563,-147.784559,64.830563",
+    "geom:latitude":64.830563,
+    "geom:longitude":-147.784559,
+    "iso:country":"US",
+    "sg:address":"1952 Ada St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 9595",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "concrete",
+        "pumping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7betq3HNtRYuXFL2C9EU1g_64.830563_-147.784559@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"22a37b2201339455b7bda26de603f779",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102175003"
+        }
+    ],
+    "wof:id":"102175003",
+    "wof:lastmodified":1449069469,
+    "wof:name":"Haydon Concrete Pumping",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.784559,64.830563,-147.784559,64.830563],
+  "geometry": {"coordinates":[-147.784559,64.830563],"type":"Point"}
+}

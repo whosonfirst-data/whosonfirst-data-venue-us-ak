@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.915607,61.211738,-149.915607,61.211738",
+    "geom:latitude":61.211738,
+    "geom:longitude":-149.915607,
+    "iso:country":"US",
+    "sg:address":"1629 W 11th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 2969",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873721,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pv30F4Kis0SgXun5hr5mS_61.211738_-149.915607@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fa506ac0b0b9f297382efa2a9b6a97cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873721,
+            "region_id":85688573,
+            "venue_id":"102187777"
+        }
+    ],
+    "wof:id":"102187777",
+    "wof:lastmodified":1449068158,
+    "wof:name":"East West Connections",
+    "wof:parent_id":85873721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.915607,61.211738,-149.915607,61.211738],
+  "geometry": {"coordinates":[-149.915607,61.211738],"type":"Point"}
+}

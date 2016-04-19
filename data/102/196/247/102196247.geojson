@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.820389,61.223918,-149.820389,61.223918",
+    "geom:latitude":61.223918,
+    "geom:longitude":-149.820389,
+    "iso:country":"US",
+    "sg:address":"3162 Rampart Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 0127",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "stove",
+        "wood",
+        "burning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5O8RQ9jsKZJpWPCr82CPuk_61.223918_-149.820389@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f5165028553e836052e763f133a34e3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102196247"
+        }
+    ],
+    "wof:id":"102196247",
+    "wof:lastmodified":1449068337,
+    "wof:name":"Alaska Yukon Distributors",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.820389,61.223918,-149.820389,61.223918],
+  "geometry": {"coordinates":[-149.820389,61.223918],"type":"Point"}
+}

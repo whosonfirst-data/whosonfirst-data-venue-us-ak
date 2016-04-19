@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.940664,61.140243,-149.940664,61.140243",
+    "geom:latitude":61.140243,
+    "geom:longitude":-149.940664,
+    "iso:country":"US",
+    "sg:address":"8801 Dewberry St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 764 2839",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pnXUWeJ6f8KhRbhvSLiQL_61.140243_-149.940664@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e5bab85ab8661093323f74befe00ad40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102188053"
+        }
+    ],
+    "wof:id":"102188053",
+    "wof:lastmodified":1449068945,
+    "wof:name":"Bright & Shiney",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.940664,61.140243,-149.940664,61.140243],
+  "geometry": {"coordinates":[-149.940664,61.140243],"type":"Point"}
+}

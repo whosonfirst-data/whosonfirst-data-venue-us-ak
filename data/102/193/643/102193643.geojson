@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.677254,55.352628,-131.677254,55.352628",
+    "geom:latitude":55.352628,
+    "geom:longitude":-131.677254,
+    "iso:country":"US",
+    "sg:address":"2610 4th Ave",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 9815",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:website":"www.kgbsd.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uQpMLKvqyVmwT2cWj69Sx_55.352628_-131.677254@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"35b15b06710fa9a9cd4706548f6701f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102193643"
+        }
+    ],
+    "wof:id":"102193643",
+    "wof:lastmodified":1449068194,
+    "wof:name":"Ketchikan High School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.677254,55.352628,-131.677254,55.352628],
+  "geometry": {"coordinates":[-131.677254,55.352628],"type":"Point"}
+}

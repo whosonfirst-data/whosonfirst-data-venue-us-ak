@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.384139,56.4715,-132.384139,56.4715",
+    "geom:latitude":56.4715,
+    "geom:longitude":-132.384139,
+    "iso:country":"US",
+    "sg:address":"205 Front St",
+    "sg:city":"Wrangell",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 874 2301",
+    "sg:postcode":"99929",
+    "sg:province":"AK",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916111,
+        85633793,
+        85688573,
+        102081901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Pz5DWN8SjuWQY2GTXO5wM_56.471500_-132.384139@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e64a85a5f02b9bab5c75796630630e96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081901,
+            "locality_id":85916111,
+            "region_id":85688573,
+            "venue_id":"102166873"
+        }
+    ],
+    "wof:id":"102166873",
+    "wof:lastmodified":1449069082,
+    "wof:name":"Wrangell Sentinel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.384139,56.4715,-132.384139,56.4715],
+  "geometry": {"coordinates":[-132.384139,56.4715],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.566756,58.385295,-134.566756,58.385295",
+    "geom:latitude":58.385295,
+    "geom:longitude":-134.566756,
+    "iso:country":"US",
+    "sg:address":"8668 Dudley St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 2582",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dGSYgZI5f2BNdlrKJ1M42_58.385295_-134.566756@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ce78452b61a938439e47b4b5038d3b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102164015"
+        }
+    ],
+    "wof:id":"102164015",
+    "wof:lastmodified":1449068090,
+    "wof:name":"A Cozy Log Bed & Breakfast",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.566756,58.385295,-134.566756,58.385295],
+  "geometry": {"coordinates":[-134.566756,58.385295],"type":"Point"}
+}

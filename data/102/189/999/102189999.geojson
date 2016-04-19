@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.702191,64.810676,-147.702191,64.810676",
+    "geom:latitude":64.810676,
+    "geom:longitude":-147.702191,
+    "iso:country":"US",
+    "sg:address":"3730 Braddock St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 455 9900",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "truck"
+    ],
+    "sg:website":"www.kenworth.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MiZKzmCLdtYUuGdlsiUu6_64.810676_-147.702191@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4a1b200a9194559cc6c1d4c54623a6eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102189999"
+        }
+    ],
+    "wof:id":"102189999",
+    "wof:lastmodified":1449069498,
+    "wof:name":"Kenworth Alaska Inc",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.702191,64.810676,-147.702191,64.810676],
+  "geometry": {"coordinates":[-147.702191,64.810676],"type":"Point"}
+}

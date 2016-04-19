@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.353406,64.755565,-147.353406,64.755565",
+    "geom:latitude":64.755565,
+    "geom:longitude":-147.353406,
+    "iso:country":"US",
+    "sg:address":"167 N Santa Claus Ln",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 8555",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915639,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ir1SUV34Drs6YKP4LqneQ_64.755565_-147.353406@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"84d6465608119fc8a76a5d9c6da25ff4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915639,
+            "region_id":85688573,
+            "venue_id":"102188027"
+        }
+    ],
+    "wof:id":"102188027",
+    "wof:lastmodified":1449068945,
+    "wof:name":"Denali Infusion Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.353406,64.755565,-147.353406,64.755565],
+  "geometry": {"coordinates":[-147.353406,64.755565],"type":"Point"}
+}

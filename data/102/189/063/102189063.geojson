@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.838169,61.191453,-149.838169,61.191453",
+    "geom:latitude":61.191453,
+    "geom:longitude":-149.838169,
+    "iso:country":"US",
+    "sg:address":"3331 Lake Otis Pkwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 278 6645",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "youth",
+        "organization",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43LBv9FTw9p0n4JxKJeMn5_61.191453_-149.838169@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"12a15c3cb640128791b8ba6dc422cbad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102189063"
+        }
+    ],
+    "wof:id":"102189063",
+    "wof:lastmodified":1449069496,
+    "wof:name":"Camp Fire Alaska Council",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.838169,61.191453,-149.838169,61.191453],
+  "geometry": {"coordinates":[-149.838169,61.191453],"type":"Point"}
+}

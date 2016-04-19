@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.83219,61.180912,-149.83219,61.180912",
+    "geom:latitude":61.180912,
+    "geom:longitude":-149.83219,
+    "iso:country":"US",
+    "sg:address":"2621 E Tudor Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 3995",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iVzRNIwQh8JEICudxp4Jk_61.180912_-149.832190@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"60b865b12369d697a92650917fe3f8fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102183281"
+        }
+    ],
+    "wof:id":"102183281",
+    "wof:lastmodified":1449069042,
+    "wof:name":"Tudor Auto Sales",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.83219,61.180912,-149.83219,61.180912],
+  "geometry": {"coordinates":[-149.83219,61.180912],"type":"Point"}
+}

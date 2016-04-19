@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.903928,61.198937,-149.903928,61.198937",
+    "geom:latitude":61.198937,
+    "geom:longitude":-149.903928,
+    "iso:country":"US",
+    "sg:address":"1017 W Fireweed Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 2824",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "infant",
+        "wear"
+    ],
+    "sg:website":"www.juniortowne.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3skdholodvUkQG1xJAasn5_61.198937_-149.903928@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"983a1816576deb8459060d8d3e1034ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102153061"
+        }
+    ],
+    "wof:id":"102153061",
+    "wof:lastmodified":1449069463,
+    "wof:name":"Junior Towne",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.903928,61.198937,-149.903928,61.198937],
+  "geometry": {"coordinates":[-149.903928,61.198937],"type":"Point"}
+}

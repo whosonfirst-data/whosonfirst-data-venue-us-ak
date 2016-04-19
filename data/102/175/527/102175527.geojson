@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.732455,64.849839,-147.732455,64.849839",
+    "geom:latitude":64.849839,
+    "geom:longitude":-147.732455,
+    "iso:country":"US",
+    "sg:address":"1304 Well St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 455 8400",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "arts",
+        "artist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04WW0TuZIy5jrnPNWVzeGb_64.849839_-147.732455@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eab109ca04f9e2c844b86a435a66fdae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102175527"
+        }
+    ],
+    "wof:id":"102175527",
+    "wof:lastmodified":1449069469,
+    "wof:name":"Art Endeavors Studio",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.732455,64.849839,-147.732455,64.849839],
+  "geometry": {"coordinates":[-147.732455,64.849839],"type":"Point"}
+}

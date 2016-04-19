@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.774215,61.195191,-149.774215,61.195191",
+    "geom:latitude":61.195191,
+    "geom:longitude":-149.774215,
+    "iso:country":"US",
+    "sg:address":"5530 E Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 2277",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806647,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zQGo339aXZVA9665rLhZl_61.195191_-149.774215@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5a3eead075b652ab44274a41390c3631",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85806647,
+            "region_id":85688573,
+            "venue_id":"102154523"
+        }
+    ],
+    "wof:id":"102154523",
+    "wof:lastmodified":1449070244,
+    "wof:name":"Wayland Baptist University",
+    "wof:parent_id":85806647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.774215,61.195191,-149.774215,61.195191],
+  "geometry": {"coordinates":[-149.774215,61.195191],"type":"Point"}
+}

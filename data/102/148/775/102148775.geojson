@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.446689,59.230437,-135.446689,59.230437",
+    "geom:latitude":59.230437,
+    "geom:longitude":-135.446689,
+    "iso:country":"US",
+    "sg:address":"205 2nd Ave",
+    "sg:city":"Haines",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 766 3422",
+    "sg:postcode":"99827",
+    "sg:province":"AK",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842771,
+        85633793,
+        85916629,
+        102083767,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oEQx0d82LRS3ZNzl51RlN_59.230437_-135.446689@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6093734f6426ed515a4baae35d4ceed6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083767,
+            "locality_id":85916629,
+            "neighbourhood_id":85842771,
+            "region_id":85688573,
+            "venue_id":"102148775"
+        }
+    ],
+    "wof:id":"102148775",
+    "wof:lastmodified":1449069785,
+    "wof:name":"Roy's Ramblings",
+    "wof:parent_id":85842771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.446689,59.230437,-135.446689,59.230437],
+  "geometry": {"coordinates":[-135.446689,59.230437],"type":"Point"}
+}

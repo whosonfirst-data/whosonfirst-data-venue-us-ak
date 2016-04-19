@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-145.754071,60.54313,-145.754071,60.54313",
+    "geom:latitude":60.54313,
+    "geom:longitude":-145.754071,
+    "iso:country":"US",
+    "sg:address":"304 Adams Ave",
+    "sg:city":"Cordova",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 424 3629",
+    "sg:postcode":"99574",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839707,
+        85633793,
+        85915567,
+        102081911,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RVKhU8b7fFnxqRhXjbsP6_60.543130_-145.754071@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"221735a762f56b53d13122338f327248",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915567,
+            "neighbourhood_id":85839707,
+            "region_id":85688573,
+            "venue_id":"102153759"
+        }
+    ],
+    "wof:id":"102153759",
+    "wof:lastmodified":1449069463,
+    "wof:name":"Little Chapel Inc",
+    "wof:parent_id":85839707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-145.754071,60.54313,-145.754071,60.54313],
+  "geometry": {"coordinates":[-145.754071,60.54313],"type":"Point"}
+}

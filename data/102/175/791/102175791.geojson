@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-161.820628,60.805674,-161.820628,60.805674",
+    "geom:latitude":60.805674,
+    "geom:longitude":-161.820628,
+    "iso:country":"US",
+    "sg:address":"9145 Ptarmigan St",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 543 5308",
+    "sg:postcode":"99559",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "heating",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915901,
+        85633793,
+        85688573,
+        102085877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AY3UHbpx3avcZbaqXImib_60.805674_-161.820628@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e649af41d5623824579af70c9364e7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085877,
+            "locality_id":85915901,
+            "region_id":85688573,
+            "venue_id":"102175791"
+        }
+    ],
+    "wof:id":"102175791",
+    "wof:lastmodified":1449069470,
+    "wof:name":"Tundra Heating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-161.820628,60.805674,-161.820628,60.805674],
+  "geometry": {"coordinates":[-161.820628,60.805674],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.863965,61.137515,-149.863965,61.137515",
+    "geom:latitude":61.137515,
+    "geom:longitude":-149.863965,
+    "iso:country":"US",
+    "sg:address":"9200 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 8944",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dyq66inWOPBXQkNo2Z6Sk_61.137515_-149.863965@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e7da75f9eb44e52d47c2d9e3b72094f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102164441"
+        }
+    ],
+    "wof:id":"102164441",
+    "wof:lastmodified":1449068084,
+    "wof:name":"House Of Critters",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.863965,61.137515,-149.863965,61.137515],
+  "geometry": {"coordinates":[-149.863965,61.137515],"type":"Point"}
+}

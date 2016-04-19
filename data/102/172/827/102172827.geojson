@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-154.794694,59.436018,-154.794694,59.436018",
+    "geom:latitude":59.436018,
+    "geom:longitude":-154.794694,
+    "iso:country":"US",
+    "sg:address":"1 Airport Rd",
+    "sg:city":"Iliamna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 571 1248",
+    "sg:postcode":"99606",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "leasing",
+        "charter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916921,
+        85633793,
+        85688573,
+        102080999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nO4rRuvPLCsmhtisPxYov_59.436018_-154.794694@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f6b4778df8c1b384994d8b74ce388a95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080999,
+            "locality_id":85916921,
+            "region_id":85688573,
+            "venue_id":"102172827"
+        }
+    ],
+    "wof:id":"102172827",
+    "wof:lastmodified":1449068736,
+    "wof:name":"Iliamna Air Taxi Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-154.794694,59.436018,-154.794694,59.436018],
+  "geometry": {"coordinates":[-154.794694,59.436018],"type":"Point"}
+}

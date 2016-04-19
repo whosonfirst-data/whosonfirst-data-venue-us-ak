@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.722265,64.855906,-147.722265,64.855906",
+    "geom:latitude":64.855906,
+    "geom:longitude":-147.722265,
+    "iso:country":"US",
+    "sg:address":"239 His Majestys Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 6444",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830247,
+        85633793,
+        85916559,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TNsZLdQ86wFef2l7keKtz_64.855906_-147.722265@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ef1a02b551f7cbf85b5d50e07d236ba2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "neighbourhood_id":85830247,
+            "region_id":85688573,
+            "venue_id":"102188897"
+        }
+    ],
+    "wof:id":"102188897",
+    "wof:lastmodified":1449068947,
+    "wof:name":"Hornsby Oil",
+    "wof:parent_id":85830247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.722265,64.855906,-147.722265,64.855906],
+  "geometry": {"coordinates":[-147.722265,64.855906],"type":"Point"}
+}

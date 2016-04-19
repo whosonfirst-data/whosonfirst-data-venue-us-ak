@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.881225,61.215592,-149.881225,61.215592",
+    "geom:latitude":61.215592,
+    "geom:longitude":-149.881225,
+    "iso:country":"US",
+    "sg:address":"600 Barrow St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 7799",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "party",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gFfclK3M9JPenVjO6apGf_61.215592_-149.881225@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aa3ee8535ce9bb580f29a35d9928d57c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102149341"
+        }
+    ],
+    "wof:id":"102149341",
+    "wof:lastmodified":1449067772,
+    "wof:name":"Fishing Lodge Inc",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.881225,61.215592,-149.881225,61.215592],
+  "geometry": {"coordinates":[-149.881225,61.215592],"type":"Point"}
+}

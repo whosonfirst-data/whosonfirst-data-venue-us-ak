@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-158.464809,59.039071,-158.464809,59.039071",
+    "geom:latitude":59.039071,
+    "geom:longitude":-158.464809,
+    "iso:country":"US",
+    "sg:address":"304 Main St E",
+    "sg:city":"Dillingham",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 842 2606",
+    "sg:postcode":"99576",
+    "sg:province":"AK",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915613,
+        85633793,
+        85688573,
+        102080995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1U9eis0JY2gXD6gv3iz4dh_59.039071_-158.464809@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6103e33a7a81ca23941e01937656ab1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080995,
+            "locality_id":85915613,
+            "region_id":85688573,
+            "venue_id":"102156955"
+        }
+    ],
+    "wof:id":"102156955",
+    "wof:lastmodified":1449068282,
+    "wof:name":"Ernie's Cab Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-158.464809,59.039071,-158.464809,59.039071],
+  "geometry": {"coordinates":[-158.464809,59.039071],"type":"Point"}
+}

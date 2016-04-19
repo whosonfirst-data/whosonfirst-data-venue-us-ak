@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.471367,61.390405,-149.471367,61.390405",
+    "geom:latitude":61.390405,
+    "geom:longitude":-149.471367,
+    "iso:country":"US",
+    "sg:address":"19137 Old Glenn Hwy",
+    "sg:city":"Chugiak",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 688 1191",
+    "sg:postcode":"99567",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806187,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HblYPXx9Th1gJ1WbMXB9g_61.390405_-149.471367@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7828430c8b3a2d2aeb96b3f63ac92fb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85806187,
+            "region_id":85688573,
+            "venue_id":"102167989"
+        }
+    ],
+    "wof:id":"102167989",
+    "wof:lastmodified":1449069002,
+    "wof:name":"J & S Auto Repair",
+    "wof:parent_id":85806187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.471367,61.390405,-149.471367,61.390405],
+  "geometry": {"coordinates":[-149.471367,61.390405],"type":"Point"}
+}

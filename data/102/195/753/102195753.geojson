@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.807937,64.855402,-147.807937,64.855402",
+    "geom:latitude":64.855402,
+    "geom:longitude":-147.807937,
+    "iso:country":"US",
+    "sg:address":"1220 Hess Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 2306",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RrypHKMDGCV6eR1km2xGf_64.855402_-147.807937@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d6a95e3e54fa256eadace66d29963757",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102195753"
+        }
+    ],
+    "wof:id":"102195753",
+    "wof:lastmodified":1449069361,
+    "wof:name":"Shear Magic Beauty Salon",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.807937,64.855402,-147.807937,64.855402],
+  "geometry": {"coordinates":[-147.807937,64.855402],"type":"Point"}
+}

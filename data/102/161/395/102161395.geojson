@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.18946,60.56546,-151.18946,60.56546",
+    "geom:latitude":60.56546,
+    "geom:longitude":-151.18946,
+    "iso:country":"US",
+    "sg:address":"404 Baker St",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 4745",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "water",
+        "sanitary",
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Mv3a1LpvTbpxhnNXKdqbJ_60.565460_-151.189460@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e72682970b3180ef81383e4ce096c9e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102161395"
+        }
+    ],
+    "wof:id":"102161395",
+    "wof:lastmodified":1449068714,
+    "wof:name":"Darc Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.18946,60.56546,-151.18946,60.56546],
+  "geometry": {"coordinates":[-151.18946,60.56546],"type":"Point"}
+}

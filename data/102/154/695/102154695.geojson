@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.884417,61.170019,-149.884417,61.170019",
+    "geom:latitude":61.170019,
+    "geom:longitude":-149.884417,
+    "iso:country":"US",
+    "sg:address":"5633 B St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 1187",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "care",
+        "health",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GJSPRQ0ftQAk5U0o23skA_61.170019_-149.884417@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b12d7219c3231a14243fee14e6309c64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102154695"
+        }
+    ],
+    "wof:id":"102154695",
+    "wof:lastmodified":1449070243,
+    "wof:name":"Northwest Medical Homecare",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.884417,61.170019,-149.884417,61.170019],
+  "geometry": {"coordinates":[-149.884417,61.170019],"type":"Point"}
+}

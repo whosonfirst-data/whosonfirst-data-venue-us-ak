@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-146.260818,61.12248,-146.260818,61.12248",
+    "geom:latitude":61.12248,
+    "geom:longitude":-146.260818,
+    "iso:country":"US",
+    "sg:address":"2310 Richardson Hwy",
+    "sg:city":"Valdez",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 835 2709",
+    "sg:postcode":"99686",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839473,
+        85633793,
+        85915585,
+        102081911,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bxjEAtOdN8NdW9A020vzm_61.122480_-146.260818@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5808d34e7e57963ece11222fc12c5376",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915585,
+            "neighbourhood_id":85839473,
+            "region_id":85688573,
+            "venue_id":"102166311"
+        }
+    ],
+    "wof:id":"102166311",
+    "wof:lastmodified":1449069084,
+    "wof:name":"Marks Repair",
+    "wof:parent_id":85839473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-146.260818,61.12248,-146.260818,61.12248],
+  "geometry": {"coordinates":[-146.260818,61.12248],"type":"Point"}
+}

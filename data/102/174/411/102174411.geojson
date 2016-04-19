@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.720061,64.836275,-147.720061,64.836275",
+    "geom:latitude":64.836275,
+    "geom:longitude":-147.720061,
+    "iso:country":"US",
+    "sg:address":"725 Airport Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 6250",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hwq935V5A3xoMBQPryG1O_64.836275_-147.720061@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"147ef8f29242d566299070fa7e40bfb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102174411"
+        }
+    ],
+    "wof:id":"102174411",
+    "wof:lastmodified":1449068134,
+    "wof:name":"Northern Lights Video & TV Svc",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.720061,64.836275,-147.720061,64.836275],
+  "geometry": {"coordinates":[-147.720061,64.836275],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.821571,61.207036,-149.821571,61.207036",
+    "geom:latitude":61.207036,
+    "geom:longitude":-149.821571,
+    "iso:country":"US",
+    "sg:address":"1516 Kinnikinnick St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 2834",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Cy9qy5rZD3EItzz6Pk5Wv_61.207036_-149.821571@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fabeb8c96d02e02e3f6f7311c581776c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102170859"
+        }
+    ],
+    "wof:id":"102170859",
+    "wof:lastmodified":1449068019,
+    "wof:name":"American Institute Of Arch",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.821571,61.207036,-149.821571,61.207036],
+  "geometry": {"coordinates":[-149.821571,61.207036],"type":"Point"}
+}

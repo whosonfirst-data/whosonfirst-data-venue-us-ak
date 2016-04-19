@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.886923,61.214533,-149.886923,61.214533",
+    "geom:latitude":61.214533,
+    "geom:longitude":-149.886923,
+    "iso:country":"US",
+    "sg:address":"222 W 8th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 271 4022",
+    "sg:postcode":"99513",
+    "sg:province":"AK",
+    "sg:tags":[
+        "federal",
+        "program",
+        "adm"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CGPFuJctV5wE9IQBIdizb_61.214533_-149.886923@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0a9c228cdbf8c7bd5980091a716cee4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102154049"
+        }
+    ],
+    "wof:id":"102154049",
+    "wof:lastmodified":1449070244,
+    "wof:name":"US Small Business Adm",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.886923,61.214533,-149.886923,61.214533],
+  "geometry": {"coordinates":[-149.886923,61.214533],"type":"Point"}
+}

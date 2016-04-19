@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.901647,61.217563,-149.901647,61.217563",
+    "geom:latitude":61.217563,
+    "geom:longitude":-149.901647,
+    "iso:country":"US",
+    "sg:address":"900 W 5th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 3700",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:website":"www.aedcweb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78A9aPPTFgjk4AEnIePloU_61.217563_-149.901647@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7af783038996b694b8e88cffbe593924",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102193267"
+        }
+    ],
+    "wof:id":"102193267",
+    "wof:lastmodified":1449068195,
+    "wof:name":"Anchorage Economic Development",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.901647,61.217563,-149.901647,61.217563],
+  "geometry": {"coordinates":[-149.901647,61.217563],"type":"Point"}
+}

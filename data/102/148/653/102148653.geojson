@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.778206,61.222654,-149.778206,61.222654",
+    "geom:latitude":61.222654,
+    "geom:longitude":-149.778206,
+    "iso:country":"US",
+    "sg:address":"225 Boniface Pkwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 8555",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gJh3fFG1O1f4WWKCTM1oh_61.222654_-149.778206@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1213fc0aa2f6bf1e7350f897d2db0ca2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102148653"
+        }
+    ],
+    "wof:id":"102148653",
+    "wof:lastmodified":1449069780,
+    "wof:name":"A Sentry Mini Storage",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.778206,61.222654,-149.778206,61.222654],
+  "geometry": {"coordinates":[-149.778206,61.222654],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.830032,61.13858,-149.830032,61.13858",
+    "geom:latitude":61.13858,
+    "geom:longitude":-149.830032,
+    "iso:country":"US",
+    "sg:address":"2848 Beluga Bay Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 868 7939",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:website":"www.whiteravendev.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GJZB8qtMS1oYbThvXyqOa_61.138580_-149.830032@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9339f96da4432f76f48893ea083c9c62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102193907"
+        }
+    ],
+    "wof:id":"102193907",
+    "wof:lastmodified":1449068194,
+    "wof:name":"White Raven Development",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.830032,61.13858,-149.830032,61.13858],
+  "geometry": {"coordinates":[-149.830032,61.13858],"type":"Point"}
+}

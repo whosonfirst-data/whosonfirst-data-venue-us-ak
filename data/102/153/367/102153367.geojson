@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.906765,61.19638,-149.906765,61.19638",
+    "geom:latitude":61.19638,
+    "geom:longitude":-149.906765,
+    "iso:country":"US",
+    "sg:address":"1455 W 27th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 0003",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FzIEWqBHhovtGpgZika7g_61.196380_-149.906765@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"89d367ac72c117004fcc0d45d63f4c3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102153367"
+        }
+    ],
+    "wof:id":"102153367",
+    "wof:lastmodified":1449069462,
+    "wof:name":"Years To You",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.906765,61.19638,-149.906765,61.19638],
+  "geometry": {"coordinates":[-149.906765,61.19638],"type":"Point"}
+}

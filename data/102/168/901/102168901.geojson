@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.763689,64.862251,-147.763689,64.862251",
+    "geom:latitude":64.862251,
+    "geom:longitude":-147.763689,
+    "iso:country":"US",
+    "sg:address":"1843 Bridgewater Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 3504",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "nonmetallic",
+        "mineral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869043,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00vYPbCq7GScEZ6BgwpdOM_64.862251_-147.763689@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"baed418db9dce070739ae583c9b33bd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85869043,
+            "region_id":85688573,
+            "venue_id":"102168901"
+        }
+    ],
+    "wof:id":"102168901",
+    "wof:lastmodified":1449069007,
+    "wof:name":"Slate Creek Mine",
+    "wof:parent_id":85869043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.763689,64.862251,-147.763689,64.862251],
+  "geometry": {"coordinates":[-147.763689,64.862251],"type":"Point"}
+}

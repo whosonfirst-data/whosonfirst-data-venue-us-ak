@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.851899,61.144701,-149.851899,61.144701",
+    "geom:latitude":61.144701,
+    "geom:longitude":-149.851899,
+    "iso:country":"US",
+    "sg:address":"1601 Abbott Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 336 8478",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_546oMCuP2jwuIKCpJxHmAO_61.144701_-149.851899@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"592106903696df3521f231755233ad58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102163019"
+        }
+    ],
+    "wof:id":"102163019",
+    "wof:lastmodified":1449070164,
+    "wof:name":"Abbott Family Dentistry",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.851899,61.144701,-149.851899,61.144701],
+  "geometry": {"coordinates":[-149.851899,61.144701],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.827505,61.192589,-149.827505,61.192589",
+    "geom:latitude":61.192589,
+    "geom:longitude":-149.827505,
+    "iso:country":"US",
+    "sg:address":"2940 Mallard Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 8989",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "charter",
+        "boat"
+    ],
+    "sg:website":"www.babkin.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2szsjmvGtCxrXuSSIUOu7S_61.192589_-149.827505@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f7d48b1b95f74d051cf0ff1c261c93c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102189481"
+        }
+    ],
+    "wof:id":"102189481",
+    "wof:lastmodified":1449069498,
+    "wof:name":"Babkin Charters",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.827505,61.192589,-149.827505,61.192589],
+  "geometry": {"coordinates":[-149.827505,61.192589],"type":"Point"}
+}

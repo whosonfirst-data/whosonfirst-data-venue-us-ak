@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.771391,61.202776,-149.771391,61.202776",
+    "geom:latitude":61.202776,
+    "geom:longitude":-149.771391,
+    "iso:country":"US",
+    "sg:address":"5808 Craig Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 8828",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869053,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TG55wRjvhh5k7GOI3B8E0_61.202776_-149.771391@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"057b01f731faf763d64ac48c652e00b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869053,
+            "region_id":85688573,
+            "venue_id":"102186409"
+        }
+    ],
+    "wof:id":"102186409",
+    "wof:lastmodified":1449069654,
+    "wof:name":"Loft Spa & Hair Design",
+    "wof:parent_id":85869053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.771391,61.202776,-149.771391,61.202776],
+  "geometry": {"coordinates":[-149.771391,61.202776],"type":"Point"}
+}

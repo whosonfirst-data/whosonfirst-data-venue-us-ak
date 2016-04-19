@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.734986,68.143313,-151.734986,68.143313",
+    "geom:latitude":68.143313,
+    "geom:longitude":-151.734986,
+    "iso:country":"US",
+    "sg:address":"205 Airport St",
+    "sg:city":"Anaktuvuk Pass",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 661 3911",
+    "sg:postcode":"99721",
+    "sg:province":"AK",
+    "sg:tags":[
+        "county",
+        "safety",
+        "order"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915535,
+        85633793,
+        85688573,
+        102081001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39FI20tX3FrUSRxllFpYxt_68.143313_-151.734986@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8ea1daa6be0c39182f0c1849a112bf59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081001,
+            "locality_id":85915535,
+            "region_id":85688573,
+            "venue_id":"102155653"
+        }
+    ],
+    "wof:id":"102155653",
+    "wof:lastmodified":1449069742,
+    "wof:name":"North Slope Cnty Public Safety",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.734986,68.143313,-151.734986,68.143313],
+  "geometry": {"coordinates":[-151.734986,68.143313],"type":"Point"}
+}

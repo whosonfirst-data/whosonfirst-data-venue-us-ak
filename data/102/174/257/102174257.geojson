@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.182376,61.55428,-149.182376,61.55428",
+    "geom:latitude":61.55428,
+    "geom:longitude":-149.182376,
+    "iso:country":"US",
+    "sg:address":"2301 Colleen St",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 3687",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916253,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FI6eXItKS7rpEZBuymLDC_61.554280_-149.182376@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6b724f44679e671c06c31bf1a900b623",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916253,
+            "region_id":85688573,
+            "venue_id":"102174257"
+        }
+    ],
+    "wof:id":"102174257",
+    "wof:lastmodified":1449068138,
+    "wof:name":"Respect Your Elders",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.182376,61.55428,-149.182376,61.55428],
+  "geometry": {"coordinates":[-149.182376,61.55428],"type":"Point"}
+}

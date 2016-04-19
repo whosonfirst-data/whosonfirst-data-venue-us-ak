@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.579275,58.364727,-134.579275,58.364727",
+    "geom:latitude":58.364727,
+    "geom:longitude":-134.579275,
+    "iso:country":"US",
+    "sg:address":"2235 Jordan Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 321 7895",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bJVxCjphtkDXEjfFH85bt_58.364727_-134.579275@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ce18c15dbc0a58ce2f12311e52815ac0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102195233"
+        }
+    ],
+    "wof:id":"102195233",
+    "wof:lastmodified":1449069365,
+    "wof:name":"Cher's Hair Care",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.579275,58.364727,-134.579275,58.364727],
+  "geometry": {"coordinates":[-134.579275,58.364727],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.713883,64.852208,-147.713883,64.852208",
+    "geom:latitude":64.852208,
+    "geom:longitude":-147.713883,
+    "iso:country":"US",
+    "sg:address":"816 Betty St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 7604",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "x",
+        "apparatus"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d4Z6xXccIwozWoNgnbu5a_64.852208_-147.713883@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2aff89c9846475a52630b82110ac7aa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102186987"
+        }
+    ],
+    "wof:id":"102186987",
+    "wof:lastmodified":1449069654,
+    "wof:name":"NDE Consultants",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.713883,64.852208,-147.713883,64.852208],
+  "geometry": {"coordinates":[-147.713883,64.852208],"type":"Point"}
+}

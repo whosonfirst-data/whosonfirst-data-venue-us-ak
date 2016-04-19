@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.69502,64.850498,-147.69502,64.850498",
+    "geom:latitude":64.850498,
+    "geom:longitude":-147.69502,
+    "iso:country":"US",
+    "sg:address":"607 Old Steese Hwy",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 7142",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Vqoclq5Um4cJsoY9qqvxA_64.850498_-147.695020@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"de20526733041a2f4485aed7027861c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102158439"
+        }
+    ],
+    "wof:id":"102158439",
+    "wof:lastmodified":1449069393,
+    "wof:name":"Dental Arts Unlimited",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.69502,64.850498,-147.69502,64.850498],
+  "geometry": {"coordinates":[-147.69502,64.850498],"type":"Point"}
+}

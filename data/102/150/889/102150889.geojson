@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.574208,58.359333,-134.574208,58.359333",
+    "geom:latitude":58.359333,
+    "geom:longitude":-134.574208,
+    "iso:country":"US",
+    "sg:address":"8612 Airport Blvd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 3690",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915729,
+        85633793,
+        85688573,
+        102081399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QBPbiB4ftqaOcQ4dfeJCU_58.359333_-134.574208@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bfd0a96464947760c5d5395cd7354714",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "region_id":85688573,
+            "venue_id":"102150889"
+        }
+    ],
+    "wof:id":"102150889",
+    "wof:lastmodified":1449067786,
+    "wof:name":"D & P General Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.574208,58.359333,-134.574208,58.359333],
+  "geometry": {"coordinates":[-134.574208,58.359333],"type":"Point"}
+}

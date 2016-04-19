@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.892039,61.154869,-149.892039,61.154869",
+    "geom:latitude":61.154869,
+    "geom:longitude":-149.892039,
+    "iso:country":"US",
+    "sg:address":"7309 Arctic Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 3622",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C8xZkLitMc26qcuk1wuS6_61.154869_-149.892039@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e4bf77194899c315b06c0bf18f75c926",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102180301"
+        }
+    ],
+    "wof:id":"102180301",
+    "wof:lastmodified":1449067871,
+    "wof:name":"Alaska Spca Adoption Center",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.892039,61.154869,-149.892039,61.154869],
+  "geometry": {"coordinates":[-149.892039,61.154869],"type":"Point"}
+}

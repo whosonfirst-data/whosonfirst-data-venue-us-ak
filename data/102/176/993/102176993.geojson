@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.91269,61.193946,-149.91269,61.193946",
+    "geom:latitude":61.193946,
+    "geom:longitude":-149.91269,
+    "iso:country":"US",
+    "sg:address":"1513 W 29th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 5739",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "photographer"
+    ],
+    "sg:website":"www.alaskaimagedesign.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WmPlfECDoIlbB8d1P4vRE_61.193946_-149.912690@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7dea0832ee19868a3480101aa3547fa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102176993"
+        }
+    ],
+    "wof:id":"102176993",
+    "wof:lastmodified":1449069347,
+    "wof:name":"Alaska Image Design",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.91269,61.193946,-149.91269,61.193946],
+  "geometry": {"coordinates":[-149.91269,61.193946],"type":"Point"}
+}

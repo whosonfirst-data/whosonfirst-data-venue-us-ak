@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.381155,64.775869,-147.381155,64.775869",
+    "geom:latitude":64.775869,
+    "geom:longitude":-147.381155,
+    "iso:country":"US",
+    "sg:address":"2641 N Goldenrod Cir",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 6936",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916555,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1paMtKgK8gqudrWGXtK1yH_64.775869_-147.381155@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"15ba2d72ef1f15fc2a3ac20fdf7b59cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916555,
+            "region_id":85688573,
+            "venue_id":"102194009"
+        }
+    ],
+    "wof:id":"102194009",
+    "wof:lastmodified":1449069830,
+    "wof:name":"Patrick's Towing & Salvage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.381155,64.775869,-147.381155,64.775869],
+  "geometry": {"coordinates":[-147.381155,64.775869],"type":"Point"}
+}

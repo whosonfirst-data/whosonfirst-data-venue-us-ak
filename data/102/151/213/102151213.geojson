@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.406206,58.301883,-134.406206,58.301883",
+    "geom:latitude":58.301883,
+    "geom:longitude":-134.406206,
+    "iso:country":"US",
+    "sg:address":"234 Gold St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Aquatic Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 0145",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "consultant",
+        "fishery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04s4H3p32BANhITih8VaRZ_58.301883_-134.406206@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"930ec305c3d78d6c7881415e2c46c6fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102151213"
+        }
+    ],
+    "wof:id":"102151213",
+    "wof:lastmodified":1449067781,
+    "wof:name":"Oceanlogic",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.406206,58.301883,-134.406206,58.301883],
+  "geometry": {"coordinates":[-134.406206,58.301883],"type":"Point"}
+}

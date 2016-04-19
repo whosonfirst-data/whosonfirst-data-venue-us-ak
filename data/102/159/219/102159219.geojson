@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.901649,61.216582,-149.901649,61.216582",
+    "geom:latitude":61.216582,
+    "geom:longitude":-149.901649,
+    "iso:country":"US",
+    "sg:address":"501 K St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 9501",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:website":"www.voyagerhotel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fB8GOKt2Rw3ce0yn1K3Y0_61.216582_-149.901649@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db4bfcb66798583f0c349352549a0226",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102159219"
+        }
+    ],
+    "wof:id":"102159219",
+    "wof:lastmodified":1449068094,
+    "wof:name":"Voyager Hotel",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.901649,61.216582,-149.901649,61.216582],
+  "geometry": {"coordinates":[-149.901649,61.216582],"type":"Point"}
+}

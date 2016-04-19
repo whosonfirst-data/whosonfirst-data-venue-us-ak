@@ -1,0 +1,70 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.850755,64.889683,-147.850755,64.889683",
+    "geom:latitude":64.889683,
+    "geom:longitude":-147.850755,
+    "iso:country":"US",
+    "sg:address":"2175 Charlijo Loop",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 2695",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dealer",
+        "art",
+        "gallery",
+        "lead",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916609,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uAJ6teOhkk0rVsmuchm1s_64.889683_-147.850755@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fa50147d722b49ac338bd8944d75a2f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "region_id":85688573,
+            "venue_id":"102176323"
+        }
+    ],
+    "wof:id":"102176323",
+    "wof:lastmodified":1449069343,
+    "wof:name":"Watercolors By Nikki Kinne",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.850755,64.889683,-147.850755,64.889683],
+  "geometry": {"coordinates":[-147.850755,64.889683],"type":"Point"}
+}

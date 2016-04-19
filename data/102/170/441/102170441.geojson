@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.576439,58.391634,-134.576439,58.391634",
+    "geom:latitude":58.391634,
+    "geom:longitude":-134.576439,
+    "iso:country":"US",
+    "sg:address":"4410 Sesame St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 796 3123",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cosmetic",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FpPphaNQfxyTXQfI1at45_58.391634_-134.576439@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dcfb3cc7ef2024c041e16f64c2193d26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102170441"
+        }
+    ],
+    "wof:id":"102170441",
+    "wof:lastmodified":1449068016,
+    "wof:name":"Mary Kay Cosmetics",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.576439,58.391634,-134.576439,58.391634],
+  "geometry": {"coordinates":[-134.576439,58.391634],"type":"Point"}
+}

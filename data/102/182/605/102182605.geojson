@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.734543,61.12299,-149.734543,61.12299",
+    "geom:latitude":61.12299,
+    "geom:longitude":-149.734543,
+    "iso:country":"US",
+    "sg:address":"7960 Upper Omalley Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 1628",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873747,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NUB1AWBBvmLiz7xC8euqJ_61.122990_-149.734543@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f006bfec02ece9a045d508c4211757f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873747,
+            "region_id":85688573,
+            "venue_id":"102182605"
+        }
+    ],
+    "wof:id":"102182605",
+    "wof:lastmodified":1449069281,
+    "wof:name":"Marlow General Contractor",
+    "wof:parent_id":85873747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.734543,61.12299,-149.734543,61.12299],
+  "geometry": {"coordinates":[-149.734543,61.12299],"type":"Point"}
+}

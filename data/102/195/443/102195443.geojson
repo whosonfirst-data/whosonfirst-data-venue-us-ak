@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.893666,61.170646,-149.893666,61.170646",
+    "geom:latitude":61.170646,
+    "geom:longitude":-149.893666,
+    "iso:country":"US",
+    "sg:address":"701 W Potter Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 2717",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ReIoFoUp2UaRVzBTm1qry_61.170646_-149.893666@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"59d85171b1621bb258f8feb0b21f25c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102195443"
+        }
+    ],
+    "wof:id":"102195443",
+    "wof:lastmodified":1449069364,
+    "wof:name":"Precision Automotive & Auto",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.893666,61.170646,-149.893666,61.170646],
+  "geometry": {"coordinates":[-149.893666,61.170646],"type":"Point"}
+}

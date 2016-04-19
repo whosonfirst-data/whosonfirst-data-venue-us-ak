@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.878731,61.1266,-149.878731,61.1266",
+    "geom:latitude":61.1266,
+    "geom:longitude":-149.878731,
+    "iso:country":"US",
+    "sg:address":"212 E 104th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 3370",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "auction",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Q9z4ZzcTOxWchfGtnYRMF_61.126600_-149.878731@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"447226367204c422c47267fc954e7c05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102188393"
+        }
+    ],
+    "wof:id":"102188393",
+    "wof:lastmodified":1449068946,
+    "wof:name":"Alaska Auto Auction By Repo",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.878731,61.1266,-149.878731,61.1266],
+  "geometry": {"coordinates":[-149.878731,61.1266],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.895514,61.156453,-149.895514,61.156453",
+    "geom:latitude":61.156453,
+    "geom:longitude":-149.895514,
+    "iso:country":"US",
+    "sg:address":"721 W 71st Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 6928",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xW1gypYBcB7Pzb6C4mU8U_61.156453_-149.895514@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0e975f9811e452dab97e6297a7b36340",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102184801"
+        }
+    ],
+    "wof:id":"102184801",
+    "wof:lastmodified":1449068217,
+    "wof:name":"Schanhals Enterprises",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.895514,61.156453,-149.895514,61.156453],
+  "geometry": {"coordinates":[-149.895514,61.156453],"type":"Point"}
+}

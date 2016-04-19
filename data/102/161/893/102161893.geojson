@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-146.35378,61.128161,-146.35378,61.128161",
+    "geom:latitude":61.128161,
+    "geom:longitude":-146.35378,
+    "iso:country":"US",
+    "sg:address":"159 Galena Dr",
+    "sg:city":"Valdez",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 835 2334",
+    "sg:postcode":"99686",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915585,
+        85633793,
+        85688573,
+        102081911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ivnOOjpByntGaUpBj6U4e_61.128161_-146.353780@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b1d5dffaabcd11d9cd9673053b8a8947",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915585,
+            "region_id":85688573,
+            "venue_id":"102161893"
+        }
+    ],
+    "wof:id":"102161893",
+    "wof:lastmodified":1449068713,
+    "wof:name":"Valdez Family Chiropractic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-146.35378,61.128161,-146.35378,61.128161],
+  "geometry": {"coordinates":[-146.35378,61.128161],"type":"Point"}
+}

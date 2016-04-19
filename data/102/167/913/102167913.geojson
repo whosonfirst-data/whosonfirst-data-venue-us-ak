@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.403344,61.591882,-149.403344,61.591882",
+    "geom:latitude":61.591882,
+    "geom:longitude":-149.403344,
+    "iso:country":"US",
+    "sg:address":"1190 Helen Ln",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 0402",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "building",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PSWfMIbacsIQceiOa6NyL_61.591882_-149.403344@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b5c88a060592ce2170cb9c776c8bd8cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "region_id":85688573,
+            "venue_id":"102167913"
+        }
+    ],
+    "wof:id":"102167913",
+    "wof:lastmodified":1449069002,
+    "wof:name":"Active Inspection & Energy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.403344,61.591882,-149.403344,61.591882],
+  "geometry": {"coordinates":[-149.403344,61.591882],"type":"Point"}
+}

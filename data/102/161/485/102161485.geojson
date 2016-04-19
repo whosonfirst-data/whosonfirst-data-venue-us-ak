@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-145.75851,60.54469,-145.75851,60.54469",
+    "geom:latitude":60.54469,
+    "geom:longitude":-145.75851,
+    "iso:country":"US",
+    "sg:address":"507 1st St",
+    "sg:city":"Cordova",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 424 5305",
+    "sg:postcode":"99574",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839707,
+        85633793,
+        85915567,
+        102081911,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3J8DUsib5Ye5AVaVcraUrx_60.544690_-145.758510@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f43acb1c074989bf728ec4c913d07a50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915567,
+            "neighbourhood_id":85839707,
+            "region_id":85688573,
+            "venue_id":"102161485"
+        }
+    ],
+    "wof:id":"102161485",
+    "wof:lastmodified":1449068711,
+    "wof:name":"Orca Book & Sound Co",
+    "wof:parent_id":85839707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-145.75851,60.54469,-145.75851,60.54469],
+  "geometry": {"coordinates":[-145.75851,60.54469],"type":"Point"}
+}

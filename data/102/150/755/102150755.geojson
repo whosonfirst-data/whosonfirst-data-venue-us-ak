@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.733535,61.200539,-149.733535,61.200539",
+    "geom:latitude":61.200539,
+    "geom:longitude":-149.733535,
+    "iso:country":"US",
+    "sg:address":"2030 Muldoon Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 338 8708",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "sg:website":"www.marlowmanor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XgmDG9gJBoFOpjYaehCqn_61.200539_-149.733535@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3d665a11c3ce905a3ab2b0198ee68fb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102150755"
+        }
+    ],
+    "wof:id":"102150755",
+    "wof:lastmodified":1449067791,
+    "wof:name":"Marlow Manor Assisted Living",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.733535,61.200539,-149.733535,61.200539],
+  "geometry": {"coordinates":[-149.733535,61.200539],"type":"Point"}
+}

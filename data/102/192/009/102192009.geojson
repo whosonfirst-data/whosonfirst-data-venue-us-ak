@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.199984,61.593402,-149.199984,61.593402",
+    "geom:latitude":61.593402,
+    "geom:longitude":-149.199984,
+    "iso:country":"US",
+    "sg:address":"9900 Lee Ann Dr",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 746 0931",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916253,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YP2gW2r33q0Uj2ZXzBgnq_61.593402_-149.199984@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b1677a24fe5d77d707f0bd8726041217",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916253,
+            "region_id":85688573,
+            "venue_id":"102192009"
+        }
+    ],
+    "wof:id":"102192009",
+    "wof:lastmodified":1449069506,
+    "wof:name":"Technical Field Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.199984,61.593402,-149.199984,61.593402],
+  "geometry": {"coordinates":[-149.199984,61.593402],"type":"Point"}
+}

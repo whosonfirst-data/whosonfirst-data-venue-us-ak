@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.772106,64.861307,-147.772106,64.861307",
+    "geom:latitude":64.861307,
+    "geom:longitude":-147.772106,
+    "iso:country":"US",
+    "sg:address":"2140 Hilling Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 5267",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869043,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25xr2JLwHqhIVoBmKffx4P_64.861307_-147.772106@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b16ba5c322e3504ee3bd2b38fa981167",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85869043,
+            "region_id":85688573,
+            "venue_id":"102177185"
+        }
+    ],
+    "wof:id":"102177185",
+    "wof:lastmodified":1449070205,
+    "wof:name":"Lamp Inc",
+    "wof:parent_id":85869043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.772106,64.861307,-147.772106,64.861307],
+  "geometry": {"coordinates":[-147.772106,64.861307],"type":"Point"}
+}

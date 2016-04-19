@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.867272,61.187985,-149.867272,61.187985",
+    "geom:latitude":61.187985,
+    "geom:longitude":-149.867272,
+    "iso:country":"US",
+    "sg:address":"810 E 36th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 6325",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JFYd9Rv3GNeRYDrxwTZgP_61.187985_-149.867272@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"79edc45a494dd254a7069b023bd66762",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102191725"
+        }
+    ],
+    "wof:id":"102191725",
+    "wof:lastmodified":1449069200,
+    "wof:name":"Excellence In Health Chiro Cln",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.867272,61.187985,-149.867272,61.187985],
+  "geometry": {"coordinates":[-149.867272,61.187985],"type":"Point"}
+}

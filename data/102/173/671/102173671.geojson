@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.359772,61.570168,-149.359772,61.570168",
+    "geom:latitude":61.570168,
+    "geom:longitude":-149.359772,
+    "iso:country":"US",
+    "sg:address":"1265 Seward Meridian Rd",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 357 5269",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qWiACV6s74ZD9koG4grSJ_61.570168_-149.359772@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0f34d47e326edee1468e8ec2a0ea521e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102173671"
+        }
+    ],
+    "wof:id":"102173671",
+    "wof:lastmodified":1449068264,
+    "wof:name":"Traffic JAMZ",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.359772,61.570168,-149.359772,61.570168],
+  "geometry": {"coordinates":[-149.359772,61.570168],"type":"Point"}
+}

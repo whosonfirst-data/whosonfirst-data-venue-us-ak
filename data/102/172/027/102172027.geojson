@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.910923,61.18184,-149.910923,61.18184",
+    "geom:latitude":61.18184,
+    "geom:longitude":-149.910923,
+    "iso:country":"US",
+    "sg:address":"1401 W 43rd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 4940",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "fireplace",
+        "chimney"
+    ],
+    "sg:website":"www.chimneydoctor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IUL9W9v7FyH3Yz0baqpQm_61.181840_-149.910923@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"020d0f458c56b003ebc3185bb8290c08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102172027"
+        }
+    ],
+    "wof:id":"102172027",
+    "wof:lastmodified":1449068734,
+    "wof:name":"Chimney Doctor",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.910923,61.18184,-149.910923,61.18184],
+  "geometry": {"coordinates":[-149.910923,61.18184],"type":"Point"}
+}

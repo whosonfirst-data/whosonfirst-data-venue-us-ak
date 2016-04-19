@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.940053,61.178215,-149.940053,61.178215",
+    "geom:latitude":61.178215,
+    "geom:longitude":-149.940053,
+    "iso:country":"US",
+    "sg:address":"4610 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 249 4989",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XWOHJFl8ws24qrtNVFDuE_61.178215_-149.940053@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"942dfa66a1dd205f54a812da985adcb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102187601"
+        }
+    ],
+    "wof:id":"102187601",
+    "wof:lastmodified":1449068159,
+    "wof:name":"Susitna Food & Spirits",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.940053,61.178215,-149.940053,61.178215],
+  "geometry": {"coordinates":[-149.940053,61.178215],"type":"Point"}
+}

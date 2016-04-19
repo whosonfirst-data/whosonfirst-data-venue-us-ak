@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.590292,58.36632,-134.590292,58.36632",
+    "geom:latitude":58.36632,
+    "geom:longitude":-134.590292,
+    "iso:country":"US",
+    "sg:address":"9340 Glacier Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 7206",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "sg:website":"www.madsens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eTigwbcOvmbeIvCgjzWXe_58.366320_-134.590292@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a2cd49465b55d193301cdbae75d7b036",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102161873"
+        }
+    ],
+    "wof:id":"102161873",
+    "wof:lastmodified":1449068711,
+    "wof:name":"Madsen Development Inc",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.590292,58.36632,-134.590292,58.36632],
+  "geometry": {"coordinates":[-134.590292,58.36632],"type":"Point"}
+}

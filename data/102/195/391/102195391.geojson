@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.748499,61.103321,-149.748499,61.103321",
+    "geom:latitude":61.103321,
+    "geom:longitude":-149.748499,
+    "iso:country":"US",
+    "sg:address":"13001 Foster Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 3448",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "range",
+        "practice",
+        "golf"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873747,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BahySzV7PAJk3Of4hmoYz_61.103321_-149.748499@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a5d0fc044bb4cdd439bda5e488d31ecf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873747,
+            "region_id":85688573,
+            "venue_id":"102195391"
+        }
+    ],
+    "wof:id":"102195391",
+    "wof:lastmodified":1449069364,
+    "wof:name":"Bruckman Golf",
+    "wof:parent_id":85873747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.748499,61.103321,-149.748499,61.103321],
+  "geometry": {"coordinates":[-149.748499,61.103321],"type":"Point"}
+}

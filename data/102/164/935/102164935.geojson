@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.845606,61.138724,-149.845606,61.138724",
+    "geom:latitude":61.138724,
+    "geom:longitude":-149.845606,
+    "iso:country":"US",
+    "sg:address":"2101 Abbott Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 6292",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wRfOEIKvCEtCMQYvmekUD_61.138724_-149.845606@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"58a1592dc54bea920d1751db8429edb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102164935"
+        }
+    ],
+    "wof:id":"102164935",
+    "wof:lastmodified":1449068091,
+    "wof:name":"Tanasy Tanning & Massage",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.845606,61.138724,-149.845606,61.138724],
+  "geometry": {"coordinates":[-149.845606,61.138724],"type":"Point"}
+}

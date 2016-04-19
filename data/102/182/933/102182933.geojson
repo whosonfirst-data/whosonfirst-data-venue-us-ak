@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.892115,61.151948,-149.892115,61.151948",
+    "geom:latitude":61.151948,
+    "geom:longitude":-149.892115,
+    "iso:country":"US",
+    "sg:address":"600 W 76th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 2383",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FKknBbCZQUh6r3B7RmJDU_61.151948_-149.892115@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1350ddee9a1854af3ce2e093d7f6729b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102182933"
+        }
+    ],
+    "wof:id":"102182933",
+    "wof:lastmodified":1449069280,
+    "wof:name":"Helen L Simpson",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.892115,61.151948,-149.892115,61.151948],
+  "geometry": {"coordinates":[-149.892115,61.151948],"type":"Point"}
+}

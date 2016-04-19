@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.884873,61.168237,-149.884873,61.168237",
+    "geom:latitude":61.168237,
+    "geom:longitude":-149.884873,
+    "iso:country":"US",
+    "sg:address":"5730 B St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 569 3473",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "fire",
+        "alarm",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tI6GzvarHxpjGFBoPNenn_61.168237_-149.884873@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f78a865d75c1f35c8ee79603a6781e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102195065"
+        }
+    ],
+    "wof:id":"102195065",
+    "wof:lastmodified":1449069366,
+    "wof:name":"INTEGRATED Systems Group",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.884873,61.168237,-149.884873,61.168237],
+  "geometry": {"coordinates":[-149.884873,61.168237],"type":"Point"}
+}

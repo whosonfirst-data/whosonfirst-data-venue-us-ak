@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.716151,64.859793,-147.716151,64.859793",
+    "geom:latitude":64.859793,
+    "geom:longitude":-147.716151,
+    "iso:country":"US",
+    "sg:address":"23 Harriet Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 6964",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830247,
+        85633793,
+        85916559,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jYbL9A7Eaa0BTiXg5GOx8_64.859793_-147.716151@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f0453e582d741b061aed96e3c863bf2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "neighbourhood_id":85830247,
+            "region_id":85688573,
+            "venue_id":"102192771"
+        }
+    ],
+    "wof:id":"102192771",
+    "wof:lastmodified":1449069503,
+    "wof:name":"Michael R Ahern DC",
+    "wof:parent_id":85830247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.716151,64.859793,-147.716151,64.859793],
+  "geometry": {"coordinates":[-147.716151,64.859793],"type":"Point"}
+}

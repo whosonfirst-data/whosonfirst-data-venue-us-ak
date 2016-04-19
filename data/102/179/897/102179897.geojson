@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.924735,61.184614,-149.924735,61.184614",
+    "geom:latitude":61.184614,
+    "geom:longitude":-149.924735,
+    "iso:country":"US",
+    "sg:address":"2208 Cleveland Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 7475",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3npt4ZxmBYKRGvAVVgNH5c_61.184614_-149.924735@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0b62080b2d33a942ac36344eed6c4d86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102179897"
+        }
+    ],
+    "wof:id":"102179897",
+    "wof:lastmodified":1449069943,
+    "wof:name":"Satellite Alaska",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.924735,61.184614,-149.924735,61.184614],
+  "geometry": {"coordinates":[-149.924735,61.184614],"type":"Point"}
+}

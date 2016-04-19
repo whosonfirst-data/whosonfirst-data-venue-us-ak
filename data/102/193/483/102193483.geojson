@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.936886,61.156309,-149.936886,61.156309",
+    "geom:latitude":61.156309,
+    "geom:longitude":-149.936886,
+    "iso:country":"US",
+    "sg:address":"7001 Cranberry St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 4265",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "youth",
+        "organization",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72wQhIzErgPLrz6qUCOEoU_61.156309_-149.936886@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"73f88b44eac5ee789675e2f5d4599dd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102193483"
+        }
+    ],
+    "wof:id":"102193483",
+    "wof:lastmodified":1449068193,
+    "wof:name":"Camp Fire Alaska Council",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.936886,61.156309,-149.936886,61.156309],
+  "geometry": {"coordinates":[-149.936886,61.156309],"type":"Point"}
+}

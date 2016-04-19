@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.12103,60.470859,-151.12103,60.470859",
+    "geom:latitude":60.470859,
+    "geom:longitude":-151.12103,
+    "iso:country":"US",
+    "sg:address":"33840 Polar St",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 260 7725",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916957,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T04XzxZ2NoV6Cc32jPKN7_60.470859_-151.121030@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c8b3c989089abe3e4ac2c27047559235",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916957,
+            "region_id":85688573,
+            "venue_id":"102166655"
+        }
+    ],
+    "wof:id":"102166655",
+    "wof:lastmodified":1449069086,
+    "wof:name":"Frontier Natural Health Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.12103,60.470859,-151.12103,60.470859],
+  "geometry": {"coordinates":[-151.12103,60.470859],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.85779,61.159314,-149.85779,61.159314",
+    "geom:latitude":61.159314,
+    "geom:longitude":-149.85779,
+    "iso:country":"US",
+    "sg:address":"1321 E 68th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 2131",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "specializing",
+        "roofing",
+        "contractor",
+        "work",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZTm7G1hBVwsEQKrBInXu0_61.159314_-149.857790@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8e60b243fc22c2cb6ed0a31bc2bcb904",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102178243"
+        }
+    ],
+    "wof:id":"102178243",
+    "wof:lastmodified":1449069530,
+    "wof:name":"Rite Way Roofing Inc",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.85779,61.159314,-149.85779,61.159314],
+  "geometry": {"coordinates":[-149.85779,61.159314],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.46911,58.327688,-134.46911,58.327688",
+    "geom:latitude":58.327688,
+    "geom:longitude":-134.46911,
+    "iso:country":"US",
+    "sg:address":"3100 Channel Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 1235",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:website":"www.naeycsea.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853509,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yxrEtraqAFibCU7MsTbFy_58.327688_-134.469110@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fb12f68d9aaaf8cb5aa4e81369ca8a2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85853509,
+            "region_id":85688573,
+            "venue_id":"102165601"
+        }
+    ],
+    "wof:id":"102165601",
+    "wof:lastmodified":1449070214,
+    "wof:name":"NAEYC-Sea",
+    "wof:parent_id":85853509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.46911,58.327688,-134.46911,58.327688],
+  "geometry": {"coordinates":[-134.46911,58.327688],"type":"Point"}
+}

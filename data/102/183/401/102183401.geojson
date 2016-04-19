@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.715138,64.829882,-147.715138,64.829882",
+    "geom:latitude":64.829882,
+    "geom:longitude":-147.715138,
+    "iso:country":"US",
+    "sg:address":"1915 S Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 7320",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "automobile",
+        "customizing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63x2OqMq8HkOFdjXrytqS0_64.829882_-147.715138@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"31338277f120ca2b80da3803b363843e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102183401"
+        }
+    ],
+    "wof:id":"102183401",
+    "wof:lastmodified":1449069042,
+    "wof:name":"Arctic Alarm & Audio",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.715138,64.829882,-147.715138,64.829882],
+  "geometry": {"coordinates":[-147.715138,64.829882],"type":"Point"}
+}

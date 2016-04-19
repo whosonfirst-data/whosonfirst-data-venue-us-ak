@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.804569,61.227619,-149.804569,61.227619",
+    "geom:latitude":61.227619,
+    "geom:longitude":-149.804569,
+    "iso:country":"US",
+    "sg:address":"317 N Klevin St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 1469",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aUEyPwSRbJ2dD5X60w5HS_61.227619_-149.804569@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1c5dc230e6c7a48b6f934eb3a8477c8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102158513"
+        }
+    ],
+    "wof:id":"102158513",
+    "wof:lastmodified":1449069393,
+    "wof:name":"Sheehan Drywall",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.804569,61.227619,-149.804569,61.227619],
+  "geometry": {"coordinates":[-149.804569,61.227619],"type":"Point"}
+}

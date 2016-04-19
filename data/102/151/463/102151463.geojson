@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.998647,64.783067,-147.998647,64.783067",
+    "geom:latitude":64.783067,
+    "geom:longitude":-147.998647,
+    "iso:country":"US",
+    "sg:address":"1892 Perkins Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 4788",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916563,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UNE74u6qIbX6DklqnniWU_64.783067_-147.998647@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"884ac43c29ee6e57fe44c1bc43f3ed3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916563,
+            "region_id":85688573,
+            "venue_id":"102151463"
+        }
+    ],
+    "wof:id":"102151463",
+    "wof:lastmodified":1449067781,
+    "wof:name":"BBC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.998647,64.783067,-147.998647,64.783067],
+  "geometry": {"coordinates":[-147.998647,64.783067],"type":"Point"}
+}

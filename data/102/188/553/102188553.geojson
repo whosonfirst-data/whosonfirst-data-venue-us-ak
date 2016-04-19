@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.884256,61.121121,-149.884256,61.121121",
+    "geom:latitude":61.121121,
+    "geom:longitude":-149.884256,
+    "iso:country":"US",
+    "sg:address":"11151 Calaska Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 5200",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "adhesive",
+        "glue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lKs2MEAXEsi3nEcM6nZue_61.121121_-149.884256@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b0014c770b275c89a83b2c59ab0934f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102188553"
+        }
+    ],
+    "wof:id":"102188553",
+    "wof:lastmodified":1449068945,
+    "wof:name":"3M Co",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.884256,61.121121,-149.884256,61.121121],
+  "geometry": {"coordinates":[-149.884256,61.121121],"type":"Point"}
+}

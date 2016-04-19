@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.861954,64.821585,-147.861954,64.821585",
+    "geom:latitude":64.821585,
+    "geom:longitude":-147.861954,
+    "iso:country":"US",
+    "sg:address":"6302 Old Airport Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 9494",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916609,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6u94PXdZxkKMyZGrpmVNzQ_64.821585_-147.861954@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e8f413bf4ba11b731f01ea61ee9a8b4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "region_id":85688573,
+            "venue_id":"102155239"
+        }
+    ],
+    "wof:id":"102155239",
+    "wof:lastmodified":1449069741,
+    "wof:name":"Omni Logistics Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.861954,64.821585,-147.861954,64.821585],
+  "geometry": {"coordinates":[-147.861954,64.821585],"type":"Point"}
+}

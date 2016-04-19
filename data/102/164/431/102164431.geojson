@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.805537,61.209629,-149.805537,61.209629",
+    "geom:latitude":61.209629,
+    "geom:longitude":-149.805537,
+    "iso:country":"US",
+    "sg:address":"4100 Debarr Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 2012",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VS17RU9kHlxt6RqHIRNOZ_61.209629_-149.805537@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6c71bfb09752179e9b52319a3f8a4563",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102164431"
+        }
+    ],
+    "wof:id":"102164431",
+    "wof:lastmodified":1449068085,
+    "wof:name":"Golden Nugget Camper Park",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.805537,61.209629,-149.805537,61.209629],
+  "geometry": {"coordinates":[-149.805537,61.209629],"type":"Point"}
+}

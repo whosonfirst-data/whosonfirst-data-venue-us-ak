@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.008648,60.497438,-151.008648,60.497438",
+    "geom:latitude":60.497438,
+    "geom:longitude":-151.008648,
+    "iso:country":"US",
+    "sg:address":"340 Fairway Cir",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 7492",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "golf",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18LgGqUaxCCSmzPrDxY6FD_60.497438_-151.008648@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"97c4920b55f8af6c9ee7ac72d1d6f5b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102158021"
+        }
+    ],
+    "wof:id":"102158021",
+    "wof:lastmodified":1449069393,
+    "wof:name":"Golf Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.008648,60.497438,-151.008648,60.497438],
+  "geometry": {"coordinates":[-151.008648,60.497438],"type":"Point"}
+}

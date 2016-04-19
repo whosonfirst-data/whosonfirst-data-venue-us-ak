@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.499507,58.33159,-134.499507,58.33159",
+    "geom:latitude":58.33159,
+    "geom:longitude":-134.499507,
+    "iso:country":"US",
+    "sg:address":"7745 N Douglas Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 9719",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853509,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0viehpiPXUziqpZEUTBGhY_58.331590_-134.499507@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"022169ae385b5e75ce58552dce07ec21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85853509,
+            "region_id":85688573,
+            "venue_id":"102160613"
+        }
+    ],
+    "wof:id":"102160613",
+    "wof:lastmodified":1449069777,
+    "wof:name":"Cook & Brandt",
+    "wof:parent_id":85853509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.499507,58.33159,-134.499507,58.33159],
+  "geometry": {"coordinates":[-134.499507,58.33159],"type":"Point"}
+}

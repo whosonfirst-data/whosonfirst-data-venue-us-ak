@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.941096,61.193537,-149.941096,61.193537",
+    "geom:latitude":61.193537,
+    "geom:longitude":-149.941096,
+    "iso:country":"US",
+    "sg:address":"2909 W 30th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 244 9212",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xcsUrmeObLZFGd5rRSgEK_61.193537_-149.941096@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a0a261fb8379424f7dd071e7a8ca0182",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102182897"
+        }
+    ],
+    "wof:id":"102182897",
+    "wof:lastmodified":1449069282,
+    "wof:name":"Anchorage Lot Striping",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.941096,61.193537,-149.941096,61.193537],
+  "geometry": {"coordinates":[-149.941096,61.193537],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.813336,61.182708,-149.813336,61.182708",
+    "geom:latitude":61.182708,
+    "geom:longitude":-149.813336,
+    "iso:country":"US",
+    "sg:address":"3531 E 42nd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 2085",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lYsGY5vPPIaMWBA3jeWOV_61.182708_-149.813336@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e20eed95b0f6a23471980661f02e4685",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102151741"
+        }
+    ],
+    "wof:id":"102151741",
+    "wof:lastmodified":1449067781,
+    "wof:name":"Rancho-Tudor Apartments",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.813336,61.182708,-149.813336,61.182708],
+  "geometry": {"coordinates":[-149.813336,61.182708],"type":"Point"}
+}

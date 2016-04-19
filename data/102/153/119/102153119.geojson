@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.778446,61.194431,-149.778446,61.194431",
+    "geom:latitude":61.194431,
+    "geom:longitude":-149.778446,
+    "iso:country":"US",
+    "sg:address":"2912 Boniface Pkwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 8533",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806647,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tlMUIGDfkQDRMjlofd93k_61.194431_-149.778446@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3fdf2e7c5d91f9e43245ea006f450364",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85806647,
+            "region_id":85688573,
+            "venue_id":"102153119"
+        }
+    ],
+    "wof:id":"102153119",
+    "wof:lastmodified":1449069463,
+    "wof:name":"Aic Foam & Coatings",
+    "wof:parent_id":85806647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.778446,61.194431,-149.778446,61.194431],
+  "geometry": {"coordinates":[-149.778446,61.194431],"type":"Point"}
+}

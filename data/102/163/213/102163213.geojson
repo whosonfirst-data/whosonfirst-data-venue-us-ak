@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.752095,61.211732,-149.752095,61.211732",
+    "geom:latitude":61.211732,
+    "geom:longitude":-149.752095,
+    "iso:country":"US",
+    "sg:address":"6820 E 11th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 338 5251",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869053,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lN48n6tQfVqkopfMtLjZv_61.211732_-149.752095@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"28bf088257a3dd23918185ec35d73100",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869053,
+            "region_id":85688573,
+            "venue_id":"102163213"
+        }
+    ],
+    "wof:id":"102163213",
+    "wof:lastmodified":1449070160,
+    "wof:name":"TW Services",
+    "wof:parent_id":85869053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.752095,61.211732,-149.752095,61.211732],
+  "geometry": {"coordinates":[-149.752095,61.211732],"type":"Point"}
+}

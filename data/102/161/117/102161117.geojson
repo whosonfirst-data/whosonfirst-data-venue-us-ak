@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-146.356084,61.134005,-146.356084,61.134005",
+    "geom:latitude":61.134005,
+    "geom:longitude":-146.356084,
+    "iso:country":"US",
+    "sg:address":"303 Lowe St",
+    "sg:city":"Valdez",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Junior College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 834 1600",
+    "sg:postcode":"99686",
+    "sg:province":"AK",
+    "sg:tags":[
+        "technical",
+        "institute"
+    ],
+    "sg:website":"www.pwscc.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915585,
+        85633793,
+        85688573,
+        102081911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kRMPXR4pJnE39rzSsNnip_61.134005_-146.356084@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"51596818a12e9c45748a4ede8d2958b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915585,
+            "region_id":85688573,
+            "venue_id":"102161117"
+        }
+    ],
+    "wof:id":"102161117",
+    "wof:lastmodified":1449068709,
+    "wof:name":"Prince William Sound Comm Clg",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-146.356084,61.134005,-146.356084,61.134005],
+  "geometry": {"coordinates":[-146.356084,61.134005],"type":"Point"}
+}

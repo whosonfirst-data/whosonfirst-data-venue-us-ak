@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.783055,61.200693,-149.783055,61.200693",
+    "geom:latitude":61.200693,
+    "geom:longitude":-149.783055,
+    "iso:country":"US",
+    "sg:address":"5101 E 22nd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 4884",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "sg:website":"www.lcsalaska.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869053,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hwM42oUk2bygENVIzRuq5_61.200693_-149.783055@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"72faa856e771f53eb8762797372528fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869053,
+            "region_id":85688573,
+            "venue_id":"102174657"
+        }
+    ],
+    "wof:id":"102174657",
+    "wof:lastmodified":1449068138,
+    "wof:name":"L & C Svc Inc",
+    "wof:parent_id":85869053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.783055,61.200693,-149.783055,61.200693],
+  "geometry": {"coordinates":[-149.783055,61.200693],"type":"Point"}
+}

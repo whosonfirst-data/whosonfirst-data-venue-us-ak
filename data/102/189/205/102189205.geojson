@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.441556,61.583281,-149.441556,61.583281",
+    "geom:latitude":61.583281,
+    "geom:longitude":-149.441556,
+    "iso:country":"US",
+    "sg:address":"418 Main St",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 2273",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kTTNFdkDNCvUsnJ5hjZ2I_61.583281_-149.441556@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"99b7ce2c037e0de8666e7017fd84dac9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102189205"
+        }
+    ],
+    "wof:id":"102189205",
+    "wof:lastmodified":1449069497,
+    "wof:name":"Alaska Center For Dentistry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.441556,61.583281,-149.441556,61.583281],
+  "geometry": {"coordinates":[-149.441556,61.583281],"type":"Point"}
+}

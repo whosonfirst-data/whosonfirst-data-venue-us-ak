@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.731511,64.83036,-147.731511,64.83036",
+    "geom:latitude":64.83036,
+    "geom:longitude":-147.731511,
+    "iso:country":"US",
+    "sg:address":"1207 19th Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 2155",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "car",
+        "pilot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915635,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1beqssMvRm9AtMjGp47Och_64.830360_-147.731511@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"30d74f507727d5e09d46a1d5dc4f07cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "region_id":85688573,
+            "venue_id":"102188343"
+        }
+    ],
+    "wof:id":"102188343",
+    "wof:lastmodified":1449068947,
+    "wof:name":"North Country Pilot Car Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.731511,64.83036,-147.731511,64.83036],
+  "geometry": {"coordinates":[-147.731511,64.83036],"type":"Point"}
+}

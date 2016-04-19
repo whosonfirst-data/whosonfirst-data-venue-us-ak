@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.884873,61.168206,-149.884873,61.168206",
+    "geom:latitude":61.168206,
+    "geom:longitude":-149.884873,
+    "iso:country":"US",
+    "sg:address":"5720 B St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 565 6200",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "machine",
+        "mailing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WaVikixndSPchSWhG0hp7_61.168206_-149.884873@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fafffeeafc2925774653930a0d7b6826",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102184721"
+        }
+    ],
+    "wof:id":"102184721",
+    "wof:lastmodified":1449068218,
+    "wof:name":"North Mail Inc",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.884873,61.168206,-149.884873,61.168206],
+  "geometry": {"coordinates":[-149.884873,61.168206],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-156.76766,71.288167,-156.76766,71.288167",
+    "geom:latitude":71.288167,
+    "geom:longitude":-156.76766,
+    "iso:country":"US",
+    "sg:address":"1731 Ahkovak St",
+    "sg:city":"Barrow",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 852 5400",
+    "sg:postcode":"99723",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915545,
+        85633793,
+        85688573,
+        102081001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27Lp7UmSDK4VKsU2gzaPwh_71.288167_-156.767660@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e85e901aafe19e0141cd81002f284e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081001,
+            "locality_id":85915545,
+            "region_id":85688573,
+            "venue_id":"102152945"
+        }
+    ],
+    "wof:id":"102152945",
+    "wof:lastmodified":1449069633,
+    "wof:name":"Northern Air Cargo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-156.76766,71.288167,-156.76766,71.288167],
+  "geometry": {"coordinates":[-156.76766,71.288167],"type":"Point"}
+}

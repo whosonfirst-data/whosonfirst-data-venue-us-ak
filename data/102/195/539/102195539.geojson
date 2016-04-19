@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.869482,61.21749,-149.869482,61.21749",
+    "geom:latitude":61.21749,
+    "geom:longitude":-149.869482,
+    "iso:country":"US",
+    "sg:address":"730 E 5th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 257 6655",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.steppbrothers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kDZ2YzBo7KnWX4mJ44AXv_61.217490_-149.869482@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"30ec395231b6bb0b6093adbf86e79a7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102195539"
+        }
+    ],
+    "wof:id":"102195539",
+    "wof:lastmodified":1449069365,
+    "wof:name":"Stepp Brothers Lincoln Mercury",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.869482,61.21749,-149.869482,61.21749],
+  "geometry": {"coordinates":[-149.869482,61.21749],"type":"Point"}
+}

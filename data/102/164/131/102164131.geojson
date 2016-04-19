@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.069356,60.48313,-151.069356,60.48313",
+    "geom:latitude":60.48313,
+    "geom:longitude":-151.069356,
+    "iso:country":"US",
+    "sg:address":"44402 Sterling Hwy",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 7000",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:website":"www.gottschalks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eTQSSO9S3mC9LqxyNWfrd_60.483130_-151.069356@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"38c96bf12a30f8e3d68538a9af55d76a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102164131"
+        }
+    ],
+    "wof:id":"102164131",
+    "wof:lastmodified":1449068090,
+    "wof:name":"Gottschalks",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.069356,60.48313,-151.069356,60.48313],
+  "geometry": {"coordinates":[-151.069356,60.48313],"type":"Point"}
+}

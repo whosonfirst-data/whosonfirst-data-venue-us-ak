@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.380633,56.471513,-132.380633,56.471513",
+    "geom:latitude":56.471513,
+    "geom:longitude":-132.380633,
+    "iso:country":"US",
+    "sg:address":"220 Church St",
+    "sg:city":"Wrangell",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 874 3534",
+    "sg:postcode":"99929",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916111,
+        85633793,
+        85688573,
+        102081901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62SxVsebqE1e6WYHUaVvSX_56.471513_-132.380633@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"54c2b32fd65a215607fc97c7afa0dca7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081901,
+            "locality_id":85916111,
+            "region_id":85688573,
+            "venue_id":"102170721"
+        }
+    ],
+    "wof:id":"102170721",
+    "wof:lastmodified":1449068019,
+    "wof:name":"Presbyterian Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.380633,56.471513,-132.380633,56.471513],
+  "geometry": {"coordinates":[-132.380633,56.471513],"type":"Point"}
+}

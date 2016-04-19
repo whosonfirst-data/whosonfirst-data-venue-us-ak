@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.58389,58.365103,-134.58389,58.365103",
+    "geom:latitude":58.365103,
+    "geom:longitude":-134.58389,
+    "iso:country":"US",
+    "sg:address":"2204 Ka-See-An Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 0000",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QvNvAUdE95DfA4lBi8lBc_58.365103_-134.583890@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e063af7ef83d607c6495e7ac032c600b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102179719"
+        }
+    ],
+    "wof:id":"102179719",
+    "wof:lastmodified":1449069941,
+    "wof:name":"Alaska Land Surveying Co",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.58389,58.365103,-134.58389,58.365103],
+  "geometry": {"coordinates":[-134.58389,58.365103],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.884917,57.865802,-152.884917,57.865802",
+    "geom:latitude":57.865802,
+    "geom:longitude":-152.884917,
+    "iso:country":"US",
+    "sg:address":"207 Spruce Dr",
+    "sg:city":"Port Lions",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 454 2332",
+    "sg:postcode":"99550",
+    "sg:province":"AK",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915885,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MGGPYFUt6PxQnkOGb44ow_57.865802_-152.884917@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0cbbfbbf9a1d82343ad1d1fa8fa0b31f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915885,
+            "region_id":85688573,
+            "venue_id":"102186723"
+        }
+    ],
+    "wof:id":"102186723",
+    "wof:lastmodified":1449069655,
+    "wof:name":"City Of Port Lions",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.884917,57.865802,-152.884917,57.865802],
+  "geometry": {"coordinates":[-152.884917,57.865802],"type":"Point"}
+}

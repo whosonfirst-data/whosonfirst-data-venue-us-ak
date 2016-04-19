@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.755673,61.090636,-149.755673,61.090636",
+    "geom:latitude":61.090636,
+    "geom:longitude":-149.755673,
+    "iso:country":"US",
+    "sg:address":"14400 Prator St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 2259",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "snow",
+        "plowing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873741,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hgwU2n3iHq1rzTDg3RJan_61.090636_-149.755673@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"33522f591e2d48452b9975c3988ff688",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873741,
+            "region_id":85688573,
+            "venue_id":"102177293"
+        }
+    ],
+    "wof:id":"102177293",
+    "wof:lastmodified":1449070204,
+    "wof:name":"John Clark Plowing",
+    "wof:parent_id":85873741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.755673,61.090636,-149.755673,61.090636],
+  "geometry": {"coordinates":[-149.755673,61.090636],"type":"Point"}
+}

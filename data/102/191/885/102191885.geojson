@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.421671,58.300101,-134.421671,58.300101",
+    "geom:latitude":58.300101,
+    "geom:longitude":-134.421671,
+    "iso:country":"US",
+    "sg:address":"800 F St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 4724",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KG6Wn8Pq9QUQqALX7Dmjs_58.300101_-134.421671@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cefe2e29226ed42c4f1cea84ca20263e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102191885"
+        }
+    ],
+    "wof:id":"102191885",
+    "wof:lastmodified":1449069201,
+    "wof:name":"Parkshore Homeowners Assn Inc",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.421671,58.300101,-134.421671,58.300101],
+  "geometry": {"coordinates":[-134.421671,58.300101],"type":"Point"}
+}

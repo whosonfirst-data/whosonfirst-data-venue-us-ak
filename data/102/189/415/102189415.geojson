@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.712476,59.438464,-151.712476,59.438464",
+    "geom:latitude":59.438464,
+    "geom:longitude":-151.712476,
+    "iso:country":"US",
+    "sg:address":"244 Harbor View Dr",
+    "sg:city":"Seldovia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 234 7802",
+    "sg:postcode":"99663",
+    "sg:province":"AK",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915757,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S8itLjWQmgHt1FUEWqo5w_59.438464_-151.712476@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"89d4200ec10787c01c987df8d46cc354",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915757,
+            "region_id":85688573,
+            "venue_id":"102189415"
+        }
+    ],
+    "wof:id":"102189415",
+    "wof:lastmodified":1449069498,
+    "wof:name":"Kar-A-Van Transfer",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.712476,59.438464,-151.712476,59.438464],
+  "geometry": {"coordinates":[-151.712476,59.438464],"type":"Point"}
+}

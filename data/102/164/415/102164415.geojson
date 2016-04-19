@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.434158,58.296062,-134.434158,58.296062",
+    "geom:latitude":58.296062,
+    "geom:longitude":-134.434158,
+    "iso:country":"US",
+    "sg:address":"3333 Nowell Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 5641",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AoOIGqAOD3jhmzYgt4smD_58.296062_-134.434158@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"66c2e1a461dccb19a609fc36321df67a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102164415"
+        }
+    ],
+    "wof:id":"102164415",
+    "wof:lastmodified":1449068090,
+    "wof:name":"Grant's Rental Apartments",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.434158,58.296062,-134.434158,58.296062],
+  "geometry": {"coordinates":[-134.434158,58.296062],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.899541,61.210997,-149.899541,61.210997",
+    "geom:latitude":61.210997,
+    "geom:longitude":-149.899541,
+    "iso:country":"US",
+    "sg:address":"1133 I St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 1128",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873721,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QqvkzE3i97KVwy7eSnDqb_61.210997_-149.899541@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"12329df1170f7892cb6604255e4d0e40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873721,
+            "region_id":85688573,
+            "venue_id":"102162641"
+        }
+    ],
+    "wof:id":"102162641",
+    "wof:lastmodified":1449069824,
+    "wof:name":"Echo Architecture Inc",
+    "wof:parent_id":85873721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.899541,61.210997,-149.899541,61.210997],
+  "geometry": {"coordinates":[-149.899541,61.210997],"type":"Point"}
+}

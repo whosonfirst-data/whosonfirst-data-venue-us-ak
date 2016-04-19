@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.435448,61.579823,-149.435448,61.579823",
+    "geom:latitude":61.579823,
+    "geom:longitude":-149.435448,
+    "iso:country":"US",
+    "sg:address":"400 Denali St",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 8853",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61lvvzrFOu9Cjbd5BDXejh_61.579823_-149.435448@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"caa9546aa690db17e79e53deb872ed8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102173263"
+        }
+    ],
+    "wof:id":"102173263",
+    "wof:lastmodified":1449068270,
+    "wof:name":"Alaska Instant Print",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.435448,61.579823,-149.435448,61.579823],
+  "geometry": {"coordinates":[-149.435448,61.579823],"type":"Point"}
+}

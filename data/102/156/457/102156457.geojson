@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.519766,59.649865,-151.519766,59.649865",
+    "geom:latitude":59.649865,
+    "geom:longitude":-151.519766,
+    "iso:country":"US",
+    "sg:address":"4122 Ben Walters Ln",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 5558",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78EPHIpb4OVjhc0oEDObKx_59.649865_-151.519766@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0248fa19397251ac8162180fb6e70773",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102156457"
+        }
+    ],
+    "wof:id":"102156457",
+    "wof:lastmodified":1449068281,
+    "wof:name":"Homer Flex High School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.519766,59.649865,-151.519766,59.649865],
+  "geometry": {"coordinates":[-151.519766,59.649865],"type":"Point"}
+}

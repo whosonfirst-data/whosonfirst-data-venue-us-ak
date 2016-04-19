@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.964379,61.135288,-149.964379,61.135288",
+    "geom:latitude":61.135288,
+    "geom:longitude":-149.964379,
+    "iso:country":"US",
+    "sg:address":"4561 Montrose Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 2359",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1m0WwUoXQnvn0KKjEHq2b6_61.135288_-149.964379@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e3eea28f6cfe568ac01e7caf5fba33ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102181997"
+        }
+    ],
+    "wof:id":"102181997",
+    "wof:lastmodified":1449069234,
+    "wof:name":"Great Land Svc",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.964379,61.135288,-149.964379,61.135288],
+  "geometry": {"coordinates":[-149.964379,61.135288],"type":"Point"}
+}

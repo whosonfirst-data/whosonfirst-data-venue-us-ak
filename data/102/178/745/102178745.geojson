@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.928335,64.834087,-147.928335,64.834087",
+    "geom:latitude":64.834087,
+    "geom:longitude":-147.928335,
+    "iso:country":"US",
+    "sg:address":"720 Chena Ridge Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 0001",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916563,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lggkKCtr3Aye49BhBkBsg_64.834087_-147.928335@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e0c6ad48f3e603dd20fa241c459a5df4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916563,
+            "region_id":85688573,
+            "venue_id":"102178745"
+        }
+    ],
+    "wof:id":"102178745",
+    "wof:lastmodified":1449069536,
+    "wof:name":"Chena Ridge Veterinary Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.928335,64.834087,-147.928335,64.834087],
+  "geometry": {"coordinates":[-147.928335,64.834087],"type":"Point"}
+}

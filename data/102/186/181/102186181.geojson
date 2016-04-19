@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.148645,61.602964,-149.148645,61.602964",
+    "geom:latitude":61.602964,
+    "geom:longitude":-149.148645,
+    "iso:country":"US",
+    "sg:address":"2080 Hemmer Rd",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 0102",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28XXzebvlP0d0R6UWbhwvv_61.602964_-149.148645@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3f4553bd10f8efa5e111ce731d9aaee5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "region_id":85688573,
+            "venue_id":"102186181"
+        }
+    ],
+    "wof:id":"102186181",
+    "wof:lastmodified":1449069655,
+    "wof:name":"Valley Residential Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.148645,61.602964,-149.148645,61.602964],
+  "geometry": {"coordinates":[-149.148645,61.602964],"type":"Point"}
+}

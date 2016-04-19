@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.363552,57.071127,-135.363552,57.071127",
+    "geom:latitude":57.071127,
+    "geom:longitude":-135.363552,
+    "iso:country":"US",
+    "sg:address":"1906 Dodge Cir",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 3350",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "guide"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AkyGBApdjDu4Hl65JrRwA_57.071127_-135.363552@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"12d0744e4a0d59a88d6960f46629d91e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102173493"
+        }
+    ],
+    "wof:id":"102173493",
+    "wof:lastmodified":1449068266,
+    "wof:name":"Pioneer Guide Svc",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.363552,57.071127,-135.363552,57.071127],
+  "geometry": {"coordinates":[-135.363552,57.071127],"type":"Point"}
+}

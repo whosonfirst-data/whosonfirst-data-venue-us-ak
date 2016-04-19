@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.519304,59.647713,-151.519304,59.647713",
+    "geom:latitude":59.647713,
+    "geom:longitude":-151.519304,
+    "iso:country":"US",
+    "sg:address":"1001 Hillfair Ct",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 4122",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "bathtub",
+        "sink",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yTgoXPjlrqgsQ3A8uuJYu_59.647713_-151.519304@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"00c2a5a291d049e620b5ad0995429ef2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102183205"
+        }
+    ],
+    "wof:id":"102183205",
+    "wof:lastmodified":1449069042,
+    "wof:name":"Andrews Tub & Tile",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.519304,59.647713,-151.519304,59.647713],
+  "geometry": {"coordinates":[-151.519304,59.647713],"type":"Point"}
+}

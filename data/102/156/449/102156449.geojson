@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.405693,58.30045,-134.405693,58.30045",
+    "geom:latitude":58.30045,
+    "geom:longitude":-134.405693,
+    "iso:country":"US",
+    "sg:address":"241 Front St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 1960",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25b74Si9xvDiHyu2b0Gr5q_58.300450_-134.405693@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1dc1bed6ef3481e21fd242e4113c5510",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102156449"
+        }
+    ],
+    "wof:id":"102156449",
+    "wof:lastmodified":1449068283,
+    "wof:name":"Imperial Billiard & Bar",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.405693,58.30045,-134.405693,58.30045],
+  "geometry": {"coordinates":[-134.405693,58.30045],"type":"Point"}
+}

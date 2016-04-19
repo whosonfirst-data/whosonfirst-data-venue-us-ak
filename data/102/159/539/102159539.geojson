@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-161.778428,60.795303,-161.778428,60.795303",
+    "geom:latitude":60.795303,
+    "geom:longitude":-161.778428,
+    "iso:country":"US",
+    "sg:address":"513 Mission Dr",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 543 2201",
+    "sg:postcode":"99559",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915901,
+        85633793,
+        85688573,
+        102085877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fQSzhYAKVuudU08q0oJfa_60.795303_-161.778428@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a8e10c831086255157bfcfb4f3209b9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085877,
+            "locality_id":85915901,
+            "region_id":85688573,
+            "venue_id":"102159539"
+        }
+    ],
+    "wof:id":"102159539",
+    "wof:lastmodified":1449068096,
+    "wof:name":"Lake View Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-161.778428,60.795303,-161.778428,60.795303],
+  "geometry": {"coordinates":[-161.778428,60.795303],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.778606,64.841753,-147.778606,64.841753",
+    "geom:latitude":64.841753,
+    "geom:longitude":-147.778606,
+    "iso:country":"US",
+    "sg:address":"2501 Riverview Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 7424",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:website":"www.richkelleyrealty.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GUnjUqmfGP1p54QDQtI9A_64.841753_-147.778606@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"691524f00cf9d9baf0217cc56feff615",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102177717"
+        }
+    ],
+    "wof:id":"102177717",
+    "wof:lastmodified":1449070204,
+    "wof:name":"Rich Kelley Realty",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.778606,64.841753,-147.778606,64.841753],
+  "geometry": {"coordinates":[-147.778606,64.841753],"type":"Point"}
+}

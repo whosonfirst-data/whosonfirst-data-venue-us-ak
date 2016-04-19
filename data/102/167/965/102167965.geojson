@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.481043,61.588621,-149.481043,61.588621",
+    "geom:latitude":61.588621,
+    "geom:longitude":-149.481043,
+    "iso:country":"US",
+    "sg:address":"901 Lucas Rd",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 357 5581",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bvtRoDssZZhjZYTR9e529_61.588621_-149.481043@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f0bd51d89de37471d811a604d4da1ff7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102167965"
+        }
+    ],
+    "wof:id":"102167965",
+    "wof:lastmodified":1449069002,
+    "wof:name":"Alaska Mobile PC Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.481043,61.588621,-149.481043,61.588621],
+  "geometry": {"coordinates":[-149.481043,61.588621],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.887155,61.215667,-149.887155,61.215667",
+    "geom:latitude":61.215667,
+    "geom:longitude":-149.887155,
+    "iso:country":"US",
+    "sg:address":"121 W 7th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 343 6163",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.ci.anchorage.ak.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3F8845IkRr9H72oW2ovDYf_61.215667_-149.887155@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"26a5ba5d1ca326c34f6f79c12e088c58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102184401"
+        }
+    ],
+    "wof:id":"102184401",
+    "wof:lastmodified":1449068217,
+    "wof:name":"Anchorage Museum Of History",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.887155,61.215667,-149.887155,61.215667],
+  "geometry": {"coordinates":[-149.887155,61.215667],"type":"Point"}
+}

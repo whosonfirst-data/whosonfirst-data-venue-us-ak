@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-133.140346,55.477274,-133.140346,55.477274",
+    "geom:latitude":55.477274,
+    "geom:longitude":-133.140346,
+    "iso:country":"US",
+    "sg:address":"333 Cold Storage Rd",
+    "sg:city":"Craig",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 826 5555",
+    "sg:postcode":"99921",
+    "sg:province":"AK",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "sg:website":"www.alaskarentals.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916099,
+        85633793,
+        85688573,
+        102081403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10vr3EfO73cqNjNI8qWl02_55.477274_-133.140346@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"538baafabaab30c1ddfab1d2ce637b74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081403,
+            "locality_id":85916099,
+            "region_id":85688573,
+            "venue_id":"102190857"
+        }
+    ],
+    "wof:id":"102190857",
+    "wof:lastmodified":1449070037,
+    "wof:name":"TLC Cab",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-133.140346,55.477274,-133.140346,55.477274],
+  "geometry": {"coordinates":[-133.140346,55.477274],"type":"Point"}
+}

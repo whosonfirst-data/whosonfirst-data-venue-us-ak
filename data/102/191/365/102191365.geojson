@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.997186,61.195331,-149.997186,61.195331",
+    "geom:latitude":61.195331,
+    "geom:longitude":-149.997186,
+    "iso:country":"US",
+    "sg:address":"5901 Lockheed Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 245 0231",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852831,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fWSoUC5h6IsJFMMhQvohs_61.195331_-149.997186@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"36025f29893109aeb9bd4f4df44bfa6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":"102191365"
+        }
+    ],
+    "wof:id":"102191365",
+    "wof:lastmodified":1449069202,
+    "wof:name":"Alaska Central Express",
+    "wof:parent_id":85852831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.997186,61.195331,-149.997186,61.195331],
+  "geometry": {"coordinates":[-149.997186,61.195331],"type":"Point"}
+}

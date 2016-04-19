@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.718276,64.860967,-147.718276,64.860967",
+    "geom:latitude":64.860967,
+    "geom:longitude":-147.718276,
+    "iso:country":"US",
+    "sg:address":"300 Wedgewood Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 0455",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830247,
+        85633793,
+        85916559,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KdPeujpIYQqTItgzMsiG3_64.860967_-147.718276@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"075b231ac1f3ca7eb43b5ca7ad4d658b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "neighbourhood_id":85830247,
+            "region_id":85688573,
+            "venue_id":"102183385"
+        }
+    ],
+    "wof:id":"102183385",
+    "wof:lastmodified":1449069043,
+    "wof:name":"Willow Woods Apartments",
+    "wof:parent_id":85830247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.718276,64.860967,-147.718276,64.860967],
+  "geometry": {"coordinates":[-147.718276,64.860967],"type":"Point"}
+}

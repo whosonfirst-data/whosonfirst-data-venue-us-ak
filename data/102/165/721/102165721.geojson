@@ -1,0 +1,70 @@
+{
+  "id": "102165721",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.914988,61.186634,-149.914988,61.186634",
+    "geom:latitude":61.186634,
+    "geom:longitude":-149.914988,
+    "iso:country":"US",
+    "sg:address":"3730 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 2855",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85915707,
+        102085881,
+        85850461
+    ],
+    "wof:brand_id":420574867,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fz3WUEAKW12cLUTG79PZV_61.186634_-149.914988@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"55c67aea50acd2076f3a3a426528f34c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102165721"
+        }
+    ],
+    "wof:id":"102165721",
+    "wof:lastmodified":1457209247,
+    "wof:name":"Thrifty Car Rental",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.914988,
+    61.186634,
+    -149.914988,
+    61.186634
+],
+  "geometry": {"coordinates":[-149.91498799999999,61.186634],"type":"Point"}
+}

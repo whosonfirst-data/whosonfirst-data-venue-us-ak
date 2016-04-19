@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.808314,61.226722,-149.808314,61.226722",
+    "geom:latitude":61.226722,
+    "geom:longitude":-149.808314,
+    "iso:country":"US",
+    "sg:address":"415 N Bragaw St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 278 0415",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2o47j8yvZrg8C6eeYvyFZo_61.226722_-149.808314@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d89604466d37dc3f1ab954e1c4f649cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102189775"
+        }
+    ],
+    "wof:id":"102189775",
+    "wof:lastmodified":1449069497,
+    "wof:name":"Oasis II",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.808314,61.226722,-149.808314,61.226722],
+  "geometry": {"coordinates":[-149.808314,61.226722],"type":"Point"}
+}

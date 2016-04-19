@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.871016,61.216577,-149.871016,61.216577",
+    "geom:latitude":61.216577,
+    "geom:longitude":-149.871016,
+    "iso:country":"US",
+    "sg:address":"600 E 6th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 0731",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06OfVlMkuaqu5T1ILeNdnd_61.216577_-149.871016@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8c9ba1803f4cab9190ce71292929d8e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102179139"
+        }
+    ],
+    "wof:id":"102179139",
+    "wof:lastmodified":1449069941,
+    "wof:name":"K Speed Wash",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.871016,61.216577,-149.871016,61.216577],
+  "geometry": {"coordinates":[-149.871016,61.216577],"type":"Point"}
+}

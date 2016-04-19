@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.441556,61.583466,-149.441556,61.583466",
+    "geom:latitude":61.583466,
+    "geom:longitude":-149.441556,
+    "iso:country":"US",
+    "sg:address":"436 Main St",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 2478",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62og41SdMoBnnDqvuItnzH_61.583466_-149.441556@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"62c8688f8dadd0107f4bc5062c3ff4d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102186753"
+        }
+    ],
+    "wof:id":"102186753",
+    "wof:lastmodified":1449069654,
+    "wof:name":"State Farm Insurance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.441556,61.583466,-149.441556,61.583466],
+  "geometry": {"coordinates":[-149.441556,61.583466],"type":"Point"}
+}

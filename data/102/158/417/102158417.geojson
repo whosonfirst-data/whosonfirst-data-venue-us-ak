@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.765756,64.836771,-147.765756,64.836771",
+    "geom:latitude":64.836771,
+    "geom:longitude":-147.765756,
+    "iso:country":"US",
+    "sg:address":"2001 Airport Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 6635",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gRbMsT0Q5RPKN2EPWHGZv_64.836771_-147.765756@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6b2e93eb2767d0036c37cbb64c09e374",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102158417"
+        }
+    ],
+    "wof:id":"102158417",
+    "wof:lastmodified":1449069394,
+    "wof:name":"Red Sled",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.765756,64.836771,-147.765756,64.836771],
+  "geometry": {"coordinates":[-147.765756,64.836771],"type":"Point"}
+}

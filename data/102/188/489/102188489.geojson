@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.812918,64.855712,-147.812918,64.855712",
+    "geom:latitude":64.855712,
+    "geom:longitude":-147.812918,
+    "iso:country":"US",
+    "sg:address":"1295 University Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 8585",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39FsX6rXDpu2YHLm528HPj_64.855712_-147.812918@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"421bea8d27bb60dd0eaca49379f1ec52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102188489"
+        }
+    ],
+    "wof:id":"102188489",
+    "wof:lastmodified":1449068947,
+    "wof:name":"Splash'n Dash Car Wash",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.812918,64.855712,-147.812918,64.855712],
+  "geometry": {"coordinates":[-147.812918,64.855712],"type":"Point"}
+}

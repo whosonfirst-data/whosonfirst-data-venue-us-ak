@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-158.53253,59.037031,-158.53253,59.037031",
+    "geom:latitude":59.037031,
+    "geom:longitude":-158.53253,
+    "iso:country":"US",
+    "sg:address":"3439 Nina Way",
+    "sg:city":"Dillingham",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 842 7267",
+    "sg:postcode":"99576",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915613,
+        85633793,
+        85688573,
+        102080995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18qmMsSjtf4B9XufG06YNS_59.037031_-158.532530@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2095837791ab34cd9aaa6287536a07cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080995,
+            "locality_id":85915613,
+            "region_id":85688573,
+            "venue_id":"102165229"
+        }
+    ],
+    "wof:id":"102165229",
+    "wof:lastmodified":1449070217,
+    "wof:name":"Sam's Hair Parlor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-158.53253,59.037031,-158.53253,59.037031],
+  "geometry": {"coordinates":[-158.53253,59.037031],"type":"Point"}
+}

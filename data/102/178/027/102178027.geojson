@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.73722,61.21695,-149.73722,61.21695",
+    "geom:latitude":61.21695,
+    "geom:longitude":-149.73722,
+    "iso:country":"US",
+    "sg:address":"7500 E 6th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 742 1550",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_028DuGjIP5jzX8ki25IlIM_61.216950_-149.737220@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cfcd20c550856aa253b448861f03efa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102178027"
+        }
+    ],
+    "wof:id":"102178027",
+    "wof:lastmodified":1449069528,
+    "wof:name":"Creekside Park Elementary",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.73722,61.21695,-149.73722,61.21695],
+  "geometry": {"coordinates":[-149.73722,61.21695],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.874032,61.189517,-149.874032,61.189517",
+    "geom:latitude":61.189517,
+    "geom:longitude":-149.874032,
+    "iso:country":"US",
+    "sg:address":"3301 Eagle St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 269 3570",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_090M0zzCfORx1n0R1PJdnZ_61.189517_-149.874032@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e276cad1f3e2786db74d639d8b18ebf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102170591"
+        }
+    ],
+    "wof:id":"102170591",
+    "wof:lastmodified":1449068019,
+    "wof:name":"Vocational Rehabilitation",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.874032,61.189517,-149.874032,61.189517],
+  "geometry": {"coordinates":[-149.874032,61.189517],"type":"Point"}
+}

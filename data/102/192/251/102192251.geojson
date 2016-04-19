@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.339426,57.050633,-135.339426,57.050633",
+    "geom:latitude":57.050633,
+    "geom:longitude":-135.339426,
+    "iso:country":"US",
+    "sg:address":"362 Kogwonton St",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 4758",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SkikT1fIHapgUT8wH8C8F_57.050633_-135.339426@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5b5e1bc3287d99b96ee9dd908b59fc4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102192251"
+        }
+    ],
+    "wof:id":"102192251",
+    "wof:lastmodified":1449069498,
+    "wof:name":"Mi Ranchito",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.339426,57.050633,-135.339426,57.050633],
+  "geometry": {"coordinates":[-135.339426,57.050633],"type":"Point"}
+}

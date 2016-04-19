@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.583886,58.393428,-134.583886,58.393428",
+    "geom:latitude":58.393428,
+    "geom:longitude":-134.583886,
+    "iso:country":"US",
+    "sg:address":"4215 Riverside Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 4867",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6geLYTkkfoTFR8WqVLwuDx_58.393428_-134.583886@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"42050ce3eacb648d1125f6f66311d6ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102181913"
+        }
+    ],
+    "wof:id":"102181913",
+    "wof:lastmodified":1449069234,
+    "wof:name":"Rod Wilson & Assoc",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.583886,58.393428,-134.583886,58.393428],
+  "geometry": {"coordinates":[-134.583886,58.393428],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.761633,64.851447,-147.761633,64.851447",
+    "geom:latitude":64.851447,
+    "geom:longitude":-147.761633,
+    "iso:country":"US",
+    "sg:address":"900 Aurora Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 7287",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869043,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74ae60VLWlvn91L46BgDBm_64.851447_-147.761633@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fce0e0bd60969b84a606386118ad465f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85869043,
+            "region_id":85688573,
+            "venue_id":"102166801"
+        }
+    ],
+    "wof:id":"102166801",
+    "wof:lastmodified":1449069087,
+    "wof:name":"K & W Trucking Inc",
+    "wof:parent_id":85869043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.761633,64.851447,-147.761633,64.851447],
+  "geometry": {"coordinates":[-147.761633,64.851447],"type":"Point"}
+}

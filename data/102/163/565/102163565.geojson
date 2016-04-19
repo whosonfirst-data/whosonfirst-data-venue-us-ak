@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.470548,59.664032,-151.470548,59.664032",
+    "geom:latitude":59.664032,
+    "geom:longitude":-151.470548,
+    "iso:country":"US",
+    "sg:address":"61285 E End Rd",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 6341",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834363,
+        85633793,
+        85915739,
+        102081909,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fILUG31lIKzI15W33SAsa_59.664032_-151.470548@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5f9b6b499d105b00901f10aebd951301",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "neighbourhood_id":85834363,
+            "region_id":85688573,
+            "venue_id":"102163565"
+        }
+    ],
+    "wof:id":"102163565",
+    "wof:lastmodified":1449070164,
+    "wof:name":"L P Tool & Equipment Rental",
+    "wof:parent_id":85834363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.470548,59.664032,-151.470548,59.664032],
+  "geometry": {"coordinates":[-151.470548,59.664032],"type":"Point"}
+}

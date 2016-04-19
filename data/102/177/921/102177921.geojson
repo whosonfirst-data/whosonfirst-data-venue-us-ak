@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.778968,61.195173,-149.778968,61.195173",
+    "geom:latitude":61.195173,
+    "geom:longitude":-149.778968,
+    "iso:country":"US",
+    "sg:address":"5430 E Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 1012",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806647,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZgrabMsngiA1pBZWXVhYe_61.195173_-149.778968@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"be27d80c82a99051bde6a0c6b9aad137",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85806647,
+            "region_id":85688573,
+            "venue_id":"102177921"
+        }
+    ],
+    "wof:id":"102177921",
+    "wof:lastmodified":1449070208,
+    "wof:name":"Max's Beefy Burgers",
+    "wof:parent_id":85806647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.778968,61.195173,-149.778968,61.195173],
+  "geometry": {"coordinates":[-149.778968,61.195173],"type":"Point"}
+}

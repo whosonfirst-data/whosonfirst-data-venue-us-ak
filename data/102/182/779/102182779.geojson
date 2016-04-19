@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.849091,61.145828,-149.849091,61.145828",
+    "geom:latitude":61.145828,
+    "geom:longitude":-149.849091,
+    "iso:country":"US",
+    "sg:address":"1601 E 84th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 8933",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "counselor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MSH8abrf3bR64H3thCNCi_61.145828_-149.849091@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3738985c6d321d2c5dd0875e2bd0cf8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102182779"
+        }
+    ],
+    "wof:id":"102182779",
+    "wof:lastmodified":1449069277,
+    "wof:name":"Insight Advertising",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.849091,61.145828,-149.849091,61.145828],
+  "geometry": {"coordinates":[-149.849091,61.145828],"type":"Point"}
+}

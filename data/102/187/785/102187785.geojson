@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.121847,61.588629,-149.121847,61.588629",
+    "geom:latitude":61.588629,
+    "geom:longitude":-149.121847,
+    "iso:country":"US",
+    "sg:address":"60 Commercial Dr",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 4264",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "acetylene",
+        "gas",
+        "oxygen",
+        "for",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915577,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49hivb5Numt9VQm1bXK5xh_61.588629_-149.121847@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"864e099ef192c78829757e602f46d344",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915577,
+            "region_id":85688573,
+            "venue_id":"102187785"
+        }
+    ],
+    "wof:id":"102187785",
+    "wof:lastmodified":1449068161,
+    "wof:name":"Air Liquide America Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.121847,61.588629,-149.121847,61.588629],
+  "geometry": {"coordinates":[-149.121847,61.588629],"type":"Point"}
+}

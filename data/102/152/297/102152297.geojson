@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.877932,61.150952,-149.877932,61.150952",
+    "geom:latitude":61.150952,
+    "geom:longitude":-149.877932,
+    "iso:country":"US",
+    "sg:address":"7600 King St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 5959",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yfj9E5XNkRSKFIf9xGMCh_61.150952_-149.877932@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9cab56fd1cd686933a6f15d0e29523e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102152297"
+        }
+    ],
+    "wof:id":"102152297",
+    "wof:lastmodified":1449069635,
+    "wof:name":"General Mechanical Inc",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.877932,61.150952,-149.877932,61.150952],
+  "geometry": {"coordinates":[-149.877932,61.150952],"type":"Point"}
+}

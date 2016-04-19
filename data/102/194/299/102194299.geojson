@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.754318,61.203978,-149.754318,61.203978",
+    "geom:latitude":61.203978,
+    "geom:longitude":-149.754318,
+    "iso:country":"US",
+    "sg:address":"1901 Otter St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 8069",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869053,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75GDwiCo02RJk0N60s92vo_61.203978_-149.754318@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dfd3881cdb65d92585d1b93b302f7d80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869053,
+            "region_id":85688573,
+            "venue_id":"102194299"
+        }
+    ],
+    "wof:id":"102194299",
+    "wof:lastmodified":1449069827,
+    "wof:name":"H & H Contracting Svc",
+    "wof:parent_id":85869053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.754318,61.203978,-149.754318,61.203978],
+  "geometry": {"coordinates":[-149.754318,61.203978],"type":"Point"}
+}

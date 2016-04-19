@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.872963,64.842852,-147.872963,64.842852",
+    "geom:latitude":64.842852,
+    "geom:longitude":-147.872963,
+    "iso:country":"US",
+    "sg:address":"5190 Amherst Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 4690",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916609,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iC3KjUZceXlrbsyAj4fa1_64.842852_-147.872963@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b75b231fa4b3ed47753a69fa51c343a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "region_id":85688573,
+            "venue_id":"102161145"
+        }
+    ],
+    "wof:id":"102161145",
+    "wof:lastmodified":1449068710,
+    "wof:name":"Chenana Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.872963,64.842852,-147.872963,64.842852],
+  "geometry": {"coordinates":[-147.872963,64.842852],"type":"Point"}
+}

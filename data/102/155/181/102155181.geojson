@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-145.830458,64.143425,-145.830458,64.143425",
+    "geom:latitude":64.143425,
+    "geom:longitude":-145.830458,
+    "iso:country":"US",
+    "sg:address":"4880 Spengler Rd",
+    "sg:city":"Delta Junction",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 895 4256",
+    "sg:postcode":"99737",
+    "sg:province":"AK",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916519,
+        85633793,
+        85688573,
+        102080993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2q8W6fMgqmGZhUE0dJwJEH_64.143425_-145.830458@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7163839d55a7d4dbd4c503edeb5a41ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080993,
+            "locality_id":85916519,
+            "region_id":85688573,
+            "venue_id":"102155181"
+        }
+    ],
+    "wof:id":"102155181",
+    "wof:lastmodified":1449069743,
+    "wof:name":"Delta Heating & Sheet Metal",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-145.830458,64.143425,-145.830458,64.143425],
+  "geometry": {"coordinates":[-145.830458,64.143425],"type":"Point"}
+}

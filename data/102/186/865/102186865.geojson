@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.733475,61.216463,-149.733475,61.216463",
+    "geom:latitude":61.216463,
+    "geom:longitude":-149.733475,
+    "iso:country":"US",
+    "sg:address":"601 Muldoon Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 7750",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0j5CCakdvPxpsLQThaergz_61.216463_-149.733475@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3d3f5eb63e27cd23af5b0c470a5828a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102186865"
+        }
+    ],
+    "wof:id":"102186865",
+    "wof:lastmodified":1449069656,
+    "wof:name":"Muldoon Texaco",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.733475,61.216463,-149.733475,61.216463],
+  "geometry": {"coordinates":[-149.733475,61.216463],"type":"Point"}
+}

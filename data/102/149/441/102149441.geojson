@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.754188,61.101397,-149.754188,61.101397",
+    "geom:latitude":61.101397,
+    "geom:longitude":-149.754188,
+    "iso:country":"US",
+    "sg:address":"7100 de Armoun Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 1065",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873747,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EkKSLo0hlRhuDV344b7v5_61.101397_-149.754188@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"954cc450b8b6dcc7bcf068358a1f685b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873747,
+            "region_id":85688573,
+            "venue_id":"102149441"
+        }
+    ],
+    "wof:id":"102149441",
+    "wof:lastmodified":1449067766,
+    "wof:name":"Delaney Electric",
+    "wof:parent_id":85873747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.754188,61.101397,-149.754188,61.101397],
+  "geometry": {"coordinates":[-149.754188,61.101397],"type":"Point"}
+}

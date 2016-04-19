@@ -1,0 +1,67 @@
+{
+  "id": "102159691",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.863977,61.139379,-149.863977,61.139379",
+    "geom:latitude":61.139379,
+    "geom:longitude":-149.863977,
+    "iso:country":"US",
+    "sg:address":"8801 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 2333",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:website":"www.samsclub.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85915707,
+        102085881,
+        85809155
+    ],
+    "wof:brand_id":420575241,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64DtaYeOE6DQpFCutI6FFY_61.139379_-149.863977@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f46e7e3d24a0813dd3eb4ec071c2e8cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102159691"
+        }
+    ],
+    "wof:id":"102159691",
+    "wof:lastmodified":1457209478,
+    "wof:name":"Sam's Club",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.863977,
+    61.139379,
+    -149.863977,
+    61.139379
+],
+  "geometry": {"coordinates":[-149.86397700000001,61.139379],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.741547,64.857802,-147.741547,64.857802",
+    "geom:latitude":64.857802,
+    "geom:longitude":-147.741547,
+    "iso:country":"US",
+    "sg:address":"1501 Hampstead Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 7500",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830247,
+        85633793,
+        85916559,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HQHrOr9XrbW2wAOvzC9NR_64.857802_-147.741547@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3c57621d129e0c38f5eea4d30b8ad5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "neighbourhood_id":85830247,
+            "region_id":85688573,
+            "venue_id":"102156703"
+        }
+    ],
+    "wof:id":"102156703",
+    "wof:lastmodified":1449068282,
+    "wof:name":"Anne Wien Elementary School",
+    "wof:parent_id":85830247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.741547,64.857802,-147.741547,64.857802],
+  "geometry": {"coordinates":[-147.741547,64.857802],"type":"Point"}
+}

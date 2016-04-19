@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-161.779546,60.785889,-161.779546,60.785889",
+    "geom:latitude":60.785889,
+    "geom:longitude":-161.779546,
+    "iso:country":"US",
+    "sg:address":"1120 Standard Oil Rd",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 543 2421",
+    "sg:postcode":"99559",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cargo",
+        "handling",
+        "marine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915901,
+        85633793,
+        85688573,
+        102085877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AH5g0GsC3BBzhgsATP4mQ_60.785889_-161.779546@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6a1b9614a6aad14b31f70fae43529c4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085877,
+            "locality_id":85915901,
+            "region_id":85688573,
+            "venue_id":"102151825"
+        }
+    ],
+    "wof:id":"102151825",
+    "wof:lastmodified":1449067780,
+    "wof:name":"Crowley Marine Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-161.779546,60.785889,-161.779546,60.785889],
+  "geometry": {"coordinates":[-161.779546,60.785889],"type":"Point"}
+}

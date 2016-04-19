@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.640282,55.340727,-131.640282,55.340727",
+    "geom:latitude":55.340727,
+    "geom:longitude":-131.640282,
+    "iso:country":"US",
+    "sg:address":"5 Creek St",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 7690",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7U82nZYesqG1tIvuTdiLUw_55.340727_-131.640282@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cf4af273c88b25ac637f07dc18d004eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102172623"
+        }
+    ],
+    "wof:id":"102172623",
+    "wof:lastmodified":1449068736,
+    "wof:name":"Parnassus Books",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.640282,55.340727,-131.640282,55.340727],
+  "geometry": {"coordinates":[-131.640282,55.340727],"type":"Point"}
+}

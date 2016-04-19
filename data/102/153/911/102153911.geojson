@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.35307,64.756276,-147.35307,64.756276",
+    "geom:latitude":64.756276,
+    "geom:longitude":-147.35307,
+    "iso:country":"US",
+    "sg:address":"257 N Santa Claus Ln",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 5656",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915639,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ETWDD0RmKiQKcbuSNMUtt_64.756276_-147.353070@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1683c93287615f6b42debbb8f0e24133",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915639,
+            "region_id":85688573,
+            "venue_id":"102153911"
+        }
+    ],
+    "wof:id":"102153911",
+    "wof:lastmodified":1449069462,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.35307,64.756276,-147.35307,64.756276],
+  "geometry": {"coordinates":[-147.35307,64.756276],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.758519,61.213901,-149.758519,61.213901",
+    "geom:latitude":61.213901,
+    "geom:longitude":-149.758519,
+    "iso:country":"US",
+    "sg:address":"6501 E 9th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 338 1211",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "fireplace",
+        "chimney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869053,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bhiKGIvrRlFjtgzI9mLhR_61.213901_-149.758519@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ae334787e84221859eb6409183045915",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869053,
+            "region_id":85688573,
+            "venue_id":"102188429"
+        }
+    ],
+    "wof:id":"102188429",
+    "wof:lastmodified":1449068948,
+    "wof:name":"Top Hat Chimney Sweep",
+    "wof:parent_id":85869053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.758519,61.213901,-149.758519,61.213901],
+  "geometry": {"coordinates":[-149.758519,61.213901],"type":"Point"}
+}

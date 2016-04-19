@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.756337,61.117855,-149.756337,61.117855",
+    "geom:latitude":61.117855,
+    "geom:longitude":-149.756337,
+    "iso:country":"US",
+    "sg:address":"11400 Mountain Lake Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 346 1242",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "instrument",
+        "scientific",
+        "apparatus"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873745,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fcbUu6eNfcAmZbQk2dKXN_61.117855_-149.756337@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"61ff87d8e1ff877fc4b375963295504f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873745,
+            "region_id":85688573,
+            "venue_id":"102183407"
+        }
+    ],
+    "wof:id":"102183407",
+    "wof:lastmodified":1449069041,
+    "wof:name":"Alaska Precision Instruments",
+    "wof:parent_id":85873745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.756337,61.117855,-149.756337,61.117855],
+  "geometry": {"coordinates":[-149.756337,61.117855],"type":"Point"}
+}

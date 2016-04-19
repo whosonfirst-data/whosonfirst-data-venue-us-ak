@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.864105,61.147067,-149.864105,61.147067",
+    "geom:latitude":61.147067,
+    "geom:longitude":-149.864105,
+    "iso:country":"US",
+    "sg:address":"8215 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 7844",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CR2ouMiZSyd9LKuGQCiS4_61.147067_-149.864105@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ed03cc618c3cf60579b95f9d9bf21793",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102156493"
+        }
+    ],
+    "wof:id":"102156493",
+    "wof:lastmodified":1449068281,
+    "wof:name":"Chevron Pink Elephant Car Wash",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.864105,61.147067,-149.864105,61.147067],
+  "geometry": {"coordinates":[-149.864105,61.147067],"type":"Point"}
+}

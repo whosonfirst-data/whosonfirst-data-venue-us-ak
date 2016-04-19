@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.897932,61.195373,-149.897932,61.195373",
+    "geom:latitude":61.195373,
+    "geom:longitude":-149.897932,
+    "iso:country":"US",
+    "sg:address":"409 W Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 2680",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AeD16WW91otp9TbhsKiWy_61.195373_-149.897932@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"469ef23494dca32b129fe0909574cf18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102177397"
+        }
+    ],
+    "wof:id":"102177397",
+    "wof:lastmodified":1449070208,
+    "wof:name":"Cali Nails",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.897932,61.195373,-149.897932,61.195373],
+  "geometry": {"coordinates":[-149.897932,61.195373],"type":"Point"}
+}

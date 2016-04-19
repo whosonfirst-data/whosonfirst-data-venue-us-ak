@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.906297,61.171941,-149.906297,61.171941",
+    "geom:latitude":61.171941,
+    "geom:longitude":-149.906297,
+    "iso:country":"US",
+    "sg:address":"5400 Eielson St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 9060",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "field",
+        "oil"
+    ],
+    "sg:website":"www.offshoredivers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28NZy4gJ6EDfhK8NfXYlSI_61.171941_-149.906297@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"75fcd1a0d6a6778ca9bb0fc949219209",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102183465"
+        }
+    ],
+    "wof:id":"102183465",
+    "wof:lastmodified":1449069043,
+    "wof:name":"Offshore Divers",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.906297,61.171941,-149.906297,61.171941],
+  "geometry": {"coordinates":[-149.906297,61.171941],"type":"Point"}
+}

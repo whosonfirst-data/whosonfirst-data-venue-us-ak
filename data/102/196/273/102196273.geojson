@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.269339,60.559642,-151.269339,60.559642",
+    "geom:latitude":60.559642,
+    "geom:longitude":-151.269339,
+    "iso:country":"US",
+    "sg:address":"1212 1st Ave",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 7007",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1caxFcdNIva745LbflQ0lg_60.559642_-151.269339@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5221e15cff15e2d4b5e6e56f167300a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102196273"
+        }
+    ],
+    "wof:id":"102196273",
+    "wof:lastmodified":1449068337,
+    "wof:name":"Hall Quality Builders",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.269339,60.559642,-151.269339,60.559642],
+  "geometry": {"coordinates":[-151.269339,60.559642],"type":"Point"}
+}

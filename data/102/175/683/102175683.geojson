@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.866953,61.207715,-149.866953,61.207715",
+    "geom:latitude":61.207715,
+    "geom:longitude":-149.866953,
+    "iso:country":"US",
+    "sg:address":"801 E 15th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 6561",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "machine",
+        "shop",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gLq4eCkLPt7jf4TIOpmDn_61.207715_-149.866953@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0bad958440a9f101b557ac0e8fc0e973",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102175683"
+        }
+    ],
+    "wof:id":"102175683",
+    "wof:lastmodified":1449069465,
+    "wof:name":"Northern Auto Parts Mch Works",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.866953,61.207715,-149.866953,61.207715],
+  "geometry": {"coordinates":[-149.866953,61.207715],"type":"Point"}
+}

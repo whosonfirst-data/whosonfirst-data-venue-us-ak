@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.403934,58.299362,-134.403934,58.299362",
+    "geom:latitude":58.299362,
+    "geom:longitude":-134.403934,
+    "iso:country":"US",
+    "sg:address":"207 S Franklin St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 4440",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mdLZ9vfHaMkXEjz0DizZn_58.299362_-134.403934@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e5d50d113715d5748e05c2d5c5991167",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102164575"
+        }
+    ],
+    "wof:id":"102164575",
+    "wof:lastmodified":1449068090,
+    "wof:name":"Diamonds International",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.403934,58.299362,-134.403934,58.299362],
+  "geometry": {"coordinates":[-134.403934,58.299362],"type":"Point"}
+}

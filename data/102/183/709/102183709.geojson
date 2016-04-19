@@ -1,0 +1,70 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.444014,61.575549,-149.444014,61.575549",
+    "geom:latitude":61.575549,
+    "geom:longitude":-149.444014,
+    "iso:country":"US",
+    "sg:address":"340 Centaur Ave",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 0474",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mfg",
+        "metalwork",
+        "sheet",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0f5cjCuyZxAkpiuI3zC4AV_61.575549_-149.444014@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"833c6523b931db8ede3940a0bb5424c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102183709"
+        }
+    ],
+    "wof:id":"102183709",
+    "wof:lastmodified":1449069040,
+    "wof:name":"AA-1 Sheet Metal Fabrication",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.444014,61.575549,-149.444014,61.575549],
+  "geometry": {"coordinates":[-149.444014,61.575549],"type":"Point"}
+}

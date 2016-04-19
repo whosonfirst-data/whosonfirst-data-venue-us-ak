@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.347435,57.056998,-135.347435,57.056998",
+    "geom:latitude":57.056998,
+    "geom:longitude":-135.347435,
+    "iso:country":"US",
+    "sg:address":"713 Katlian St",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 3355",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gE5Vjx5dAEWwxPZoDpXEx_57.056998_-135.347435@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"23ccd7e11f14830fbb0ccbd7bb4bad7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102177301"
+        }
+    ],
+    "wof:id":"102177301",
+    "wof:lastmodified":1449070204,
+    "wof:name":"Baranof Electrical Co",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.347435,57.056998,-135.347435,57.056998],
+  "geometry": {"coordinates":[-135.347435,57.056998],"type":"Point"}
+}

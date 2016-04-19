@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.34803,57.056553,-135.34803,57.056553",
+    "geom:latitude":57.056553,
+    "geom:longitude":-135.34803,
+    "iso:country":"US",
+    "sg:address":"700 Katlian St",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 6644",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bxIt0demY5ai4STGw2bmt_57.056553_-135.348030@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9e5af1f8f609cb113c2cae573dd8ed17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102181889"
+        }
+    ],
+    "wof:id":"102181889",
+    "wof:lastmodified":1449069231,
+    "wof:name":"Sitka Vision Clinic",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.34803,57.056553,-135.34803,57.056553],
+  "geometry": {"coordinates":[-135.34803,57.056553],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.895505,61.218477,-149.895505,61.218477",
+    "geom:latitude":61.218477,
+    "geom:longitude":-149.895505,
+    "iso:country":"US",
+    "sg:address":"605 W 4th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 5626",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BkWPhglmNNVcEg26DzzUi_61.218477_-149.895505@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db243f8dfb3d7fd33f5a103d1dbedf45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102153233"
+        }
+    ],
+    "wof:id":"102153233",
+    "wof:lastmodified":1449069463,
+    "wof:name":"Java Joan's",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.895505,61.218477,-149.895505,61.218477],
+  "geometry": {"coordinates":[-149.895505,61.218477],"type":"Point"}
+}

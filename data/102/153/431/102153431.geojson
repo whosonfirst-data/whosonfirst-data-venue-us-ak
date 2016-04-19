@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-162.581526,66.898726,-162.581526,66.898726",
+    "geom:latitude":66.898726,
+    "geom:longitude":-162.581526,
+    "iso:country":"US",
+    "sg:address":"648 6th Ave",
+    "sg:city":"Kotzebue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 442 3317",
+    "sg:postcode":"99752",
+    "sg:province":"AK",
+    "sg:tags":[
+        "snowmobile",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915671,
+        85633793,
+        85688573,
+        102081009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49LCB6Njq0Vn9fm1PdwPDZ_66.898726_-162.581526@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"82f41224264dcb3fe28aef82291b6866",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081009,
+            "locality_id":85915671,
+            "region_id":85688573,
+            "venue_id":"102153431"
+        }
+    ],
+    "wof:id":"102153431",
+    "wof:lastmodified":1449069461,
+    "wof:name":"Schaeffer Performance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-162.581526,66.898726,-162.581526,66.898726],
+  "geometry": {"coordinates":[-162.581526,66.898726],"type":"Point"}
+}

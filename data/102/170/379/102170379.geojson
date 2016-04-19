@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.721614,64.830131,-147.721614,64.830131",
+    "geom:latitude":64.830131,
+    "geom:longitude":-147.721614,
+    "iso:country":"US",
+    "sg:address":"1901 Mary Ann St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 3328",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915635,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DiaTOM9u2E5K92TVILrmT_64.830131_-147.721614@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ba42cc42a671e35a7d67f29306c78c5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "region_id":85688573,
+            "venue_id":"102170379"
+        }
+    ],
+    "wof:id":"102170379",
+    "wof:lastmodified":1449068019,
+    "wof:name":"Anderson Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.721614,64.830131,-147.721614,64.830131],
+  "geometry": {"coordinates":[-147.721614,64.830131],"type":"Point"}
+}

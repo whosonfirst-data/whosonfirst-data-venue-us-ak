@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.464945,59.670641,-151.464945,59.670641",
+    "geom:latitude":59.670641,
+    "geom:longitude":-151.464945,
+    "iso:country":"US",
+    "sg:address":"60320 Bench Cir",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 6846",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834363,
+        85633793,
+        85915739,
+        102081909,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lPdMlsM1CCaLtNQKoWxad_59.670641_-151.464945@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"28b6aac38ba50a0b71bcd2f1e5869541",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "neighbourhood_id":85834363,
+            "region_id":85688573,
+            "venue_id":"102168767"
+        }
+    ],
+    "wof:id":"102168767",
+    "wof:lastmodified":1449069006,
+    "wof:name":"Mim's Pet Grooming",
+    "wof:parent_id":85834363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.464945,59.670641,-151.464945,59.670641],
+  "geometry": {"coordinates":[-151.464945,59.670641],"type":"Point"}
+}

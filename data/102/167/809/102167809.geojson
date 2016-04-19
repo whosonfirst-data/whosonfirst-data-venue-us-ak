@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.861613,61.111549,-149.861613,61.111549",
+    "geom:latitude":61.111549,
+    "geom:longitude":-149.861613,
+    "iso:country":"US",
+    "sg:address":"12222 Industry Way",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 5577",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873755,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TBckMq6Lg6Mzxo8TGxxhz_61.111549_-149.861613@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e8753a0d471168c942ba3e707ac5c56d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873755,
+            "region_id":85688573,
+            "venue_id":"102167809"
+        }
+    ],
+    "wof:id":"102167809",
+    "wof:lastmodified":1449069002,
+    "wof:name":"Alaska USA Federal CU",
+    "wof:parent_id":85873755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.861613,61.111549,-149.861613,61.111549],
+  "geometry": {"coordinates":[-149.861613,61.111549],"type":"Point"}
+}

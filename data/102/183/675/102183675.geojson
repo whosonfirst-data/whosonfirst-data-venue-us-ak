@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.967072,61.194726,-149.967072,61.194726",
+    "geom:latitude":61.194726,
+    "geom:longitude":-149.967072,
+    "iso:country":"US",
+    "sg:address":"2840 Katalla Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 4555",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852831,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_230Jv3s3qrxXAbTuihKG3J_61.194726_-149.967072@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a11e764e2b56e3660f178efe9675164e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":"102183675"
+        }
+    ],
+    "wof:id":"102183675",
+    "wof:lastmodified":1449069042,
+    "wof:name":"Jacob's Ladder",
+    "wof:parent_id":85852831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.967072,61.194726,-149.967072,61.194726],
+  "geometry": {"coordinates":[-149.967072,61.194726],"type":"Point"}
+}

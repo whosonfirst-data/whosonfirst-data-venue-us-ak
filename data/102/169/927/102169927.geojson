@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.720147,64.843313,-147.720147,64.843313",
+    "geom:latitude":64.843313,
+    "geom:longitude":-147.720147,
+    "iso:country":"US",
+    "sg:address":"535 2nd Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 4388",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HNp74kBOFoGyID0OmPQJU_64.843313_-147.720147@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f9d57683942cb660b7fc736a1f80875b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102169927"
+        }
+    ],
+    "wof:id":"102169927",
+    "wof:lastmodified":1449069249,
+    "wof:name":"Bear Foot Creations",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.720147,64.843313,-147.720147,64.843313],
+  "geometry": {"coordinates":[-147.720147,64.843313],"type":"Point"}
+}

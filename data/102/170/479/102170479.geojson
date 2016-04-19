@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-150.986162,60.501265,-150.986162,60.501265",
+    "geom:latitude":60.501265,
+    "geom:longitude":-150.986162,
+    "iso:country":"US",
+    "sg:address":"41605 Sterling Hwy",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 260 6777",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916845,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YQeVKn4CJpoMRfZ1CeCLU_60.501265_-150.986162@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"550e093a23bf46db5ddc0964e545c8e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916845,
+            "region_id":85688573,
+            "venue_id":"102170479"
+        }
+    ],
+    "wof:id":"102170479",
+    "wof:lastmodified":1449068019,
+    "wof:name":"Kenai Peninsula Harley-Davidsn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-150.986162,60.501265,-150.986162,60.501265],
+  "geometry": {"coordinates":[-150.986162,60.501265],"type":"Point"}
+}

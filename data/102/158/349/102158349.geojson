@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.464138,61.611132,-149.464138,61.611132",
+    "geom:latitude":61.611132,
+    "geom:longitude":-149.464138,
+    "iso:country":"US",
+    "sg:address":"2801 N Oxford Dr",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 3405",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "house",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916185,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YI48Ku2MyTdteBjQWq8wH_61.611132_-149.464138@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd9b19545e02bf27bc190ca1203bfd88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916185,
+            "region_id":85688573,
+            "venue_id":"102158349"
+        }
+    ],
+    "wof:id":"102158349",
+    "wof:lastmodified":1449069394,
+    "wof:name":"Alaska Construction Specialtie",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.464138,61.611132,-149.464138,61.611132],
+  "geometry": {"coordinates":[-149.464138,61.611132],"type":"Point"}
+}

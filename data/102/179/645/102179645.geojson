@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.827601,61.231,-149.827601,61.231",
+    "geom:latitude":61.231,
+    "geom:longitude":-149.827601,
+    "iso:country":"US",
+    "sg:address":"941 N Reeve Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Aquatic Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 0065",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "fish"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Y9KoYj1PvKWe5bVojs84h_61.231000_-149.827601@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a80bad582939ad73472f5b21b83ec700",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102179645"
+        }
+    ],
+    "wof:id":"102179645",
+    "wof:lastmodified":1449069941,
+    "wof:name":"AK Department of Fish &",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.827601,61.231,-149.827601,61.231],
+  "geometry": {"coordinates":[-149.827601,61.231],"type":"Point"}
+}

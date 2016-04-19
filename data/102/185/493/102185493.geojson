@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.871287,61.116464,-149.871287,61.116464",
+    "geom:latitude":61.116464,
+    "geom:longitude":-149.871287,
+    "iso:country":"US",
+    "sg:address":"11401 Olive Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 4664",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "consultant",
+        "geological"
+    ],
+    "sg:website":"www.aesalaska.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873755,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hokUqS94UzoE4ot1jaWQK_61.116464_-149.871287@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"531bf35108de38e49edc7123f8280a2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873755,
+            "region_id":85688573,
+            "venue_id":"102185493"
+        }
+    ],
+    "wof:id":"102185493",
+    "wof:lastmodified":1449068197,
+    "wof:name":"Alaska Earth Sciences",
+    "wof:parent_id":85873755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.871287,61.116464,-149.871287,61.116464],
+  "geometry": {"coordinates":[-149.871287,61.116464],"type":"Point"}
+}

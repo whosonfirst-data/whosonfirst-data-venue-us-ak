@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.861198,61.160173,-149.861198,61.160173",
+    "geom:latitude":61.160173,
+    "geom:longitude":-149.861198,
+    "iso:country":"US",
+    "sg:address":"6707 Rosewood St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 1544",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ar4R0vMyygQhoH1Dbtv0Z_61.160173_-149.861198@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6ee57d79b329913c21e628f3a98f69b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102177321"
+        }
+    ],
+    "wof:id":"102177321",
+    "wof:lastmodified":1449070204,
+    "wof:name":"B & R Transmission",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.861198,61.160173,-149.861198,61.160173],
+  "geometry": {"coordinates":[-149.861198,61.160173],"type":"Point"}
+}

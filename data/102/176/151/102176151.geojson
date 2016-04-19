@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.250661,60.553752,-151.250661,60.553752",
+    "geom:latitude":60.553752,
+    "geom:longitude":-151.250661,
+    "iso:country":"US",
+    "sg:address":"511 S Willow St",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 4330",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2H0bxQERys2MdK0J2Ti9hi_60.553752_-151.250661@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a5b046a1932ba3973b07778c0c740556",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102176151"
+        }
+    ],
+    "wof:id":"102176151",
+    "wof:lastmodified":1449069343,
+    "wof:name":"Seaman Apartment Rentals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.250661,60.553752,-151.250661,60.553752],
+  "geometry": {"coordinates":[-151.250661,60.553752],"type":"Point"}
+}

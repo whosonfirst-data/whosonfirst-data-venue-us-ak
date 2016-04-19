@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.56703,61.330696,-149.56703,61.330696",
+    "geom:latitude":61.330696,
+    "geom:longitude":-149.56703,
+    "iso:country":"US",
+    "sg:address":"12212 Old Glenn Hwy",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 694 5222",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Lw9aRJjJrtG614AVLyHKH_61.330696_-149.567030@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f8fed55d66f670152d525d4d588b9fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102196003"
+        }
+    ],
+    "wof:id":"102196003",
+    "wof:lastmodified":1449068338,
+    "wof:name":"Eagle Dental Lab",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.56703,61.330696,-149.56703,61.330696],
+  "geometry": {"coordinates":[-149.56703,61.330696],"type":"Point"}
+}

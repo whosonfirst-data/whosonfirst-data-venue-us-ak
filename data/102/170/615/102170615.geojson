@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.439206,61.578344,-149.439206,61.578344",
+    "geom:latitude":61.578344,
+    "geom:longitude":-149.439206,
+    "iso:country":"US",
+    "sg:address":"545 S Boundary St",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 5630",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "manager",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xhJmQ3S0hAim7NoVOB66M_61.578344_-149.439206@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4d125bc312de7f542273f792218196a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102170615"
+        }
+    ],
+    "wof:id":"102170615",
+    "wof:lastmodified":1449068018,
+    "wof:name":"Palmquist Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.439206,61.578344,-149.439206,61.578344],
+  "geometry": {"coordinates":[-149.439206,61.578344],"type":"Point"}
+}

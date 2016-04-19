@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.869611,61.213695,-149.869611,61.213695",
+    "geom:latitude":61.213695,
+    "geom:longitude":-149.869611,
+    "iso:country":"US",
+    "sg:address":"743 E 9th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 5750",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SMC4f82u97CIgC7ejXYrL_61.213695_-149.869611@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a9c5e450be34750830ebe125dca52b88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102162185"
+        }
+    ],
+    "wof:id":"102162185",
+    "wof:lastmodified":1449069822,
+    "wof:name":"Queenies Beauty Box",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.869611,61.213695,-149.869611,61.213695],
+  "geometry": {"coordinates":[-149.869611,61.213695],"type":"Point"}
+}

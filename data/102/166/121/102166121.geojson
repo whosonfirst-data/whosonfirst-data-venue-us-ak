@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.582594,58.399629,-134.582594,58.399629",
+    "geom:latitude":58.399629,
+    "geom:longitude":-134.582594,
+    "iso:country":"US",
+    "sg:address":"4523 Riverside Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 2230",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "machine",
+        "duplicating",
+        "copying"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3odvIakRALWHj1hDhUenpL_58.399629_-134.582594@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3f2d23891f7979628ede3bd1db9d5752",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102166121"
+        }
+    ],
+    "wof:id":"102166121",
+    "wof:lastmodified":1449069086,
+    "wof:name":"BEP Co",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.582594,58.399629,-134.582594,58.399629],
+  "geometry": {"coordinates":[-134.582594,58.399629],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": "102183055",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-134.583127,58.362999,-134.583127,58.362999",
+    "geom:latitude":58.362999,
+    "geom:longitude":-134.583127,
+    "iso:country":"US",
+    "sg:address":"9150 Glacier Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 9550",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:website":"www.wellsfargo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85915729,
+        102081399,
+        85833767
+    ],
+    "wof:brand_id":420573867,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xEQBWdQlfmYNr6oSBxLIL_58.362999_-134.583127@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"35f93764e5009fa7e94cd6608298b46c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102183055"
+        }
+    ],
+    "wof:id":"102183055",
+    "wof:lastmodified":1457207728,
+    "wof:name":"Wells Fargo Bank",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -134.583127,
+    58.362999,
+    -134.583127,
+    58.362999
+],
+  "geometry": {"coordinates":[-134.58312699999999,58.362999],"type":"Point"}
+}

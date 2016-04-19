@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.713836,59.438718,-151.713836,59.438718",
+    "geom:latitude":59.438718,
+    "geom:longitude":-151.713836,
+    "iso:country":"US",
+    "sg:address":"263 Lipke Ln",
+    "sg:city":"Seldovia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 234 7812",
+    "sg:postcode":"99663",
+    "sg:province":"AK",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915757,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48v2fesxlXkKnyXUwB7gdj_59.438718_-151.713836@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"be815e057dd147578a2ea419db6349d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915757,
+            "region_id":85688573,
+            "venue_id":"102154211"
+        }
+    ],
+    "wof:id":"102154211",
+    "wof:lastmodified":1449070243,
+    "wof:name":"City Ambulance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.713836,59.438718,-151.713836,59.438718],
+  "geometry": {"coordinates":[-151.713836,59.438718],"type":"Point"}
+}

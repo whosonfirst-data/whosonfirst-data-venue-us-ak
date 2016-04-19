@@ -1,0 +1,67 @@
+{
+  "id": "102161555",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.888066,61.183511,-149.888066,61.183511",
+    "geom:latitude":61.183511,
+    "geom:longitude":-149.888066,
+    "iso:country":"US",
+    "sg:address":"4301 Credit Union Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 550 7000",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:website":"www.hampton.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85915707,
+        102085881,
+        85873723
+    ],
+    "wof:brand_id":420574255,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_480jaikcQ8BJImRgOVyZox_61.183511_-149.888066@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0ef0843b76924ddf4f2307f3ea908af6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102161555"
+        }
+    ],
+    "wof:id":"102161555",
+    "wof:lastmodified":1457208704,
+    "wof:name":"Hampton Inn",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.888066,
+    61.183511,
+    -149.888066,
+    61.183511
+],
+  "geometry": {"coordinates":[-149.88806600000001,61.183511],"type":"Point"}
+}

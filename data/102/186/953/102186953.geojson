@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.808336,61.177829,-149.808336,61.177829",
+    "geom:latitude":61.177829,
+    "geom:longitude":-149.808336,
+    "iso:country":"US",
+    "sg:address":"4700 S Bragaw St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 569 2327",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2i7BSJtmOXLXEx85LWDpwl_61.177829_-149.808336@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8798087c27ef829a705889edff9ca24f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102186953"
+        }
+    ],
+    "wof:id":"102186953",
+    "wof:lastmodified":1449069654,
+    "wof:name":"Killer Bee's Cafe",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.808336,61.177829,-149.808336,61.177829],
+  "geometry": {"coordinates":[-149.808336,61.177829],"type":"Point"}
+}

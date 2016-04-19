@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.937872,61.176133,-149.937872,61.176133",
+    "geom:latitude":61.176133,
+    "geom:longitude":-149.937872,
+    "iso:country":"US",
+    "sg:address":"4815 Whitebirch Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 7104",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "sg:website":"www.claddaghcottage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FY1yoxoofgJSGi1AtnpYa_61.176133_-149.937872@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6583a1309dbf5707f74093148b849e82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102176439"
+        }
+    ],
+    "wof:id":"102176439",
+    "wof:lastmodified":1449069346,
+    "wof:name":"Claddagh Cottage B & B",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.937872,61.176133,-149.937872,61.176133],
+  "geometry": {"coordinates":[-149.937872,61.176133],"type":"Point"}
+}

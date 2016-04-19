@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.851126,61.191208,-149.851126,61.191208",
+    "geom:latitude":61.191208,
+    "geom:longitude":-149.851126,
+    "iso:country":"US",
+    "sg:address":"1633 Baylor Way",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 1788",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KPG2tzEfygTTcB3vXcUQC_61.191208_-149.851126@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5812f52aba6c3a94689b117563b74d65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102186803"
+        }
+    ],
+    "wof:id":"102186803",
+    "wof:lastmodified":1449069655,
+    "wof:name":"J S Medical",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.851126,61.191208,-149.851126,61.191208],
+  "geometry": {"coordinates":[-149.851126,61.191208],"type":"Point"}
+}

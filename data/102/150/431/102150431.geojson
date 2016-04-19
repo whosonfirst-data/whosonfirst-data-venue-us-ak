@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.408792,58.302478,-134.408792,58.302478",
+    "geom:latitude":58.302478,
+    "geom:longitude":-134.408792,
+    "iso:country":"US",
+    "sg:address":"424 N Franklin St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 6523",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KYtQQdgj5E7hOWHQoXykw_58.302478_-134.408792@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a7d550f2f708ab43e436b66df2941faf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102150431"
+        }
+    ],
+    "wof:id":"102150431",
+    "wof:lastmodified":1449067785,
+    "wof:name":"William T Council",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.408792,58.302478,-134.408792,58.302478],
+  "geometry": {"coordinates":[-134.408792,58.302478],"type":"Point"}
+}

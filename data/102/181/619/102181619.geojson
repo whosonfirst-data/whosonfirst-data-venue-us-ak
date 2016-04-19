@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.839184,61.090532,-149.839184,61.090532",
+    "geom:latitude":61.090532,
+    "geom:longitude":-149.839184,
+    "iso:country":"US",
+    "sg:address":"14460 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 4378",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "federal",
+        "affairs"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873755,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EmjENewFJ1jxnuwjemt4c_61.090532_-149.839184@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"247c3e8dce5254d898aef89da6e2db21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873755,
+            "region_id":85688573,
+            "venue_id":"102181619"
+        }
+    ],
+    "wof:id":"102181619",
+    "wof:lastmodified":1449069230,
+    "wof:name":"Consulate General Of Italy",
+    "wof:parent_id":85873755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.839184,61.090532,-149.839184,61.090532],
+  "geometry": {"coordinates":[-149.839184,61.090532],"type":"Point"}
+}

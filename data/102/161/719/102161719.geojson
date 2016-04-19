@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.671976,64.865298,-147.671976,64.865298",
+    "geom:latitude":64.865298,
+    "geom:longitude":-147.671976,
+    "iso:country":"US",
+    "sg:address":"119 Gruening Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 3392",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5t91VfjVFLh0KhFirPyjoc_64.865298_-147.671976@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"01d8feefd33acf2128ef2775f829bba0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102161719"
+        }
+    ],
+    "wof:id":"102161719",
+    "wof:lastmodified":1449068708,
+    "wof:name":"Applesauce Inn B & B",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.671976,64.865298,-147.671976,64.865298],
+  "geometry": {"coordinates":[-147.671976,64.865298],"type":"Point"}
+}

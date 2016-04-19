@@ -1,0 +1,67 @@
+{
+  "id": "102177043",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.913053,61.188074,-149.913053,61.188074",
+    "geom:latitude":61.188074,
+    "geom:longitude":-149.913053,
+    "iso:country":"US",
+    "sg:address":"3501 Minnesota Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 8884",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:website":"www.super8.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85915707,
+        102085881,
+        85850461
+    ],
+    "wof:brand_id":420573963,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MCfVtiZuxMbPz5VZpEeGJ_61.188074_-149.913053@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a76800b877f5d364850b28a3e7278221",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102177043"
+        }
+    ],
+    "wof:id":"102177043",
+    "wof:lastmodified":1457208018,
+    "wof:name":"Super 8 Motel",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.913053,
+    61.188074,
+    -149.913053,
+    61.188074
+],
+  "geometry": {"coordinates":[-149.91305299999999,61.188074],"type":"Point"}
+}

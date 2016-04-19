@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.575087,58.388301,-134.575087,58.388301",
+    "geom:latitude":58.388301,
+    "geom:longitude":-134.575087,
+    "iso:country":"US",
+    "sg:address":"3721 Sanders St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 0480",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Qd5YBVc88sYR5q0ii7tiy_58.388301_-134.575087@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"33e49a12063449335ed60574b3596b1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102187073"
+        }
+    ],
+    "wof:id":"102187073",
+    "wof:lastmodified":1449068158,
+    "wof:name":"Southeast Interiors",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.575087,58.388301,-134.575087,58.388301],
+  "geometry": {"coordinates":[-134.575087,58.388301],"type":"Point"}
+}

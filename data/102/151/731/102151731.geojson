@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.860412,61.152034,-149.860412,61.152034",
+    "geom:latitude":61.152034,
+    "geom:longitude":-149.860412,
+    "iso:country":"US",
+    "sg:address":"1131 E 76th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 7620",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5adJsSPKx2WYefSUnuKCkf_61.152034_-149.860412@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3c85230069c28ad7c40d978dd1152cdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102151731"
+        }
+    ],
+    "wof:id":"102151731",
+    "wof:lastmodified":1449067782,
+    "wof:name":"Dall Property Management",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.860412,61.152034,-149.860412,61.152034],
+  "geometry": {"coordinates":[-149.860412,61.152034],"type":"Point"}
+}

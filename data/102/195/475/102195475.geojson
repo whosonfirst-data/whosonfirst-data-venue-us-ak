@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.380259,57.819718,-152.380259,57.819718",
+    "geom:latitude":57.819718,
+    "geom:longitude":-152.380259,
+    "iso:country":"US",
+    "sg:address":"2804 Lake View Dr",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 6378",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wDdGwQf03bqRhxxAEuJGQ_57.819718_-152.380259@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b2417226eca815f6b08b59aa3a7e6e48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "region_id":85688573,
+            "venue_id":"102195475"
+        }
+    ],
+    "wof:id":"102195475",
+    "wof:lastmodified":1449069365,
+    "wof:name":"Larry's Plumbing & Heating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.380259,57.819718,-152.380259,57.819718],
+  "geometry": {"coordinates":[-152.380259,57.819718],"type":"Point"}
+}

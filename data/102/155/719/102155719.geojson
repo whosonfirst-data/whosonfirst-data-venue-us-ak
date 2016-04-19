@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-145.75498,60.54073,-145.75498,60.54073",
+    "geom:latitude":60.54073,
+    "geom:longitude":-145.75498,
+    "iso:country":"US",
+    "sg:address":"602 Chase Ave",
+    "sg:city":"Cordova",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 424 5731",
+    "sg:postcode":"99574",
+    "sg:province":"AK",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839707,
+        85633793,
+        85915567,
+        102081911,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_233LA1rSfpeCdBGsWQgFGS_60.540730_-145.754980@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"31666247960762327a307887fbcbb50d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915567,
+            "neighbourhood_id":85839707,
+            "region_id":85688573,
+            "venue_id":"102155719"
+        }
+    ],
+    "wof:id":"102155719",
+    "wof:lastmodified":1449069741,
+    "wof:name":"WIC",
+    "wof:parent_id":85839707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-145.75498,60.54073,-145.75498,60.54073],
+  "geometry": {"coordinates":[-145.75498,60.54073],"type":"Point"}
+}

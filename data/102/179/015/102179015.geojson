@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-133.150474,55.477278,-133.150474,55.477278",
+    "geom:latitude":55.477278,
+    "geom:longitude":-133.150474,
+    "iso:country":"US",
+    "sg:address":"401 Front St",
+    "sg:city":"Craig",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 826 3845",
+    "sg:postcode":"99921",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "leasing",
+        "charter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916099,
+        85633793,
+        85688573,
+        102081403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1N48Y5cnrd2O07JGzGMhMj_55.477278_-133.150474@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"26f14b5535bd71a7d601af3aef89f78f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081403,
+            "locality_id":85916099,
+            "region_id":85688573,
+            "venue_id":"102179015"
+        }
+    ],
+    "wof:id":"102179015",
+    "wof:lastmodified":1449069941,
+    "wof:name":"Promech Air-Sea Travel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-133.150474,55.477278,-133.150474,55.477278],
+  "geometry": {"coordinates":[-133.150474,55.477278],"type":"Point"}
+}

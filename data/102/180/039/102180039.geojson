@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.774153,61.18068,-149.774153,61.18068",
+    "geom:latitude":61.18068,
+    "geom:longitude":-149.774153,
+    "iso:country":"US",
+    "sg:address":"5700 E Tudor Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 269 5976",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Zu4jEq39K1xAtVOBWlyUk_61.180680_-149.774153@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a6e8121b3d5e6b2902dfcb888e987fac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102180039"
+        }
+    ],
+    "wof:id":"102180039",
+    "wof:lastmodified":1449067878,
+    "wof:name":"State Trooper-Recruitment",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.774153,61.18068,-149.774153,61.18068],
+  "geometry": {"coordinates":[-149.774153,61.18068],"type":"Point"}
+}

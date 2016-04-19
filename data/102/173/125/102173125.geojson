@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.903808,61.144475,-149.903808,61.144475",
+    "geom:latitude":61.144475,
+    "geom:longitude":-149.903808,
+    "iso:country":"US",
+    "sg:address":"8427 Mentra St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 0700",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3febAFVtRl7MHaOSoGpCh9_61.144475_-149.903808@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b29bb34e10b6d8f9e5cd9e7562616e6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102173125"
+        }
+    ],
+    "wof:id":"102173125",
+    "wof:lastmodified":1449068272,
+    "wof:name":"Always On Call Mountain Mech",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.903808,61.144475,-149.903808,61.144475],
+  "geometry": {"coordinates":[-149.903808,61.144475],"type":"Point"}
+}

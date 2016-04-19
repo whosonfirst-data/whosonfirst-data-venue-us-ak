@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.40206,58.298964,-134.40206,58.298964",
+    "geom:latitude":58.298964,
+    "geom:longitude":-134.40206,
+    "iso:country":"US",
+    "sg:address":"331 Gastineau Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 2524",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Y8TiQyHqTpUo0TLI0Ig1h_58.298964_-134.402060@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"44bd72ab2eb031616b2deecb72cb9613",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102183697"
+        }
+    ],
+    "wof:id":"102183697",
+    "wof:lastmodified":1449069043,
+    "wof:name":"Progressive Computer Svc",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.40206,58.298964,-134.40206,58.298964],
+  "geometry": {"coordinates":[-134.40206,58.298964],"type":"Point"}
+}

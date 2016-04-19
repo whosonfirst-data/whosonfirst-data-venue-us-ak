@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.888561,61.199204,-149.888561,61.199204",
+    "geom:latitude":61.199204,
+    "geom:longitude":-149.888561,
+    "iso:country":"US",
+    "sg:address":"2300 D St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 7773",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "party",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zJcXmPjiU8rH0eOB5mxmI_61.199204_-149.888561@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"841a88ec6b4beecf6b7a99aea4cca5a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102165613"
+        }
+    ],
+    "wof:id":"102165613",
+    "wof:lastmodified":1449070215,
+    "wof:name":"Riverside Adventures",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.888561,61.199204,-149.888561,61.199204],
+  "geometry": {"coordinates":[-149.888561,61.199204],"type":"Point"}
+}

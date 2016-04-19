@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.404519,58.299749,-134.404519,58.299749",
+    "geom:latitude":58.299749,
+    "geom:longitude":-134.404519,
+    "iso:country":"US",
+    "sg:address":"230 S Franklin St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 9428",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "jewelry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Zf8I8Ww381eT4XyjqoZw5_58.299749_-134.404519@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1b3dba2439bb76d53c39f7078419d32e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102153833"
+        }
+    ],
+    "wof:id":"102153833",
+    "wof:lastmodified":1449069461,
+    "wof:name":"KGS Goldworks",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.404519,58.299749,-134.404519,58.299749],
+  "geometry": {"coordinates":[-134.404519,58.299749],"type":"Point"}
+}

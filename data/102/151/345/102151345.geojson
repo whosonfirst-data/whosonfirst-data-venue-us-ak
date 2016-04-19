@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.839696,61.217619,-149.839696,61.217619",
+    "geom:latitude":61.217619,
+    "geom:longitude":-149.839696,
+    "iso:country":"US",
+    "sg:address":"2225 E 5th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Recreational Vehicle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 5508",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:website":"www.gorv.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0agfnel2Dnr6ZX9CrhS6x2_61.217619_-149.839696@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cf67da83321567ab4dbc940347982a92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102151345"
+        }
+    ],
+    "wof:id":"102151345",
+    "wof:lastmodified":1449067782,
+    "wof:name":"A & M Rv Ctr",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.839696,61.217619,-149.839696,61.217619],
+  "geometry": {"coordinates":[-149.839696,61.217619],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.693316,55.362505,-131.693316,55.362505",
+    "geom:latitude":55.362505,
+    "geom:longitude":-131.693316,
+    "iso:country":"US",
+    "sg:address":"618 Canyon Rd",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 247 3344",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "agency",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CgLAUSdgxYZHRMskSUDRj_55.362505_-131.693316@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6a02c572644c13f7e4d90a2318cd5e81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102160803"
+        }
+    ],
+    "wof:id":"102160803",
+    "wof:lastmodified":1449069778,
+    "wof:name":"Dodson Rentals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.693316,55.362505,-131.693316,55.362505],
+  "geometry": {"coordinates":[-131.693316,55.362505],"type":"Point"}
+}

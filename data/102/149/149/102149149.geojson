@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.641343,58.381525,-134.641343,58.381525",
+    "geom:latitude":58.381525,
+    "geom:longitude":-134.641343,
+    "iso:country":"US",
+    "sg:address":"11275 Glacier Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 465 6441",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915729,
+        85633793,
+        85688573,
+        102081399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30ohRc2NqGRvmIu6LpuzhD_58.381525_-134.641343@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9bb0828db75fe5151d4668ccce625a6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "region_id":85688573,
+            "venue_id":"102149149"
+        }
+    ],
+    "wof:id":"102149149",
+    "wof:lastmodified":1449067767,
+    "wof:name":"School Of Fisheries & Ocean",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.641343,58.381525,-134.641343,58.381525],
+  "geometry": {"coordinates":[-134.641343,58.381525],"type":"Point"}
+}

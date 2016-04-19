@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.874232,61.103469,-149.874232,61.103469",
+    "geom:latitude":61.103469,
+    "geom:longitude":-149.874232,
+    "iso:country":"US",
+    "sg:address":"13000 Lagoon Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 5651",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "model",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873755,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xEfTh78qCIrHuudImjDiG_61.103469_-149.874232@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9c7a271a366627ba9ba047d204438715",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873755,
+            "region_id":85688573,
+            "venue_id":"102169705"
+        }
+    ],
+    "wof:id":"102169705",
+    "wof:lastmodified":1449069248,
+    "wof:name":"Anchorage House Of Hobbies",
+    "wof:parent_id":85873755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.874232,61.103469,-149.874232,61.103469],
+  "geometry": {"coordinates":[-149.874232,61.103469],"type":"Point"}
+}

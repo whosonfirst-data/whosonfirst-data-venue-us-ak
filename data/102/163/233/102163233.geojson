@@ -1,0 +1,67 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.586945,58.37226,-134.586945,58.37226",
+    "geom:latitude":58.37226,
+    "geom:longitude":-134.586945,
+    "iso:country":"US",
+    "sg:address":"9108 Mendenhall Mall Rd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 1872",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48Hh1iOCPdWh6DwfFcPh4H_58.372260_-134.586945@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"237495a6cb52d8820d090e703cd55e79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102163233"
+        }
+    ],
+    "wof:id":"102163233",
+    "wof:lastmodified":1449070165,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.586945,58.37226,-134.586945,58.37226],
+  "geometry": {"coordinates":[-134.586945,58.37226],"type":"Point"}
+}

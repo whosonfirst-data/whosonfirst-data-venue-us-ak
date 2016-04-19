@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.707461,64.848978,-147.707461,64.848978",
+    "geom:latitude":64.848978,
+    "geom:longitude":-147.707461,
+    "iso:country":"US",
+    "sg:address":"116 Minnie St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 455 7281",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "personal",
+        "electronic",
+        "com",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qnjRW8B426CmjroQ94Cmv_64.848978_-147.707461@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"44d957f003382c89c11078c2cc5a4723",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102163225"
+        }
+    ],
+    "wof:id":"102163225",
+    "wof:lastmodified":1449070160,
+    "wof:name":"Geek City",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.707461,64.848978,-147.707461,64.848978],
+  "geometry": {"coordinates":[-147.707461,64.848978],"type":"Point"}
+}

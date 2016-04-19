@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-146.262089,61.123168,-146.262089,61.123168",
+    "geom:latitude":61.123168,
+    "geom:longitude":-146.262089,
+    "iso:country":"US",
+    "sg:address":"2340 Richardson Hwy",
+    "sg:city":"Valdez",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 835 4043",
+    "sg:postcode":"99686",
+    "sg:province":"AK",
+    "sg:tags":[
+        "oil",
+        "well",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839473,
+        85633793,
+        85915585,
+        102081911,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_295nKiJ6135bd4ET2YjpNd_61.123168_-146.262089@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1071946733adfe88fdc8598164df20ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915585,
+            "neighbourhood_id":85839473,
+            "region_id":85688573,
+            "venue_id":"102163031"
+        }
+    ],
+    "wof:id":"102163031",
+    "wof:lastmodified":1449070160,
+    "wof:name":"Peak Oilfield Svc Co",
+    "wof:parent_id":85839473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-146.262089,61.123168,-146.262089,61.123168],
+  "geometry": {"coordinates":[-146.262089,61.123168],"type":"Point"}
+}

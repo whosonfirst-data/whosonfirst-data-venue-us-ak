@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.829426,61.110262,-149.829426,61.110262",
+    "geom:latitude":61.110262,
+    "geom:longitude":-149.829426,
+    "iso:country":"US",
+    "sg:address":"12211 Woodchase Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 4797",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "miscellaneous",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Jso0wprPjyJgKFjuban8w_61.110262_-149.829426@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"64e8ff10156410f52581bbb64b32cf34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102177305"
+        }
+    ],
+    "wof:id":"102177305",
+    "wof:lastmodified":1449070204,
+    "wof:name":"Munger Prosthetics & Orthtcs",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.829426,61.110262,-149.829426,61.110262],
+  "geometry": {"coordinates":[-149.829426,61.110262],"type":"Point"}
+}

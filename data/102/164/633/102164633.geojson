@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.492643,58.359843,-134.492643,58.359843",
+    "geom:latitude":58.359843,
+    "geom:longitude":-134.492643,
+    "iso:country":"US",
+    "sg:address":"5812 Churchill Way",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 780 4214",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QeuOkgl6ZmhHpRuVoAS4e_58.359843_-134.492643@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4633d4778f637139be504f8076bc419f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102164633"
+        }
+    ],
+    "wof:id":"102164633",
+    "wof:lastmodified":1449068092,
+    "wof:name":"Arctic Contractors",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.492643,58.359843,-134.492643,58.359843],
+  "geometry": {"coordinates":[-134.492643,58.359843],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.440398,60.11311,-149.440398,60.11311",
+    "geom:latitude":60.11311,
+    "geom:longitude":-149.440398,
+    "iso:country":"US",
+    "sg:address":"1303 4th Ave",
+    "sg:city":"Seward",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 224 3674",
+    "sg:postcode":"99664",
+    "sg:province":"AK",
+    "sg:tags":[
+        "guide"
+    ],
+    "sg:website":"www.thefishhouse.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915769,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cqcrp1nlPLegdiwzuJLKv_60.113110_-149.440398@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"86de9d65c6e7f21da5ddfe2367de5ad7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915769,
+            "region_id":85688573,
+            "venue_id":"102188631"
+        }
+    ],
+    "wof:id":"102188631",
+    "wof:lastmodified":1449068947,
+    "wof:name":"Fish House",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.440398,60.11311,-149.440398,60.11311],
+  "geometry": {"coordinates":[-149.440398,60.11311],"type":"Point"}
+}

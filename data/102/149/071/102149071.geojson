@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.924897,61.188064,-149.924897,61.188064",
+    "geom:latitude":61.188064,
+    "geom:longitude":-149.924897,
+    "iso:country":"US",
+    "sg:address":"2200 W 36th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 2214",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "clothing",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yfCPGnVSNQxd25F9NOc4d_61.188064_-149.924897@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2b86fc870f8376fac690bdd334bd5380",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102149071"
+        }
+    ],
+    "wof:id":"102149071",
+    "wof:lastmodified":1449067770,
+    "wof:name":"Arctic Circle Enterprises Inc",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.924897,61.188064,-149.924897,61.188064],
+  "geometry": {"coordinates":[-149.924897,61.188064],"type":"Point"}
+}

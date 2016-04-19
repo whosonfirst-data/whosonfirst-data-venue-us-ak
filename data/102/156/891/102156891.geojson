@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.466152,61.419391,-149.466152,61.419391",
+    "geom:latitude":61.419391,
+    "geom:longitude":-149.466152,
+    "iso:country":"US",
+    "sg:address":"21984 Deer Park Dr",
+    "sg:city":"Chugiak",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 688 4196",
+    "sg:postcode":"99567",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806187,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ApTt05saZikU5dDfxnEV0_61.419391_-149.466152@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"70939b6e4453df509f2920e138f475fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85806187,
+            "region_id":85688573,
+            "venue_id":"102156891"
+        }
+    ],
+    "wof:id":"102156891",
+    "wof:lastmodified":1449068282,
+    "wof:name":"Craig Electrical Co",
+    "wof:parent_id":85806187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.466152,61.419391,-149.466152,61.419391],
+  "geometry": {"coordinates":[-149.466152,61.419391],"type":"Point"}
+}

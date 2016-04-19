@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.868804,61.166316,-149.868804,61.166316",
+    "geom:latitude":61.166316,
+    "geom:longitude":-149.868804,
+    "iso:country":"US",
+    "sg:address":"660 E Dowling Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 2121",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dealer",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d0pqVI11tOWDCnrIRfthB_61.166316_-149.868804@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"961a682989223e819e280373cfd6ad40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102183707"
+        }
+    ],
+    "wof:id":"102183707",
+    "wof:lastmodified":1449069043,
+    "wof:name":"Big Bob's Flooring Warehouse",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.868804,61.166316,-149.868804,61.166316],
+  "geometry": {"coordinates":[-149.868804,61.166316],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.990273,61.190288,-149.990273,61.190288",
+    "geom:latitude":61.190288,
+    "geom:longitude":-149.990273,
+    "iso:country":"US",
+    "sg:address":"3551 Postmark Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 884 1478",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852831,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3h3lPO1FVNVV8g7qIo2D3d_61.190288_-149.990273@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"24c17c8dcb0be32bf622aa24f10e7726",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":"102176977"
+        }
+    ],
+    "wof:id":"102176977",
+    "wof:lastmodified":1449069349,
+    "wof:name":"AAA Asphalt Maintenance",
+    "wof:parent_id":85852831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.990273,61.190288,-149.990273,61.190288],
+  "geometry": {"coordinates":[-149.990273,61.190288],"type":"Point"}
+}

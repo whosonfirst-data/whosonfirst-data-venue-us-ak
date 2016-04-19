@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.721793,64.83811,-147.721793,64.83811",
+    "geom:latitude":64.83811,
+    "geom:longitude":-147.721793,
+    "iso:country":"US",
+    "sg:address":"645 11th Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 4921",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.coc-fairbanks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zZGDGpxgwVCGyZBeQMgDb_64.838110_-147.721793@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1de2c97add98680df79cd189aab3a950",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102162131"
+        }
+    ],
+    "wof:id":"102162131",
+    "wof:lastmodified":1449069821,
+    "wof:name":"Church Of Christ",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.721793,64.83811,-147.721793,64.83811],
+  "geometry": {"coordinates":[-147.721793,64.83811],"type":"Point"}
+}

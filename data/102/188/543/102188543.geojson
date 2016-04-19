@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.864119,61.149537,-149.864119,61.149537",
+    "geom:latitude":61.149537,
+    "geom:longitude":-149.864119,
+    "iso:country":"US",
+    "sg:address":"7830 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 6223",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BmqJU8uuU6cuM4EqJXFZP_61.149537_-149.864119@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8659544f1ad64fd9fcb9a79f0a6ea928",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102188543"
+        }
+    ],
+    "wof:id":"102188543",
+    "wof:lastmodified":1449068945,
+    "wof:name":"Al's Alaskan Inn",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.864119,61.149537,-149.864119,61.149537],
+  "geometry": {"coordinates":[-149.864119,61.149537],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.810005,61.180912,-149.810005,61.180912",
+    "geom:latitude":61.180912,
+    "geom:longitude":-149.810005,
+    "iso:country":"US",
+    "sg:address":"3767 E Tudor Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 569 6602",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37UBqMqkwsopIiSdz2OUor_61.180912_-149.810005@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6c17c36102d11bce7c9555d5b64c53bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102177833"
+        }
+    ],
+    "wof:id":"102177833",
+    "wof:lastmodified":1449070204,
+    "wof:name":"Rainmaker Touchless Carwash",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.810005,61.180912,-149.810005,61.180912],
+  "geometry": {"coordinates":[-149.810005,61.180912],"type":"Point"}
+}

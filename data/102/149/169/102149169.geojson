@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.604808,58.370521,-134.604808,58.370521",
+    "geom:latitude":58.370521,
+    "geom:longitude":-134.604808,
+    "iso:country":"US",
+    "sg:address":"2525 Industrial Blvd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 2985",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ofd6aHw08hDrRWBGIUy69_58.370521_-134.604808@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d94354647a01f4ebe439b15efc79dfe0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102149169"
+        }
+    ],
+    "wof:id":"102149169",
+    "wof:lastmodified":1449067769,
+    "wof:name":"A-1 Auto Body",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.604808,58.370521,-134.604808,58.370521],
+  "geometry": {"coordinates":[-134.604808,58.370521],"type":"Point"}
+}

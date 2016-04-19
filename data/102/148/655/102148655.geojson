@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.867436,61.209608,-149.867436,61.209608",
+    "geom:latitude":61.209608,
+    "geom:longitude":-149.867436,
+    "iso:country":"US",
+    "sg:address":"828 E 13th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 4800",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "scaffolding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31WFmXH28wozH0RQRqXei4_61.209608_-149.867436@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f0bd50f00e2e24f7fcf82261f79e160",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102148655"
+        }
+    ],
+    "wof:id":"102148655",
+    "wof:lastmodified":1449069785,
+    "wof:name":"Ruben L Jackson",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.867436,61.209608,-149.867436,61.209608],
+  "geometry": {"coordinates":[-149.867436,61.209608],"type":"Point"}
+}

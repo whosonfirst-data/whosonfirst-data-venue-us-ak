@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.501431,58.32964,-134.501431,58.32964",
+    "geom:latitude":58.32964,
+    "geom:longitude":-134.501431,
+    "iso:country":"US",
+    "sg:address":"1017 Wee Burn Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 9666",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853509,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gwJaV2RkuiwRUK1tsZ7SQ_58.329640_-134.501431@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7565c3bc7489c068703a03086486d09e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85853509,
+            "region_id":85688573,
+            "venue_id":"102164225"
+        }
+    ],
+    "wof:id":"102164225",
+    "wof:lastmodified":1449068089,
+    "wof:name":"Don Douglas Photography",
+    "wof:parent_id":85853509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.501431,58.32964,-134.501431,58.32964],
+  "geometry": {"coordinates":[-134.501431,58.32964],"type":"Point"}
+}

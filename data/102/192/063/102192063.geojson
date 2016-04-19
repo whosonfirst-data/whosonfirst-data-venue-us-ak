@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.412498,58.300944,-134.412498,58.300944",
+    "geom:latitude":58.300944,
+    "geom:longitude":-134.412498,
+    "iso:country":"US",
+    "sg:address":"415 Willoughby Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 5000",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zabCcSz1dmzIg4GRWmhMn_58.300944_-134.412498@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1dd7ec5dfb5ae863ebc818b11a0b736f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102192063"
+        }
+    ],
+    "wof:id":"102192063",
+    "wof:lastmodified":1449069502,
+    "wof:name":"Fireweed Place",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.412498,58.300944,-134.412498,58.300944],
+  "geometry": {"coordinates":[-134.412498,58.300944],"type":"Point"}
+}

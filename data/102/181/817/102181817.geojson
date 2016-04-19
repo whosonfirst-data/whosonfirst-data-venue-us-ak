@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-156.752395,71.301705,-156.752395,71.301705",
+    "geom:latitude":71.301705,
+    "geom:longitude":-156.752395,
+    "iso:country":"US",
+    "sg:address":"5115 Herman St",
+    "sg:city":"Barrow",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 852 5719",
+    "sg:postcode":"99723",
+    "sg:province":"AK",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915545,
+        85633793,
+        85688573,
+        102081001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UUYda1noZ4TM8wSiLPDCc_71.301705_-156.752395@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a501b694dda804ee9cda2181537d42b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081001,
+            "locality_id":85915545,
+            "region_id":85688573,
+            "venue_id":"102181817"
+        }
+    ],
+    "wof:id":"102181817",
+    "wof:lastmodified":1449069235,
+    "wof:name":"Orties Janitorial Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-156.752395,71.301705,-156.752395,71.301705],
+  "geometry": {"coordinates":[-156.752395,71.301705],"type":"Point"}
+}

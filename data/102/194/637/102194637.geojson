@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.238104,64.745598,-147.238104,64.745598",
+    "geom:latitude":64.745598,
+    "geom:longitude":-147.238104,
+    "iso:country":"US",
+    "sg:address":"3960 Trent Ave",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 590 6308",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repair",
+        "comm",
+        "installation",
+        "maintenance",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916555,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iVcu9w4AijwxzmANh1pTz_64.745598_-147.238104@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"45c016fc066ea9844ab9e86daba0a084",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916555,
+            "region_id":85688573,
+            "venue_id":"102194637"
+        }
+    ],
+    "wof:id":"102194637",
+    "wof:lastmodified":1449069824,
+    "wof:name":"Big Mikes Garage Doors",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.238104,64.745598,-147.238104,64.745598],
+  "geometry": {"coordinates":[-147.238104,64.745598],"type":"Point"}
+}

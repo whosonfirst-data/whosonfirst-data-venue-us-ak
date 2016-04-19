@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.943331,61.19175,-149.943331,61.19175",
+    "geom:latitude":61.19175,
+    "geom:longitude":-149.943331,
+    "iso:country":"US",
+    "sg:address":"3237 W 32nd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 677 7944",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03nMioOJGC0qTxNOHyW8zu_61.191750_-149.943331@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"48fd4d706c04919891cb2d5bf98422ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102155873"
+        }
+    ],
+    "wof:id":"102155873",
+    "wof:lastmodified":1449069743,
+    "wof:name":"Yellowknife Construction Inc",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.943331,61.19175,-149.943331,61.19175],
+  "geometry": {"coordinates":[-149.943331,61.19175],"type":"Point"}
+}

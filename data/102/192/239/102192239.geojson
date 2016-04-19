@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.843333,61.163779,-149.843333,61.163779",
+    "geom:latitude":61.163779,
+    "geom:longitude":-149.843333,
+    "iso:country":"US",
+    "sg:address":"2100 E 63rd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 9473",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Md2xMZU1aWee4vszmAE5s_61.163779_-149.843333@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dfc283511d866e22e09fa016098d2243",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102192239"
+        }
+    ],
+    "wof:id":"102192239",
+    "wof:lastmodified":1449069502,
+    "wof:name":"Hot Wire Electric Inc",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.843333,61.163779,-149.843333,61.163779],
+  "geometry": {"coordinates":[-149.843333,61.163779],"type":"Point"}
+}

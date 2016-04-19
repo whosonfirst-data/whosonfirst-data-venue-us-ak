@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.895611,61.217627,-149.895611,61.217627",
+    "geom:latitude":61.217627,
+    "geom:longitude":-149.895611,
+    "iso:country":"US",
+    "sg:address":"406 G St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 6173",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "map"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LrWiuhfJ21eNYQImz0NkD_61.217627_-149.895611@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4ffb0f3225104b2abb5a40841dae22d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102160389"
+        }
+    ],
+    "wof:id":"102160389",
+    "wof:lastmodified":1449069778,
+    "wof:name":"Ecotrust",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.895611,61.217627,-149.895611,61.217627],
+  "geometry": {"coordinates":[-149.895611,61.217627],"type":"Point"}
+}

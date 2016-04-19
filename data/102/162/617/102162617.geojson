@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.63966,55.339884,-131.63966,55.339884",
+    "geom:latitude":55.339884,
+    "geom:longitude":-131.63966,
+    "iso:country":"US",
+    "sg:address":"130 Thomas St",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 3971",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "propeller",
+        "repair",
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HcE3DNPGvPx2CJq3ev1b1_55.339884_-131.639660@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"57904cc3d3737e0518fe015b75adc66c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102162617"
+        }
+    ],
+    "wof:id":"102162617",
+    "wof:lastmodified":1449069822,
+    "wof:name":"Union Machine Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.63966,55.339884,-131.63966,55.339884],
+  "geometry": {"coordinates":[-131.63966,55.339884],"type":"Point"}
+}

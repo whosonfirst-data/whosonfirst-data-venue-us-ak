@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.860926,61.166472,-149.860926,61.166472",
+    "geom:latitude":61.166472,
+    "geom:longitude":-149.860926,
+    "iso:country":"US",
+    "sg:address":"1135 E Dowling Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 2279",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "sg:website":"www.levicarrental.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ucxXtlM6FedAPcBCJObPE_61.166472_-149.860926@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1791a92f9ec245a2b1555920c8d748f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102186995"
+        }
+    ],
+    "wof:id":"102186995",
+    "wof:lastmodified":1449069655,
+    "wof:name":"Levi Car Rental",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.860926,61.166472,-149.860926,61.166472],
+  "geometry": {"coordinates":[-149.860926,61.166472],"type":"Point"}
+}

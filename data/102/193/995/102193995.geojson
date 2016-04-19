@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.740721,64.812751,-147.740721,64.812751",
+    "geom:latitude":64.812751,
+    "geom:longitude":-147.740721,
+    "iso:country":"US",
+    "sg:address":"3651 Royal Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 458 0083",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1X4BOsl9a4Gsjckz8GTML9_64.812751_-147.740721@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a9583bb1dd5fea0af3b7aa2e9e82c6e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102193995"
+        }
+    ],
+    "wof:id":"102193995",
+    "wof:lastmodified":1449068193,
+    "wof:name":"Trash Talk Inc",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.740721,64.812751,-147.740721,64.812751],
+  "geometry": {"coordinates":[-147.740721,64.812751],"type":"Point"}
+}

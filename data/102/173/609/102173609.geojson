@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.768961,61.215953,-149.768961,61.215953",
+    "geom:latitude":61.215953,
+    "geom:longitude":-149.768961,
+    "iso:country":"US",
+    "sg:address":"840 Norman St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 929 1154",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shredding",
+        "document"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AG17elxHiulGW17KLPJEi_61.215953_-149.768961@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f97312f1f67049488568c3fe68b906e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102173609"
+        }
+    ],
+    "wof:id":"102173609",
+    "wof:lastmodified":1449068266,
+    "wof:name":"Shred Alaska",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.768961,61.215953,-149.768961,61.215953],
+  "geometry": {"coordinates":[-149.768961,61.215953],"type":"Point"}
+}

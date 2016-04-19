@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.870256,61.196147,-149.870256,61.196147",
+    "geom:latitude":61.196147,
+    "geom:longitude":-149.870256,
+    "iso:country":"US",
+    "sg:address":"2525 Gambell St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 3835",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F0ooNEksXvBgbDZeoy7tY_61.196147_-149.870256@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"265f8026c48de20711fc6f7e0cb9c43d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102181823"
+        }
+    ],
+    "wof:id":"102181823",
+    "wof:lastmodified":1449069236,
+    "wof:name":"Enterprise Engineering Inc",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.870256,61.196147,-149.870256,61.196147],
+  "geometry": {"coordinates":[-149.870256,61.196147],"type":"Point"}
+}

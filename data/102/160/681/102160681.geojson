@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.741273,64.833579,-147.741273,64.833579",
+    "geom:latitude":64.833579,
+    "geom:longitude":-147.741273,
+    "iso:country":"US",
+    "sg:address":"1404 Buttercup St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 8698",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FRAJXNxst4fJCAPGUpM9Y_64.833579_-147.741273@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3957283f4228efd36c03eb78f54e1784",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102160681"
+        }
+    ],
+    "wof:id":"102160681",
+    "wof:lastmodified":1449069774,
+    "wof:name":"J & J Enterprises",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.741273,64.833579,-147.741273,64.833579],
+  "geometry": {"coordinates":[-147.741273,64.833579],"type":"Point"}
+}

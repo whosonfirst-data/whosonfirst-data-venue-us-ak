@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.804066,61.09425,-149.804066,61.09425",
+    "geom:latitude":61.09425,
+    "geom:longitude":-149.804066,
+    "iso:country":"US",
+    "sg:address":"13641 Elmore Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 3374",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "sandblasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873755,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04oSDiAerBy1sJPfmdOSmC_61.094250_-149.804066@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1b7e1a85940f05d6b6550f9918eefdfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873755,
+            "region_id":85688573,
+            "venue_id":"102195273"
+        }
+    ],
+    "wof:id":"102195273",
+    "wof:lastmodified":1449069364,
+    "wof:name":"Ak Coatings & Urethane",
+    "wof:parent_id":85873755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.804066,61.09425,-149.804066,61.09425],
+  "geometry": {"coordinates":[-149.804066,61.09425],"type":"Point"}
+}

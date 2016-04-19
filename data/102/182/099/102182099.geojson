@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.244052,60.554119,-151.244052,60.554119",
+    "geom:latitude":60.554119,
+    "geom:longitude":-151.244052,
+    "iso:country":"US",
+    "sg:address":"361 Senior Ct",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 4156",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4T7XMK1hq0f193xNSKFKvE_60.554119_-151.244052@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b0ea4eee1d3a8f35ad1b63cbb4736d36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102182099"
+        }
+    ],
+    "wof:id":"102182099",
+    "wof:lastmodified":1449069280,
+    "wof:name":"Kenai Senior Citizens Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.244052,60.554119,-151.244052,60.554119],
+  "geometry": {"coordinates":[-151.244052,60.554119],"type":"Point"}
+}

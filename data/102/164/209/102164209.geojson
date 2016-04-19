@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.897301,61.198748,-149.897301,61.198748",
+    "geom:latitude":61.198748,
+    "geom:longitude":-149.897301,
+    "iso:country":"US",
+    "sg:address":"715 W Fireweed Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 2500",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "linen",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24u02vx29ydBqEE0kqMBSf_61.198748_-149.897301@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a8396c6ea57634b5ecc9dfe23ad615b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102164209"
+        }
+    ],
+    "wof:id":"102164209",
+    "wof:lastmodified":1449068092,
+    "wof:name":"Alsco Inc",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.897301,61.198748,-149.897301,61.198748],
+  "geometry": {"coordinates":[-149.897301,61.198748],"type":"Point"}
+}

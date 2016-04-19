@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.863475,61.216498,-149.863475,61.216498",
+    "geom:latitude":61.216498,
+    "geom:longitude":-149.863475,
+    "iso:country":"US",
+    "sg:address":"1042 E 6th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 7200",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AuTA39LJkrXpwcmFG9FXJ_61.216498_-149.863475@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3e7bd3c0c263e2435fca01b9d7400102",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102160183"
+        }
+    ],
+    "wof:id":"102160183",
+    "wof:lastmodified":1449069775,
+    "wof:name":"Branch Construction LLC",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.863475,61.216498,-149.863475,61.216498],
+  "geometry": {"coordinates":[-149.863475,61.216498],"type":"Point"}
+}

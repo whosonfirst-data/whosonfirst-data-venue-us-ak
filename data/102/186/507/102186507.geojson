@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.449309,59.235327,-135.449309,59.235327",
+    "geom:latitude":59.235327,
+    "geom:longitude":-135.449309,
+    "iso:country":"US",
+    "sg:address":"390 Main St",
+    "sg:city":"Haines",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 766 2222",
+    "sg:postcode":"99827",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "sg:website":"www.labflying.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842771,
+        85633793,
+        85916629,
+        102083767,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I3Wuu9WmM4waVc51KIP6X_59.235327_-135.449309@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9720a2446d1d220e3b4af841ad189762",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083767,
+            "locality_id":85916629,
+            "neighbourhood_id":85842771,
+            "region_id":85688573,
+            "venue_id":"102186507"
+        }
+    ],
+    "wof:id":"102186507",
+    "wof:lastmodified":1449069654,
+    "wof:name":"LAB Flying Svc",
+    "wof:parent_id":85842771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.449309,59.235327,-135.449309,59.235327],
+  "geometry": {"coordinates":[-135.449309,59.235327],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.733445,55.380986,-131.733445,55.380986",
+    "geom:latitude":55.380986,
+    "geom:longitude":-131.733445,
+    "iso:country":"US",
+    "sg:address":"5306 Shoreline Dr",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 247 6650",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "residential",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62b7xzwRyGTAkGAfzHmnwJ_55.380986_-131.733445@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"daa1a61843da3b2778dbea2694beda90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102178893"
+        }
+    ],
+    "wof:id":"102178893",
+    "wof:lastmodified":1449069532,
+    "wof:name":"Island Construction Entps",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.733445,55.380986,-131.733445,55.380986],
+  "geometry": {"coordinates":[-131.733445,55.380986],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.875702,61.130208,-149.875702,61.130208",
+    "geom:latitude":61.130208,
+    "geom:longitude":-149.875702,
+    "iso:country":"US",
+    "sg:address":"440 E 100th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 1535",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "incinerator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30BFj5WSuHerP0tYyUe92U_61.130208_-149.875702@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6ce39da57554556ab3e6dab5d1563b2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102179669"
+        }
+    ],
+    "wof:id":"102179669",
+    "wof:lastmodified":1449069942,
+    "wof:name":"Entech Alaska",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.875702,61.130208,-149.875702,61.130208],
+  "geometry": {"coordinates":[-149.875702,61.130208],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.871028,61.210665,-149.871028,61.210665",
+    "geom:latitude":61.210665,
+    "geom:longitude":-149.871028,
+    "iso:country":"US",
+    "sg:address":"1100 Gambell St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 6328",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rijEIwtoKxAiHbqv0zKAp_61.210665_-149.871028@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"757dd6f1e903c7e0e14d64753b59fb65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102148689"
+        }
+    ],
+    "wof:id":"102148689",
+    "wof:lastmodified":1449069785,
+    "wof:name":"Bishop's Attic",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.871028,61.210665,-149.871028,61.210665],
+  "geometry": {"coordinates":[-149.871028,61.210665],"type":"Point"}
+}

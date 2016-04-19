@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.796683,61.086115,-149.796683,61.086115",
+    "geom:latitude":61.086115,
+    "geom:longitude":-149.796683,
+    "iso:country":"US",
+    "sg:address":"4645 Manytell Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 4571",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "house",
+        "construction",
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873751,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZDj1RPt6ilw798S5Jtdzc_61.086115_-149.796683@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"53a66aad25ee6bdb1ce18de78a0e7c3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873751,
+            "region_id":85688573,
+            "venue_id":"102148045"
+        }
+    ],
+    "wof:id":"102148045",
+    "wof:lastmodified":1449069787,
+    "wof:name":"Interlocken Design",
+    "wof:parent_id":85873751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.796683,61.086115,-149.796683,61.086115],
+  "geometry": {"coordinates":[-149.796683,61.086115],"type":"Point"}
+}

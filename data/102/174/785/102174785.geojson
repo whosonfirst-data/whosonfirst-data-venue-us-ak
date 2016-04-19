@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.196809,60.562036,-151.196809,60.562036",
+    "geom:latitude":60.562036,
+    "geom:longitude":-151.196809,
+    "iso:country":"US",
+    "sg:address":"212 Linwood Ln",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 4370",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home",
+        "leasing",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Seq03bdGi6t1zRha6D6GZ_60.562036_-151.196809@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2170696d726cc6f3b85638d1e5fd64a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102174785"
+        }
+    ],
+    "wof:id":"102174785",
+    "wof:lastmodified":1449068142,
+    "wof:name":"Wilson Motorhome Rentals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.196809,60.562036,-151.196809,60.562036],
+  "geometry": {"coordinates":[-151.196809,60.562036],"type":"Point"}
+}

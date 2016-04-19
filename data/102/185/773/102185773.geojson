@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.861985,61.188133,-149.861985,61.188133",
+    "geom:latitude":61.188133,
+    "geom:longitude":-149.861985,
+    "iso:country":"US",
+    "sg:address":"949 E 36th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 762 1774",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sQeunigoUB1o4qZjssJiU_61.188133_-149.861985@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"25dfdd169d011d64e594d06d6721d289",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102185773"
+        }
+    ],
+    "wof:id":"102185773",
+    "wof:lastmodified":1449068195,
+    "wof:name":"Document Services",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.861985,61.188133,-149.861985,61.188133],
+  "geometry": {"coordinates":[-149.861985,61.188133],"type":"Point"}
+}

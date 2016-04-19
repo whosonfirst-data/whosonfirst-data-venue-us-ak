@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.724947,55.410886,-131.724947,55.410886",
+    "geom:latitude":55.410886,
+    "geom:longitude":-131.724947,
+    "iso:country":"US",
+    "sg:address":"7857 N Tongass Hwy",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 4313",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "petroleum",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nogEEHDwJWvXYlvC62Xct_55.410886_-131.724947@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8f90fd48d0094a8a6fcb716028328097",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "region_id":85688573,
+            "venue_id":"102178425"
+        }
+    ],
+    "wof:id":"102178425",
+    "wof:lastmodified":1449069531,
+    "wof:name":"Arrowhead LP Gas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.724947,55.410886,-131.724947,55.410886],
+  "geometry": {"coordinates":[-131.724947,55.410886],"type":"Point"}
+}

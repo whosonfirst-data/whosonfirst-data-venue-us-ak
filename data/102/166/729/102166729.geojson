@@ -1,0 +1,72 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.841737,61.217619,-149.841737,61.217619",
+    "geom:latitude":61.217619,
+    "geom:longitude":-149.841737,
+    "iso:country":"US",
+    "sg:address":"2005 E 5th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 222 3456",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "programming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573,
+        85873717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mxy63BztjK5tUWgPSuxMw_61.217619_-149.841737@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"14d91987800d46bc35c0f58f52e17449",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102166729"
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102166729"
+        }
+    ],
+    "wof:id":"102166729",
+    "wof:lastmodified":1449069085,
+    "wof:name":"Slamon Joes Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.841737,61.217619,-149.841737,61.217619],
+  "geometry": {"coordinates":[-149.841737,61.217619],"type":"Point"}
+}

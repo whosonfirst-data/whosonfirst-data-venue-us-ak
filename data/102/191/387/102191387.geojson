@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.796833,61.216847,-149.796833,61.216847",
+    "geom:latitude":61.216847,
+    "geom:longitude":-149.796833,
+    "iso:country":"US",
+    "sg:address":"4312 E 6th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 9376",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KU9DaRzFYqgKGJKw0hNca_61.216847_-149.796833@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9f7a11948ab2f7a6b991128cd36cab56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102191387"
+        }
+    ],
+    "wof:id":"102191387",
+    "wof:lastmodified":1449069203,
+    "wof:name":"Little Angel Production & Dnc",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.796833,61.216847,-149.796833,61.216847],
+  "geometry": {"coordinates":[-149.796833,61.216847],"type":"Point"}
+}

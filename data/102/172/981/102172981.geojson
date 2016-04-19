@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.40807,58.301142,-134.40807,58.301142",
+    "geom:latitude":58.301142,
+    "geom:longitude":-134.40807,
+    "iso:country":"US",
+    "sg:address":"201 Seward St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 3223",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wlC2SbvMocgAULISEcXcf_58.301142_-134.408070@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d5f7f76ba373fe513591032f7c6005c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102172981"
+        }
+    ],
+    "wof:id":"102172981",
+    "wof:lastmodified":1449068738,
+    "wof:name":"Bead Gallery",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.40807,58.301142,-134.40807,58.301142],
+  "geometry": {"coordinates":[-134.40807,58.301142],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.496514,58.355656,-134.496514,58.355656",
+    "geom:latitude":58.355656,
+    "geom:longitude":-134.496514,
+    "iso:country":"US",
+    "sg:address":"5641 Glacier Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 780 4221",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "crane"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31G1OJ0Xk0BoR9QzP9B99s_58.355656_-134.496514@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eb2d2ee4d0ed23ed0a3e3833f6db0986",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102169311"
+        }
+    ],
+    "wof:id":"102169311",
+    "wof:lastmodified":1449069247,
+    "wof:name":"Porta Shop Crane Svc",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.496514,58.355656,-134.496514,58.355656],
+  "geometry": {"coordinates":[-134.496514,58.355656],"type":"Point"}
+}

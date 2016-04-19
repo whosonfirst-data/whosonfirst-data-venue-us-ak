@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.783542,61.110011,-149.783542,61.110011",
+    "geom:latitude":61.110011,
+    "geom:longitude":-149.783542,
+    "iso:country":"US",
+    "sg:address":"5221 E 131st Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 8936",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KRSHro5PzZNevS1EPWSxQ_61.110011_-149.783542@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a647cfb9ea84215aa9060cf9687b4320",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102176293"
+        }
+    ],
+    "wof:id":"102176293",
+    "wof:lastmodified":1449069346,
+    "wof:name":"Need Electrical Contractors",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.783542,61.110011,-149.783542,61.110011],
+  "geometry": {"coordinates":[-149.783542,61.110011],"type":"Point"}
+}

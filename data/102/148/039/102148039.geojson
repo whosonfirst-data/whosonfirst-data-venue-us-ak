@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.867956,61.193519,-149.867956,61.193519",
+    "geom:latitude":61.193519,
+    "geom:longitude":-149.867956,
+    "iso:country":"US",
+    "sg:address":"2811 Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 6025",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zI2qV2rNvXxNk8DZhcOlG_61.193519_-149.867956@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"09f943253e8550aba5a08c8d01b6c7d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102148039"
+        }
+    ],
+    "wof:id":"102148039",
+    "wof:lastmodified":1449069786,
+    "wof:name":"Garretts Tesoro",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.867956,61.193519,-149.867956,61.193519],
+  "geometry": {"coordinates":[-149.867956,61.193519],"type":"Point"}
+}

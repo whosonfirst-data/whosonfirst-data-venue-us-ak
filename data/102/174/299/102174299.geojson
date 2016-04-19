@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.836305,61.158949,-149.836305,61.158949",
+    "geom:latitude":61.158949,
+    "geom:longitude":-149.836305,
+    "iso:country":"US",
+    "sg:address":"6829 Obrien St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 8771",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03tXJQMZneXpkTkRnPsiWf_61.158949_-149.836305@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"783af24e24ddc30f3d836a3c6ac4fce8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102174299"
+        }
+    ],
+    "wof:id":"102174299",
+    "wof:lastmodified":1449068138,
+    "wof:name":"Sal's Professional Auto Body",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.836305,61.158949,-149.836305,61.158949],
+  "geometry": {"coordinates":[-149.836305,61.158949],"type":"Point"}
+}

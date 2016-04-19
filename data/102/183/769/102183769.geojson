@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.266431,60.552609,-151.266431,60.552609",
+    "geom:latitude":60.552609,
+    "geom:longitude":-151.266431,
+    "iso:country":"US",
+    "sg:address":"1000 Mission Ave",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 4515",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6S9SzJ1zKUQRaRyirnUN2n_60.552609_-151.266431@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e37425e9669793fe7768da6530661178",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102183769"
+        }
+    ],
+    "wof:id":"102183769",
+    "wof:lastmodified":1449069041,
+    "wof:name":"Old Town Village Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.266431,60.552609,-151.266431,60.552609],
+  "geometry": {"coordinates":[-151.266431,60.552609],"type":"Point"}
+}

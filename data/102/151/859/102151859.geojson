@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.804588,61.222639,-149.804588,61.222639",
+    "geom:latitude":61.222639,
+    "geom:longitude":-149.804588,
+    "iso:country":"US",
+    "sg:address":"119 S Klevin St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 5441",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7enAsSSChSt8ejwFY0BFOz_61.222639_-149.804588@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"602b34546aa6cd4248e69d8af5b34524",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102151859"
+        }
+    ],
+    "wof:id":"102151859",
+    "wof:lastmodified":1449067782,
+    "wof:name":"Brown Jug Famous Liquor Stores",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.804588,61.222639,-149.804588,61.222639],
+  "geometry": {"coordinates":[-149.804588,61.222639],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.847503,61.168404,-149.847503,61.168404",
+    "geom:latitude":61.168404,
+    "geom:longitude":-149.847503,
+    "iso:country":"US",
+    "sg:address":"1890 E 58th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 0722",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "process",
+        "control",
+        "mfg",
+        "instrument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31ZsAavK1jCATtF8qD93eJ_61.168404_-149.847503@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5a8dc40b342b330454087408ae29bf51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102178169"
+        }
+    ],
+    "wof:id":"102178169",
+    "wof:lastmodified":1449069530,
+    "wof:name":"Digital Command Control",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.847503,61.168404,-149.847503,61.168404],
+  "geometry": {"coordinates":[-149.847503,61.168404],"type":"Point"}
+}

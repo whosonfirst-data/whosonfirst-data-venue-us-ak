@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.735617,61.214156,-149.735617,61.214156",
+    "geom:latitude":61.214156,
+    "geom:longitude":-149.735617,
+    "iso:country":"US",
+    "sg:address":"7654 Old Harbor Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 5072",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41oTFaCFHPpLVlHJOYQRL6_61.214156_-149.735617@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"41c894f32b6616f00f8bcd919a049fe7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102187271"
+        }
+    ],
+    "wof:id":"102187271",
+    "wof:lastmodified":1449068158,
+    "wof:name":"Chugach Sewer & Drain",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.735617,61.214156,-149.735617,61.214156],
+  "geometry": {"coordinates":[-149.735617,61.214156],"type":"Point"}
+}

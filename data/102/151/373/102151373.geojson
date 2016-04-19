@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.927362,61.146721,-149.927362,61.146721",
+    "geom:latitude":61.146721,
+    "geom:longitude":-149.927362,
+    "iso:country":"US",
+    "sg:address":"8225 Kronos Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 245 3526",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "balloon",
+        "artist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SGP7fw62mcZ0NMvGBIiIG_61.146721_-149.927362@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a0c5270b799649e802fd974c71e470a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102151373"
+        }
+    ],
+    "wof:id":"102151373",
+    "wof:lastmodified":1449067782,
+    "wof:name":"Balloons Away",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.927362,61.146721,-149.927362,61.146721],
+  "geometry": {"coordinates":[-149.927362,61.146721],"type":"Point"}
+}

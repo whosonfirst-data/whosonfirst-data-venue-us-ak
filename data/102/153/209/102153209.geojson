@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.583914,58.365262,-134.583914,58.365262",
+    "geom:latitude":58.365262,
+    "geom:longitude":-134.583914,
+    "iso:country":"US",
+    "sg:address":"2331 Ka-See-An Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 9698",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wK9LVEFyJyoztsmeilJQA_58.365262_-134.583914@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e0c58b7b5026fddad7de413e3bcfa4de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102153209"
+        }
+    ],
+    "wof:id":"102153209",
+    "wof:lastmodified":1449069462,
+    "wof:name":"Pak's Professional Cleaning",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.583914,58.365262,-134.583914,58.365262],
+  "geometry": {"coordinates":[-134.583914,58.365262],"type":"Point"}
+}

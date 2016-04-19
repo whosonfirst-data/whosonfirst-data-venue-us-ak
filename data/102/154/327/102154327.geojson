@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.715019,64.843808,-147.715019,64.843808",
+    "geom:latitude":64.843808,
+    "geom:longitude":-147.715019,
+    "iso:country":"US",
+    "sg:address":"320 2nd Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 4989",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iP9I0pVHHWPWnYDhztxv4_64.843808_-147.715019@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b8d4a9798945c6694aa6bfe22417f40e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102154327"
+        }
+    ],
+    "wof:id":"102154327",
+    "wof:lastmodified":1449070242,
+    "wof:name":"Fairbanks Native Assn Inc",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.715019,64.843808,-147.715019,64.843808],
+  "geometry": {"coordinates":[-147.715019,64.843808],"type":"Point"}
+}

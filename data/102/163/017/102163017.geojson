@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.637973,55.346072,-131.637973,55.346072",
+    "geom:latitude":55.346072,
+    "geom:longitude":-131.637973,
+    "iso:country":"US",
+    "sg:address":"1001 Schoenbar Rd",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 7499",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KhJZYRZ61EiJFPBiS67Rk_55.346072_-131.637973@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"99218dff88db77c825f8fe89ecb4afae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102163017"
+        }
+    ],
+    "wof:id":"102163017",
+    "wof:lastmodified":1449070165,
+    "wof:name":"Head Start Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.637973,55.346072,-131.637973,55.346072],
+  "geometry": {"coordinates":[-131.637973,55.346072],"type":"Point"}
+}

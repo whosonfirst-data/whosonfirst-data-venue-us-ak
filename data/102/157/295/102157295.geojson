@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.778301,61.198923,-149.778301,61.198923",
+    "geom:latitude":61.198923,
+    "geom:longitude":-149.778301,
+    "iso:country":"US",
+    "sg:address":"2205 Boniface Pkwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 5096",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806647,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e0e0EXdre0t5TX6OIoIMP_61.198923_-149.778301@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1752f02cc287eff92117dfc8edbd83a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85806647,
+            "region_id":85688573,
+            "venue_id":"102157295"
+        }
+    ],
+    "wof:id":"102157295",
+    "wof:lastmodified":1449069832,
+    "wof:name":"Alaska Trailer Movers",
+    "wof:parent_id":85806647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.778301,61.198923,-149.778301,61.198923],
+  "geometry": {"coordinates":[-149.778301,61.198923],"type":"Point"}
+}

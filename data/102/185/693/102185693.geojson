@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.82375,61.082208,-149.82375,61.082208",
+    "geom:latitude":61.082208,
+    "geom:longitude":-149.82375,
+    "iso:country":"US",
+    "sg:address":"15300 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 0623",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "training",
+        "dog"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873755,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20bn7L3NWbQjCvKT6m3IuJ_61.082208_-149.823750@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0e1acc1910ab57d9057e1e99f150917e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873755,
+            "region_id":85688573,
+            "venue_id":"102185693"
+        }
+    ],
+    "wof:id":"102185693",
+    "wof:lastmodified":1449068194,
+    "wof:name":"K-9 Training Svc",
+    "wof:parent_id":85873755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.82375,61.082208,-149.82375,61.082208],
+  "geometry": {"coordinates":[-149.82375,61.082208],"type":"Point"}
+}

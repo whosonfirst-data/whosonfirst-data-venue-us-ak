@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.585545,59.647622,-151.585545,59.647622",
+    "geom:latitude":59.647622,
+    "geom:longitude":-151.585545,
+    "iso:country":"US",
+    "sg:address":"1691 Hillside Pl",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 4142",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59fK8yM1oSfeKkslgQoVKv_59.647622_-151.585545@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f1bf6f07308f905bcdd1ab1c73f43ac9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102182687"
+        }
+    ],
+    "wof:id":"102182687",
+    "wof:lastmodified":1449069280,
+    "wof:name":"Yankee Woodworks",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.585545,59.647622,-151.585545,59.647622],
+  "geometry": {"coordinates":[-151.585545,59.647622],"type":"Point"}
+}

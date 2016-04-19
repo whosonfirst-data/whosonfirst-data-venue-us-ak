@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.5708,61.315051,-149.5708,61.315051",
+    "geom:latitude":61.315051,
+    "geom:longitude":-149.5708,
+    "iso:country":"US",
+    "sg:address":"16641 Eagle River Rd",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 694 2715",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gKJwoouQkqpibJrJIRxDV_61.315051_-149.570800@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"262e3c393cc956a00879669945a7b39f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102163417"
+        }
+    ],
+    "wof:id":"102163417",
+    "wof:lastmodified":1449070161,
+    "wof:name":"Anchorage Police Dept Sub Div",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.5708,61.315051,-149.5708,61.315051],
+  "geometry": {"coordinates":[-149.5708,61.315051],"type":"Point"}
+}

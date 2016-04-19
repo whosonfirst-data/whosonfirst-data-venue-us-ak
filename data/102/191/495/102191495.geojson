@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.905513,61.196532,-149.905513,61.196532",
+    "geom:latitude":61.196532,
+    "geom:longitude":-149.905513,
+    "iso:country":"US",
+    "sg:address":"2636 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 9191",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N5lKMKzUMSE2mUg18TVEZ_61.196532_-149.905513@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"42099d2fae12361d6e196fa44e9aa41d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102191495"
+        }
+    ],
+    "wof:id":"102191495",
+    "wof:lastmodified":1449069201,
+    "wof:name":"Illusions Food Co",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.905513,61.196532,-149.905513,61.196532],
+  "geometry": {"coordinates":[-149.905513,61.196532],"type":"Point"}
+}

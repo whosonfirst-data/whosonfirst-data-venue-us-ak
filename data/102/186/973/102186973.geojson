@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.693708,64.845719,-147.693708,64.845719",
+    "geom:latitude":64.845719,
+    "geom:longitude":-147.693708,
+    "iso:country":"US",
+    "sg:address":"398 Hamilton Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 7529",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cPjH93TnFhNBuCeGPjHML_64.845719_-147.693708@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f6b6eb9d9aff5958fe4cff41275db4a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102186973"
+        }
+    ],
+    "wof:id":"102186973",
+    "wof:lastmodified":1449069654,
+    "wof:name":"Play N Learn",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.693708,64.845719,-147.693708,64.845719],
+  "geometry": {"coordinates":[-147.693708,64.845719],"type":"Point"}
+}

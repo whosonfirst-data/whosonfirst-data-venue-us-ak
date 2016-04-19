@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.841699,61.217544,-149.841699,61.217544",
+    "geom:latitude":61.217544,
+    "geom:longitude":-149.841699,
+    "iso:country":"US",
+    "sg:address":"2001 E 5th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 3336",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yKb7vxPsbil9yMvlYSZcL_61.217544_-149.841699@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"17bb5ed495b1fff523b9ddf06b0b1684",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102178487"
+        }
+    ],
+    "wof:id":"102178487",
+    "wof:lastmodified":1449069530,
+    "wof:name":"Vito's Auto Sales",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.841699,61.217544,-149.841699,61.217544],
+  "geometry": {"coordinates":[-149.841699,61.217544],"type":"Point"}
+}

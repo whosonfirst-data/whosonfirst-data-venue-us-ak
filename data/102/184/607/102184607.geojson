@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.859229,61.159237,-149.859229,61.159237",
+    "geom:latitude":61.159237,
+    "geom:longitude":-149.859229,
+    "iso:country":"US",
+    "sg:address":"1150 E 68th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 5427",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "scaffolding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16XTB982KwRcC0jHyLVy6v_61.159237_-149.859229@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c819cca963d1c44441cf313328fb73f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102184607"
+        }
+    ],
+    "wof:id":"102184607",
+    "wof:lastmodified":1449068216,
+    "wof:name":"R & R Scaffold Erectors Inc",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.859229,61.159237,-149.859229,61.159237],
+  "geometry": {"coordinates":[-149.859229,61.159237],"type":"Point"}
+}

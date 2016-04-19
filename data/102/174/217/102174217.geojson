@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-161.772938,60.791906,-161.772938,60.791906",
+    "geom:latitude":60.791906,
+    "geom:longitude":-161.772938,
+    "iso:country":"US",
+    "sg:address":"324 Radio St",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 543 6128",
+    "sg:postcode":"99559",
+    "sg:province":"AK",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915901,
+        85633793,
+        85688573,
+        102085877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PyMZObtZxhLNTHeJBRTm4_60.791906_-161.772938@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ecef74428a5e5527d98b23f1486c3ada",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085877,
+            "locality_id":85915901,
+            "region_id":85688573,
+            "venue_id":"102174217"
+        }
+    ],
+    "wof:id":"102174217",
+    "wof:lastmodified":1449068141,
+    "wof:name":"Regional Substance Abuse Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-161.772938,60.791906,-161.772938,60.791906],
+  "geometry": {"coordinates":[-161.772938,60.791906],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.646257,59.682881,-151.646257,59.682881",
+    "geom:latitude":59.682881,
+    "geom:longitude":-151.646257,
+    "iso:country":"US",
+    "sg:address":"66615 Diamond Ridge Rd",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 6861",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916995,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ahD1hrWn8VDcAIjxqBiHx_59.682881_-151.646257@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"11ba191ff0d650d66a374f8326cd540c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916995,
+            "region_id":85688573,
+            "venue_id":"102189277"
+        }
+    ],
+    "wof:id":"102189277",
+    "wof:lastmodified":1449069496,
+    "wof:name":"Homer Funeral Home",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.646257,59.682881,-151.646257,59.682881],
+  "geometry": {"coordinates":[-151.646257,59.682881],"type":"Point"}
+}

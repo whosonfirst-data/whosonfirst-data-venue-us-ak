@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.885278,61.1448,-149.885278,61.1448",
+    "geom:latitude":61.1448,
+    "geom:longitude":-149.885278,
+    "iso:country":"US",
+    "sg:address":"305 W Dimond Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 1987",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "video",
+        "disc",
+        "tape",
+        "cassette"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q9EPXu9BlAcIIYnayKKDj_61.144800_-149.885278@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8616cade8cb8a3990f7e00d1a18b6424",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102188723"
+        }
+    ],
+    "wof:id":"102188723",
+    "wof:lastmodified":1449068946,
+    "wof:name":"LA Shoppe",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.885278,61.1448,-149.885278,61.1448],
+  "geometry": {"coordinates":[-149.885278,61.1448],"type":"Point"}
+}

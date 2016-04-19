@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.51049,64.834774,-147.51049,64.834774",
+    "geom:latitude":64.834774,
+    "geom:longitude":-147.51049,
+    "iso:country":"US",
+    "sg:address":"1316 Old Badger Rd",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 6281",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916555,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cznZiJMPfngKhCVwDtltD_64.834774_-147.510490@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"73b3e1d16d7ba731ed6a412db8f98a5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916555,
+            "region_id":85688573,
+            "venue_id":"102191641"
+        }
+    ],
+    "wof:id":"102191641",
+    "wof:lastmodified":1449069203,
+    "wof:name":"Riverview Quick Stop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.51049,64.834774,-147.51049,64.834774],
+  "geometry": {"coordinates":[-147.51049,64.834774],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.866064,61.113918,-149.866064,61.113918",
+    "geom:latitude":61.113918,
+    "geom:longitude":-149.866064,
+    "iso:country":"US",
+    "sg:address":"11811 Gambell St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 1679",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "water",
+        "bulk",
+        "company"
+    ],
+    "sg:website":"www.alaskasbestwater.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873755,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nHIniPz6dfqqIF9IJ8DsE_61.113918_-149.866064@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e74bd61fe06b1e945bd6e61e07c4c5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873755,
+            "region_id":85688573,
+            "venue_id":"102174853"
+        }
+    ],
+    "wof:id":"102174853",
+    "wof:lastmodified":1449068138,
+    "wof:name":"Alaska's Best Water Products",
+    "wof:parent_id":85873755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.866064,61.113918,-149.866064,61.113918],
+  "geometry": {"coordinates":[-149.866064,61.113918],"type":"Point"}
+}

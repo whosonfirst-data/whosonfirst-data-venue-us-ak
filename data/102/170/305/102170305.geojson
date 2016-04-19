@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.544279,59.649255,-151.544279,59.649255",
+    "geom:latitude":59.649255,
+    "geom:longitude":-151.544279,
+    "iso:country":"US",
+    "sg:address":"4047 Main St",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 5639",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eQvICMx5DZnrnDq43uXIh_59.649255_-151.544279@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"00401a19b8ebebedeb6d953e8df0fa5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102170305"
+        }
+    ],
+    "wof:id":"102170305",
+    "wof:lastmodified":1449068018,
+    "wof:name":"Harbor Ridge Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.544279,59.649255,-151.544279,59.649255],
+  "geometry": {"coordinates":[-151.544279,59.649255],"type":"Point"}
+}

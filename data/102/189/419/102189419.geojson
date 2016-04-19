@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.849636,61.213686,-149.849636,61.213686",
+    "geom:latitude":61.213686,
+    "geom:longitude":-149.849636,
+    "iso:country":"US",
+    "sg:address":"1841 Merrill Field Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 7001",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XGyClFmsBuewvU3ussSNx_61.213686_-149.849636@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f68a6ef99a2b9d1a6791d061a69d311f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102189419"
+        }
+    ],
+    "wof:id":"102189419",
+    "wof:lastmodified":1449069498,
+    "wof:name":"Hayden Aero",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.849636,61.213686,-149.849636,61.213686],
+  "geometry": {"coordinates":[-149.849636,61.213686],"type":"Point"}
+}

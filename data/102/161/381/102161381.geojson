@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.562122,61.577788,-149.562122,61.577788",
+    "geom:latitude":61.577788,
+    "geom:longitude":-149.562122,
+    "iso:country":"US",
+    "sg:address":"1011 S Bettina Way",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 357 3687",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916215,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JPyUJVWbKvahqnvPuId3X_61.577788_-149.562122@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f9b46902369fea184664834fdaf4455a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916215,
+            "region_id":85688573,
+            "venue_id":"102161381"
+        }
+    ],
+    "wof:id":"102161381",
+    "wof:lastmodified":1449068707,
+    "wof:name":"Alaska On & Off Road Specs",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.562122,61.577788,-149.562122,61.577788],
+  "geometry": {"coordinates":[-149.562122,61.577788],"type":"Point"}
+}

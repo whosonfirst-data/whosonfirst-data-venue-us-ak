@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.441406,61.583028,-149.441406,61.583028",
+    "geom:latitude":61.583028,
+    "geom:longitude":-149.441406,
+    "iso:country":"US",
+    "sg:address":"391 Main St",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 5913",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lqs4P5P6kmC4h3yAN8AnS_61.583028_-149.441406@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c2a71109c7d6939d782c1b076d1cf175",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102171611"
+        }
+    ],
+    "wof:id":"102171611",
+    "wof:lastmodified":1449070223,
+    "wof:name":"Wasilla Public Library",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.441406,61.583028,-149.441406,61.583028],
+  "geometry": {"coordinates":[-149.441406,61.583028],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.907021,61.199867,-149.907021,61.199867",
+    "geom:latitude":61.199867,
+    "geom:longitude":-149.907021,
+    "iso:country":"US",
+    "sg:address":"2220 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 5232",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engine",
+        "equipment",
+        "electrical",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3weawmwEIHnKrrvtpvh29b_61.199867_-149.907021@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ba22a9d274b3b10b9732475c3f055d2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102176421"
+        }
+    ],
+    "wof:id":"102176421",
+    "wof:lastmodified":1449069348,
+    "wof:name":"Stewart and Stevenson",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.907021,61.199867,-149.907021,61.199867],
+  "geometry": {"coordinates":[-149.907021,61.199867],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.083208,60.541183,-151.083208,60.541183",
+    "geom:latitude":60.541183,
+    "geom:longitude":-151.083208,
+    "iso:country":"US",
+    "sg:address":"5125 Silver Salmon Dr",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 252 6733",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZSjT7fObkIwyi5Sc2gioa_60.541183_-151.083208@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0368c8ab891f487c925b63879b47702e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102176641"
+        }
+    ],
+    "wof:id":"102176641",
+    "wof:lastmodified":1449069348,
+    "wof:name":"Pinnacle Painting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.083208,60.541183,-151.083208,60.541183],
+  "geometry": {"coordinates":[-151.083208,60.541183],"type":"Point"}
+}

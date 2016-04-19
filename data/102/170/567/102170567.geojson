@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.955552,61.199905,-149.955552,61.199905",
+    "geom:latitude":61.199905,
+    "geom:longitude":-149.955552,
+    "iso:country":"US",
+    "sg:address":"2221 Sonstrom Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 223 3994",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852831,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53EvcRz077Wv0DZSKgOLBt_61.199905_-149.955552@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9d790130fbc7e051794d470d7a5a99d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":"102170567"
+        }
+    ],
+    "wof:id":"102170567",
+    "wof:lastmodified":1449068020,
+    "wof:name":"Raj Bhargava",
+    "wof:parent_id":85852831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.955552,61.199905,-149.955552,61.199905],
+  "geometry": {"coordinates":[-149.955552,61.199905],"type":"Point"}
+}

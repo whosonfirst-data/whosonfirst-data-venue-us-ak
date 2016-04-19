@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.380514,57.824743,-152.380514,57.824743",
+    "geom:latitude":57.824743,
+    "geom:longitude":-152.380514,
+    "iso:country":"US",
+    "sg:address":"3153 Bay View Dr",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 5536",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tackle",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ue9D5uYuxyZ84sIoNIzmc_57.824743_-152.380514@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"117f5651f22cb108481f3dcdee8d4928",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "region_id":85688573,
+            "venue_id":"102154807"
+        }
+    ],
+    "wof:id":"102154807",
+    "wof:lastmodified":1449070243,
+    "wof:name":"Alaska Fishing Machines",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.380514,57.824743,-152.380514,57.824743],
+  "geometry": {"coordinates":[-152.380514,57.824743],"type":"Point"}
+}

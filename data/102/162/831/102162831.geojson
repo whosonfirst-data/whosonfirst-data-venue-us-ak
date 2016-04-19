@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.42058,61.594313,-149.42058,61.594313",
+    "geom:latitude":61.594313,
+    "geom:longitude":-149.42058,
+    "iso:country":"US",
+    "sg:address":"1290 N Peck St",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 6007",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aHvfY418MLkDAPqasDBAZ_61.594313_-149.420580@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1d2de9d688f256a9f21a2118e8770ff7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102162831"
+        }
+    ],
+    "wof:id":"102162831",
+    "wof:lastmodified":1449069821,
+    "wof:name":"Yukon Telephone Co Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.42058,61.594313,-149.42058,61.594313],
+  "geometry": {"coordinates":[-149.42058,61.594313],"type":"Point"}
+}

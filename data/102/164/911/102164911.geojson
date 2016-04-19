@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.834212,61.141202,-149.834212,61.141202",
+    "geom:latitude":61.141202,
+    "geom:longitude":-149.834212,
+    "iso:country":"US",
+    "sg:address":"8710 Lake Otis Pkwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 2943",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ea6zL3G4AkBlyJwfbVUT5_61.141202_-149.834212@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0525f3e79468f8e8c8c877160ccf51e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102164911"
+        }
+    ],
+    "wof:id":"102164911",
+    "wof:lastmodified":1449068090,
+    "wof:name":"Lake Otis Car Wash",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.834212,61.141202,-149.834212,61.141202],
+  "geometry": {"coordinates":[-149.834212,61.141202],"type":"Point"}
+}

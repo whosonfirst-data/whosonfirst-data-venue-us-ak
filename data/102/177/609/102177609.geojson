@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.525832,61.314302,-149.525832,61.314302",
+    "geom:latitude":61.314302,
+    "geom:longitude":-149.525832,
+    "iso:country":"US",
+    "sg:address":"19032 Citation Rd",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 694 4522",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "archery",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NWTXfA5sNMNUBcUnGbUWm_61.314302_-149.525832@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"99ded2cbdeb4695d5b6f50c32189e3bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102177609"
+        }
+    ],
+    "wof:id":"102177609",
+    "wof:lastmodified":1449070208,
+    "wof:name":"Full Draw Archery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.525832,61.314302,-149.525832,61.314302],
+  "geometry": {"coordinates":[-149.525832,61.314302],"type":"Point"}
+}

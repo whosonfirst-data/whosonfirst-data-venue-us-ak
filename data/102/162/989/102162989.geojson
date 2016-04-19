@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.244548,60.555578,-151.244548,60.555578",
+    "geom:latitude":60.555578,
+    "geom:longitude":-151.244548,
+    "iso:country":"US",
+    "sg:address":"47 Spr View Dr",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 3660",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:website":"www.uptownmotel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aea5am4t46oPAxDCYdfDw_60.555578_-151.244548@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c3593fcc6d5210bb970d79c0af6c7996",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102162989"
+        }
+    ],
+    "wof:id":"102162989",
+    "wof:lastmodified":1449069823,
+    "wof:name":"Uptown Motel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.244548,60.555578,-151.244548,60.555578],
+  "geometry": {"coordinates":[-151.244548,60.555578],"type":"Point"}
+}

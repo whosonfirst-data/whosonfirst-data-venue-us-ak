@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.788256,64.860827,-147.788256,64.860827",
+    "geom:latitude":64.860827,
+    "geom:longitude":-147.788256,
+    "iso:country":"US",
+    "sg:address":"3175 College Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 7274",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869043,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3x9CdsoPHWiRquyMy8ASfl_64.860827_-147.788256@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1aaaf8d9e838ff7530fa1505e079c364",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85869043,
+            "region_id":85688573,
+            "venue_id":"102177509"
+        }
+    ],
+    "wof:id":"102177509",
+    "wof:lastmodified":1449070204,
+    "wof:name":"Alaska Salmon Bake",
+    "wof:parent_id":85869043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.788256,64.860827,-147.788256,64.860827],
+  "geometry": {"coordinates":[-147.788256,64.860827],"type":"Point"}
+}

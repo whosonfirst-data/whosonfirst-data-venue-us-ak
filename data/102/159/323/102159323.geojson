@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.596331,58.372571,-134.596331,58.372571",
+    "geom:latitude":58.372571,
+    "geom:longitude":-134.596331,
+    "iso:country":"US",
+    "sg:address":"3005 Clinton Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 790 4916",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tkUf1XH5t76O7077pb0cE_58.372571_-134.596331@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"77222022eacf80a831eb404923436734",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102159323"
+        }
+    ],
+    "wof:id":"102159323",
+    "wof:lastmodified":1449068092,
+    "wof:name":"Landscape Alaska",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.596331,58.372571,-134.596331,58.372571],
+  "geometry": {"coordinates":[-134.596331,58.372571],"type":"Point"}
+}

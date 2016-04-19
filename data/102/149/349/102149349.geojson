@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.502362,59.64102,-151.502362,59.64102",
+    "geom:latitude":59.64102,
+    "geom:longitude":-151.502362,
+    "iso:country":"US",
+    "sg:address":"1571 Lake Shore Dr",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 3839",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cabin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71zbdDXPIe2bBWnAjv5Lex_59.641020_-151.502362@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1d69b280fb80011c7d11ea96bfd401c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102149349"
+        }
+    ],
+    "wof:id":"102149349",
+    "wof:lastmodified":1449067769,
+    "wof:name":"Dandy Cabins Of Homer",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.502362,59.64102,-151.502362,59.64102],
+  "geometry": {"coordinates":[-151.502362,59.64102],"type":"Point"}
+}

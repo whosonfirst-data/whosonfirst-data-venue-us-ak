@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.461818,58.324692,-134.461818,58.324692",
+    "geom:latitude":58.324692,
+    "geom:longitude":-134.461818,
+    "iso:country":"US",
+    "sg:address":"2601 Channel Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 6095",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "process",
+        "salmon",
+        "caviar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853509,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kp5Ucezf2ygcLBeil25kK_58.324692_-134.461818@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1e84df2fee0d028ee63406538e2b2830",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85853509,
+            "region_id":85688573,
+            "venue_id":"102187671"
+        }
+    ],
+    "wof:id":"102187671",
+    "wof:lastmodified":1449068157,
+    "wof:name":"Norther Keta Caviar",
+    "wof:parent_id":85853509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.461818,58.324692,-134.461818,58.324692],
+  "geometry": {"coordinates":[-134.461818,58.324692],"type":"Point"}
+}

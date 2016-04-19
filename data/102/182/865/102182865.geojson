@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.680716,64.825504,-147.680716,64.825504",
+    "geom:latitude":64.825504,
+    "geom:longitude":-147.680716,
+    "iso:country":"US",
+    "sg:address":"4329 Cedar St",
+    "sg:city":"Fort Wainwright",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 356 1686",
+    "sg:postcode":"99703",
+    "sg:province":"AK",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41NGreUHl0cJRYEAinfGqB_64.825504_-147.680716@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bdfc27b275f2d8ee134cad61930411fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102182865"
+        }
+    ],
+    "wof:id":"102182865",
+    "wof:lastmodified":1449069281,
+    "wof:name":"Josi & Smitty Cleaning Svc",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.680716,64.825504,-147.680716,64.825504],
+  "geometry": {"coordinates":[-147.680716,64.825504],"type":"Point"}
+}

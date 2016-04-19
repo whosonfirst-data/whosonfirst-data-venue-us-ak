@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.167139,60.505158,-151.167139,60.505158",
+    "geom:latitude":60.505158,
+    "geom:longitude":-151.167139,
+    "iso:country":"US",
+    "sg:address":"47707 Judy Lynn Ln",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 9125",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916957,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29cFP2HdREkWCuna0JS68r_60.505158_-151.167139@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3168cbe72aa196230466bbccac612646",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916957,
+            "region_id":85688573,
+            "venue_id":"102168669"
+        }
+    ],
+    "wof:id":"102168669",
+    "wof:lastmodified":1449069007,
+    "wof:name":"Peninsula Dental Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.167139,60.505158,-151.167139,60.505158],
+  "geometry": {"coordinates":[-151.167139,60.505158],"type":"Point"}
+}

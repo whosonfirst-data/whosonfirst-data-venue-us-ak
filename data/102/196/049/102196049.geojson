@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.726707,55.375024,-131.726707,55.375024",
+    "geom:latitude":55.375024,
+    "geom:longitude":-131.726707,
+    "iso:country":"US",
+    "sg:address":"5061 Shoreline Dr",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 2090",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mNQetUUeb3GkeRapJThMp_55.375024_-131.726707@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d62840f735013f3a1581aae3764b6942",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102196049"
+        }
+    ],
+    "wof:id":"102196049",
+    "wof:lastmodified":1449068336,
+    "wof:name":"Boyer Towing Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.726707,55.375024,-131.726707,55.375024],
+  "geometry": {"coordinates":[-131.726707,55.375024],"type":"Point"}
+}

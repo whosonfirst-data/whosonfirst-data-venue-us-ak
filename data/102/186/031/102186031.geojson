@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.480821,61.417066,-149.480821,61.417066",
+    "geom:latitude":61.417066,
+    "geom:longitude":-149.480821,
+    "iso:country":"US",
+    "sg:address":"21439 Torkelson Cir",
+    "sg:city":"Chugiak",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 688 2070",
+    "sg:postcode":"99567",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806187,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hScCEE4WQMgo5FIGUKg69_61.417066_-149.480821@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"656c8695ccaadaacd7e19cc8f4b19726",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85806187,
+            "region_id":85688573,
+            "venue_id":"102186031"
+        }
+    ],
+    "wof:id":"102186031",
+    "wof:lastmodified":1449069653,
+    "wof:name":"DBS Enterprises",
+    "wof:parent_id":85806187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.480821,61.417066,-149.480821,61.417066],
+  "geometry": {"coordinates":[-149.480821,61.417066],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.380101,56.471152,-132.380101,56.471152",
+    "geom:latitude":56.471152,
+    "geom:longitude":-132.380101,
+    "iso:country":"US",
+    "sg:address":"213 Church St",
+    "sg:city":"Wrangell",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 874 3622",
+    "sg:postcode":"99929",
+    "sg:province":"AK",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916111,
+        85633793,
+        85688573,
+        102081901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Puyelp1PB9J7t0Ey6ic4j_56.471152_-132.380101@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e7ff91e275bb7cab48921c6965c83f0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081901,
+            "locality_id":85916111,
+            "region_id":85688573,
+            "venue_id":"102182143"
+        }
+    ],
+    "wof:id":"102182143",
+    "wof:lastmodified":1449069281,
+    "wof:name":"Star Cab",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.380101,56.471152,-132.380101,56.471152],
+  "geometry": {"coordinates":[-132.380101,56.471152],"type":"Point"}
+}

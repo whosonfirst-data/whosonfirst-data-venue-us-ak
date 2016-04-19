@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.884713,61.216653,-149.884713,61.216653",
+    "geom:latitude":61.216653,
+    "geom:longitude":-149.884713,
+    "iso:country":"US",
+    "sg:address":"139 W 6th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 4832",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eSZlqMvBD7iODneVyknxk_61.216653_-149.884713@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f4acf6ca13c963efe5716d172da330c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102182279"
+        }
+    ],
+    "wof:id":"102182279",
+    "wof:lastmodified":1449069279,
+    "wof:name":"Utter Indulgence Tea Room",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.884713,61.216653,-149.884713,61.216653],
+  "geometry": {"coordinates":[-149.884713,61.216653],"type":"Point"}
+}

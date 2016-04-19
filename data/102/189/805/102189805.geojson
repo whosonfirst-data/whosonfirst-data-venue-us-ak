@@ -1,0 +1,73 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.90299,61.184488,-149.90299,61.184488",
+    "geom:latitude":61.184488,
+    "geom:longitude":-149.90299,
+    "iso:country":"US",
+    "sg:address":"3903 Cope St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 6585",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "refinishing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573,
+        85850461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54yYpDHfspqPZ89hGB3pYS_61.184488_-149.902990@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"157ecafe6e63ea36a484b83b4860780c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102189805"
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102189805"
+        }
+    ],
+    "wof:id":"102189805",
+    "wof:lastmodified":1449069496,
+    "wof:name":"Furniture Guild",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.90299,61.184488,-149.90299,61.184488],
+  "geometry": {"coordinates":[-149.90299,61.184488],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.453318,59.675889,-151.453318,59.675889",
+    "geom:latitude":59.675889,
+    "geom:longitude":-151.453318,
+    "iso:country":"US",
+    "sg:address":"59800 Tern Ct",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 6620",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834363,
+        85633793,
+        85915739,
+        102081909,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A4Vhfph4N9jH4BjXZBfLu_59.675889_-151.453318@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"93fe74dd87f5b765436e279993dd85b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "neighbourhood_id":85834363,
+            "region_id":85688573,
+            "venue_id":"102174613"
+        }
+    ],
+    "wof:id":"102174613",
+    "wof:lastmodified":1449068137,
+    "wof:name":"Brigitte's Bavarian B & B",
+    "wof:parent_id":85834363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.453318,59.675889,-151.453318,59.675889],
+  "geometry": {"coordinates":[-151.453318,59.675889],"type":"Point"}
+}

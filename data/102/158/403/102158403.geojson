@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.861946,61.195848,-149.861946,61.195848",
+    "geom:latitude":61.195848,
+    "geom:longitude":-149.861946,
+    "iso:country":"US",
+    "sg:address":"1013 E 28th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 336 3443",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LVmp4VqtusIapp8X91azR_61.195848_-149.861946@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"20b30669932d9432da254b68e85d726d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102158403"
+        }
+    ],
+    "wof:id":"102158403",
+    "wof:lastmodified":1449069396,
+    "wof:name":"Fireweed Manor",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.861946,61.195848,-149.861946,61.195848],
+  "geometry": {"coordinates":[-149.861946,61.195848],"type":"Point"}
+}

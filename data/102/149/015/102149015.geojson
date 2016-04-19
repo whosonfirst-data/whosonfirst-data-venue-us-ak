@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-150.916193,60.511211,-150.916193,60.511211",
+    "geom:latitude":60.511211,
+    "geom:longitude":-150.916193,
+    "iso:country":"US",
+    "sg:address":"36631 S Kimberly Ct",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 260 7774",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916845,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1y4sZcTxcVzrNIN69FVrF8_60.511211_-150.916193@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"63ba3fe533cf7da264cb3e9a75bbe89e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916845,
+            "region_id":85688573,
+            "venue_id":"102149015"
+        }
+    ],
+    "wof:id":"102149015",
+    "wof:lastmodified":1449067768,
+    "wof:name":"Michelle's Grooming Spec",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-150.916193,60.511211,-150.916193,60.511211],
+  "geometry": {"coordinates":[-150.916193,60.511211],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.855298,64.834535,-147.855298,64.834535",
+    "geom:latitude":64.834535,
+    "geom:longitude":-147.855298,
+    "iso:country":"US",
+    "sg:address":"4633 Chena Small Tracts Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 6370",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_704zzmHNad1XtjgKJ7B1wo_64.834535_-147.855298@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5a3c0165a5229f4ff9c7ccda8f1a8790",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102173653"
+        }
+    ],
+    "wof:id":"102173653",
+    "wof:lastmodified":1449068262,
+    "wof:name":"Northern Latitude Assoc",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.855298,64.834535,-147.855298,64.834535],
+  "geometry": {"coordinates":[-147.855298,64.834535],"type":"Point"}
+}

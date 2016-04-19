@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.718103,64.836178,-147.718103,64.836178",
+    "geom:latitude":64.836178,
+    "geom:longitude":-147.718103,
+    "iso:country":"US",
+    "sg:address":"1408 S Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 5274",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60yrrjp96JxO2KiY4bRCaz_64.836178_-147.718103@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f6f95ad50e3a4161839b9a24fa9dd7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102163811"
+        }
+    ],
+    "wof:id":"102163811",
+    "wof:lastmodified":1449070165,
+    "wof:name":"CSI-1 Alaska Catalog Sales",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.718103,64.836178,-147.718103,64.836178],
+  "geometry": {"coordinates":[-147.718103,64.836178],"type":"Point"}
+}

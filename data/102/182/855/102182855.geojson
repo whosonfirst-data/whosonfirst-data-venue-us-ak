@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.406211,59.68923,-151.406211,59.68923",
+    "geom:latitude":59.68923,
+    "geom:longitude":-151.406211,
+    "iso:country":"US",
+    "sg:address":"40520 Waterman Rd",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 8830",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "animal",
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834363,
+        85633793,
+        85915739,
+        102081909,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zEZGUsWVhWVIHgIMPuFDN_59.689230_-151.406211@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6154cd5f12eba1c249020eb13e10fed3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "neighbourhood_id":85834363,
+            "region_id":85688573,
+            "venue_id":"102182855"
+        }
+    ],
+    "wof:id":"102182855",
+    "wof:lastmodified":1449069280,
+    "wof:name":"Willard Farms",
+    "wof:parent_id":85834363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.406211,59.68923,-151.406211,59.68923],
+  "geometry": {"coordinates":[-151.406211,59.68923],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.799101,61.225508,-149.799101,61.225508",
+    "geom:latitude":61.225508,
+    "geom:longitude":-149.799101,
+    "iso:country":"US",
+    "sg:address":"216 N Bunn St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 5637",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835847,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tjj2V1tVzHKSmII4nUT66_61.225508_-149.799101@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bfd6e7ab7749c16144f6a7404efa1bdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":"102196373"
+        }
+    ],
+    "wof:id":"102196373",
+    "wof:lastmodified":1449068337,
+    "wof:name":"Mount View Automotive Repair",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.799101,61.225508,-149.799101,61.225508],
+  "geometry": {"coordinates":[-149.799101,61.225508],"type":"Point"}
+}

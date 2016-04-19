@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.832543,61.164875,-149.832543,61.164875",
+    "geom:latitude":61.164875,
+    "geom:longitude":-149.832543,
+    "iso:country":"US",
+    "sg:address":"6206 Spruce Meadows Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 7825",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "manager",
+        "recruiter",
+        "promoter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LZ3ePMgmKJSk57vsKZOj3_61.164875_-149.832543@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9b53a59c4676ef3f0e7683935e18c3a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102181405"
+        }
+    ],
+    "wof:id":"102181405",
+    "wof:lastmodified":1449069236,
+    "wof:name":"CML Hockey Excellence Clinic",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.832543,61.164875,-149.832543,61.164875],
+  "geometry": {"coordinates":[-149.832543,61.164875],"type":"Point"}
+}

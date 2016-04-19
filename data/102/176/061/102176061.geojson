@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.655006,55.344791,-131.655006,55.344791",
+    "geom:latitude":55.344791,
+    "geom:longitude":-131.655006,
+    "iso:country":"US",
+    "sg:address":"1007 Water St",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 1258",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "kayak"
+    ],
+    "sg:website":"www.kayakketchikan.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0peVFhTRca3BsX5dRm8uBS_55.344791_-131.655006@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a13cafa6123e937b8489249b41690f5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102176061"
+        }
+    ],
+    "wof:id":"102176061",
+    "wof:lastmodified":1449069346,
+    "wof:name":"Southeast Sea Kayaks",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.655006,55.344791,-131.655006,55.344791],
+  "geometry": {"coordinates":[-131.655006,55.344791],"type":"Point"}
+}

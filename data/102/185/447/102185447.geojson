@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.90586,61.216681,-149.90586,61.216681",
+    "geom:latitude":61.216681,
+    "geom:longitude":-149.90586,
+    "iso:country":"US",
+    "sg:address":"510 M St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 2444",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873721,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6muieKftejkct4rX58oMg3_61.216681_-149.905860@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"121c9a33200ed1907e9ff3605b23067a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873721,
+            "region_id":85688573,
+            "venue_id":"102185447"
+        }
+    ],
+    "wof:id":"102185447",
+    "wof:lastmodified":1449068197,
+    "wof:name":"Therapeutic Massage",
+    "wof:parent_id":85873721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.90586,61.216681,-149.90586,61.216681],
+  "geometry": {"coordinates":[-149.90586,61.216681],"type":"Point"}
+}

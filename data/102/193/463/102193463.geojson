@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.673625,55.35031,-131.673625,55.35031",
+    "geom:latitude":55.35031,
+    "geom:longitude":-131.673625,
+    "iso:country":"US",
+    "sg:address":"2409 1st Ave",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 7729",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2b4jf2qAe56KEnz4jIDhhm_55.350310_-131.673625@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cb2d734c12a0799f2e040c4e89387113",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102193463"
+        }
+    ],
+    "wof:id":"102193463",
+    "wof:lastmodified":1449068193,
+    "wof:name":"Good News Fellowship",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.673625,55.35031,-131.673625,55.35031],
+  "geometry": {"coordinates":[-131.673625,55.35031],"type":"Point"}
+}

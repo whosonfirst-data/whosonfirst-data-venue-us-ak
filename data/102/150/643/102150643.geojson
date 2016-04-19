@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.57439,61.326692,-149.57439,61.326692",
+    "geom:latitude":61.326692,
+    "geom:longitude":-149.57439,
+    "iso:country":"US",
+    "sg:address":"11710 Business Blvd",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 694 3800",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fOuY0NwIRFpIp0pfgB7dS_61.326692_-149.574390@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"13633a0270e23c2975e658d813731c75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102150643"
+        }
+    ],
+    "wof:id":"102150643",
+    "wof:lastmodified":1449067793,
+    "wof:name":"Vca Eagle River Animal Hosp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.57439,61.326692,-149.57439,61.326692],
+  "geometry": {"coordinates":[-149.57439,61.326692],"type":"Point"}
+}

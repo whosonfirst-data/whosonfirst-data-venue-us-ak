@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-146.250488,61.123301,-146.250488,61.123301",
+    "geom:latitude":61.123301,
+    "geom:longitude":-146.250488,
+    "iso:country":"US",
+    "sg:address":"100 Sawmill Dr",
+    "sg:city":"Valdez",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 835 3030",
+    "sg:postcode":"99686",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839473,
+        85633793,
+        85915585,
+        102081911,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EHRD8e8NIUDPzTGESkSNv_61.123301_-146.250488@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f34ce845e1b08282bcd2f8c1aef495f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081911,
+            "locality_id":85915585,
+            "neighbourhood_id":85839473,
+            "region_id":85688573,
+            "venue_id":"102188865"
+        }
+    ],
+    "wof:id":"102188865",
+    "wof:lastmodified":1449068947,
+    "wof:name":"S & G Contracting",
+    "wof:parent_id":85839473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-146.250488,61.123301,-146.250488,61.123301],
+  "geometry": {"coordinates":[-146.250488,61.123301],"type":"Point"}
+}

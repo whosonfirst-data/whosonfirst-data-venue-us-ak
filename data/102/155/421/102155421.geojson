@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.578002,58.376827,-134.578002,58.376827",
+    "geom:latitude":58.376827,
+    "geom:longitude":-134.578002,
+    "iso:country":"US",
+    "sg:address":"2865 Mendenhall Loop Rd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 790 2558",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6B6gH9kq2XJozWdZrgvRru_58.376827_-134.578002@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8d1ae1acef776af2b9cf0677b18771b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102155421"
+        }
+    ],
+    "wof:id":"102155421",
+    "wof:lastmodified":1449069744,
+    "wof:name":"B & B Janitorial",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.578002,58.376827,-134.578002,58.376827],
+  "geometry": {"coordinates":[-134.578002,58.376827],"type":"Point"}
+}

@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.642681,55.341835,-131.642681,55.341835",
+    "geom:latitude":55.341835,
+    "geom:longitude":-131.642681,
+    "iso:country":"US",
+    "sg:address":"619 Mission St",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 3337",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50XGOpgnoy2zYSU8ZSJDsj_55.341835_-131.642681@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bd20a5aac41f0ff01be562a3eb562c6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102158813"
+        }
+    ],
+    "wof:id":"102158813",
+    "wof:lastmodified":1449069392,
+    "wof:name":"Pioneer Cafe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.642681,55.341835,-131.642681,55.341835],
+  "geometry": {"coordinates":[-131.642681,55.341835],"type":"Point"}
+}

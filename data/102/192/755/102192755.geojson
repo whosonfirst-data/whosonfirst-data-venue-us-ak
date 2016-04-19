@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.484514,61.40845,-149.484514,61.40845",
+    "geom:latitude":61.40845,
+    "geom:longitude":-149.484514,
+    "iso:country":"US",
+    "sg:address":"21236 Birchwood Loop Rd",
+    "sg:city":"Chugiak",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 688 9303",
+    "sg:postcode":"99567",
+    "sg:province":"AK",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806187,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16i4gBUXVpO0l06hkUPJke_61.408450_-149.484514@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"81a01026151434de9f5c9fcae27c0cf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85806187,
+            "region_id":85688573,
+            "venue_id":"102192755"
+        }
+    ],
+    "wof:id":"102192755",
+    "wof:lastmodified":1449069503,
+    "wof:name":"Alaska Equine & Small Animal",
+    "wof:parent_id":85806187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.484514,61.40845,-149.484514,61.40845],
+  "geometry": {"coordinates":[-149.484514,61.40845],"type":"Point"}
+}

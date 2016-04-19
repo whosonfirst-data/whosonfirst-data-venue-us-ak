@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.645494,55.34173,-131.645494,55.34173",
+    "geom:latitude":55.34173,
+    "geom:longitude":-131.645494,
+    "iso:country":"US",
+    "sg:address":"423 Mission St",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 3680",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hgxElu9sBa0R1l0v66az2_55.341730_-131.645494@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ad59a438539f055cbf5f7e95e87ceefb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102171769"
+        }
+    ],
+    "wof:id":"102171769",
+    "wof:lastmodified":1449070223,
+    "wof:name":"St John's Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.645494,55.34173,-131.645494,55.34173],
+  "geometry": {"coordinates":[-131.645494,55.34173],"type":"Point"}
+}

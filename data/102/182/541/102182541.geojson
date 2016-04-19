@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.760477,61.191248,-149.760477,61.191248",
+    "geom:latitude":61.191248,
+    "geom:longitude":-149.760477,
+    "iso:country":"US",
+    "sg:address":"3305 Rosella St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 338 3231",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873735,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S3Yjpv9hRRUMjs8Zoogkp_61.191248_-149.760477@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2db7d7d05e331b144c1ea345b8246fed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873735,
+            "region_id":85688573,
+            "venue_id":"102182541"
+        }
+    ],
+    "wof:id":"102182541",
+    "wof:lastmodified":1449069277,
+    "wof:name":"Mc Donald Electric",
+    "wof:parent_id":85873735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.760477,61.191248,-149.760477,61.191248],
+  "geometry": {"coordinates":[-149.760477,61.191248],"type":"Point"}
+}

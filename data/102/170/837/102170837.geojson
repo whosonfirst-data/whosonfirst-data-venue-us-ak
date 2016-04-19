@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.571718,61.329505,-149.571718,61.329505",
+    "geom:latitude":61.329505,
+    "geom:longitude":-149.571718,
+    "iso:country":"US",
+    "sg:address":"12032 Business Blvd",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 694 1110",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nQdXgfdnfrVm8PQhtxeHt_61.329505_-149.571718@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d5b99064b364cebc521522f6c2f41af7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102170837"
+        }
+    ],
+    "wof:id":"102170837",
+    "wof:lastmodified":1449068018,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.571718,61.329505,-149.571718,61.329505],
+  "geometry": {"coordinates":[-149.571718,61.329505],"type":"Point"}
+}

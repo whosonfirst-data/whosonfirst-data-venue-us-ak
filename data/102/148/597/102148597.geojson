@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.738111,64.841517,-147.738111,64.841517",
+    "geom:latitude":64.841517,
+    "geom:longitude":-147.738111,
+    "iso:country":"US",
+    "sg:address":"1006 Smythe St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 7437",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OPCnnMVB6NuRSqZPYLVqZ_64.841517_-147.738111@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1ca6b6c05300c7682ace78c1e4354983",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102148597"
+        }
+    ],
+    "wof:id":"102148597",
+    "wof:lastmodified":1449069787,
+    "wof:name":"Richard Stanton Construction",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.738111,64.841517,-147.738111,64.841517],
+  "geometry": {"coordinates":[-147.738111,64.841517],"type":"Point"}
+}

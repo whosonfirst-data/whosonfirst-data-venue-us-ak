@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.884366,61.183018,-149.884366,61.183018",
+    "geom:latitude":61.183018,
+    "geom:longitude":-149.884366,
+    "iso:country":"US",
+    "sg:address":"4241 B St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 338 8292",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56L1MIKJsykAKe4hty9zUR_61.183018_-149.884366@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f4228997e95b73d2d2a8885a50104966",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102170683"
+        }
+    ],
+    "wof:id":"102170683",
+    "wof:lastmodified":1449068018,
+    "wof:name":"Remax Properties",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.884366,61.183018,-149.884366,61.183018],
+  "geometry": {"coordinates":[-149.884366,61.183018],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.445438,59.234946,-135.445438,59.234946",
+    "geom:latitude":59.234946,
+    "geom:longitude":-135.445438,
+    "iso:country":"US",
+    "sg:address":"204 Main St",
+    "sg:city":"Haines",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 766 2703",
+    "sg:postcode":"99827",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842771,
+        85633793,
+        85916629,
+        102083767,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Q9pAXynzQvDphHr5O27jk_59.234946_-135.445438@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ecdcbe742a618809a00e1d59cedd5681",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083767,
+            "locality_id":85916629,
+            "neighbourhood_id":85842771,
+            "region_id":85688573,
+            "venue_id":"102156319"
+        }
+    ],
+    "wof:id":"102156319",
+    "wof:lastmodified":1449068282,
+    "wof:name":"Chilkoot Gardens",
+    "wof:parent_id":85842771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.445438,59.234946,-135.445438,59.234946],
+  "geometry": {"coordinates":[-135.445438,59.234946],"type":"Point"}
+}

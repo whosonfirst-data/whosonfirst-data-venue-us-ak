@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.741735,61.22229,-149.741735,61.22229",
+    "geom:latitude":61.22229,
+    "geom:longitude":-149.741735,
+    "iso:country":"US",
+    "sg:address":"7520 Peck Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 8733",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DgnlQCGo10Gxl0rUv4fBh_61.222290_-149.741735@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a6ab80bae5006ad953a9d001cd8232fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102161735"
+        }
+    ],
+    "wof:id":"102161735",
+    "wof:lastmodified":1449068713,
+    "wof:name":"Borealis Tree Svc",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.741735,61.22229,-149.741735,61.22229],
+  "geometry": {"coordinates":[-149.741735,61.22229],"type":"Point"}
+}

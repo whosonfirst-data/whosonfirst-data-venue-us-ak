@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.875317,61.144295,-149.875317,61.144295",
+    "geom:latitude":61.144295,
+    "geom:longitude":-149.875317,
+    "iso:country":"US",
+    "sg:address":"8451 Dimond D Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 8171",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "scaffolding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pAWKth0tNVzq5c1pGCGpd_61.144295_-149.875317@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ee064b568ed56cc7bfa5b6a86ac4b85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102164565"
+        }
+    ],
+    "wof:id":"102164565",
+    "wof:lastmodified":1449068091,
+    "wof:name":"Able Scaffold",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.875317,61.144295,-149.875317,61.144295],
+  "geometry": {"coordinates":[-149.875317,61.144295],"type":"Point"}
+}

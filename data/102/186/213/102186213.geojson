@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.808274,61.205613,-149.808274,61.205613",
+    "geom:latitude":61.205613,
+    "geom:longitude":-149.808274,
+    "iso:country":"US",
+    "sg:address":"1731 S Bragaw St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 0078",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RpNkqJExVqAk7Ne2iKhsN_61.205613_-149.808274@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8c65b81286e6ab70ffa438e9efa7e701",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102186213"
+        }
+    ],
+    "wof:id":"102186213",
+    "wof:lastmodified":1449069653,
+    "wof:name":"Alaska Speech & Language Depot",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.808274,61.205613,-149.808274,61.205613],
+  "geometry": {"coordinates":[-149.808274,61.205613],"type":"Point"}
+}

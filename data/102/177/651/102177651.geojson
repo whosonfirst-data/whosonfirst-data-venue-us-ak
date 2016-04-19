@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.906281,61.15256,-149.906281,61.15256",
+    "geom:latitude":61.15256,
+    "geom:longitude":-149.906281,
+    "iso:country":"US",
+    "sg:address":"7520 Wade Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 7127",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4T9pryDxPGBqtDD7ZlSP1m_61.152560_-149.906281@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5cf7b8d39f4e63110e8d5fb6b9560a20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102177651"
+        }
+    ],
+    "wof:id":"102177651",
+    "wof:lastmodified":1449070204,
+    "wof:name":"TMI Builders",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.906281,61.15256,-149.906281,61.15256],
+  "geometry": {"coordinates":[-149.906281,61.15256],"type":"Point"}
+}

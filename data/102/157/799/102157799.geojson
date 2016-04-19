@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.719851,64.849409,-147.719851,64.849409",
+    "geom:latitude":64.849409,
+    "geom:longitude":-147.719851,
+    "iso:country":"US",
+    "sg:address":"315 Illinois St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 459 8100",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "spa",
+        "day"
+    ],
+    "sg:website":"www.hairbodyandsol.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58H1bOkRjI0uLa3pr4dQth_64.849409_-147.719851@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3304ddfe7d91b7b364599647cf6f6df0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102157799"
+        }
+    ],
+    "wof:id":"102157799",
+    "wof:lastmodified":1449069833,
+    "wof:name":"Hair Body & Sol",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.719851,64.849409,-147.719851,64.849409],
+  "geometry": {"coordinates":[-147.719851,64.849409],"type":"Point"}
+}

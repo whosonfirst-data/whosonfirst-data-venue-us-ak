@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.450074,61.408387,-149.450074,61.408387",
+    "geom:latitude":61.408387,
+    "geom:longitude":-149.450074,
+    "iso:country":"US",
+    "sg:address":"20940 Bill Stephens Dr",
+    "sg:city":"Chugiak",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 688 2268",
+    "sg:postcode":"99567",
+    "sg:province":"AK",
+    "sg:tags":[
+        "bars",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869049,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ok5gpa1Z0RAGRHrL08uJp_61.408387_-149.450074@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1edc452ac3479bb0e97ee19895fed415",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869049,
+            "region_id":85688573,
+            "venue_id":"102188505"
+        }
+    ],
+    "wof:id":"102188505",
+    "wof:lastmodified":1449068947,
+    "wof:name":"Golden Bean",
+    "wof:parent_id":85869049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.450074,61.408387,-149.450074,61.408387],
+  "geometry": {"coordinates":[-149.450074,61.408387],"type":"Point"}
+}

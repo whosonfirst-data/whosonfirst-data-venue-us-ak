@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.574682,58.385299,-134.574682,58.385299",
+    "geom:latitude":58.385299,
+    "geom:longitude":-134.574682,
+    "iso:country":"US",
+    "sg:address":"8759 Dudley St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 2388",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fOkPh95oVO0s1wViLcB36_58.385299_-134.574682@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"00f7c0ef1638738be1b3d33aced46d74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102176471"
+        }
+    ],
+    "wof:id":"102176471",
+    "wof:lastmodified":1449069347,
+    "wof:name":"Davis Drywall",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.574682,58.385299,-134.574682,58.385299],
+  "geometry": {"coordinates":[-134.574682,58.385299],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.716775,64.84038,-147.716775,64.84038",
+    "geom:latitude":64.84038,
+    "geom:longitude":-147.716775,
+    "iso:country":"US",
+    "sg:address":"526 8th Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 8986",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53MtP3qxZRVvlNPCljWf0D_64.840380_-147.716775@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c7524c7892ad1302d528ab550877fc10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102169475"
+        }
+    ],
+    "wof:id":"102169475",
+    "wof:lastmodified":1449069246,
+    "wof:name":"Omni Properties Inc",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.716775,64.84038,-147.716775,64.84038],
+  "geometry": {"coordinates":[-147.716775,64.84038],"type":"Point"}
+}

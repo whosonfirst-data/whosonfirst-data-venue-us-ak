@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.897933,61.195223,-149.897933,61.195223",
+    "geom:latitude":61.195223,
+    "geom:longitude":-149.897933,
+    "iso:country":"US",
+    "sg:address":"702 W Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 5402",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mDiOjMUpsfCkLEIeErx2D_61.195223_-149.897933@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3274ff1a874e64a3718af280042369c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102166977"
+        }
+    ],
+    "wof:id":"102166977",
+    "wof:lastmodified":1449069088,
+    "wof:name":"Quik Print",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.897933,61.195223,-149.897933,61.195223],
+  "geometry": {"coordinates":[-149.897933,61.195223],"type":"Point"}
+}

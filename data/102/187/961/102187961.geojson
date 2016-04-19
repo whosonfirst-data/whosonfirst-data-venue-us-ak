@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.866992,61.20764,-149.866992,61.20764",
+    "geom:latitude":61.20764,
+    "geom:longitude":-149.866992,
+    "iso:country":"US",
+    "sg:address":"804 E 15th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 7836",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zp5aqvpPtMAmHJeiyskyQ_61.207640_-149.866992@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0974645b5b20d5c083d79475cd0dfd2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102187961"
+        }
+    ],
+    "wof:id":"102187961",
+    "wof:lastmodified":1449068160,
+    "wof:name":"Green Connection",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.866992,61.20764,-149.866992,61.20764],
+  "geometry": {"coordinates":[-149.866992,61.20764],"type":"Point"}
+}

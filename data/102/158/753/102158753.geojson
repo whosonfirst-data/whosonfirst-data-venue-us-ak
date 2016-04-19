@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.305398,61.576855,-149.305398,61.576855",
+    "geom:latitude":61.576855,
+    "geom:longitude":-149.305398,
+    "iso:country":"US",
+    "sg:address":"5760 E Portage Dr",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 357 3301",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916253,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HYymDbePfftTZSuTblNzU_61.576855_-149.305398@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"36322a30597abbea4c0665dee45aa91f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916253,
+            "region_id":85688573,
+            "venue_id":"102158753"
+        }
+    ],
+    "wof:id":"102158753",
+    "wof:lastmodified":1449069394,
+    "wof:name":"Pattison & Sons Overhead Doors",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.305398,61.576855,-149.305398,61.576855],
+  "geometry": {"coordinates":[-149.305398,61.576855],"type":"Point"}
+}

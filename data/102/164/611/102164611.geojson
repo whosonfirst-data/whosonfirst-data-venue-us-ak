@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.891621,61.196933,-149.891621,61.196933",
+    "geom:latitude":61.196933,
+    "geom:longitude":-149.891621,
+    "iso:country":"US",
+    "sg:address":"2508 Blueberry Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 742 4950",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VQoMbVWk1tOa4Fe4GVzhP_61.196933_-149.891621@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b400a9a4b8852b50eff67a15bb634398",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102164611"
+        }
+    ],
+    "wof:id":"102164611",
+    "wof:lastmodified":1449068091,
+    "wof:name":"Steller Secondary",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.891621,61.196933,-149.891621,61.196933],
+  "geometry": {"coordinates":[-149.891621,61.196933],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.82917,61.225933,-149.82917,61.225933",
+    "geom:latitude":61.225933,
+    "geom:longitude":-149.82917,
+    "iso:country":"US",
+    "sg:address":"2801 Richmond Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 0018",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w9snydrXLP0PVZLiCfK7s_61.225933_-149.829170@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0742e4248b08a64b1dbbc4861c977246",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102165379"
+        }
+    ],
+    "wof:id":"102165379",
+    "wof:lastmodified":1449070213,
+    "wof:name":"William Tyson Elementary Schl",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.82917,61.225933,-149.82917,61.225933],
+  "geometry": {"coordinates":[-149.82917,61.225933],"type":"Point"}
+}

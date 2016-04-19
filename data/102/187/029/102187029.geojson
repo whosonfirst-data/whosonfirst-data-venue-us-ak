@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.44463,60.102258,-149.44463,60.102258",
+    "geom:latitude":60.102258,
+    "geom:longitude":-149.44463,
+    "iso:country":"US",
+    "sg:address":"230 Brownell St",
+    "sg:city":"Seward",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 224 3697",
+    "sg:postcode":"99664",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915769,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dfOuYeGEV5IuYWcaN73ll_60.102258_-149.444630@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"833360734148c7aa54fc616661f2dc1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915769,
+            "region_id":85688573,
+            "venue_id":"102187029"
+        }
+    ],
+    "wof:id":"102187029",
+    "wof:lastmodified":1449068157,
+    "wof:name":"Bear Mountain Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.44463,60.102258,-149.44463,60.102258],
+  "geometry": {"coordinates":[-149.44463,60.102258],"type":"Point"}
+}

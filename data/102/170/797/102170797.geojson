@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.359947,64.756707,-147.359947,64.756707",
+    "geom:latitude":64.756707,
+    "geom:longitude":-147.359947,
+    "iso:country":"US",
+    "sg:address":"325 Park Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 6969",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915639,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3P8WHa3QqpxOJ1lnqBUMeQ_64.756707_-147.359947@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"756916b845625e1818c6a8b0e0af1a97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915639,
+            "region_id":85688573,
+            "venue_id":"102170797"
+        }
+    ],
+    "wof:id":"102170797",
+    "wof:lastmodified":1449068019,
+    "wof:name":"Interior Builders",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.359947,64.756707,-147.359947,64.756707],
+  "geometry": {"coordinates":[-147.359947,64.756707],"type":"Point"}
+}

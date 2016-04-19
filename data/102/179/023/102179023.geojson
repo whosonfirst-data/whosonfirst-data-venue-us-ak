@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.87111,61.206937,-149.87111,61.206937",
+    "geom:latitude":61.206937,
+    "geom:longitude":-149.87111,
+    "iso:country":"US",
+    "sg:address":"1550 Gambell St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 9579",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7URRUTW5cD4gmlnHHqdqXp_61.206937_-149.871110@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"271d80fb78443f0284b304e5218b09af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102179023"
+        }
+    ],
+    "wof:id":"102179023",
+    "wof:lastmodified":1449069943,
+    "wof:name":"Consolidated Body Works",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.87111,61.206937,-149.87111,61.206937],
+  "geometry": {"coordinates":[-149.87111,61.206937],"type":"Point"}
+}

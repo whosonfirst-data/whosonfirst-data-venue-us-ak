@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.7259,61.189045,-149.7259,61.189045",
+    "geom:latitude":61.189045,
+    "geom:longitude":-149.7259,
+    "iso:country":"US",
+    "sg:address":"3403 Pussywillow St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 0428",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873735,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31a8I2Yx19xG9i5cdc3Nbm_61.189045_-149.725900@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"df3ab33a85b0d53cc6e377864d56e320",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873735,
+            "region_id":85688573,
+            "venue_id":"102195659"
+        }
+    ],
+    "wof:id":"102195659",
+    "wof:lastmodified":1449069363,
+    "wof:name":"Richards Masonry",
+    "wof:parent_id":85873735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.7259,61.189045,-149.7259,61.189045],
+  "geometry": {"coordinates":[-149.7259,61.189045],"type":"Point"}
+}

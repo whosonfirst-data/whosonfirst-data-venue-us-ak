@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.863954,61.146869,-149.863954,61.146869",
+    "geom:latitude":61.146869,
+    "geom:longitude":-149.863954,
+    "iso:country":"US",
+    "sg:address":"8007 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 3754",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mobile",
+        "home",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Oc6ieBW1y8p2ZWI88dBUj_61.146869_-149.863954@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f6af60727653469b33f35785876582d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102172853"
+        }
+    ],
+    "wof:id":"102172853",
+    "wof:lastmodified":1449068737,
+    "wof:name":"Scenic View Mobile Home Park",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.863954,61.146869,-149.863954,61.146869],
+  "geometry": {"coordinates":[-149.863954,61.146869],"type":"Point"}
+}

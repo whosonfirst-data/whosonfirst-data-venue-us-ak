@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.064465,60.485138,-151.064465,60.485138",
+    "geom:latitude":60.485138,
+    "geom:longitude":-151.064465,
+    "iso:country":"US",
+    "sg:address":"128 S Soldotna Ave",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 9149",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mFzy4fSZlifhcika2V6dg_60.485138_-151.064465@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c589e9aab0df05c4c813e1964a83e8ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102192339"
+        }
+    ],
+    "wof:id":"102192339",
+    "wof:lastmodified":1449069503,
+    "wof:name":"Soldotna Co-Op Pre-School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.064465,60.485138,-151.064465,60.485138],
+  "geometry": {"coordinates":[-151.064465,60.485138],"type":"Point"}
+}

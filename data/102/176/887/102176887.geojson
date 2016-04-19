@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.244893,60.561113,-151.244893,60.561113",
+    "geom:latitude":60.561113,
+    "geom:longitude":-151.244893,
+    "iso:country":"US",
+    "sg:address":"125 Trading Bay Dr",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 8590",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01gbYijm0NuAw7MljZjtMo_60.561113_-151.244893@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"953430acdba083355665204d07972c66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102176887"
+        }
+    ],
+    "wof:id":"102176887",
+    "wof:lastmodified":1449069348,
+    "wof:name":"State Troopers-Judicial Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.244893,60.561113,-151.244893,60.561113],
+  "geometry": {"coordinates":[-151.244893,60.561113],"type":"Point"}
+}

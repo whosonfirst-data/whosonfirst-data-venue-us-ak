@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.729346,64.85943,-147.729346,64.85943",
+    "geom:latitude":64.85943,
+    "geom:longitude":-147.729346,
+    "iso:country":"US",
+    "sg:address":"914 College Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 5678",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830247,
+        85633793,
+        85916559,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ruUV5g5oFYpbzbwBd1sW3_64.859430_-147.729346@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"71487c754891caa1d9236800820b1c3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "neighbourhood_id":85830247,
+            "region_id":85688573,
+            "venue_id":"102194119"
+        }
+    ],
+    "wof:id":"102194119",
+    "wof:lastmodified":1449069828,
+    "wof:name":"Mo Holland Dance Studio Inc",
+    "wof:parent_id":85830247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.729346,64.85943,-147.729346,64.85943],
+  "geometry": {"coordinates":[-147.729346,64.85943],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.808186,61.177921,-149.808186,61.177921",
+    "geom:latitude":61.177921,
+    "geom:longitude":-149.808186,
+    "iso:country":"US",
+    "sg:address":"4711 S Bragaw St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 3677",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "animal"
+    ],
+    "sg:website":"www.friendsofpets.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lyC68mpQmE7GqRmHLIml2_61.177921_-149.808186@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2bd35088a839ea715e10e8499c357d92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102176097"
+        }
+    ],
+    "wof:id":"102176097",
+    "wof:lastmodified":1449069347,
+    "wof:name":"Friends Of Pets",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.808186,61.177921,-149.808186,61.177921],
+  "geometry": {"coordinates":[-149.808186,61.177921],"type":"Point"}
+}

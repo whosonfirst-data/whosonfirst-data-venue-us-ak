@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.852206,61.101714,-149.852206,61.101714",
+    "geom:latitude":61.101714,
+    "geom:longitude":-149.852206,
+    "iso:country":"US",
+    "sg:address":"1636 Cara Loop",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 529 3333",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "resurfacing",
+        "laying",
+        "refinishing",
+        "floor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BvjoZJhz6MflVEIvFeQTG_61.101714_-149.852206@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"83a41f71f3533a43921b0588cf89de30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102163619"
+        }
+    ],
+    "wof:id":"102163619",
+    "wof:lastmodified":1449070160,
+    "wof:name":"Artistic Homes",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.852206,61.101714,-149.852206,61.101714],
+  "geometry": {"coordinates":[-149.852206,61.101714],"type":"Point"}
+}

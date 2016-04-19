@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.826979,61.202817,-149.826979,61.202817",
+    "geom:latitude":61.202817,
+    "geom:longitude":-149.826979,
+    "iso:country":"US",
+    "sg:address":"1834 Sunrise Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 9868",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4St8dElytqcSb20m9v3iI2_61.202817_-149.826979@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aa4ea90b40122edb9c54389319ef42a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102194817"
+        }
+    ],
+    "wof:id":"102194817",
+    "wof:lastmodified":1449069829,
+    "wof:name":"Sky Cabin",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.826979,61.202817,-149.826979,61.202817],
+  "geometry": {"coordinates":[-149.826979,61.202817],"type":"Point"}
+}

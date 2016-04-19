@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.922144,61.184008,-149.922144,61.184008",
+    "geom:latitude":61.184008,
+    "geom:longitude":-149.922144,
+    "iso:country":"US",
+    "sg:address":"3903 Taft Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 7770",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "clinic"
+    ],
+    "sg:website":"www.alaskablind.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12RSRXZiNplxdRNcvNZ2os_61.184008_-149.922144@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b4a50e3b61806be90446daace7ea5a0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102183919"
+        }
+    ],
+    "wof:id":"102183919",
+    "wof:lastmodified":1449069042,
+    "wof:name":"Alaska Center For The Blind",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.922144,61.184008,-149.922144,61.184008],
+  "geometry": {"coordinates":[-149.922144,61.184008],"type":"Point"}
+}

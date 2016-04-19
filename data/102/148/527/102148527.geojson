@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.696079,64.845604,-147.696079,64.845604",
+    "geom:latitude":64.845604,
+    "geom:longitude":-147.696079,
+    "iso:country":"US",
+    "sg:address":"550 3rd St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 374 8136",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SXXtcmrQjKlbVk88mfP0w_64.845604_-147.696079@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c55c317bbb491b1ee42dc349bb460a72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102148527"
+        }
+    ],
+    "wof:id":"102148527",
+    "wof:lastmodified":1449069785,
+    "wof:name":"Aztecas Mexican Restaurant",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.696079,64.845604,-147.696079,64.845604],
+  "geometry": {"coordinates":[-147.696079,64.845604],"type":"Point"}
+}

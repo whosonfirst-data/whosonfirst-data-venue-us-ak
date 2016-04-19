@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.65705,55.345141,-131.65705,55.345141",
+    "geom:latitude":55.345141,
+    "geom:longitude":-131.65705,
+    "iso:country":"US",
+    "sg:address":"1249 Tongass Ave",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 2900",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "sg:website":"www.southeastaviation.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Zf76hRr9qqIo3ZPswiKyP_55.345141_-131.657050@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"343ab0d53288baae7c1019a84637806c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102177699"
+        }
+    ],
+    "wof:id":"102177699",
+    "wof:lastmodified":1449070203,
+    "wof:name":"Southeast Aviation LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.65705,55.345141,-131.65705,55.345141],
+  "geometry": {"coordinates":[-131.65705,55.345141],"type":"Point"}
+}

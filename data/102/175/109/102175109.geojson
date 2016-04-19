@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.801922,61.189519,-149.801922,61.189519",
+    "geom:latitude":61.189519,
+    "geom:longitude":-149.801922,
+    "iso:country":"US",
+    "sg:address":"4400 University Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 2826",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "youth",
+        "organization",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58HbsUFhDev6oUynS2mh0Y_61.189519_-149.801922@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a08bd3b3d85b3b31724a2c8789bc54ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102175109"
+        }
+    ],
+    "wof:id":"102175109",
+    "wof:lastmodified":1449069464,
+    "wof:name":"Camp Fire Boys & Girls",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.801922,61.189519,-149.801922,61.189519],
+  "geometry": {"coordinates":[-149.801922,61.189519],"type":"Point"}
+}

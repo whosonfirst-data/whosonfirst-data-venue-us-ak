@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.429284,58.290602,-134.429284,58.290602",
+    "geom:latitude":58.290602,
+    "geom:longitude":-134.429284,
+    "iso:country":"US",
+    "sg:address":"3172 Pioneer Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 3540",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "consultant"
+    ],
+    "sg:website":"www.achconsulting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Th3Kt5ze9ZYZOynjru9KU_58.290602_-134.429284@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a6495fddf19ff969a8bc622817daecd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102167389"
+        }
+    ],
+    "wof:id":"102167389",
+    "wof:lastmodified":1449069002,
+    "wof:name":"Ach Consulting",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.429284,58.290602,-134.429284,58.290602],
+  "geometry": {"coordinates":[-134.429284,58.290602],"type":"Point"}
+}

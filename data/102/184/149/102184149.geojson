@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.692301,64.902506,-147.692301,64.902506",
+    "geom:latitude":64.902506,
+    "geom:longitude":-147.692301,
+    "iso:country":"US",
+    "sg:address":"561 Iliamna Pl",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 1895",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916559,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ovVrjcUQbVn8xYn0oX2VE_64.902506_-147.692301@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"043dd0c885c138d0876084c0b732db99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "region_id":85688573,
+            "venue_id":"102184149"
+        }
+    ],
+    "wof:id":"102184149",
+    "wof:lastmodified":1449068215,
+    "wof:name":"MEB Engineering",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.692301,64.902506,-147.692301,64.902506],
+  "geometry": {"coordinates":[-147.692301,64.902506],"type":"Point"}
+}

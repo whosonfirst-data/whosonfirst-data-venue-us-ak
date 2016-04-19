@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.442337,61.415269,-149.442337,61.415269",
+    "geom:latitude":61.415269,
+    "geom:longitude":-149.442337,
+    "iso:country":"US",
+    "sg:address":"23606 Dolly Ave",
+    "sg:city":"Chugiak",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 688 4929",
+    "sg:postcode":"99567",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869049,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39AU05uTTVC3TSGZ6hNtMr_61.415269_-149.442337@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"67c5131b1277880718609226ef4586d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869049,
+            "region_id":85688573,
+            "venue_id":"102149115"
+        }
+    ],
+    "wof:id":"102149115",
+    "wof:lastmodified":1449067766,
+    "wof:name":"Silver Birch Stable",
+    "wof:parent_id":85869049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.442337,61.415269,-149.442337,61.415269],
+  "geometry": {"coordinates":[-149.442337,61.415269],"type":"Point"}
+}

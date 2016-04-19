@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.380343,56.468799,-132.380343,56.468799",
+    "geom:latitude":56.468799,
+    "geom:longitude":-132.380343,
+    "iso:country":"US",
+    "sg:address":"520 Front St",
+    "sg:city":"Wrangell",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Watercraft",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 874 3314",
+    "sg:postcode":"99929",
+    "sg:province":"AK",
+    "sg:tags":[
+        "barge"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916111,
+        85633793,
+        85688573,
+        102081901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6so3UkeUr2uCtDbG7pxuZO_56.468799_-132.380343@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b19e533b4bb09d5cebb61da9c89f1a54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081901,
+            "locality_id":85916111,
+            "region_id":85688573,
+            "venue_id":"102174753"
+        }
+    ],
+    "wof:id":"102174753",
+    "wof:lastmodified":1449068139,
+    "wof:name":"Alaska Marine Lines",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.380343,56.468799,-132.380343,56.468799],
+  "geometry": {"coordinates":[-132.380343,56.468799],"type":"Point"}
+}

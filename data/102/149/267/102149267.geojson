@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.398716,57.793,-152.398716,57.793",
+    "geom:latitude":57.793,
+    "geom:longitude":-152.398716,
+    "iso:country":"US",
+    "sg:address":"523 Mill Bay Rd",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 3108",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915867,
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sGiyLSTSHKidFrUHUiKQH_57.793000_-152.398716@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"22c2f5b49bcc48c7f23cee4068fedc51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "locality_id":85915867,
+            "region_id":85688573,
+            "venue_id":"102149267"
+        }
+    ],
+    "wof:id":"102149267",
+    "wof:lastmodified":1449067771,
+    "wof:name":"Kodiak Appraisal Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.398716,57.793,-152.398716,57.793],
+  "geometry": {"coordinates":[-152.398716,57.793],"type":"Point"}
+}

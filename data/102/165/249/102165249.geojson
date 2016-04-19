@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.860076,61.146085,-149.860076,61.146085",
+    "geom:latitude":61.146085,
+    "geom:longitude":-149.860076,
+    "iso:country":"US",
+    "sg:address":"8301 Briarwood St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 6522",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_093HA8PRPxc7R1NUrs9YHs_61.146085_-149.860076@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"080c86ae88e5238ed2834afbd3969649",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102165249"
+        }
+    ],
+    "wof:id":"102165249",
+    "wof:lastmodified":1449070213,
+    "wof:name":"Mark R Laurin Inc",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.860076,61.146085,-149.860076,61.146085],
+  "geometry": {"coordinates":[-149.860076,61.146085],"type":"Point"}
+}

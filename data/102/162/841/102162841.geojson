@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-156.787524,71.292225,-156.787524,71.292225",
+    "geom:latitude":71.292225,
+    "geom:longitude":-156.787524,
+    "iso:country":"US",
+    "sg:address":"980 Stevenson St",
+    "sg:city":"Barrow",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 852 4100",
+    "sg:postcode":"99723",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915545,
+        85633793,
+        85688573,
+        102081001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RZr9Di09kXbBrHWfTBQs1_71.292225_-156.787524@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5268ea952e499ff37acce793f51df2df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081001,
+            "locality_id":85915545,
+            "region_id":85688573,
+            "venue_id":"102162841"
+        }
+    ],
+    "wof:id":"102162841",
+    "wof:lastmodified":1449069820,
+    "wof:name":"Osaka Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-156.787524,71.292225,-156.787524,71.292225],
+  "geometry": {"coordinates":[-156.787524,71.292225],"type":"Point"}
+}

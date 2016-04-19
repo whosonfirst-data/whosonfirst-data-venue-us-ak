@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.87619,61.137583,-149.87619,61.137583",
+    "geom:latitude":61.137583,
+    "geom:longitude":-149.87619,
+    "iso:country":"US",
+    "sg:address":"351 E 92nd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 336 5538",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nZrajK3W0oSMdy26EwCiz_61.137583_-149.876190@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"84559db5f29fcfc0078f46068a4a0a45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102185125"
+        }
+    ],
+    "wof:id":"102185125",
+    "wof:lastmodified":1449068197,
+    "wof:name":"C & S Development",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.87619,61.137583,-149.87619,61.137583],
+  "geometry": {"coordinates":[-149.87619,61.137583],"type":"Point"}
+}

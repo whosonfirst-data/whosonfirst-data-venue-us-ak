@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.74565,64.96588,-147.74565,64.96588",
+    "geom:latitude":64.96588,
+    "geom:longitude":-147.74565,
+    "iso:country":"US",
+    "sg:address":"1150 Molly Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 5000",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "fabrication",
+        "structural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916569,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GrwVEAuu9mdxvOB8V72xg_64.965880_-147.745650@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"28f41109c3af3e96cd72664fab8c4c18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916569,
+            "region_id":85688573,
+            "venue_id":"102174013"
+        }
+    ],
+    "wof:id":"102174013",
+    "wof:lastmodified":1449068138,
+    "wof:name":"Jons Machine Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.74565,64.96588,-147.74565,64.96588],
+  "geometry": {"coordinates":[-147.74565,64.96588],"type":"Point"}
+}

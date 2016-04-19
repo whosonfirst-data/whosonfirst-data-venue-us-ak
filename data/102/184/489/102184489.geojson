@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.763712,64.809838,-147.763712,64.809838",
+    "geom:latitude":64.809838,
+    "geom:longitude":-147.763712,
+    "iso:country":"US",
+    "sg:address":"3824 Schacht St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 5210",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eVkxQA01usEK9XQTXNaW9_64.809838_-147.763712@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7cc8b9de9695c99ac4374953cc1ea3eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102184489"
+        }
+    ],
+    "wof:id":"102184489",
+    "wof:lastmodified":1449068217,
+    "wof:name":"Global Power",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.763712,64.809838,-147.763712,64.809838],
+  "geometry": {"coordinates":[-147.763712,64.809838],"type":"Point"}
+}

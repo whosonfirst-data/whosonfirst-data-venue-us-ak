@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.847124,61.199326,-149.847124,61.199326",
+    "geom:latitude":61.199326,
+    "geom:longitude":-149.847124,
+    "iso:country":"US",
+    "sg:address":"1823 E 24th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 229 1108",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873729,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pQBUcXJNucK2YVFwNBusu_61.199326_-149.847124@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e043544e2ed4ebda9b262b998886a14f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873729,
+            "region_id":85688573,
+            "venue_id":"102171497"
+        }
+    ],
+    "wof:id":"102171497",
+    "wof:lastmodified":1449070229,
+    "wof:name":"Artistic Painting",
+    "wof:parent_id":85873729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.847124,61.199326,-149.847124,61.199326],
+  "geometry": {"coordinates":[-149.847124,61.199326],"type":"Point"}
+}

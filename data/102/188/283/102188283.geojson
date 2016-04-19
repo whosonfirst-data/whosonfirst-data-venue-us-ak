@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.853229,61.162307,-149.853229,61.162307",
+    "geom:latitude":61.162307,
+    "geom:longitude":-149.853229,
+    "iso:country":"US",
+    "sg:address":"1500 Waterwood Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 5350",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tours",
+        "promoter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HUeAqsW5IJHgCxQUF7W3z_61.162307_-149.853229@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"824a87decdfd0bd098c780c5da481830",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102188283"
+        }
+    ],
+    "wof:id":"102188283",
+    "wof:lastmodified":1449068946,
+    "wof:name":"A-Ju Alaska Tour",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.853229,61.162307,-149.853229,61.162307],
+  "geometry": {"coordinates":[-149.853229,61.162307],"type":"Point"}
+}

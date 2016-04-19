@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.925784,61.196925,-149.925784,61.196925",
+    "geom:latitude":61.196925,
+    "geom:longitude":-149.925784,
+    "iso:country":"US",
+    "sg:address":"2024 Saratoga Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 3367",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qexidzptxUAYDNDUFT8mp_61.196925_-149.925784@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fe763a3401e4b123b4a2174e50e4ed12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102154325"
+        }
+    ],
+    "wof:id":"102154325",
+    "wof:lastmodified":1449070244,
+    "wof:name":"Debbi Levine RE Appraiser",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.925784,61.196925,-149.925784,61.196925],
+  "geometry": {"coordinates":[-149.925784,61.196925],"type":"Point"}
+}

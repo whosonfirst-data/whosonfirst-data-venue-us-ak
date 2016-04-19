@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.90379,61.217966,-149.90379,61.217966",
+    "geom:latitude":61.217966,
+    "geom:longitude":-149.90379,
+    "iso:country":"US",
+    "sg:address":"440 L St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 7999",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "sg:website":"www.copperwhaleinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Y3t22ujotBuCAuyUzO3St_61.217966_-149.903790@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"18da4e476bacd815005a29ba44878b1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102162587"
+        }
+    ],
+    "wof:id":"102162587",
+    "wof:lastmodified":1449069822,
+    "wof:name":"Copper Whale Inn",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.90379,61.217966,-149.90379,61.217966],
+  "geometry": {"coordinates":[-149.90379,61.217966],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.608052,58.368874,-134.608052,58.368874",
+    "geom:latitude":58.368874,
+    "geom:longitude":-134.608052,
+    "iso:country":"US",
+    "sg:address":"2531 Barrett Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 790 4305",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mK8wfOy3RDB5UeyFmZiaY_58.368874_-134.608052@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dc1358dc0139381ecb996a117a71eec4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102182075"
+        }
+    ],
+    "wof:id":"102182075",
+    "wof:lastmodified":1449069280,
+    "wof:name":"Southeast Antifreeze Recyclers",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.608052,58.368874,-134.608052,58.368874],
+  "geometry": {"coordinates":[-134.608052,58.368874],"type":"Point"}
+}

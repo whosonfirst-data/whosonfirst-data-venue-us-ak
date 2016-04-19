@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.115506,61.597476,-149.115506,61.597476",
+    "geom:latitude":61.597476,
+    "geom:longitude":-149.115506,
+    "iso:country":"US",
+    "sg:address":"932 S Colony Way",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 3050",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915577,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NF9dNTTbnZ0lYPQ1pdh3Q_61.597476_-149.115506@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c1ae2c4650d9709de2637b7c23c1270f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915577,
+            "region_id":85688573,
+            "venue_id":"102155887"
+        }
+    ],
+    "wof:id":"102155887",
+    "wof:lastmodified":1449069744,
+    "wof:name":"B-J's Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.115506,61.597476,-149.115506,61.597476],
+  "geometry": {"coordinates":[-149.115506,61.597476],"type":"Point"}
+}

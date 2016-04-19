@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.076518,64.565349,-149.076518,64.565349",
+    "geom:latitude":64.565349,
+    "geom:longitude":-149.076518,
+    "iso:country":"US",
+    "sg:address":"802 Front St",
+    "sg:city":"Nenana",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 832 5247",
+    "sg:postcode":"99760",
+    "sg:province":"AK",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915849,
+        85633793,
+        85688573,
+        102081905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yIuSmjI5iOcMsZlXUFJCU_64.565349_-149.076518@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dd7ec1c5f9a44d6450e0881db85499e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081905,
+            "locality_id":85915849,
+            "region_id":85688573,
+            "venue_id":"102170131"
+        }
+    ],
+    "wof:id":"102170131",
+    "wof:lastmodified":1449068017,
+    "wof:name":"Clinic Nenana Native",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.076518,64.565349,-149.076518,64.565349],
+  "geometry": {"coordinates":[-149.076518,64.565349],"type":"Point"}
+}

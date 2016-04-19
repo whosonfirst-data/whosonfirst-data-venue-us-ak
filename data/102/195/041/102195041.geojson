@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.892263,61.194448,-149.892263,61.194448",
+    "geom:latitude":61.194448,
+    "geom:longitude":-149.892263,
+    "iso:country":"US",
+    "sg:address":"2819 Dawson St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 9631",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "automobile",
+        "stereo",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eTCwQuJ7z8ezqwVj9AM3z_61.194448_-149.892263@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"743b4de308d5735d8cf83d4ee4a85cd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102195041"
+        }
+    ],
+    "wof:id":"102195041",
+    "wof:lastmodified":1449069364,
+    "wof:name":"Zoe Off Road & Street Perfrmnc",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.892263,61.194448,-149.892263,61.194448],
+  "geometry": {"coordinates":[-149.892263,61.194448],"type":"Point"}
+}

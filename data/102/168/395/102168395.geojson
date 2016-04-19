@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.92715,61.183826,-149.92715,61.183826",
+    "geom:latitude":61.183826,
+    "geom:longitude":-149.92715,
+    "iso:country":"US",
+    "sg:address":"3956 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 0697",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ePuTe1oMdBGVloUuJwm7D_61.183826_-149.927150@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d0ecae967a80d73a5841e3a650e73197",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102168395"
+        }
+    ],
+    "wof:id":"102168395",
+    "wof:lastmodified":1449069009,
+    "wof:name":"Adults Only",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.92715,61.183826,-149.92715,61.183826],
+  "geometry": {"coordinates":[-149.92715,61.183826],"type":"Point"}
+}

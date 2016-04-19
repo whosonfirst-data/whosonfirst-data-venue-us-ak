@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.566167,64.917857,-147.566167,64.917857",
+    "geom:latitude":64.917857,
+    "geom:longitude":-147.566167,
+    "iso:country":"US",
+    "sg:address":"1280 Gilmore Trl",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 6380",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "herb"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916545,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZKNwFJr6udoyET2n9j1pp_64.917857_-147.566167@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f50e92492ca4741f6e37b39357cad673",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916545,
+            "region_id":85688573,
+            "venue_id":"102148125"
+        }
+    ],
+    "wof:id":"102148125",
+    "wof:lastmodified":1449069786,
+    "wof:name":"Golden Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.566167,64.917857,-147.566167,64.917857],
+  "geometry": {"coordinates":[-147.566167,64.917857],"type":"Point"}
+}

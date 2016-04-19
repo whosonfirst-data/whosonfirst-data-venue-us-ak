@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.604657,58.364842,-134.604657,58.364842",
+    "geom:latitude":58.364842,
+    "geom:longitude":-134.604657,
+    "iso:country":"US",
+    "sg:address":"2284 Industrial Blvd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 1764",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QFWRvRE2sYTalrzQtFowR_58.364842_-134.604657@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8553230c6c690d3a6e1addb5e120567c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102172277"
+        }
+    ],
+    "wof:id":"102172277",
+    "wof:lastmodified":1449068734,
+    "wof:name":"Canvases Unlimited",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.604657,58.364842,-134.604657,58.364842],
+  "geometry": {"coordinates":[-134.604657,58.364842],"type":"Point"}
+}

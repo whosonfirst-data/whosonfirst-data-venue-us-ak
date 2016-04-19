@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.74084,61.18644,-149.74084,61.18644",
+    "geom:latitude":61.18644,
+    "geom:longitude":-149.74084,
+    "iso:country":"US",
+    "sg:address":"3913 Debora Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 336 0103",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873735,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01fnz09xeUTUc5fKacyr8c_61.186440_-149.740840@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e7bcfc8c8abc912f1d82ba152dc1cbfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873735,
+            "region_id":85688573,
+            "venue_id":"102179081"
+        }
+    ],
+    "wof:id":"102179081",
+    "wof:lastmodified":1449069941,
+    "wof:name":"Shaner North",
+    "wof:parent_id":85873735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.74084,61.18644,-149.74084,61.18644],
+  "geometry": {"coordinates":[-149.74084,61.18644],"type":"Point"}
+}

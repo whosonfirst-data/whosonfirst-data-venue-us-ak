@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.41072,58.30168,-134.41072,58.30168",
+    "geom:latitude":58.30168,
+    "geom:longitude":-134.41072,
+    "iso:country":"US",
+    "sg:address":"123 W 4th St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 465 4308",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gAwADs8gq89jXjRGqlW9q_58.301680_-134.410720@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7114b75bcf7595c240c1f4de65287395",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102152857"
+        }
+    ],
+    "wof:id":"102152857",
+    "wof:lastmodified":1449069636,
+    "wof:name":"State Trooper Judicial Svc",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.41072,58.30168,-134.41072,58.30168],
+  "geometry": {"coordinates":[-134.41072,58.30168],"type":"Point"}
+}

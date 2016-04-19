@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.908771,61.187817,-149.908771,61.187817",
+    "geom:latitude":61.187817,
+    "geom:longitude":-149.908771,
+    "iso:country":"US",
+    "sg:address":"3609 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 8078",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XkoEnaKSXvhjenA7wrdzY_61.187817_-149.908771@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1412ed85b151678b7d3c63c6d1e22cc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102157861"
+        }
+    ],
+    "wof:id":"102157861",
+    "wof:lastmodified":1449069834,
+    "wof:name":"High Country Car & Truck Rntl",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.908771,61.187817,-149.908771,61.187817],
+  "geometry": {"coordinates":[-149.908771,61.187817],"type":"Point"}
+}

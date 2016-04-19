@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.727341,61.190869,-149.727341,61.190869",
+    "geom:latitude":61.190869,
+    "geom:longitude":-149.727341,
+    "iso:country":"US",
+    "sg:address":"8210 Little Dipper Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 332 2206",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873735,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0T0eZNSRIhGsW9JdFDlutS_61.190869_-149.727341@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dab54e6f5dc907b97608d9eda643b9a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873735,
+            "region_id":85688573,
+            "venue_id":"102175157"
+        }
+    ],
+    "wof:id":"102175157",
+    "wof:lastmodified":1449069469,
+    "wof:name":"Oakridge Construction",
+    "wof:parent_id":85873735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.727341,61.190869,-149.727341,61.190869],
+  "geometry": {"coordinates":[-149.727341,61.190869],"type":"Point"}
+}

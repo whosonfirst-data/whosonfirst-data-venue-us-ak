@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.325062,61.58689,-149.325062,61.58689",
+    "geom:latitude":61.58689,
+    "geom:longitude":-149.325062,
+    "iso:country":"US",
+    "sg:address":"4851 Hovey Dr",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 2343",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "water",
+        "pump"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916225,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60VpWw4zm2ImDoSsCEIhey_61.586890_-149.325062@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a5766ea402fbc68da20d30ac44204572",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916225,
+            "region_id":85688573,
+            "venue_id":"102192585"
+        }
+    ],
+    "wof:id":"102192585",
+    "wof:lastmodified":1449069503,
+    "wof:name":"Valley Pump & Well Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.325062,61.58689,-149.325062,61.58689],
+  "geometry": {"coordinates":[-149.325062,61.58689],"type":"Point"}
+}

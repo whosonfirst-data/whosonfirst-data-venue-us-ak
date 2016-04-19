@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.116426,61.606588,-149.116426,61.606588",
+    "geom:latitude":61.606588,
+    "geom:longitude":-149.116426,
+    "iso:country":"US",
+    "sg:address":"174 W Arctic Ave",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 746 3550",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915577,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CjoIWK8AvWEGbtyOr10mk_61.606588_-149.116426@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6735d1670535e84bea67495edffaae08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915577,
+            "region_id":85688573,
+            "venue_id":"102165325"
+        }
+    ],
+    "wof:id":"102165325",
+    "wof:lastmodified":1449070213,
+    "wof:name":"Palmer Tesoro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.116426,61.606588,-149.116426,61.606588],
+  "geometry": {"coordinates":[-149.116426,61.606588],"type":"Point"}
+}

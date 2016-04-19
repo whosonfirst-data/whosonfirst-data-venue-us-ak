@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.700227,61.164818,-149.700227,61.164818",
+    "geom:latitude":61.164818,
+    "geom:longitude":-149.700227,
+    "iso:country":"US",
+    "sg:address":"6263 Farpoint Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 1881",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873749,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0atG3rrViGqM7zCzj37SYB_61.164818_-149.700227@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8fc4bfabc54efb8938949b7120dc034c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873749,
+            "region_id":85688573,
+            "venue_id":"102150031"
+        }
+    ],
+    "wof:id":"102150031",
+    "wof:lastmodified":1449067789,
+    "wof:name":"EMDS Consulting Engineers",
+    "wof:parent_id":85873749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.700227,61.164818,-149.700227,61.164818],
+  "geometry": {"coordinates":[-149.700227,61.164818],"type":"Point"}
+}

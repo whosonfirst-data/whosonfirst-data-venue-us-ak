@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.951839,61.158138,-149.951839,61.158138",
+    "geom:latitude":61.158138,
+    "geom:longitude":-149.951839,
+    "iso:country":"US",
+    "sg:address":"7001 Jewel Lake Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 2642",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:website":"www.alaskanational.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RrRLBde1cygCgtW5CmCTa_61.158138_-149.951839@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7411ae37e5677c362ec0e62fbdac0b2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102169075"
+        }
+    ],
+    "wof:id":"102169075",
+    "wof:lastmodified":1449069247,
+    "wof:name":"Alaska National Insurance Co",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.951839,61.158138,-149.951839,61.158138],
+  "geometry": {"coordinates":[-149.951839,61.158138],"type":"Point"}
+}

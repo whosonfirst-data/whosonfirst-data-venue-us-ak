@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.546792,59.644612,-151.546792,59.644612",
+    "geom:latitude":59.644612,
+    "geom:longitude":-151.546792,
+    "iso:country":"US",
+    "sg:address":"141 W Pioneer Ave",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 3180",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bcE8byqI4BMrUcdnd6sqT_59.644612_-151.546792@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3d5a8e61e0711213f54290fcdc431051",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102174821"
+        }
+    ],
+    "wof:id":"102174821",
+    "wof:lastmodified":1449068138,
+    "wof:name":"Homer City Library",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.546792,59.644612,-151.546792,59.644612],
+  "geometry": {"coordinates":[-151.546792,59.644612],"type":"Point"}
+}

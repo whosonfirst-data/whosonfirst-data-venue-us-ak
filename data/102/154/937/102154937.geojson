@@ -1,0 +1,67 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.925945,61.139891,-149.925945,61.139891",
+    "geom:latitude":61.139891,
+    "geom:longitude":-149.925945,
+    "iso:country":"US",
+    "sg:address":"8920 Greenbelt Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 3812",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home",
+        "general",
+        "commercial",
+        "family",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sIMN8qZT0YX5m6KMlGGfW_61.139891_-149.925945@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a2c2a165af50f1ff717e47d2d096fa85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102154937"
+        }
+    ],
+    "wof:id":"102154937",
+    "wof:lastmodified":1449070242,
+    "wof:name":"Colliander Construction",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.925945,61.139891,-149.925945,61.139891],
+  "geometry": {"coordinates":[-149.925945,61.139891],"type":"Point"}
+}

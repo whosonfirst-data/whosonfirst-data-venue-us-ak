@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.399654,61.580469,-149.399654,61.580469",
+    "geom:latitude":61.580469,
+    "geom:longitude":-149.399654,
+    "iso:country":"US",
+    "sg:address":"1960 E Palmer-Wasilla Hwy",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 357 2750",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zRHvcry5P6zl2pZ7GEqIc_61.580469_-149.399654@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8423e80e081a672ad1390da66844393a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102176179"
+        }
+    ],
+    "wof:id":"102176179",
+    "wof:lastmodified":1449069349,
+    "wof:name":"American Park & Sell",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.399654,61.580469,-149.399654,61.580469],
+  "geometry": {"coordinates":[-149.399654,61.580469],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.689087,55.356129,-131.689087,55.356129",
+    "geom:latitude":55.356129,
+    "geom:longitude":-131.689087,
+    "iso:country":"US",
+    "sg:address":"330 Spruce St",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 9000",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4x8nUW9NSw5iOKAcV0jYop_55.356129_-131.689087@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"13ef0cd591bde0e7c8d5b050577691dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102193253"
+        }
+    ],
+    "wof:id":"102193253",
+    "wof:lastmodified":1449068195,
+    "wof:name":"Spectrum Fine Jewelry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.689087,55.356129,-131.689087,55.356129],
+  "geometry": {"coordinates":[-131.689087,55.356129],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.64904,64.908052,-147.64904,64.908052",
+    "geom:latitude":64.908052,
+    "geom:longitude":-147.64904,
+    "iso:country":"US",
+    "sg:address":"131 Frog Pond Cir",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 4006",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "sg:website":"www.frogpondbb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916559,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WsC9VEFqGA9ddN4JEo4nd_64.908052_-147.649040@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2370835034e113ff2cbce1f2039ba27b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "region_id":85688573,
+            "venue_id":"102182881"
+        }
+    ],
+    "wof:id":"102182881",
+    "wof:lastmodified":1449069280,
+    "wof:name":"Frog Pond Bed & Breakfast",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.64904,64.908052,-147.64904,64.908052],
+  "geometry": {"coordinates":[-147.64904,64.908052],"type":"Point"}
+}

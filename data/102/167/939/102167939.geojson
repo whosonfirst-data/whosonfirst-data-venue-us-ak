@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.306328,61.565972,-149.306328,61.565972",
+    "geom:latitude":61.565972,
+    "geom:longitude":-149.306328,
+    "iso:country":"US",
+    "sg:address":"1531 Hill Haven Dr",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 3286",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916253,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G7xquboMmbgPDmvd6CLb3_61.565972_-149.306328@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"85c26be007e0e701e0d11b1378f4daa5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916253,
+            "region_id":85688573,
+            "venue_id":"102167939"
+        }
+    ],
+    "wof:id":"102167939",
+    "wof:lastmodified":1449069002,
+    "wof:name":"Custom Refinishing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.306328,61.565972,-149.306328,61.565972],
+  "geometry": {"coordinates":[-149.306328,61.565972],"type":"Point"}
+}

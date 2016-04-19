@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.064007,60.497632,-151.064007,60.497632",
+    "geom:latitude":60.497632,
+    "geom:longitude":-151.064007,
+    "iso:country":"US",
+    "sg:address":"369 Tyee St",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 2280",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vMN1LXOsdpBum6qdxJxc6_60.497632_-151.064007@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f9aaf2ad4fd7d89133457e14f9d04d4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102195327"
+        }
+    ],
+    "wof:id":"102195327",
+    "wof:lastmodified":1449069361,
+    "wof:name":"Ace Automotive & Towing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.064007,60.497632,-151.064007,60.497632],
+  "geometry": {"coordinates":[-151.064007,60.497632],"type":"Point"}
+}

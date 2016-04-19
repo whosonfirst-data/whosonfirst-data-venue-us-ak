@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.980267,61.181285,-149.980267,61.181285",
+    "geom:latitude":61.181285,
+    "geom:longitude":-149.980267,
+    "iso:country":"US",
+    "sg:address":"4235 Aircraft Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 8905",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852831,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YFQV1C25p5uS03ArB711F_61.181285_-149.980267@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a1d9a3694974ddfc3957453e59f0bd1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":"102171657"
+        }
+    ],
+    "wof:id":"102171657",
+    "wof:lastmodified":1449070222,
+    "wof:name":"Investment Group Inc",
+    "wof:parent_id":85852831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.980267,61.181285,-149.980267,61.181285],
+  "geometry": {"coordinates":[-149.980267,61.181285],"type":"Point"}
+}

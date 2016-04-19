@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.890636,61.195294,-149.890636,61.195294",
+    "geom:latitude":61.195294,
+    "geom:longitude":-149.890636,
+    "iso:country":"US",
+    "sg:address":"400 W Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 569 1165",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MF7txgarwCTmle1SxvHfW_61.195294_-149.890636@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"466bc0a9e12cf3ba753cbe71f9ad0c09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102170947"
+        }
+    ],
+    "wof:id":"102170947",
+    "wof:lastmodified":1449068019,
+    "wof:name":"Bilan Chiropractic Clinic",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.890636,61.195294,-149.890636,61.195294],
+  "geometry": {"coordinates":[-149.890636,61.195294],"type":"Point"}
+}

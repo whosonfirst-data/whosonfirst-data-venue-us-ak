@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.966083,61.135292,-149.966083,61.135292",
+    "geom:latitude":61.135292,
+    "geom:longitude":-149.966083,
+    "iso:country":"US",
+    "sg:address":"4430 Edinburgh Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 1387",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tours",
+        "promoter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0us6Pc1T0oQANReZdSr7oU_61.135292_-149.966083@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d31a53d7f6d2a71faaf2f5382bed3306",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102193009"
+        }
+    ],
+    "wof:id":"102193009",
+    "wof:lastmodified":1449068195,
+    "wof:name":"A & M Charters",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.966083,61.135292,-149.966083,61.135292],
+  "geometry": {"coordinates":[-149.966083,61.135292],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-165.414634,64.499066,-165.414634,64.499066",
+    "geom:latitude":64.499066,
+    "geom:longitude":-165.414634,
+    "iso:country":"US",
+    "sg:address":"120 W 1st Ave",
+    "sg:city":"Nome",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 443 2880",
+    "sg:postcode":"99762",
+    "sg:province":"AK",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915489,
+        85633793,
+        85688573,
+        102081401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76toGI7nKG8BbcAGBn6VYX_64.499066_-165.414634@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3c1f38d70b80df564af9a4fb54fa1ece",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081401,
+            "locality_id":85915489,
+            "region_id":85688573,
+            "venue_id":"102169087"
+        }
+    ],
+    "wof:id":"102169087",
+    "wof:lastmodified":1449069247,
+    "wof:name":"Nome Outfitters",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-165.414634,64.499066,-165.414634,64.499066],
+  "geometry": {"coordinates":[-165.414634,64.499066],"type":"Point"}
+}

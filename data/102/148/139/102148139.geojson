@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.91084,61.191163,-149.91084,61.191163",
+    "geom:latitude":61.191163,
+    "geom:longitude":-149.91084,
+    "iso:country":"US",
+    "sg:address":"1410 W 32nd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 4218",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OAKJKk1o7NkwY08AbaWER_61.191163_-149.910840@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"20769b3ae8299aae2bd59d486bd741bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102148139"
+        }
+    ],
+    "wof:id":"102148139",
+    "wof:lastmodified":1449069779,
+    "wof:name":"Advanced Excavation Svc",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.91084,61.191163,-149.91084,61.191163],
+  "geometry": {"coordinates":[-149.91084,61.191163],"type":"Point"}
+}

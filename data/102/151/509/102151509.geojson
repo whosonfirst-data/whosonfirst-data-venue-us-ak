@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.763337,61.194222,-149.763337,61.194222",
+    "geom:latitude":61.194222,
+    "geom:longitude":-149.763337,
+    "iso:country":"US",
+    "sg:address":"2991 Baxter Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 742 1750",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873735,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ypMt7619RsvuWfH7WQCkM_61.194222_-149.763337@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c783691d9139645f8913faa9a6605b2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873735,
+            "region_id":85688573,
+            "venue_id":"102151509"
+        }
+    ],
+    "wof:id":"102151509",
+    "wof:lastmodified":1449067780,
+    "wof:name":"Baxter Elementary",
+    "wof:parent_id":85873735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.763337,61.194222,-149.763337,61.194222],
+  "geometry": {"coordinates":[-149.763337,61.194222],"type":"Point"}
+}

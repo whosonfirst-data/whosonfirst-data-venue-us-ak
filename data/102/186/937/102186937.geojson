@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.082534,64.677407,-147.082534,64.677407",
+    "geom:latitude":64.677407,
+    "geom:longitude":-147.082534,
+    "iso:country":"US",
+    "sg:address":"3334 Arctic Ave",
+    "sg:city":"Eielson Afb",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 372 5257",
+    "sg:postcode":"99702",
+    "sg:province":"AK",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916605,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nCNB9LI9Xrtk2psCpqT8b_64.677407_-147.082534@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"04479fcd2555716ee72e802dca41fe25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916605,
+            "region_id":85688573,
+            "venue_id":"102186937"
+        }
+    ],
+    "wof:id":"102186937",
+    "wof:lastmodified":1449069653,
+    "wof:name":"MTNT",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.082534,64.677407,-147.082534,64.677407],
+  "geometry": {"coordinates":[-147.082534,64.677407],"type":"Point"}
+}

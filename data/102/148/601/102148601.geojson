@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.377869,56.469601,-132.377869,56.469601",
+    "geom:latitude":56.469601,
+    "geom:longitude":-132.377869,
+    "iso:country":"US",
+    "sg:address":"406 Alaska Ave",
+    "sg:city":"Wrangell",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 874 3338",
+    "sg:postcode":"99929",
+    "sg:province":"AK",
+    "sg:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916111,
+        85633793,
+        85688573,
+        102081901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HEgszze0vnqpTE5bb4p5K_56.469601_-132.377869@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1e81377faaef65b2f398424bbe7aa9e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081901,
+            "locality_id":85916111,
+            "region_id":85688573,
+            "venue_id":"102148601"
+        }
+    ],
+    "wof:id":"102148601",
+    "wof:lastmodified":1449069784,
+    "wof:name":"Avenues",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.377869,56.469601,-132.377869,56.469601],
+  "geometry": {"coordinates":[-132.377869,56.469601],"type":"Point"}
+}

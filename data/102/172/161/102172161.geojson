@@ -1,0 +1,67 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.864065,61.141609,-149.864065,61.141609",
+    "geom:latitude":61.141609,
+    "geom:longitude":-149.864065,
+    "iso:country":"US",
+    "sg:address":"8840 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 7800",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LrsA0x68j5XZzD0MO2Y36_61.141609_-149.864065@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"05485ab2393ba3dfed6ff664f6616831",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102172161"
+        }
+    ],
+    "wof:id":"102172161",
+    "wof:lastmodified":1449068736,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.864065,61.141609,-149.864065,61.141609],
+  "geometry": {"coordinates":[-149.864065,61.141609],"type":"Point"}
+}

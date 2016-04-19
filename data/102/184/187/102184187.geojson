@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.761832,64.860421,-147.761832,64.860421",
+    "geom:latitude":64.860421,
+    "geom:longitude":-147.761832,
+    "iso:country":"US",
+    "sg:address":"1744 Aurora Dr",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 1002",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "synagogue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869043,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RlfxrvdsiXe3Y1K1NMb2m_64.860421_-147.761832@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"20eba5ddede30e4d4b1a565fff11a180",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85869043,
+            "region_id":85688573,
+            "venue_id":"102184187"
+        }
+    ],
+    "wof:id":"102184187",
+    "wof:lastmodified":1449068215,
+    "wof:name":"Jewish Congregation-Fairbanks",
+    "wof:parent_id":85869043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.761832,64.860421,-147.761832,64.860421],
+  "geometry": {"coordinates":[-147.761832,64.860421],"type":"Point"}
+}

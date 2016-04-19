@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.847661,61.136042,-149.847661,61.136042",
+    "geom:latitude":61.136042,
+    "geom:longitude":-149.847661,
+    "iso:country":"US",
+    "sg:address":"9400 Vanguard Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 2628",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tours",
+        "promoter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w4MBteUYt9yOaMThIEFVR_61.136042_-149.847661@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1a6f8ffea92bfe9b83a9c977d88fb77e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102193547"
+        }
+    ],
+    "wof:id":"102193547",
+    "wof:lastmodified":1449068192,
+    "wof:name":"Alaska Outdoor Adventures",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.847661,61.136042,-149.847661,61.136042],
+  "geometry": {"coordinates":[-149.847661,61.136042],"type":"Point"}
+}

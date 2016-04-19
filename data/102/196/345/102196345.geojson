@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.377854,56.471598,-132.377854,56.471598",
+    "geom:latitude":56.471598,
+    "geom:longitude":-132.377854,
+    "iso:country":"US",
+    "sg:address":"203 Webber St",
+    "sg:city":"Wrangell",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 874 3749",
+    "sg:postcode":"99929",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916111,
+        85633793,
+        85688573,
+        102081901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42EqDP0eHxt7H0i9JSoUL9_56.471598_-132.377854@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5cde1f12eb89fabad1877e05989caee4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081901,
+            "locality_id":85916111,
+            "region_id":85688573,
+            "venue_id":"102196345"
+        }
+    ],
+    "wof:id":"102196345",
+    "wof:lastmodified":1449068338,
+    "wof:name":"Taylor's Music",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.377854,56.471598,-132.377854,56.471598],
+  "geometry": {"coordinates":[-132.377854,56.471598],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.530193,58.35896,-134.530193,58.35896",
+    "geom:latitude":58.35896,
+    "geom:longitude":-134.530193,
+    "iso:country":"US",
+    "sg:address":"6858 Glacier Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 465 3941",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eUoDAxLhQg5NHrXjA5IhO_58.358960_-134.530193@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c523ebaaceee5f291ab81a6f1689ada5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102191525"
+        }
+    ],
+    "wof:id":"102191525",
+    "wof:lastmodified":1449069202,
+    "wof:name":"Alaska Marine Highway",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.530193,58.35896,-134.530193,58.35896],
+  "geometry": {"coordinates":[-134.530193,58.35896],"type":"Point"}
+}

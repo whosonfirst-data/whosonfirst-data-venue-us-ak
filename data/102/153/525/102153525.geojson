@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.860729,61.170119,-149.860729,61.170119",
+    "geom:latitude":61.170119,
+    "geom:longitude":-149.860729,
+    "iso:country":"US",
+    "sg:address":"849 E 56th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 1225",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BSYUgAAsb5Me42G7zEA38_61.170119_-149.860729@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"721eca96caa98ac3d4101e7e1c6974c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102153525"
+        }
+    ],
+    "wof:id":"102153525",
+    "wof:lastmodified":1449069463,
+    "wof:name":"Spenard Wrecker Svc",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.860729,61.170119,-149.860729,61.170119],
+  "geometry": {"coordinates":[-149.860729,61.170119],"type":"Point"}
+}

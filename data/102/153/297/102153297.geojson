@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.86636,61.183372,-149.86636,61.183372",
+    "geom:latitude":61.183372,
+    "geom:longitude":-149.86636,
+    "iso:country":"US",
+    "sg:address":"4134 Ingra St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 2240",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electrical",
+        "telecommunication",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6N90GVZJRm40um5yLkpQcT_61.183372_-149.866360@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"feff91d93371ec8cd0d94f3667f25df1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102153297"
+        }
+    ],
+    "wof:id":"102153297",
+    "wof:lastmodified":1449069463,
+    "wof:name":"Wire-Comm",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.86636,61.183372,-149.86636,61.183372],
+  "geometry": {"coordinates":[-149.86636,61.183372],"type":"Point"}
+}

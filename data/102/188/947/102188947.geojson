@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-165.583278,61.842936,-165.583278,61.842936",
+    "geom:latitude":61.842936,
+    "geom:longitude":-165.583278,
+    "iso:country":"US",
+    "sg:address":"111 Front St",
+    "sg:city":"Scammon Bay",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 558 5529",
+    "sg:postcode":"99662",
+    "sg:province":"AK",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916023,
+        85633793,
+        85688573,
+        102081013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71cvfXL9x47IupcWzl4IiU_61.842936_-165.583278@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"401fb16763d23edcf4c970fffae9c64d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081013,
+            "locality_id":85916023,
+            "region_id":85688573,
+            "venue_id":"102188947"
+        }
+    ],
+    "wof:id":"102188947",
+    "wof:lastmodified":1449068947,
+    "wof:name":"Scammon Bay City Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-165.583278,61.842936,-165.583278,61.842936],
+  "geometry": {"coordinates":[-165.583278,61.842936],"type":"Point"}
+}

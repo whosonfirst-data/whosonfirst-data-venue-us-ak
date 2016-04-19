@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.976539,61.154437,-149.976539,61.154437",
+    "geom:latitude":61.154437,
+    "geom:longitude":-149.976539,
+    "iso:country":"US",
+    "sg:address":"7240 Bailey Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 0100",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14hBeMXMHeNtvMbeuu9T31_61.154437_-149.976539@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6ea36c025a8cae416e0d09707c3492f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102153083"
+        }
+    ],
+    "wof:id":"102153083",
+    "wof:lastmodified":1449069462,
+    "wof:name":"Smidt Excavating",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.976539,61.154437,-149.976539,61.154437],
+  "geometry": {"coordinates":[-149.976539,61.154437],"type":"Point"}
+}

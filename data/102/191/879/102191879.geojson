@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.855033,61.17285,-149.855033,61.17285",
+    "geom:latitude":61.17285,
+    "geom:longitude":-149.855033,
+    "iso:country":"US",
+    "sg:address":"5211 Mockingbird Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 8808",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "society",
+        "humane"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RVkkwONh5UjWdURUPGFHm_61.172850_-149.855033@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d68d5b604fdb96ca5cf5f3e47bbe3f18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102191879"
+        }
+    ],
+    "wof:id":"102191879",
+    "wof:lastmodified":1449069197,
+    "wof:name":"Alaska Humane Society",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.855033,61.17285,-149.855033,61.17285],
+  "geometry": {"coordinates":[-149.855033,61.17285],"type":"Point"}
+}

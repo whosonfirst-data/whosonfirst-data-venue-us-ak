@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.425254,61.592265,-149.425254,61.592265",
+    "geom:latitude":61.592265,
+    "geom:longitude":-149.425254,
+    "iso:country":"US",
+    "sg:address":"1075 Snow Hill Ave",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 3206",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3e3SC10HtgQLAo5llrzMx6_61.592265_-149.425254@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9adab89955c81ac33262c7984a882417",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102157109"
+        }
+    ],
+    "wof:id":"102157109",
+    "wof:lastmodified":1449069831,
+    "wof:name":"De Camp Land Surveying",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.425254,61.592265,-149.425254,61.592265],
+  "geometry": {"coordinates":[-149.425254,61.592265],"type":"Point"}
+}

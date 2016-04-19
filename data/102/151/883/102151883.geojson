@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.756022,61.206035,-149.756022,61.206035",
+    "geom:latitude":61.206035,
+    "geom:longitude":-149.756022,
+    "iso:country":"US",
+    "sg:address":"6612 E 16th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 884 3742",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869053,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4d8Hipt9qpzHGIAcgHSEDc_61.206035_-149.756022@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5a14476158f1e87055b53f8347af9d2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85869053,
+            "region_id":85688573,
+            "venue_id":"102151883"
+        }
+    ],
+    "wof:id":"102151883",
+    "wof:lastmodified":1449067781,
+    "wof:name":"Marodco",
+    "wof:parent_id":85869053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.756022,61.206035,-149.756022,61.206035],
+  "geometry": {"coordinates":[-149.756022,61.206035],"type":"Point"}
+}

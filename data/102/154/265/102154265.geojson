@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.810217,64.836701,-147.810217,64.836701",
+    "geom:latitude":64.836701,
+    "geom:longitude":-147.810217,
+    "iso:country":"US",
+    "sg:address":"3627 Airport Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 374 3311",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ESrISXDNlhyvxcw45AwgZ_64.836701_-147.810217@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"77e850490cabaaa9985b2ea042fa53d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102154265"
+        }
+    ],
+    "wof:id":"102154265",
+    "wof:lastmodified":1449070243,
+    "wof:name":"Crown Enterprise",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.810217,64.836701,-147.810217,64.836701],
+  "geometry": {"coordinates":[-147.810217,64.836701],"type":"Point"}
+}

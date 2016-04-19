@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.875561,61.149527,-149.875561,61.149527",
+    "geom:latitude":61.149527,
+    "geom:longitude":-149.875561,
+    "iso:country":"US",
+    "sg:address":"7801 Schoon St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 222 7672",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fokujSKwl69VdxFE43z1U_61.149527_-149.875561@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"24f36328be5c653e8cb8130cd3c6d36e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102149617"
+        }
+    ],
+    "wof:id":"102149617",
+    "wof:lastmodified":1449067767,
+    "wof:name":"Bering Pacific Construction",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.875561,61.149527,-149.875561,61.149527],
+  "geometry": {"coordinates":[-149.875561,61.149527],"type":"Point"}
+}

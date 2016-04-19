@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.81795,61.182561,-149.81795,61.182561",
+    "geom:latitude":61.182561,
+    "geom:longitude":-149.81795,
+    "iso:country":"US",
+    "sg:address":"3110 E 42nd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 2054",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873727,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kdGQvX95qc1SscJIRs6ct_61.182561_-149.817950@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"518d559ca76817f9d5dfcd9be001195a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873727,
+            "region_id":85688573,
+            "venue_id":"102172353"
+        }
+    ],
+    "wof:id":"102172353",
+    "wof:lastmodified":1449068735,
+    "wof:name":"RTR Bicycles",
+    "wof:parent_id":85873727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.81795,61.182561,-149.81795,61.182561],
+  "geometry": {"coordinates":[-149.81795,61.182561],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.487828,61.585787,-149.487828,61.585787",
+    "geom:latitude":61.585787,
+    "geom:longitude":-149.487828,
+    "iso:country":"US",
+    "sg:address":"1660 W Vaunda Ave",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 2374",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OHHlUsyzcuM02Ph9l6PCZ_61.585787_-149.487828@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ea741fcb841c09a15fe25f56a7cb377a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102147817"
+        }
+    ],
+    "wof:id":"102147817",
+    "wof:lastmodified":1449069927,
+    "wof:name":"Berg Roofing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.487828,61.585787,-149.487828,61.585787],
+  "geometry": {"coordinates":[-149.487828,61.585787],"type":"Point"}
+}

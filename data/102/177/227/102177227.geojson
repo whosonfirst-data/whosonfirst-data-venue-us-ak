@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.442084,60.112531,-149.442084,60.112531",
+    "geom:latitude":60.112531,
+    "geom:longitude":-149.442084,
+    "iso:country":"US",
+    "sg:address":"1002 3rd Ave",
+    "sg:city":"Seward",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 224 5498",
+    "sg:postcode":"99664",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915769,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AAAUcNBOonzMOqzVcgsm5_60.112531_-149.442084@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fc3e4746db9a4c302d9f030b2eabf4b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915769,
+            "region_id":85688573,
+            "venue_id":"102177227"
+        }
+    ],
+    "wof:id":"102177227",
+    "wof:lastmodified":1449070203,
+    "wof:name":"Bay City Motors",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.442084,60.112531,-149.442084,60.112531],
+  "geometry": {"coordinates":[-149.442084,60.112531],"type":"Point"}
+}

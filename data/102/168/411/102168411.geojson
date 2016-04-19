@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.929523,61.176867,-149.929523,61.176867",
+    "geom:latitude":61.176867,
+    "geom:longitude":-149.929523,
+    "iso:country":"US",
+    "sg:address":"4810 Haru Ln",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 3884",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16z6uAlClWwBvW1Ha2Jyhr_61.176867_-149.929523@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bb5e282b2fcb11b4ae37cd52957e457c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102168411"
+        }
+    ],
+    "wof:id":"102168411",
+    "wof:lastmodified":1449069004,
+    "wof:name":"Crombie Construction Co",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.929523,61.176867,-149.929523,61.176867],
+  "geometry": {"coordinates":[-149.929523,61.176867],"type":"Point"}
+}

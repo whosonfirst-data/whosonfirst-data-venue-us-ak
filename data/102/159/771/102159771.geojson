@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.708015,64.848913,-147.708015,64.848913",
+    "geom:latitude":64.848913,
+    "geom:longitude":-147.708015,
+    "iso:country":"US",
+    "sg:address":"129 Minnie St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 5282",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "sg:website":"www.chandlerplumbing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HexUwJfJ7MRKtjjowvNxe_64.848913_-147.708015@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"52d37d38d6053e6551ecbc4068399380",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102159771"
+        }
+    ],
+    "wof:id":"102159771",
+    "wof:lastmodified":1449068094,
+    "wof:name":"Chandler Plumbing & Heating",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.708015,64.848913,-147.708015,64.848913],
+  "geometry": {"coordinates":[-147.708015,64.848913],"type":"Point"}
+}

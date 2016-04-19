@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.445901,61.586223,-149.445901,61.586223",
+    "geom:latitude":61.586223,
+    "geom:longitude":-149.445901,
+    "iso:country":"US",
+    "sg:address":"276 Danna Ave",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 3230",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wi8cQqoMYrETv7nNjsX52_61.586223_-149.445901@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a8d20b174f7a98958352b7a55a9118c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102176933"
+        }
+    ],
+    "wof:id":"102176933",
+    "wof:lastmodified":1449069347,
+    "wof:name":"A-5 Star Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.445901,61.586223,-149.445901,61.586223],
+  "geometry": {"coordinates":[-149.445901,61.586223],"type":"Point"}
+}

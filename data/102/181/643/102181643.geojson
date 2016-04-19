@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.82392,64.844079,-147.82392,64.844079",
+    "geom:latitude":64.844079,
+    "geom:longitude":-147.82392,
+    "iso:country":"US",
+    "sg:address":"4031 Marsha Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 7731",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XrPSXzV1EBY7XsPndmPAG_64.844079_-147.823920@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"effcddb729511c97514d6227fd6bd617",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102181643"
+        }
+    ],
+    "wof:id":"102181643",
+    "wof:lastmodified":1449069235,
+    "wof:name":"Nethercot Construction",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.82392,64.844079,-147.82392,64.844079],
+  "geometry": {"coordinates":[-147.82392,64.844079],"type":"Point"}
+}

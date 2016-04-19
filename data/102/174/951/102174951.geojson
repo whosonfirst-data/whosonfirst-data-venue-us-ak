@@ -1,0 +1,68 @@
+{
+  "id": "102174951",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-151.051666,60.489794,-151.051666,60.489794",
+    "geom:latitude":60.489794,
+    "geom:longitude":-151.051666,
+    "iso:country":"US",
+    "sg:address":"43850 Sterling Hwy",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 9700",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915775,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:brand_id":420574101,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FhwCxeSDEM4f6dr2OgnDo_60.489794_-151.051666@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"168a12eeed6880924e5f81b10c4066bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915775,
+            "region_id":85688573,
+            "venue_id":"102174951"
+        }
+    ],
+    "wof:id":"102174951",
+    "wof:lastmodified":1457208479,
+    "wof:name":"Midas Auto Svc Experts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -151.051666,
+    60.489794,
+    -151.051666,
+    60.489794
+],
+  "geometry": {"coordinates":[-151.05166600000001,60.489794],"type":"Point"}
+}

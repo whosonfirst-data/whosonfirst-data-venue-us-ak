@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.628356,64.953987,-147.628356,64.953987",
+    "geom:latitude":64.953987,
+    "geom:longitude":-147.628356,
+    "iso:country":"US",
+    "sg:address":"2101 Old Steese Hwy N",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 5722",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mfg",
+        "industrial",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916597,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Luon8cdsqaGFvl9A9WIhn_64.953987_-147.628356@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4d1d720e1a7d30731c2661a8716b5231",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916597,
+            "region_id":85688573,
+            "venue_id":"102168469"
+        }
+    ],
+    "wof:id":"102168469",
+    "wof:lastmodified":1449069008,
+    "wof:name":"Howes Machine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.628356,64.953987,-147.628356,64.953987],
+  "geometry": {"coordinates":[-147.628356,64.953987],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.419302,61.609414,-149.419302,61.609414",
+    "geom:latitude":61.609414,
+    "geom:longitude":-149.419302,
+    "iso:country":"US",
+    "sg:address":"1205 Tierra Grande Dr",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 357 4044",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916185,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KvonEdP9EyOZnNmkhVARv_61.609414_-149.419302@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c53720643aec5fffba0c3ca76e0d21a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916185,
+            "region_id":85688573,
+            "venue_id":"102183411"
+        }
+    ],
+    "wof:id":"102183411",
+    "wof:lastmodified":1449069041,
+    "wof:name":"Mat-Su Realty",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.419302,61.609414,-149.419302,61.609414],
+  "geometry": {"coordinates":[-149.419302,61.609414],"type":"Point"}
+}

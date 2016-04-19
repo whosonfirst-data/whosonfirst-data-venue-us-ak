@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.550261,58.359415,-134.550261,58.359415",
+    "geom:latitude":58.359415,
+    "geom:longitude":-134.550261,
+    "iso:country":"US",
+    "sg:address":"7600 Glacier Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 790 3377",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tours",
+        "sightseeing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830251,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bIyZmBA2EGmwxvMhuvhiE_58.359415_-134.550261@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e14e2646d732decaa364d89dcbfa1a5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85830251,
+            "region_id":85688573,
+            "venue_id":"102156271"
+        }
+    ],
+    "wof:id":"102156271",
+    "wof:lastmodified":1449068281,
+    "wof:name":"Glacier Gardens Rainforest",
+    "wof:parent_id":85830251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.550261,58.359415,-134.550261,58.359415],
+  "geometry": {"coordinates":[-134.550261,58.359415],"type":"Point"}
+}

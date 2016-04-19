@@ -1,0 +1,67 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.485707,58.338031,-134.485707,58.338031",
+    "geom:latitude":58.338031,
+    "geom:longitude":-134.485707,
+    "iso:country":"US",
+    "sg:address":"4112 Blackerby St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 790 3386",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "consultant",
+        "designer",
+        "datum",
+        "system"
+    ],
+    "sg:website":"www.norcomsoftware.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853509,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0USVeWepNPAEmoyDPcTTSe_58.338031_-134.485707@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4a042bfed8e4457feec16837e0a3cebb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85853509,
+            "region_id":85688573,
+            "venue_id":"102187425"
+        }
+    ],
+    "wof:id":"102187425",
+    "wof:lastmodified":1449068158,
+    "wof:name":"Norcom Cobol Software",
+    "wof:parent_id":85853509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.485707,58.338031,-134.485707,58.338031],
+  "geometry": {"coordinates":[-134.485707,58.338031],"type":"Point"}
+}

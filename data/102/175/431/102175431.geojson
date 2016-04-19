@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.443118,61.586859,-149.443118,61.586859",
+    "geom:latitude":61.586859,
+    "geom:longitude":-149.443118,
+    "iso:country":"US",
+    "sg:address":"805 Wasilla-Fishhook Rd",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 4374",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "motorcycle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I2CkPUbSn5yZNKULMmCM6_61.586859_-149.443118@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ddfa66da363b7efcea3df38ac3dca76d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102175431"
+        }
+    ],
+    "wof:id":"102175431",
+    "wof:lastmodified":1449069464,
+    "wof:name":"Full Moon Custom Cycles",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.443118,61.586859,-149.443118,61.586859],
+  "geometry": {"coordinates":[-149.443118,61.586859],"type":"Point"}
+}

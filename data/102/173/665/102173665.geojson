@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.714328,64.828354,-147.714328,64.828354",
+    "geom:latitude":64.828354,
+    "geom:longitude":-147.714328,
+    "iso:country":"US",
+    "sg:address":"2117 S Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 7296",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nabRHuUf7vZh6nVK5Elje_64.828354_-147.714328@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"72bbb426719a27c70e884bfa1d115327",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102173665"
+        }
+    ],
+    "wof:id":"102173665",
+    "wof:lastmodified":1449068265,
+    "wof:name":"AAA Mr Pawn",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.714328,64.828354,-147.714328,64.828354],
+  "geometry": {"coordinates":[-147.714328,64.828354],"type":"Point"}
+}

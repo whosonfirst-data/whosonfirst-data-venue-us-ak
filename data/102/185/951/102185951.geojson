@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.833253,61.09049,-149.833253,61.09049",
+    "geom:latitude":61.09049,
+    "geom:longitude":-149.833253,
+    "iso:country":"US",
+    "sg:address":"2610 E 144th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 4512",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ynypZ5GHzbwvKEickK9TJ_61.090490_-149.833253@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d6189875f809ed4da65fe745a0dcac5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102185951"
+        }
+    ],
+    "wof:id":"102185951",
+    "wof:lastmodified":1449068194,
+    "wof:name":"Boyds Loader Service",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.833253,61.09049,-149.833253,61.09049],
+  "geometry": {"coordinates":[-149.833253,61.09049],"type":"Point"}
+}

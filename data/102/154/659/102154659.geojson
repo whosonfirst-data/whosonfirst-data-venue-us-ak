@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.871091,61.21577,-149.871091,61.21577",
+    "geom:latitude":61.21577,
+    "geom:longitude":-149.871091,
+    "iso:country":"US",
+    "sg:address":"618 Gambell St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 646 9292",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rJXEARcMbvc2yyyIuhyeR_61.215770_-149.871091@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"39b83cc2ef974f33b826fb72e9c41ad2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102154659"
+        }
+    ],
+    "wof:id":"102154659",
+    "wof:lastmodified":1449070242,
+    "wof:name":"Alaska Catalog Sales",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.871091,61.21577,-149.871091,61.21577],
+  "geometry": {"coordinates":[-149.871091,61.21577],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.733165,64.850389,-147.733165,64.850389",
+    "geom:latitude":64.850389,
+    "geom:longitude":-147.733165,
+    "iso:country":"US",
+    "sg:address":"1429 Minnie St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 4649",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "field",
+        "oil",
+        "cement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CqhRtq5s5NBtbHWVoOOHI_64.850389_-147.733165@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a9b1be8c82d2981a3f0f777fdd198fa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102194041"
+        }
+    ],
+    "wof:id":"102194041",
+    "wof:lastmodified":1449069828,
+    "wof:name":"Halliburton Energy Services",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.733165,64.850389,-147.733165,64.850389],
+  "geometry": {"coordinates":[-147.733165,64.850389],"type":"Point"}
+}

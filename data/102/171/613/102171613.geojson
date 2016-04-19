@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.869605,61.209757,-149.869605,61.209757",
+    "geom:latitude":61.209757,
+    "geom:longitude":-149.869605,
+    "iso:country":"US",
+    "sg:address":"741 E 13th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 5634",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LhdGOXPpa5FQdb1m2maMH_61.209757_-149.869605@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d2a3c9952675640fa7e7a534057c1946",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102171613"
+        }
+    ],
+    "wof:id":"102171613",
+    "wof:lastmodified":1449070223,
+    "wof:name":"Webb's Consulting",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.869605,61.209757,-149.869605,61.209757],
+  "geometry": {"coordinates":[-149.869605,61.209757],"type":"Point"}
+}

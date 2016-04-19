@@ -1,0 +1,71 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.518481,61.313379,-149.518481,61.313379",
+    "geom:latitude":61.313379,
+    "geom:longitude":-149.518481,
+    "iso:country":"US",
+    "sg:address":"19546 3rd St",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 694 4696",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:tags":[
+        "installation",
+        "sprinkler",
+        "fire",
+        "consultant",
+        "system",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jMPc36soKFfKlTjQtwsD9_61.313379_-149.518481@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"31dd11db2ff5f672b0f049372908271d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102148205"
+        }
+    ],
+    "wof:id":"102148205",
+    "wof:lastmodified":1449069784,
+    "wof:name":"Frontier Fire Protection LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.518481,61.313379,-149.518481,61.313379],
+  "geometry": {"coordinates":[-149.518481,61.313379],"type":"Point"}
+}

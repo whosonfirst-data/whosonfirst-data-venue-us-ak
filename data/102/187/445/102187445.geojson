@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.381291,56.471553,-132.381291,56.471553",
+    "geom:latitude":56.471553,
+    "geom:longitude":-132.381291,
+    "iso:country":"US",
+    "sg:address":"333 Church St",
+    "sg:city":"Wrangell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 874 2373",
+    "sg:postcode":"99929",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mental"
+    ],
+    "sg:website":"www.wrangellservices.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916111,
+        85633793,
+        85688573,
+        102081901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03SuEq2P4Ai2MmuSzRhtzq_56.471553_-132.381291@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b5a7df7969ec717da26253033a7ae16a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081901,
+            "locality_id":85916111,
+            "region_id":85688573,
+            "venue_id":"102187445"
+        }
+    ],
+    "wof:id":"102187445",
+    "wof:lastmodified":1449068158,
+    "wof:name":"Wrangell Community Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.381291,56.471553,-132.381291,56.471553],
+  "geometry": {"coordinates":[-132.381291,56.471553],"type":"Point"}
+}

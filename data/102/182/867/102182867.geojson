@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.440554,60.11146,-149.440554,60.11146",
+    "geom:latitude":60.11146,
+    "geom:longitude":-149.440554,
+    "iso:country":"US",
+    "sg:address":"911 4th Ave",
+    "sg:city":"Seward",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 224 8090",
+    "sg:postcode":"99664",
+    "sg:province":"AK",
+    "sg:website":"www.murphysmotel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915769,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dimi6IlWF0aQQ8wqxgykQ_60.111460_-149.440554@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd4b0a273a06cf832d5778bd55bae150",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915769,
+            "region_id":85688573,
+            "venue_id":"102182867"
+        }
+    ],
+    "wof:id":"102182867",
+    "wof:lastmodified":1449069280,
+    "wof:name":"Murphy's Motel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.440554,60.11146,-149.440554,60.11146],
+  "geometry": {"coordinates":[-149.440554,60.11146],"type":"Point"}
+}

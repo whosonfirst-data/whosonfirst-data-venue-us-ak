@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-145.516913,64.049578,-145.516913,64.049578",
+    "geom:latitude":64.049578,
+    "geom:longitude":-145.516913,
+    "iso:country":"US",
+    "sg:address":"1751 Clearwater Rd",
+    "sg:city":"Delta Junction",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 895 2073",
+    "sg:postcode":"99737",
+    "sg:province":"AK",
+    "sg:tags":[
+        "water",
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916509,
+        85633793,
+        85688573,
+        102080993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Dc7Wz9WGS0J9mj7ygQAWo_64.049578_-145.516913@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"66237247690369dc674d72f8709b8256",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080993,
+            "locality_id":85916509,
+            "region_id":85688573,
+            "venue_id":"102185197"
+        }
+    ],
+    "wof:id":"102185197",
+    "wof:lastmodified":1449068198,
+    "wof:name":"Arctic Drilling",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-145.516913,64.049578,-145.516913,64.049578],
+  "geometry": {"coordinates":[-145.516913,64.049578],"type":"Point"}
+}

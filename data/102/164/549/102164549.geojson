@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.44709,58.315509,-134.44709,58.315509",
+    "geom:latitude":58.315509,
+    "geom:longitude":-134.44709,
+    "iso:country":"US",
+    "sg:address":"1841 Glacier Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 463 3464",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZUjAgyHmnJu3PSYSKr9AT_58.315509_-134.447090@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5f4b288b7e74f5773ca6e94c818779c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102164549"
+        }
+    ],
+    "wof:id":"102164549",
+    "wof:lastmodified":1449068091,
+    "wof:name":"B & D Landscape Consultants",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.44709,58.315509,-134.44709,58.315509],
+  "geometry": {"coordinates":[-134.44709,58.315509],"type":"Point"}
+}

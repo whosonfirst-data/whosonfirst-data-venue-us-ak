@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.712547,64.823732,-147.712547,64.823732",
+    "geom:latitude":64.823732,
+    "geom:longitude":-147.712547,
+    "iso:country":"US",
+    "sg:address":"2560 S Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 4796",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vKG313ULYY2YXd9RM6mIX_64.823732_-147.712547@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"69bd28ea742ba904ecfc7eca4174e7b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102174927"
+        }
+    ],
+    "wof:id":"102174927",
+    "wof:lastmodified":1449068142,
+    "wof:name":"Fairbanks Radiator & Muffler",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.712547,64.823732,-147.712547,64.823732],
+  "geometry": {"coordinates":[-147.712547,64.823732],"type":"Point"}
+}

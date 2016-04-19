@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.901645,61.218552,-149.901645,61.218552",
+    "geom:latitude":61.218552,
+    "geom:longitude":-149.901645,
+    "iso:country":"US",
+    "sg:address":"301 K St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 278 9800",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "training",
+        "computer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rHPSD5p9eOq6unfwkWQAz_61.218552_-149.901645@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7b2a8fe54b305804bccce1f11c2bdffa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102154555"
+        }
+    ],
+    "wof:id":"102154555",
+    "wof:lastmodified":1449070248,
+    "wof:name":"Consulting Limited",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.901645,61.218552,-149.901645,61.218552],
+  "geometry": {"coordinates":[-149.901645,61.218552],"type":"Point"}
+}

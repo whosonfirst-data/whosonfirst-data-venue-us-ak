@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.405047,58.280095,-134.405047,58.280095",
+    "geom:latitude":58.280095,
+    "geom:longitude":-134.405047,
+    "iso:country":"US",
+    "sg:address":"2201 Crow Hill Dr",
+    "sg:city":"Douglas",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 364 3130",
+    "sg:postcode":"99824",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2h8MY8cezOfJdBbCI2reIA_58.280095_-134.405047@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4c966411626cba58af70891bdf28bf79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102160253"
+        }
+    ],
+    "wof:id":"102160253",
+    "wof:lastmodified":1449069777,
+    "wof:name":"Orca Point Apartments",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.405047,58.280095,-134.405047,58.280095],
+  "geometry": {"coordinates":[-134.405047,58.280095],"type":"Point"}
+}

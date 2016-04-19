@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.57063,61.33425,-149.57063,61.33425",
+    "geom:latitude":61.33425,
+    "geom:longitude":-149.57063,
+    "iso:country":"US",
+    "sg:address":"12607 Iris Way",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 694 4041",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UH5fWrSLLGxO4JV2UmW2l_61.334250_-149.570630@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b391bc373f9feae22cbe2d67074029e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102174487"
+        }
+    ],
+    "wof:id":"102174487",
+    "wof:lastmodified":1449068138,
+    "wof:name":"Three B's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.57063,61.33425,-149.57063,61.33425],
+  "geometry": {"coordinates":[-149.57063,61.33425],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.740055,61.120865,-149.740055,61.120865",
+    "geom:latitude":61.120865,
+    "geom:longitude":-149.740055,
+    "iso:country":"US",
+    "sg:address":"11101 Hideaway Lake Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 346 1961",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873747,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27OoChh0ziqv21DpmCSKxj_61.120865_-149.740055@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"56c9b3fb5c71c8890424eefa0b483a96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873747,
+            "region_id":85688573,
+            "venue_id":"102194225"
+        }
+    ],
+    "wof:id":"102194225",
+    "wof:lastmodified":1449069828,
+    "wof:name":"Emf Electric",
+    "wof:parent_id":85873747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.740055,61.120865,-149.740055,61.120865],
+  "geometry": {"coordinates":[-149.740055,61.120865],"type":"Point"}
+}

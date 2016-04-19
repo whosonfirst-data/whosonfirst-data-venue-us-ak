@@ -1,0 +1,67 @@
+{
+  "id": "102162103",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.83807,61.172296,-149.83807,61.172296",
+    "geom:latitude":61.172296,
+    "geom:longitude":-149.83807,
+    "iso:country":"US",
+    "sg:address":"5353 Lake Otis Pkwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 3211",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:website":"www.ymcaalaska.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85915707,
+        102085881,
+        85873715
+    ],
+    "wof:brand_id":420573973,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Hz7TOb7gM7t0fsmfR5oEl_61.172296_-149.838070@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b21541eef0e0e5a41116ee324aae148c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102162103"
+        }
+    ],
+    "wof:id":"102162103",
+    "wof:lastmodified":1457208041,
+    "wof:name":"YMCA",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.83807,
+    61.172296,
+    -149.83807,
+    61.172296
+],
+  "geometry": {"coordinates":[-149.83806999999999,61.172296],"type":"Point"}
+}

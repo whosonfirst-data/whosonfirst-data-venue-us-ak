@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.321676,61.584883,-149.321676,61.584883",
+    "geom:latitude":61.584883,
+    "geom:longitude":-149.321676,
+    "iso:country":"US",
+    "sg:address":"4910 E Palmer-Wasilla Hwy",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 6848",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916225,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1glMTzRjV6cPq1ZNArLjA4_61.584883_-149.321676@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f7c00befc24720f81a2a3dae3d5b74ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916225,
+            "region_id":85688573,
+            "venue_id":"102149861"
+        }
+    ],
+    "wof:id":"102149861",
+    "wof:lastmodified":1449067771,
+    "wof:name":"Byron's Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.321676,61.584883,-149.321676,61.584883],
+  "geometry": {"coordinates":[-149.321676,61.584883],"type":"Point"}
+}

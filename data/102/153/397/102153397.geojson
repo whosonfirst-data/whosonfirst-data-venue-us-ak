@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.154801,61.669509,-149.154801,61.669509",
+    "geom:latitude":61.669509,
+    "geom:longitude":-149.154801,
+    "iso:country":"US",
+    "sg:address":"7700 Norman Cir",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 8209",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916309,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VlvcoelJQVhJmczAlM3AB_61.669509_-149.154801@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"129fb7b6abf8b71a0c36cb1cd33fb95f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916309,
+            "region_id":85688573,
+            "venue_id":"102153397"
+        }
+    ],
+    "wof:id":"102153397",
+    "wof:lastmodified":1449069461,
+    "wof:name":"Hamilton Excavating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.154801,61.669509,-149.154801,61.669509],
+  "geometry": {"coordinates":[-149.154801,61.669509],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.858773,61.105785,-149.858773,61.105785",
+    "geom:latitude":61.105785,
+    "geom:longitude":-149.858773,
+    "iso:country":"US",
+    "sg:address":"12801 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 3547",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "food",
+        "covered",
+        "crop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Et7aNwDrg5kQXOndbnUfl_61.105785_-149.858773@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e2f90560e1c87912b0198afffef1ae67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102147805"
+        }
+    ],
+    "wof:id":"102147805",
+    "wof:lastmodified":1449069928,
+    "wof:name":"Alaska Winter Gardens",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.858773,61.105785,-149.858773,61.105785],
+  "geometry": {"coordinates":[-149.858773,61.105785],"type":"Point"}
+}

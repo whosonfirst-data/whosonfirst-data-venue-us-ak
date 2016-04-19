@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.721561,61.073616,-149.721561,61.073616",
+    "geom:latitude":61.073616,
+    "geom:longitude":-149.721561,
+    "iso:country":"US",
+    "sg:address":"16315 Kings Way Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 229 5159",
+    "sg:postcode":"99516",
+    "sg:province":"AK",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873741,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hEIc3jS1F2mUuOgqs6gce_61.073616_-149.721561@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1d8ed448beb29937d70b69ffa40c2708",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873741,
+            "region_id":85688573,
+            "venue_id":"102185227"
+        }
+    ],
+    "wof:id":"102185227",
+    "wof:lastmodified":1449068197,
+    "wof:name":"Professional Services",
+    "wof:parent_id":85873741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.721561,61.073616,-149.721561,61.073616],
+  "geometry": {"coordinates":[-149.721561,61.073616],"type":"Point"}
+}

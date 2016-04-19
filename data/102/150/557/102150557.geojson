@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.857899,61.104447,-149.857899,61.104447",
+    "geom:latitude":61.104447,
+    "geom:longitude":-149.857899,
+    "iso:country":"US",
+    "sg:address":"12701 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 345 7813",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873753,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JgxASOToKTycYDKUZnmR5_61.104447_-149.857899@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1e2fd62746e7e360566ba9c6b4dc8082",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":"102150557"
+        }
+    ],
+    "wof:id":"102150557",
+    "wof:lastmodified":1449067790,
+    "wof:name":"Magic Wand Car Wash",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.857899,61.104447,-149.857899,61.104447],
+  "geometry": {"coordinates":[-149.857899,61.104447],"type":"Point"}
+}

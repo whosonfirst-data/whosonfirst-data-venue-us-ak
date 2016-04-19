@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-152.35426,57.814919,-152.35426,57.814919",
+    "geom:latitude":57.814919,
+    "geom:longitude":-152.35426,
+    "iso:country":"US",
+    "sg:address":"3751 E Rezanof Dr",
+    "sg:city":"Kodiak",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 486 6788",
+    "sg:postcode":"99615",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688573,
+        102081005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YNdaTCIn1OxoYdIJi8gp9_57.814919_-152.354260@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"15635e3679afaa63a48a784f7ef54384",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081005,
+            "region_id":85688573,
+            "venue_id":"102178895"
+        }
+    ],
+    "wof:id":"102178895",
+    "wof:lastmodified":1449069531,
+    "wof:name":"C & F Bayside Auto Repair Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-152.35426,57.814919,-152.35426,57.814919],
+  "geometry": {"coordinates":[-152.35426,57.814919],"type":"Point"}
+}

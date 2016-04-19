@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.473195,58.333463,-134.473195,58.333463",
+    "geom:latitude":58.333463,
+    "geom:longitude":-134.473195,
+    "iso:country":"US",
+    "sg:address":"3500 Glacier Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 780 4411",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853509,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PwhwpoUhlyXQOpoFzxTwt_58.333463_-134.473195@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"79e85ab835bccabb4743bb188027ebce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85853509,
+            "region_id":85688573,
+            "venue_id":"102153381"
+        }
+    ],
+    "wof:id":"102153381",
+    "wof:lastmodified":1449069460,
+    "wof:name":"Jack's Plumbing & Heating",
+    "wof:parent_id":85853509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.473195,58.333463,-134.473195,58.333463],
+  "geometry": {"coordinates":[-134.473195,58.333463],"type":"Point"}
+}

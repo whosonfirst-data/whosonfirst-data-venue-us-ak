@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.981606,61.178178,-149.981606,61.178178",
+    "geom:latitude":61.178178,
+    "geom:longitude":-149.981606,
+    "iso:country":"US",
+    "sg:address":"4600 Postmark Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 245 1738",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "sg:website":"www.evaair.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852831,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62kVfZtsPOn5wIax5rsmpK_61.178178_-149.981606@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"68ed2a1ab6a6805e5c94ceb75485ef39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":"102174619"
+        }
+    ],
+    "wof:id":"102174619",
+    "wof:lastmodified":1449068137,
+    "wof:name":"Eva Airways",
+    "wof:parent_id":85852831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.981606,61.178178,-149.981606,61.178178],
+  "geometry": {"coordinates":[-149.981606,61.178178],"type":"Point"}
+}

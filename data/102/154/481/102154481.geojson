@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.407205,58.300622,-134.407205,58.300622",
+    "geom:latitude":58.300622,
+    "geom:longitude":-134.407205,
+    "iso:country":"US",
+    "sg:address":"123 S Seward St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 9696",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "photocopying",
+        "bindery",
+        "full"
+    ],
+    "sg:website":"www.capitalcopy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GJ4mQJ7FD27eKegCzzKsL_58.300622_-134.407205@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5328aaa0973956b5fc74b50946d8877e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102154481"
+        }
+    ],
+    "wof:id":"102154481",
+    "wof:lastmodified":1449070247,
+    "wof:name":"Capital Copy LTD",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.407205,58.300622,-134.407205,58.300622],
+  "geometry": {"coordinates":[-134.407205,58.300622],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.918288,61.137496,-149.918288,61.137496",
+    "geom:latitude":61.137496,
+    "geom:longitude":-149.918288,
+    "iso:country":"US",
+    "sg:address":"2200 W Dimond Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 1746",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873739,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ObTJlYi7PL2bEFBEH1iJM_61.137496_-149.918288@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"770da33fea94c4cd5cbb329d3c1090df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873739,
+            "region_id":85688573,
+            "venue_id":"102171733"
+        }
+    ],
+    "wof:id":"102171733",
+    "wof:lastmodified":1449070222,
+    "wof:name":"Chevron Food Mart",
+    "wof:parent_id":85873739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.918288,61.137496,-149.918288,61.137496],
+  "geometry": {"coordinates":[-149.918288,61.137496],"type":"Point"}
+}

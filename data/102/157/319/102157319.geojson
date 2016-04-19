@@ -1,0 +1,74 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.897874,61.17464,-149.897874,61.17464",
+    "geom:latitude":61.17464,
+    "geom:longitude":-149.897874,
+    "iso:country":"US",
+    "sg:address":"5121 Arctic Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 1532",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "crude",
+        "production",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573,
+        85850461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1moPXV8PfgUIAPewPmFQVF_61.174640_-149.897874@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"407df882495f93c8fd0c6b23500f64c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102157319"
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102157319"
+        }
+    ],
+    "wof:id":"102157319",
+    "wof:lastmodified":1449069832,
+    "wof:name":"2go",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.897874,61.17464,-149.897874,61.17464],
+  "geometry": {"coordinates":[-149.897874,61.17464],"type":"Point"}
+}

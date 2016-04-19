@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.241294,60.55353,-151.241294,60.55353",
+    "geom:latitude":60.55353,
+    "geom:longitude":-151.241294,
+    "iso:country":"US",
+    "sg:address":"220 Spr View Dr",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 5400",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tGXcZvp4mzT1eJZPcjKjh_60.553530_-151.241294@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f660564291e087604ca5a89fab6344d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102193091"
+        }
+    ],
+    "wof:id":"102193091",
+    "wof:lastmodified":1449068192,
+    "wof:name":"Peninsula Ear Nose & Throat",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.241294,60.55353,-151.241294,60.55353],
+  "geometry": {"coordinates":[-151.241294,60.55353],"type":"Point"}
+}

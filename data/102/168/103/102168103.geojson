@@ -1,0 +1,68 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.698438,61.247307,-149.698438,61.247307",
+    "geom:latitude":61.247307,
+    "geom:longitude":-149.698438,
+    "iso:country":"US",
+    "sg:address":"125 Iliamna Ave",
+    "sg:city":"Fort Richardson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 356 3541",
+    "sg:postcode":"99505",
+    "sg:province":"AK",
+    "sg:tags":[
+        "fabric",
+        "mfg",
+        "household",
+        "mill",
+        "wool",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820221,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7awPyCYceJgznaWmb5yXoq_61.247307_-149.698438@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"915575c568b5bd6ef431cc09a2768be3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85820221,
+            "region_id":85688573,
+            "venue_id":"102168103"
+        }
+    ],
+    "wof:id":"102168103",
+    "wof:lastmodified":1449069007,
+    "wof:name":"Merritts Masterpieces",
+    "wof:parent_id":85820221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.698438,61.247307,-149.698438,61.247307],
+  "geometry": {"coordinates":[-149.698438,61.247307],"type":"Point"}
+}

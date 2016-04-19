@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.447192,61.582146,-149.447192,61.582146",
+    "geom:latitude":61.582146,
+    "geom:longitude":-149.447192,
+    "iso:country":"US",
+    "sg:address":"290 N Willow St",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 7815",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tPO93Dfc0Syp79ejfZfK7_61.582146_-149.447192@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1ff60b3d2dd6633794fc837ca25de9b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102164761"
+        }
+    ],
+    "wof:id":"102164761",
+    "wof:lastmodified":1449068090,
+    "wof:name":"USKH Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.447192,61.582146,-149.447192,61.582146],
+  "geometry": {"coordinates":[-149.447192,61.582146],"type":"Point"}
+}

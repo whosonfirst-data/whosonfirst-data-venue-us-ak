@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.599574,61.550612,-149.599574,61.550612",
+    "geom:latitude":61.550612,
+    "geom:longitude":-149.599574,
+    "iso:country":"US",
+    "sg:address":"2591 Desiree Cir",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 6525",
+    "sg:postcode":"99687",
+    "sg:province":"AK",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916243,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uzjyo6vfAqkosFZFtif8i_61.550612_-149.599574@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5d9ecb73bd5da38ad87393a7cf0a7c0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916243,
+            "region_id":85688573,
+            "venue_id":"102161499"
+        }
+    ],
+    "wof:id":"102161499",
+    "wof:lastmodified":1449068709,
+    "wof:name":"Gottago Boarding",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.599574,61.550612,-149.599574,61.550612],
+  "geometry": {"coordinates":[-149.599574,61.550612],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.95799,56.813161,-132.95799,56.813161",
+    "geom:latitude":56.813161,
+    "geom:longitude":-132.95799,
+    "iso:country":"US",
+    "sg:address":"11 Excel St",
+    "sg:city":"Petersburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 772 3320",
+    "sg:postcode":"99833",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916033,
+        85633793,
+        85688573,
+        102081899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jKiKq0VgLSDbqSdFgARFh_56.813161_-132.957990@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0456425534406a64368f5ee012d65866",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081899,
+            "locality_id":85916033,
+            "region_id":85688573,
+            "venue_id":"102190877"
+        }
+    ],
+    "wof:id":"102190877",
+    "wof:lastmodified":1449070036,
+    "wof:name":"Richard Sprague DDS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.95799,56.813161,-132.95799,56.813161],
+  "geometry": {"coordinates":[-132.95799,56.813161],"type":"Point"}
+}

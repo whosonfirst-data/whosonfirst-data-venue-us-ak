@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.585598,59.64777,-151.585598,59.64777",
+    "geom:latitude":59.64777,
+    "geom:longitude":-151.585598,
+    "iso:country":"US",
+    "sg:address":"1588 Hillside Pl",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 5215",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5evajdkLWNTwX9Ob1SpwFP_59.647770_-151.585598@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"da9e6f61554b5bcc477b369681e9e049",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102149823"
+        }
+    ],
+    "wof:id":"102149823",
+    "wof:lastmodified":1449067771,
+    "wof:name":"Humpy Trails",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.585598,59.64777,-151.585598,59.64777],
+  "geometry": {"coordinates":[-151.585598,59.64777],"type":"Point"}
+}

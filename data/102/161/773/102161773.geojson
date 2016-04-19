@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.403713,58.298923,-134.403713,58.298923",
+    "geom:latitude":58.298923,
+    "geom:longitude":-134.403713,
+    "iso:country":"US",
+    "sg:address":"236 S Franklin St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 9000",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tDMkgaOf5Xx0qWv9zyA2h_58.298923_-134.403713@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"346d9a8a91fe633885a3b464529d28df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102161773"
+        }
+    ],
+    "wof:id":"102161773",
+    "wof:lastmodified":1449068708,
+    "wof:name":"Little Switzerland",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.403713,58.298923,-134.403713,58.298923],
+  "geometry": {"coordinates":[-134.403713,58.298923],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.434856,58.295116,-134.434856,58.295116",
+    "geom:latitude":58.295116,
+    "geom:longitude":-134.434856,
+    "iso:country":"US",
+    "sg:address":"3410 Foster Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 1429",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FunUgq5my7qSQwngL6y86_58.295116_-134.434856@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a770547a84d2576b2cf67426e46ec1b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102165005"
+        }
+    ],
+    "wof:id":"102165005",
+    "wof:lastmodified":1449070217,
+    "wof:name":"Alaska Housing Finance Corp",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.434856,58.295116,-134.434856,58.295116],
+  "geometry": {"coordinates":[-134.434856,58.295116],"type":"Point"}
+}

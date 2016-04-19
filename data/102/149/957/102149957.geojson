@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.801335,64.857386,-147.801335,64.857386",
+    "geom:latitude":64.857386,
+    "geom:longitude":-147.801335,
+    "iso:country":"US",
+    "sg:address":"3412 College Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 0099",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "hostel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EiC11TJU2e7rBiUmSleDc_64.857386_-147.801335@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"375d8a49be25d854a1511aeae97832ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102149957"
+        }
+    ],
+    "wof:id":"102149957",
+    "wof:lastmodified":1449067771,
+    "wof:name":"Fairbanks Hostel",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.801335,64.857386,-147.801335,64.857386],
+  "geometry": {"coordinates":[-147.801335,64.857386],"type":"Point"}
+}

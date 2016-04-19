@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.727969,61.222374,-149.727969,61.222374",
+    "geom:latitude":61.222374,
+    "geom:longitude":-149.727969,
+    "iso:country":"US",
+    "sg:address":"8101 Peck Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 4581",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yrbRYX7UjFb4CNEz8DHfG_61.222374_-149.727969@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ac37deb7ff56706ad682179cf47579e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102191467"
+        }
+    ],
+    "wof:id":"102191467",
+    "wof:lastmodified":1449069202,
+    "wof:name":"Brown Tabby Glass Etching",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.727969,61.222374,-149.727969,61.222374],
+  "geometry": {"coordinates":[-149.727969,61.222374],"type":"Point"}
+}

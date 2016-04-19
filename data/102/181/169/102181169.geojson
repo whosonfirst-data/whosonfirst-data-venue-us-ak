@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.861992,61.198121,-149.861992,61.198121",
+    "geom:latitude":61.198121,
+    "geom:longitude":-149.861992,
+    "iso:country":"US",
+    "sg:address":"2439 Karluk St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 2432",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tDdPcMThMANCbWYbmjAto_61.198121_-149.861992@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b20f5bfaf4d77316f8f8fb0fe9898794",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102181169"
+        }
+    ],
+    "wof:id":"102181169",
+    "wof:lastmodified":1449069235,
+    "wof:name":"Coady SGB",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.861992,61.198121,-149.861992,61.198121],
+  "geometry": {"coordinates":[-149.861992,61.198121],"type":"Point"}
+}

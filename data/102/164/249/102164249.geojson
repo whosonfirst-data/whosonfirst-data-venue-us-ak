@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.452968,64.888886,-147.452968,64.888886",
+    "geom:latitude":64.888886,
+    "geom:longitude":-147.452968,
+    "iso:country":"US",
+    "sg:address":"629 Eberhardt Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 7775",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916545,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Xvu8jowkxjSe0sgGmQ8NH_64.888886_-147.452968@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3672545369396e878487bc1af295ad39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916545,
+            "region_id":85688573,
+            "venue_id":"102164249"
+        }
+    ],
+    "wof:id":"102164249",
+    "wof:lastmodified":1449068085,
+    "wof:name":"Northern Noggin Barber Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.452968,64.888886,-147.452968,64.888886],
+  "geometry": {"coordinates":[-147.452968,64.888886],"type":"Point"}
+}

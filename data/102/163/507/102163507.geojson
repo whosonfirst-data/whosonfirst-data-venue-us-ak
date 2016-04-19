@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.839561,61.16485,-149.839561,61.16485",
+    "geom:latitude":61.16485,
+    "geom:longitude":-149.839561,
+    "iso:country":"US",
+    "sg:address":"6130 Tuttle Pl",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 6449",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CiUV5WO5JqhKGIGvNhOcc_61.164850_-149.839561@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a9078e2218adb684c17dbd6a1bdcf6af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102163507"
+        }
+    ],
+    "wof:id":"102163507",
+    "wof:lastmodified":1449070164,
+    "wof:name":"Southern Region Emergency Med",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.839561,61.16485,-149.839561,61.16485],
+  "geometry": {"coordinates":[-149.839561,61.16485],"type":"Point"}
+}

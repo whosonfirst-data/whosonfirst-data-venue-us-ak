@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-161.798622,60.785199,-161.798622,60.785199",
+    "geom:latitude":60.785199,
+    "geom:longitude":-161.798622,
+    "iso:country":"US",
+    "sg:address":"105 Hoffman Rd",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 543 4445",
+    "sg:postcode":"99559",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915901,
+        85633793,
+        85688573,
+        102085877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_745Xjt0Y3QWwVDoa8UG9pY_60.785199_-161.798622@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"67c85e0ae834fe7c6ba8aa10e3856b9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085877,
+            "locality_id":85915901,
+            "region_id":85688573,
+            "venue_id":"102159059"
+        }
+    ],
+    "wof:id":"102159059",
+    "wof:lastmodified":1449068092,
+    "wof:name":"Ed's Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-161.798622,60.785199,-161.798622,60.785199],
+  "geometry": {"coordinates":[-161.798622,60.785199],"type":"Point"}
+}

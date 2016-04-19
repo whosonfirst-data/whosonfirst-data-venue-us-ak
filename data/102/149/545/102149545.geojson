@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.571251,61.319267,-149.571251,61.319267",
+    "geom:latitude":61.319267,
+    "geom:longitude":-149.571251,
+    "iso:country":"US",
+    "sg:address":"11115 Eagle River Rd",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 694 7475",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jSkWuxhDyjvlYRuEnbmBc_61.319267_-149.571251@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"21d42a3db9f18671f9993ae0b4e05422",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102149545"
+        }
+    ],
+    "wof:id":"102149545",
+    "wof:lastmodified":1449067769,
+    "wof:name":"Best Car Wash & Lube",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.571251,61.319267,-149.571251,61.319267],
+  "geometry": {"coordinates":[-149.571251,61.319267],"type":"Point"}
+}

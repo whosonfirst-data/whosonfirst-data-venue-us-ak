@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.857408,61.156064,-149.857408,61.156064",
+    "geom:latitude":61.156064,
+    "geom:longitude":-149.857408,
+    "iso:country":"US",
+    "sg:address":"1341 E 70th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 2158",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hmPdzaWzFYo5IHJnjZp8o_61.156064_-149.857408@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"10c3aaf84742906a6bb5dc3d14501267",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102181363"
+        }
+    ],
+    "wof:id":"102181363",
+    "wof:lastmodified":1449069236,
+    "wof:name":"Brown Bear Body & Paint",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.857408,61.156064,-149.857408,61.156064],
+  "geometry": {"coordinates":[-149.857408,61.156064],"type":"Point"}
+}

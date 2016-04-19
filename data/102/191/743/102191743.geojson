@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.563103,61.298878,-149.563103,61.298878",
+    "geom:latitude":61.298878,
+    "geom:longitude":-149.563103,
+    "iso:country":"US",
+    "sg:address":"8701 Sonora Cir",
+    "sg:city":"Eagle River",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 3211",
+    "sg:postcode":"99577",
+    "sg:province":"AK",
+    "sg:tags":[
+        "process",
+        "server"
+    ],
+    "sg:website":"www.alaska-court.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AWYXBMrGulxgOU0VTQI6p_61.298878_-149.563103@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"878776ab5e7b0c802eca45f503f85361",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102191743"
+        }
+    ],
+    "wof:id":"102191743",
+    "wof:lastmodified":1449069204,
+    "wof:name":"Alaska Court Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.563103,61.298878,-149.563103,61.298878],
+  "geometry": {"coordinates":[-149.563103,61.298878],"type":"Point"}
+}

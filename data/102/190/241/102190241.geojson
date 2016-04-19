@@ -1,0 +1,76 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.897643,61.215642,-149.897643,61.215642",
+    "geom:latitude":61.215642,
+    "geom:longitude":-149.897643,
+    "iso:country":"US",
+    "sg:address":"604 H St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 9225",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "knitted",
+        "mail",
+        "mfg",
+        "order",
+        "item"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573,
+        85873721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5huxwme3PW8Xcj7ybrCnJr_61.215642_-149.897643@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b3645f0bbe0b9374f3118bc32388d00b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102190241"
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873721,
+            "region_id":85688573,
+            "venue_id":"102190241"
+        }
+    ],
+    "wof:id":"102190241",
+    "wof:lastmodified":1449070037,
+    "wof:name":"Oomingmak",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.897643,61.215642,-149.897643,61.215642],
+  "geometry": {"coordinates":[-149.897643,61.215642],"type":"Point"}
+}

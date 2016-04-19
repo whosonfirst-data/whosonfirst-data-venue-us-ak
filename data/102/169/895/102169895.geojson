@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.685573,64.844618,-147.685573,64.844618",
+    "geom:latitude":64.844618,
+    "geom:longitude":-147.685573,
+    "iso:country":"US",
+    "sg:address":"115 Farewell Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 7200",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JvAGfj1OlxU30b0Jvqhdi_64.844618_-147.685573@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"11be40ab4472f408256b2cdcd5d1e69d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102169895"
+        }
+    ],
+    "wof:id":"102169895",
+    "wof:lastmodified":1449069247,
+    "wof:name":"Ace Plastering & Drywall",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.685573,64.844618,-147.685573,64.844618],
+  "geometry": {"coordinates":[-147.685573,64.844618],"type":"Point"}
+}

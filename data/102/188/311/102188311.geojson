@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.715679,64.826121,-147.715679,64.826121",
+    "geom:latitude":64.826121,
+    "geom:longitude":-147.715679,
+    "iso:country":"US",
+    "sg:address":"615 23rd Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 455 9737",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "counseling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p4za9C7wmRajSo17zUOEb_64.826121_-147.715679@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"75eae0ca2136e1582d251cb10c940f22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102188311"
+        }
+    ],
+    "wof:id":"102188311",
+    "wof:lastmodified":1449068945,
+    "wof:name":"Crossroads Counseling",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.715679,64.826121,-147.715679,64.826121],
+  "geometry": {"coordinates":[-147.715679,64.826121],"type":"Point"}
+}

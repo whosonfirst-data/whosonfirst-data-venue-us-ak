@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.583556,58.386197,-134.583556,58.386197",
+    "geom:latitude":58.386197,
+    "geom:longitude":-134.583556,
+    "iso:country":"US",
+    "sg:address":"9209 Long Run Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 4287",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "equipment",
+        "archery",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nzpy4h9vlhOZHYdQD7E5d_58.386197_-134.583556@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"163e635f4b794b1be13d60de180b2a38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102179301"
+        }
+    ],
+    "wof:id":"102179301",
+    "wof:lastmodified":1449069942,
+    "wof:name":"Archery Outfitters",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.583556,58.386197,-134.583556,58.386197],
+  "geometry": {"coordinates":[-134.583556,58.386197],"type":"Point"}
+}

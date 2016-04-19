@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.754459,64.854466,-147.754459,64.854466",
+    "geom:latitude":64.854466,
+    "geom:longitude":-147.754459,
+    "iso:country":"US",
+    "sg:address":"1027 Evergreen St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 8164",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869043,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IueFQ8vyJWUtK5zWEKpxA_64.854466_-147.754459@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2b7af261d90655eec88060bac8866c17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85869043,
+            "region_id":85688573,
+            "venue_id":"102167843"
+        }
+    ],
+    "wof:id":"102167843",
+    "wof:lastmodified":1449069000,
+    "wof:name":"Women & Children Ctr",
+    "wof:parent_id":85869043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.754459,64.854466,-147.754459,64.854466],
+  "geometry": {"coordinates":[-147.754459,64.854466],"type":"Point"}
+}

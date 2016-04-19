@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.733571,61.220389,-149.733571,61.220389",
+    "geom:latitude":61.220389,
+    "geom:longitude":-149.733571,
+    "iso:country":"US",
+    "sg:address":"322 Muldoon Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 337 9434",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43nkNbYREi4Q3gzLFjNBdu_61.220389_-149.733571@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"834be01b486d0e3052bc13dca8711d7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102178619"
+        }
+    ],
+    "wof:id":"102178619",
+    "wof:lastmodified":1449069530,
+    "wof:name":"Alaska Dental Ctr",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.733571,61.220389,-149.733571,61.220389],
+  "geometry": {"coordinates":[-149.733571,61.220389],"type":"Point"}
+}

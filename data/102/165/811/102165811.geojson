@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.710886,64.818613,-147.710886,64.818613",
+    "geom:latitude":64.818613,
+    "geom:longitude":-147.710886,
+    "iso:country":"US",
+    "sg:address":"605 Hughes Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 1274",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2r6YVpMwtFH7o0375aOjYk_64.818613_-147.710886@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1fbbb1340a14f241ceb0995f78169fa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102165811"
+        }
+    ],
+    "wof:id":"102165811",
+    "wof:lastmodified":1449070213,
+    "wof:name":"Fairbanks Native Assn-Life Giv",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.710886,64.818613,-147.710886,64.818613],
+  "geometry": {"coordinates":[-147.710886,64.818613],"type":"Point"}
+}

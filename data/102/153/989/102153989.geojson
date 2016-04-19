@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-161.781033,60.797598,-161.781033,60.797598",
+    "geom:latitude":60.797598,
+    "geom:longitude":-161.781033,
+    "iso:country":"US",
+    "sg:address":"260 Osage St",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 543 2169",
+    "sg:postcode":"99559",
+    "sg:province":"AK",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915901,
+        85633793,
+        85688573,
+        102085877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kiuqrTTiRoBZpSMrzNjSE_60.797598_-161.781033@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e6f85cb2a329afc99b91e64e6c71a9d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085877,
+            "locality_id":85915901,
+            "region_id":85688573,
+            "venue_id":"102153989"
+        }
+    ],
+    "wof:id":"102153989",
+    "wof:lastmodified":1449069462,
+    "wof:name":"Kusko Cab",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-161.781033,60.797598,-161.781033,60.797598],
+  "geometry": {"coordinates":[-161.781033,60.797598],"type":"Point"}
+}

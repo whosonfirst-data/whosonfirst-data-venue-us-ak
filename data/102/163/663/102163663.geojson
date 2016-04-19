@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.848724,61.143663,-149.848724,61.143663",
+    "geom:latitude":61.143663,
+    "geom:longitude":-149.848724,
+    "iso:country":"US",
+    "sg:address":"1750 Abbott Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 6001",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.golder.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Cc9klzhYnvRWary0dbjrS_61.143663_-149.848724@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"207705646c2252b70d59521e586dc8f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102163663"
+        }
+    ],
+    "wof:id":"102163663",
+    "wof:lastmodified":1449070164,
+    "wof:name":"Golder Associates",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.848724,61.143663,-149.848724,61.143663],
+  "geometry": {"coordinates":[-149.848724,61.143663],"type":"Point"}
+}

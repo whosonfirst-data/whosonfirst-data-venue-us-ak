@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.769936,64.835588,-147.769936,64.835588",
+    "geom:latitude":64.835588,
+    "geom:longitude":-147.769936,
+    "iso:country":"US",
+    "sg:address":"1424 Moore St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 1735",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856935,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rqyIH7u3AXgXPAyosD7li_64.835588_-147.769936@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d610718a599896f82ddd91698f011277",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":"102150197"
+        }
+    ],
+    "wof:id":"102150197",
+    "wof:lastmodified":1449067791,
+    "wof:name":"North Star Council On Aging",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.769936,64.835588,-147.769936,64.835588],
+  "geometry": {"coordinates":[-147.769936,64.835588],"type":"Point"}
+}

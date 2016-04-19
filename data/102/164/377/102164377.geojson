@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.499636,59.641369,-151.499636,59.641369",
+    "geom:latitude":59.641369,
+    "geom:longitude":-151.499636,
+    "iso:country":"US",
+    "sg:address":"3720 F A A Rd",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 7565",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915739,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_541uX9Be5QGZmpSJ0P0xyX_59.641369_-151.499636@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3ed57dc97c1a9e8c7a8cd3529feeb199",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "region_id":85688573,
+            "venue_id":"102164377"
+        }
+    ],
+    "wof:id":"102164377",
+    "wof:lastmodified":1449068089,
+    "wof:name":"ERA Aviation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.499636,59.641369,-151.499636,59.641369],
+  "geometry": {"coordinates":[-151.499636,59.641369],"type":"Point"}
+}

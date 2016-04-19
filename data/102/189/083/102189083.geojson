@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.432292,58.296535,-134.432292,58.296535",
+    "geom:latitude":58.296535,
+    "geom:longitude":-134.432292,
+    "iso:country":"US",
+    "sg:address":"3370 Douglas Hwy",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 1065",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vMPbUr405DGJAW0dVys2N_58.296535_-134.432292@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c595d09206f95344c0f3a6b4853a2b64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102189083"
+        }
+    ],
+    "wof:id":"102189083",
+    "wof:lastmodified":1449069497,
+    "wof:name":"Breeze-In Grocery",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.432292,58.296535,-134.432292,58.296535],
+  "geometry": {"coordinates":[-134.432292,58.296535],"type":"Point"}
+}

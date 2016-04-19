@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.010793,70.217679,-151.010793,70.217679",
+    "geom:latitude":70.217679,
+    "geom:longitude":-151.010793,
+    "iso:country":"US",
+    "sg:address":"413 Nigliq St",
+    "sg:city":"Nuiqsut",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 480 6720",
+    "sg:postcode":"99789",
+    "sg:province":"AK",
+    "sg:tags":[
+        "county",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915553,
+        85633793,
+        85688573,
+        102081001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SIefDrKRnztIThTWdON9s_70.217679_-151.010793@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a268938998a52012c0cd284f9fa6a5c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081001,
+            "locality_id":85915553,
+            "region_id":85688573,
+            "venue_id":"102176131"
+        }
+    ],
+    "wof:id":"102176131",
+    "wof:lastmodified":1449069346,
+    "wof:name":"North Slope Cnty Health Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.010793,70.217679,-151.010793,70.217679],
+  "geometry": {"coordinates":[-151.010793,70.217679],"type":"Point"}
+}

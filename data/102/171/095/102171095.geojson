@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.849218,61.152036,-149.849218,61.152036",
+    "geom:latitude":61.152036,
+    "geom:longitude":-149.849218,
+    "iso:country":"US",
+    "sg:address":"1711 Lore Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 344 3429",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zDQQ8bx2NipqDmYz1oKfR_61.152036_-149.849218@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ff29b3c931cd1c45fd3d028c43d5865e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102171095"
+        }
+    ],
+    "wof:id":"102171095",
+    "wof:lastmodified":1449070223,
+    "wof:name":"Dimond/Lore Apartments",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.849218,61.152036,-149.849218,61.152036],
+  "geometry": {"coordinates":[-149.849218,61.152036],"type":"Point"}
+}

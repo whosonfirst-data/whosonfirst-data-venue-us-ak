@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.87978,61.222418,-149.87978,61.222418",
+    "geom:latitude":61.222418,
+    "geom:longitude":-149.87978,
+    "iso:country":"US",
+    "sg:address":"349 E Ship Creek Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 646 4040",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "asphalt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63buRdq6DBVdAGMdSXnbQc_61.222418_-149.879780@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7b4b0fe0acec881f53c7e2f3395f6d22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102175123"
+        }
+    ],
+    "wof:id":"102175123",
+    "wof:lastmodified":1449069465,
+    "wof:name":"Road Tek",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.87978,61.222418,-149.87978,61.222418],
+  "geometry": {"coordinates":[-149.87978,61.222418],"type":"Point"}
+}

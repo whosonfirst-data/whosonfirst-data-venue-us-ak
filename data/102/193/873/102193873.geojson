@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.511393,61.367793,-149.511393,61.367793",
+    "geom:latitude":61.367793,
+    "geom:longitude":-149.511393,
+    "iso:country":"US",
+    "sg:address":"16235 Old Glenn Hwy",
+    "sg:city":"Chugiak",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 696 3343",
+    "sg:postcode":"99567",
+    "sg:province":"AK",
+    "sg:tags":[
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oGhzE8wjAv5QHcBcvmmPN_61.367793_-149.511393@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"117029c3f914e0f8e2f2b3eb5cfe8967",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102193873"
+        }
+    ],
+    "wof:id":"102193873",
+    "wof:lastmodified":1449068192,
+    "wof:name":"U-Do Mini Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.511393,61.367793,-149.511393,61.367793],
+  "geometry": {"coordinates":[-149.511393,61.367793],"type":"Point"}
+}

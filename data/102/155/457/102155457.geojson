@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.89803,61.191401,-149.89803,61.191401",
+    "geom:latitude":61.191401,
+    "geom:longitude":-149.89803,
+    "iso:country":"US",
+    "sg:address":"3330 Arctic Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 2185",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "food",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873713,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cCXERTZYLyNMqmfClspCw_61.191401_-149.898030@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5ea5d80e7868d48e6c5cb4d5851e413d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102155457"
+        }
+    ],
+    "wof:id":"102155457",
+    "wof:lastmodified":1449069743,
+    "wof:name":"Webco Alaska Inc",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.89803,61.191401,-149.89803,61.191401],
+  "geometry": {"coordinates":[-149.89803,61.191401],"type":"Point"}
+}

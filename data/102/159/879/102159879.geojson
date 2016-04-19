@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.884873,61.168267,-149.884873,61.168267",
+    "geom:latitude":61.168267,
+    "geom:longitude":-149.884873,
+    "iso:country":"US",
+    "sg:address":"5740 B St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 561 3111",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KwX3XLROj0Cmx238ydmkU_61.168267_-149.884873@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5f3263e78299a553dafb6f106f255178",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102159879"
+        }
+    ],
+    "wof:id":"102159879",
+    "wof:lastmodified":1449068093,
+    "wof:name":"Envirotest Technologies Inc",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.884873,61.168267,-149.884873,61.168267],
+  "geometry": {"coordinates":[-149.884873,61.168267],"type":"Point"}
+}

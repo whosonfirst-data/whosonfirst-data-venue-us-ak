@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.932746,61.182159,-149.932746,61.182159",
+    "geom:latitude":61.182159,
+    "geom:longitude":-149.932746,
+    "iso:country":"US",
+    "sg:address":"4332 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 0533",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850461,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54Uc8zp1pgzgka5C3JHahX_61.182159_-149.932746@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1379dc71ca424126f52b46c2152a437d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":"102165845"
+        }
+    ],
+    "wof:id":"102165845",
+    "wof:lastmodified":1449070214,
+    "wof:name":"Polar Bear Motel",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.932746,61.182159,-149.932746,61.182159],
+  "geometry": {"coordinates":[-149.932746,61.182159],"type":"Point"}
+}

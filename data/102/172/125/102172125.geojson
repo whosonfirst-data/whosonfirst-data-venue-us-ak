@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.342602,57.0601,-135.342602,57.0601",
+    "geom:latitude":57.0601,
+    "geom:longitude":-135.342602,
+    "iso:country":"US",
+    "sg:address":"207 Moller Ave",
+    "sg:city":"Sitka",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 747 7615",
+    "sg:postcode":"99835",
+    "sg:province":"AK",
+    "sg:tags":[
+        "action",
+        "agency",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835489,
+        85633793,
+        85916107,
+        102081405,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GCjZC9Z1g74FldiC370Sc_57.060100_-135.342602@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ca0207a391ce6bbc4a4d1d629ffb41b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081405,
+            "locality_id":85916107,
+            "neighbourhood_id":85835489,
+            "region_id":85688573,
+            "venue_id":"102172125"
+        }
+    ],
+    "wof:id":"102172125",
+    "wof:lastmodified":1449068738,
+    "wof:name":"Alaska Service For Enabling",
+    "wof:parent_id":85835489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.342602,57.0601,-135.342602,57.0601],
+  "geometry": {"coordinates":[-135.342602,57.0601],"type":"Point"}
+}

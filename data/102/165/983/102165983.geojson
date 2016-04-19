@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.861368,64.841313,-147.861368,64.841313",
+    "geom:latitude":64.841313,
+    "geom:longitude":-147.861368,
+    "iso:country":"US",
+    "sg:address":"4770 Drake St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 8166",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916609,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fn0lUE2eN9FP5FNiLKY1M_64.841313_-147.861368@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2c82777c510e899f261848ba0e8e527c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "region_id":85688573,
+            "venue_id":"102165983"
+        }
+    ],
+    "wof:id":"102165983",
+    "wof:lastmodified":1449070219,
+    "wof:name":"Stump Killer",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.861368,64.841313,-147.861368,64.841313],
+  "geometry": {"coordinates":[-147.861368,64.841313],"type":"Point"}
+}

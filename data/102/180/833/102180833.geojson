@@ -1,0 +1,64 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.744523,61.131992,-149.744523,61.131992",
+    "geom:latitude":61.131992,
+    "geom:longitude":-149.744523,
+    "iso:country":"US",
+    "sg:address":"7401 Beacon Hill Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 346 2171",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873747,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Bj0557U6lvZwbgQXB69Q7_61.131992_-149.744523@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"da210864e7ad943f9ca8ca2e0e36c211",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873747,
+            "region_id":85688573,
+            "venue_id":"102180833"
+        }
+    ],
+    "wof:id":"102180833",
+    "wof:lastmodified":1449067872,
+    "wof:name":"Alaska Sunset View Manor",
+    "wof:parent_id":85873747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.744523,61.131992,-149.744523,61.131992],
+  "geometry": {"coordinates":[-149.744523,61.131992],"type":"Point"}
+}

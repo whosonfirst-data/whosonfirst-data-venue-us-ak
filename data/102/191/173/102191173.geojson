@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.863426,61.218469,-149.863426,61.218469",
+    "geom:latitude":61.218469,
+    "geom:longitude":-149.863426,
+    "iso:country":"US",
+    "sg:address":"1036 E 4th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 3441",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wez8w5mDo6Hl8J3L2rsaM_61.218469_-149.863426@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"517e4bc39796a4eb47b1f33fe55cc42f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102191173"
+        }
+    ],
+    "wof:id":"102191173",
+    "wof:lastmodified":1449069201,
+    "wof:name":"Arctic Music & Vending",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.863426,61.218469,-149.863426,61.218469],
+  "geometry": {"coordinates":[-149.863426,61.218469],"type":"Point"}
+}

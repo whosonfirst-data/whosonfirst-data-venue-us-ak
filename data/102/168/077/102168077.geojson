@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-132.382453,56.471147,-132.382453,56.471147",
+    "geom:latitude":56.471147,
+    "geom:longitude":-132.382453,
+    "iso:country":"US",
+    "sg:address":"312 Front St",
+    "sg:city":"Wrangell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 874 4455",
+    "sg:postcode":"99929",
+    "sg:province":"AK",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916111,
+        85633793,
+        85688573,
+        102081901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BAdbueMnlKgkcWpkx1cNG_56.471147_-132.382453@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6783d06059389de9feecae5fbd157a25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081901,
+            "locality_id":85916111,
+            "region_id":85688573,
+            "venue_id":"102168077"
+        }
+    ],
+    "wof:id":"102168077",
+    "wof:lastmodified":1449069007,
+    "wof:name":"P J's Floor Covering",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-132.382453,56.471147,-132.382453,56.471147],
+  "geometry": {"coordinates":[-132.382453,56.471147],"type":"Point"}
+}

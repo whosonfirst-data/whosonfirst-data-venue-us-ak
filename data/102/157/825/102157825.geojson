@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.831391,61.148843,-149.831391,61.148843",
+    "geom:latitude":61.148843,
+    "geom:longitude":-149.831391,
+    "iso:country":"US",
+    "sg:address":"7931 Alpine View Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 346 9092",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tGmDNrL4ZS6ddxQ4Wnqlf_61.148843_-149.831391@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0a58959860947afde38d82ae76cd968b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102157825"
+        }
+    ],
+    "wof:id":"102157825",
+    "wof:lastmodified":1449069829,
+    "wof:name":"Nugget Glass Studio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.831391,61.148843,-149.831391,61.148843],
+  "geometry": {"coordinates":[-149.831391,61.148843],"type":"Point"}
+}

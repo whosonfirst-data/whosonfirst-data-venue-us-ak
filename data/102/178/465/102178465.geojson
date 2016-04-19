@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.41537,58.301247,-134.41537,58.301247",
+    "geom:latitude":58.301247,
+    "geom:longitude":-134.41537,
+    "iso:country":"US",
+    "sg:address":"400 W Willoughby Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 4990",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:website":"www.rickerrealestate.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0krK79YXR8Umwr0L8JAOej_58.301247_-134.415370@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"04511a7a235cfb46d48989ff39c2b606",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102178465"
+        }
+    ],
+    "wof:id":"102178465",
+    "wof:lastmodified":1449069531,
+    "wof:name":"Ricker & Assoc Real Estate Inc",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.41537,58.301247,-134.41537,58.301247],
+  "geometry": {"coordinates":[-134.41537,58.301247],"type":"Point"}
+}

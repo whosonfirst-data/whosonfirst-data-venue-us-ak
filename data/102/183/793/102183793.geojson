@@ -1,0 +1,68 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.710288,64.849851,-147.710288,64.849851",
+    "geom:latitude":64.849851,
+    "geom:longitude":-147.710288,
+    "iso:country":"US",
+    "sg:address":"101 Charles St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 4112",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tN08JvYODpkcYz9nRYXPi_64.849851_-147.710288@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd0d79df8f31c4b8aa237331c3c3d509",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102183793"
+        }
+    ],
+    "wof:id":"102183793",
+    "wof:lastmodified":1449069041,
+    "wof:name":"Hines Signs Co",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.710288,64.849851,-147.710288,64.849851],
+  "geometry": {"coordinates":[-147.710288,64.849851],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.602683,58.366125,-134.602683,58.366125",
+    "geom:latitude":58.366125,
+    "geom:longitude":-134.602683,
+    "iso:country":"US",
+    "sg:address":"9940 Crazy Horse Dr",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 4803",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833767,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J7Zh2dWE2H7TkbmwAh6r0_58.366125_-134.602683@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"57809d22aff000a2fb04db7a11b57cc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":"102167693"
+        }
+    ],
+    "wof:id":"102167693",
+    "wof:lastmodified":1449069001,
+    "wof:name":"Bear Body Works",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.602683,58.366125,-134.602683,58.366125],
+  "geometry": {"coordinates":[-134.602683,58.366125],"type":"Point"}
+}

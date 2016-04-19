@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.858619,61.197175,-149.858619,61.197175",
+    "geom:latitude":61.197175,
+    "geom:longitude":-149.858619,
+    "iso:country":"US",
+    "sg:address":"1210 E 26th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 279 7890",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "synagogue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AFak3HN2R3O8pPeKGtPIU_61.197175_-149.858619@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"961ed55fa0f2dac02eb57b0fcc26d68c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102160509"
+        }
+    ],
+    "wof:id":"102160509",
+    "wof:lastmodified":1449069773,
+    "wof:name":"Lubavitch Jewish Ctr",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.858619,61.197175,-149.858619,61.197175],
+  "geometry": {"coordinates":[-149.858619,61.197175],"type":"Point"}
+}

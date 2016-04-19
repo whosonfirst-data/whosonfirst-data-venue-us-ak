@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.107854,61.601114,-149.107854,61.601114",
+    "geom:latitude":61.601114,
+    "geom:longitude":-149.107854,
+    "iso:country":"US",
+    "sg:address":"564 S Denali St",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 745 4285",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:website":"www.northwebmarine.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915577,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sOTrDcSk5ZL5Q2ZGsttob_61.601114_-149.107854@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"73a9626d4f4a1f800d88c8081d1797aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915577,
+            "region_id":85688573,
+            "venue_id":"102189935"
+        }
+    ],
+    "wof:id":"102189935",
+    "wof:lastmodified":1449069498,
+    "wof:name":"Northweb Marine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.107854,61.601114,-149.107854,61.601114],
+  "geometry": {"coordinates":[-149.107854,61.601114],"type":"Point"}
+}

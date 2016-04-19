@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.835395,61.187985,-149.835395,61.187985",
+    "geom:latitude":61.187985,
+    "geom:longitude":-149.835395,
+    "iso:country":"US",
+    "sg:address":"2600 Providence Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 265 5090",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873715,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z37GJt7lLfV3LSFbho6ii_61.187985_-149.835395@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f6adbe5cd2940bfb44cee6e5ab9c95e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":"102166477"
+        }
+    ],
+    "wof:id":"102166477",
+    "wof:lastmodified":1449069084,
+    "wof:name":"Youth Service",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.835395,61.187985,-149.835395,61.187985],
+  "geometry": {"coordinates":[-149.835395,61.187985],"type":"Point"}
+}

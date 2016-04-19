@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.891334,61.17181,-149.891334,61.17181",
+    "geom:latitude":61.17181,
+    "geom:longitude":-149.891334,
+    "iso:country":"US",
+    "sg:address":"511 W 54th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 770 9034",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873723,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EdoRzuKEr4CMvRYi0SqXP_61.171810_-149.891334@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f6ce1ed09b6664f9466fe2d665e26892",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":"102170371"
+        }
+    ],
+    "wof:id":"102170371",
+    "wof:lastmodified":1449068019,
+    "wof:name":"Autokrafters",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.891334,61.17181,-149.891334,61.17181],
+  "geometry": {"coordinates":[-149.891334,61.17181],"type":"Point"}
+}

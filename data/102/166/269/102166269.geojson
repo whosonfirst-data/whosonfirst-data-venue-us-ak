@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.951923,61.159124,-149.951923,61.159124",
+    "geom:latitude":61.159124,
+    "geom:longitude":-149.951923,
+    "iso:country":"US",
+    "sg:address":"6700 Jewel Lake Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 248 7811",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:website":"www.cosmetictattoo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873737,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TBhWtHCHqBgtxEe4yaSkt_61.159124_-149.951923@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f48198f13071ec70171f5f14c8384ba2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":"102166269"
+        }
+    ],
+    "wof:id":"102166269",
+    "wof:lastmodified":1449069085,
+    "wof:name":"Salon Ari",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.951923,61.159124,-149.951923,61.159124],
+  "geometry": {"coordinates":[-149.951923,61.159124],"type":"Point"}
+}

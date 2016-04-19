@@ -1,0 +1,60 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.867386,61.214679,-149.867386,61.214679",
+    "geom:latitude":61.214679,
+    "geom:longitude":-149.867386,
+    "iso:country":"US",
+    "sg:address":"825 E 8th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 5113",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g5spLDPBWmCrGtOkmcjJ8_61.214679_-149.867386@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e745b48b74a072546ca8cf65ab920b05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102170057"
+        }
+    ],
+    "wof:id":"102170057",
+    "wof:lastmodified":1449068018,
+    "wof:name":"Cement Finishers",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.867386,61.214679,-149.867386,61.214679],
+  "geometry": {"coordinates":[-149.867386,61.214679],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.760735,64.863638,-147.760735,64.863638",
+    "geom:latitude":64.863638,
+    "geom:longitude":-147.760735,
+    "iso:country":"US",
+    "sg:address":"1817 College Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 3455",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "all",
+        "terrain"
+    ],
+    "sg:website":"www.alaskafuncenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869043,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72DJbeJp9Tw4kUBnVbik1v_64.863638_-147.760735@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ea84f3841d589e5efbef1668f5eeda4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85869043,
+            "region_id":85688573,
+            "venue_id":"102194765"
+        }
+    ],
+    "wof:id":"102194765",
+    "wof:lastmodified":1449069828,
+    "wof:name":"Alaska Motorcycle Fun Ctr",
+    "wof:parent_id":85869043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.760735,64.863638,-147.760735,64.863638],
+  "geometry": {"coordinates":[-147.760735,64.863638],"type":"Point"}
+}

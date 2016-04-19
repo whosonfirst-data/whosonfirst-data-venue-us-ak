@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.4121,58.30041,-134.4121,58.30041",
+    "geom:latitude":58.30041,
+    "geom:longitude":-134.4121,
+    "iso:country":"US",
+    "sg:address":"318 Willoughby Ave",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 8988",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5c7Qyy4FmuikRhOkOVOJ0g_58.300410_-134.412100@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9acc39ecaec09093d13163d52d0783b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102159001"
+        }
+    ],
+    "wof:id":"102159001",
+    "wof:lastmodified":1449068092,
+    "wof:name":"Bullwinkle's Pizza Parlor",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.4121,58.30041,-134.4121,58.30041],
+  "geometry": {"coordinates":[-134.4121,58.30041],"type":"Point"}
+}

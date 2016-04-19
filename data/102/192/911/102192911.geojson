@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.276742,61.562027,-149.276742,61.562027",
+    "geom:latitude":61.562027,
+    "geom:longitude":-149.276742,
+    "iso:country":"US",
+    "sg:address":"2000 Jensen Rd",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 746 2805",
+    "sg:postcode":"99645",
+    "sg:province":"AK",
+    "sg:tags":[
+        "bulldozing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916253,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ta7NjCbVyoSPOU7wo6dvF_61.562027_-149.276742@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"28b89fb8a868d3de9629b302aa9f82d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916253,
+            "region_id":85688573,
+            "venue_id":"102192911"
+        }
+    ],
+    "wof:id":"102192911",
+    "wof:lastmodified":1449069505,
+    "wof:name":"Hermon Dozer Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.276742,61.562027,-149.276742,61.562027],
+  "geometry": {"coordinates":[-149.276742,61.562027],"type":"Point"}
+}

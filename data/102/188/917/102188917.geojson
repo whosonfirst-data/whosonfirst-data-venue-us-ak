@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.588385,64.841713,-147.588385,64.841713",
+    "geom:latitude":64.841713,
+    "geom:longitude":-147.588385,
+    "iso:country":"US",
+    "sg:address":"1021 Gaffney Rd",
+    "sg:city":"Fort Wainwright",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 356 1133",
+    "sg:postcode":"99703",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915635,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72iq08kpA6vfzLhjcnNp3W_64.841713_-147.588385@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"73d5a94c564d86e2c9f418712427b648",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "region_id":85688573,
+            "venue_id":"102188917"
+        }
+    ],
+    "wof:id":"102188917",
+    "wof:lastmodified":1449068947,
+    "wof:name":"Alaska Area Exch",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.588385,64.841713,-147.588385,64.841713],
+  "geometry": {"coordinates":[-147.588385,64.841713],"type":"Point"}
+}

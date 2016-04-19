@@ -1,0 +1,66 @@
+{
+  "id": "102163163",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.905513,61.196532,-149.905513,61.196532",
+    "geom:latitude":61.196532,
+    "geom:longitude":-149.905513,
+    "iso:country":"US",
+    "sg:address":"2636 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 278 7529",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85915707,
+        102085881,
+        85873713
+    ],
+    "wof:brand_id":420574827,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ldcKz1pJBm8AQ5ZWzUnb2_61.196532_-149.905513@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"42099d2fae12361d6e196fa44e9aa41d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":"102163163"
+        }
+    ],
+    "wof:id":"102163163",
+    "wof:lastmodified":1457209220,
+    "wof:name":"Play It Again Sports",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -149.905513,
+    61.196532,
+    -149.905513,
+    61.196532
+],
+  "geometry": {"coordinates":[-149.90551300000001,61.196532],"type":"Point"}
+}

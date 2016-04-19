@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.75527,64.813203,-147.75527,64.813203",
+    "geom:latitude":64.813203,
+    "geom:longitude":-147.75527,
+    "iso:country":"US",
+    "sg:address":"3514 Industrial Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 5700",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869047,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5k2uSTTUjHV0okzo0kaFp9_64.813203_-147.755270@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9cf8dc35e12e04d5498609ae5d3ef851",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":"102165927"
+        }
+    ],
+    "wof:id":"102165927",
+    "wof:lastmodified":1449070217,
+    "wof:name":"ENSR Corp",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.75527,64.813203,-147.75527,64.813203],
+  "geometry": {"coordinates":[-147.75527,64.813203],"type":"Point"}
+}

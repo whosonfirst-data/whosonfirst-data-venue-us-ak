@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.698289,64.846004,-147.698289,64.846004",
+    "geom:latitude":64.846004,
+    "geom:longitude":-147.698289,
+    "iso:country":"US",
+    "sg:address":"421 3rd St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 456 1237",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848979,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26bDAwrUxvKOcf73LatptC_64.846004_-147.698289@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bdf4400509834c60c873f779ea3fbd58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":"102173243"
+        }
+    ],
+    "wof:id":"102173243",
+    "wof:lastmodified":1449068265,
+    "wof:name":"Helmbrecht Dental",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.698289,64.846004,-147.698289,64.846004],
+  "geometry": {"coordinates":[-147.698289,64.846004],"type":"Point"}
+}

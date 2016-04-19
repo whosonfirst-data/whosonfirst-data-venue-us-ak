@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-134.406857,58.300198,-134.406857,58.300198",
+    "geom:latitude":58.300198,
+    "geom:longitude":-134.406857,
+    "iso:country":"US",
+    "sg:address":"110 S Seward St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 463 5665",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "information",
+        "program",
+        "referral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855741,
+        85633793,
+        85915729,
+        102081399,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x17rUnaT72bzP7FK8Wn7N_58.300198_-134.406857@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"45ccdb42ce9fdde6637d1a03db36cf3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":"102193841"
+        }
+    ],
+    "wof:id":"102193841",
+    "wof:lastmodified":1449068193,
+    "wof:name":"Shanti Of Southeast Alaska",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-134.406857,58.300198,-134.406857,58.300198],
+  "geometry": {"coordinates":[-134.406857,58.300198],"type":"Point"}
+}

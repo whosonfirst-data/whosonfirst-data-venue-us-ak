@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-150.908185,60.511226,-150.908185,60.511226",
+    "geom:latitude":60.511226,
+    "geom:longitude":-150.908185,
+    "iso:country":"US",
+    "sg:address":"38776 Sterling Hwy",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 262 5554",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916845,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XCye2A0sBYaN5s7dRyBzd_60.511226_-150.908185@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4ed8b6c51eccca80823fdbaf13ae5eb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916845,
+            "region_id":85688573,
+            "venue_id":"102195955"
+        }
+    ],
+    "wof:id":"102195955",
+    "wof:lastmodified":1449069364,
+    "wof:name":"North Star Dance Studio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-150.908185,60.511226,-150.908185,60.511226],
+  "geometry": {"coordinates":[-150.908185,60.511226],"type":"Point"}
+}

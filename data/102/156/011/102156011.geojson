@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-131.633211,55.342503,-131.633211,55.342503",
+    "geom:latitude":55.342503,
+    "geom:longitude":-131.633211,
+    "iso:country":"US",
+    "sg:address":"639 Deermount St",
+    "sg:city":"Ketchikan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 225 7473",
+    "sg:postcode":"99901",
+    "sg:province":"AK",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916051,
+        85633793,
+        85688573,
+        102081011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KBZ7w20lpQQylNx81AIbP_55.342503_-131.633211@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a1ee9a887b91527275ab17f97108c419",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081011,
+            "locality_id":85916051,
+            "region_id":85688573,
+            "venue_id":"102156011"
+        }
+    ],
+    "wof:id":"102156011",
+    "wof:lastmodified":1449068283,
+    "wof:name":"Bob Hulse Plumbing Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-131.633211,55.342503,-131.633211,55.342503],
+  "geometry": {"coordinates":[-131.633211,55.342503],"type":"Point"}
+}

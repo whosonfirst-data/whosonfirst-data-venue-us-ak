@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-135.41506,58.10015,-135.41506,58.10015",
+    "geom:latitude":58.10015,
+    "geom:longitude":-135.41506,
+    "iso:country":"US",
+    "sg:address":"450 Airport Rd",
+    "sg:city":"Hoonah",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 945 3334",
+    "sg:postcode":"99829",
+    "sg:province":"AK",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916121,
+        85633793,
+        85688573,
+        102081003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tcLhI7rjipYIaAC61lrMD_58.100150_-135.415060@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"96c0bc64351f211f0afe583d73bf5294",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081003,
+            "locality_id":85916121,
+            "region_id":85688573,
+            "venue_id":"102181687"
+        }
+    ],
+    "wof:id":"102181687",
+    "wof:lastmodified":1449069235,
+    "wof:name":"Pederson Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-135.41506,58.10015,-135.41506,58.10015],
+  "geometry": {"coordinates":[-135.41506,58.10015],"type":"Point"}
+}

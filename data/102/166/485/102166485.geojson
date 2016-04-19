@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.733497,61.217028,-149.733497,61.217028",
+    "geom:latitude":61.217028,
+    "geom:longitude":-149.733497,
+    "iso:country":"US",
+    "sg:address":"7747 E 6th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 338 2321",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zMxvMqdbWiV3OrC10KAXf_61.217028_-149.733497@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8f0e61ac9a01a950029d167868f4845c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102166485"
+        }
+    ],
+    "wof:id":"102166485",
+    "wof:lastmodified":1449069086,
+    "wof:name":"Maranatha Baptist Church",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.733497,61.217028,-149.733497,61.217028],
+  "geometry": {"coordinates":[-149.733497,61.217028],"type":"Point"}
+}

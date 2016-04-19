@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.820114,61.147459,-149.820114,61.147459",
+    "geom:latitude":61.147459,
+    "geom:longitude":-149.820114,
+    "iso:country":"US",
+    "sg:address":"8071 Pinebrook Cir",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 522 2666",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915707,
+        85633793,
+        85688573,
+        102085881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jVhn86zRtVIrdl9AcOign_61.147459_-149.820114@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0bc534aab6a7545acbcdc6fcdb9d79cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "region_id":85688573,
+            "venue_id":"102152121"
+        }
+    ],
+    "wof:id":"102152121",
+    "wof:lastmodified":1449069637,
+    "wof:name":"Class Janitorial Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.820114,61.147459,-149.820114,61.147459],
+  "geometry": {"coordinates":[-149.820114,61.147459],"type":"Point"}
+}

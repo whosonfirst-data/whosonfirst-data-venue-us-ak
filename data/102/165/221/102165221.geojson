@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.672873,64.842638,-147.672873,64.842638",
+    "geom:latitude":64.842638,
+    "geom:longitude":-147.672873,
+    "iso:country":"US",
+    "sg:address":"510 Haines Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 474 3826",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "aircraft",
+        "leasing",
+        "charter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823671,
+        85633793,
+        85915635,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PGcdEZnGlcdK4nrSqNDdw_64.842638_-147.672873@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"463411a92d9313c73bc34b2feda64557",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":"102165221"
+        }
+    ],
+    "wof:id":"102165221",
+    "wof:lastmodified":1449070213,
+    "wof:name":"Evan's Air",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.672873,64.842638,-147.672873,64.842638],
+  "geometry": {"coordinates":[-147.672873,64.842638],"type":"Point"}
+}

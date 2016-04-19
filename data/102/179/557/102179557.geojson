@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.854559,61.199524,-149.854559,61.199524",
+    "geom:latitude":61.199524,
+    "geom:longitude":-149.854559,
+    "iso:country":"US",
+    "sg:address":"1415 Bannister Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 2087",
+    "sg:postcode":"99508",
+    "sg:province":"AK",
+    "sg:tags":[
+        "convention",
+        "meeting",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873717,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Utd9DuMY20TN2oSkXUCyN_61.199524_-149.854559@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5921d0fd7ed1275f49765e5d7cbd2dd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873717,
+            "region_id":85688573,
+            "venue_id":"102179557"
+        }
+    ],
+    "wof:id":"102179557",
+    "wof:lastmodified":1449069942,
+    "wof:name":"Event Specialists Inc",
+    "wof:parent_id":85873717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.854559,61.199524,-149.854559,61.199524],
+  "geometry": {"coordinates":[-149.854559,61.199524],"type":"Point"}
+}

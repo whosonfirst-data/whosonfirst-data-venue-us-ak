@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.863979,61.151515,-149.863979,61.151515",
+    "geom:latitude":61.151515,
+    "geom:longitude":-149.863979,
+    "iso:country":"US",
+    "sg:address":"7901 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 349 8413",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:website":"www.bootcountryalaska.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809155,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1n5InaewsT4LnKA8KzUT5h_61.151515_-149.863979@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"61f75f79eb7acb60c2bfd98c1f3b2796",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":"102149411"
+        }
+    ],
+    "wof:id":"102149411",
+    "wof:lastmodified":1449067767,
+    "wof:name":"Boot Country",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.863979,61.151515,-149.863979,61.151515],
+  "geometry": {"coordinates":[-149.863979,61.151515],"type":"Point"}
+}

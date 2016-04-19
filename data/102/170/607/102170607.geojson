@@ -1,0 +1,62 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.632063,64.921909,-147.632063,64.921909",
+    "geom:latitude":64.921909,
+    "geom:longitude":-147.632063,
+    "iso:country":"US",
+    "sg:address":"211 Corkys Ct",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 8912",
+    "sg:postcode":"99712",
+    "sg:province":"AK",
+    "sg:tags":[
+        "agency",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916559,
+        85633793,
+        85688573,
+        102081397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oGDLEbuOBIPBYiVXaDqgc_64.921909_-147.632063@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8084ad55cce934d7599561bf36294d2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916559,
+            "region_id":85688573,
+            "venue_id":"102170607"
+        }
+    ],
+    "wof:id":"102170607",
+    "wof:lastmodified":1449068017,
+    "wof:name":"DLG Rentals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.632063,64.921909,-147.632063,64.921909],
+  "geometry": {"coordinates":[-147.632063,64.921909],"type":"Point"}
+}

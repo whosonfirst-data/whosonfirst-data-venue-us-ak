@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.14162,60.508731,-151.14162,60.508731",
+    "geom:latitude":60.508731,
+    "geom:longitude":-151.14162,
+    "iso:country":"US",
+    "sg:address":"36340 Wren Ave",
+    "sg:city":"Soldotna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 6110",
+    "sg:postcode":"99669",
+    "sg:province":"AK",
+    "sg:tags":[
+        "reloading",
+        "equipment",
+        "ammunition"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916957,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UCTiZmmefxNqEfKBYSxvW_60.508731_-151.141620@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8d8dddcfff821404d82722e0714c59cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85916957,
+            "region_id":85688573,
+            "venue_id":"102187003"
+        }
+    ],
+    "wof:id":"102187003",
+    "wof:lastmodified":1449068160,
+    "wof:name":"Ammo Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.14162,60.508731,-151.14162,60.508731],
+  "geometry": {"coordinates":[-151.14162,60.508731],"type":"Point"}
+}

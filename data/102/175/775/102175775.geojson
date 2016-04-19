@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-147.787228,64.858193,-147.787228,64.858193",
+    "geom:latitude":64.858193,
+    "geom:longitude":-147.787228,
+    "iso:country":"US",
+    "sg:address":"1524 Westwood Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 6734",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85869043,
+        85633793,
+        85916609,
+        102081397,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Tz9nNYBdz75bgqd7wMfKl_64.858193_-147.787228@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1d0f6ea7c27aa9c6e991b4639b50c342",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916609,
+            "neighbourhood_id":85869043,
+            "region_id":85688573,
+            "venue_id":"102175775"
+        }
+    ],
+    "wof:id":"102175775",
+    "wof:lastmodified":1449069469,
+    "wof:name":"New Life Community Church",
+    "wof:parent_id":85869043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-147.787228,64.858193,-147.787228,64.858193],
+  "geometry": {"coordinates":[-147.787228,64.858193],"type":"Point"}
+}

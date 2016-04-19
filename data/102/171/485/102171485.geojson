@@ -1,0 +1,66 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.736166,61.203541,-149.736166,61.203541",
+    "geom:latitude":61.203541,
+    "geom:longitude":-149.736166,
+    "iso:country":"US",
+    "sg:address":"1732 Kalgin St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 6982",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "underground",
+        "excavating",
+        "utility",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873731,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f5EezJoeAaIIkqQOZFCpi_61.203541_-149.736166@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"af2eb6c6a3ac7d45a38cf55a19016510",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":"102171485"
+        }
+    ],
+    "wof:id":"102171485",
+    "wof:lastmodified":1449070224,
+    "wof:name":"G L W Enterprises",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.736166,61.203541,-149.736166,61.203541],
+  "geometry": {"coordinates":[-149.736166,61.203541],"type":"Point"}
+}

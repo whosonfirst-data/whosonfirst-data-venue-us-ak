@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.472454,61.58139,-149.472454,61.58139",
+    "geom:latitude":61.58139,
+    "geom:longitude":-149.472454,
+    "iso:country":"US",
+    "sg:address":"877 Commercial Dr",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 376 4442",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915581,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6woqEXHzvAbiGyqsibc5ub_61.581390_-149.472454@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7db610f4ecd52dd21677600f98ad9d6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85915581,
+            "region_id":85688573,
+            "venue_id":"102168505"
+        }
+    ],
+    "wof:id":"102168505",
+    "wof:lastmodified":1449069008,
+    "wof:name":"Mechanical & Electrical Inspct",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.472454,61.58139,-149.472454,61.58139],
+  "geometry": {"coordinates":[-149.472454,61.58139],"type":"Point"}
+}

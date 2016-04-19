@@ -1,0 +1,63 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.800604,61.132884,-149.800604,61.132884",
+    "geom:latitude":61.132884,
+    "geom:longitude":-149.800604,
+    "iso:country":"US",
+    "sg:address":"9780 Carlson Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 346 1901",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873745,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lWLG4SDnE562d9JPxKSNV_61.132884_-149.800604@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"566948f33ef22097c352ab95737d7c95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873745,
+            "region_id":85688573,
+            "venue_id":"102166599"
+        }
+    ],
+    "wof:id":"102166599",
+    "wof:lastmodified":1449069086,
+    "wof:name":"Kranich & Assoc",
+    "wof:parent_id":85873745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.800604,61.132884,-149.800604,61.132884],
+  "geometry": {"coordinates":[-149.800604,61.132884],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-151.280585,60.560251,-151.280585,60.560251",
+    "geom:latitude":60.560251,
+    "geom:longitude":-151.280585,
+    "iso:country":"US",
+    "sg:address":"104 N Gill St",
+    "sg:city":"Kenai",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 283 8453",
+    "sg:postcode":"99611",
+    "sg:province":"AK",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85915751,
+        85633793,
+        85688573,
+        102081909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l4PeRB7uUGC86ty3eYGCw_60.560251_-151.280585@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8120350874ece676fd85eb798ae6c35a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915751,
+            "region_id":85688573,
+            "venue_id":"102151015"
+        }
+    ],
+    "wof:id":"102151015",
+    "wof:lastmodified":1449067780,
+    "wof:name":"Gill Street Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-151.280585,60.560251,-151.280585,60.560251],
+  "geometry": {"coordinates":[-151.280585,60.560251],"type":"Point"}
+}

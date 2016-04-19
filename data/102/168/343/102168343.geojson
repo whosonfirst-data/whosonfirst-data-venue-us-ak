@@ -1,0 +1,59 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.331906,61.583942,-149.331906,61.583942",
+    "geom:latitude":61.583942,
+    "geom:longitude":-149.331906,
+    "iso:country":"US",
+    "sg:address":"4750 Begich Cir",
+    "sg:city":"Wasilla",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 373 2290",
+    "sg:postcode":"99654",
+    "sg:province":"AK",
+    "sg:website":"www.agateinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85916225,
+        85633793,
+        85688573,
+        102081903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IOlvsROR1FZzXdCPAEmc2_61.583942_-149.331906@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b87392093278be8f5f642e01a3fa867e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081903,
+            "locality_id":85916225,
+            "region_id":85688573,
+            "venue_id":"102168343"
+        }
+    ],
+    "wof:id":"102168343",
+    "wof:lastmodified":1449069007,
+    "wof:name":"Agate Inn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.331906,61.583942,-149.331906,61.583942],
+  "geometry": {"coordinates":[-149.331906,61.583942],"type":"Point"}
+}

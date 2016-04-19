@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-149.89545,61.213689,-149.89545,61.213689",
+    "geom:latitude":61.213689,
+    "geom:longitude":-149.89545,
+    "iso:country":"US",
+    "sg:address":"807 G St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 3621",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "environmental",
+        "org"
+    ],
+    "sg:website":"www.akcenter.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873719,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fVHnPHQ4CBkWEuhMbeeYH_61.213689_-149.895450@1293731153"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8aa6e16623600a4aec7ed19e8d0d6620",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":"102151163"
+        }
+    ],
+    "wof:id":"102151163",
+    "wof:lastmodified":1449067783,
+    "wof:name":"Alaska Center For The Evrnmnt",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-149.89545,61.213689,-149.89545,61.213689],
+  "geometry": {"coordinates":[-149.89545,61.213689],"type":"Point"}
+}
