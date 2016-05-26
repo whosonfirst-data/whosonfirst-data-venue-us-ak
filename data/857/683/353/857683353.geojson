@@ -1,0 +1,76 @@
+{
+  "id": 857683353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.896861,61.195261,-149.896861,61.195261",
+    "geom:latitude":61.195261,
+    "geom:longitude":-149.896861,
+    "iso:country":"US",
+    "sg:address":"555 W Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/9706-bombay-deluxe-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 1200",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "indian",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85873713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ec9HTWbCefzn3ycwf6o61_61.195261_-149.896861@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220484,
+    "wof:geomhash":"db3690b965378651e53549e1337b92cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":857683353
+        }
+    ],
+    "wof:id":857683353,
+    "wof:lastmodified":1464220484,
+    "wof:name":"Bombay Deluxe Restaurant",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "indian",
+        "asian"
+    ]
+},
+  "bbox": [
+    -149.896861,
+    61.195261,
+    -149.896861,
+    61.195261
+],
+  "geometry": {"coordinates":[-149.896861,61.195261],"type":"Point"}
+}

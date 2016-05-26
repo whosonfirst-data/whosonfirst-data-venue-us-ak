@@ -1,0 +1,76 @@
+{
+  "id": 857683765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-147.754726,64.837004,-147.754726,64.837004",
+    "geom:latitude":64.837004,
+    "geom:longitude":-147.754726,
+    "iso:country":"US",
+    "sg:address":"1800 Airport Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/fairbanks-north-star/109670-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 5415",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85916563,
+        102081397,
+        85856935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OnUR5XjjCBiEgYoGbrtaA_64.837004_-147.754726@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220494,
+    "wof:geomhash":"5f1db8f991b48d4aa23fc273a57298ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916563,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":857683765
+        }
+    ],
+    "wof:id":857683765,
+    "wof:lastmodified":1464220494,
+    "wof:name":"Subway",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -147.754726,
+    64.837004,
+    -147.754726,
+    64.837004
+],
+  "geometry": {"coordinates":[-147.75472600000001,64.83700399999999],"type":"Point"}
+}

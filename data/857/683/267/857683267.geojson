@@ -1,0 +1,76 @@
+{
+  "id": 857683267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.891833,61.219539,-149.891833,61.219539",
+    "geom:latitude":61.219539,
+    "geom:longitude":-149.891833,
+    "iso:country":"US",
+    "sg:address":"523 W 3rd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/9635-sizzlin-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 929 5400",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102524963,
+        85873711,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JVQn5rwvtGeCSs7VagX5w_61.219539_-149.891833@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220481,
+    "wof:geomhash":"d2e899d804ef5a551a7d72d85c560ed0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524963,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873711,
+            "region_id":85688573,
+            "venue_id":857683267
+        }
+    ],
+    "wof:id":857683267,
+    "wof:lastmodified":1464220481,
+    "wof:name":"Sizzlin' Cafe",
+    "wof:parent_id":102524963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -149.891833,
+    61.219539,
+    -149.891833,
+    61.219539
+],
+  "geometry": {"coordinates":[-149.89183299999999,61.219539],"type":"Point"}
+}

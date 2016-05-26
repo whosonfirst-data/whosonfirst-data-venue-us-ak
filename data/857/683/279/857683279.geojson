@@ -1,0 +1,76 @@
+{
+  "id": 857683279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.887798,61.217575,-149.887798,61.217575",
+    "geom:latitude":61.217575,
+    "geom:longitude":-149.887798,
+    "iso:country":"US",
+    "sg:address":"320 W 5th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/15121-sullivans/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 258 2882",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85873719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_310im55GuNyb0NOmd5lPsv_61.217575_-149.887798@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220481,
+    "wof:geomhash":"493a61fd528b46fba6f408ac1b993cb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":857683279
+        }
+    ],
+    "wof:id":857683279,
+    "wof:lastmodified":1464220481,
+    "wof:name":"Sullivan's",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -149.887798,
+    61.217575,
+    -149.887798,
+    61.217575
+],
+  "geometry": {"coordinates":[-149.887798,61.217575],"type":"Point"}
+}

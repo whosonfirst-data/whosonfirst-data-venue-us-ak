@@ -1,0 +1,80 @@
+{
+  "id": 857683489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.87511,61.144789,-149.87511,61.144789",
+    "geom:latitude":61.144789,
+    "geom:longitude":-149.87511,
+    "iso:country":"US",
+    "sg:address":"321 E Dimond Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/99603-schlotzskys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 868 3960",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85809155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D00j6gxU5l991BF8wiKrM_61.144789_-149.875110@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220489,
+    "wof:geomhash":"02cbadfbb84f76640c0b4354a43479b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":857683489
+        }
+    ],
+    "wof:id":857683489,
+    "wof:lastmodified":1464220489,
+    "wof:name":"Schlotzsky's",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -149.87511,
+    61.144789,
+    -149.87511,
+    61.144789
+],
+  "geometry": {"coordinates":[-149.87511000000001,61.144789],"type":"Point"}
+}

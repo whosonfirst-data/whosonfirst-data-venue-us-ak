@@ -1,0 +1,74 @@
+{
+  "id": 857683459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.917608,61.137642,-149.917608,61.137642",
+    "geom:latitude":61.137642,
+    "geom:longitude":-149.917608,
+    "iso:country":"US",
+    "sg:address":"2000 W Dimond Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/115206-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 267 6700",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85809155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uHgoPn6WpsXkehhAUmEko_61.137642_-149.917608@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220488,
+    "wof:geomhash":"de632dbb05ba1cf7960c981ceae05074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":857683459
+        }
+    ],
+    "wof:id":857683459,
+    "wof:lastmodified":1464220488,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -149.917608,
+    61.137642,
+    -149.917608,
+    61.137642
+],
+  "geometry": {"coordinates":[-149.917608,61.137642],"type":"Point"}
+}

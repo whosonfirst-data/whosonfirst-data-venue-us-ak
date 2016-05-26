@@ -1,0 +1,76 @@
+{
+  "id": 857683397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.828273,61.180695,-149.828273,61.180695",
+    "geom:latitude":61.180695,
+    "geom:longitude":-149.828273,
+    "iso:country":"US",
+    "sg:address":"2834 E Tudor Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/109654-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 563 7827",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85873715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SB9uMI6jVxzcS1hYCv1Gr_61.180695_-149.828273@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220486,
+    "wof:geomhash":"b36e78565c639a015229bca7407fc4bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873715,
+            "region_id":85688573,
+            "venue_id":857683397
+        }
+    ],
+    "wof:id":857683397,
+    "wof:lastmodified":1464220486,
+    "wof:name":"Subway",
+    "wof:parent_id":85873715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -149.828273,
+    61.180695,
+    -149.828273,
+    61.180695
+],
+  "geometry": {"coordinates":[-149.828273,61.180695],"type":"Point"}
+}

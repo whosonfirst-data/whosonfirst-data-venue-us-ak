@@ -1,0 +1,76 @@
+{
+  "id": 857683817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-134.58258,58.371231,-134.58258,58.371231",
+    "geom:latitude":58.371231,
+    "geom:longitude":-134.58258,
+    "iso:country":"US",
+    "sg:address":"9108 Mendenhall Mall Rd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/juneau/78134-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 7567",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915729,
+        102081399,
+        85833767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Sm1kQYkwaxbxBHmNWlUmb_58.371231_-134.582580@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220495,
+    "wof:geomhash":"f10436060a985ec624e5fc3e7cb887ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":857683817
+        }
+    ],
+    "wof:id":857683817,
+    "wof:lastmodified":1464220495,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -134.58258,
+    58.371231,
+    -134.58258,
+    58.371231
+],
+  "geometry": {"coordinates":[-134.58258000000001,58.371231],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857683295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.952222,61.137474,-149.952222,61.137474",
+    "geom:latitude":61.137474,
+    "geom:longitude":-149.952222,
+    "iso:country":"US",
+    "sg:address":"3828 W Dimond Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/190069-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85873737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4O0EKPeQFqXFiUTLnzU7UY_61.137474_-149.952222@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220482,
+    "wof:geomhash":"237b42220ee76959784d8c4a7881a534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":857683295
+        }
+    ],
+    "wof:id":857683295,
+    "wof:lastmodified":1464220482,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -149.952222,
+    61.137474,
+    -149.952222,
+    61.137474
+],
+  "geometry": {"coordinates":[-149.95222200000001,61.137474],"type":"Point"}
+}

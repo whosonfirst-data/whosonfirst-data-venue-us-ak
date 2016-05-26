@@ -1,0 +1,80 @@
+{
+  "id": 857683537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.93869,61.179449,-149.93869,61.179449",
+    "geom:latitude":61.179449,
+    "geom:longitude":-149.93869,
+    "iso:country":"US",
+    "sg:address":"4505 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/110688-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 222 7827",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531979,
+        85852831,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SoL4r8QiwjeqQ9LsVeCTs_61.179449_-149.938690@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220490,
+    "wof:geomhash":"1d86e2e51a12a365c97001f205aba0d7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531979,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":857683537
+        }
+    ],
+    "wof:id":857683537,
+    "wof:lastmodified":1464220490,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":102531979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -149.93869,
+    61.179449,
+    -149.93869,
+    61.179449
+],
+  "geometry": {"coordinates":[-149.93869000000001,61.179449],"type":"Point"}
+}

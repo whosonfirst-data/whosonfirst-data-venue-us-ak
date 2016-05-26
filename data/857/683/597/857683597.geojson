@@ -1,0 +1,76 @@
+{
+  "id": 857683597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-151.529979,59.647451,-151.529979,59.647451",
+    "geom:latitude":59.647451,
+    "geom:longitude":-151.529979,
+    "iso:country":"US",
+    "sg:address":"637 E Pioneer Ave",
+    "sg:city":"Homer",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/kenai-cook-inlet/109676-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 235 2782",
+    "sg:postcode":"99603",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915739,
+        102081909,
+        85834363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7efi4rTitQ1yaWoL8A6lrl_59.647451_-151.529979@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220491,
+    "wof:geomhash":"16517cfca9759f2f6d67d518a025d9d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081909,
+            "locality_id":85915739,
+            "neighbourhood_id":85834363,
+            "region_id":85688573,
+            "venue_id":857683597
+        }
+    ],
+    "wof:id":857683597,
+    "wof:lastmodified":1464220491,
+    "wof:name":"Subway",
+    "wof:parent_id":85834363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -151.529979,
+    59.647451,
+    -151.529979,
+    59.647451
+],
+  "geometry": {"coordinates":[-151.529979,59.647451],"type":"Point"}
+}

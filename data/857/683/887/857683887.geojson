@@ -1,0 +1,81 @@
+{
+  "id": 857683887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.894074,61.21954,-149.894074,61.21954",
+    "geom:latitude":61.21954,
+    "geom:longitude":-149.894074,
+    "iso:country":"US",
+    "sg:address":"627 W 3rd Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/9644-the-marx-brothers-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 278 2133",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102524963,
+        85873711,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rNd3QXF6mw3FLPcnNBpvj_61.219613_-149.894735@1293731153"
+    },
+    "wof:country":"US",
+    "wof:created":1464220497,
+    "wof:geomhash":"404895bc7faba3202692e64d3ed6888a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524963,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873711,
+            "region_id":85688573,
+            "venue_id":857683887
+        }
+    ],
+    "wof:id":857683887,
+    "wof:lastmodified":1464220497,
+    "wof:name":"The Marx Brothers Cafe",
+    "wof:parent_id":102524963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -149.894074,
+    61.21954,
+    -149.894074,
+    61.21954
+],
+  "geometry": {"coordinates":[-149.89407399999999,61.21954],"type":"Point"}
+}

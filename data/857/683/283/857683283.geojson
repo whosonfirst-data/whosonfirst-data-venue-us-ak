@@ -1,0 +1,76 @@
+{
+  "id": 857683283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.903809,61.218185,-149.903809,61.218185",
+    "geom:latitude":61.218185,
+    "geom:longitude":-149.903809,
+    "iso:country":"US",
+    "sg:address":"420 L St",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/9700-simon-seaforts-saloon--grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 3502",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102524963,
+        85873711,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZCpbvWt1rXwwsS9z0Nfcm_61.218185_-149.903809@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220482,
+    "wof:geomhash":"226039e7703059729048ef77cc106215",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524963,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873711,
+            "region_id":85688573,
+            "venue_id":857683283
+        }
+    ],
+    "wof:id":857683283,
+    "wof:lastmodified":1464220482,
+    "wof:name":"Simon Seafort's Saloon & Grill",
+    "wof:parent_id":102524963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -149.903809,
+    61.218185,
+    -149.903809,
+    61.218185
+],
+  "geometry": {"coordinates":[-149.903809,61.218185],"type":"Point"}
+}

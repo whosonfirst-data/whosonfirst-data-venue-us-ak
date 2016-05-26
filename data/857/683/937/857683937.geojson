@@ -1,0 +1,78 @@
+{
+  "id": 857683937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.894977,61.195397,-149.894977,61.195397",
+    "geom:latitude":61.195397,
+    "geom:longitude":-149.894977,
+    "iso:country":"US",
+    "sg:address":"607 W Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/110682-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 277 7827",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85873713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RdUpNUXANSpGI625Moi6H_61.195222_-149.895968@1293731153"
+    },
+    "wof:country":"US",
+    "wof:created":1464220497,
+    "wof:geomhash":"d82e4470d06532d6255dad5e68a9ce57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":857683937
+        }
+    ],
+    "wof:id":857683937,
+    "wof:lastmodified":1464220497,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -149.894977,
+    61.195397,
+    -149.894977,
+    61.195397
+],
+  "geometry": {"coordinates":[-149.89497700000001,61.195397],"type":"Point"}
+}

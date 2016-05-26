@@ -1,0 +1,73 @@
+{
+  "id": 857683271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.88876,61.217449,-149.88876,61.217449",
+    "geom:latitude":61.217449,
+    "geom:longitude":-149.88876,
+    "iso:country":"US",
+    "sg:address":"320 W 5th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/228582-hot-dog-on-a-stick/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85873719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GOWK8URoytOpOCI4FifQo_61.217449_-149.888760@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220481,
+    "wof:geomhash":"69e7b496af216af505db533a6c2b3b2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873719,
+            "region_id":85688573,
+            "venue_id":857683271
+        }
+    ],
+    "wof:id":857683271,
+    "wof:lastmodified":1464220481,
+    "wof:name":"HOT DOG ON A STICK",
+    "wof:parent_id":85873719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -149.88876,
+    61.217449,
+    -149.88876,
+    61.217449
+],
+  "geometry": {"coordinates":[-149.88875999999999,61.217449],"type":"Point"}
+}

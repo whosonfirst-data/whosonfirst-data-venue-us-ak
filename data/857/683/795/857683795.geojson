@@ -1,0 +1,75 @@
+{
+  "id": 857683795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-147.819505,64.849177,-147.819505,64.849177",
+    "geom:latitude":64.849177,
+    "geom:longitude":-147.819505,
+    "iso:country":"US",
+    "sg:address":"3905 Geist Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/fairbanks-north-star/190078-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85916563,
+        102081397,
+        85856935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OHTyU5obYF5yxGMY67G82_64.849177_-147.819505@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220495,
+    "wof:geomhash":"202c43298dd4e1306cad96963f07c74b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916563,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":857683795
+        }
+    ],
+    "wof:id":857683795,
+    "wof:lastmodified":1464220495,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -147.819505,
+    64.849177,
+    -147.819505,
+    64.849177
+],
+  "geometry": {"coordinates":[-147.81950499999999,64.849177],"type":"Point"}
+}

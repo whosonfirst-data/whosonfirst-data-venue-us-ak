@@ -1,0 +1,76 @@
+{
+  "id": 857683311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.895671,61.195297,-149.895671,61.195297",
+    "geom:latitude":61.195297,
+    "geom:longitude":-149.895671,
+    "iso:country":"US",
+    "sg:address":"650 W Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/160968-carls-jr/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 2275",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85873713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UYUNpw7sUkL7CMmoi5dwi_61.195297_-149.895671@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220482,
+    "wof:geomhash":"189c8bc218f0e8f721bbcbb226b07da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":857683311
+        }
+    ],
+    "wof:id":857683311,
+    "wof:lastmodified":1464220482,
+    "wof:name":"Carl's Jr.",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -149.895671,
+    61.195297,
+    -149.895671,
+    61.195297
+],
+  "geometry": {"coordinates":[-149.89567099999999,61.195297],"type":"Point"}
+}

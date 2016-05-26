@@ -1,0 +1,78 @@
+{
+  "id": 857683821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-134.586178,58.36697,-134.586178,58.36697",
+    "geom:latitude":58.36697,
+    "geom:longitude":-134.586178,
+    "iso:country":"US",
+    "sg:address":"2354 Mendenhall Loop Rd",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/juneau/63956-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 789 3303",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915729,
+        102081399,
+        85833767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ASVbk7gqOlSwUPDmL1miO_58.366970_-134.586178@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220495,
+    "wof:geomhash":"bf5f55b21ba567558c2206a8f4d61a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85833767,
+            "region_id":85688573,
+            "venue_id":857683821
+        }
+    ],
+    "wof:id":857683821,
+    "wof:lastmodified":1464220495,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85833767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -134.586178,
+    58.36697,
+    -134.586178,
+    58.36697
+],
+  "geometry": {"coordinates":[-134.58617799999999,58.36697],"type":"Point"}
+}

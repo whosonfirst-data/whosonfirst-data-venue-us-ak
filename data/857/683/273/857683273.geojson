@@ -1,0 +1,75 @@
+{
+  "id": 857683273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.823784,61.219548,-149.823784,61.219548",
+    "geom:latitude":61.219548,
+    "geom:longitude":-149.823784,
+    "iso:country":"US",
+    "sg:address":"3006 Mountain View Dr",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/190066-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"99501",
+    "sg:province":"AK",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85835847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lSfH2Smqsd4gQmI3M7XBI_61.219548_-149.823784@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220481,
+    "wof:geomhash":"46ee76dec1f043b089e01bce6ed5538e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85835847,
+            "region_id":85688573,
+            "venue_id":857683273
+        }
+    ],
+    "wof:id":857683273,
+    "wof:lastmodified":1464220481,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85835847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -149.823784,
+    61.219548,
+    -149.823784,
+    61.219548
+],
+  "geometry": {"coordinates":[-149.82378399999999,61.219548],"type":"Point"}
+}

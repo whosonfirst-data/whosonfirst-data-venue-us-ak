@@ -1,0 +1,76 @@
+{
+  "id": 857683729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-147.713285,64.826123,-147.713285,64.826123",
+    "geom:latitude":64.826123,
+    "geom:longitude":-147.713285,
+    "iso:country":"US",
+    "sg:address":"2301 S Cushman St",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/fairbanks-north-star/109674-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 6000",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85916551,
+        102081397,
+        85869047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yvfR5arOvTsJStGEzYenO_64.826123_-147.713285@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220493,
+    "wof:geomhash":"266a0f3ba78c0f8bc84d60fa8faa8174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916551,
+            "neighbourhood_id":85869047,
+            "region_id":85688573,
+            "venue_id":857683729
+        }
+    ],
+    "wof:id":857683729,
+    "wof:lastmodified":1464220493,
+    "wof:name":"Subway",
+    "wof:parent_id":85869047,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -147.713285,
+    64.826123,
+    -147.713285,
+    64.826123
+],
+  "geometry": {"coordinates":[-147.71328500000001,64.826123],"type":"Point"}
+}

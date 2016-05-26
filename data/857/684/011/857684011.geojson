@@ -1,0 +1,74 @@
+{
+  "id": 857684011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-147.720428,64.843922,-147.720428,64.843922",
+    "geom:latitude":64.843922,
+    "geom:longitude":-147.720428,
+    "iso:country":"US",
+    "sg:address":"575 1st Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/fairbanks-north-star/9784-lavelles-bistro/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 450 0555",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915635,
+        102081397,
+        85848979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BDH48TJYRa3TItO4hBSYl_64.844019_-147.718953@1293731153"
+    },
+    "wof:country":"US",
+    "wof:created":1464220499,
+    "wof:geomhash":"7f467774913c4a178b1898d324cda7bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":857684011
+        }
+    ],
+    "wof:id":857684011,
+    "wof:lastmodified":1464220499,
+    "wof:name":"Lavelle's Bistro",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -147.720428,
+    64.843922,
+    -147.720428,
+    64.843922
+],
+  "geometry": {"coordinates":[-147.720428,64.84392200000001],"type":"Point"}
+}

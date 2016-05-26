@@ -1,0 +1,75 @@
+{
+  "id": 857683837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-134.40442,58.299153,-134.40442,58.299153",
+    "geom:latitude":58.299153,
+    "geom:longitude":-134.40442,
+    "iso:country":"US",
+    "sg:address":"130 Front St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/juneau/190082-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915729,
+        102081399,
+        85855741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Nvd3FRfZuDCI8jITePE7P_58.299153_-134.404420@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220496,
+    "wof:geomhash":"d351498e100eea3bd27ef947afabaca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":857683837
+        }
+    ],
+    "wof:id":857683837,
+    "wof:lastmodified":1464220496,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -134.40442,
+    58.299153,
+    -134.40442,
+    58.299153
+],
+  "geometry": {"coordinates":[-134.40441999999999,58.299153],"type":"Point"}
+}

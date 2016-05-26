@@ -1,0 +1,78 @@
+{
+  "id": 857683381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.733705,61.224014,-149.733705,61.224014",
+    "geom:latitude":61.224014,
+    "geom:longitude":-149.733705,
+    "iso:country":"US",
+    "sg:address":"108 Muldoon Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/63954-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 6150",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85873731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7U8CMtc7Vx9EYcHVPUaCWs_61.224014_-149.733705@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220485,
+    "wof:geomhash":"0f066eb6f2b1cd4c3b6e29e6b562d6a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":857683381
+        }
+    ],
+    "wof:id":857683381,
+    "wof:lastmodified":1464220485,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -149.733705,
+    61.224014,
+    -149.733705,
+    61.224014
+],
+  "geometry": {"coordinates":[-149.73370499999999,61.224014],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857683757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-147.755406,64.836595,-147.755406,64.836595",
+    "geom:latitude":64.836595,
+    "geom:longitude":-147.755406,
+    "iso:country":"US",
+    "sg:address":"1929 Airport Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/fairbanks-north-star/9268-dennys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 8950",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85916563,
+        102081397,
+        85856935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LpvN5JmfnYj359yIdnP2Z_64.836595_-147.755406@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220494,
+    "wof:geomhash":"23491f2685d9f6fcee415b7f2e877557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916563,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":857683757
+        }
+    ],
+    "wof:id":857683757,
+    "wof:lastmodified":1464220494,
+    "wof:name":"Denny's",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -147.755406,
+    64.836595,
+    -147.755406,
+    64.836595
+],
+  "geometry": {"coordinates":[-147.75540599999999,64.836595],"type":"Point"}
+}

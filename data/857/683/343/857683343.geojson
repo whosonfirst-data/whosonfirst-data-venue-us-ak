@@ -1,0 +1,76 @@
+{
+  "id": 857683343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.883247,61.18949,-149.883247,61.18949",
+    "geom:latitude":61.18949,
+    "geom:longitude":-149.883247,
+    "iso:country":"US",
+    "sg:address":"101 W 34th Ave",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/9701-outback-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 562 8787",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85873723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tSrNJrqdUsBoTriP0DXMP_61.189490_-149.883247@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220483,
+    "wof:geomhash":"041583685c3dbde3ae3d78ee2c6395bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":857683343
+        }
+    ],
+    "wof:id":857683343,
+    "wof:lastmodified":1464220483,
+    "wof:name":"Outback Steakhouse",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -149.883247,
+    61.18949,
+    -149.883247,
+    61.18949
+],
+  "geometry": {"coordinates":[-149.88324700000001,61.18949],"type":"Point"}
+}

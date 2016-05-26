@@ -1,0 +1,76 @@
+{
+  "id": 857683547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.867341,61.165314,-149.867341,61.165314",
+    "geom:latitude":61.165314,
+    "geom:longitude":-149.867341,
+    "iso:country":"US",
+    "sg:address":"6110 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/109662-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 868 7827",
+    "sg:postcode":"99518",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85809155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mc3VCT8PN3REEisS6UC22_61.165314_-149.867341@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220490,
+    "wof:geomhash":"50d3a8d345aaf59202cb835f69ce4c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":857683547
+        }
+    ],
+    "wof:id":857683547,
+    "wof:lastmodified":1464220490,
+    "wof:name":"Subway",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -149.867341,
+    61.165314,
+    -149.867341,
+    61.165314
+],
+  "geometry": {"coordinates":[-149.86734100000001,61.165314],"type":"Point"}
+}

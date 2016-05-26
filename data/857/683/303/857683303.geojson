@@ -1,0 +1,74 @@
+{
+  "id": 857683303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.869749,61.193387,-149.869749,61.193387",
+    "geom:latitude":61.193387,
+    "geom:longitude":-149.869749,
+    "iso:country":"US",
+    "sg:address":"702 E Benson Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/9651-qdoba/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 276 4755",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85873723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LdUknhfjL8Z1OM7m9Fty9_61.193387_-149.869749@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220482,
+    "wof:geomhash":"eda58def72a7f04f20683244141ae886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873723,
+            "region_id":85688573,
+            "venue_id":857683303
+        }
+    ],
+    "wof:id":857683303,
+    "wof:lastmodified":1464220482,
+    "wof:name":"Qdoba",
+    "wof:parent_id":85873723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -149.869749,
+    61.193387,
+    -149.869749,
+    61.193387
+],
+  "geometry": {"coordinates":[-149.86974900000001,61.193387],"type":"Point"}
+}

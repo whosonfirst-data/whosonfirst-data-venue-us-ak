@@ -1,0 +1,76 @@
+{
+  "id": 857683739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-147.709348,64.852143,-147.709348,64.852143",
+    "geom:latitude":64.852143,
+    "geom:longitude":-147.709348,
+    "iso:country":"US",
+    "sg:address":"62 College Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/fairbanks-north-star/198544-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 7546",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915635,
+        102081397,
+        85848979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2adAyxljUAH8FS1dCbbPcn_64.852143_-147.709348@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220494,
+    "wof:geomhash":"39cdd21b84c170af27df78fccc0de2fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":857683739
+        }
+    ],
+    "wof:id":857683739,
+    "wof:lastmodified":1464220494,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -147.709348,
+    64.852143,
+    -147.709348,
+    64.852143
+],
+  "geometry": {"coordinates":[-147.70934800000001,64.852143],"type":"Point"}
+}

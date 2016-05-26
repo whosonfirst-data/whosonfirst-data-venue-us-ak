@@ -1,0 +1,78 @@
+{
+  "id": 857684005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-147.70898,64.851929,-147.70898,64.851929",
+    "geom:latitude":64.851929,
+    "geom:longitude":-147.70898,
+    "iso:country":"US",
+    "sg:address":"59 College Rd",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/fairbanks-north-star/63955-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 451 8201",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915635,
+        102081397,
+        85848979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Z1ChedYKTOtbsUzETHdbM_64.851910_-147.708488@1293731153"
+    },
+    "wof:country":"US",
+    "wof:created":1464220499,
+    "wof:geomhash":"cbee592536fa3b162ab28a38e9eb5252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":857684005
+        }
+    ],
+    "wof:id":857684005,
+    "wof:lastmodified":1464220499,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -147.70898,
+    64.851929,
+    -147.70898,
+    64.851929
+],
+  "geometry": {"coordinates":[-147.70898,64.851929],"type":"Point"}
+}

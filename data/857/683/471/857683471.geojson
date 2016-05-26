@@ -1,0 +1,74 @@
+{
+  "id": 857683471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.867291,61.142386,-149.867291,61.142386",
+    "geom:latitude":61.142386,
+    "geom:longitude":-149.867291,
+    "iso:country":"US",
+    "sg:address":"800 E Dimond Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/242940-baskin-robbins/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 336 3331",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85809155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cPHf9pccmddMtFiXD9Q0T_61.142386_-149.867291@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220488,
+    "wof:geomhash":"6461063d92b73fae20e0b19e85de3d54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":857683471
+        }
+    ],
+    "wof:id":857683471,
+    "wof:lastmodified":1464220488,
+    "wof:name":"Baskin-Robbins",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -149.867291,
+    61.142386,
+    -149.867291,
+    61.142386
+],
+  "geometry": {"coordinates":[-149.86729099999999,61.142386],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 857683965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.937087,61.180559,-149.937087,61.180559",
+    "geom:latitude":61.180559,
+    "geom:longitude":-149.937087,
+    "iso:country":"US",
+    "sg:address":"4407 Spenard Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/173847-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 677 8890",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531979,
+        85852831,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IJk9JoJzh2M8PIY0cHx0j_61.181159_-149.936652@1293731153"
+    },
+    "wof:country":"US",
+    "wof:created":1464220498,
+    "wof:geomhash":"12342818c610b3175555065330ea0462",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531979,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":857683965
+        }
+    ],
+    "wof:id":857683965,
+    "wof:lastmodified":1464220498,
+    "wof:name":"Wendy's",
+    "wof:parent_id":102531979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -149.937087,
+    61.180559,
+    -149.937087,
+    61.180559
+],
+  "geometry": {"coordinates":[-149.93708699999999,61.180559],"type":"Point"}
+}

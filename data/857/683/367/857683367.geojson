@@ -1,0 +1,78 @@
+{
+  "id": 857683367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.733505,61.221687,-149.733505,61.221687",
+    "geom:latitude":61.221687,
+    "geom:longitude":-149.733505,
+    "iso:country":"US",
+    "sg:address":"220 Muldoon Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/110683-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 929 2999",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85873731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Cz4TN2RsI3chd0Spv43hA_61.221687_-149.733505@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220484,
+    "wof:geomhash":"01388be60487ce71bb280d0d0da6a8df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":857683367
+        }
+    ],
+    "wof:id":857683367,
+    "wof:lastmodified":1464220484,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -149.733505,
+    61.221687,
+    -149.733505,
+    61.221687
+],
+  "geometry": {"coordinates":[-149.73350500000001,61.221687],"type":"Point"}
+}

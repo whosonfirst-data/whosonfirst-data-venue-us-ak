@@ -1,0 +1,73 @@
+{
+  "id": 857683771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-147.351539,64.757783,-147.351539,64.757783",
+    "geom:latitude":64.757783,
+    "geom:longitude":-147.351539,
+    "iso:country":"US",
+    "sg:address":"352 N Santa Claus Ln",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/fairbanks-north-star/190087-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85915635,
+        102081397,
+        85823671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1shCWmVOWaIdr52qM9hMMd_64.757783_-147.351539@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220494,
+    "wof:geomhash":"29a3fd60cb5200b51d209b602bdf0342",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":857683771
+        }
+    ],
+    "wof:id":857683771,
+    "wof:lastmodified":1464220494,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -147.351539,
+    64.757783,
+    -147.351539,
+    64.757783
+],
+  "geometry": {"coordinates":[-147.351539,64.757783],"type":"Point"}
+}

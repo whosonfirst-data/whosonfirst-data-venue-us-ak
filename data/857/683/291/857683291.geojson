@@ -1,0 +1,76 @@
+{
+  "id": 857683291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.95154,61.138693,-149.95154,61.138693",
+    "geom:latitude":61.138693,
+    "geom:longitude":-149.95154,
+    "iso:country":"US",
+    "sg:address":"9001 Jewel Lake Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/109666-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 7527",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85873737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IhrNfWJ8687ZHNqe5IIL1_61.138693_-149.951540@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220482,
+    "wof:geomhash":"bd0b64bbb4a86cee4fa60265c5a82d8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873737,
+            "region_id":85688573,
+            "venue_id":857683291
+        }
+    ],
+    "wof:id":857683291,
+    "wof:lastmodified":1464220482,
+    "wof:name":"Subway",
+    "wof:parent_id":85873737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -149.95154,
+    61.138693,
+    -149.95154,
+    61.138693
+],
+  "geometry": {"coordinates":[-149.95153999999999,61.138693],"type":"Point"}
+}

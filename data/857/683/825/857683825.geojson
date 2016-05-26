@@ -1,0 +1,76 @@
+{
+  "id": 857683825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-134.40449,58.300049,-134.40449,58.300049",
+    "geom:latitude":58.300049,
+    "geom:longitude":-134.40449,
+    "iso:country":"US",
+    "sg:address":"201 Seward St",
+    "sg:city":"Juneau",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/juneau/109677-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 586 3331",
+    "sg:postcode":"99801",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915729,
+        102081399,
+        85855741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I6z0Cp3z44v6mQZDP30PW_58.300049_-134.404490@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220495,
+    "wof:geomhash":"0db0ef1af379814e579e1f7cb911a8d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081399,
+            "locality_id":85915729,
+            "neighbourhood_id":85855741,
+            "region_id":85688573,
+            "venue_id":857683825
+        }
+    ],
+    "wof:id":857683825,
+    "wof:lastmodified":1464220495,
+    "wof:name":"Subway",
+    "wof:parent_id":85855741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -134.40449,
+    58.300049,
+    -134.40449,
+    58.300049
+],
+  "geometry": {"coordinates":[-134.40449000000001,58.300049],"type":"Point"}
+}

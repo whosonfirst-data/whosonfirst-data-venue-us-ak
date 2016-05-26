@@ -1,0 +1,76 @@
+{
+  "id": 857683457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.865307,61.143276,-149.865307,61.143276",
+    "geom:latitude":61.143276,
+    "geom:longitude":-149.865307,
+    "iso:country":"US",
+    "sg:address":"800 E Dimond Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/109664-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 646 3980",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85809155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76OeKLbR1FhLmgKjI8gfRO_61.143276_-149.865307@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220488,
+    "wof:geomhash":"a49cbd24427852ce97ca9e316c66497f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":857683457
+        }
+    ],
+    "wof:id":857683457,
+    "wof:lastmodified":1464220488,
+    "wof:name":"Subway",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -149.865307,
+    61.143276,
+    -149.865307,
+    61.143276
+],
+  "geometry": {"coordinates":[-149.865307,61.143276],"type":"Point"}
+}

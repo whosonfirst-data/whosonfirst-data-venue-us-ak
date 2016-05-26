@@ -1,0 +1,76 @@
+{
+  "id": 857683387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.733715,61.224123,-149.733715,61.224123",
+    "geom:latitude":61.224123,
+    "geom:longitude":-149.733715,
+    "iso:country":"US",
+    "sg:address":"102 Muldoon Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/109650-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 333 7774",
+    "sg:postcode":"99504",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85873731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XKEWr7sIJ3m3NuhZAMoP6_61.224123_-149.733715@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220485,
+    "wof:geomhash":"c9fb6169e568608f13ab576c50f056fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873731,
+            "region_id":85688573,
+            "venue_id":857683387
+        }
+    ],
+    "wof:id":857683387,
+    "wof:lastmodified":1464220485,
+    "wof:name":"Subway",
+    "wof:parent_id":85873731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -149.733715,
+    61.224123,
+    -149.733715,
+    61.224123
+],
+  "geometry": {"coordinates":[-149.73371499999999,61.224123],"type":"Point"}
+}

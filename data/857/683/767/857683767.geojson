@@ -1,0 +1,74 @@
+{
+  "id": 857683767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-147.568167,64.817619,-147.568167,64.817619",
+    "geom:latitude":64.817619,
+    "geom:longitude":-147.568167,
+    "iso:country":"US",
+    "sg:address":"771 Badger Rd",
+    "sg:city":"North Pole",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/fairbanks-north-star/109684-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 488 2117",
+    "sg:postcode":"99705",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        85633793,
+        85915635,
+        102081397,
+        85823671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J4Gq3t4j6B6ZPoMEULGrw_64.817619_-147.568167@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220494,
+    "wof:geomhash":"f3a46cdcfc3f50a5eadc344a314a851f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85823671,
+            "region_id":85688573,
+            "venue_id":857683767
+        }
+    ],
+    "wof:id":857683767,
+    "wof:lastmodified":1464220494,
+    "wof:name":"Subway",
+    "wof:parent_id":85823671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -147.568167,
+    64.817619,
+    -147.568167,
+    64.817619
+],
+  "geometry": {"coordinates":[-147.56816699999999,64.81761899999999],"type":"Point"}
+}

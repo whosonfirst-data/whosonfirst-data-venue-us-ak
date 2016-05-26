@@ -1,0 +1,76 @@
+{
+  "id": 857683799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-147.81167,64.83704,-147.81167,64.83704",
+    "geom:latitude":64.83704,
+    "geom:longitude":-147.81167,
+    "iso:country":"US",
+    "sg:address":"3574 Airport Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/fairbanks-north-star/109671-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 479 8688",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85916563,
+        102081397,
+        85856935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WfYOh040h8gNPzJtX2638_64.837040_-147.811670@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220495,
+    "wof:geomhash":"b1413436e1b802d75a3d6e9e02216675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916563,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":857683799
+        }
+    ],
+    "wof:id":857683799,
+    "wof:lastmodified":1464220495,
+    "wof:name":"Subway",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -147.81167,
+    64.83704,
+    -147.81167,
+    64.83704
+],
+  "geometry": {"coordinates":[-147.81166999999999,64.83704],"type":"Point"}
+}

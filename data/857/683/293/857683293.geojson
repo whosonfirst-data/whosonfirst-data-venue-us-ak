@@ -1,0 +1,76 @@
+{
+  "id": 857683293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.952402,61.159824,-149.952402,61.159824",
+    "geom:latitude":61.159824,
+    "geom:longitude":-149.952402,
+    "iso:country":"US",
+    "sg:address":"6700 Jewel Lake Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/9660-kincaid-grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 243 0507",
+    "sg:postcode":"99502",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531979,
+        85852831,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85688573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sd9ZJ4RSEbzeRaPv5LoOo_61.159824_-149.952402@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220482,
+    "wof:geomhash":"d763ffd8b9d2b48c6358800eef54f1e7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531979,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85852831,
+            "region_id":85688573,
+            "venue_id":857683293
+        }
+    ],
+    "wof:id":857683293,
+    "wof:lastmodified":1464220482,
+    "wof:name":"Kincaid Grill",
+    "wof:parent_id":102531979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -149.952402,
+    61.159824,
+    -149.952402,
+    61.159824
+],
+  "geometry": {"coordinates":[-149.95240200000001,61.159824],"type":"Point"}
+}

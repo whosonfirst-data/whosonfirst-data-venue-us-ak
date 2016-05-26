@@ -1,0 +1,75 @@
+{
+  "id": 857683407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.834407,61.138045,-149.834407,61.138045",
+    "geom:latitude":61.138045,
+    "geom:longitude":-149.834407,
+    "iso:country":"US",
+    "sg:address":"9100 Lake Otis Pkwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/190076-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85873753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yi30uThfG4mfd1Rtnbb1i_61.138045_-149.834407@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220486,
+    "wof:geomhash":"f844972e83e92221bf131ed81a5f2c30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":857683407
+        }
+    ],
+    "wof:id":857683407,
+    "wof:lastmodified":1464220486,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -149.834407,
+    61.138045,
+    -149.834407,
+    61.138045
+],
+  "geometry": {"coordinates":[-149.834407,61.138045],"type":"Point"}
+}

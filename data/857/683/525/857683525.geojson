@@ -1,0 +1,76 @@
+{
+  "id": 857683525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.919025,61.185614,-149.919025,61.185614",
+    "geom:latitude":61.185614,
+    "geom:longitude":-149.919025,
+    "iso:country":"US",
+    "sg:address":"3801 Lois Dr ",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/285681-kabab--curry/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 339 9699",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "indian",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85850461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xm9nNZQODyapb7vI1dyaP_61.185614_-149.919025@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220490,
+    "wof:geomhash":"29b3c698dfa34c326a7369eaaf3f609b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85850461,
+            "region_id":85688573,
+            "venue_id":857683525
+        }
+    ],
+    "wof:id":857683525,
+    "wof:lastmodified":1464220490,
+    "wof:name":"Kabab & Curry",
+    "wof:parent_id":85850461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "indian",
+        "asian"
+    ]
+},
+  "bbox": [
+    -149.919025,
+    61.185614,
+    -149.919025,
+    61.185614
+],
+  "geometry": {"coordinates":[-149.919025,61.185614],"type":"Point"}
+}

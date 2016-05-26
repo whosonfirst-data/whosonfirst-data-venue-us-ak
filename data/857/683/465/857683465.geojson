@@ -1,0 +1,75 @@
+{
+  "id": 857683465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.864607,61.141073,-149.864607,61.141073",
+    "geom:latitude":61.141073,
+    "geom:longitude":-149.864607,
+    "iso:country":"US",
+    "sg:address":"8900 Old Seward Hwy",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/190074-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85809155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vzavPiSpcAXOcZOCdxwmE_61.141073_-149.864607@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220488,
+    "wof:geomhash":"2388458ef05462cd6f8c42dc1ec89295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85809155,
+            "region_id":85688573,
+            "venue_id":857683465
+        }
+    ],
+    "wof:id":857683465,
+    "wof:lastmodified":1464220488,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85809155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -149.864607,
+    61.141073,
+    -149.864607,
+    61.141073
+],
+  "geometry": {"coordinates":[-149.86460700000001,61.141073],"type":"Point"}
+}

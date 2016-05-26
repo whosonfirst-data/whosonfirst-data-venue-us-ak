@@ -1,0 +1,76 @@
+{
+  "id": 857683345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.87837,61.1952,-149.87837,61.1952",
+    "geom:latitude":61.1952,
+    "geom:longitude":-149.87837,
+    "iso:country":"US",
+    "sg:address":"308 E Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/64068-chuck-e-cheeses/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 274 9999",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85873713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MbFDNJx2KivRECCeY1eaH_61.195200_-149.878370@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220483,
+    "wof:geomhash":"cf0d5dd0ee5cd272a01e3529b8ae64ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":857683345
+        }
+    ],
+    "wof:id":857683345,
+    "wof:lastmodified":1464220483,
+    "wof:name":"Chuck E. Cheese's",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -149.87837,
+    61.1952,
+    -149.87837,
+    61.1952
+],
+  "geometry": {"coordinates":[-149.87836999999999,61.1952],"type":"Point"}
+}

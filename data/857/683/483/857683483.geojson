@@ -1,0 +1,78 @@
+{
+  "id": 857683483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.861541,61.109133,-149.861541,61.109133",
+    "geom:latitude":61.109133,
+    "geom:longitude":-149.861541,
+    "iso:country":"US",
+    "sg:address":"12350 Industry Way",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/183686-cold-stone-creamery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 868 1030",
+    "sg:postcode":"99515",
+    "sg:province":"AK",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85873753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56VhYMaEeAzjvhqB4uU0kn_61.109133_-149.861541@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220489,
+    "wof:geomhash":"5b0ee9e566806dfce9a29d6f82d961ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":857683483
+        }
+    ],
+    "wof:id":857683483,
+    "wof:lastmodified":1464220489,
+    "wof:name":"Cold Stone Creamery",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -149.861541,
+    61.109133,
+    -149.861541,
+    61.109133
+],
+  "geometry": {"coordinates":[-149.86154099999999,61.109133],"type":"Point"}
+}

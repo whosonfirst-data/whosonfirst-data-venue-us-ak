@@ -1,0 +1,74 @@
+{
+  "id": 857683733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-147.724306,64.843387,-147.724306,64.843387",
+    "geom:latitude":64.843387,
+    "geom:longitude":-147.724306,
+    "iso:country":"US",
+    "sg:address":"706 2nd Ave",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/fairbanks-north-star/20292-gambardellas/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 457 4992",
+    "sg:postcode":"99701",
+    "sg:province":"AK",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915635,
+        102081397,
+        85848979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0skkiMgF9rWQsMa4PWgp9Z_64.843387_-147.724306@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220493,
+    "wof:geomhash":"f8df0822078aff81c1fa722c971e6eb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85915635,
+            "neighbourhood_id":85848979,
+            "region_id":85688573,
+            "venue_id":857683733
+        }
+    ],
+    "wof:id":857683733,
+    "wof:lastmodified":1464220493,
+    "wof:name":"Gambardella's",
+    "wof:parent_id":85848979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -147.724306,
+    64.843387,
+    -147.724306,
+    64.843387
+],
+  "geometry": {"coordinates":[-147.72430600000001,64.84338700000001],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857683789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-147.802266,64.836894,-147.802266,64.836894",
+    "geom:latitude":64.836894,
+    "geom:longitude":-147.802266,
+    "iso:country":"US",
+    "sg:address":"3428 Airport Way",
+    "sg:city":"Fairbanks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/fairbanks-north-star/198543-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 452 1010",
+    "sg:postcode":"99709",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85916563,
+        102081397,
+        85856935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77ZxXYmT8GRluZrDkfJbE4_64.836894_-147.802266@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220495,
+    "wof:geomhash":"01ebb0fc7b18412744830a8fdcca1add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081397,
+            "locality_id":85916563,
+            "neighbourhood_id":85856935,
+            "region_id":85688573,
+            "venue_id":857683789
+        }
+    ],
+    "wof:id":857683789,
+    "wof:lastmodified":1464220495,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85856935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -147.802266,
+    64.836894,
+    -147.802266,
+    64.836894
+],
+  "geometry": {"coordinates":[-147.802266,64.836894],"type":"Point"}
+}

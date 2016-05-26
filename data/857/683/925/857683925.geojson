@@ -1,0 +1,85 @@
+{
+  "id": 857683925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.896267,61.19538,-149.896267,61.19538",
+    "geom:latitude":61.19538,
+    "geom:longitude":-149.896267,
+    "iso:country":"US",
+    "sg:address":"703 W Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/217472-bad-ass-coffee-co/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 272 8795",
+    "sg:postcode":"99503",
+    "sg:province":"AK",
+    "sg:tags":[
+        "tea",
+        "coffee",
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85873713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lf7X2wUSR6d8gRqz2IgnU_61.195372_-149.897036@1293731153"
+    },
+    "wof:country":"US",
+    "wof:created":1464220497,
+    "wof:geomhash":"ae0705c14e42c2de9c4c5f7e20fa959f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":857683925
+        }
+    ],
+    "wof:id":857683925,
+    "wof:lastmodified":1464220497,
+    "wof:name":"Bad Ass Coffee Co.",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee",
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -149.896267,
+    61.19538,
+    -149.896267,
+    61.19538
+],
+  "geometry": {"coordinates":[-149.89626699999999,61.19538],"type":"Point"}
+}

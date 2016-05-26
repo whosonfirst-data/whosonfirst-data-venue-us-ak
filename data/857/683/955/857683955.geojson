@@ -1,0 +1,76 @@
+{
+  "id": 857683955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.839129,61.137245,-149.839129,61.137245",
+    "geom:latitude":61.137245,
+    "geom:longitude":-149.839129,
+    "iso:country":"US",
+    "sg:address":"2242 Abbott Rd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/160969-carls-jr/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 336 3381",
+    "sg:postcode":"99507",
+    "sg:province":"AK",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85873753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CZNv6vGReVRbyy6giehza_61.137447_-149.840308@1293731153"
+    },
+    "wof:country":"US",
+    "wof:created":1464220498,
+    "wof:geomhash":"ff69d6838b777ba364f1580519861964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873753,
+            "region_id":85688573,
+            "venue_id":857683955
+        }
+    ],
+    "wof:id":857683955,
+    "wof:lastmodified":1464220498,
+    "wof:name":"Carl's Jr.",
+    "wof:parent_id":85873753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -149.839129,
+    61.137245,
+    -149.839129,
+    61.137245
+],
+  "geometry": {"coordinates":[-149.83912900000001,61.137245],"type":"Point"}
+}

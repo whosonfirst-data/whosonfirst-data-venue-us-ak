@@ -1,0 +1,74 @@
+{
+  "id": 857683515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-149.915295,61.195208,-149.915295,61.195208",
+    "geom:latitude":61.195208,
+    "geom:longitude":-149.915295,
+    "iso:country":"US",
+    "sg:address":"1650 W Northern Lights Blvd",
+    "sg:city":"Anchorage",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ak/anchorage/115179-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 907 339 0500",
+    "sg:postcode":"99517",
+    "sg:province":"AK",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688573,
+        102191575,
+        85633793,
+        85915707,
+        102085881,
+        85873713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kcdvCJIPbbLKYPLN5m2nw_61.195208_-149.915295@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464220489,
+    "wof:geomhash":"e4398b1a82afa923db118ce4b574fc75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085881,
+            "locality_id":85915707,
+            "neighbourhood_id":85873713,
+            "region_id":85688573,
+            "venue_id":857683515
+        }
+    ],
+    "wof:id":857683515,
+    "wof:lastmodified":1464220489,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85873713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -149.915295,
+    61.195208,
+    -149.915295,
+    61.195208
+],
+  "geometry": {"coordinates":[-149.91529499999999,61.195208],"type":"Point"}
+}
