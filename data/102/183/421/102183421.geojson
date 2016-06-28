@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102183421",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-150.980973,60.47424,-150.980973,60.47424",
     "geom:latitude":60.47424,
     "geom:longitude":-150.980973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34025 Keystone Dr",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102183421",
-    "wof:lastmodified":1449069041,
+    "wof:lastmodified":1466314202,
     "wof:name":"Posey's Kenai River Hideaway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-150.980973,60.47424,-150.980973,60.47424],
-  "geometry": {"coordinates":[-150.980973,60.47424],"type":"Point"}
+  "bbox": [
+    -150.980973,
+    60.47424,
+    -150.980973,
+    60.47424
+],
+  "geometry": {"coordinates":[-150.98097300000001,60.47424],"type":"Point"}
 }

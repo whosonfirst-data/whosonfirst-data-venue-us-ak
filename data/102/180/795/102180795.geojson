@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102180795",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.922842,61.18671,-149.922842,61.18671",
     "geom:latitude":61.18671,
     "geom:longitude":-149.922842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 Woodland Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850461,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85850461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102180795",
-    "wof:lastmodified":1449067878,
+    "wof:lastmodified":1466314180,
     "wof:name":"PCE Pacific Inc",
     "wof:parent_id":85850461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.922842,61.18671,-149.922842,61.18671],
+  "bbox": [
+    -149.922842,
+    61.18671,
+    -149.922842,
+    61.18671
+],
   "geometry": {"coordinates":[-149.922842,61.18671],"type":"Point"}
 }

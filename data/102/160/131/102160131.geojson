@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102160131",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.38634,58.287627,-134.38634,58.287627",
     "geom:latitude":58.287627,
     "geom:longitude":-134.38634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Mill St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102160131",
-    "wof:lastmodified":1449069775,
+    "wof:lastmodified":1466313620,
     "wof:name":"Moonlight Marine",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.38634,58.287627,-134.38634,58.287627],
-  "geometry": {"coordinates":[-134.38634,58.287627],"type":"Point"}
+  "bbox": [
+    -134.38634,
+    58.287627,
+    -134.38634,
+    58.287627
+],
+  "geometry": {"coordinates":[-134.38633999999999,58.287627],"type":"Point"}
 }

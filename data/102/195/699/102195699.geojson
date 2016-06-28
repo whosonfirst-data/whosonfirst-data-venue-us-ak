@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102195699",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.441918,58.108809,-135.441918,58.108809",
     "geom:latitude":58.108809,
     "geom:longitude":-135.441918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"361 Garteeni Hwy",
     "sg:city":"Hoonah",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102195699",
-    "wof:lastmodified":1449069362,
+    "wof:lastmodified":1466314295,
     "wof:name":"Tina's Room Rentals & Apt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.441918,58.108809,-135.441918,58.108809],
-  "geometry": {"coordinates":[-135.441918,58.108809],"type":"Point"}
+  "bbox": [
+    -135.441918,
+    58.108809,
+    -135.441918,
+    58.108809
+],
+  "geometry": {"coordinates":[-135.44191799999999,58.108809],"type":"Point"}
 }

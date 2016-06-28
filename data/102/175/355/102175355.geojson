@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102175355",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.710599,59.436714,-151.710599,59.436714",
     "geom:latitude":59.436714,
     "geom:longitude":-151.710599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Airport Ave",
     "sg:city":"Seldovia",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102175355",
-    "wof:lastmodified":1449069464,
+    "wof:lastmodified":1466313930,
     "wof:name":"Bridgekeeper's Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.710599,59.436714,-151.710599,59.436714],
+  "bbox": [
+    -151.710599,
+    59.436714,
+    -151.710599,
+    59.436714
+],
   "geometry": {"coordinates":[-151.710599,59.436714],"type":"Point"}
 }

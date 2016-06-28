@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102190949",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.849088,64.834544,-147.849088,64.834544",
     "geom:latitude":64.834544,
     "geom:longitude":-147.849088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4477 Pikes Landing Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856935,
+        85688573,
         85633793,
         85916609,
         102081397,
-        85688573
+        85856935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102190949",
-    "wof:lastmodified":1449070035,
+    "wof:lastmodified":1466314033,
     "wof:name":"Trackers Restaurant",
     "wof:parent_id":85856935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.849088,64.834544,-147.849088,64.834544],
-  "geometry": {"coordinates":[-147.849088,64.834544],"type":"Point"}
+  "bbox": [
+    -147.849088,
+    64.834544,
+    -147.849088,
+    64.834544
+],
+  "geometry": {"coordinates":[-147.84908799999999,64.83454399999999],"type":"Point"}
 }

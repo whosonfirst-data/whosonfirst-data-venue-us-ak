@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102174565",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.774235,61.092131,-149.774235,61.092131",
     "geom:latitude":61.092131,
     "geom:longitude":-149.774235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14361 Golden View Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873751,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102174565",
-    "wof:lastmodified":1449068141,
+    "wof:lastmodified":1466313967,
     "wof:name":"Blind Monkey Design",
     "wof:parent_id":85873751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.774235,61.092131,-149.774235,61.092131],
+  "bbox": [
+    -149.774235,
+    61.092131,
+    -149.774235,
+    61.092131
+],
   "geometry": {"coordinates":[-149.774235,61.092131],"type":"Point"}
 }

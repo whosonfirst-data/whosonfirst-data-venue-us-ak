@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102186551",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.724275,61.220089,-149.724275,61.220089",
     "geom:latitude":61.220089,
     "geom:longitude":-149.724275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Eklutna St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.interwareinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873731,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102186551",
-    "wof:lastmodified":1449069652,
+    "wof:lastmodified":1466314218,
     "wof:name":"Interware Inc",
     "wof:parent_id":85873731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.724275,61.220089,-149.724275,61.220089],
-  "geometry": {"coordinates":[-149.724275,61.220089],"type":"Point"}
+  "bbox": [
+    -149.724275,
+    61.220089,
+    -149.724275,
+    61.220089
+],
+  "geometry": {"coordinates":[-149.72427500000001,61.220089],"type":"Point"}
 }

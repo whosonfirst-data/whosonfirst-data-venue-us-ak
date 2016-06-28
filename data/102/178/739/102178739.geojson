@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178739",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-156.678835,58.697416,-156.678835,58.697416",
     "geom:latitude":58.697416,
     "geom:longitude":-156.678835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Coho Rd",
     "sg:city":"King Salmon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102178739",
-    "wof:lastmodified":1449069531,
+    "wof:lastmodified":1466314021,
     "wof:name":"Jack Mathis' Wilderness Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-156.678835,58.697416,-156.678835,58.697416],
-  "geometry": {"coordinates":[-156.678835,58.697416],"type":"Point"}
+  "bbox": [
+    -156.678835,
+    58.697416,
+    -156.678835,
+    58.697416
+],
+  "geometry": {"coordinates":[-156.67883499999999,58.697416],"type":"Point"}
 }

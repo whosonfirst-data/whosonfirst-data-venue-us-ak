@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102174217",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-161.772938,60.791906,-161.772938,60.791906",
     "geom:latitude":60.791906,
     "geom:longitude":-161.772938,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 Radio St",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102174217",
-    "wof:lastmodified":1449068141,
+    "wof:lastmodified":1466313900,
     "wof:name":"Regional Substance Abuse Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-161.772938,60.791906,-161.772938,60.791906],
-  "geometry": {"coordinates":[-161.772938,60.791906],"type":"Point"}
+  "bbox": [
+    -161.772938,
+    60.791906,
+    -161.772938,
+    60.791906
+],
+  "geometry": {"coordinates":[-161.77293800000001,60.791906],"type":"Point"}
 }

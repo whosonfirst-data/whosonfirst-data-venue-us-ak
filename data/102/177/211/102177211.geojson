@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102177211",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.715136,64.829868,-147.715136,64.829868",
     "geom:latitude":64.829868,
     "geom:longitude":-147.715136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1917 S Cushman St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102177211",
-    "wof:lastmodified":1449070203,
+    "wof:lastmodified":1466313913,
     "wof:name":"South Side Video",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.715136,64.829868,-147.715136,64.829868],
+  "bbox": [
+    -147.715136,
+    64.829868,
+    -147.715136,
+    64.829868
+],
   "geometry": {"coordinates":[-147.715136,64.829868],"type":"Point"}
 }

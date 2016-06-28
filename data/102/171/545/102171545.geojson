@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171545",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.609244,64.904204,-147.609244,64.904204",
     "geom:latitude":64.904204,
     "geom:longitude":-147.609244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"970 Old Steese Hwy N",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102171545",
-    "wof:lastmodified":1449070222,
+    "wof:lastmodified":1466313910,
     "wof:name":"Lifewater Engineering Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.609244,64.904204,-147.609244,64.904204],
-  "geometry": {"coordinates":[-147.609244,64.904204],"type":"Point"}
+  "bbox": [
+    -147.609244,
+    64.904204,
+    -147.609244,
+    64.904204
+],
+  "geometry": {"coordinates":[-147.60924399999999,64.90420399999999],"type":"Point"}
 }

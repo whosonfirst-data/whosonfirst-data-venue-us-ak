@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102161503",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-146.350084,61.136314,-146.350084,61.136314",
     "geom:latitude":61.136314,
     "geom:longitude":-146.350084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 Meals Ave",
     "sg:city":"Valdez",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102161503",
-    "wof:lastmodified":1449068713,
+    "wof:lastmodified":1466313745,
     "wof:name":"Harborview Developmental Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-146.350084,61.136314,-146.350084,61.136314],
-  "geometry": {"coordinates":[-146.350084,61.136314],"type":"Point"}
+  "bbox": [
+    -146.350084,
+    61.136314,
+    -146.350084,
+    61.136314
+],
+  "geometry": {"coordinates":[-146.35008400000001,61.136314],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102148401",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.653113,55.344075,-131.653113,55.344075",
     "geom:latitude":55.344075,
     "geom:longitude":-131.653113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 Water St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102148401",
-    "wof:lastmodified":1449069787,
+    "wof:lastmodified":1466313522,
     "wof:name":"Alaska Financial Advisors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.653113,55.344075,-131.653113,55.344075],
-  "geometry": {"coordinates":[-131.653113,55.344075],"type":"Point"}
+  "bbox": [
+    -131.653113,
+    55.344075,
+    -131.653113,
+    55.344075
+],
+  "geometry": {"coordinates":[-131.65311299999999,55.344075],"type":"Point"}
 }

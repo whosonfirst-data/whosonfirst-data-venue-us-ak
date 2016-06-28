@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191757",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.813336,61.182708,-149.813336,61.182708",
     "geom:latitude":61.182708,
     "geom:longitude":-149.813336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3421 E 42nd Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873727,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102191757",
-    "wof:lastmodified":1449069200,
+    "wof:lastmodified":1466314138,
     "wof:name":"Winter Wood Apartments",
     "wof:parent_id":85873727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.813336,61.182708,-149.813336,61.182708],
-  "geometry": {"coordinates":[-149.813336,61.182708],"type":"Point"}
+  "bbox": [
+    -149.813336,
+    61.182708,
+    -149.813336,
+    61.182708
+],
+  "geometry": {"coordinates":[-149.81333599999999,61.182708],"type":"Point"}
 }

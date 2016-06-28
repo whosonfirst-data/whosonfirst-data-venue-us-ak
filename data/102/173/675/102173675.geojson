@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173675",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.77563,61.220624,-149.77563,61.220624",
     "geom:latitude":61.220624,
     "geom:longitude":-149.77563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5601 Camelot Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873731,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":"102173675",
-    "wof:lastmodified":1449068265,
+    "wof:lastmodified":1466313983,
     "wof:name":"Chuck Higgins Company",
     "wof:parent_id":85873731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.77563,61.220624,-149.77563,61.220624],
-  "geometry": {"coordinates":[-149.77563,61.220624],"type":"Point"}
+  "bbox": [
+    -149.77563,
+    61.220624,
+    -149.77563,
+    61.220624
+],
+  "geometry": {"coordinates":[-149.77563000000001,61.220624],"type":"Point"}
 }

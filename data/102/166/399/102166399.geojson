@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166399",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.92783,61.137295,-149.92783,61.137295",
     "geom:latitude":61.137295,
     "geom:longitude":-149.92783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9200 Glenn Haven Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873739,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102166399",
-    "wof:lastmodified":1449069082,
+    "wof:lastmodified":1466313743,
     "wof:name":"On Line Business Ctr",
     "wof:parent_id":85873739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.92783,61.137295,-149.92783,61.137295],
+  "bbox": [
+    -149.92783,
+    61.137295,
+    -149.92783,
+    61.137295
+],
   "geometry": {"coordinates":[-149.92783,61.137295],"type":"Point"}
 }

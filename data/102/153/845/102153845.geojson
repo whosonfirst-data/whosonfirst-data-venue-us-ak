@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153845",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.198558,60.561885,-151.198558,60.561885",
     "geom:latitude":60.561885,
     "geom:longitude":-151.198558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Colonial Dr",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102153845",
-    "wof:lastmodified":1449069461,
+    "wof:lastmodified":1466313624,
     "wof:name":"Cleanway Janitorial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.198558,60.561885,-151.198558,60.561885],
-  "geometry": {"coordinates":[-151.198558,60.561885],"type":"Point"}
+  "bbox": [
+    -151.198558,
+    60.561885,
+    -151.198558,
+    60.561885
+],
+  "geometry": {"coordinates":[-151.19855799999999,60.561885],"type":"Point"}
 }

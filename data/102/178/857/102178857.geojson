@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178857",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.406805,58.300533,-134.406805,58.300533",
     "geom:latitude":58.300533,
     "geom:longitude":-134.406805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Front St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102178857",
-    "wof:lastmodified":1449069530,
+    "wof:lastmodified":1466314045,
     "wof:name":"Dragon Inn Chinese Cuisine",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.406805,58.300533,-134.406805,58.300533],
-  "geometry": {"coordinates":[-134.406805,58.300533],"type":"Point"}
+  "bbox": [
+    -134.406805,
+    58.300533,
+    -134.406805,
+    58.300533
+],
+  "geometry": {"coordinates":[-134.40680499999999,58.300533],"type":"Point"}
 }

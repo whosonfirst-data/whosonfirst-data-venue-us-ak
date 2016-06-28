@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102152341",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.792055,61.191125,-149.792055,61.191125",
     "geom:latitude":61.191125,
     "geom:longitude":-149.792055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3226 Wesleyan Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873727,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102152341",
-    "wof:lastmodified":1449069636,
+    "wof:lastmodified":1466313525,
     "wof:name":"O-Vio Crafts",
     "wof:parent_id":85873727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.792055,61.191125,-149.792055,61.191125],
+  "bbox": [
+    -149.792055,
+    61.191125,
+    -149.792055,
+    61.191125
+],
   "geometry": {"coordinates":[-149.792055,61.191125],"type":"Point"}
 }

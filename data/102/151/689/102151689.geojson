@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102151689",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.685721,64.891095,-147.685721,64.891095",
     "geom:latitude":64.891095,
     "geom:longitude":-147.685721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"491 Farmers Loop Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102151689",
-    "wof:lastmodified":1449067782,
+    "wof:lastmodified":1466313526,
     "wof:name":"B S Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.685721,64.891095,-147.685721,64.891095],
-  "geometry": {"coordinates":[-147.685721,64.891095],"type":"Point"}
+  "bbox": [
+    -147.685721,
+    64.891095,
+    -147.685721,
+    64.891095
+],
+  "geometry": {"coordinates":[-147.685721,64.89109500000001],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102193801",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.674327,64.869898,-147.674327,64.869898",
     "geom:latitude":64.869898,
     "geom:longitude":-147.674327,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Farmers Loop Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823671,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85823671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102193801",
-    "wof:lastmodified":1449068193,
+    "wof:lastmodified":1466314279,
     "wof:name":"Steese Lounge",
     "wof:parent_id":85823671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.674327,64.869898,-147.674327,64.869898],
-  "geometry": {"coordinates":[-147.674327,64.869898],"type":"Point"}
+  "bbox": [
+    -147.674327,
+    64.869898,
+    -147.674327,
+    64.869898
+],
+  "geometry": {"coordinates":[-147.67432700000001,64.86989800000001],"type":"Point"}
 }

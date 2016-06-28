@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187333",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.897881,61.1911,-149.897881,61.1911",
     "geom:latitude":61.1911,
     "geom:longitude":-149.897881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3305 Arctic Blvd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873713,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102187333",
-    "wof:lastmodified":1449068160,
+    "wof:lastmodified":1466314128,
     "wof:name":"Jp Services Co",
     "wof:parent_id":85873713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.897881,61.1911,-149.897881,61.1911],
-  "geometry": {"coordinates":[-149.897881,61.1911],"type":"Point"}
+  "bbox": [
+    -149.897881,
+    61.1911,
+    -149.897881,
+    61.1911
+],
+  "geometry": {"coordinates":[-149.89788100000001,61.1911],"type":"Point"}
 }

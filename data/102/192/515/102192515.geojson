@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192515",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.545763,61.345446,-149.545763,61.345446",
     "geom:latitude":61.345446,
     "geom:longitude":-149.545763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18034 McLaren St",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102192515",
-    "wof:lastmodified":1449069502,
+    "wof:lastmodified":1466314243,
     "wof:name":"Busy Bee Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.545763,61.345446,-149.545763,61.345446],
-  "geometry": {"coordinates":[-149.545763,61.345446],"type":"Point"}
+  "bbox": [
+    -149.545763,
+    61.345446,
+    -149.545763,
+    61.345446
+],
+  "geometry": {"coordinates":[-149.54576299999999,61.345446],"type":"Point"}
 }

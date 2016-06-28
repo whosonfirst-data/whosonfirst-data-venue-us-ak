@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102181049",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.387625,56.473493,-132.387625,56.473493",
     "geom:latitude":56.473493,
     "geom:longitude":-132.387625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Crittenden St",
     "sg:city":"Wrangell",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102181049",
-    "wof:lastmodified":1449069235,
+    "wof:lastmodified":1466314005,
     "wof:name":"Angerman's Special-Tee's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.387625,56.473493,-132.387625,56.473493],
-  "geometry": {"coordinates":[-132.387625,56.473493],"type":"Point"}
+  "bbox": [
+    -132.387625,
+    56.473493,
+    -132.387625,
+    56.473493
+],
+  "geometry": {"coordinates":[-132.38762500000001,56.473493],"type":"Point"}
 }

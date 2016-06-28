@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102159451",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.758831,64.863313,-147.758831,64.863313",
     "geom:latitude":64.863313,
     "geom:longitude":-147.758831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1717 College Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869043,
+        85688573,
         85633793,
         85916609,
         102081397,
-        85688573
+        85869043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102159451",
-    "wof:lastmodified":1449068094,
+    "wof:lastmodified":1466313613,
     "wof:name":"Alaska Chocolate House",
     "wof:parent_id":85869043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.758831,64.863313,-147.758831,64.863313],
-  "geometry": {"coordinates":[-147.758831,64.863313],"type":"Point"}
+  "bbox": [
+    -147.758831,
+    64.863313,
+    -147.758831,
+    64.863313
+],
+  "geometry": {"coordinates":[-147.75883099999999,64.86331300000001],"type":"Point"}
 }

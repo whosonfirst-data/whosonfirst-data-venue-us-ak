@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102162977",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.895016,64.81099,-147.895016,64.81099",
     "geom:latitude":64.81099,
     "geom:longitude":-147.895016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5670 Supply Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102162977",
-    "wof:lastmodified":1449069823,
+    "wof:lastmodified":1466313846,
     "wof:name":"Reed's Snowmachine & Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.895016,64.81099,-147.895016,64.81099],
+  "bbox": [
+    -147.895016,
+    64.81099,
+    -147.895016,
+    64.81099
+],
   "geometry": {"coordinates":[-147.895016,64.81099],"type":"Point"}
 }

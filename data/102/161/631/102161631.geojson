@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102161631",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.76517,58.437477,-135.76517,58.437477",
     "geom:latitude":58.437477,
     "geom:longitude":-135.76517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Snow Ln",
     "sg:city":"Gustavus",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102161631",
-    "wof:lastmodified":1449068711,
+    "wof:lastmodified":1466313772,
     "wof:name":"Aaron's Milling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.76517,58.437477,-135.76517,58.437477],
-  "geometry": {"coordinates":[-135.76517,58.437477],"type":"Point"}
+  "bbox": [
+    -135.76517,
+    58.437477,
+    -135.76517,
+    58.437477
+],
+  "geometry": {"coordinates":[-135.76517000000001,58.437477],"type":"Point"}
 }

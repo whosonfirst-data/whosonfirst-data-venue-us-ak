@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102168033",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.485426,58.358716,-134.485426,58.358716",
     "geom:latitude":58.358716,
     "geom:longitude":-134.485426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5450 Bent Ct",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830251,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85830251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102168033",
-    "wof:lastmodified":1449069006,
+    "wof:lastmodified":1466313676,
     "wof:name":"Original Pet Nannys Place",
     "wof:parent_id":85830251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.485426,58.358716,-134.485426,58.358716],
-  "geometry": {"coordinates":[-134.485426,58.358716],"type":"Point"}
+  "bbox": [
+    -134.485426,
+    58.358716,
+    -134.485426,
+    58.358716
+],
+  "geometry": {"coordinates":[-134.48542599999999,58.358716],"type":"Point"}
 }

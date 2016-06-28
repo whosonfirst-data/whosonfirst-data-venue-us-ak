@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184541",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.810217,64.836701,-147.810217,64.836701",
     "geom:latitude":64.836701,
     "geom:longitude":-147.810217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3627 Airport Way",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856935,
+        85688573,
         85633793,
         85916609,
         102081397,
-        85688573
+        85856935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102184541",
-    "wof:lastmodified":1449068215,
+    "wof:lastmodified":1466314140,
     "wof:name":"Candy Cane",
     "wof:parent_id":85856935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.810217,64.836701,-147.810217,64.836701],
-  "geometry": {"coordinates":[-147.810217,64.836701],"type":"Point"}
+  "bbox": [
+    -147.810217,
+    64.836701,
+    -147.810217,
+    64.836701
+],
+  "geometry": {"coordinates":[-147.81021699999999,64.83670100000001],"type":"Point"}
 }

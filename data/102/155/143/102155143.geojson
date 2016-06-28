@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155143",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.936884,61.158172,-149.936884,61.158172",
     "geom:latitude":61.158172,
     "geom:longitude":-149.936884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7551 Cranberry St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873737,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102155143",
-    "wof:lastmodified":1449069745,
+    "wof:lastmodified":1466313487,
     "wof:name":"Last Frontier Taxidermy",
     "wof:parent_id":85873737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.936884,61.158172,-149.936884,61.158172],
-  "geometry": {"coordinates":[-149.936884,61.158172],"type":"Point"}
+  "bbox": [
+    -149.936884,
+    61.158172,
+    -149.936884,
+    61.158172
+],
+  "geometry": {"coordinates":[-149.93688399999999,61.158172],"type":"Point"}
 }

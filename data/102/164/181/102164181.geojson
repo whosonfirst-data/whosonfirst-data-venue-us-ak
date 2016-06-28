@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102164181",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.588386,57.709995,-152.588386,57.709995",
     "geom:latitude":57.709995,
     "geom:longitude":-152.588386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11572 Kalsin Dr",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102164181",
-    "wof:lastmodified":1449068091,
+    "wof:lastmodified":1466313694,
     "wof:name":"Land Surveying Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.588386,57.709995,-152.588386,57.709995],
-  "geometry": {"coordinates":[-152.588386,57.709995],"type":"Point"}
+  "bbox": [
+    -152.588386,
+    57.709995,
+    -152.588386,
+    57.709995
+],
+  "geometry": {"coordinates":[-152.58838600000001,57.709995],"type":"Point"}
 }

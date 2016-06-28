@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102148103",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.507297,58.356217,-134.507297,58.356217",
     "geom:latitude":58.356217,
     "geom:longitude":-134.507297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6225 Alaway Ave",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830251,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85830251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102148103",
-    "wof:lastmodified":1449069783,
+    "wof:lastmodified":1466313465,
     "wof:name":"Duran Construction Co",
     "wof:parent_id":85830251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.507297,58.356217,-134.507297,58.356217],
-  "geometry": {"coordinates":[-134.507297,58.356217],"type":"Point"}
+  "bbox": [
+    -134.507297,
+    58.356217,
+    -134.507297,
+    58.356217
+],
+  "geometry": {"coordinates":[-134.50729699999999,58.356217],"type":"Point"}
 }

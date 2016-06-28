@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102170609",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.582797,58.362923,-134.582797,58.362923",
     "geom:latitude":58.362923,
     "geom:longitude":-134.582797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9110 Glacier Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833767,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85833767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102170609",
-    "wof:lastmodified":1449068018,
+    "wof:lastmodified":1466313854,
     "wof:name":"Kohan Realty",
     "wof:parent_id":85833767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.582797,58.362923,-134.582797,58.362923],
+  "bbox": [
+    -134.582797,
+    58.362923,
+    -134.582797,
+    58.362923
+],
   "geometry": {"coordinates":[-134.582797,58.362923],"type":"Point"}
 }

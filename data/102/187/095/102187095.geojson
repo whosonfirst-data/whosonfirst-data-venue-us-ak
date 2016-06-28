@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187095",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.515535,64.824107,-147.515535,64.824107",
     "geom:latitude":64.824107,
     "geom:longitude":-147.515535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"931 Lakloey Dr",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102187095",
-    "wof:lastmodified":1449068158,
+    "wof:lastmodified":1466314091,
     "wof:name":"John Cowles Svc Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.515535,64.824107,-147.515535,64.824107],
+  "bbox": [
+    -147.515535,
+    64.824107,
+    -147.515535,
+    64.824107
+],
   "geometry": {"coordinates":[-147.515535,64.824107],"type":"Point"}
 }

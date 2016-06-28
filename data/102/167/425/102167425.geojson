@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102167425",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-133.142596,55.475715,-133.142596,55.475715",
     "geom:latitude":55.475715,
     "geom:longitude":-133.142596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1405 Hamilton Dr",
     "sg:city":"Craig",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102167425",
-    "wof:lastmodified":1449069000,
+    "wof:lastmodified":1466313756,
     "wof:name":"Dreamcatchers B & B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-133.142596,55.475715,-133.142596,55.475715],
+  "bbox": [
+    -133.142596,
+    55.475715,
+    -133.142596,
+    55.475715
+],
   "geometry": {"coordinates":[-133.142596,55.475715],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102179203",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.793318,61.217143,-149.793318,61.217143",
     "geom:latitude":61.217143,
     "geom:longitude":-149.793318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 S Pine St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869053,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85869053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102179203",
-    "wof:lastmodified":1449069942,
+    "wof:lastmodified":1466313915,
     "wof:name":"Mt View Lions Club",
     "wof:parent_id":85869053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.793318,61.217143,-149.793318,61.217143],
+  "bbox": [
+    -149.793318,
+    61.217143,
+    -149.793318,
+    61.217143
+],
   "geometry": {"coordinates":[-149.793318,61.217143],"type":"Point"}
 }

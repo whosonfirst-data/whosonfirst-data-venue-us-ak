@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102174747",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.464365,61.581973,-149.464365,61.581973",
     "geom:latitude":61.581973,
     "geom:longitude":-149.464365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"447 W Parks Hwy",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102174747",
-    "wof:lastmodified":1449068138,
+    "wof:lastmodified":1466314004,
     "wof:name":"G I Joes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.464365,61.581973,-149.464365,61.581973],
-  "geometry": {"coordinates":[-149.464365,61.581973],"type":"Point"}
+  "bbox": [
+    -149.464365,
+    61.581973,
+    -149.464365,
+    61.581973
+],
+  "geometry": {"coordinates":[-149.46436499999999,61.581973],"type":"Point"}
 }

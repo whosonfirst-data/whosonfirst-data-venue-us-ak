@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184517",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.230394,60.555471,-151.230394,60.555471",
     "geom:latitude":60.555471,
     "geom:longitude":-151.230394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Portlock St",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102184517",
-    "wof:lastmodified":1449068218,
+    "wof:lastmodified":1466314136,
     "wof:name":"Randall's Glorious Toys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.230394,60.555471,-151.230394,60.555471],
-  "geometry": {"coordinates":[-151.230394,60.555471],"type":"Point"}
+  "bbox": [
+    -151.230394,
+    60.555471,
+    -151.230394,
+    60.555471
+],
+  "geometry": {"coordinates":[-151.23039399999999,60.555471],"type":"Point"}
 }

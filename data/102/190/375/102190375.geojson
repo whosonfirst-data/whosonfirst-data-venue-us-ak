@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102190375",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.83687,61.229036,-149.83687,61.229036",
     "geom:latitude":61.229036,
     "geom:longitude":-149.83687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2320 N Post Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820221,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85820221
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102190375",
-    "wof:lastmodified":1449070035,
+    "wof:lastmodified":1466313927,
     "wof:name":"Keytrans",
     "wof:parent_id":85820221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.83687,61.229036,-149.83687,61.229036],
+  "bbox": [
+    -149.83687,
+    61.229036,
+    -149.83687,
+    61.229036
+],
   "geometry": {"coordinates":[-149.83687,61.229036],"type":"Point"}
 }

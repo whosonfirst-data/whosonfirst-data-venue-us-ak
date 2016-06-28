@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102148593",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.718843,64.820122,-147.718843,64.820122",
     "geom:latitude":64.820122,
     "geom:longitude":-147.718843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 30th Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102148593",
-    "wof:lastmodified":1449069783,
+    "wof:lastmodified":1466313562,
     "wof:name":"Pauls Heating Construction Co",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.718843,64.820122,-147.718843,64.820122],
-  "geometry": {"coordinates":[-147.718843,64.820122],"type":"Point"}
+  "bbox": [
+    -147.718843,
+    64.820122,
+    -147.718843,
+    64.820122
+],
+  "geometry": {"coordinates":[-147.71884299999999,64.820122],"type":"Point"}
 }

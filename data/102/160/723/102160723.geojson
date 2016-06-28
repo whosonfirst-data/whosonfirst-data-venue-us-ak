@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102160723",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.541991,59.648089,-151.541991,59.648089",
     "geom:latitude":59.648089,
     "geom:longitude":-151.541991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4042 el Sarino Ct",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102160723",
-    "wof:lastmodified":1449069775,
+    "wof:lastmodified":1466313738,
     "wof:name":"Comfort Flow Quality Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.541991,59.648089,-151.541991,59.648089],
+  "bbox": [
+    -151.541991,
+    59.648089,
+    -151.541991,
+    59.648089
+],
   "geometry": {"coordinates":[-151.541991,59.648089],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153953",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.734705,61.099944,-149.734705,61.099944",
     "geom:latitude":61.099944,
     "geom:longitude":-149.734705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7501 Cox Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873747,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102153953",
-    "wof:lastmodified":1449069463,
+    "wof:lastmodified":1466313646,
     "wof:name":"Generation Paint & Drywall",
     "wof:parent_id":85873747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.734705,61.099944,-149.734705,61.099944],
-  "geometry": {"coordinates":[-149.734705,61.099944],"type":"Point"}
+  "bbox": [
+    -149.734705,
+    61.099944,
+    -149.734705,
+    61.099944
+],
+  "geometry": {"coordinates":[-149.73470499999999,61.099944],"type":"Point"}
 }

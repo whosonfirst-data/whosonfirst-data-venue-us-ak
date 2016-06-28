@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102183871",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.390556,57.796484,-152.390556,57.796484",
     "geom:latitude":57.796484,
     "geom:longitude":-152.390556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Malutin Ln",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102183871",
-    "wof:lastmodified":1449069041,
+    "wof:lastmodified":1466314173,
     "wof:name":"T & C Baseball Cards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.390556,57.796484,-152.390556,57.796484],
+  "bbox": [
+    -152.390556,
+    57.796484,
+    -152.390556,
+    57.796484
+],
   "geometry": {"coordinates":[-152.390556,57.796484],"type":"Point"}
 }

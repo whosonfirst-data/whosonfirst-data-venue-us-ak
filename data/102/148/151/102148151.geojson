@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102148151",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.492148,58.354868,-134.492148,58.354868",
     "geom:latitude":58.354868,
     "geom:longitude":-134.492148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5441 Glacier Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830251,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85830251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102148151",
-    "wof:lastmodified":1449069781,
+    "wof:lastmodified":1466314097,
     "wof:name":"Counterfitters Inc",
     "wof:parent_id":85830251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.492148,58.354868,-134.492148,58.354868],
-  "geometry": {"coordinates":[-134.492148,58.354868],"type":"Point"}
+  "bbox": [
+    -134.492148,
+    58.354868,
+    -134.492148,
+    58.354868
+],
+  "geometry": {"coordinates":[-134.49214799999999,58.354868],"type":"Point"}
 }

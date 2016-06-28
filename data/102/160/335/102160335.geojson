@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102160335",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.532706,61.357642,-149.532706,61.357642",
     "geom:latitude":61.357642,
     "geom:longitude":-149.532706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15218 Darby Rd",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102160335",
-    "wof:lastmodified":1449069775,
+    "wof:lastmodified":1466314125,
     "wof:name":"Northwest Hardwood Floors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.532706,61.357642,-149.532706,61.357642],
-  "geometry": {"coordinates":[-149.532706,61.357642],"type":"Point"}
+  "bbox": [
+    -149.532706,
+    61.357642,
+    -149.532706,
+    61.357642
+],
+  "geometry": {"coordinates":[-149.53270599999999,61.357642],"type":"Point"}
 }

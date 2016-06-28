@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102183335",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.532703,61.2903,-149.532703,61.2903",
     "geom:latitude":61.2903,
     "geom:longitude":-149.532703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8182 Stewart Mountain Dr",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102183335",
-    "wof:lastmodified":1449069043,
+    "wof:lastmodified":1466314102,
     "wof:name":"Stewart's Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.532703,61.2903,-149.532703,61.2903],
+  "bbox": [
+    -149.532703,
+    61.2903,
+    -149.532703,
+    61.2903
+],
   "geometry": {"coordinates":[-149.532703,61.2903],"type":"Point"}
 }

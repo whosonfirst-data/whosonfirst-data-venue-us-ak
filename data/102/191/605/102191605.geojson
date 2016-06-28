@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191605",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.922571,61.14983,-149.922571,61.14983",
     "geom:latitude":61.14983,
     "geom:longitude":-149.922571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7850 Lotus Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809155,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85809155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102191605",
-    "wof:lastmodified":1449069201,
+    "wof:lastmodified":1466314116,
     "wof:name":"Steve's Enterprises",
     "wof:parent_id":85809155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.922571,61.14983,-149.922571,61.14983],
+  "bbox": [
+    -149.922571,
+    61.14983,
+    -149.922571,
+    61.14983
+],
   "geometry": {"coordinates":[-149.922571,61.14983],"type":"Point"}
 }

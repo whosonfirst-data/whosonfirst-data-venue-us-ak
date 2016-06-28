@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184351",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.620553,64.957641,-147.620553,64.957641",
     "geom:latitude":64.957641,
     "geom:longitude":-147.620553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2195 Old Steese Hwy N",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102184351",
-    "wof:lastmodified":1449068218,
+    "wof:lastmodified":1466314115,
     "wof:name":"Fox Roadhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.620553,64.957641,-147.620553,64.957641],
+  "bbox": [
+    -147.620553,
+    64.957641,
+    -147.620553,
+    64.957641
+],
   "geometry": {"coordinates":[-147.620553,64.957641],"type":"Point"}
 }

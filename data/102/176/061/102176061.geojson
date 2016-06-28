@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176061",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.655006,55.344791,-131.655006,55.344791",
     "geom:latitude":55.344791,
     "geom:longitude":-131.655006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1007 Water St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102176061",
-    "wof:lastmodified":1449069346,
+    "wof:lastmodified":1466313880,
     "wof:name":"Southeast Sea Kayaks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.655006,55.344791,-131.655006,55.344791],
-  "geometry": {"coordinates":[-131.655006,55.344791],"type":"Point"}
+  "bbox": [
+    -131.655006,
+    55.344791,
+    -131.655006,
+    55.344791
+],
+  "geometry": {"coordinates":[-131.65500599999999,55.344791],"type":"Point"}
 }

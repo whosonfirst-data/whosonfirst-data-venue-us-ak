@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102194813",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.410486,58.282799,-134.410486,58.282799",
     "geom:latitude":58.282799,
     "geom:longitude":-134.410486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2194 Lawson Creek Rd",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102194813",
-    "wof:lastmodified":1449069828,
+    "wof:lastmodified":1466314263,
     "wof:name":"Rainforest Gourmet Pblctns",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.410486,58.282799,-134.410486,58.282799],
-  "geometry": {"coordinates":[-134.410486,58.282799],"type":"Point"}
+  "bbox": [
+    -134.410486,
+    58.282799,
+    -134.410486,
+    58.282799
+],
+  "geometry": {"coordinates":[-134.41048599999999,58.282799],"type":"Point"}
 }

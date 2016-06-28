@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102175889",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.067244,60.488886,-151.067244,60.488886",
     "geom:latitude":60.488886,
     "geom:longitude":-151.067244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Shady Ln",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102175889",
-    "wof:lastmodified":1449069463,
+    "wof:lastmodified":1466314029,
     "wof:name":"Peninsula Hearing Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.067244,60.488886,-151.067244,60.488886],
-  "geometry": {"coordinates":[-151.067244,60.488886],"type":"Point"}
+  "bbox": [
+    -151.067244,
+    60.488886,
+    -151.067244,
+    60.488886
+],
+  "geometry": {"coordinates":[-151.06724399999999,60.488886],"type":"Point"}
 }

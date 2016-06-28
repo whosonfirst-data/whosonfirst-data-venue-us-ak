@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102170343",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.855681,61.126222,-149.855681,61.126222",
     "geom:latitude":61.126222,
     "geom:longitude":-149.855681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10431 Brayton Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.churchcornerstone.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873739,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102170343",
-    "wof:lastmodified":1449068018,
+    "wof:lastmodified":1466313799,
     "wof:name":"Cornerstone Church",
     "wof:parent_id":85873739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.855681,61.126222,-149.855681,61.126222],
+  "bbox": [
+    -149.855681,
+    61.126222,
+    -149.855681,
+    61.126222
+],
   "geometry": {"coordinates":[-149.855681,61.126222],"type":"Point"}
 }

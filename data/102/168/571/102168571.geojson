@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102168571",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.408867,58.301615,-134.408867,58.301615",
     "geom:latitude":58.301615,
     "geom:longitude":-134.408867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Seward St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.sginc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102168571",
-    "wof:lastmodified":1449069006,
+    "wof:lastmodified":1466313786,
     "wof:name":"Shattuck & Grummett Inc",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.408867,58.301615,-134.408867,58.301615],
-  "geometry": {"coordinates":[-134.408867,58.301615],"type":"Point"}
+  "bbox": [
+    -134.408867,
+    58.301615,
+    -134.408867,
+    58.301615
+],
+  "geometry": {"coordinates":[-134.40886699999999,58.301615],"type":"Point"}
 }

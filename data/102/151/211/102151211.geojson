@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102151211",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.860806,61.219526,-149.860806,61.219526",
     "geom:latitude":61.219526,
     "geom:longitude":-149.860806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 E 3rd Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873717,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102151211",
-    "wof:lastmodified":1449067779,
+    "wof:lastmodified":1466314062,
     "wof:name":"Art Services North",
     "wof:parent_id":85873717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.860806,61.219526,-149.860806,61.219526],
+  "bbox": [
+    -149.860806,
+    61.219526,
+    -149.860806,
+    61.219526
+],
   "geometry": {"coordinates":[-149.860806,61.219526],"type":"Point"}
 }

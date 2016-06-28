@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102167063",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.446196,61.584914,-149.446196,61.584914",
     "geom:latitude":61.584914,
     "geom:longitude":-149.446196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"268 E Nelson Ave",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102167063",
-    "wof:lastmodified":1449069000,
+    "wof:lastmodified":1466313681,
     "wof:name":"Treasure Loft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.446196,61.584914,-149.446196,61.584914],
-  "geometry": {"coordinates":[-149.446196,61.584914],"type":"Point"}
+  "bbox": [
+    -149.446196,
+    61.584914,
+    -149.446196,
+    61.584914
+],
+  "geometry": {"coordinates":[-149.44619599999999,61.584914],"type":"Point"}
 }

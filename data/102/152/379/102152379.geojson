@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102152379",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.660823,55.34636,-131.660823,55.34636",
     "geom:latitude":55.34636,
     "geom:longitude":-131.660823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1460 Tongass Ave",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102152379",
-    "wof:lastmodified":1449069635,
+    "wof:lastmodified":1466313533,
     "wof:name":"Twice Is Nice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.660823,55.34636,-131.660823,55.34636],
-  "geometry": {"coordinates":[-131.660823,55.34636],"type":"Point"}
+  "bbox": [
+    -131.660823,
+    55.34636,
+    -131.660823,
+    55.34636
+],
+  "geometry": {"coordinates":[-131.66082299999999,55.34636],"type":"Point"}
 }

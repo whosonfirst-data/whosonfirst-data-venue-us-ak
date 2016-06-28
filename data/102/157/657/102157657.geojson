@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102157657",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.778442,61.192347,-149.778442,61.192347",
     "geom:latitude":61.192347,
     "geom:longitude":-149.778442,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3102 Boniface Pkwy",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806647,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85806647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102157657",
-    "wof:lastmodified":1449069830,
+    "wof:lastmodified":1466313601,
     "wof:name":"Shepherds Heart Church",
     "wof:parent_id":85806647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.778442,61.192347,-149.778442,61.192347],
-  "geometry": {"coordinates":[-149.778442,61.192347],"type":"Point"}
+  "bbox": [
+    -149.778442,
+    61.192347,
+    -149.778442,
+    61.192347
+],
+  "geometry": {"coordinates":[-149.77844200000001,61.192347],"type":"Point"}
 }

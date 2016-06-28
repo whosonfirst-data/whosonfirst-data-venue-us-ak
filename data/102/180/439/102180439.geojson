@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102180439",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.602376,64.901022,-147.602376,64.901022",
     "geom:latitude":64.901022,
     "geom:longitude":-147.602376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"935 Highland St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102180439",
-    "wof:lastmodified":1449067873,
+    "wof:lastmodified":1466314003,
     "wof:name":"Hill's Floor Covering Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.602376,64.901022,-147.602376,64.901022],
-  "geometry": {"coordinates":[-147.602376,64.901022],"type":"Point"}
+  "bbox": [
+    -147.602376,
+    64.901022,
+    -147.602376,
+    64.901022
+],
+  "geometry": {"coordinates":[-147.60237599999999,64.901022],"type":"Point"}
 }

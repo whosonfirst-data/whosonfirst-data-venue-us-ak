@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102180417",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.478984,59.64104,-151.478984,59.64104",
     "geom:latitude":59.64104,
     "geom:longitude":-151.478984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Kachemak Dr",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834363,
+        85688573,
         85633793,
         85915739,
         102081909,
-        85688573
+        85834363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102180417",
-    "wof:lastmodified":1449067871,
+    "wof:lastmodified":1466313998,
     "wof:name":"Cece's Kitchen",
     "wof:parent_id":85834363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.478984,59.64104,-151.478984,59.64104],
+  "bbox": [
+    -151.478984,
+    59.64104,
+    -151.478984,
+    59.64104
+],
   "geometry": {"coordinates":[-151.478984,59.64104],"type":"Point"}
 }

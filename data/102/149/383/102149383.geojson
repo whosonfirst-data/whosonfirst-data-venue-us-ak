@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102149383",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.939312,64.913612,-147.939312,64.913612",
     "geom:latitude":64.913612,
     "geom:longitude":-147.939312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2866 Monarch Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102149383",
-    "wof:lastmodified":1449067770,
+    "wof:lastmodified":1466313509,
     "wof:name":"Metropolitan Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.939312,64.913612,-147.939312,64.913612],
+  "bbox": [
+    -147.939312,
+    64.913612,
+    -147.939312,
+    64.913612
+],
   "geometry": {"coordinates":[-147.939312,64.913612],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102194905",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.361983,57.823605,-152.361983,57.823605",
     "geom:latitude":57.823605,
     "geom:longitude":-152.361983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3952 Otmeloi Way",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102194905",
-    "wof:lastmodified":1449069828,
+    "wof:lastmodified":1466314264,
     "wof:name":"Island Lake Sawmill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.361983,57.823605,-152.361983,57.823605],
-  "geometry": {"coordinates":[-152.361983,57.823605],"type":"Point"}
+  "bbox": [
+    -152.361983,
+    57.823605,
+    -152.361983,
+    57.823605
+],
+  "geometry": {"coordinates":[-152.36198300000001,57.823605],"type":"Point"}
 }

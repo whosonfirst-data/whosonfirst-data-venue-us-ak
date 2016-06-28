@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153759",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-145.754071,60.54313,-145.754071,60.54313",
     "geom:latitude":60.54313,
     "geom:longitude":-145.754071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Adams Ave",
     "sg:city":"Cordova",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839707,
+        85688573,
         85633793,
         85915567,
         102081911,
-        85688573
+        85839707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102153759",
-    "wof:lastmodified":1449069463,
+    "wof:lastmodified":1466313607,
     "wof:name":"Little Chapel Inc",
     "wof:parent_id":85839707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-145.754071,60.54313,-145.754071,60.54313],
-  "geometry": {"coordinates":[-145.754071,60.54313],"type":"Point"}
+  "bbox": [
+    -145.754071,
+    60.54313,
+    -145.754071,
+    60.54313
+],
+  "geometry": {"coordinates":[-145.75407100000001,60.54313],"type":"Point"}
 }

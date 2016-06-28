@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102148445",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.430761,60.137552,-149.430761,60.137552",
     "geom:latitude":60.137552,
     "geom:longitude":-149.430761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2411 Spruce St",
     "sg:city":"Seward",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102148445",
-    "wof:lastmodified":1449069784,
+    "wof:lastmodified":1466313531,
     "wof:name":"Harmony Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.430761,60.137552,-149.430761,60.137552],
-  "geometry": {"coordinates":[-149.430761,60.137552],"type":"Point"}
+  "bbox": [
+    -149.430761,
+    60.137552,
+    -149.430761,
+    60.137552
+],
+  "geometry": {"coordinates":[-149.43076099999999,60.137552],"type":"Point"}
 }

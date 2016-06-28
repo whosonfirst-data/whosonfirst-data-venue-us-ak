@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102179725",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.853097,61.197143,-149.853097,61.197143",
     "geom:latitude":61.197143,
     "geom:longitude":-149.853097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1542 E 26th Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873717,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102179725",
-    "wof:lastmodified":1449069941,
+    "wof:lastmodified":1466314016,
     "wof:name":"Antarctic Snow Plowing",
     "wof:parent_id":85873717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.853097,61.197143,-149.853097,61.197143],
-  "geometry": {"coordinates":[-149.853097,61.197143],"type":"Point"}
+  "bbox": [
+    -149.853097,
+    61.197143,
+    -149.853097,
+    61.197143
+],
+  "geometry": {"coordinates":[-149.85309699999999,61.197143],"type":"Point"}
 }

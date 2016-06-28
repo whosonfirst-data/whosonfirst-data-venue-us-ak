@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102183987",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.552522,61.307823,-149.552522,61.307823",
     "geom:latitude":61.307823,
     "geom:longitude":-149.552522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17743 Nitoanya Cir",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102183987",
-    "wof:lastmodified":1449069042,
+    "wof:lastmodified":1466314185,
     "wof:name":"Cookies 4U",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.552522,61.307823,-149.552522,61.307823],
-  "geometry": {"coordinates":[-149.552522,61.307823],"type":"Point"}
+  "bbox": [
+    -149.552522,
+    61.307823,
+    -149.552522,
+    61.307823
+],
+  "geometry": {"coordinates":[-149.55252200000001,61.307823],"type":"Point"}
 }

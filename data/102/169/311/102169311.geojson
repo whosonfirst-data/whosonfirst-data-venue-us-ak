@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102169311",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.496514,58.355656,-134.496514,58.355656",
     "geom:latitude":58.355656,
     "geom:longitude":-134.496514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5641 Glacier Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830251,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85830251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102169311",
-    "wof:lastmodified":1449069247,
+    "wof:lastmodified":1466313773,
     "wof:name":"Porta Shop Crane Svc",
     "wof:parent_id":85830251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.496514,58.355656,-134.496514,58.355656],
-  "geometry": {"coordinates":[-134.496514,58.355656],"type":"Point"}
+  "bbox": [
+    -134.496514,
+    58.355656,
+    -134.496514,
+    58.355656
+],
+  "geometry": {"coordinates":[-134.49651399999999,58.355656],"type":"Point"}
 }

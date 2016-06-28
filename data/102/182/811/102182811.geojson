@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102182811",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-150.900499,60.506331,-150.900499,60.506331",
     "geom:latitude":60.506331,
     "geom:longitude":-150.900499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36225 Mere Cir",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102182811",
-    "wof:lastmodified":1449069280,
+    "wof:lastmodified":1466314155,
     "wof:name":"Zimco Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-150.900499,60.506331,-150.900499,60.506331],
+  "bbox": [
+    -150.900499,
+    60.506331,
+    -150.900499,
+    60.506331
+],
   "geometry": {"coordinates":[-150.900499,60.506331],"type":"Point"}
 }

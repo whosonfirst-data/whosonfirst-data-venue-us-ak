@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192541",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.895504,61.218627,-149.895504,61.218627",
     "geom:latitude":61.218627,
     "geom:longitude":-149.895504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"604 W 4th Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873719,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102192541",
-    "wof:lastmodified":1449069503,
+    "wof:lastmodified":1466314243,
     "wof:name":"US Labor Dept Wage & Hour Div",
     "wof:parent_id":85873719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.895504,61.218627,-149.895504,61.218627],
-  "geometry": {"coordinates":[-149.895504,61.218627],"type":"Point"}
+  "bbox": [
+    -149.895504,
+    61.218627,
+    -149.895504,
+    61.218627
+],
+  "geometry": {"coordinates":[-149.89550399999999,61.218627],"type":"Point"}
 }

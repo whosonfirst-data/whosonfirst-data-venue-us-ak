@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102190921",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.387838,58.289666,-134.387838,58.289666",
     "geom:latitude":58.289666,
     "geom:longitude":-134.387838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4400 Thane Rd",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102190921",
-    "wof:lastmodified":1449070036,
+    "wof:lastmodified":1466314164,
     "wof:name":"Thane Ore House Salmon Bake",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.387838,58.289666,-134.387838,58.289666],
-  "geometry": {"coordinates":[-134.387838,58.289666],"type":"Point"}
+  "bbox": [
+    -134.387838,
+    58.289666,
+    -134.387838,
+    58.289666
+],
+  "geometry": {"coordinates":[-134.38783799999999,58.289666],"type":"Point"}
 }

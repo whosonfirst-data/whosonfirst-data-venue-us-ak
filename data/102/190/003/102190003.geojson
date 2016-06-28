@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102190003",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.377521,56.467169,-132.377521,56.467169",
     "geom:latitude":56.467169,
     "geom:longitude":-132.377521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 Case Ave",
     "sg:city":"Wrangell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102190003",
-    "wof:lastmodified":1449070037,
+    "wof:lastmodified":1466313852,
     "wof:name":"Svendsen Marine Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.377521,56.467169,-132.377521,56.467169],
+  "bbox": [
+    -132.377521,
+    56.467169,
+    -132.377521,
+    56.467169
+],
   "geometry": {"coordinates":[-132.377521,56.467169],"type":"Point"}
 }

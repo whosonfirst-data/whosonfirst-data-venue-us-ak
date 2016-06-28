@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102188865",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-146.250488,61.123301,-146.250488,61.123301",
     "geom:latitude":61.123301,
     "geom:longitude":-146.250488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Sawmill Dr",
     "sg:city":"Valdez",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839473,
+        85688573,
         85633793,
         85915585,
         102081911,
-        85688573
+        85839473
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102188865",
-    "wof:lastmodified":1449068947,
+    "wof:lastmodified":1466313619,
     "wof:name":"S & G Contracting",
     "wof:parent_id":85839473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-146.250488,61.123301,-146.250488,61.123301],
-  "geometry": {"coordinates":[-146.250488,61.123301],"type":"Point"}
+  "bbox": [
+    -146.250488,
+    61.123301,
+    -146.250488,
+    61.123301
+],
+  "geometry": {"coordinates":[-146.25048799999999,61.123301],"type":"Point"}
 }

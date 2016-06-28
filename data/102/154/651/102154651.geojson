@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102154651",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.645583,55.341579,-131.645583,55.341579",
     "geom:latitude":55.341579,
     "geom:longitude":-131.645583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 Mission St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102154651",
-    "wof:lastmodified":1449070243,
+    "wof:lastmodified":1466313580,
     "wof:name":"Barnaby's Old Town Curios",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.645583,55.341579,-131.645583,55.341579],
-  "geometry": {"coordinates":[-131.645583,55.341579],"type":"Point"}
+  "bbox": [
+    -131.645583,
+    55.341579,
+    -131.645583,
+    55.341579
+],
+  "geometry": {"coordinates":[-131.64558299999999,55.341579],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102163105",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-133.094473,55.55433,-133.094473,55.55433",
     "geom:latitude":55.55433,
     "geom:longitude":-133.094473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 Summit St",
     "sg:city":"Klawock",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102163105",
-    "wof:lastmodified":1449070161,
+    "wof:lastmodified":1466313667,
     "wof:name":"Klawock City Public Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-133.094473,55.55433,-133.094473,55.55433],
-  "geometry": {"coordinates":[-133.094473,55.55433],"type":"Point"}
+  "bbox": [
+    -133.094473,
+    55.55433,
+    -133.094473,
+    55.55433
+],
+  "geometry": {"coordinates":[-133.09447299999999,55.55433],"type":"Point"}
 }

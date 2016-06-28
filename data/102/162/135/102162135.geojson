@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102162135",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.565917,61.33191,-149.565917,61.33191",
     "geom:latitude":61.33191,
     "geom:longitude":-149.565917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12340 Old Glenn Hwy",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102162135",
-    "wof:lastmodified":1449069822,
+    "wof:lastmodified":1466313674,
     "wof:name":"K & L Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.565917,61.33191,-149.565917,61.33191],
-  "geometry": {"coordinates":[-149.565917,61.33191],"type":"Point"}
+  "bbox": [
+    -149.565917,
+    61.33191,
+    -149.565917,
+    61.33191
+],
+  "geometry": {"coordinates":[-149.56591700000001,61.33191],"type":"Point"}
 }

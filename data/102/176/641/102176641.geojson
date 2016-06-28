@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176641",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.083208,60.541183,-151.083208,60.541183",
     "geom:latitude":60.541183,
     "geom:longitude":-151.083208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5125 Silver Salmon Dr",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102176641",
-    "wof:lastmodified":1449069348,
+    "wof:lastmodified":1466313995,
     "wof:name":"Pinnacle Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.083208,60.541183,-151.083208,60.541183],
-  "geometry": {"coordinates":[-151.083208,60.541183],"type":"Point"}
+  "bbox": [
+    -151.083208,
+    60.541183,
+    -151.083208,
+    60.541183
+],
+  "geometry": {"coordinates":[-151.08320800000001,60.541183],"type":"Point"}
 }

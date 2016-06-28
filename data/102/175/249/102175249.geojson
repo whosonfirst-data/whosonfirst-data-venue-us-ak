@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102175249",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.154248,60.487706,-151.154248,60.487706",
     "geom:latitude":60.487706,
     "geom:longitude":-151.154248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47201 E Poppy Ln",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102175249",
-    "wof:lastmodified":1449069464,
+    "wof:lastmodified":1466313909,
     "wof:name":"Floor-Ever",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.154248,60.487706,-151.154248,60.487706],
+  "bbox": [
+    -151.154248,
+    60.487706,
+    -151.154248,
+    60.487706
+],
   "geometry": {"coordinates":[-151.154248,60.487706],"type":"Point"}
 }

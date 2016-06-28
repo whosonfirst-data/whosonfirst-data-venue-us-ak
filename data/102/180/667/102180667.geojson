@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102180667",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.645695,55.341714,-131.645695,55.341714",
     "geom:latitude":55.341714,
     "geom:longitude":-131.645695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Mission St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102180667",
-    "wof:lastmodified":1449067877,
+    "wof:lastmodified":1466314048,
     "wof:name":"Zelensky Attorneys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.645695,55.341714,-131.645695,55.341714],
-  "geometry": {"coordinates":[-131.645695,55.341714],"type":"Point"}
+  "bbox": [
+    -131.645695,
+    55.341714,
+    -131.645695,
+    55.341714
+],
+  "geometry": {"coordinates":[-131.64569499999999,55.341714],"type":"Point"}
 }

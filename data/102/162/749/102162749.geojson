@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102162749",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.802815,64.882287,-147.802815,64.882287",
     "geom:latitude":64.882287,
     "geom:longitude":-147.802815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1608 Scenic Loop",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102162749",
-    "wof:lastmodified":1449069822,
+    "wof:lastmodified":1466313800,
     "wof:name":"Hvac Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.802815,64.882287,-147.802815,64.882287],
-  "geometry": {"coordinates":[-147.802815,64.882287],"type":"Point"}
+  "bbox": [
+    -147.802815,
+    64.882287,
+    -147.802815,
+    64.882287
+],
+  "geometry": {"coordinates":[-147.80281500000001,64.88228700000001],"type":"Point"}
 }

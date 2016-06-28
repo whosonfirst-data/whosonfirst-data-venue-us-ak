@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102188741",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.331099,64.787766,-147.331099,64.787766",
     "geom:latitude":64.787766,
     "geom:longitude":-147.331099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1825 Pool St",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102188741",
-    "wof:lastmodified":1449068944,
+    "wof:lastmodified":1466313593,
     "wof:name":"Berniy's Brush Cutting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.331099,64.787766,-147.331099,64.787766],
-  "geometry": {"coordinates":[-147.331099,64.787766],"type":"Point"}
+  "bbox": [
+    -147.331099,
+    64.787766,
+    -147.331099,
+    64.787766
+],
+  "geometry": {"coordinates":[-147.33109899999999,64.787766],"type":"Point"}
 }

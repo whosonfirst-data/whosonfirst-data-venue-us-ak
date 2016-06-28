@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172643",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.71352,64.826239,-147.71352,64.826239",
     "geom:latitude":64.826239,
     "geom:longitude":-147.71352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2301 S Cushman St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102172643",
-    "wof:lastmodified":1449068737,
+    "wof:lastmodified":1466313978,
     "wof:name":"Cushman Plaza Laundry",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.71352,64.826239,-147.71352,64.826239],
-  "geometry": {"coordinates":[-147.71352,64.826239],"type":"Point"}
+  "bbox": [
+    -147.71352,
+    64.826239,
+    -147.71352,
+    64.826239
+],
+  "geometry": {"coordinates":[-147.71351999999999,64.826239],"type":"Point"}
 }

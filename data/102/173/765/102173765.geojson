@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173765",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.386786,57.798319,-152.386786,57.798319",
     "geom:latitude":57.798319,
     "geom:longitude":-152.386786,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1414 Mill Bay Rd",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102173765",
-    "wof:lastmodified":1449068266,
+    "wof:lastmodified":1466314159,
     "wof:name":"A-1 Tire Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.386786,57.798319,-152.386786,57.798319],
+  "bbox": [
+    -152.386786,
+    57.798319,
+    -152.386786,
+    57.798319
+],
   "geometry": {"coordinates":[-152.386786,57.798319],"type":"Point"}
 }

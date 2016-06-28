@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171995",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.755186,64.819392,-147.755186,64.819392",
     "geom:latitude":64.819392,
     "geom:longitude":-147.755186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3105 Industrial Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102171995",
-    "wof:lastmodified":1449070226,
+    "wof:lastmodified":1466313997,
     "wof:name":"Alaska Pipe/Ferguson",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.755186,64.819392,-147.755186,64.819392],
-  "geometry": {"coordinates":[-147.755186,64.819392],"type":"Point"}
+  "bbox": [
+    -147.755186,
+    64.819392,
+    -147.755186,
+    64.819392
+],
+  "geometry": {"coordinates":[-147.75518600000001,64.81939199999999],"type":"Point"}
 }

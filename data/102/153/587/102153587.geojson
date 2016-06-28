@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153587",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.789297,55.471922,-131.789297,55.471922",
     "geom:latitude":55.471922,
     "geom:longitude":-131.789297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14627 N Tongass Hwy",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102153587",
-    "wof:lastmodified":1449069461,
+    "wof:lastmodified":1466313571,
     "wof:name":"North Tongass Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.789297,55.471922,-131.789297,55.471922],
+  "bbox": [
+    -131.789297,
+    55.471922,
+    -131.789297,
+    55.471922
+],
   "geometry": {"coordinates":[-131.789297,55.471922],"type":"Point"}
 }

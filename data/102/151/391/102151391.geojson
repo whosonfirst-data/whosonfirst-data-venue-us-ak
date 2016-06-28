@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102151391",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.384696,58.270757,-134.384696,58.270757",
     "geom:latitude":58.270757,
     "geom:longitude":-134.384696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Treadwell St",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102151391",
-    "wof:lastmodified":1449067782,
+    "wof:lastmodified":1466313472,
     "wof:name":"Woodline Carpentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.384696,58.270757,-134.384696,58.270757],
-  "geometry": {"coordinates":[-134.384696,58.270757],"type":"Point"}
+  "bbox": [
+    -134.384696,
+    58.270757,
+    -134.384696,
+    58.270757
+],
+  "geometry": {"coordinates":[-134.38469599999999,58.270757],"type":"Point"}
 }

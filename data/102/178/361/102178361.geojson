@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178361",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.950368,61.133702,-149.950368,61.133702",
     "geom:latitude":61.133702,
     "geom:longitude":-149.950368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3542 N Point Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873739,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102178361",
-    "wof:lastmodified":1449069530,
+    "wof:lastmodified":1466313944,
     "wof:name":"Jack N McLean",
     "wof:parent_id":85873739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.950368,61.133702,-149.950368,61.133702],
+  "bbox": [
+    -149.950368,
+    61.133702,
+    -149.950368,
+    61.133702
+],
   "geometry": {"coordinates":[-149.950368,61.133702],"type":"Point"}
 }

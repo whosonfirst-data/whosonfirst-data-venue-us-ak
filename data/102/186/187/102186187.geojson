@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102186187",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.791788,55.472276,-131.791788,55.472276",
     "geom:latitude":55.472276,
     "geom:longitude":-131.791788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 Knudson Cove Rd N",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102186187",
-    "wof:lastmodified":1449069653,
+    "wof:lastmodified":1466314197,
     "wof:name":"Alaskan Fishing Adventures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.791788,55.472276,-131.791788,55.472276],
+  "bbox": [
+    -131.791788,
+    55.472276,
+    -131.791788,
+    55.472276
+],
   "geometry": {"coordinates":[-131.791788,55.472276],"type":"Point"}
 }

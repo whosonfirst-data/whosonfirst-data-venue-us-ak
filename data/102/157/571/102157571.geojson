@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102157571",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.844843,61.096018,-149.844843,61.096018",
     "geom:latitude":61.096018,
     "geom:longitude":-149.844843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13700 Sunset View St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873755,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102157571",
-    "wof:lastmodified":1449069831,
+    "wof:lastmodified":1466313582,
     "wof:name":"Ke Aloha Dance Co",
     "wof:parent_id":85873755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.844843,61.096018,-149.844843,61.096018],
+  "bbox": [
+    -149.844843,
+    61.096018,
+    -149.844843,
+    61.096018
+],
   "geometry": {"coordinates":[-149.844843,61.096018],"type":"Point"}
 }

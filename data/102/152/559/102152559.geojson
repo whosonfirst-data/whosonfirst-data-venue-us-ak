@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102152559",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.64972,55.351098,-131.64972,55.351098",
     "geom:latitude":55.351098,
     "geom:longitude":-131.64972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"924 Brown Deer Rd",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102152559",
-    "wof:lastmodified":1449069637,
+    "wof:lastmodified":1466313569,
     "wof:name":"Debsters Garden and Home Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.64972,55.351098,-131.64972,55.351098],
+  "bbox": [
+    -131.64972,
+    55.351098,
+    -131.64972,
+    55.351098
+],
   "geometry": {"coordinates":[-131.64972,55.351098],"type":"Point"}
 }

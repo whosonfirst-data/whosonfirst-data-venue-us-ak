@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102188941",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.450444,61.583021,-149.450444,61.583021",
     "geom:latitude":61.583021,
     "geom:longitude":-149.450444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 E Swanson Ave",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102188941",
-    "wof:lastmodified":1449068947,
+    "wof:lastmodified":1466313635,
     "wof:name":"Kevin H Cochran DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.450444,61.583021,-149.450444,61.583021],
+  "bbox": [
+    -149.450444,
+    61.583021,
+    -149.450444,
+    61.583021
+],
   "geometry": {"coordinates":[-149.450444,61.583021],"type":"Point"}
 }

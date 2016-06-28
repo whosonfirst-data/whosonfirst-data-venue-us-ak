@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102169529",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.778421,64.808551,-147.778421,64.808551",
     "geom:latitude":64.808551,
     "geom:longitude":-147.778421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3873 Peger Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102169529",
-    "wof:lastmodified":1449069248,
+    "wof:lastmodified":1466313817,
     "wof:name":"Me & Mom's Too",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.778421,64.808551,-147.778421,64.808551],
-  "geometry": {"coordinates":[-147.778421,64.808551],"type":"Point"}
+  "bbox": [
+    -147.778421,
+    64.808551,
+    -147.778421,
+    64.808551
+],
+  "geometry": {"coordinates":[-147.77842100000001,64.80855099999999],"type":"Point"}
 }

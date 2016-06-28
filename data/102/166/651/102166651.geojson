@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166651",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.814229,61.151508,-149.814229,61.151508",
     "geom:latitude":61.151508,
     "geom:longitude":-149.814229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7611 Bethany Cir",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102166651",
-    "wof:lastmodified":1449069084,
+    "wof:lastmodified":1466313796,
     "wof:name":"Can-O-Worms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.814229,61.151508,-149.814229,61.151508],
-  "geometry": {"coordinates":[-149.814229,61.151508],"type":"Point"}
+  "bbox": [
+    -149.814229,
+    61.151508,
+    -149.814229,
+    61.151508
+],
+  "geometry": {"coordinates":[-149.81422900000001,61.151508],"type":"Point"}
 }

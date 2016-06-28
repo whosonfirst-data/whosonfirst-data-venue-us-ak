@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178625",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.733553,61.21709,-149.733553,61.21709",
     "geom:latitude":61.21709,
     "geom:longitude":-149.733553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 Muldoon Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873731,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102178625",
-    "wof:lastmodified":1449069536,
+    "wof:lastmodified":1466313998,
     "wof:name":"Gun Traders",
     "wof:parent_id":85873731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.733553,61.21709,-149.733553,61.21709],
+  "bbox": [
+    -149.733553,
+    61.21709,
+    -149.733553,
+    61.21709
+],
   "geometry": {"coordinates":[-149.733553,61.21709],"type":"Point"}
 }

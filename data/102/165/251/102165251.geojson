@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102165251",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.810708,61.153306,-149.810708,61.153306",
     "geom:latitude":61.153306,
     "geom:longitude":-149.810708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3819 Remington Cir",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102165251",
-    "wof:lastmodified":1449070212,
+    "wof:lastmodified":1466313706,
     "wof:name":"Journey Beyond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.810708,61.153306,-149.810708,61.153306],
-  "geometry": {"coordinates":[-149.810708,61.153306],"type":"Point"}
+  "bbox": [
+    -149.810708,
+    61.153306,
+    -149.810708,
+    61.153306
+],
+  "geometry": {"coordinates":[-149.81070800000001,61.153306],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102152011",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.559717,55.302672,-131.559717,55.302672",
     "geom:latitude":55.302672,
     "geom:longitude":-131.559717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4672 S Tongass Hwy",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":"102152011",
-    "wof:lastmodified":1449069637,
+    "wof:lastmodified":1466313463,
     "wof:name":"Alaska Travelers Accmdtns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.559717,55.302672,-131.559717,55.302672],
-  "geometry": {"coordinates":[-131.559717,55.302672],"type":"Point"}
+  "bbox": [
+    -131.559717,
+    55.302672,
+    -131.559717,
+    55.302672
+],
+  "geometry": {"coordinates":[-131.55971700000001,55.302672],"type":"Point"}
 }

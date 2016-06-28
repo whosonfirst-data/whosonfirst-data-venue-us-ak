@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102177289",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.696967,64.836893,-147.696967,64.836893",
     "geom:latitude":64.836893,
     "geom:longitude":-147.696967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Bentley Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823671,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85823671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102177289",
-    "wof:lastmodified":1449070208,
+    "wof:lastmodified":1466313929,
     "wof:name":"Dog Days",
     "wof:parent_id":85823671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.696967,64.836893,-147.696967,64.836893],
+  "bbox": [
+    -147.696967,
+    64.836893,
+    -147.696967,
+    64.836893
+],
   "geometry": {"coordinates":[-147.696967,64.836893],"type":"Point"}
 }

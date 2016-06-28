@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102161885",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.278569,57.036448,-135.278569,57.036448",
     "geom:latitude":57.036448,
     "geom:longitude":-135.278569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Islander Dr",
     "sg:city":"Sitka",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102161885",
-    "wof:lastmodified":1449068711,
+    "wof:lastmodified":1466313824,
     "wof:name":"Steller Books",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.278569,57.036448,-135.278569,57.036448],
+  "bbox": [
+    -135.278569,
+    57.036448,
+    -135.278569,
+    57.036448
+],
   "geometry": {"coordinates":[-135.278569,57.036448],"type":"Point"}
 }

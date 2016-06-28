@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178247",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-143.876686,62.724927,-143.876686,62.724927",
     "geom:latitude":62.724927,
     "geom:longitude":-143.876686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Tok Hwy",
     "sg:city":"Tok",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102178247",
-    "wof:lastmodified":1449069531,
+    "wof:lastmodified":1466313923,
     "wof:name":"Tanana Chiefs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-143.876686,62.724927,-143.876686,62.724927],
-  "geometry": {"coordinates":[-143.876686,62.724927],"type":"Point"}
+  "bbox": [
+    -143.876686,
+    62.724927,
+    -143.876686,
+    62.724927
+],
+  "geometry": {"coordinates":[-143.87668600000001,62.724927],"type":"Point"}
 }

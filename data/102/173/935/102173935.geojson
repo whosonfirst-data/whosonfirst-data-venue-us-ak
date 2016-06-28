@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173935",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.394727,61.573341,-149.394727,61.573341",
     "geom:latitude":61.573341,
     "geom:longitude":-149.394727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2281 Sun Mountain Ave",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102173935",
-    "wof:lastmodified":1449068266,
+    "wof:lastmodified":1466314032,
     "wof:name":"Fisher Brothers Excav & Log",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.394727,61.573341,-149.394727,61.573341],
-  "geometry": {"coordinates":[-149.394727,61.573341],"type":"Point"}
+  "bbox": [
+    -149.394727,
+    61.573341,
+    -149.394727,
+    61.573341
+],
+  "geometry": {"coordinates":[-149.39472699999999,61.573341],"type":"Point"}
 }

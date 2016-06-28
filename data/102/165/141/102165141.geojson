@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102165141",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.835762,61.182716,-149.835762,61.182716",
     "geom:latitude":61.182716,
     "geom:longitude":-149.835762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 E 42nd Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873715,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102165141",
-    "wof:lastmodified":1449070214,
+    "wof:lastmodified":1466313683,
     "wof:name":"Creed K Mamikunian MD",
     "wof:parent_id":85873715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.835762,61.182716,-149.835762,61.182716],
-  "geometry": {"coordinates":[-149.835762,61.182716],"type":"Point"}
+  "bbox": [
+    -149.835762,
+    61.182716,
+    -149.835762,
+    61.182716
+],
+  "geometry": {"coordinates":[-149.83576199999999,61.182716],"type":"Point"}
 }

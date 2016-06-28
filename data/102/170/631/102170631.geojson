@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102170631",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.846371,64.885937,-147.846371,64.885937",
     "geom:latitude":64.885937,
     "geom:longitude":-147.846371,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1973 Kittiwake Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102170631",
-    "wof:lastmodified":1449068017,
+    "wof:lastmodified":1466313859,
     "wof:name":"Maiden Alaska",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.846371,64.885937,-147.846371,64.885937],
+  "bbox": [
+    -147.846371,
+    64.885937,
+    -147.846371,
+    64.885937
+],
   "geometry": {"coordinates":[-147.846371,64.885937],"type":"Point"}
 }

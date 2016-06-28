@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102182377",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.554113,61.315883,-149.554113,61.315883",
     "geom:latitude":61.315883,
     "geom:longitude":-149.554113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10516 Chain of Rock St",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102182377",
-    "wof:lastmodified":1449069281,
+    "wof:lastmodified":1466314195,
     "wof:name":"Little Lambs Pre-School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.554113,61.315883,-149.554113,61.315883],
+  "bbox": [
+    -149.554113,
+    61.315883,
+    -149.554113,
+    61.315883
+],
   "geometry": {"coordinates":[-149.554113,61.315883],"type":"Point"}
 }

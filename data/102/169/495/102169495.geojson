@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102169495",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.407336,58.300658,-134.407336,58.300658",
     "geom:latitude":58.300658,
     "geom:longitude":-134.407336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Seward St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102169495",
-    "wof:lastmodified":1449069246,
+    "wof:lastmodified":1466313810,
     "wof:name":"Pair-A-Dice Tattoo",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.407336,58.300658,-134.407336,58.300658],
-  "geometry": {"coordinates":[-134.407336,58.300658],"type":"Point"}
+  "bbox": [
+    -134.407336,
+    58.300658,
+    -134.407336,
+    58.300658
+],
+  "geometry": {"coordinates":[-134.40733599999999,58.300658],"type":"Point"}
 }

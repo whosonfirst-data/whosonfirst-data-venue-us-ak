@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102188985",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.148526,61.603213,-149.148526,61.603213",
     "geom:latitude":61.603213,
     "geom:longitude":-149.148526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12075 Chalet Dr",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102188985",
-    "wof:lastmodified":1449068946,
+    "wof:lastmodified":1466313643,
     "wof:name":"Finding Your Future",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.148526,61.603213,-149.148526,61.603213],
+  "bbox": [
+    -149.148526,
+    61.603213,
+    -149.148526,
+    61.603213
+],
   "geometry": {"coordinates":[-149.148526,61.603213],"type":"Point"}
 }

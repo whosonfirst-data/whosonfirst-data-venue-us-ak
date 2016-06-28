@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102157417",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.457323,61.585062,-149.457323,61.585062",
     "geom:latitude":61.585062,
     "geom:longitude":-149.457323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"561 W Nelson Ave",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102157417",
-    "wof:lastmodified":1449069832,
+    "wof:lastmodified":1466313550,
     "wof:name":"Transitional Living Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.457323,61.585062,-149.457323,61.585062],
+  "bbox": [
+    -149.457323,
+    61.585062,
+    -149.457323,
+    61.585062
+],
   "geometry": {"coordinates":[-149.457323,61.585062],"type":"Point"}
 }

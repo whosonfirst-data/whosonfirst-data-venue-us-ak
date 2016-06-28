@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102154949",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.957467,56.813936,-132.957467,56.813936",
     "geom:latitude":56.813936,
     "geom:longitude":-132.957467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 N Nordic Dr",
     "sg:city":"Petersburg",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102154949",
-    "wof:lastmodified":1449070244,
+    "wof:lastmodified":1466313637,
     "wof:name":"Trading Union Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.957467,56.813936,-132.957467,56.813936],
-  "geometry": {"coordinates":[-132.957467,56.813936],"type":"Point"}
+  "bbox": [
+    -132.957467,
+    56.813936,
+    -132.957467,
+    56.813936
+],
+  "geometry": {"coordinates":[-132.95746700000001,56.813936],"type":"Point"}
 }

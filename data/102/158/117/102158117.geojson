@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102158117",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.72722,55.377365,-131.72722,55.377365",
     "geom:latitude":55.377365,
     "geom:longitude":-131.72722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5148 N Tongass Hwy",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102158117",
-    "wof:lastmodified":1449069394,
+    "wof:lastmodified":1466313530,
     "wof:name":"Highway Div-Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.72722,55.377365,-131.72722,55.377365],
-  "geometry": {"coordinates":[-131.72722,55.377365],"type":"Point"}
+  "bbox": [
+    -131.72722,
+    55.377365,
+    -131.72722,
+    55.377365
+],
+  "geometry": {"coordinates":[-131.72721999999999,55.377365],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176931",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.57085,61.324564,-149.57085,61.324564",
     "geom:latitude":61.324564,
     "geom:longitude":-149.57085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11517 Old Glenn Hwy",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102176931",
-    "wof:lastmodified":1449069350,
+    "wof:lastmodified":1466314048,
     "wof:name":"Lees Custom Designs Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.57085,61.324564,-149.57085,61.324564],
-  "geometry": {"coordinates":[-149.57085,61.324564],"type":"Point"}
+  "bbox": [
+    -149.57085,
+    61.324564,
+    -149.57085,
+    61.324564
+],
+  "geometry": {"coordinates":[-149.57085000000001,61.324564],"type":"Point"}
 }

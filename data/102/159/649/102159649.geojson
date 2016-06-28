@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102159649",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.586672,57.502135,-134.586672,57.502135",
     "geom:latitude":57.502135,
     "geom:longitude":-134.586672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 Aanya St",
     "sg:city":"Angoon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102159649",
-    "wof:lastmodified":1449068094,
+    "wof:lastmodified":1466313653,
     "wof:name":"Francis Johnson Memorial Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.586672,57.502135,-134.586672,57.502135],
-  "geometry": {"coordinates":[-134.586672,57.502135],"type":"Point"}
+  "bbox": [
+    -134.586672,
+    57.502135,
+    -134.586672,
+    57.502135
+],
+  "geometry": {"coordinates":[-134.58667199999999,57.502135],"type":"Point"}
 }

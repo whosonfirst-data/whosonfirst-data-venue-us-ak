@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102194005",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.834868,61.228651,-149.834868,61.228651",
     "geom:latitude":61.228651,
     "geom:longitude":-149.834868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2400 Railroad Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820221,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85820221
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102194005",
-    "wof:lastmodified":1449069829,
+    "wof:lastmodified":1466314250,
     "wof:name":"Bob Benson Trucking",
     "wof:parent_id":85820221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.834868,61.228651,-149.834868,61.228651],
+  "bbox": [
+    -149.834868,
+    61.228651,
+    -149.834868,
+    61.228651
+],
   "geometry": {"coordinates":[-149.834868,61.228651],"type":"Point"}
 }

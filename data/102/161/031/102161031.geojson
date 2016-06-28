@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102161031",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.858849,64.834536,-147.858849,64.834536",
     "geom:latitude":64.834536,
     "geom:longitude":-147.858849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4697 Chena Small Tracts Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102161031",
-    "wof:lastmodified":1449068712,
+    "wof:lastmodified":1466313652,
     "wof:name":"Fairbanks Soap Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.858849,64.834536,-147.858849,64.834536],
-  "geometry": {"coordinates":[-147.858849,64.834536],"type":"Point"}
+  "bbox": [
+    -147.858849,
+    64.834536,
+    -147.858849,
+    64.834536
+],
+  "geometry": {"coordinates":[-147.85884899999999,64.834536],"type":"Point"}
 }

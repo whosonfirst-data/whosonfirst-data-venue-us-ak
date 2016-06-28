@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102162635",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.072793,60.475579,-151.072793,60.475579",
     "geom:latitude":60.475579,
     "geom:longitude":-151.072793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48895 Funny River Rd",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102162635",
-    "wof:lastmodified":1449069822,
+    "wof:lastmodified":1466313776,
     "wof:name":"Sister Shack Coffee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.072793,60.475579,-151.072793,60.475579],
-  "geometry": {"coordinates":[-151.072793,60.475579],"type":"Point"}
+  "bbox": [
+    -151.072793,
+    60.475579,
+    -151.072793,
+    60.475579
+],
+  "geometry": {"coordinates":[-151.07279299999999,60.475579],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102195453",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.632892,64.885755,-147.632892,64.885755",
     "geom:latitude":64.885755,
     "geom:longitude":-147.632892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Old Steese Hwy N",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102195453",
-    "wof:lastmodified":1449069363,
+    "wof:lastmodified":1466314290,
     "wof:name":"Alaska Jacks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.632892,64.885755,-147.632892,64.885755],
+  "bbox": [
+    -147.632892,
+    64.885755,
+    -147.632892,
+    64.885755
+],
   "geometry": {"coordinates":[-147.632892,64.885755],"type":"Point"}
 }

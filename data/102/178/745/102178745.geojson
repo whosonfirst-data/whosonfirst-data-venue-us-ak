@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178745",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.928335,64.834087,-147.928335,64.834087",
     "geom:latitude":64.834087,
     "geom:longitude":-147.928335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 Chena Ridge Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102178745",
-    "wof:lastmodified":1449069536,
+    "wof:lastmodified":1466314023,
     "wof:name":"Chena Ridge Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.928335,64.834087,-147.928335,64.834087],
+  "bbox": [
+    -147.928335,
+    64.834087,
+    -147.928335,
+    64.834087
+],
   "geometry": {"coordinates":[-147.928335,64.834087],"type":"Point"}
 }

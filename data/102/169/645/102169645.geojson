@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102169645",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.759883,64.862691,-147.759883,64.862691",
     "geom:latitude":64.862691,
     "geom:longitude":-147.759883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Tamarack St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869043,
+        85688573,
         85633793,
         85916609,
         102081397,
-        85688573
+        85869043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102169645",
-    "wof:lastmodified":1449069247,
+    "wof:lastmodified":1466313842,
     "wof:name":"Kendila Inc",
     "wof:parent_id":85869043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.759883,64.862691,-147.759883,64.862691],
+  "bbox": [
+    -147.759883,
+    64.862691,
+    -147.759883,
+    64.862691
+],
   "geometry": {"coordinates":[-147.759883,64.862691],"type":"Point"}
 }

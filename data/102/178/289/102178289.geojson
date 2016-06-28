@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178289",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.405884,58.300883,-134.405884,58.300883",
     "geom:latitude":58.300883,
     "geom:longitude":-134.405884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 N Franklin St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.westmarkhotels.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102178289",
-    "wof:lastmodified":1449069531,
+    "wof:lastmodified":1466313931,
     "wof:name":"Westmark Baranof",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.405884,58.300883,-134.405884,58.300883],
-  "geometry": {"coordinates":[-134.405884,58.300883],"type":"Point"}
+  "bbox": [
+    -134.405884,
+    58.300883,
+    -134.405884,
+    58.300883
+],
+  "geometry": {"coordinates":[-134.40588399999999,58.300883],"type":"Point"}
 }

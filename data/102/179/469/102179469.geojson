@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102179469",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.748751,64.905209,-147.748751,64.905209",
     "geom:latitude":64.905209,
     "geom:longitude":-147.748751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1133 Solitude Way",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102179469",
-    "wof:lastmodified":1449069943,
+    "wof:lastmodified":1466313968,
     "wof:name":"Snap-On",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.748751,64.905209,-147.748751,64.905209],
+  "bbox": [
+    -147.748751,
+    64.905209,
+    -147.748751,
+    64.905209
+],
   "geometry": {"coordinates":[-147.748751,64.905209],"type":"Point"}
 }

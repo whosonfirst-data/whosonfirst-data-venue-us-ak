@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102195581",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.113558,61.585091,-149.113558,61.585091",
     "geom:latitude":61.585091,
     "geom:longitude":-149.113558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Outer Springer Loop",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102195581",
-    "wof:lastmodified":1449069362,
+    "wof:lastmodified":1466314293,
     "wof:name":"Alaska Pollution Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.113558,61.585091,-149.113558,61.585091],
-  "geometry": {"coordinates":[-149.113558,61.585091],"type":"Point"}
+  "bbox": [
+    -149.113558,
+    61.585091,
+    -149.113558,
+    61.585091
+],
+  "geometry": {"coordinates":[-149.11355800000001,61.585091],"type":"Point"}
 }

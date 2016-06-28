@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102149121",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.424703,61.610414,-149.424703,61.610414",
     "geom:latitude":61.610414,
     "geom:longitude":-149.424703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 Onyx Cir",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102149121",
-    "wof:lastmodified":1449067769,
+    "wof:lastmodified":1466313473,
     "wof:name":"Stripe & Seal Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.424703,61.610414,-149.424703,61.610414],
-  "geometry": {"coordinates":[-149.424703,61.610414],"type":"Point"}
+  "bbox": [
+    -149.424703,
+    61.610414,
+    -149.424703,
+    61.610414
+],
+  "geometry": {"coordinates":[-149.42470299999999,61.610414],"type":"Point"}
 }

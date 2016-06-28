@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192465",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.413026,59.710046,-151.413026,59.710046",
     "geom:latitude":59.710046,
     "geom:longitude":-151.413026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"58405 Skyline Dr",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102192465",
-    "wof:lastmodified":1449069503,
+    "wof:lastmodified":1466314242,
     "wof:name":"Smith & Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.413026,59.710046,-151.413026,59.710046],
+  "bbox": [
+    -151.413026,
+    59.710046,
+    -151.413026,
+    59.710046
+],
   "geometry": {"coordinates":[-151.413026,59.710046],"type":"Point"}
 }

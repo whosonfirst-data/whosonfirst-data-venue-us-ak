@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102157305",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.009692,60.513486,-151.009692,60.513486",
     "geom:latitude":60.513486,
     "geom:longitude":-151.009692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42340 Donna Cir",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102157305",
-    "wof:lastmodified":1449069829,
+    "wof:lastmodified":1466313527,
     "wof:name":"Stone Brook Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.009692,60.513486,-151.009692,60.513486],
+  "bbox": [
+    -151.009692,
+    60.513486,
+    -151.009692,
+    60.513486
+],
   "geometry": {"coordinates":[-151.009692,60.513486],"type":"Point"}
 }

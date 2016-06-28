@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176909",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.930551,61.184928,-149.930551,61.184928",
     "geom:latitude":61.184928,
     "geom:longitude":-149.930551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 Arkansas Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850461,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85850461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102176909",
-    "wof:lastmodified":1449069348,
+    "wof:lastmodified":1466314045,
     "wof:name":"Sports Officials Assn",
     "wof:parent_id":85850461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.930551,61.184928,-149.930551,61.184928],
-  "geometry": {"coordinates":[-149.930551,61.184928],"type":"Point"}
+  "bbox": [
+    -149.930551,
+    61.184928,
+    -149.930551,
+    61.184928
+],
+  "geometry": {"coordinates":[-149.93055100000001,61.184928],"type":"Point"}
 }

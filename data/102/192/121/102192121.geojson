@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192121",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.611308,58.371058,-134.611308,58.371058",
     "geom:latitude":58.371058,
     "geom:longitude":-134.611308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10155 Jensine St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102192121",
-    "wof:lastmodified":1449069505,
+    "wof:lastmodified":1466314230,
     "wof:name":"Service By Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.611308,58.371058,-134.611308,58.371058],
-  "geometry": {"coordinates":[-134.611308,58.371058],"type":"Point"}
+  "bbox": [
+    -134.611308,
+    58.371058,
+    -134.611308,
+    58.371058
+],
+  "geometry": {"coordinates":[-134.61130800000001,58.371058],"type":"Point"}
 }

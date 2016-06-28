@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187381",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-146.352568,61.128131,-146.352568,61.128131",
     "geom:latitude":61.128131,
     "geom:longitude":-146.352568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Galena Dr",
     "sg:city":"Valdez",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102187381",
-    "wof:lastmodified":1449068154,
+    "wof:lastmodified":1466314134,
     "wof:name":"Orca Bay Trading Post",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-146.352568,61.128131,-146.352568,61.128131],
-  "geometry": {"coordinates":[-146.352568,61.128131],"type":"Point"}
+  "bbox": [
+    -146.352568,
+    61.128131,
+    -146.352568,
+    61.128131
+],
+  "geometry": {"coordinates":[-146.35256799999999,61.128131],"type":"Point"}
 }

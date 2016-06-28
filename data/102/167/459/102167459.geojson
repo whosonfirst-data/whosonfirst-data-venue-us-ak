@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102167459",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.778609,64.816142,-147.778609,64.816142",
     "geom:latitude":64.816142,
     "geom:longitude":-147.778609,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3290 Peger Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102167459",
-    "wof:lastmodified":1449069001,
+    "wof:lastmodified":1466313763,
     "wof:name":"T J's Land Clearing Inc",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.778609,64.816142,-147.778609,64.816142],
-  "geometry": {"coordinates":[-147.778609,64.816142],"type":"Point"}
+  "bbox": [
+    -147.778609,
+    64.816142,
+    -147.778609,
+    64.816142
+],
+  "geometry": {"coordinates":[-147.77860899999999,64.816142],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102151547",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-139.713261,59.548619,-139.713261,59.548619",
     "geom:latitude":59.548619,
     "geom:longitude":-139.713261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"654 Tlingit St",
     "sg:city":"Yakutat",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102151547",
-    "wof:lastmodified":1449067779,
+    "wof:lastmodified":1466313502,
     "wof:name":"Skyview Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-139.713261,59.548619,-139.713261,59.548619],
-  "geometry": {"coordinates":[-139.713261,59.548619],"type":"Point"}
+  "bbox": [
+    -139.713261,
+    59.548619,
+    -139.713261,
+    59.548619
+],
+  "geometry": {"coordinates":[-139.71326099999999,59.548619],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102179765",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.068692,60.483347,-151.068692,60.483347",
     "geom:latitude":60.483347,
     "geom:longitude":-151.068692,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44376 Sterling Hwy",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102179765",
-    "wof:lastmodified":1449069942,
+    "wof:lastmodified":1466314024,
     "wof:name":"Blockbuster Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.068692,60.483347,-151.068692,60.483347],
+  "bbox": [
+    -151.068692,
+    60.483347,
+    -151.068692,
+    60.483347
+],
   "geometry": {"coordinates":[-151.068692,60.483347],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185179",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.664982,64.904976,-147.664982,64.904976",
     "geom:latitude":64.904976,
     "geom:longitude":-147.664982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"983 Vail View Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102185179",
-    "wof:lastmodified":1449068198,
+    "wof:lastmodified":1466314097,
     "wof:name":"Northern Fuel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.664982,64.904976,-147.664982,64.904976],
-  "geometry": {"coordinates":[-147.664982,64.904976],"type":"Point"}
+  "bbox": [
+    -147.664982,
+    64.904976,
+    -147.664982,
+    64.904976
+],
+  "geometry": {"coordinates":[-147.66498200000001,64.904976],"type":"Point"}
 }

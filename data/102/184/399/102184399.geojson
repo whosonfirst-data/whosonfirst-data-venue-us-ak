@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184399",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.487896,58.341229,-134.487896,58.341229",
     "geom:latitude":58.341229,
     "geom:longitude":-134.487896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1014 Edwin Pl",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853509,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85853509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102184399",
-    "wof:lastmodified":1449068215,
+    "wof:lastmodified":1466314205,
     "wof:name":"Southeast Strategies",
     "wof:parent_id":85853509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.487896,58.341229,-134.487896,58.341229],
-  "geometry": {"coordinates":[-134.487896,58.341229],"type":"Point"}
+  "bbox": [
+    -134.487896,
+    58.341229,
+    -134.487896,
+    58.341229
+],
+  "geometry": {"coordinates":[-134.48789600000001,58.341229],"type":"Point"}
 }

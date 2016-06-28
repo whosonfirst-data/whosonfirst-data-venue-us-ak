@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102183325",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.771663,61.05675,-149.771663,61.05675",
     "geom:latitude":61.05675,
     "geom:longitude":-149.771663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5931 Romania Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.visualinfosystems.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873751,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102183325",
-    "wof:lastmodified":1449069043,
+    "wof:lastmodified":1466314101,
     "wof:name":"Visual Information Systems",
     "wof:parent_id":85873751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.771663,61.05675,-149.771663,61.05675],
-  "geometry": {"coordinates":[-149.771663,61.05675],"type":"Point"}
+  "bbox": [
+    -149.771663,
+    61.05675,
+    -149.771663,
+    61.05675
+],
+  "geometry": {"coordinates":[-149.77166299999999,61.05675],"type":"Point"}
 }

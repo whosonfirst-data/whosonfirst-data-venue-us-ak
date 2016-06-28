@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102159665",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.882688,64.921341,-147.882688,64.921341",
     "geom:latitude":64.921341,
     "geom:longitude":-147.882688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2376 Nugget Loop",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102159665",
-    "wof:lastmodified":1449068092,
+    "wof:lastmodified":1466313656,
     "wof:name":"No Tahoe Road Commission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.882688,64.921341,-147.882688,64.921341],
+  "bbox": [
+    -147.882688,
+    64.921341,
+    -147.882688,
+    64.921341
+],
   "geometry": {"coordinates":[-147.882688,64.921341],"type":"Point"}
 }

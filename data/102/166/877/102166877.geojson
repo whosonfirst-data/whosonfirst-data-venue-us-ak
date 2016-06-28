@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166877",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.897857,61.195222,-149.897857,61.195222",
     "geom:latitude":61.195222,
     "geom:longitude":-149.897857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 W Northern Lights Blvd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873713,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102166877",
-    "wof:lastmodified":1449069085,
+    "wof:lastmodified":1466313842,
     "wof:name":"J & J Shoe Repair",
     "wof:parent_id":85873713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.897857,61.195222,-149.897857,61.195222],
-  "geometry": {"coordinates":[-149.897857,61.195222],"type":"Point"}
+  "bbox": [
+    -149.897857,
+    61.195222,
+    -149.897857,
+    61.195222
+],
+  "geometry": {"coordinates":[-149.89785699999999,61.195222],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191615",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-145.503103,64.060744,-145.503103,64.060744",
     "geom:latitude":64.060744,
     "geom:longitude":-145.503103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2267 Spriggs Rd",
     "sg:city":"Delta Junction",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102191615",
-    "wof:lastmodified":1449069202,
+    "wof:lastmodified":1466314117,
     "wof:name":"Alaskrafts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-145.503103,64.060744,-145.503103,64.060744],
-  "geometry": {"coordinates":[-145.503103,64.060744],"type":"Point"}
+  "bbox": [
+    -145.503103,
+    64.060744,
+    -145.503103,
+    64.060744
+],
+  "geometry": {"coordinates":[-145.50310300000001,64.060744],"type":"Point"}
 }

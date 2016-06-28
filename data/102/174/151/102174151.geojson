@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102174151",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.687136,55.353016,-131.687136,55.353016",
     "geom:latitude":55.353016,
     "geom:longitude":-131.687136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3159 Tongass Ave",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102174151",
-    "wof:lastmodified":1449068134,
+    "wof:lastmodified":1466313887,
     "wof:name":"Polar Treats",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.687136,55.353016,-131.687136,55.353016],
-  "geometry": {"coordinates":[-131.687136,55.353016],"type":"Point"}
+  "bbox": [
+    -131.687136,
+    55.353016,
+    -131.687136,
+    55.353016
+],
+  "geometry": {"coordinates":[-131.68713600000001,55.353016],"type":"Point"}
 }

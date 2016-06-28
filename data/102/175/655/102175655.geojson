@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102175655",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.744098,61.196718,-149.744098,61.196718",
     "geom:latitude":61.196718,
     "geom:longitude":-149.744098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7310 Augustine Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873735,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102175655",
-    "wof:lastmodified":1449069464,
+    "wof:lastmodified":1466314156,
     "wof:name":"Espresso Consultants US",
     "wof:parent_id":85873735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.744098,61.196718,-149.744098,61.196718],
-  "geometry": {"coordinates":[-149.744098,61.196718],"type":"Point"}
+  "bbox": [
+    -149.744098,
+    61.196718,
+    -149.744098,
+    61.196718
+],
+  "geometry": {"coordinates":[-149.74409800000001,61.196718],"type":"Point"}
 }

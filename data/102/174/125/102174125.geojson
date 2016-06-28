@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102174125",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.540112,59.65426,-151.540112,59.65426",
     "geom:latitude":59.65426,
     "geom:longitude":-151.540112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"144 Mountain View Dr",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102174125",
-    "wof:lastmodified":1449068142,
+    "wof:lastmodified":1466313882,
     "wof:name":"Alaska Northern Lights",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.540112,59.65426,-151.540112,59.65426],
-  "geometry": {"coordinates":[-151.540112,59.65426],"type":"Point"}
+  "bbox": [
+    -151.540112,
+    59.65426,
+    -151.540112,
+    59.65426
+],
+  "geometry": {"coordinates":[-151.54011199999999,59.65426],"type":"Point"}
 }

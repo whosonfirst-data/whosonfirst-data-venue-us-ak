@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173105",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.070683,60.490253,-151.070683,60.490253",
     "geom:latitude":60.490253,
     "geom:longitude":-151.070683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"152 E Park Ave",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102173105",
-    "wof:lastmodified":1449068265,
+    "wof:lastmodified":1466313872,
     "wof:name":"Alternative School & Bilingual",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.070683,60.490253,-151.070683,60.490253],
+  "bbox": [
+    -151.070683,
+    60.490253,
+    -151.070683,
+    60.490253
+],
   "geometry": {"coordinates":[-151.070683,60.490253],"type":"Point"}
 }

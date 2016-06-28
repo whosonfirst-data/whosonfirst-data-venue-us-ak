@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173321",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-146.197741,61.093817,-146.197741,61.093817",
     "geom:latitude":61.093817,
     "geom:longitude":-146.197741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3451 Corbin Ln",
     "sg:city":"Valdez",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102173321",
-    "wof:lastmodified":1449068262,
+    "wof:lastmodified":1466313916,
     "wof:name":"Andres A Morales's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-146.197741,61.093817,-146.197741,61.093817],
-  "geometry": {"coordinates":[-146.197741,61.093817],"type":"Point"}
+  "bbox": [
+    -146.197741,
+    61.093817,
+    -146.197741,
+    61.093817
+],
+  "geometry": {"coordinates":[-146.19774100000001,61.093817],"type":"Point"}
 }

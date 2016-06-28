@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102154249",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.716043,64.84095,-147.716043,64.84095",
     "geom:latitude":64.84095,
     "geom:longitude":-147.716043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 Lacey St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.alaskaragco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848979,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85848979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102154249",
-    "wof:lastmodified":1449070241,
+    "wof:lastmodified":1466313499,
     "wof:name":"Alaska Rag Co",
     "wof:parent_id":85848979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.716043,64.84095,-147.716043,64.84095],
-  "geometry": {"coordinates":[-147.716043,64.84095],"type":"Point"}
+  "bbox": [
+    -147.716043,
+    64.84095,
+    -147.716043,
+    64.84095
+],
+  "geometry": {"coordinates":[-147.71604300000001,64.84095000000001],"type":"Point"}
 }

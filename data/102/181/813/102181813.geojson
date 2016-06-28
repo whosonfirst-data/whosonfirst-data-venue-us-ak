@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102181813",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.352862,64.752988,-147.352862,64.752988",
     "geom:latitude":64.752988,
     "geom:longitude":-147.352862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 S Santa Claus Ln",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102181813",
-    "wof:lastmodified":1449069234,
+    "wof:lastmodified":1466314125,
     "wof:name":"Safeway Food & Drug",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.352862,64.752988,-147.352862,64.752988],
-  "geometry": {"coordinates":[-147.352862,64.752988],"type":"Point"}
+  "bbox": [
+    -147.352862,
+    64.752988,
+    -147.352862,
+    64.752988
+],
+  "geometry": {"coordinates":[-147.35286199999999,64.752988],"type":"Point"}
 }

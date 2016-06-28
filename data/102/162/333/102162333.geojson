@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102162333",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-166.516176,53.866581,-166.516176,53.866581",
     "geom:latitude":53.866581,
     "geom:longitude":-166.516176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Loop Rd",
     "sg:city":"Unalaska",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102162333",
-    "wof:lastmodified":1449069823,
+    "wof:lastmodified":1466313715,
     "wof:name":"King Fisher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-166.516176,53.866581,-166.516176,53.866581],
+  "bbox": [
+    -166.516176,
+    53.866581,
+    -166.516176,
+    53.866581
+],
   "geometry": {"coordinates":[-166.516176,53.866581],"type":"Point"}
 }

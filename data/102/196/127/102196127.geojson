@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102196127",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.896834,61.180865,-149.896834,61.180865",
     "geom:latitude":61.180865,
     "geom:longitude":-149.896834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 W Tudor Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.areca.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873723,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102196127",
-    "wof:lastmodified":1449068338,
+    "wof:lastmodified":1466314302,
     "wof:name":"Alaska Power Assoc",
     "wof:parent_id":85873723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.896834,61.180865,-149.896834,61.180865],
-  "geometry": {"coordinates":[-149.896834,61.180865],"type":"Point"}
+  "bbox": [
+    -149.896834,
+    61.180865,
+    -149.896834,
+    61.180865
+],
+  "geometry": {"coordinates":[-149.89683400000001,61.180865],"type":"Point"}
 }

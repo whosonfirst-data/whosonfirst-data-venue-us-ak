@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184413",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.1557,64.711456,-147.1557,64.711456",
     "geom:latitude":64.711456,
     "geom:longitude":-147.1557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3518 Hope St",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102184413",
-    "wof:lastmodified":1449068216,
+    "wof:lastmodified":1466314122,
     "wof:name":"Moose Creek Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.1557,64.711456,-147.1557,64.711456],
+  "bbox": [
+    -147.1557,
+    64.711456,
+    -147.1557,
+    64.711456
+],
   "geometry": {"coordinates":[-147.1557,64.711456],"type":"Point"}
 }

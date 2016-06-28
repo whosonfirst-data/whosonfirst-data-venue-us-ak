@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102189449",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.887747,61.198315,-149.887747,61.198315",
     "geom:latitude":61.198315,
     "geom:longitude":-149.887747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 W Fireweed Ln",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873713,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102189449",
-    "wof:lastmodified":1449069498,
+    "wof:lastmodified":1466313738,
     "wof:name":"Discover True Tarot",
     "wof:parent_id":85873713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.887747,61.198315,-149.887747,61.198315],
-  "geometry": {"coordinates":[-149.887747,61.198315],"type":"Point"}
+  "bbox": [
+    -149.887747,
+    61.198315,
+    -149.887747,
+    61.198315
+],
+  "geometry": {"coordinates":[-149.88774699999999,61.198315],"type":"Point"}
 }

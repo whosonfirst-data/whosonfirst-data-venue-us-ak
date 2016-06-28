@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178293",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.424977,61.587351,-149.424977,61.587351",
     "geom:latitude":61.587351,
     "geom:longitude":-149.424977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1051 Bogard Rd",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102178293",
-    "wof:lastmodified":1449069529,
+    "wof:lastmodified":1466313932,
     "wof:name":"Jacket Express/Athletic Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.424977,61.587351,-149.424977,61.587351],
-  "geometry": {"coordinates":[-149.424977,61.587351],"type":"Point"}
+  "bbox": [
+    -149.424977,
+    61.587351,
+    -149.424977,
+    61.587351
+],
+  "geometry": {"coordinates":[-149.42497700000001,61.587351],"type":"Point"}
 }

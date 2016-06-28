@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102167479",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.111973,60.556226,-151.111973,60.556226",
     "geom:latitude":60.556226,
     "geom:longitude":-151.111973,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 Fireweed Ln",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102167479",
-    "wof:lastmodified":1449069003,
+    "wof:lastmodified":1466313768,
     "wof:name":"Holt Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.111973,60.556226,-151.111973,60.556226],
-  "geometry": {"coordinates":[-151.111973,60.556226],"type":"Point"}
+  "bbox": [
+    -151.111973,
+    60.556226,
+    -151.111973,
+    60.556226
+],
+  "geometry": {"coordinates":[-151.11197300000001,60.556226],"type":"Point"}
 }

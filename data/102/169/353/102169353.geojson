@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102169353",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.412567,58.300787,-134.412567,58.300787",
     "geom:latitude":58.300787,
     "geom:longitude":-134.412567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Willoughby Ave",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.state.ak.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102169353",
-    "wof:lastmodified":1449069246,
+    "wof:lastmodified":1466313781,
     "wof:name":"Natural Resources Dept",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.412567,58.300787,-134.412567,58.300787],
+  "bbox": [
+    -134.412567,
+    58.300787,
+    -134.412567,
+    58.300787
+],
   "geometry": {"coordinates":[-134.412567,58.300787],"type":"Point"}
 }

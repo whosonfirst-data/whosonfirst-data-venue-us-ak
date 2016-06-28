@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102157381",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.931029,64.935718,-147.931029,64.935718",
     "geom:latitude":64.935718,
     "geom:longitude":-147.931029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2778 Waldheim Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102157381",
-    "wof:lastmodified":1449069829,
+    "wof:lastmodified":1466313543,
     "wof:name":"Gail Fullerton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.931029,64.935718,-147.931029,64.935718],
-  "geometry": {"coordinates":[-147.931029,64.935718],"type":"Point"}
+  "bbox": [
+    -147.931029,
+    64.935718,
+    -147.931029,
+    64.935718
+],
+  "geometry": {"coordinates":[-147.931029,64.93571799999999],"type":"Point"}
 }

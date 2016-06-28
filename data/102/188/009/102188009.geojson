@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102188009",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.698588,64.849919,-147.698588,64.849919",
     "geom:latitude":64.849919,
     "geom:longitude":-147.698588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 Old Steese Hwy",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823671,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85823671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102188009",
-    "wof:lastmodified":1449068948,
+    "wof:lastmodified":1466314085,
     "wof:name":"Bentley Car Wash",
     "wof:parent_id":85823671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.698588,64.849919,-147.698588,64.849919],
+  "bbox": [
+    -147.698588,
+    64.849919,
+    -147.698588,
+    64.849919
+],
   "geometry": {"coordinates":[-147.698588,64.849919],"type":"Point"}
 }

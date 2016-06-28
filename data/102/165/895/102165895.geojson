@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102165895",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.575086,58.388513,-134.575086,58.388513",
     "geom:latitude":58.388513,
     "geom:longitude":-134.575086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3707 Sanders St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833767,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85833767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102165895",
-    "wof:lastmodified":1449070214,
+    "wof:lastmodified":1466313838,
     "wof:name":"Timco Computer Svc",
     "wof:parent_id":85833767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.575086,58.388513,-134.575086,58.388513],
+  "bbox": [
+    -134.575086,
+    58.388513,
+    -134.575086,
+    58.388513
+],
   "geometry": {"coordinates":[-134.575086,58.388513],"type":"Point"}
 }

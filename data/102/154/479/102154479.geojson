@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102154479",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.812994,64.892255,-147.812994,64.892255",
     "geom:latitude":64.892255,
     "geom:longitude":-147.812994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Auburn Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102154479",
-    "wof:lastmodified":1449070244,
+    "wof:lastmodified":1466313545,
     "wof:name":"Pearl Creek Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.812994,64.892255,-147.812994,64.892255],
-  "geometry": {"coordinates":[-147.812994,64.892255],"type":"Point"}
+  "bbox": [
+    -147.812994,
+    64.892255,
+    -147.812994,
+    64.892255
+],
+  "geometry": {"coordinates":[-147.812994,64.89225500000001],"type":"Point"}
 }

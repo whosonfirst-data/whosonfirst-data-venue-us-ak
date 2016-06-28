@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102175265",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.242628,60.561196,-151.242628,60.561196",
     "geom:latitude":60.561196,
     "geom:longitude":-151.242628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Granite Point St",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102175265",
-    "wof:lastmodified":1449069464,
+    "wof:lastmodified":1466313912,
     "wof:name":"Peninsula Aero Technology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.242628,60.561196,-151.242628,60.561196],
+  "bbox": [
+    -151.242628,
+    60.561196,
+    -151.242628,
+    60.561196
+],
   "geometry": {"coordinates":[-151.242628,60.561196],"type":"Point"}
 }

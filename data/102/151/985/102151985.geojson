@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102151985",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.721048,64.843228,-147.721048,64.843228",
     "geom:latitude":64.843228,
     "geom:longitude":-147.721048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 2nd Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.bigrays.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848979,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85848979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102151985",
-    "wof:lastmodified":1449067781,
+    "wof:lastmodified":1466313588,
     "wof:name":"Big Ray's Store",
     "wof:parent_id":85848979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.721048,64.843228,-147.721048,64.843228],
+  "bbox": [
+    -147.721048,
+    64.843228,
+    -147.721048,
+    64.843228
+],
   "geometry": {"coordinates":[-147.721048,64.843228],"type":"Point"}
 }

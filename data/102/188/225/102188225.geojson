@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102188225",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.403686,58.299127,-134.403686,58.299127",
     "geom:latitude":58.299127,
     "geom:longitude":-134.403686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"251 S Franklin St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102188225",
-    "wof:lastmodified":1449068946,
+    "wof:lastmodified":1466313491,
     "wof:name":"Filipino Community",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.403686,58.299127,-134.403686,58.299127],
-  "geometry": {"coordinates":[-134.403686,58.299127],"type":"Point"}
+  "bbox": [
+    -134.403686,
+    58.299127,
+    -134.403686,
+    58.299127
+],
+  "geometry": {"coordinates":[-134.40368599999999,58.299127],"type":"Point"}
 }

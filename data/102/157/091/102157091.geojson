@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102157091",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.501943,61.587588,-149.501943,61.587588",
     "geom:latitude":61.587588,
     "geom:longitude":-149.501943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Melanie Ave",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102157091",
-    "wof:lastmodified":1449069830,
+    "wof:lastmodified":1466313486,
     "wof:name":"Bales Repair & Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.501943,61.587588,-149.501943,61.587588],
-  "geometry": {"coordinates":[-149.501943,61.587588],"type":"Point"}
+  "bbox": [
+    -149.501943,
+    61.587588,
+    -149.501943,
+    61.587588
+],
+  "geometry": {"coordinates":[-149.50194300000001,61.587588],"type":"Point"}
 }

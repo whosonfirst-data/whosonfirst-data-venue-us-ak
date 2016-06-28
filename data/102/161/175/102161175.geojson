@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102161175",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.862044,64.843021,-147.862044,64.843021",
     "geom:latitude":64.843021,
     "geom:longitude":-147.862044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Carlyle Way",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102161175",
-    "wof:lastmodified":1449068711,
+    "wof:lastmodified":1466313678,
     "wof:name":"CAP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.862044,64.843021,-147.862044,64.843021],
-  "geometry": {"coordinates":[-147.862044,64.843021],"type":"Point"}
+  "bbox": [
+    -147.862044,
+    64.843021,
+    -147.862044,
+    64.843021
+],
+  "geometry": {"coordinates":[-147.862044,64.84302099999999],"type":"Point"}
 }

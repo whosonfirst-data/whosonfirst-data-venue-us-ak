@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102156799",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.815294,61.161088,-149.815294,61.161088",
     "geom:latitude":61.161088,
     "geom:longitude":-149.815294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3701 E 66th Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102156799",
-    "wof:lastmodified":1449068283,
+    "wof:lastmodified":1466313622,
     "wof:name":"Alaska Magnetics-Nikken Indepe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.815294,61.161088,-149.815294,61.161088],
-  "geometry": {"coordinates":[-149.815294,61.161088],"type":"Point"}
+  "bbox": [
+    -149.815294,
+    61.161088,
+    -149.815294,
+    61.161088
+],
+  "geometry": {"coordinates":[-149.81529399999999,61.161088],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172485",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.445567,59.234249,-135.445567,59.234249",
     "geom:latitude":59.234249,
     "geom:longitude":-135.445567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 2nd Ave",
     "sg:city":"Haines",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.alaska4you.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842771,
+        85688573,
         85633793,
         85916629,
         102083767,
-        85688573
+        85842771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102172485",
-    "wof:lastmodified":1449068736,
+    "wof:lastmodified":1466313948,
     "wof:name":"Travel Connection",
     "wof:parent_id":85842771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.445567,59.234249,-135.445567,59.234249],
-  "geometry": {"coordinates":[-135.445567,59.234249],"type":"Point"}
+  "bbox": [
+    -135.445567,
+    59.234249,
+    -135.445567,
+    59.234249
+],
+  "geometry": {"coordinates":[-135.44556700000001,59.234249],"type":"Point"}
 }

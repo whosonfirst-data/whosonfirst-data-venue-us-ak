@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166997",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.714471,64.828302,-147.714471,64.828302",
     "geom:latitude":64.828302,
     "geom:longitude":-147.714471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2114 S Cushman St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102166997",
-    "wof:lastmodified":1449069087,
+    "wof:lastmodified":1466313864,
     "wof:name":"Shiloh Christian Worship Ctr",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.714471,64.828302,-147.714471,64.828302],
-  "geometry": {"coordinates":[-147.714471,64.828302],"type":"Point"}
+  "bbox": [
+    -147.714471,
+    64.828302,
+    -147.714471,
+    64.828302
+],
+  "geometry": {"coordinates":[-147.714471,64.82830199999999],"type":"Point"}
 }

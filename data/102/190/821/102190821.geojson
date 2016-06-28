@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102190821",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.10569,61.664382,-149.10569,61.664382",
     "geom:latitude":61.664382,
     "geom:longitude":-149.10569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13700 E Jensen Ave",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102190821",
-    "wof:lastmodified":1449070033,
+    "wof:lastmodified":1466314008,
     "wof:name":"Care Connections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.10569,61.664382,-149.10569,61.664382],
-  "geometry": {"coordinates":[-149.10569,61.664382],"type":"Point"}
+  "bbox": [
+    -149.10569,
+    61.664382,
+    -149.10569,
+    61.664382
+],
+  "geometry": {"coordinates":[-149.10569000000001,61.664382],"type":"Point"}
 }

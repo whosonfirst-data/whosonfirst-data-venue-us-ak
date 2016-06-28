@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102161159",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-150.960079,60.462623,-150.960079,60.462623",
     "geom:latitude":60.462623,
     "geom:longitude":-150.960079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33126 Johnsons Dr",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102161159",
-    "wof:lastmodified":1449068708,
+    "wof:lastmodified":1466313674,
     "wof:name":"King Salmon Deaux Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-150.960079,60.462623,-150.960079,60.462623],
-  "geometry": {"coordinates":[-150.960079,60.462623],"type":"Point"}
+  "bbox": [
+    -150.960079,
+    60.462623,
+    -150.960079,
+    60.462623
+],
+  "geometry": {"coordinates":[-150.96007900000001,60.462623],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102158843",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.792924,55.433856,-131.792924,55.433856",
     "geom:latitude":55.433856,
     "geom:longitude":-131.792924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10738 N Tongass Hwy",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102158843",
-    "wof:lastmodified":1449069393,
+    "wof:lastmodified":1466313677,
     "wof:name":"Mobile Marine Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.792924,55.433856,-131.792924,55.433856],
+  "bbox": [
+    -131.792924,
+    55.433856,
+    -131.792924,
+    55.433856
+],
   "geometry": {"coordinates":[-131.792924,55.433856],"type":"Point"}
 }

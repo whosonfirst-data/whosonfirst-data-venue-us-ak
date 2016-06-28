@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102183305",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.439448,61.581753,-149.439448,61.581753",
     "geom:latitude":61.581753,
     "geom:longitude":-149.439448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"238 N Boundary St",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102183305",
-    "wof:lastmodified":1449069039,
+    "wof:lastmodified":1466314097,
     "wof:name":"Great Bear Brewing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.439448,61.581753,-149.439448,61.581753],
+  "bbox": [
+    -149.439448,
+    61.581753,
+    -149.439448,
+    61.581753
+],
   "geometry": {"coordinates":[-149.439448,61.581753],"type":"Point"}
 }

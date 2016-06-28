@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102189237",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.778552,64.810476,-147.778552,64.810476",
     "geom:latitude":64.810476,
     "geom:longitude":-147.778552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3722 Peger Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102189237",
-    "wof:lastmodified":1449069496,
+    "wof:lastmodified":1466313694,
     "wof:name":"Marsman Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.778552,64.810476,-147.778552,64.810476],
-  "geometry": {"coordinates":[-147.778552,64.810476],"type":"Point"}
+  "bbox": [
+    -147.778552,
+    64.810476,
+    -147.778552,
+    64.810476
+],
+  "geometry": {"coordinates":[-147.77855199999999,64.81047599999999],"type":"Point"}
 }

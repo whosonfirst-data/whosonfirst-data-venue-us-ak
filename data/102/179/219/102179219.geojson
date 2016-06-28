@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102179219",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.644816,58.382738,-134.644816,58.382738",
     "geom:latitude":58.382738,
     "geom:longitude":-134.644816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11465 Glacier Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102179219",
-    "wof:lastmodified":1449069942,
+    "wof:lastmodified":1466313918,
     "wof:name":"US Coast Guard Cutter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.644816,58.382738,-134.644816,58.382738],
-  "geometry": {"coordinates":[-134.644816,58.382738],"type":"Point"}
+  "bbox": [
+    -134.644816,
+    58.382738,
+    -134.644816,
+    58.382738
+],
+  "geometry": {"coordinates":[-134.64481599999999,58.382738],"type":"Point"}
 }

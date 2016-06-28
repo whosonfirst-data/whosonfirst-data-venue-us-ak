@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173475",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.598819,64.898026,-147.598819,64.898026",
     "geom:latitude":64.898026,
     "geom:longitude":-147.598819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"811 Suncrest Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102173475",
-    "wof:lastmodified":1449068265,
+    "wof:lastmodified":1466313947,
     "wof:name":"Computer Connections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.598819,64.898026,-147.598819,64.898026],
-  "geometry": {"coordinates":[-147.598819,64.898026],"type":"Point"}
+  "bbox": [
+    -147.598819,
+    64.898026,
+    -147.598819,
+    64.898026
+],
+  "geometry": {"coordinates":[-147.59881899999999,64.898026],"type":"Point"}
 }

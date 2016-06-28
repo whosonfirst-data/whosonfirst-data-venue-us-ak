@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102156815",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.647148,56.250201,-134.647148,56.250201",
     "geom:latitude":56.250201,
     "geom:longitude":-134.647148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 Main St",
     "sg:city":"Port Alexander",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102156815",
-    "wof:lastmodified":1449068281,
+    "wof:lastmodified":1466313625,
     "wof:name":"Puget Sound Fishermen Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.647148,56.250201,-134.647148,56.250201],
-  "geometry": {"coordinates":[-134.647148,56.250201],"type":"Point"}
+  "bbox": [
+    -134.647148,
+    56.250201,
+    -134.647148,
+    56.250201
+],
+  "geometry": {"coordinates":[-134.64714799999999,56.250201],"type":"Point"}
 }

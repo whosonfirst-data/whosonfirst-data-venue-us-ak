@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172821",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.856486,64.840205,-147.856486,64.840205",
     "geom:latitude":64.840205,
     "geom:longitude":-147.856486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4530 Drake St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102172821",
-    "wof:lastmodified":1449068737,
+    "wof:lastmodified":1466314161,
     "wof:name":"Alaska American Fish",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.856486,64.840205,-147.856486,64.840205],
-  "geometry": {"coordinates":[-147.856486,64.840205],"type":"Point"}
+  "bbox": [
+    -147.856486,
+    64.840205,
+    -147.856486,
+    64.840205
+],
+  "geometry": {"coordinates":[-147.85648599999999,64.840205],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102188923",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-165.403156,64.497035,-165.403156,64.497035",
     "geom:latitude":64.497035,
     "geom:longitude":-165.403156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Front St",
     "sg:city":"Nome",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102188923",
-    "wof:lastmodified":1449068949,
+    "wof:lastmodified":1466313631,
     "wof:name":"Solid Green Bingo-Pull Tabs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-165.403156,64.497035,-165.403156,64.497035],
+  "bbox": [
+    -165.403156,
+    64.497035,
+    -165.403156,
+    64.497035
+],
   "geometry": {"coordinates":[-165.403156,64.497035],"type":"Point"}
 }

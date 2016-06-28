@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102150059",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-146.356152,61.129025,-146.356152,61.129025",
     "geom:latitude":61.129025,
     "geom:longitude":-146.356152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Egan Ave",
     "sg:city":"Valdez",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102150059",
-    "wof:lastmodified":1449067790,
+    "wof:lastmodified":1466313858,
     "wof:name":"Bottle Stop Liquor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-146.356152,61.129025,-146.356152,61.129025],
-  "geometry": {"coordinates":[-146.356152,61.129025],"type":"Point"}
+  "bbox": [
+    -146.356152,
+    61.129025,
+    -146.356152,
+    61.129025
+],
+  "geometry": {"coordinates":[-146.35615200000001,61.129025],"type":"Point"}
 }

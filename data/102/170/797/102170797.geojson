@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102170797",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.359947,64.756707,-147.359947,64.756707",
     "geom:latitude":64.756707,
     "geom:longitude":-147.359947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Park Way",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102170797",
-    "wof:lastmodified":1449068019,
+    "wof:lastmodified":1466313892,
     "wof:name":"Interior Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.359947,64.756707,-147.359947,64.756707],
-  "geometry": {"coordinates":[-147.359947,64.756707],"type":"Point"}
+  "bbox": [
+    -147.359947,
+    64.756707,
+    -147.359947,
+    64.756707
+],
+  "geometry": {"coordinates":[-147.35994700000001,64.75670700000001],"type":"Point"}
 }

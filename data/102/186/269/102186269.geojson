@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102186269",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.91462,61.182524,-149.91462,61.182524",
     "geom:latitude":61.182524,
     "geom:longitude":-149.91462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1605 Roosevelt Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850461,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85850461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102186269",
-    "wof:lastmodified":1449069655,
+    "wof:lastmodified":1466314112,
     "wof:name":"Hair Reflections",
     "wof:parent_id":85850461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.91462,61.182524,-149.91462,61.182524],
-  "geometry": {"coordinates":[-149.91462,61.182524],"type":"Point"}
+  "bbox": [
+    -149.91462,
+    61.182524,
+    -149.91462,
+    61.182524
+],
+  "geometry": {"coordinates":[-149.91462000000001,61.182524],"type":"Point"}
 }

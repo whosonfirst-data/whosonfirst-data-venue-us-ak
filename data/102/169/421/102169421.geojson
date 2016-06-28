@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102169421",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.845053,61.136041,-149.845053,61.136041",
     "geom:latitude":61.136041,
     "geom:longitude":-149.845053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9330 Redcoat Pl",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102169421",
-    "wof:lastmodified":1449069247,
+    "wof:lastmodified":1466313795,
     "wof:name":"Klondike Property Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.845053,61.136041,-149.845053,61.136041],
-  "geometry": {"coordinates":[-149.845053,61.136041],"type":"Point"}
+  "bbox": [
+    -149.845053,
+    61.136041,
+    -149.845053,
+    61.136041
+],
+  "geometry": {"coordinates":[-149.84505300000001,61.136041],"type":"Point"}
 }

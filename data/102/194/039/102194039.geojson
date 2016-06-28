@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102194039",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.790526,61.074145,-149.790526,61.074145",
     "geom:latitude":61.074145,
     "geom:longitude":-149.790526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16209 Stanley Park Cir",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873751,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102194039",
-    "wof:lastmodified":1449069830,
+    "wof:lastmodified":1466314251,
     "wof:name":"Snap-On Tools Co",
     "wof:parent_id":85873751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.790526,61.074145,-149.790526,61.074145],
+  "bbox": [
+    -149.790526,
+    61.074145,
+    -149.790526,
+    61.074145
+],
   "geometry": {"coordinates":[-149.790526,61.074145],"type":"Point"}
 }

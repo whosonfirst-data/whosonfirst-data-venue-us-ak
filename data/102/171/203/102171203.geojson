@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171203",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.354522,57.818102,-152.354522,57.818102",
     "geom:latitude":57.818102,
     "geom:longitude":-152.354522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4055 E Rezanof Dr",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102171203",
-    "wof:lastmodified":1449070224,
+    "wof:lastmodified":1466313841,
     "wof:name":"Wild Iris Enterprises/Island",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.354522,57.818102,-152.354522,57.818102],
+  "bbox": [
+    -152.354522,
+    57.818102,
+    -152.354522,
+    57.818102
+],
   "geometry": {"coordinates":[-152.354522,57.818102],"type":"Point"}
 }

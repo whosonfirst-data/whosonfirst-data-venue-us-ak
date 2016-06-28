@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172181",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.779852,61.180889,-149.779852,61.180889",
     "geom:latitude":61.180889,
     "geom:longitude":-149.779852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5201 E Tudor Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"www.alaskaclub.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873727,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":"102172181",
-    "wof:lastmodified":1449068737,
+    "wof:lastmodified":1466313885,
     "wof:name":"Alaska Club",
     "wof:parent_id":85873727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.779852,61.180889,-149.779852,61.180889],
-  "geometry": {"coordinates":[-149.779852,61.180889],"type":"Point"}
+  "bbox": [
+    -149.779852,
+    61.180889,
+    -149.779852,
+    61.180889
+],
+  "geometry": {"coordinates":[-149.77985200000001,61.180889],"type":"Point"}
 }

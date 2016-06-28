@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102182257",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-158.465726,59.040161,-158.465726,59.040161",
     "geom:latitude":59.040161,
     "geom:longitude":-158.465726,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 Alaska St",
     "sg:city":"Dillingham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102182257",
-    "wof:lastmodified":1449069281,
+    "wof:lastmodified":1466314077,
     "wof:name":"Angstman Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-158.465726,59.040161,-158.465726,59.040161],
-  "geometry": {"coordinates":[-158.465726,59.040161],"type":"Point"}
+  "bbox": [
+    -158.465726,
+    59.040161,
+    -158.465726,
+    59.040161
+],
+  "geometry": {"coordinates":[-158.46572599999999,59.040161],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102174139",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.625752,61.507473,-149.625752,61.507473",
     "geom:latitude":61.507473,
     "geom:longitude":-149.625752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6280 Settlers Bay Dr",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102174139",
-    "wof:lastmodified":1449068136,
+    "wof:lastmodified":1466313884,
     "wof:name":"Pro-Craft Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.625752,61.507473,-149.625752,61.507473],
-  "geometry": {"coordinates":[-149.625752,61.507473],"type":"Point"}
+  "bbox": [
+    -149.625752,
+    61.507473,
+    -149.625752,
+    61.507473
+],
+  "geometry": {"coordinates":[-149.62575200000001,61.507473],"type":"Point"}
 }

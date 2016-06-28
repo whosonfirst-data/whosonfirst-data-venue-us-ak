@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187347",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.529992,59.644997,-151.529992,59.644997",
     "geom:latitude":59.644997,
     "geom:longitude":-151.529992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3761 Heath St",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102187347",
-    "wof:lastmodified":1449068158,
+    "wof:lastmodified":1466314130,
     "wof:name":"Forget Me Not Flowers & Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.529992,59.644997,-151.529992,59.644997],
-  "geometry": {"coordinates":[-151.529992,59.644997],"type":"Point"}
+  "bbox": [
+    -151.529992,
+    59.644997,
+    -151.529992,
+    59.644997
+],
+  "geometry": {"coordinates":[-151.52999199999999,59.644997],"type":"Point"}
 }

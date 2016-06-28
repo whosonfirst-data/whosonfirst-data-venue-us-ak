@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102186957",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.693704,55.356403,-131.693704,55.356403",
     "geom:latitude":55.356403,
     "geom:longitude":-131.693704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Heckman St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102186957",
-    "wof:lastmodified":1449069655,
+    "wof:lastmodified":1466314237,
     "wof:name":"Manor LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.693704,55.356403,-131.693704,55.356403],
+  "bbox": [
+    -131.693704,
+    55.356403,
+    -131.693704,
+    55.356403
+],
   "geometry": {"coordinates":[-131.693704,55.356403],"type":"Point"}
 }

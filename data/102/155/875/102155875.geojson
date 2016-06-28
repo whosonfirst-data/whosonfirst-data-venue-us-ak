@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155875",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.465046,59.234654,-135.465046,59.234654",
     "geom:latitude":59.234654,
     "geom:longitude":-135.465046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 Fair Dr",
     "sg:city":"Haines",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842771,
+        85688573,
         85633793,
         85916629,
         102083767,
-        85688573
+        85842771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102155875",
-    "wof:lastmodified":1449069743,
+    "wof:lastmodified":1466313628,
     "wof:name":"Haines Sanitation",
     "wof:parent_id":85842771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.465046,59.234654,-135.465046,59.234654],
+  "bbox": [
+    -135.465046,
+    59.234654,
+    -135.465046,
+    59.234654
+],
   "geometry": {"coordinates":[-135.465046,59.234654],"type":"Point"}
 }

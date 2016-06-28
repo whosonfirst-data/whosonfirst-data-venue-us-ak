@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102152503",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.776149,61.184445,-149.776149,61.184445",
     "geom:latitude":61.184445,
     "geom:longitude":-149.776149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5618 E 40th Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873727,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102152503",
-    "wof:lastmodified":1449069637,
+    "wof:lastmodified":1466313558,
     "wof:name":"Hotel Hookbill",
     "wof:parent_id":85873727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.776149,61.184445,-149.776149,61.184445],
+  "bbox": [
+    -149.776149,
+    61.184445,
+    -149.776149,
+    61.184445
+],
   "geometry": {"coordinates":[-149.776149,61.184445],"type":"Point"}
 }

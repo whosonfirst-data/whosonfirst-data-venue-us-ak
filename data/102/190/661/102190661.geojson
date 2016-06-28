@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102190661",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.384005,56.471454,-132.384005,56.471454",
     "geom:latitude":56.471454,
     "geom:longitude":-132.384005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 Front St",
     "sg:city":"Wrangell",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102190661",
-    "wof:lastmodified":1449070037,
+    "wof:lastmodified":1466313980,
     "wof:name":"Diamond C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.384005,56.471454,-132.384005,56.471454],
+  "bbox": [
+    -132.384005,
+    56.471454,
+    -132.384005,
+    56.471454
+],
   "geometry": {"coordinates":[-132.384005,56.471454],"type":"Point"}
 }

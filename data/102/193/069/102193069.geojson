@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102193069",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.650596,55.343584,-131.650596,55.343584",
     "geom:latitude":55.343584,
     "geom:longitude":-131.650596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Water St",
     "sg:city":"Craig",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102193069",
-    "wof:lastmodified":1449068194,
+    "wof:lastmodified":1466314267,
     "wof:name":"Baitbox",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.650596,55.343584,-131.650596,55.343584],
-  "geometry": {"coordinates":[-131.650596,55.343584],"type":"Point"}
+  "bbox": [
+    -131.650596,
+    55.343584,
+    -131.650596,
+    55.343584
+],
+  "geometry": {"coordinates":[-131.65059600000001,55.343584],"type":"Point"}
 }

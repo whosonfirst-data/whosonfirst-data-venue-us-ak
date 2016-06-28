@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102161473",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.406745,61.589191,-149.406745,61.589191",
     "geom:latitude":61.589191,
     "geom:longitude":-149.406745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1751 E Gardner Way",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102161473",
-    "wof:lastmodified":1449068711,
+    "wof:lastmodified":1466313739,
     "wof:name":"Susitna Professional Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.406745,61.589191,-149.406745,61.589191],
+  "bbox": [
+    -149.406745,
+    61.589191,
+    -149.406745,
+    61.589191
+],
   "geometry": {"coordinates":[-149.406745,61.589191],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102180229",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.899646,61.146078,-149.899646,61.146078",
     "geom:latitude":61.146078,
     "geom:longitude":-149.899646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8210 Rovenna St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809155,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85809155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102180229",
-    "wof:lastmodified":1449067877,
+    "wof:lastmodified":1466313961,
     "wof:name":"Alaska Accounting Svc",
     "wof:parent_id":85809155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.899646,61.146078,-149.899646,61.146078],
-  "geometry": {"coordinates":[-149.899646,61.146078],"type":"Point"}
+  "bbox": [
+    -149.899646,
+    61.146078,
+    -149.899646,
+    61.146078
+],
+  "geometry": {"coordinates":[-149.89964599999999,61.146078],"type":"Point"}
 }

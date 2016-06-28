@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166261",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.193982,60.487409,-151.193982,60.487409",
     "geom:latitude":60.487409,
     "geom:longitude":-151.193982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34955 Kustatan St",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102166261",
-    "wof:lastmodified":1449069084,
+    "wof:lastmodified":1466313715,
     "wof:name":"Pacific Alaska Forwarders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.193982,60.487409,-151.193982,60.487409],
-  "geometry": {"coordinates":[-151.193982,60.487409],"type":"Point"}
+  "bbox": [
+    -151.193982,
+    60.487409,
+    -151.193982,
+    60.487409
+],
+  "geometry": {"coordinates":[-151.19398200000001,60.487409],"type":"Point"}
 }

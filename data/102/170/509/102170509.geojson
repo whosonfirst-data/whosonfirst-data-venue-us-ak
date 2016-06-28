@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102170509",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.816076,61.180762,-149.816076,61.180762",
     "geom:latitude":61.180762,
     "geom:longitude":-149.816076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 E Tudor Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873727,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102170509",
-    "wof:lastmodified":1449068017,
+    "wof:lastmodified":1466313834,
     "wof:name":"Anchorage Bldg Safety Div",
     "wof:parent_id":85873727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.816076,61.180762,-149.816076,61.180762],
-  "geometry": {"coordinates":[-149.816076,61.180762],"type":"Point"}
+  "bbox": [
+    -149.816076,
+    61.180762,
+    -149.816076,
+    61.180762
+],
+  "geometry": {"coordinates":[-149.81607600000001,61.180762],"type":"Point"}
 }

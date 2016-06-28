@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102159641",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.793314,64.843084,-147.793314,64.843084",
     "geom:latitude":64.843084,
     "geom:longitude":-147.793314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 Coppet St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856935,
+        85688573,
         85633793,
         85916609,
         102081397,
-        85688573
+        85856935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102159641",
-    "wof:lastmodified":1449068094,
+    "wof:lastmodified":1466313651,
     "wof:name":"Bob Beewar Realty Inc",
     "wof:parent_id":85856935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.793314,64.843084,-147.793314,64.843084],
-  "geometry": {"coordinates":[-147.793314,64.843084],"type":"Point"}
+  "bbox": [
+    -147.793314,
+    64.843084,
+    -147.793314,
+    64.843084
+],
+  "geometry": {"coordinates":[-147.79331400000001,64.843084],"type":"Point"}
 }

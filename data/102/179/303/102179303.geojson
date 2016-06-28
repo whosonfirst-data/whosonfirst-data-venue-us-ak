@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102179303",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.653179,55.344257,-131.653179,55.344257",
     "geom:latitude":55.344257,
     "geom:longitude":-131.653179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 Water St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102179303",
-    "wof:lastmodified":1449069940,
+    "wof:lastmodified":1466313935,
     "wof:name":"Inlandboatmen's Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.653179,55.344257,-131.653179,55.344257],
-  "geometry": {"coordinates":[-131.653179,55.344257],"type":"Point"}
+  "bbox": [
+    -131.653179,
+    55.344257,
+    -131.653179,
+    55.344257
+],
+  "geometry": {"coordinates":[-131.65317899999999,55.344257],"type":"Point"}
 }

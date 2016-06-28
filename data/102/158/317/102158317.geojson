@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102158317",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.319945,61.583549,-149.319945,61.583549",
     "geom:latitude":61.583549,
     "geom:longitude":-149.319945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5261 Shennum Dr",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102158317",
-    "wof:lastmodified":1449069394,
+    "wof:lastmodified":1466313570,
     "wof:name":"Valley Bearing & Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.319945,61.583549,-149.319945,61.583549],
-  "geometry": {"coordinates":[-149.319945,61.583549],"type":"Point"}
+  "bbox": [
+    -149.319945,
+    61.583549,
+    -149.319945,
+    61.583549
+],
+  "geometry": {"coordinates":[-149.31994499999999,61.583549],"type":"Point"}
 }

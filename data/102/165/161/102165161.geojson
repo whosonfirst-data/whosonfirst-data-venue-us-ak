@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102165161",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.71187,64.822482,-147.71187,64.822482",
     "geom:latitude":64.822482,
     "geom:longitude":-147.71187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2700 S Cushman St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102165161",
-    "wof:lastmodified":1449070213,
+    "wof:lastmodified":1466313688,
     "wof:name":"ASA Inc",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.71187,64.822482,-147.71187,64.822482],
-  "geometry": {"coordinates":[-147.71187,64.822482],"type":"Point"}
+  "bbox": [
+    -147.71187,
+    64.822482,
+    -147.71187,
+    64.822482
+],
+  "geometry": {"coordinates":[-147.71187,64.82248199999999],"type":"Point"}
 }

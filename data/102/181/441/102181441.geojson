@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102181441",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.58415,57.713779,-152.58415,57.713779",
     "geom:latitude":57.713779,
     "geom:longitude":-152.58415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10739 Chiniak Dr",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102181441",
-    "wof:lastmodified":1449069231,
+    "wof:lastmodified":1466314185,
     "wof:name":"Kodiak Island Adventures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.58415,57.713779,-152.58415,57.713779],
-  "geometry": {"coordinates":[-152.58415,57.713779],"type":"Point"}
+  "bbox": [
+    -152.58415,
+    57.713779,
+    -152.58415,
+    57.713779
+],
+  "geometry": {"coordinates":[-152.58414999999999,57.713779],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191129",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.406589,58.303058,-134.406589,58.303058",
     "geom:latitude":58.303058,
     "geom:longitude":-134.406589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 Harris St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102191129",
-    "wof:lastmodified":1449069203,
+    "wof:lastmodified":1466314176,
     "wof:name":"Skate Bottom Sound",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.406589,58.303058,-134.406589,58.303058],
+  "bbox": [
+    -134.406589,
+    58.303058,
+    -134.406589,
+    58.303058
+],
   "geometry": {"coordinates":[-134.406589,58.303058],"type":"Point"}
 }

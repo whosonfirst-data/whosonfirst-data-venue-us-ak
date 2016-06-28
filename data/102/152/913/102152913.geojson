@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102152913",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.698343,64.819332,-147.698343,64.819332",
     "geom:latitude":64.819332,
     "geom:longitude":-147.698343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"391 Old Richardson Hwy",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102152913",
-    "wof:lastmodified":1449069634,
+    "wof:lastmodified":1466313641,
     "wof:name":"Grizzly Transmission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.698343,64.819332,-147.698343,64.819332],
-  "geometry": {"coordinates":[-147.698343,64.819332],"type":"Point"}
+  "bbox": [
+    -147.698343,
+    64.819332,
+    -147.698343,
+    64.819332
+],
+  "geometry": {"coordinates":[-147.69834299999999,64.819332],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102148325",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.811807,64.84885,-147.811807,64.84885",
     "geom:latitude":64.84885,
     "geom:longitude":-147.811807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3360 Wolf Run",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856935,
+        85688573,
         85633793,
         85916609,
         102081397,
-        85688573
+        85856935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102148325",
-    "wof:lastmodified":1449069784,
+    "wof:lastmodified":1466313506,
     "wof:name":"Wolf Run Restaurant",
     "wof:parent_id":85856935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.811807,64.84885,-147.811807,64.84885],
-  "geometry": {"coordinates":[-147.811807,64.84885],"type":"Point"}
+  "bbox": [
+    -147.811807,
+    64.84885,
+    -147.811807,
+    64.84885
+],
+  "geometry": {"coordinates":[-147.81180699999999,64.84885],"type":"Point"}
 }

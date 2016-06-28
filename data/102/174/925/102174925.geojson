@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102174925",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.331098,64.787813,-147.331098,64.787813",
     "geom:latitude":64.787813,
     "geom:longitude":-147.331098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1929 Pool St",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102174925",
-    "wof:lastmodified":1449068137,
+    "wof:lastmodified":1466314038,
     "wof:name":"Tri Boss DJ Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.331098,64.787813,-147.331098,64.787813],
+  "bbox": [
+    -147.331098,
+    64.787813,
+    -147.331098,
+    64.787813
+],
   "geometry": {"coordinates":[-147.331098,64.787813],"type":"Point"}
 }

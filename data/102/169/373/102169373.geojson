@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102169373",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-162.600355,66.896173,-162.600355,66.896173",
     "geom:latitude":66.896173,
     "geom:longitude":-162.600355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"332 2nd Ave",
     "sg:city":"Kotzebue",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102169373",
-    "wof:lastmodified":1449069247,
+    "wof:lastmodified":1466313785,
     "wof:name":"Maniilaq Manpower Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-162.600355,66.896173,-162.600355,66.896173],
-  "geometry": {"coordinates":[-162.600355,66.896173],"type":"Point"}
+  "bbox": [
+    -162.600355,
+    66.896173,
+    -162.600355,
+    66.896173
+],
+  "geometry": {"coordinates":[-162.60035500000001,66.896173],"type":"Point"}
 }

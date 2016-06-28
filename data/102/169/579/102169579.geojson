@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102169579",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.452592,61.574871,-149.452592,61.574871",
     "geom:latitude":61.574871,
     "geom:longitude":-149.452592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 W Lake View Ave",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102169579",
-    "wof:lastmodified":1449069246,
+    "wof:lastmodified":1466313828,
     "wof:name":"Carney Law Firm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.452592,61.574871,-149.452592,61.574871],
-  "geometry": {"coordinates":[-149.452592,61.574871],"type":"Point"}
+  "bbox": [
+    -149.452592,
+    61.574871,
+    -149.452592,
+    61.574871
+],
+  "geometry": {"coordinates":[-149.45259200000001,61.574871],"type":"Point"}
 }

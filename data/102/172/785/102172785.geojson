@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172785",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.544277,59.641913,-151.544277,59.641913",
     "geom:latitude":59.641913,
     "geom:longitude":-151.544277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 Main St",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102172785",
-    "wof:lastmodified":1449068737,
+    "wof:lastmodified":1466314004,
     "wof:name":"Homer Cabins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.544277,59.641913,-151.544277,59.641913],
-  "geometry": {"coordinates":[-151.544277,59.641913],"type":"Point"}
+  "bbox": [
+    -151.544277,
+    59.641913,
+    -151.544277,
+    59.641913
+],
+  "geometry": {"coordinates":[-151.54427699999999,59.641913],"type":"Point"}
 }

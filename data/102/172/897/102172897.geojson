@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172897",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.500802,59.668821,-151.500802,59.668821",
     "geom:latitude":59.668821,
     "geom:longitude":-151.500802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61415 Race Rd",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102172897",
-    "wof:lastmodified":1449068736,
+    "wof:lastmodified":1466314024,
     "wof:name":"Maria's Majestic View B & B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.500802,59.668821,-151.500802,59.668821],
-  "geometry": {"coordinates":[-151.500802,59.668821],"type":"Point"}
+  "bbox": [
+    -151.500802,
+    59.668821,
+    -151.500802,
+    59.668821
+],
+  "geometry": {"coordinates":[-151.50080199999999,59.668821],"type":"Point"}
 }

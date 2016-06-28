@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102158567",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.439384,59.228011,-135.439384,59.228011",
     "geom:latitude":59.228011,
     "geom:longitude":-135.439384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Portage Dr",
     "sg:city":"Haines",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842771,
+        85688573,
         85633793,
         85916629,
         102083767,
-        85688573
+        85842771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102158567",
-    "wof:lastmodified":1449069395,
+    "wof:lastmodified":1466313622,
     "wof:name":"Whale Rider Gallery",
     "wof:parent_id":85842771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.439384,59.228011,-135.439384,59.228011],
-  "geometry": {"coordinates":[-135.439384,59.228011],"type":"Point"}
+  "bbox": [
+    -135.439384,
+    59.228011,
+    -135.439384,
+    59.228011
+],
+  "geometry": {"coordinates":[-135.43938399999999,59.228011],"type":"Point"}
 }

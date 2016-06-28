@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102151829",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.897953,61.193713,-149.897953,61.193713",
     "geom:latitude":61.193713,
     "geom:longitude":-149.897953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2914 Arctic Blvd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.alaskasausage.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873713,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102151829",
-    "wof:lastmodified":1449067781,
+    "wof:lastmodified":1466313555,
     "wof:name":"Alaska Sausage & Seafood",
     "wof:parent_id":85873713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.897953,61.193713,-149.897953,61.193713],
+  "bbox": [
+    -149.897953,
+    61.193713,
+    -149.897953,
+    61.193713
+],
   "geometry": {"coordinates":[-149.897953,61.193713],"type":"Point"}
 }

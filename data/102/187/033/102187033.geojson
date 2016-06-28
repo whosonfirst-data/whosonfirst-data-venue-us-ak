@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187033",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.906939,61.191301,-149.906939,61.191301",
     "geom:latitude":61.191301,
     "geom:longitude":-149.906939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3110 Spenard Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.greatlander.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873713,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102187033",
-    "wof:lastmodified":1449068158,
+    "wof:lastmodified":1466314082,
     "wof:name":"Greatlander Bushmailer",
     "wof:parent_id":85873713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.906939,61.191301,-149.906939,61.191301],
-  "geometry": {"coordinates":[-149.906939,61.191301],"type":"Point"}
+  "bbox": [
+    -149.906939,
+    61.191301,
+    -149.906939,
+    61.191301
+],
+  "geometry": {"coordinates":[-149.90693899999999,61.191301],"type":"Point"}
 }

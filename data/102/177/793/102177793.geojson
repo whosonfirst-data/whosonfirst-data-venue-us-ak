@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102177793",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-150.735824,60.508632,-150.735824,60.508632",
     "geom:latitude":60.508632,
     "geom:longitude":-150.735824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36535 Lake Rd",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102177793",
-    "wof:lastmodified":1449070208,
+    "wof:lastmodified":1466314024,
     "wof:name":"Funny River Fish Camp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-150.735824,60.508632,-150.735824,60.508632],
-  "geometry": {"coordinates":[-150.735824,60.508632],"type":"Point"}
+  "bbox": [
+    -150.735824,
+    60.508632,
+    -150.735824,
+    60.508632
+],
+  "geometry": {"coordinates":[-150.73582400000001,60.508632],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102174303",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.746251,61.184238,-149.746251,61.184238",
     "geom:latitude":61.184238,
     "geom:longitude":-149.746251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7145 Madelynne Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.spbcalaska.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873735,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102174303",
-    "wof:lastmodified":1449068134,
+    "wof:lastmodified":1466313917,
     "wof:name":"Scenic Park Bible Church",
     "wof:parent_id":85873735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.746251,61.184238,-149.746251,61.184238],
+  "bbox": [
+    -149.746251,
+    61.184238,
+    -149.746251,
+    61.184238
+],
   "geometry": {"coordinates":[-149.746251,61.184238],"type":"Point"}
 }

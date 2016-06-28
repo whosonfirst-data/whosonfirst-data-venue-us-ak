@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102154705",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.665563,55.349027,-131.665563,55.349027",
     "geom:latitude":55.349027,
     "geom:longitude":-131.665563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1761 2nd Ave",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102154705",
-    "wof:lastmodified":1449070247,
+    "wof:lastmodified":1466313592,
     "wof:name":"Snowbird's Scrapbooking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.665563,55.349027,-131.665563,55.349027],
-  "geometry": {"coordinates":[-131.665563,55.349027],"type":"Point"}
+  "bbox": [
+    -131.665563,
+    55.349027,
+    -131.665563,
+    55.349027
+],
+  "geometry": {"coordinates":[-131.66556299999999,55.349027],"type":"Point"}
 }

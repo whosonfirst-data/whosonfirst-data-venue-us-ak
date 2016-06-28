@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102179905",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.768497,61.22449,-149.768497,61.22449",
     "geom:latitude":61.22449,
     "geom:longitude":-149.768497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5750 Glenn Hwy",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820221,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85820221
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102179905",
-    "wof:lastmodified":1449069941,
+    "wof:lastmodified":1466314052,
     "wof:name":"Enlisted Club Barber Shop",
     "wof:parent_id":85820221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.768497,61.22449,-149.768497,61.22449],
+  "bbox": [
+    -149.768497,
+    61.22449,
+    -149.768497,
+    61.22449
+],
   "geometry": {"coordinates":[-149.768497,61.22449],"type":"Point"}
 }

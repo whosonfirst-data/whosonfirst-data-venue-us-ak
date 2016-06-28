@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102162225",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.326822,64.752354,-147.326822,64.752354",
     "geom:latitude":64.752354,
     "geom:longitude":-147.326822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 Old Mission Rd",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102162225",
-    "wof:lastmodified":1449069822,
+    "wof:lastmodified":1466313693,
     "wof:name":"KJNP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.326822,64.752354,-147.326822,64.752354],
-  "geometry": {"coordinates":[-147.326822,64.752354],"type":"Point"}
+  "bbox": [
+    -147.326822,
+    64.752354,
+    -147.326822,
+    64.752354
+],
+  "geometry": {"coordinates":[-147.32682199999999,64.752354],"type":"Point"}
 }

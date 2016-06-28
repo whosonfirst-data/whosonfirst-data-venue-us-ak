@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102147917",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.79018,64.813017,-147.79018,64.813017",
     "geom:latitude":64.813017,
     "geom:longitude":-147.79018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2950 Van Horn Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102147917",
-    "wof:lastmodified":1449069929,
+    "wof:lastmodified":1466313481,
     "wof:name":"Denali Fenceworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.79018,64.813017,-147.79018,64.813017],
-  "geometry": {"coordinates":[-147.79018,64.813017],"type":"Point"}
+  "bbox": [
+    -147.79018,
+    64.813017,
+    -147.79018,
+    64.813017
+],
+  "geometry": {"coordinates":[-147.79017999999999,64.813017],"type":"Point"}
 }

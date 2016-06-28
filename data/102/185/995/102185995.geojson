@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185995",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.508978,58.359386,-134.508978,58.359386",
     "geom:latitude":58.359386,
     "geom:longitude":-134.508978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6205 Glacier Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830251,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85830251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102185995",
-    "wof:lastmodified":1449068199,
+    "wof:lastmodified":1466314191,
     "wof:name":"David G Logan DDS",
     "wof:parent_id":85830251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.508978,58.359386,-134.508978,58.359386],
-  "geometry": {"coordinates":[-134.508978,58.359386],"type":"Point"}
+  "bbox": [
+    -134.508978,
+    58.359386,
+    -134.508978,
+    58.359386
+],
+  "geometry": {"coordinates":[-134.50897800000001,58.359386],"type":"Point"}
 }

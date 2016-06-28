@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102168031",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.424337,60.152946,-149.424337,60.152946",
     "geom:latitude":60.152946,
     "geom:longitude":-149.424337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11786 Old Exit Glacier Rd",
     "sg:city":"Seward",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102168031",
-    "wof:lastmodified":1449069006,
+    "wof:lastmodified":1466313676,
     "wof:name":"Le Barn Health Food Cache",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.424337,60.152946,-149.424337,60.152946],
-  "geometry": {"coordinates":[-149.424337,60.152946],"type":"Point"}
+  "bbox": [
+    -149.424337,
+    60.152946,
+    -149.424337,
+    60.152946
+],
+  "geometry": {"coordinates":[-149.42433700000001,60.152946],"type":"Point"}
 }

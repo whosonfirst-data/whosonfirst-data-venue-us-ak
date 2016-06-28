@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102162191",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.804638,61.215582,-149.804638,61.215582",
     "geom:latitude":61.215582,
     "geom:longitude":-149.804638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 S Klevin St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873729,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102162191",
-    "wof:lastmodified":1449069822,
+    "wof:lastmodified":1466313686,
     "wof:name":"Hawkins Enterprises",
     "wof:parent_id":85873729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.804638,61.215582,-149.804638,61.215582],
-  "geometry": {"coordinates":[-149.804638,61.215582],"type":"Point"}
+  "bbox": [
+    -149.804638,
+    61.215582,
+    -149.804638,
+    61.215582
+],
+  "geometry": {"coordinates":[-149.80463800000001,61.215582],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172355",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-150.842703,60.531014,-150.842703,60.531014",
     "geom:latitude":60.531014,
     "geom:longitude":-150.842703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36910 Rodelee Ln",
     "sg:city":"Sterling",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102172355",
-    "wof:lastmodified":1449068734,
+    "wof:lastmodified":1466313922,
     "wof:name":"Classic Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-150.842703,60.531014,-150.842703,60.531014],
+  "bbox": [
+    -150.842703,
+    60.531014,
+    -150.842703,
+    60.531014
+],
   "geometry": {"coordinates":[-150.842703,60.531014],"type":"Point"}
 }

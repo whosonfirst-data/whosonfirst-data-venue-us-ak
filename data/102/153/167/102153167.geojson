@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153167",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.804234,61.100499,-149.804234,61.100499",
     "geom:latitude":61.100499,
     "geom:longitude":-149.804234,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13400 Elmore Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873753,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102153167",
-    "wof:lastmodified":1449069462,
+    "wof:lastmodified":1466314105,
     "wof:name":"South High School",
     "wof:parent_id":85873753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.804234,61.100499,-149.804234,61.100499],
-  "geometry": {"coordinates":[-149.804234,61.100499],"type":"Point"}
+  "bbox": [
+    -149.804234,
+    61.100499,
+    -149.804234,
+    61.100499
+],
+  "geometry": {"coordinates":[-149.80423400000001,61.100499],"type":"Point"}
 }

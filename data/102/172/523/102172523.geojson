@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172523",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.423153,58.303276,-134.423153,58.303276",
     "geom:latitude":58.303276,
     "geom:longitude":-134.423153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"746 W 12th St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102172523",
-    "wof:lastmodified":1449068736,
+    "wof:lastmodified":1466313955,
     "wof:name":"Blockbuster Video",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.423153,58.303276,-134.423153,58.303276],
-  "geometry": {"coordinates":[-134.423153,58.303276],"type":"Point"}
+  "bbox": [
+    -134.423153,
+    58.303276,
+    -134.423153,
+    58.303276
+],
+  "geometry": {"coordinates":[-134.42315300000001,58.303276],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102156013",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.845456,61.128599,-149.845456,61.128599",
     "geom:latitude":61.128599,
     "geom:longitude":-149.845456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10250 Jamestown Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102156013",
-    "wof:lastmodified":1449068282,
+    "wof:lastmodified":1466313471,
     "wof:name":"Michael Basalyga",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.845456,61.128599,-149.845456,61.128599],
-  "geometry": {"coordinates":[-149.845456,61.128599],"type":"Point"}
+  "bbox": [
+    -149.845456,
+    61.128599,
+    -149.845456,
+    61.128599
+],
+  "geometry": {"coordinates":[-149.84545600000001,61.128599],"type":"Point"}
 }

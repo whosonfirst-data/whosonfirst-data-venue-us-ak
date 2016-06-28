@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102179591",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.599248,58.336117,-134.599248,58.336117",
     "geom:latitude":58.336117,
     "geom:longitude":-134.599248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10746 Horizon Dr",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102179591",
-    "wof:lastmodified":1449069942,
+    "wof:lastmodified":1466313990,
     "wof:name":"High Blossom Orchard Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.599248,58.336117,-134.599248,58.336117],
-  "geometry": {"coordinates":[-134.599248,58.336117],"type":"Point"}
+  "bbox": [
+    -134.599248,
+    58.336117,
+    -134.599248,
+    58.336117
+],
+  "geometry": {"coordinates":[-134.59924799999999,58.336117],"type":"Point"}
 }

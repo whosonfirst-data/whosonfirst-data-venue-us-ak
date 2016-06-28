@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102182471",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.934292,56.820176,-132.934292,56.820176",
     "geom:latitude":56.820176,
     "geom:longitude":-132.934292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404 14th St",
     "sg:city":"Petersburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102182471",
-    "wof:lastmodified":1449069280,
+    "wof:lastmodified":1466314201,
     "wof:name":"Petersburg City Waste Water",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.934292,56.820176,-132.934292,56.820176],
+  "bbox": [
+    -132.934292,
+    56.820176,
+    -132.934292,
+    56.820176
+],
   "geometry": {"coordinates":[-132.934292,56.820176],"type":"Point"}
 }

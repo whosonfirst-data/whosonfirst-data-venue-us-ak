@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102165857",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-145.537429,62.109981,-145.537429,62.109981",
     "geom:latitude":62.109981,
     "geom:longitude":-145.537429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"167 Drum Dr",
     "sg:city":"Glennallen",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102165857",
-    "wof:lastmodified":1449070217,
+    "wof:lastmodified":1466313830,
     "wof:name":"Alaska Scientific Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-145.537429,62.109981,-145.537429,62.109981],
+  "bbox": [
+    -145.537429,
+    62.109981,
+    -145.537429,
+    62.109981
+],
   "geometry": {"coordinates":[-145.537429,62.109981],"type":"Point"}
 }

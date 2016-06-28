@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155871",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.525113,59.645635,-151.525113,59.645635",
     "geom:latitude":59.645635,
     "geom:longitude":-151.525113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"708 Smoky Bay Way",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102155871",
-    "wof:lastmodified":1449069744,
+    "wof:lastmodified":1466313627,
     "wof:name":"Cook Inlet Keeper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.525113,59.645635,-151.525113,59.645635],
+  "bbox": [
+    -151.525113,
+    59.645635,
+    -151.525113,
+    59.645635
+],
   "geometry": {"coordinates":[-151.525113,59.645635],"type":"Point"}
 }

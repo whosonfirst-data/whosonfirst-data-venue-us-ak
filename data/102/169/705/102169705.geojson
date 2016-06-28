@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102169705",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.874232,61.103469,-149.874232,61.103469",
     "geom:latitude":61.103469,
     "geom:longitude":-149.874232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13000 Lagoon Cir",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873755,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102169705",
-    "wof:lastmodified":1449069248,
+    "wof:lastmodified":1466314133,
     "wof:name":"Anchorage House Of Hobbies",
     "wof:parent_id":85873755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.874232,61.103469,-149.874232,61.103469],
-  "geometry": {"coordinates":[-149.874232,61.103469],"type":"Point"}
+  "bbox": [
+    -149.874232,
+    61.103469,
+    -149.874232,
+    61.103469
+],
+  "geometry": {"coordinates":[-149.87423200000001,61.103469],"type":"Point"}
 }

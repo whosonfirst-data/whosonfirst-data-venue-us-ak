@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102194489",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.07839,60.478448,-151.07839,60.478448",
     "geom:latitude":60.478448,
     "geom:longitude":-151.07839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44714 Sterling Hwy",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102194489",
-    "wof:lastmodified":1449069828,
+    "wof:lastmodified":1466314258,
     "wof:name":"Shootin Irons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.07839,60.478448,-151.07839,60.478448],
-  "geometry": {"coordinates":[-151.07839,60.478448],"type":"Point"}
+  "bbox": [
+    -151.07839,
+    60.478448,
+    -151.07839,
+    60.478448
+],
+  "geometry": {"coordinates":[-151.07839000000001,60.478448],"type":"Point"}
 }

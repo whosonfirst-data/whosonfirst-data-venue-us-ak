@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102148105",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.532389,55.302249,-131.532389,55.302249",
     "geom:latitude":55.302249,
     "geom:longitude":-131.532389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6633 Roosevelt Dr",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102148105",
-    "wof:lastmodified":1449069784,
+    "wof:lastmodified":1466313465,
     "wof:name":"A 1 Towing & Recovery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.532389,55.302249,-131.532389,55.302249],
-  "geometry": {"coordinates":[-131.532389,55.302249],"type":"Point"}
+  "bbox": [
+    -131.532389,
+    55.302249,
+    -131.532389,
+    55.302249
+],
+  "geometry": {"coordinates":[-131.53238899999999,55.302249],"type":"Point"}
 }

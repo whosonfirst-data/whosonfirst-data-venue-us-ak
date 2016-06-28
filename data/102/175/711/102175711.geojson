@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102175711",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.465161,59.233935,-135.465161,59.233935",
     "geom:latitude":59.233935,
     "geom:longitude":-135.465161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"249 Fair Dr",
     "sg:city":"Haines",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842771,
+        85688573,
         85633793,
         85916629,
         102083767,
-        85688573
+        85842771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102175711",
-    "wof:lastmodified":1449069470,
+    "wof:lastmodified":1466313996,
     "wof:name":"Maintenance Service",
     "wof:parent_id":85842771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.465161,59.233935,-135.465161,59.233935],
-  "geometry": {"coordinates":[-135.465161,59.233935],"type":"Point"}
+  "bbox": [
+    -135.465161,
+    59.233935,
+    -135.465161,
+    59.233935
+],
+  "geometry": {"coordinates":[-135.46516099999999,59.233935],"type":"Point"}
 }

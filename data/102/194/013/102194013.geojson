@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102194013",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.957329,56.812377,-132.957329,56.812377",
     "geom:latitude":56.812377,
     "geom:longitude":-132.957329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Fram St",
     "sg:city":"Petersburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102194013",
-    "wof:lastmodified":1449069827,
+    "wof:lastmodified":1466314250,
     "wof:name":"Fred W Triem",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.957329,56.812377,-132.957329,56.812377],
-  "geometry": {"coordinates":[-132.957329,56.812377],"type":"Point"}
+  "bbox": [
+    -132.957329,
+    56.812377,
+    -132.957329,
+    56.812377
+],
+  "geometry": {"coordinates":[-132.95732899999999,56.812377],"type":"Point"}
 }

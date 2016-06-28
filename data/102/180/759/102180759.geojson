@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102180759",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.313527,59.457857,-135.313527,59.457857",
     "geom:latitude":59.457857,
     "geom:longitude":-135.313527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 8th Ave",
     "sg:city":"Skagway",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102180759",
-    "wof:lastmodified":1449067877,
+    "wof:lastmodified":1466314176,
     "wof:name":"Dirce Ann's Fabrics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.313527,59.457857,-135.313527,59.457857],
-  "geometry": {"coordinates":[-135.313527,59.457857],"type":"Point"}
+  "bbox": [
+    -135.313527,
+    59.457857,
+    -135.313527,
+    59.457857
+],
+  "geometry": {"coordinates":[-135.31352699999999,59.457857],"type":"Point"}
 }

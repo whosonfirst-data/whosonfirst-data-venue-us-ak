@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102161193",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.403124,61.615157,-149.403124,61.615157",
     "geom:latitude":61.615157,
     "geom:longitude":-149.403124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 Jacksnipe Ct",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102161193",
-    "wof:lastmodified":1449068710,
+    "wof:lastmodified":1466313682,
     "wof:name":"Techni-Clean",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.403124,61.615157,-149.403124,61.615157],
-  "geometry": {"coordinates":[-149.403124,61.615157],"type":"Point"}
+  "bbox": [
+    -149.403124,
+    61.615157,
+    -149.403124,
+    61.615157
+],
+  "geometry": {"coordinates":[-149.40312399999999,61.615157],"type":"Point"}
 }

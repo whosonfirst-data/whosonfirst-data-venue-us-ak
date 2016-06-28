@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176967",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.761322,64.817479,-147.761322,64.817479",
     "geom:latitude":64.817479,
     "geom:longitude":-147.761322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2031 Van Horn Ct",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102176967",
-    "wof:lastmodified":1449069349,
+    "wof:lastmodified":1466314169,
     "wof:name":"Samson Electric Inc",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.761322,64.817479,-147.761322,64.817479],
-  "geometry": {"coordinates":[-147.761322,64.817479],"type":"Point"}
+  "bbox": [
+    -147.761322,
+    64.817479,
+    -147.761322,
+    64.817479
+],
+  "geometry": {"coordinates":[-147.76132200000001,64.81747900000001],"type":"Point"}
 }

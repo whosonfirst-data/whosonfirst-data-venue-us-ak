@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102195037",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.681091,64.847272,-147.681091,64.847272",
     "geom:latitude":64.847272,
     "geom:longitude":-147.681091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 C St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823671,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85823671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102195037",
-    "wof:lastmodified":1449069365,
+    "wof:lastmodified":1466314283,
     "wof:name":"Born Again Believers In Christ",
     "wof:parent_id":85823671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.681091,64.847272,-147.681091,64.847272],
-  "geometry": {"coordinates":[-147.681091,64.847272],"type":"Point"}
+  "bbox": [
+    -147.681091,
+    64.847272,
+    -147.681091,
+    64.847272
+],
+  "geometry": {"coordinates":[-147.68109100000001,64.847272],"type":"Point"}
 }

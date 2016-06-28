@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102175801",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.544246,59.652829,-151.544246,59.652829",
     "geom:latitude":59.652829,
     "geom:longitude":-151.544246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Mountain View Dr",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102175801",
-    "wof:lastmodified":1449069468,
+    "wof:lastmodified":1466314161,
     "wof:name":"Herring Island Haulers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.544246,59.652829,-151.544246,59.652829],
-  "geometry": {"coordinates":[-151.544246,59.652829],"type":"Point"}
+  "bbox": [
+    -151.544246,
+    59.652829,
+    -151.544246,
+    59.652829
+],
+  "geometry": {"coordinates":[-151.54424599999999,59.652829],"type":"Point"}
 }

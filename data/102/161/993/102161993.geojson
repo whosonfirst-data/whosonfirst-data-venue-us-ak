@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102161993",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.95747,56.814023,-132.95747,56.814023",
     "geom:latitude":56.814023,
     "geom:longitude":-132.95747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 N Nordic Dr",
     "sg:city":"Petersburg",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102161993",
-    "wof:lastmodified":1449068711,
+    "wof:lastmodified":1466313847,
     "wof:name":"Petersburg Fisheries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.95747,56.814023,-132.95747,56.814023],
+  "bbox": [
+    -132.95747,
+    56.814023,
+    -132.95747,
+    56.814023
+],
   "geometry": {"coordinates":[-132.95747,56.814023],"type":"Point"}
 }

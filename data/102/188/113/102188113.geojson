@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102188113",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.761633,64.851447,-147.761633,64.851447",
     "geom:latitude":64.851447,
     "geom:longitude":-147.761633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Aurora Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.carlilekw.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869043,
+        85688573,
         85633793,
         85916609,
         102081397,
-        85688573
+        85869043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102188113",
-    "wof:lastmodified":1449068948,
+    "wof:lastmodified":1466313473,
     "wof:name":"Carlile Enterprises",
     "wof:parent_id":85869043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.761633,64.851447,-147.761633,64.851447],
-  "geometry": {"coordinates":[-147.761633,64.851447],"type":"Point"}
+  "bbox": [
+    -147.761633,
+    64.851447,
+    -147.761633,
+    64.851447
+],
+  "geometry": {"coordinates":[-147.76163299999999,64.85144699999999],"type":"Point"}
 }

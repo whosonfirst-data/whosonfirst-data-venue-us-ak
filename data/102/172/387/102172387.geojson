@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172387",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.773156,64.855944,-147.773156,64.855944",
     "geom:latitude":64.855944,
     "geom:longitude":-147.773156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"934 Aspen St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856935,
+        85688573,
         85633793,
         85916609,
         102081397,
-        85688573
+        85856935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102172387",
-    "wof:lastmodified":1449068737,
+    "wof:lastmodified":1466313928,
     "wof:name":"Artic Enterprises",
     "wof:parent_id":85856935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.773156,64.855944,-147.773156,64.855944],
-  "geometry": {"coordinates":[-147.773156,64.855944],"type":"Point"}
+  "bbox": [
+    -147.773156,
+    64.855944,
+    -147.773156,
+    64.855944
+],
+  "geometry": {"coordinates":[-147.773156,64.85594399999999],"type":"Point"}
 }

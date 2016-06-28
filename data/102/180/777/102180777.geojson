@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102180777",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.855435,61.166317,-149.855435,61.166317",
     "geom:latitude":61.166317,
     "geom:longitude":-149.855435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1444 E Dowling Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873715,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102180777",
-    "wof:lastmodified":1449067877,
+    "wof:lastmodified":1466314064,
     "wof:name":"Polaris K-12 School",
     "wof:parent_id":85873715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.855435,61.166317,-149.855435,61.166317],
+  "bbox": [
+    -149.855435,
+    61.166317,
+    -149.855435,
+    61.166317
+],
   "geometry": {"coordinates":[-149.855435,61.166317],"type":"Point"}
 }

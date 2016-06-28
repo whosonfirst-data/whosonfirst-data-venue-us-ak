@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185247",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.575614,61.329818,-149.575614,61.329818",
     "geom:latitude":61.329818,
     "geom:longitude":-149.575614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12130 Regency Dr",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102185247",
-    "wof:lastmodified":1449068196,
+    "wof:lastmodified":1466314200,
     "wof:name":"Eagle River Bowl Snack Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.575614,61.329818,-149.575614,61.329818],
+  "bbox": [
+    -149.575614,
+    61.329818,
+    -149.575614,
+    61.329818
+],
   "geometry": {"coordinates":[-149.575614,61.329818],"type":"Point"}
 }

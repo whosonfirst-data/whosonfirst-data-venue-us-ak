@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153651",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.403311,58.298769,-134.403311,58.298769",
     "geom:latitude":58.298769,
     "geom:longitude":-134.403311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"289 S Franklin St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102153651",
-    "wof:lastmodified":1449069461,
+    "wof:lastmodified":1466313584,
     "wof:name":"Cha For The Finest",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.403311,58.298769,-134.403311,58.298769],
+  "bbox": [
+    -134.403311,
+    58.298769,
+    -134.403311,
+    58.298769
+],
   "geometry": {"coordinates":[-134.403311,58.298769],"type":"Point"}
 }

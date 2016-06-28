@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191169",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.408945,57.790323,-152.408945,57.790323",
     "geom:latitude":57.790323,
     "geom:longitude":-152.408945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Natalia Way",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102191169",
-    "wof:lastmodified":1449069201,
+    "wof:lastmodified":1466314064,
     "wof:name":"Julie's Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.408945,57.790323,-152.408945,57.790323],
-  "geometry": {"coordinates":[-152.408945,57.790323],"type":"Point"}
+  "bbox": [
+    -152.408945,
+    57.790323,
+    -152.408945,
+    57.790323
+],
+  "geometry": {"coordinates":[-152.40894499999999,57.790323],"type":"Point"}
 }

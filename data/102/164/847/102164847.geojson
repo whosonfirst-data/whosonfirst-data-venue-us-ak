@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102164847",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.869663,64.848523,-147.869663,64.848523",
     "geom:latitude":64.848523,
     "geom:longitude":-147.869663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"388 Old Chena Pump Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102164847",
-    "wof:lastmodified":1449068089,
+    "wof:lastmodified":1466313829,
     "wof:name":"Lemon Grass Thai Cuisine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.869663,64.848523,-147.869663,64.848523],
+  "bbox": [
+    -147.869663,
+    64.848523,
+    -147.869663,
+    64.848523
+],
   "geometry": {"coordinates":[-147.869663,64.848523],"type":"Point"}
 }

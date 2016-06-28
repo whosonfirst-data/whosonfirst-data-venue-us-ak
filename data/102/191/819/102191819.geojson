@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191819",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.864792,64.933926,-147.864792,64.933926",
     "geom:latitude":64.933926,
     "geom:longitude":-147.864792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2216 Penrose Ln",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102191819",
-    "wof:lastmodified":1449069202,
+    "wof:lastmodified":1466314149,
     "wof:name":"Chugach Correspondence School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.864792,64.933926,-147.864792,64.933926],
-  "geometry": {"coordinates":[-147.864792,64.933926],"type":"Point"}
+  "bbox": [
+    -147.864792,
+    64.933926,
+    -147.864792,
+    64.933926
+],
+  "geometry": {"coordinates":[-147.86479199999999,64.933926],"type":"Point"}
 }

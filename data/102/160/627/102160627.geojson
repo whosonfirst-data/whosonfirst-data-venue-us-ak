@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102160627",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-165.39247,64.499041,-165.39247,64.499041",
     "geom:latitude":64.499041,
     "geom:longitude":-165.39247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"606 E 5th Ave",
     "sg:city":"Nome",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102160627",
-    "wof:lastmodified":1449069779,
+    "wof:lastmodified":1466313719,
     "wof:name":"Native Village Of Council",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-165.39247,64.499041,-165.39247,64.499041],
-  "geometry": {"coordinates":[-165.39247,64.499041],"type":"Point"}
+  "bbox": [
+    -165.39247,
+    64.499041,
+    -165.39247,
+    64.499041
+],
+  "geometry": {"coordinates":[-165.39247,64.49904100000001],"type":"Point"}
 }

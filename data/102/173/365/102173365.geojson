@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173365",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.302085,64.726442,-147.302085,64.726442",
     "geom:latitude":64.726442,
     "geom:longitude":-147.302085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3360 Fernwood Ave",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102173365",
-    "wof:lastmodified":1449068263,
+    "wof:lastmodified":1466313925,
     "wof:name":"Bob & Trish's Adventures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.302085,64.726442,-147.302085,64.726442],
-  "geometry": {"coordinates":[-147.302085,64.726442],"type":"Point"}
+  "bbox": [
+    -147.302085,
+    64.726442,
+    -147.302085,
+    64.726442
+],
+  "geometry": {"coordinates":[-147.30208500000001,64.72644200000001],"type":"Point"}
 }

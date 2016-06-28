@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102194661",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.423945,59.675605,-151.423945,59.675605",
     "geom:latitude":59.675605,
     "geom:longitude":-151.423945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59415 E End Rd",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834363,
+        85688573,
         85633793,
         85915739,
         102081909,
-        85688573
+        85834363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102194661",
-    "wof:lastmodified":1449069829,
+    "wof:lastmodified":1466314260,
     "wof:name":"East End Mini Storage",
     "wof:parent_id":85834363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.423945,59.675605,-151.423945,59.675605],
+  "bbox": [
+    -151.423945,
+    59.675605,
+    -151.423945,
+    59.675605
+],
   "geometry": {"coordinates":[-151.423945,59.675605],"type":"Point"}
 }

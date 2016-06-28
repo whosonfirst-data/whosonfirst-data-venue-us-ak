@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102174013",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.74565,64.96588,-147.74565,64.96588",
     "geom:latitude":64.96588,
     "geom:longitude":-147.74565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1150 Molly Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102174013",
-    "wof:lastmodified":1449068138,
+    "wof:lastmodified":1466313860,
     "wof:name":"Jons Machine Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.74565,64.96588,-147.74565,64.96588],
-  "geometry": {"coordinates":[-147.74565,64.96588],"type":"Point"}
+  "bbox": [
+    -147.74565,
+    64.96588,
+    -147.74565,
+    64.96588
+],
+  "geometry": {"coordinates":[-147.74565000000001,64.96588],"type":"Point"}
 }

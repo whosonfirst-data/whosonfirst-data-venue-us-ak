@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102195737",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.780671,61.193588,-149.780671,61.193588",
     "geom:latitude":61.193588,
     "geom:longitude":-149.780671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2825 Rose St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.bonanzarealty.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806647,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85806647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102195737",
-    "wof:lastmodified":1449069363,
+    "wof:lastmodified":1466314295,
     "wof:name":"Bonanza Realty",
     "wof:parent_id":85806647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.780671,61.193588,-149.780671,61.193588],
-  "geometry": {"coordinates":[-149.780671,61.193588],"type":"Point"}
+  "bbox": [
+    -149.780671,
+    61.193588,
+    -149.780671,
+    61.193588
+],
+  "geometry": {"coordinates":[-149.78067100000001,61.193588],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102175905",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.552565,64.933065,-147.552565,64.933065",
     "geom:latitude":64.933065,
     "geom:longitude":-147.552565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"981 Gold Mine Trl",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102175905",
-    "wof:lastmodified":1449069464,
+    "wof:lastmodified":1466314032,
     "wof:name":"Remote Power Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.552565,64.933065,-147.552565,64.933065],
-  "geometry": {"coordinates":[-147.552565,64.933065],"type":"Point"}
+  "bbox": [
+    -147.552565,
+    64.933065,
+    -147.552565,
+    64.933065
+],
+  "geometry": {"coordinates":[-147.55256499999999,64.933065],"type":"Point"}
 }

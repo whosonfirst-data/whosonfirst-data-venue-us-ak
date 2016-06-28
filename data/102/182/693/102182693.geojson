@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102182693",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.625394,58.376682,-134.625394,58.376682",
     "geom:latitude":58.376682,
     "geom:longitude":-134.625394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10665 Glacier Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102182693",
-    "wof:lastmodified":1449069279,
+    "wof:lastmodified":1466314139,
     "wof:name":"Bryans Floor Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.625394,58.376682,-134.625394,58.376682],
+  "bbox": [
+    -134.625394,
+    58.376682,
+    -134.625394,
+    58.376682
+],
   "geometry": {"coordinates":[-134.625394,58.376682],"type":"Point"}
 }

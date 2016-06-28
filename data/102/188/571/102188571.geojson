@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102188571",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.563758,61.310673,-149.563758,61.310673",
     "geom:latitude":61.310673,
     "geom:longitude":-149.563758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16931 Eagle River Rd",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102188571",
-    "wof:lastmodified":1449068947,
+    "wof:lastmodified":1466313559,
     "wof:name":"Victory Covenant Ministries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.563758,61.310673,-149.563758,61.310673],
-  "geometry": {"coordinates":[-149.563758,61.310673],"type":"Point"}
+  "bbox": [
+    -149.563758,
+    61.310673,
+    -149.563758,
+    61.310673
+],
+  "geometry": {"coordinates":[-149.56375800000001,61.310673],"type":"Point"}
 }

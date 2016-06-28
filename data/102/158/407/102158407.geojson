@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102158407",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.807942,64.827389,-147.807942,64.827389",
     "geom:latitude":64.827389,
     "geom:longitude":-147.807942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 Davis Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.paratours.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856935,
+        85688573,
         85633793,
         85916609,
         102081397,
-        85688573
+        85856935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102158407",
-    "wof:lastmodified":1449069394,
+    "wof:lastmodified":1466313589,
     "wof:name":"Go North Alaska Adv Travel",
     "wof:parent_id":85856935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.807942,64.827389,-147.807942,64.827389],
+  "bbox": [
+    -147.807942,
+    64.827389,
+    -147.807942,
+    64.827389
+],
   "geometry": {"coordinates":[-147.807942,64.827389],"type":"Point"}
 }

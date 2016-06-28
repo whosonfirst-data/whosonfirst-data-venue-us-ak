@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192545",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.718069,64.822396,-147.718069,64.822396",
     "geom:latitude":64.822396,
     "geom:longitude":-147.718069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"723 27th Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102192545",
-    "wof:lastmodified":1449069503,
+    "wof:lastmodified":1466314243,
     "wof:name":"Salvation Army",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.718069,64.822396,-147.718069,64.822396],
-  "geometry": {"coordinates":[-147.718069,64.822396],"type":"Point"}
+  "bbox": [
+    -147.718069,
+    64.822396,
+    -147.718069,
+    64.822396
+],
+  "geometry": {"coordinates":[-147.71806900000001,64.822396],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102167659",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.956455,64.845898,-147.956455,64.845898",
     "geom:latitude":64.845898,
     "geom:longitude":-147.956455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2984 Parks Hwy",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102167659",
-    "wof:lastmodified":1449069001,
+    "wof:lastmodified":1466313804,
     "wof:name":"Dreamworks Cabinetry LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.956455,64.845898,-147.956455,64.845898],
-  "geometry": {"coordinates":[-147.956455,64.845898],"type":"Point"}
+  "bbox": [
+    -147.956455,
+    64.845898,
+    -147.956455,
+    64.845898
+],
+  "geometry": {"coordinates":[-147.95645500000001,64.84589800000001],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102154507",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.88062,64.868152,-147.88062,64.868152",
     "geom:latitude":64.868152,
     "geom:longitude":-147.88062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 Miller Hill Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102154507",
-    "wof:lastmodified":1449070243,
+    "wof:lastmodified":1466313551,
     "wof:name":"Lawson Security",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.88062,64.868152,-147.88062,64.868152],
-  "geometry": {"coordinates":[-147.88062,64.868152],"type":"Point"}
+  "bbox": [
+    -147.88062,
+    64.868152,
+    -147.88062,
+    64.868152
+],
+  "geometry": {"coordinates":[-147.88061999999999,64.86815199999999],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192479",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.631386,64.887579,-147.631386,64.887579",
     "geom:latitude":64.887579,
     "geom:longitude":-147.631386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"646 Rohloff St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102192479",
-    "wof:lastmodified":1449069504,
+    "wof:lastmodified":1466314242,
     "wof:name":"Arctic Couriers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.631386,64.887579,-147.631386,64.887579],
-  "geometry": {"coordinates":[-147.631386,64.887579],"type":"Point"}
+  "bbox": [
+    -147.631386,
+    64.887579,
+    -147.631386,
+    64.887579
+],
+  "geometry": {"coordinates":[-147.63138599999999,64.887579],"type":"Point"}
 }

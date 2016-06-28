@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102169479",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.229873,60.553077,-151.229873,60.553077",
     "geom:latitude":60.553077,
     "geom:longitude":-151.229873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"491 Bridge Access Rd",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102169479",
-    "wof:lastmodified":1449069247,
+    "wof:lastmodified":1466313807,
     "wof:name":"Cover-All Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.229873,60.553077,-151.229873,60.553077],
+  "bbox": [
+    -151.229873,
+    60.553077,
+    -151.229873,
+    60.553077
+],
   "geometry": {"coordinates":[-151.229873,60.553077],"type":"Point"}
 }

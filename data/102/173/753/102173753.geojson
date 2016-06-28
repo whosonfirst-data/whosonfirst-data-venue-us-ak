@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173753",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.283429,60.283213,-151.283429,60.283213",
     "geom:latitude":60.283213,
     "geom:longitude":-151.283429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52460 Clinton St",
     "sg:city":"Kasilof",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102173753",
-    "wof:lastmodified":1449068263,
+    "wof:lastmodified":1466313998,
     "wof:name":"Polar Plumbing & Heating Rpr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.283429,60.283213,-151.283429,60.283213],
-  "geometry": {"coordinates":[-151.283429,60.283213],"type":"Point"}
+  "bbox": [
+    -151.283429,
+    60.283213,
+    -151.283429,
+    60.283213
+],
+  "geometry": {"coordinates":[-151.28342900000001,60.283213],"type":"Point"}
 }

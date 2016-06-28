@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102158427",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.803473,64.812833,-147.803473,64.812833",
     "geom:latitude":64.812833,
     "geom:longitude":-147.803473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3401 Van Horn Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102158427",
-    "wof:lastmodified":1449069392,
+    "wof:lastmodified":1466313593,
     "wof:name":"Industrial Arts Learning Labs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.803473,64.812833,-147.803473,64.812833],
+  "bbox": [
+    -147.803473,
+    64.812833,
+    -147.803473,
+    64.812833
+],
   "geometry": {"coordinates":[-147.803473,64.812833],"type":"Point"}
 }

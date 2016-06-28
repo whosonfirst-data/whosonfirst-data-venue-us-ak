@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102161023",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.345249,57.813579,-152.345249,57.813579",
     "geom:latitude":57.813579,
     "geom:longitude":-152.345249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"363 Curlew Way",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102161023",
-    "wof:lastmodified":1449068713,
+    "wof:lastmodified":1466313650,
     "wof:name":"Alaska Groundfish Data Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.345249,57.813579,-152.345249,57.813579],
+  "bbox": [
+    -152.345249,
+    57.813579,
+    -152.345249,
+    57.813579
+],
   "geometry": {"coordinates":[-152.345249,57.813579],"type":"Point"}
 }

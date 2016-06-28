@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102195875",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.584086,59.660089,-151.584086,59.660089",
     "geom:latitude":59.660089,
     "geom:longitude":-151.584086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42440 Natalie Cir",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102195875",
-    "wof:lastmodified":1449069365,
+    "wof:lastmodified":1466314298,
     "wof:name":"Boone's Snowblowing & Backhoe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.584086,59.660089,-151.584086,59.660089],
-  "geometry": {"coordinates":[-151.584086,59.660089],"type":"Point"}
+  "bbox": [
+    -151.584086,
+    59.660089,
+    -151.584086,
+    59.660089
+],
+  "geometry": {"coordinates":[-151.58408600000001,59.660089],"type":"Point"}
 }

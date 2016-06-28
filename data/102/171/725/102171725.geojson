@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171725",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.751494,58.400104,-134.751494,58.400104",
     "geom:latitude":58.400104,
     "geom:longitude":-134.751494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17300 Andreanoff Dr",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869055,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85869055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102171725",
-    "wof:lastmodified":1449070222,
+    "wof:lastmodified":1466313946,
     "wof:name":"Ed's Edible Landscaping",
     "wof:parent_id":85869055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.751494,58.400104,-134.751494,58.400104],
-  "geometry": {"coordinates":[-134.751494,58.400104],"type":"Point"}
+  "bbox": [
+    -134.751494,
+    58.400104,
+    -134.751494,
+    58.400104
+],
+  "geometry": {"coordinates":[-134.75149400000001,58.400104],"type":"Point"}
 }

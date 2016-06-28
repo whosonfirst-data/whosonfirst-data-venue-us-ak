@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102165377",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.429871,64.831693,-147.429871,64.831693",
     "geom:latitude":64.831693,
     "geom:longitude":-147.429871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"790 Hickman Ave",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102165377",
-    "wof:lastmodified":1449070214,
+    "wof:lastmodified":1466313733,
     "wof:name":"Ellen Maes Assisted Living Hme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.429871,64.831693,-147.429871,64.831693],
-  "geometry": {"coordinates":[-147.429871,64.831693],"type":"Point"}
+  "bbox": [
+    -147.429871,
+    64.831693,
+    -147.429871,
+    64.831693
+],
+  "geometry": {"coordinates":[-147.42987099999999,64.831693],"type":"Point"}
 }

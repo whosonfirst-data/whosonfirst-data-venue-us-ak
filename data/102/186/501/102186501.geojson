@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102186501",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.825561,61.164787,-149.825561,61.164787",
     "geom:latitude":61.164787,
     "geom:longitude":-149.825561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6380 Newt Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809155,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85809155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102186501",
-    "wof:lastmodified":1449069655,
+    "wof:lastmodified":1466314215,
     "wof:name":"G I Professional Homecare",
     "wof:parent_id":85809155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.825561,61.164787,-149.825561,61.164787],
-  "geometry": {"coordinates":[-149.825561,61.164787],"type":"Point"}
+  "bbox": [
+    -149.825561,
+    61.164787,
+    -149.825561,
+    61.164787
+],
+  "geometry": {"coordinates":[-149.82556099999999,61.164787],"type":"Point"}
 }

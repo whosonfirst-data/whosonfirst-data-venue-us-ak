@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166511",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.646227,58.387121,-134.646227,58.387121",
     "geom:latitude":58.387121,
     "geom:longitude":-134.646227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11745 Glacier Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102166511",
-    "wof:lastmodified":1449069086,
+    "wof:lastmodified":1466313767,
     "wof:name":"De Harts Marina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.646227,58.387121,-134.646227,58.387121],
-  "geometry": {"coordinates":[-134.646227,58.387121],"type":"Point"}
+  "bbox": [
+    -134.646227,
+    58.387121,
+    -134.646227,
+    58.387121
+],
+  "geometry": {"coordinates":[-134.64622700000001,58.387121],"type":"Point"}
 }

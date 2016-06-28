@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178519",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.492275,58.354949,-134.492275,58.354949",
     "geom:latitude":58.354949,
     "geom:longitude":-134.492275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5447 Glacier Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830251,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85830251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102178519",
-    "wof:lastmodified":1449069535,
+    "wof:lastmodified":1466313977,
     "wof:name":"Ivory Jack's Trading Co",
     "wof:parent_id":85830251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.492275,58.354949,-134.492275,58.354949],
-  "geometry": {"coordinates":[-134.492275,58.354949],"type":"Point"}
+  "bbox": [
+    -134.492275,
+    58.354949,
+    -134.492275,
+    58.354949
+],
+  "geometry": {"coordinates":[-134.49227500000001,58.354949],"type":"Point"}
 }

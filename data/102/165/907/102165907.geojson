@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102165907",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.897492,61.214716,-149.897492,61.214716",
     "geom:latitude":61.214716,
     "geom:longitude":-149.897492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 H St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.coastalvillages.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873721,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102165907",
-    "wof:lastmodified":1449070217,
+    "wof:lastmodified":1466313840,
     "wof:name":"Coastal Villages Region Fund",
     "wof:parent_id":85873721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.897492,61.214716,-149.897492,61.214716],
+  "bbox": [
+    -149.897492,
+    61.214716,
+    -149.897492,
+    61.214716
+],
   "geometry": {"coordinates":[-149.897492,61.214716],"type":"Point"}
 }

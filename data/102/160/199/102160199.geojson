@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102160199",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.648769,55.342864,-131.648769,55.342864",
     "geom:latitude":55.342864,
     "geom:longitude":-131.648769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"445 Front St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102160199",
-    "wof:lastmodified":1449069774,
+    "wof:lastmodified":1466313634,
     "wof:name":"Rotecki Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.648769,55.342864,-131.648769,55.342864],
-  "geometry": {"coordinates":[-131.648769,55.342864],"type":"Point"}
+  "bbox": [
+    -131.648769,
+    55.342864,
+    -131.648769,
+    55.342864
+],
+  "geometry": {"coordinates":[-131.64876899999999,55.342864],"type":"Point"}
 }

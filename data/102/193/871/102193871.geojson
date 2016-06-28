@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102193871",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.822159,61.157882,-149.822159,61.157882",
     "geom:latitude":61.157882,
     "geom:longitude":-149.822159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3210 Racquet Cir",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.mcwhorters.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809155,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85809155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102193871",
-    "wof:lastmodified":1449068193,
+    "wof:lastmodified":1466314280,
     "wof:name":"Airtech",
     "wof:parent_id":85809155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.822159,61.157882,-149.822159,61.157882],
+  "bbox": [
+    -149.822159,
+    61.157882,
+    -149.822159,
+    61.157882
+],
   "geometry": {"coordinates":[-149.822159,61.157882],"type":"Point"}
 }

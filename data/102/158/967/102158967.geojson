@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102158967",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.116438,61.603213,-149.116438,61.603213",
     "geom:latitude":61.603213,
     "geom:longitude":-149.116438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 S Bailey St",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102158967",
-    "wof:lastmodified":1449069394,
+    "wof:lastmodified":1466313703,
     "wof:name":"Starting Point",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.116438,61.603213,-149.116438,61.603213],
-  "geometry": {"coordinates":[-149.116438,61.603213],"type":"Point"}
+  "bbox": [
+    -149.116438,
+    61.603213,
+    -149.116438,
+    61.603213
+],
+  "geometry": {"coordinates":[-149.11643799999999,61.603213],"type":"Point"}
 }

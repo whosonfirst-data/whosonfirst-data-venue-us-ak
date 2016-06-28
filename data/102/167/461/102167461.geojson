@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102167461",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.942816,61.190716,-149.942816,61.190716",
     "geom:latitude":61.190716,
     "geom:longitude":-149.942816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2804 W 33rd Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850461,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85850461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102167461",
-    "wof:lastmodified":1449069001,
+    "wof:lastmodified":1466313764,
     "wof:name":"Son Services",
     "wof:parent_id":85850461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.942816,61.190716,-149.942816,61.190716],
-  "geometry": {"coordinates":[-149.942816,61.190716],"type":"Point"}
+  "bbox": [
+    -149.942816,
+    61.190716,
+    -149.942816,
+    61.190716
+],
+  "geometry": {"coordinates":[-149.94281599999999,61.190716],"type":"Point"}
 }

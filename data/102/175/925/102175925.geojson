@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102175925",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.826096,64.834977,-147.826096,64.834977",
     "geom:latitude":64.834977,
     "geom:longitude":-147.826096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4625 Old Airport Way",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856935,
+        85688573,
         85633793,
         85916609,
         102081397,
-        85688573
+        85856935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102175925",
-    "wof:lastmodified":1449069464,
+    "wof:lastmodified":1466314036,
     "wof:name":"Showboat II",
     "wof:parent_id":85856935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.826096,64.834977,-147.826096,64.834977],
-  "geometry": {"coordinates":[-147.826096,64.834977],"type":"Point"}
+  "bbox": [
+    -147.826096,
+    64.834977,
+    -147.826096,
+    64.834977
+],
+  "geometry": {"coordinates":[-147.82609600000001,64.83497699999999],"type":"Point"}
 }

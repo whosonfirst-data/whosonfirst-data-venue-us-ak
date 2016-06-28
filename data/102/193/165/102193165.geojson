@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102193165",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.553131,59.641963,-151.553131,59.641963",
     "geom:latitude":59.641963,
     "geom:longitude":-151.553131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"455 Sterling Hwy",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102193165",
-    "wof:lastmodified":1449068194,
+    "wof:lastmodified":1466314269,
     "wof:name":"Ocean View Rv Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.553131,59.641963,-151.553131,59.641963],
-  "geometry": {"coordinates":[-151.553131,59.641963],"type":"Point"}
+  "bbox": [
+    -151.553131,
+    59.641963,
+    -151.553131,
+    59.641963
+],
+  "geometry": {"coordinates":[-151.55313100000001,59.641963],"type":"Point"}
 }

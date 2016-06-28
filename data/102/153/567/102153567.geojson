@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153567",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.492132,59.64372,-151.492132,59.64372",
     "geom:latitude":59.64372,
     "geom:longitude":-151.492132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3520 F A A Rd",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102153567",
-    "wof:lastmodified":1449069463,
+    "wof:lastmodified":1466313567,
     "wof:name":"Maritime Helicopters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.492132,59.64372,-151.492132,59.64372],
+  "bbox": [
+    -151.492132,
+    59.64372,
+    -151.492132,
+    59.64372
+],
   "geometry": {"coordinates":[-151.492132,59.64372],"type":"Point"}
 }

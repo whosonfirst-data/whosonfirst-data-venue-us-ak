@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102195109",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.781115,61.201405,-149.781115,61.201405",
     "geom:latitude":61.201405,
     "geom:longitude":-149.781115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2111 Farmer Pl",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806647,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85806647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102195109",
-    "wof:lastmodified":1449069363,
+    "wof:lastmodified":1466314285,
     "wof:name":"State Leasing & Equipment Inc",
     "wof:parent_id":85806647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.781115,61.201405,-149.781115,61.201405],
+  "bbox": [
+    -149.781115,
+    61.201405,
+    -149.781115,
+    61.201405
+],
   "geometry": {"coordinates":[-149.781115,61.201405],"type":"Point"}
 }

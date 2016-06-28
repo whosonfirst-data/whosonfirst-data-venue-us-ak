@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173681",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.667259,55.34821,-131.667259,55.34821",
     "geom:latitude":55.34821,
     "geom:longitude":-131.667259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1828 Tongass Ave",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102173681",
-    "wof:lastmodified":1449068266,
+    "wof:lastmodified":1466313984,
     "wof:name":"His & Hairz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.667259,55.34821,-131.667259,55.34821],
+  "bbox": [
+    -131.667259,
+    55.34821,
+    -131.667259,
+    55.34821
+],
   "geometry": {"coordinates":[-131.667259,55.34821],"type":"Point"}
 }

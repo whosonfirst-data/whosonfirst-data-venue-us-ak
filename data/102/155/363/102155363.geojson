@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155363",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.957381,56.812487,-132.957381,56.812487",
     "geom:latitude":56.812487,
     "geom:longitude":-132.957381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Nordic Dr",
     "sg:city":"Petersburg",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102155363",
-    "wof:lastmodified":1449069745,
+    "wof:lastmodified":1466313522,
     "wof:name":"Lee's Clothing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.957381,56.812487,-132.957381,56.812487],
+  "bbox": [
+    -132.957381,
+    56.812487,
+    -132.957381,
+    56.812487
+],
   "geometry": {"coordinates":[-132.957381,56.812487],"type":"Point"}
 }

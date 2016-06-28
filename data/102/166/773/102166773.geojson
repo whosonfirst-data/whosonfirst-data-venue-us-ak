@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166773",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.204905,60.747851,-151.204905,60.747851",
     "geom:latitude":60.747851,
     "geom:longitude":-151.204905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51804 Kenai Spur Hwy",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102166773",
-    "wof:lastmodified":1449069083,
+    "wof:lastmodified":1466313820,
     "wof:name":"Nikiski Hair Nails & Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.204905,60.747851,-151.204905,60.747851],
+  "bbox": [
+    -151.204905,
+    60.747851,
+    -151.204905,
+    60.747851
+],
   "geometry": {"coordinates":[-151.204905,60.747851],"type":"Point"}
 }

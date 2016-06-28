@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102188851",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.654586,55.345658,-131.654586,55.345658",
     "geom:latitude":55.345658,
     "geom:longitude":-131.654586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1280 Schoenbar Rd",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102188851",
-    "wof:lastmodified":1449068946,
+    "wof:lastmodified":1466313617,
     "wof:name":"Southeast Engineering Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.654586,55.345658,-131.654586,55.345658],
-  "geometry": {"coordinates":[-131.654586,55.345658],"type":"Point"}
+  "bbox": [
+    -131.654586,
+    55.345658,
+    -131.654586,
+    55.345658
+],
+  "geometry": {"coordinates":[-131.65458599999999,55.345658],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184773",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.534599,61.343291,-149.534599,61.343291",
     "geom:latitude":61.343291,
     "geom:longitude":-149.534599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13616 Savage Dr",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102184773",
-    "wof:lastmodified":1449068216,
+    "wof:lastmodified":1466314166,
     "wof:name":"Medical Education Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.534599,61.343291,-149.534599,61.343291],
-  "geometry": {"coordinates":[-149.534599,61.343291],"type":"Point"}
+  "bbox": [
+    -149.534599,
+    61.343291,
+    -149.534599,
+    61.343291
+],
+  "geometry": {"coordinates":[-149.53459899999999,61.343291],"type":"Point"}
 }

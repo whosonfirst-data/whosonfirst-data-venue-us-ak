@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172835",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.549407,59.64683,-151.549407,59.64683",
     "geom:latitude":59.64683,
     "geom:longitude":-151.549407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3953 Bartlett St",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102172835",
-    "wof:lastmodified":1449068734,
+    "wof:lastmodified":1466314012,
     "wof:name":"Independent Living Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.549407,59.64683,-151.549407,59.64683],
+  "bbox": [
+    -151.549407,
+    59.64683,
+    -151.549407,
+    59.64683
+],
   "geometry": {"coordinates":[-151.549407,59.64683],"type":"Point"}
 }

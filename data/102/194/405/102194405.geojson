@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102194405",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.441558,61.58264,-149.441558,61.58264",
     "geom:latitude":61.58264,
     "geom:longitude":-149.441558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"344 Main St",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102194405",
-    "wof:lastmodified":1449069829,
+    "wof:lastmodified":1466314256,
     "wof:name":"Classic Haircuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.441558,61.58264,-149.441558,61.58264],
-  "geometry": {"coordinates":[-149.441558,61.58264],"type":"Point"}
+  "bbox": [
+    -149.441558,
+    61.58264,
+    -149.441558,
+    61.58264
+],
+  "geometry": {"coordinates":[-149.44155799999999,61.58264],"type":"Point"}
 }

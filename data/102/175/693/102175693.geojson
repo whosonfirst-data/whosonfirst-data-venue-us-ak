@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102175693",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.375836,57.796558,-152.375836,57.796558",
     "geom:latitude":57.796558,
     "geom:longitude":-152.375836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1723 Mission Rd",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102175693",
-    "wof:lastmodified":1449069464,
+    "wof:lastmodified":1466313992,
     "wof:name":"A-Wintel's Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.375836,57.796558,-152.375836,57.796558],
-  "geometry": {"coordinates":[-152.375836,57.796558],"type":"Point"}
+  "bbox": [
+    -152.375836,
+    57.796558,
+    -152.375836,
+    57.796558
+],
+  "geometry": {"coordinates":[-152.37583599999999,57.796558],"type":"Point"}
 }

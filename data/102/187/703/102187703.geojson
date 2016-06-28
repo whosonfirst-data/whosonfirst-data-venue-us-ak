@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187703",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-139.731847,59.54368,-139.731847,59.54368",
     "geom:latitude":59.54368,
     "geom:longitude":-139.731847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"716 Ocean Cape Rd",
     "sg:city":"Yakutat",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102187703",
-    "wof:lastmodified":1449068157,
+    "wof:lastmodified":1466314173,
     "wof:name":"Yakutat Tlingit Tribe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-139.731847,59.54368,-139.731847,59.54368],
-  "geometry": {"coordinates":[-139.731847,59.54368],"type":"Point"}
+  "bbox": [
+    -139.731847,
+    59.54368,
+    -139.731847,
+    59.54368
+],
+  "geometry": {"coordinates":[-139.73184699999999,59.54368],"type":"Point"}
 }

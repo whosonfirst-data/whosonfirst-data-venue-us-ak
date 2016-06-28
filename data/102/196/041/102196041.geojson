@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102196041",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.47307,61.617254,-149.47307,61.617254",
     "geom:latitude":61.617254,
     "geom:longitude":-149.47307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Lanark Dr",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102196041",
-    "wof:lastmodified":1449068337,
+    "wof:lastmodified":1466314300,
     "wof:name":"Geppettos Woodworking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.47307,61.617254,-149.47307,61.617254],
-  "geometry": {"coordinates":[-149.47307,61.617254],"type":"Point"}
+  "bbox": [
+    -149.47307,
+    61.617254,
+    -149.47307,
+    61.617254
+],
+  "geometry": {"coordinates":[-149.47307000000001,61.617254],"type":"Point"}
 }

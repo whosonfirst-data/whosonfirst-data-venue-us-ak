@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185889",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.95488,56.815329,-132.95488,56.815329",
     "geom:latitude":56.815329,
     "geom:longitude":-132.95488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 2nd St",
     "sg:city":"Petersburg",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102185889",
-    "wof:lastmodified":1449068194,
+    "wof:lastmodified":1466314230,
     "wof:name":"KFSK",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.95488,56.815329,-132.95488,56.815329],
+  "bbox": [
+    -132.95488,
+    56.815329,
+    -132.95488,
+    56.815329
+],
   "geometry": {"coordinates":[-132.95488,56.815329],"type":"Point"}
 }

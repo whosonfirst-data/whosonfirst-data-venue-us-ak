@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155403",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.677095,55.35038,-131.677095,55.35038",
     "geom:latitude":55.35038,
     "geom:longitude":-131.677095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Madison St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102155403",
-    "wof:lastmodified":1449069745,
+    "wof:lastmodified":1466313531,
     "wof:name":"Classic Stop Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.677095,55.35038,-131.677095,55.35038],
-  "geometry": {"coordinates":[-131.677095,55.35038],"type":"Point"}
+  "bbox": [
+    -131.677095,
+    55.35038,
+    -131.677095,
+    55.35038
+],
+  "geometry": {"coordinates":[-131.67709500000001,55.35038],"type":"Point"}
 }

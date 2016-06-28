@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102165989",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.913804,61.178762,-149.913804,61.178762",
     "geom:latitude":61.178762,
     "geom:longitude":-149.913804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4412 Lois Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850461,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85850461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102165989",
-    "wof:lastmodified":1449070218,
+    "wof:lastmodified":1466313856,
     "wof:name":"SBS Professional Paint Store",
     "wof:parent_id":85850461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.913804,61.178762,-149.913804,61.178762],
+  "bbox": [
+    -149.913804,
+    61.178762,
+    -149.913804,
+    61.178762
+],
   "geometry": {"coordinates":[-149.913804,61.178762],"type":"Point"}
 }

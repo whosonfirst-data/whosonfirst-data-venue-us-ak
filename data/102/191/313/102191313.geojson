@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191313",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.391984,57.103092,-135.391984,57.103092",
     "geom:latitude":57.103092,
     "geom:longitude":-135.391984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Granite Creek Rd",
     "sg:city":"Sitka",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102191313",
-    "wof:lastmodified":1449069196,
+    "wof:lastmodified":1466314084,
     "wof:name":"S & S General Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.391984,57.103092,-135.391984,57.103092],
-  "geometry": {"coordinates":[-135.391984,57.103092],"type":"Point"}
+  "bbox": [
+    -135.391984,
+    57.103092,
+    -135.391984,
+    57.103092
+],
+  "geometry": {"coordinates":[-135.39198400000001,57.103092],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102174675",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.835131,64.898562,-147.835131,64.898562",
     "geom:latitude":64.898562,
     "geom:longitude":-147.835131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"872 Goldfinch Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102174675",
-    "wof:lastmodified":1449068139,
+    "wof:lastmodified":1466313989,
     "wof:name":"Alaska Radio Control Spec",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.835131,64.898562,-147.835131,64.898562],
-  "geometry": {"coordinates":[-147.835131,64.898562],"type":"Point"}
+  "bbox": [
+    -147.835131,
+    64.898562,
+    -147.835131,
+    64.898562
+],
+  "geometry": {"coordinates":[-147.83513099999999,64.898562],"type":"Point"}
 }

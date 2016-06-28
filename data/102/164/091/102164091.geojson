@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102164091",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-146.904554,64.543873,-146.904554,64.543873",
     "geom:latitude":64.543873,
     "geom:longitude":-146.904554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7150 Johnson Rd",
     "sg:city":"Salcha",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102164091",
-    "wof:lastmodified":1449068085,
+    "wof:lastmodified":1466313676,
     "wof:name":"Dust Of The Earth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-146.904554,64.543873,-146.904554,64.543873],
-  "geometry": {"coordinates":[-146.904554,64.543873],"type":"Point"}
+  "bbox": [
+    -146.904554,
+    64.543873,
+    -146.904554,
+    64.543873
+],
+  "geometry": {"coordinates":[-146.90455399999999,64.543873],"type":"Point"}
 }

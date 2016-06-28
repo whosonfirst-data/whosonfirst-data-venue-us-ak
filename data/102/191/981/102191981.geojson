@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191981",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.875712,61.149044,-149.875712,61.149044",
     "geom:latitude":61.149044,
     "geom:longitude":-149.875712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7730 Schoon St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809155,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85809155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102191981",
-    "wof:lastmodified":1449069204,
+    "wof:lastmodified":1466314170,
     "wof:name":"Robinson Millwork",
     "wof:parent_id":85809155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.875712,61.149044,-149.875712,61.149044],
-  "geometry": {"coordinates":[-149.875712,61.149044],"type":"Point"}
+  "bbox": [
+    -149.875712,
+    61.149044,
+    -149.875712,
+    61.149044
+],
+  "geometry": {"coordinates":[-149.87571199999999,61.149044],"type":"Point"}
 }

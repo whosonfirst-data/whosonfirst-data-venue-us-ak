@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102154079",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.331096,64.78815,-147.331096,64.78815",
     "geom:latitude":64.78815,
     "geom:longitude":-147.331096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2671 Pool St",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102154079",
-    "wof:lastmodified":1449070246,
+    "wof:lastmodified":1466313474,
     "wof:name":"A-1 Carpet Cleaning & Flood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.331096,64.78815,-147.331096,64.78815],
+  "bbox": [
+    -147.331096,
+    64.78815,
+    -147.331096,
+    64.78815
+],
   "geometry": {"coordinates":[-147.331096,64.78815],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185471",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.112329,61.601398,-149.112329,61.601398",
     "geom:latitude":61.601398,
     "geom:longitude":-149.112329,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"585 S Valley Way",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102185471",
-    "wof:lastmodified":1449068196,
+    "wof:lastmodified":1466314133,
     "wof:name":"Silver Tip Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.112329,61.601398,-149.112329,61.601398],
-  "geometry": {"coordinates":[-149.112329,61.601398],"type":"Point"}
+  "bbox": [
+    -149.112329,
+    61.601398,
+    -149.112329,
+    61.601398
+],
+  "geometry": {"coordinates":[-149.11232899999999,61.601398],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102190721",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.545021,59.639681,-151.545021,59.639681",
     "geom:latitude":59.639681,
     "geom:longitude":-151.545021,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 W Bunnell Ave",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102190721",
-    "wof:lastmodified":1449070037,
+    "wof:lastmodified":1466313990,
     "wof:name":"Driftwood Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.545021,59.639681,-151.545021,59.639681],
-  "geometry": {"coordinates":[-151.545021,59.639681],"type":"Point"}
+  "bbox": [
+    -151.545021,
+    59.639681,
+    -151.545021,
+    59.639681
+],
+  "geometry": {"coordinates":[-151.54502099999999,59.639681],"type":"Point"}
 }

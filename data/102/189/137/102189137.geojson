@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102189137",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.864113,61.148161,-149.864113,61.148161",
     "geom:latitude":61.148161,
     "geom:longitude":-149.864113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8010 Old Seward Hwy",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809155,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85809155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102189137",
-    "wof:lastmodified":1449069499,
+    "wof:lastmodified":1466313674,
     "wof:name":"Burger Jim's",
     "wof:parent_id":85809155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.864113,61.148161,-149.864113,61.148161],
+  "bbox": [
+    -149.864113,
+    61.148161,
+    -149.864113,
+    61.148161
+],
   "geometry": {"coordinates":[-149.864113,61.148161],"type":"Point"}
 }

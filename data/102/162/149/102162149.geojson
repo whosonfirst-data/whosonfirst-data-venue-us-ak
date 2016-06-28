@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102162149",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.552363,59.643122,-151.552363,59.643122",
     "geom:latitude":59.643122,
     "geom:longitude":-151.552363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Woodside Ave",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102162149",
-    "wof:lastmodified":1449069821,
+    "wof:lastmodified":1466313677,
     "wof:name":"Alaska Woodside Lodging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.552363,59.643122,-151.552363,59.643122],
-  "geometry": {"coordinates":[-151.552363,59.643122],"type":"Point"}
+  "bbox": [
+    -151.552363,
+    59.643122,
+    -151.552363,
+    59.643122
+],
+  "geometry": {"coordinates":[-151.55236300000001,59.643122],"type":"Point"}
 }

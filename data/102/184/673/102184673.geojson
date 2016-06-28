@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184673",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-146.909562,64.545126,-146.909562,64.545126",
     "geom:latitude":64.545126,
     "geom:longitude":-146.909562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7100 Johnson Rd",
     "sg:city":"Salcha",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102184673",
-    "wof:lastmodified":1449068216,
+    "wof:lastmodified":1466314154,
     "wof:name":"Trail King Adventures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-146.909562,64.545126,-146.909562,64.545126],
-  "geometry": {"coordinates":[-146.909562,64.545126],"type":"Point"}
+  "bbox": [
+    -146.909562,
+    64.545126,
+    -146.909562,
+    64.545126
+],
+  "geometry": {"coordinates":[-146.90956199999999,64.545126],"type":"Point"}
 }

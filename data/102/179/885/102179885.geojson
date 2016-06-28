@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102179885",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.680859,55.351217,-131.680859,55.351217",
     "geom:latitude":55.351217,
     "geom:longitude":-131.680859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2837 Tongass Ave",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102179885",
-    "wof:lastmodified":1449069942,
+    "wof:lastmodified":1466314048,
     "wof:name":"Phoenix Logging Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.680859,55.351217,-131.680859,55.351217],
+  "bbox": [
+    -131.680859,
+    55.351217,
+    -131.680859,
+    55.351217
+],
   "geometry": {"coordinates":[-131.680859,55.351217],"type":"Point"}
 }

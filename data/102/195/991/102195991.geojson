@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102195991",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.405693,58.30058,-134.405693,58.30058",
     "geom:latitude":58.30058,
     "geom:longitude":-134.405693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 N Franklin St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102195991",
-    "wof:lastmodified":1449069364,
+    "wof:lastmodified":1466314300,
     "wof:name":"Juneau Taxi",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.405693,58.30058,-134.405693,58.30058],
-  "geometry": {"coordinates":[-134.405693,58.30058],"type":"Point"}
+  "bbox": [
+    -134.405693,
+    58.30058,
+    -134.405693,
+    58.30058
+],
+  "geometry": {"coordinates":[-134.40569300000001,58.30058],"type":"Point"}
 }

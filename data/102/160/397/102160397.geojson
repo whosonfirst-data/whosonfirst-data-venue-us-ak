@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102160397",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.081416,61.568113,-149.081416,61.568113",
     "geom:latitude":61.568113,
     "geom:longitude":-149.081416,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14801 Depriest Ave",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102160397",
-    "wof:lastmodified":1449069777,
+    "wof:lastmodified":1466313671,
     "wof:name":"Robert M Thaggard CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.081416,61.568113,-149.081416,61.568113],
-  "geometry": {"coordinates":[-149.081416,61.568113],"type":"Point"}
+  "bbox": [
+    -149.081416,
+    61.568113,
+    -149.081416,
+    61.568113
+],
+  "geometry": {"coordinates":[-149.08141599999999,61.568113],"type":"Point"}
 }

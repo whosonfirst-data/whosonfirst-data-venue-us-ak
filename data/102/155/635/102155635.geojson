@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155635",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.490699,58.327917,-134.490699,58.327917",
     "geom:latitude":58.327917,
     "geom:longitude":-134.490699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6550 N Douglas Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853509,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85853509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102155635",
-    "wof:lastmodified":1449069744,
+    "wof:lastmodified":1466313578,
     "wof:name":"Fuel Id",
     "wof:parent_id":85853509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.490699,58.327917,-134.490699,58.327917],
-  "geometry": {"coordinates":[-134.490699,58.327917],"type":"Point"}
+  "bbox": [
+    -134.490699,
+    58.327917,
+    -134.490699,
+    58.327917
+],
+  "geometry": {"coordinates":[-134.49069900000001,58.327917],"type":"Point"}
 }

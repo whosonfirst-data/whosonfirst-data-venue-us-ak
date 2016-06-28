@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102151771",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.859279,64.840297,-147.859279,64.840297",
     "geom:latitude":64.840297,
     "geom:longitude":-147.859279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Steelhead Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102151771",
-    "wof:lastmodified":1449067781,
+    "wof:lastmodified":1466313543,
     "wof:name":"Pds Construction  Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.859279,64.840297,-147.859279,64.840297],
-  "geometry": {"coordinates":[-147.859279,64.840297],"type":"Point"}
+  "bbox": [
+    -147.859279,
+    64.840297,
+    -147.859279,
+    64.840297
+],
+  "geometry": {"coordinates":[-147.85927899999999,64.84029700000001],"type":"Point"}
 }

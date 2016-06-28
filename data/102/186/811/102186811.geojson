@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102186811",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.905703,61.21702,-149.905703,61.21702",
     "geom:latitude":61.21702,
     "geom:longitude":-149.905703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"545 M St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873721,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102186811",
-    "wof:lastmodified":1449069654,
+    "wof:lastmodified":1466314232,
     "wof:name":"Sleeping Lady Bed & Breakfast",
     "wof:parent_id":85873721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.905703,61.21702,-149.905703,61.21702],
-  "geometry": {"coordinates":[-149.905703,61.21702],"type":"Point"}
+  "bbox": [
+    -149.905703,
+    61.21702,
+    -149.905703,
+    61.21702
+],
+  "geometry": {"coordinates":[-149.90570299999999,61.21702],"type":"Point"}
 }

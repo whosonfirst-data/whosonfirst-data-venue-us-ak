@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176539",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.553098,59.641954,-151.553098,59.641954",
     "geom:latitude":59.641954,
     "geom:longitude":-151.553098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"451 Sterling Hwy",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102176539",
-    "wof:lastmodified":1449069348,
+    "wof:lastmodified":1466313976,
     "wof:name":"Ocean Shores Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.553098,59.641954,-151.553098,59.641954],
-  "geometry": {"coordinates":[-151.553098,59.641954],"type":"Point"}
+  "bbox": [
+    -151.553098,
+    59.641954,
+    -151.553098,
+    59.641954
+],
+  "geometry": {"coordinates":[-151.55309800000001,59.641954],"type":"Point"}
 }

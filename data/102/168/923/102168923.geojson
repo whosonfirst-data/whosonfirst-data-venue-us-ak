@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102168923",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.870025,64.918635,-147.870025,64.918635",
     "geom:latitude":64.918635,
     "geom:longitude":-147.870025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2255 Solstice Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102168923",
-    "wof:lastmodified":1449069008,
+    "wof:lastmodified":1466313856,
     "wof:name":"E Scape Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.870025,64.918635,-147.870025,64.918635],
-  "geometry": {"coordinates":[-147.870025,64.918635],"type":"Point"}
+  "bbox": [
+    -147.870025,
+    64.918635,
+    -147.870025,
+    64.918635
+],
+  "geometry": {"coordinates":[-147.870025,64.91863499999999],"type":"Point"}
 }

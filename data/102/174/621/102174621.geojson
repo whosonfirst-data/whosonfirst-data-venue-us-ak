@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102174621",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-148.686478,60.772716,-148.686478,60.772716",
     "geom:latitude":60.772716,
     "geom:longitude":-148.686478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Kenai St",
     "sg:city":"Whittier",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102174621",
-    "wof:lastmodified":1449068141,
+    "wof:lastmodified":1466313978,
     "wof:name":"Whittier Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-148.686478,60.772716,-148.686478,60.772716],
-  "geometry": {"coordinates":[-148.686478,60.772716],"type":"Point"}
+  "bbox": [
+    -148.686478,
+    60.772716,
+    -148.686478,
+    60.772716
+],
+  "geometry": {"coordinates":[-148.68647799999999,60.772716],"type":"Point"}
 }

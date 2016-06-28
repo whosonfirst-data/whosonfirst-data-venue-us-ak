@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102170121",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.73099,61.069561,-149.73099,61.069561",
     "geom:latitude":61.069561,
     "geom:longitude":-149.73099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16729 Marvin Cir",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873741,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102170121",
-    "wof:lastmodified":1449068019,
+    "wof:lastmodified":1466313753,
     "wof:name":"Superior Plastering & Cement",
     "wof:parent_id":85873741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.73099,61.069561,-149.73099,61.069561],
-  "geometry": {"coordinates":[-149.73099,61.069561],"type":"Point"}
+  "bbox": [
+    -149.73099,
+    61.069561,
+    -149.73099,
+    61.069561
+],
+  "geometry": {"coordinates":[-149.73098999999999,61.069561],"type":"Point"}
 }

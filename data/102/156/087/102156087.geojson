@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102156087",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-145.766219,60.542516,-145.766219,60.542516",
     "geom:latitude":60.542516,
     "geom:longitude":-145.766219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Nicholoff Way",
     "sg:city":"Cordova",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102156087",
-    "wof:lastmodified":1449068282,
+    "wof:lastmodified":1466313482,
     "wof:name":"Anchor Auto Marine Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-145.766219,60.542516,-145.766219,60.542516],
-  "geometry": {"coordinates":[-145.766219,60.542516],"type":"Point"}
+  "bbox": [
+    -145.766219,
+    60.542516,
+    -145.766219,
+    60.542516
+],
+  "geometry": {"coordinates":[-145.76621900000001,60.542516],"type":"Point"}
 }

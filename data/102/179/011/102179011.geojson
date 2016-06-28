@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102179011",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.711273,64.830745,-147.711273,64.830745",
     "geom:latitude":64.830745,
     "geom:longitude":-147.711273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 18th Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102179011",
-    "wof:lastmodified":1449069943,
+    "wof:lastmodified":1466313874,
     "wof:name":"Alaska 4 Wheel Drive Spec",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.711273,64.830745,-147.711273,64.830745],
-  "geometry": {"coordinates":[-147.711273,64.830745],"type":"Point"}
+  "bbox": [
+    -147.711273,
+    64.830745,
+    -147.711273,
+    64.830745
+],
+  "geometry": {"coordinates":[-147.71127300000001,64.83074499999999],"type":"Point"}
 }

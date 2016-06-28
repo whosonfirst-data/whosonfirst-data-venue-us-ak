@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102179271",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.376286,56.471149,-132.376286,56.471149",
     "geom:latitude":56.471149,
     "geom:longitude":-132.376286,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"633 Reid St",
     "sg:city":"Wrangell",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102179271",
-    "wof:lastmodified":1449069941,
+    "wof:lastmodified":1466313928,
     "wof:name":"Maxand Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.376286,56.471149,-132.376286,56.471149],
-  "geometry": {"coordinates":[-132.376286,56.471149],"type":"Point"}
+  "bbox": [
+    -132.376286,
+    56.471149,
+    -132.376286,
+    56.471149
+],
+  "geometry": {"coordinates":[-132.37628599999999,56.471149],"type":"Point"}
 }

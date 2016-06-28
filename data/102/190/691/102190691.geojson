@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102190691",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.919385,61.177236,-149.919385,61.177236",
     "geom:latitude":61.177236,
     "geom:longitude":-149.919385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 W 48th Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.akvineyard.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850461,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85850461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102190691",
-    "wof:lastmodified":1449070035,
+    "wof:lastmodified":1466313986,
     "wof:name":"Vineyard Christian Fellowship",
     "wof:parent_id":85850461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.919385,61.177236,-149.919385,61.177236],
-  "geometry": {"coordinates":[-149.919385,61.177236],"type":"Point"}
+  "bbox": [
+    -149.919385,
+    61.177236,
+    -149.919385,
+    61.177236
+],
+  "geometry": {"coordinates":[-149.91938500000001,61.177236],"type":"Point"}
 }

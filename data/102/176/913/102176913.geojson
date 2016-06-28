@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176913",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.275732,60.501278,-151.275732,60.501278",
     "geom:latitude":60.501278,
     "geom:longitude":-151.275732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38566 Kalifornsky Beach Rd",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102176913",
-    "wof:lastmodified":1449069346,
+    "wof:lastmodified":1466314045,
     "wof:name":"Atec",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.275732,60.501278,-151.275732,60.501278],
+  "bbox": [
+    -151.275732,
+    60.501278,
+    -151.275732,
+    60.501278
+],
   "geometry": {"coordinates":[-151.275732,60.501278],"type":"Point"}
 }

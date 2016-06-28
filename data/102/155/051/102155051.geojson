@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155051",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.251419,60.557806,-151.251419,60.557806",
     "geom:latitude":60.557806,
     "geom:longitude":-151.251419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 S Willow St",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102155051",
-    "wof:lastmodified":1449069743,
+    "wof:lastmodified":1466313470,
     "wof:name":"New Peking Chinese Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.251419,60.557806,-151.251419,60.557806],
+  "bbox": [
+    -151.251419,
+    60.557806,
+    -151.251419,
+    60.557806
+],
   "geometry": {"coordinates":[-151.251419,60.557806],"type":"Point"}
 }

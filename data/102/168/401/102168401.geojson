@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102168401",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.262833,60.551272,-151.262833,60.551272",
     "geom:latitude":60.551272,
     "geom:longitude":-151.262833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"929 Mission Ave",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102168401",
-    "wof:lastmodified":1449069009,
+    "wof:lastmodified":1466313751,
     "wof:name":"Beluga Lookout RV Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.262833,60.551272,-151.262833,60.551272],
+  "bbox": [
+    -151.262833,
+    60.551272,
+    -151.262833,
+    60.551272
+],
   "geometry": {"coordinates":[-151.262833,60.551272],"type":"Point"}
 }

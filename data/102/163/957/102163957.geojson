@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102163957",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.59061,58.366459,-134.59061,58.366459",
     "geom:latitude":58.366459,
     "geom:longitude":-134.59061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9342 Glacier Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833767,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85833767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102163957",
-    "wof:lastmodified":1449070164,
+    "wof:lastmodified":1466313843,
     "wof:name":"Vito & Nick's Pizzaria",
     "wof:parent_id":85833767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.59061,58.366459,-134.59061,58.366459],
+  "bbox": [
+    -134.59061,
+    58.366459,
+    -134.59061,
+    58.366459
+],
   "geometry": {"coordinates":[-134.59061,58.366459],"type":"Point"}
 }

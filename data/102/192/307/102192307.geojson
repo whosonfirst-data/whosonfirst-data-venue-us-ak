@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192307",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.467885,61.588361,-149.467885,61.588361",
     "geom:latitude":61.588361,
     "geom:longitude":-149.467885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"640 Holiday Dr",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102192307",
-    "wof:lastmodified":1449069504,
+    "wof:lastmodified":1466314238,
     "wof:name":"Majestic Finishes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.467885,61.588361,-149.467885,61.588361],
+  "bbox": [
+    -149.467885,
+    61.588361,
+    -149.467885,
+    61.588361
+],
   "geometry": {"coordinates":[-149.467885,61.588361],"type":"Point"}
 }

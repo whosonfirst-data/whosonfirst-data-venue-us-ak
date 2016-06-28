@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102154105",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.386049,57.801489,-152.386049,57.801489",
     "geom:latitude":57.801489,
     "geom:longitude":-152.386049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 Lynden Way",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102154105",
-    "wof:lastmodified":1449070243,
+    "wof:lastmodified":1466313478,
     "wof:name":"Synergetics Business Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.386049,57.801489,-152.386049,57.801489],
-  "geometry": {"coordinates":[-152.386049,57.801489],"type":"Point"}
+  "bbox": [
+    -152.386049,
+    57.801489,
+    -152.386049,
+    57.801489
+],
+  "geometry": {"coordinates":[-152.38604900000001,57.801489],"type":"Point"}
 }

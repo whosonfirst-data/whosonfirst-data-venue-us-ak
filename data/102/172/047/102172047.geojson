@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172047",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.548917,58.339472,-134.548917,58.339472",
     "geom:latitude":58.339472,
     "geom:longitude":-134.548917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9156 N Douglas Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102172047",
-    "wof:lastmodified":1449068736,
+    "wof:lastmodified":1466313860,
     "wof:name":"Campbell Jackson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.548917,58.339472,-134.548917,58.339472],
-  "geometry": {"coordinates":[-134.548917,58.339472],"type":"Point"}
+  "bbox": [
+    -134.548917,
+    58.339472,
+    -134.548917,
+    58.339472
+],
+  "geometry": {"coordinates":[-134.54891699999999,58.339472],"type":"Point"}
 }

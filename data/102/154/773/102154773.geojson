@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102154773",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.578007,61.324026,-149.578007,61.324026",
     "geom:latitude":61.324026,
     "geom:longitude":-149.578007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16331 Heritage Pl",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102154773",
-    "wof:lastmodified":1449070243,
+    "wof:lastmodified":1466313606,
     "wof:name":"Vern Priebs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.578007,61.324026,-149.578007,61.324026],
-  "geometry": {"coordinates":[-149.578007,61.324026],"type":"Point"}
+  "bbox": [
+    -149.578007,
+    61.324026,
+    -149.578007,
+    61.324026
+],
+  "geometry": {"coordinates":[-149.57800700000001,61.324026],"type":"Point"}
 }

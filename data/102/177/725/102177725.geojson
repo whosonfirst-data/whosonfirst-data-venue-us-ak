@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102177725",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.76574,64.893816,-147.76574,64.893816",
     "geom:latitude":64.893816,
     "geom:longitude":-147.76574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1286 Nordin Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102177725",
-    "wof:lastmodified":1449070202,
+    "wof:lastmodified":1466314161,
     "wof:name":"Power Sound",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.76574,64.893816,-147.76574,64.893816],
-  "geometry": {"coordinates":[-147.76574,64.893816],"type":"Point"}
+  "bbox": [
+    -147.76574,
+    64.893816,
+    -147.76574,
+    64.893816
+],
+  "geometry": {"coordinates":[-147.76573999999999,64.893816],"type":"Point"}
 }

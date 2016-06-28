@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102183627",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.79841,59.783913,-151.79841,59.783913",
     "geom:latitude":59.783913,
     "geom:longitude":-151.79841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32939 Augusta Ln",
     "sg:city":"Anchor Point",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102183627",
-    "wof:lastmodified":1449069044,
+    "wof:lastmodified":1466314139,
     "wof:name":"Top Of The Rock Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.79841,59.783913,-151.79841,59.783913],
-  "geometry": {"coordinates":[-151.79841,59.783913],"type":"Point"}
+  "bbox": [
+    -151.79841,
+    59.783913,
+    -151.79841,
+    59.783913
+],
+  "geometry": {"coordinates":[-151.79840999999999,59.783913],"type":"Point"}
 }

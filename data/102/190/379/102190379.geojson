@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102190379",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.769183,64.813034,-147.769183,64.813034",
     "geom:latitude":64.813034,
     "geom:longitude":-147.769183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2130 Van Horn Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.absak.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102190379",
-    "wof:lastmodified":1449070035,
+    "wof:lastmodified":1466313928,
     "wof:name":"ABS Alaskan",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.769183,64.813034,-147.769183,64.813034],
+  "bbox": [
+    -147.769183,
+    64.813034,
+    -147.769183,
+    64.813034
+],
   "geometry": {"coordinates":[-147.769183,64.813034],"type":"Point"}
 }

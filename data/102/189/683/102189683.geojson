@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102189683",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.791308,64.816094,-147.791308,64.816094",
     "geom:latitude":64.816094,
     "geom:longitude":-147.791308,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3350 Trailer St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102189683",
-    "wof:lastmodified":1449069497,
+    "wof:lastmodified":1466313786,
     "wof:name":"AES",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.791308,64.816094,-147.791308,64.816094],
-  "geometry": {"coordinates":[-147.791308,64.816094],"type":"Point"}
+  "bbox": [
+    -147.791308,
+    64.816094,
+    -147.791308,
+    64.816094
+],
+  "geometry": {"coordinates":[-147.79130799999999,64.81609400000001],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102149621",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.387872,57.091715,-135.387872,57.091715",
     "geom:latitude":57.091715,
     "geom:longitude":-135.387872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Somer Dr",
     "sg:city":"Sitka",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102149621",
-    "wof:lastmodified":1449067771,
+    "wof:lastmodified":1466313556,
     "wof:name":"F/V Argyle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.387872,57.091715,-135.387872,57.091715],
-  "geometry": {"coordinates":[-135.387872,57.091715],"type":"Point"}
+  "bbox": [
+    -135.387872,
+    57.091715,
+    -135.387872,
+    57.091715
+],
+  "geometry": {"coordinates":[-135.38787199999999,57.091715],"type":"Point"}
 }

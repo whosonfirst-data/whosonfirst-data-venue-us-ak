@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178931",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.82403,64.873016,-147.82403,64.873016",
     "geom:latitude":64.873016,
     "geom:longitude":-147.82403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1825 Farmers Loop Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102178931",
-    "wof:lastmodified":1449069536,
+    "wof:lastmodified":1466314173,
     "wof:name":"Barney's Piano Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.82403,64.873016,-147.82403,64.873016],
-  "geometry": {"coordinates":[-147.82403,64.873016],"type":"Point"}
+  "bbox": [
+    -147.82403,
+    64.873016,
+    -147.82403,
+    64.873016
+],
+  "geometry": {"coordinates":[-147.82402999999999,64.87301600000001],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192595",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.103325,61.592234,-149.103325,61.592234",
     "geom:latitude":61.592234,
     "geom:longitude":-149.103325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Cope-Industrial Way",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102192595",
-    "wof:lastmodified":1449069505,
+    "wof:lastmodified":1466314244,
     "wof:name":"Palmer Airtanker Base",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.103325,61.592234,-149.103325,61.592234],
-  "geometry": {"coordinates":[-149.103325,61.592234],"type":"Point"}
+  "bbox": [
+    -149.103325,
+    61.592234,
+    -149.103325,
+    61.592234
+],
+  "geometry": {"coordinates":[-149.10332500000001,61.592234],"type":"Point"}
 }

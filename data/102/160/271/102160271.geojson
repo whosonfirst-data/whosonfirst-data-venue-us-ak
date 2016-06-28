@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102160271",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.52262,55.32129,-131.52262,55.32129",
     "geom:latitude":55.32129,
     "geom:longitude":-131.52262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7565 S Tongass Hwy",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102160271",
-    "wof:lastmodified":1449069774,
+    "wof:lastmodified":1466314122,
     "wof:name":"Westfall Nursery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.52262,55.32129,-131.52262,55.32129],
-  "geometry": {"coordinates":[-131.52262,55.32129],"type":"Point"}
+  "bbox": [
+    -131.52262,
+    55.32129,
+    -131.52262,
+    55.32129
+],
+  "geometry": {"coordinates":[-131.52261999999999,55.32129],"type":"Point"}
 }

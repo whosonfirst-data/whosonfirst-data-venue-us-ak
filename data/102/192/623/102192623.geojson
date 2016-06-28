@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192623",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.928586,61.189811,-149.928586,61.189811",
     "geom:latitude":61.189811,
     "geom:longitude":-149.928586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2408 W 34th Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850461,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85850461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102192623",
-    "wof:lastmodified":1449069503,
+    "wof:lastmodified":1466314203,
     "wof:name":"Safety Harbor Systems",
     "wof:parent_id":85850461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.928586,61.189811,-149.928586,61.189811],
+  "bbox": [
+    -149.928586,
+    61.189811,
+    -149.928586,
+    61.189811
+],
   "geometry": {"coordinates":[-149.928586,61.189811],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153173",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.746167,64.836774,-147.746167,64.836774",
     "geom:latitude":64.836774,
     "geom:longitude":-147.746167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1425 Airport Way",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848979,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85848979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102153173",
-    "wof:lastmodified":1449069461,
+    "wof:lastmodified":1466313489,
     "wof:name":"Greatland Health",
     "wof:parent_id":85848979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.746167,64.836774,-147.746167,64.836774],
-  "geometry": {"coordinates":[-147.746167,64.836774],"type":"Point"}
+  "bbox": [
+    -147.746167,
+    64.836774,
+    -147.746167,
+    64.836774
+],
+  "geometry": {"coordinates":[-147.74616700000001,64.83677400000001],"type":"Point"}
 }

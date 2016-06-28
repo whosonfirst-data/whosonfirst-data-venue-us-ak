@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102163337",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.573199,58.388729,-134.573199,58.388729",
     "geom:latitude":58.388729,
     "geom:longitude":-134.573199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3727 el Camino St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833767,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85833767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102163337",
-    "wof:lastmodified":1449070164,
+    "wof:lastmodified":1466313714,
     "wof:name":"Firebox",
     "wof:parent_id":85833767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.573199,58.388729,-134.573199,58.388729],
-  "geometry": {"coordinates":[-134.573199,58.388729],"type":"Point"}
+  "bbox": [
+    -134.573199,
+    58.388729,
+    -134.573199,
+    58.388729
+],
+  "geometry": {"coordinates":[-134.57319899999999,58.388729],"type":"Point"}
 }

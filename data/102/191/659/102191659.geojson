@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191659",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.958428,64.845649,-147.958428,64.845649",
     "geom:latitude":64.845649,
     "geom:longitude":-147.958428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2935 Parks Hwy",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102191659",
-    "wof:lastmodified":1449069201,
+    "wof:lastmodified":1466314207,
     "wof:name":"Interior Timber Tramp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.958428,64.845649,-147.958428,64.845649],
-  "geometry": {"coordinates":[-147.958428,64.845649],"type":"Point"}
+  "bbox": [
+    -147.958428,
+    64.845649,
+    -147.958428,
+    64.845649
+],
+  "geometry": {"coordinates":[-147.958428,64.84564899999999],"type":"Point"}
 }

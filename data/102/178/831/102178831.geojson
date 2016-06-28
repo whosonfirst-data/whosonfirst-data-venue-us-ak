@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178831",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.407588,58.302702,-134.407588,58.302702",
     "geom:latitude":58.302702,
     "geom:longitude":-134.407588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Gold St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102178831",
-    "wof:lastmodified":1449069531,
+    "wof:lastmodified":1466314040,
     "wof:name":"Good Hands Massage",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.407588,58.302702,-134.407588,58.302702],
+  "bbox": [
+    -134.407588,
+    58.302702,
+    -134.407588,
+    58.302702
+],
   "geometry": {"coordinates":[-134.407588,58.302702],"type":"Point"}
 }

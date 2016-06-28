@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102161537",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.835622,61.229526,-149.835622,61.229526",
     "geom:latitude":61.229526,
     "geom:longitude":-149.835622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2216 N Post Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820221,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85820221
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102161537",
-    "wof:lastmodified":1449068711,
+    "wof:lastmodified":1466313752,
     "wof:name":"Ameresco",
     "wof:parent_id":85820221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.835622,61.229526,-149.835622,61.229526],
+  "bbox": [
+    -149.835622,
+    61.229526,
+    -149.835622,
+    61.229526
+],
   "geometry": {"coordinates":[-149.835622,61.229526],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102152355",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.438831,60.070385,-149.438831,60.070385",
     "geom:latitude":60.070385,
     "geom:longitude":-149.438831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14000 Shady Ln",
     "sg:city":"Seward",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102152355",
-    "wof:lastmodified":1449069634,
+    "wof:lastmodified":1466313527,
     "wof:name":"Victorian Serenity By The Sea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.438831,60.070385,-149.438831,60.070385],
-  "geometry": {"coordinates":[-149.438831,60.070385],"type":"Point"}
+  "bbox": [
+    -149.438831,
+    60.070385,
+    -149.438831,
+    60.070385
+],
+  "geometry": {"coordinates":[-149.43883099999999,60.070385],"type":"Point"}
 }

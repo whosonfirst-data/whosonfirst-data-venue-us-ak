@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102150905",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.668347,55.348645,-131.668347,55.348645",
     "geom:latitude":55.348645,
     "geom:longitude":-131.668347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 Tongass Ave",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102150905",
-    "wof:lastmodified":1449067791,
+    "wof:lastmodified":1466314072,
     "wof:name":"Southeast Ocean Survival",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.668347,55.348645,-131.668347,55.348645],
-  "geometry": {"coordinates":[-131.668347,55.348645],"type":"Point"}
+  "bbox": [
+    -131.668347,
+    55.348645,
+    -131.668347,
+    55.348645
+],
+  "geometry": {"coordinates":[-131.66834700000001,55.348645],"type":"Point"}
 }

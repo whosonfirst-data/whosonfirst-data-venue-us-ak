@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102158029",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.0687,60.48694,-151.0687,60.48694",
     "geom:latitude":60.48694,
     "geom:longitude":-151.0687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Robin St",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102158029",
-    "wof:lastmodified":1449069394,
+    "wof:lastmodified":1466313512,
     "wof:name":"Robin Place Fabrics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.0687,60.48694,-151.0687,60.48694],
-  "geometry": {"coordinates":[-151.0687,60.48694],"type":"Point"}
+  "bbox": [
+    -151.0687,
+    60.48694,
+    -151.0687,
+    60.48694
+],
+  "geometry": {"coordinates":[-151.06870000000001,60.48694],"type":"Point"}
 }

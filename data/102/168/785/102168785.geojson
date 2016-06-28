@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102168785",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.757397,64.863031,-147.757397,64.863031",
     "geom:latitude":64.863031,
     "geom:longitude":-147.757397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1753 College Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869043,
+        85688573,
         85633793,
         85916609,
         102081397,
-        85688573
+        85869043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102168785",
-    "wof:lastmodified":1449069007,
+    "wof:lastmodified":1466313829,
     "wof:name":"Little Saigon Restaurant",
     "wof:parent_id":85869043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.757397,64.863031,-147.757397,64.863031],
-  "geometry": {"coordinates":[-147.757397,64.863031],"type":"Point"}
+  "bbox": [
+    -147.757397,
+    64.863031,
+    -147.757397,
+    64.863031
+],
+  "geometry": {"coordinates":[-147.757397,64.86303100000001],"type":"Point"}
 }

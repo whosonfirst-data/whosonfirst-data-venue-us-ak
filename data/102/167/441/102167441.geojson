@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102167441",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.732456,61.185884,-149.732456,61.185884",
     "geom:latitude":61.185884,
     "geom:longitude":-149.732456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8001 Pioneer Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873735,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102167441",
-    "wof:lastmodified":1449069001,
+    "wof:lastmodified":1466313760,
     "wof:name":"Integrity First Properties",
     "wof:parent_id":85873735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.732456,61.185884,-149.732456,61.185884],
-  "geometry": {"coordinates":[-149.732456,61.185884],"type":"Point"}
+  "bbox": [
+    -149.732456,
+    61.185884,
+    -149.732456,
+    61.185884
+],
+  "geometry": {"coordinates":[-149.73245600000001,61.185884],"type":"Point"}
 }

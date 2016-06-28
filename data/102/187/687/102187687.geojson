@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187687",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.291763,60.563771,-151.291763,60.563771",
     "geom:latitude":60.563771,
     "geom:longitude":-151.291763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Evergreen St",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102187687",
-    "wof:lastmodified":1449068158,
+    "wof:lastmodified":1466314171,
     "wof:name":"Violetta's Wedding Gowns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.291763,60.563771,-151.291763,60.563771],
+  "bbox": [
+    -151.291763,
+    60.563771,
+    -151.291763,
+    60.563771
+],
   "geometry": {"coordinates":[-151.291763,60.563771],"type":"Point"}
 }

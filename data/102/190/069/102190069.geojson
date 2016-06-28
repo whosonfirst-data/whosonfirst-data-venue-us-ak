@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102190069",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.895611,61.217627,-149.895611,61.217627",
     "geom:latitude":61.217627,
     "geom:longitude":-149.895611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 G St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873719,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102190069",
-    "wof:lastmodified":1449070036,
+    "wof:lastmodified":1466313865,
     "wof:name":"World Wildlife Fund",
     "wof:parent_id":85873719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.895611,61.217627,-149.895611,61.217627],
+  "bbox": [
+    -149.895611,
+    61.217627,
+    -149.895611,
+    61.217627
+],
   "geometry": {"coordinates":[-149.895611,61.217627],"type":"Point"}
 }

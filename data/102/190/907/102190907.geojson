@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102190907",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-146.357151,61.129017,-146.357151,61.129017",
     "geom:latitude":61.129017,
     "geom:longitude":-146.357151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Egan Ave",
     "sg:city":"Valdez",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102190907",
-    "wof:lastmodified":1449070037,
+    "wof:lastmodified":1466314025,
     "wof:name":"Burning Bush Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-146.357151,61.129017,-146.357151,61.129017],
-  "geometry": {"coordinates":[-146.357151,61.129017],"type":"Point"}
+  "bbox": [
+    -146.357151,
+    61.129017,
+    -146.357151,
+    61.129017
+],
+  "geometry": {"coordinates":[-146.35715099999999,61.129017],"type":"Point"}
 }

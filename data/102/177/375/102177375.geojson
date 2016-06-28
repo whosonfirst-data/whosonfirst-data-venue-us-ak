@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102177375",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.118193,61.601806,-149.118193,61.601806",
     "geom:latitude":61.601806,
     "geom:longitude":-149.118193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"541 S Cobb St",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102177375",
-    "wof:lastmodified":1449070204,
+    "wof:lastmodified":1466314147,
     "wof:name":"Ellis Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.118193,61.601806,-149.118193,61.601806],
-  "geometry": {"coordinates":[-149.118193,61.601806],"type":"Point"}
+  "bbox": [
+    -149.118193,
+    61.601806,
+    -149.118193,
+    61.601806
+],
+  "geometry": {"coordinates":[-149.11819299999999,61.601806],"type":"Point"}
 }

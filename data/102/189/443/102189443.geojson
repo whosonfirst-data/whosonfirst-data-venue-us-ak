@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102189443",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-161.790307,60.805099,-161.790307,60.805099",
     "geom:latitude":60.805099,
     "geom:longitude":-161.790307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 Ptarmigan St",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102189443",
-    "wof:lastmodified":1449069499,
+    "wof:lastmodified":1466313737,
     "wof:name":"KYKD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-161.790307,60.805099,-161.790307,60.805099],
-  "geometry": {"coordinates":[-161.790307,60.805099],"type":"Point"}
+  "bbox": [
+    -161.790307,
+    60.805099,
+    -161.790307,
+    60.805099
+],
+  "geometry": {"coordinates":[-161.79030700000001,60.805099],"type":"Point"}
 }

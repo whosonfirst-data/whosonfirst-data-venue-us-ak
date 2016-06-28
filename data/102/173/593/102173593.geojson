@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173593",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.733043,64.829238,-147.733043,64.829238",
     "geom:latitude":64.829238,
     "geom:longitude":-147.733043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 20th Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102173593",
-    "wof:lastmodified":1449068266,
+    "wof:lastmodified":1466313968,
     "wof:name":"Advanced Website Technologies",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.733043,64.829238,-147.733043,64.829238],
-  "geometry": {"coordinates":[-147.733043,64.829238],"type":"Point"}
+  "bbox": [
+    -147.733043,
+    64.829238,
+    -147.733043,
+    64.829238
+],
+  "geometry": {"coordinates":[-147.73304300000001,64.829238],"type":"Point"}
 }

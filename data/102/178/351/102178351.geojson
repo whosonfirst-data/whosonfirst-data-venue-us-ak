@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178351",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.862548,61.180915,-149.862548,61.180915",
     "geom:latitude":61.180915,
     "geom:longitude":-149.862548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1011 E Tudor Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873715,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102178351",
-    "wof:lastmodified":1449069530,
+    "wof:lastmodified":1466313943,
     "wof:name":"Karabelnikoff & Assoc",
     "wof:parent_id":85873715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.862548,61.180915,-149.862548,61.180915],
+  "bbox": [
+    -149.862548,
+    61.180915,
+    -149.862548,
+    61.180915
+],
   "geometry": {"coordinates":[-149.862548,61.180915],"type":"Point"}
 }

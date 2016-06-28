@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192377",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.767083,64.854319,-147.767083,64.854319",
     "geom:latitude":64.854319,
     "geom:longitude":-147.767083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1820 Marika Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -36,11 +37,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869043,
+        85688573,
         85633793,
         85916609,
         102081397,
-        85688573
+        85869043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":"102192377",
-    "wof:lastmodified":1449069503,
+    "wof:lastmodified":1466314240,
     "wof:name":"Holaday-Parks Inc",
     "wof:parent_id":85869043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.767083,64.854319,-147.767083,64.854319],
-  "geometry": {"coordinates":[-147.767083,64.854319],"type":"Point"}
+  "bbox": [
+    -147.767083,
+    64.854319,
+    -147.767083,
+    64.854319
+],
+  "geometry": {"coordinates":[-147.76708300000001,64.854319],"type":"Point"}
 }

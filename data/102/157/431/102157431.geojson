@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102157431",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.719409,64.839483,-147.719409,64.839483",
     "geom:latitude":64.839483,
     "geom:longitude":-147.719409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 Cushman St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848979,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85848979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":"102157431",
-    "wof:lastmodified":1449069830,
+    "wof:lastmodified":1466313553,
     "wof:name":"Interior Police K-9 Fund",
     "wof:parent_id":85848979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.719409,64.839483,-147.719409,64.839483],
-  "geometry": {"coordinates":[-147.719409,64.839483],"type":"Point"}
+  "bbox": [
+    -147.719409,
+    64.839483,
+    -147.719409,
+    64.839483
+],
+  "geometry": {"coordinates":[-147.71940900000001,64.839483],"type":"Point"}
 }

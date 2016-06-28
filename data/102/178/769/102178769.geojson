@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178769",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.463876,64.823748,-147.463876,64.823748",
     "geom:latitude":64.823748,
     "geom:longitude":-147.463876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1819 Endecott Ave",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102178769",
-    "wof:lastmodified":1449069530,
+    "wof:lastmodified":1466314164,
     "wof:name":"Crystal River",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.463876,64.823748,-147.463876,64.823748],
-  "geometry": {"coordinates":[-147.463876,64.823748],"type":"Point"}
+  "bbox": [
+    -147.463876,
+    64.823748,
+    -147.463876,
+    64.823748
+],
+  "geometry": {"coordinates":[-147.463876,64.82374799999999],"type":"Point"}
 }

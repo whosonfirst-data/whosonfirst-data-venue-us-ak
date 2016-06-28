@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187617",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.37897,57.082961,-135.37897,57.082961",
     "geom:latitude":57.082961,
     "geom:longitude":-135.37897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2716 Halibut Point Rd",
     "sg:city":"Sitka",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102187617",
-    "wof:lastmodified":1449068154,
+    "wof:lastmodified":1466314221,
     "wof:name":"Jeb Eli Morrow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.37897,57.082961,-135.37897,57.082961],
-  "geometry": {"coordinates":[-135.37897,57.082961],"type":"Point"}
+  "bbox": [
+    -135.37897,
+    57.082961,
+    -135.37897,
+    57.082961
+],
+  "geometry": {"coordinates":[-135.37897000000001,57.082961],"type":"Point"}
 }

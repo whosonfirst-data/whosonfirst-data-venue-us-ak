@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102159033",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.679024,64.896555,-147.679024,64.896555",
     "geom:latitude":64.896555,
     "geom:longitude":-147.679024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"436 Panorama Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102159033",
-    "wof:lastmodified":1449068093,
+    "wof:lastmodified":1466313527,
     "wof:name":"Digital Sound Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.679024,64.896555,-147.679024,64.896555],
-  "geometry": {"coordinates":[-147.679024,64.896555],"type":"Point"}
+  "bbox": [
+    -147.679024,
+    64.896555,
+    -147.679024,
+    64.896555
+],
+  "geometry": {"coordinates":[-147.679024,64.89655500000001],"type":"Point"}
 }

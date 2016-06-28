@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102177097",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.684001,65.129396,-147.684001,65.129396",
     "geom:latitude":65.129396,
     "geom:longitude":-147.684001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6025 Cogan Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102177097",
-    "wof:lastmodified":1449070208,
+    "wof:lastmodified":1466313890,
     "wof:name":"Pat's Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.684001,65.129396,-147.684001,65.129396],
-  "geometry": {"coordinates":[-147.684001,65.129396],"type":"Point"}
+  "bbox": [
+    -147.684001,
+    65.129396,
+    -147.684001,
+    65.129396
+],
+  "geometry": {"coordinates":[-147.68400099999999,65.129396],"type":"Point"}
 }

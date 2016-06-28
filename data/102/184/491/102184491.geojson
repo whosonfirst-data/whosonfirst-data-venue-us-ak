@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184491",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-145.758511,60.544614,-145.758511,60.544614",
     "geom:latitude":60.544614,
     "geom:longitude":-145.758511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 1st St",
     "sg:city":"Cordova",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839707,
+        85688573,
         85633793,
         85915567,
         102081911,
-        85688573
+        85839707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102184491",
-    "wof:lastmodified":1449068216,
+    "wof:lastmodified":1466314133,
     "wof:name":"Children's Pallas",
     "wof:parent_id":85839707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-145.758511,60.544614,-145.758511,60.544614],
+  "bbox": [
+    -145.758511,
+    60.544614,
+    -145.758511,
+    60.544614
+],
   "geometry": {"coordinates":[-145.758511,60.544614],"type":"Point"}
 }

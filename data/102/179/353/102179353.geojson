@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102179353",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.251584,60.55736,-151.251584,60.55736",
     "geom:latitude":60.55736,
     "geom:longitude":-151.251584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 S Willow St",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102179353",
-    "wof:lastmodified":1449069942,
+    "wof:lastmodified":1466313944,
     "wof:name":"Residential Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.251584,60.55736,-151.251584,60.55736],
-  "geometry": {"coordinates":[-151.251584,60.55736],"type":"Point"}
+  "bbox": [
+    -151.251584,
+    60.55736,
+    -151.251584,
+    60.55736
+],
+  "geometry": {"coordinates":[-151.25158400000001,60.55736],"type":"Point"}
 }

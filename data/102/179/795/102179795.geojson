@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102179795",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.654445,55.34566,-131.654445,55.34566",
     "geom:latitude":55.34566,
     "geom:longitude":-131.654445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"902 Warren St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102179795",
-    "wof:lastmodified":1449069942,
+    "wof:lastmodified":1466314031,
     "wof:name":"B K Vacation Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.654445,55.34566,-131.654445,55.34566],
-  "geometry": {"coordinates":[-131.654445,55.34566],"type":"Point"}
+  "bbox": [
+    -131.654445,
+    55.34566,
+    -131.654445,
+    55.34566
+],
+  "geometry": {"coordinates":[-131.65444500000001,55.34566],"type":"Point"}
 }

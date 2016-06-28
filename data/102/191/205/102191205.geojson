@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191205",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.596799,58.361214,-134.596799,58.361214",
     "geom:latitude":58.361214,
     "geom:longitude":-134.596799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2009 Radcliffe Rd",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102191205",
-    "wof:lastmodified":1449069200,
+    "wof:lastmodified":1466314068,
     "wof:name":"Juneau Waterwaste Utility Div",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.596799,58.361214,-134.596799,58.361214],
+  "bbox": [
+    -134.596799,
+    58.361214,
+    -134.596799,
+    58.361214
+],
   "geometry": {"coordinates":[-134.596799,58.361214],"type":"Point"}
 }

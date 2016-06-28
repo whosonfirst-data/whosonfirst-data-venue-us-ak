@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155867",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.389976,57.792536,-152.389976,57.792536",
     "geom:latitude":57.792536,
     "geom:longitude":-152.389976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Mission Rd",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102155867",
-    "wof:lastmodified":1449069744,
+    "wof:lastmodified":1466313626,
     "wof:name":"Lighthouse Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.389976,57.792536,-152.389976,57.792536],
-  "geometry": {"coordinates":[-152.389976,57.792536],"type":"Point"}
+  "bbox": [
+    -152.389976,
+    57.792536,
+    -152.389976,
+    57.792536
+],
+  "geometry": {"coordinates":[-152.38997599999999,57.792536],"type":"Point"}
 }

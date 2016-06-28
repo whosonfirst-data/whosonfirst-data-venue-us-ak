@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184723",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.863447,64.823905,-147.863447,64.823905",
     "geom:latitude":64.823905,
     "geom:longitude":-147.863447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4782 Dale Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102184723",
-    "wof:lastmodified":1449068217,
+    "wof:lastmodified":1466314161,
     "wof:name":"Kornfeind Training Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.863447,64.823905,-147.863447,64.823905],
-  "geometry": {"coordinates":[-147.863447,64.823905],"type":"Point"}
+  "bbox": [
+    -147.863447,
+    64.823905,
+    -147.863447,
+    64.823905
+],
+  "geometry": {"coordinates":[-147.86344700000001,64.823905],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102161723",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.582032,58.362735,-134.582032,58.362735",
     "geom:latitude":58.362735,
     "geom:longitude":-134.582032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9097 Glacier Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.goldbelt.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833767,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85833767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102161723",
-    "wof:lastmodified":1449068712,
+    "wof:lastmodified":1466313790,
     "wof:name":"Goldbelt Inc",
     "wof:parent_id":85833767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.582032,58.362735,-134.582032,58.362735],
+  "bbox": [
+    -134.582032,
+    58.362735,
+    -134.582032,
+    58.362735
+],
   "geometry": {"coordinates":[-134.582032,58.362735],"type":"Point"}
 }

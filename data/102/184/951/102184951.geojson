@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184951",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.905366,61.194411,-149.905366,61.194411",
     "geom:latitude":61.194411,
     "geom:longitude":-149.905366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2803 Spenard Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.blainesart.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873713,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102184951",
-    "wof:lastmodified":1449068216,
+    "wof:lastmodified":1466314187,
     "wof:name":"Blaine's Picture Framing",
     "wof:parent_id":85873713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.905366,61.194411,-149.905366,61.194411],
-  "geometry": {"coordinates":[-149.905366,61.194411],"type":"Point"}
+  "bbox": [
+    -149.905366,
+    61.194411,
+    -149.905366,
+    61.194411
+],
+  "geometry": {"coordinates":[-149.90536599999999,61.194411],"type":"Point"}
 }

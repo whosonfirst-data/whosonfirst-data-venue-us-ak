@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102195227",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.188499,60.367237,-151.188499,60.367237",
     "geom:latitude":60.367237,
     "geom:longitude":-151.188499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26655 Heavy Down Dr",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102195227",
-    "wof:lastmodified":1449069363,
+    "wof:lastmodified":1466314287,
     "wof:name":"Guth Lodge At Lliamna River",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.188499,60.367237,-151.188499,60.367237],
-  "geometry": {"coordinates":[-151.188499,60.367237],"type":"Point"}
+  "bbox": [
+    -151.188499,
+    60.367237,
+    -151.188499,
+    60.367237
+],
+  "geometry": {"coordinates":[-151.18849900000001,60.367237],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192619",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.558208,64.930368,-147.558208,64.930368",
     "geom:latitude":64.930368,
     "geom:longitude":-147.558208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1576 Placer Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102192619",
-    "wof:lastmodified":1449069503,
+    "wof:lastmodified":1466314244,
     "wof:name":"Unique Angles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.558208,64.930368,-147.558208,64.930368],
-  "geometry": {"coordinates":[-147.558208,64.930368],"type":"Point"}
+  "bbox": [
+    -147.558208,
+    64.930368,
+    -147.558208,
+    64.930368
+],
+  "geometry": {"coordinates":[-147.55820800000001,64.930368],"type":"Point"}
 }

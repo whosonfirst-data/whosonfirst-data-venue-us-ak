@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102169135",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.910237,64.858357,-147.910237,64.858357",
     "geom:latitude":64.858357,
     "geom:longitude":-147.910237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2561 Wecota Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102169135",
-    "wof:lastmodified":1449069247,
+    "wof:lastmodified":1466313736,
     "wof:name":"Reina Properties Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.910237,64.858357,-147.910237,64.858357],
+  "bbox": [
+    -147.910237,
+    64.858357,
+    -147.910237,
+    64.858357
+],
   "geometry": {"coordinates":[-147.910237,64.858357],"type":"Point"}
 }

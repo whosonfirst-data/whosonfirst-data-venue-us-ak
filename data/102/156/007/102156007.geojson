@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102156007",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.412656,61.588729,-149.412656,61.588729",
     "geom:latitude":61.588729,
     "geom:longitude":-149.412656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Bogard Rd",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102156007",
-    "wof:lastmodified":1449068284,
+    "wof:lastmodified":1466313469,
     "wof:name":"Creative Printing By Michele",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.412656,61.588729,-149.412656,61.588729],
+  "bbox": [
+    -149.412656,
+    61.588729,
+    -149.412656,
+    61.588729
+],
   "geometry": {"coordinates":[-149.412656,61.588729],"type":"Point"}
 }

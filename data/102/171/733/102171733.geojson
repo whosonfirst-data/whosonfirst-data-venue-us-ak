@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171733",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.918288,61.137496,-149.918288,61.137496",
     "geom:latitude":61.137496,
     "geom:longitude":-149.918288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2200 W Dimond Blvd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873739,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102171733",
-    "wof:lastmodified":1449070222,
+    "wof:lastmodified":1466313948,
     "wof:name":"Chevron Food Mart",
     "wof:parent_id":85873739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.918288,61.137496,-149.918288,61.137496],
-  "geometry": {"coordinates":[-149.918288,61.137496],"type":"Point"}
+  "bbox": [
+    -149.918288,
+    61.137496,
+    -149.918288,
+    61.137496
+],
+  "geometry": {"coordinates":[-149.91828799999999,61.137496],"type":"Point"}
 }

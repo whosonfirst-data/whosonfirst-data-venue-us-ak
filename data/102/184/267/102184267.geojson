@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184267",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.39941,57.77822,-152.39941,57.77822",
     "geom:latitude":57.77822,
     "geom:longitude":-152.39941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Trident Way",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102184267",
-    "wof:lastmodified":1449068218,
+    "wof:lastmodified":1466314198,
     "wof:name":"Fishery Industrial Technology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.39941,57.77822,-152.39941,57.77822],
-  "geometry": {"coordinates":[-152.39941,57.77822],"type":"Point"}
+  "bbox": [
+    -152.39941,
+    57.77822,
+    -152.39941,
+    57.77822
+],
+  "geometry": {"coordinates":[-152.39940999999999,57.77822],"type":"Point"}
 }

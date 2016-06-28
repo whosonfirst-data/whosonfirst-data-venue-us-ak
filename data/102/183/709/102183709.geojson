@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102183709",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.444014,61.575549,-149.444014,61.575549",
     "geom:latitude":61.575549,
     "geom:longitude":-149.444014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 Centaur Ave",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":"102183709",
-    "wof:lastmodified":1449069040,
+    "wof:lastmodified":1466314151,
     "wof:name":"AA-1 Sheet Metal Fabrication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.444014,61.575549,-149.444014,61.575549],
-  "geometry": {"coordinates":[-149.444014,61.575549],"type":"Point"}
+  "bbox": [
+    -149.444014,
+    61.575549,
+    -149.444014,
+    61.575549
+],
+  "geometry": {"coordinates":[-149.44401400000001,61.575549],"type":"Point"}
 }

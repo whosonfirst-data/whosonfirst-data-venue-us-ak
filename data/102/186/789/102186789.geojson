@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102186789",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.716715,64.842015,-147.716715,64.842015",
     "geom:latitude":64.842015,
     "geom:longitude":-147.716715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Lacey St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848979,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85848979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102186789",
-    "wof:lastmodified":1449069654,
+    "wof:lastmodified":1466314185,
     "wof:name":"Trapper Shack",
     "wof:parent_id":85848979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.716715,64.842015,-147.716715,64.842015],
-  "geometry": {"coordinates":[-147.716715,64.842015],"type":"Point"}
+  "bbox": [
+    -147.716715,
+    64.842015,
+    -147.716715,
+    64.842015
+],
+  "geometry": {"coordinates":[-147.71671499999999,64.842015],"type":"Point"}
 }

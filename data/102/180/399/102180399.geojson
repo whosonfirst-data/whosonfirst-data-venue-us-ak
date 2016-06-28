@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102180399",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.812202,61.212234,-149.812202,61.212234",
     "geom:latitude":61.212234,
     "geom:longitude":-149.812202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Northway Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     "sg:website":"www.adn.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873729,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":"102180399",
-    "wof:lastmodified":1449067873,
+    "wof:lastmodified":1466313994,
     "wof:name":"Anchorage Daily News Library",
     "wof:parent_id":85873729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.812202,61.212234,-149.812202,61.212234],
-  "geometry": {"coordinates":[-149.812202,61.212234],"type":"Point"}
+  "bbox": [
+    -149.812202,
+    61.212234,
+    -149.812202,
+    61.212234
+],
+  "geometry": {"coordinates":[-149.81220200000001,61.212234],"type":"Point"}
 }

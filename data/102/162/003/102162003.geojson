@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102162003",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-133.133451,55.47301,-133.133451,55.47301",
     "geom:latitude":55.47301,
     "geom:longitude":-133.133451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 Night Ct",
     "sg:city":"Craig",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102162003",
-    "wof:lastmodified":1449069823,
+    "wof:lastmodified":1466313647,
     "wof:name":"Windy Way Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-133.133451,55.47301,-133.133451,55.47301],
-  "geometry": {"coordinates":[-133.133451,55.47301],"type":"Point"}
+  "bbox": [
+    -133.133451,
+    55.47301,
+    -133.133451,
+    55.47301
+],
+  "geometry": {"coordinates":[-133.13345100000001,55.47301],"type":"Point"}
 }

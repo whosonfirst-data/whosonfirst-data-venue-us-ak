@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102177805",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.749832,64.836733,-147.749832,64.836733",
     "geom:latitude":64.836733,
     "geom:longitude":-147.749832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1991 Airport Way",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848979,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85848979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102177805",
-    "wof:lastmodified":1449070207,
+    "wof:lastmodified":1466314027,
     "wof:name":"Pizza Hut",
     "wof:parent_id":85848979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.749832,64.836733,-147.749832,64.836733],
+  "bbox": [
+    -147.749832,
+    64.836733,
+    -147.749832,
+    64.836733
+],
   "geometry": {"coordinates":[-147.749832,64.836733],"type":"Point"}
 }

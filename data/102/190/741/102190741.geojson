@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102190741",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.446301,59.235051,-135.446301,59.235051",
     "geom:latitude":59.235051,
     "geom:longitude":-135.446301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"223 Main St",
     "sg:city":"Haines",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842771,
+        85688573,
         85633793,
         85916629,
         102083767,
-        85688573
+        85842771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102190741",
-    "wof:lastmodified":1449070032,
+    "wof:lastmodified":1466313994,
     "wof:name":"Babbling Book",
     "wof:parent_id":85842771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.446301,59.235051,-135.446301,59.235051],
-  "geometry": {"coordinates":[-135.446301,59.235051],"type":"Point"}
+  "bbox": [
+    -135.446301,
+    59.235051,
+    -135.446301,
+    59.235051
+],
+  "geometry": {"coordinates":[-135.44630100000001,59.235051],"type":"Point"}
 }

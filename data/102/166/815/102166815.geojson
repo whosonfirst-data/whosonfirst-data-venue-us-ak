@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166815",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.079847,60.505959,-151.079847,60.505959",
     "geom:latitude":60.505959,
     "geom:longitude":-151.079847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44730 Delta Ave",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102166815",
-    "wof:lastmodified":1449069084,
+    "wof:lastmodified":1466313829,
     "wof:name":"Peninsula Roofing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.079847,60.505959,-151.079847,60.505959],
+  "bbox": [
+    -151.079847,
+    60.505959,
+    -151.079847,
+    60.505959
+],
   "geometry": {"coordinates":[-151.079847,60.505959],"type":"Point"}
 }

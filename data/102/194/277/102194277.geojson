@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102194277",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.827109,61.180912,-149.827109,61.180912",
     "geom:latitude":61.180912,
     "geom:longitude":-149.827109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2715 E Tudor Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873715,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102194277",
-    "wof:lastmodified":1449069827,
+    "wof:lastmodified":1466314214,
     "wof:name":"Courtney's Tudor Svc",
     "wof:parent_id":85873715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.827109,61.180912,-149.827109,61.180912],
-  "geometry": {"coordinates":[-149.827109,61.180912],"type":"Point"}
+  "bbox": [
+    -149.827109,
+    61.180912,
+    -149.827109,
+    61.180912
+],
+  "geometry": {"coordinates":[-149.82710900000001,61.180912],"type":"Point"}
 }

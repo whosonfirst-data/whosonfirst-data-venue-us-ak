@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153871",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.929883,61.18664,-149.929883,61.18664",
     "geom:latitude":61.18664,
     "geom:longitude":-149.929883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2409 McRae Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850461,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85850461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102153871",
-    "wof:lastmodified":1449069460,
+    "wof:lastmodified":1466313630,
     "wof:name":"Top Hand Trailer Court",
     "wof:parent_id":85850461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.929883,61.18664,-149.929883,61.18664],
-  "geometry": {"coordinates":[-149.929883,61.18664],"type":"Point"}
+  "bbox": [
+    -149.929883,
+    61.18664,
+    -149.929883,
+    61.18664
+],
+  "geometry": {"coordinates":[-149.92988299999999,61.18664],"type":"Point"}
 }

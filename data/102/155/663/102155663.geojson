@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155663",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.529846,59.645294,-151.529846,59.645294",
     "geom:latitude":59.645294,
     "geom:longitude":-151.529846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3804 Heath St",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102155663",
-    "wof:lastmodified":1449069744,
+    "wof:lastmodified":1466313584,
     "wof:name":"Don's Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.529846,59.645294,-151.529846,59.645294],
-  "geometry": {"coordinates":[-151.529846,59.645294],"type":"Point"}
+  "bbox": [
+    -151.529846,
+    59.645294,
+    -151.529846,
+    59.645294
+],
+  "geometry": {"coordinates":[-151.52984599999999,59.645294],"type":"Point"}
 }

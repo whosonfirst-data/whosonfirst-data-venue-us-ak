@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171687",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.733341,61.103187,-149.733341,61.103187",
     "geom:latitude":61.103187,
     "geom:longitude":-149.733341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13000 Patrick Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873747,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102171687",
-    "wof:lastmodified":1449070222,
+    "wof:lastmodified":1466313939,
     "wof:name":"Alaska Equipment Appraisers",
     "wof:parent_id":85873747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.733341,61.103187,-149.733341,61.103187],
+  "bbox": [
+    -149.733341,
+    61.103187,
+    -149.733341,
+    61.103187
+],
   "geometry": {"coordinates":[-149.733341,61.103187],"type":"Point"}
 }

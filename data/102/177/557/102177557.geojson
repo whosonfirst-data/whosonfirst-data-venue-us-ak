@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102177557",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.964715,64.818867,-147.964715,64.818867",
     "geom:latitude":64.818867,
     "geom:longitude":-147.964715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3135 Forrest Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102177557",
-    "wof:lastmodified":1449070208,
+    "wof:lastmodified":1466313981,
     "wof:name":"Dish Alaska",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.964715,64.818867,-147.964715,64.818867],
-  "geometry": {"coordinates":[-147.964715,64.818867],"type":"Point"}
+  "bbox": [
+    -147.964715,
+    64.818867,
+    -147.964715,
+    64.818867
+],
+  "geometry": {"coordinates":[-147.96471500000001,64.818867],"type":"Point"}
 }

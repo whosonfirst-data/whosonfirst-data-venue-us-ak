@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178685",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.896763,61.196802,-149.896763,61.196802",
     "geom:latitude":61.196802,
     "geom:longitude":-149.896763,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"704 W 26th Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.alaskakitchendistributors.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873713,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102178685",
-    "wof:lastmodified":1449069535,
+    "wof:lastmodified":1466314010,
     "wof:name":"Alaska Kitchen Distributors",
     "wof:parent_id":85873713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.896763,61.196802,-149.896763,61.196802],
-  "geometry": {"coordinates":[-149.896763,61.196802],"type":"Point"}
+  "bbox": [
+    -149.896763,
+    61.196802,
+    -149.896763,
+    61.196802
+],
+  "geometry": {"coordinates":[-149.89676299999999,61.196802],"type":"Point"}
 }

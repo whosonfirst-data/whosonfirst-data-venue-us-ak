@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102163975",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.721558,64.838812,-147.721558,64.838812",
     "geom:latitude":64.838812,
     "geom:longitude":-147.721558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 10th Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848979,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85848979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102163975",
-    "wof:lastmodified":1449070165,
+    "wof:lastmodified":1466313846,
     "wof:name":"Joseph W Sheehan Law Office",
     "wof:parent_id":85848979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.721558,64.838812,-147.721558,64.838812],
-  "geometry": {"coordinates":[-147.721558,64.838812],"type":"Point"}
+  "bbox": [
+    -147.721558,
+    64.838812,
+    -147.721558,
+    64.838812
+],
+  "geometry": {"coordinates":[-147.72155799999999,64.838812],"type":"Point"}
 }

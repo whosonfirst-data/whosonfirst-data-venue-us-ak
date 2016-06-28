@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102164005",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.342241,57.051884,-135.342241,57.051884",
     "geom:latitude":57.051884,
     "geom:longitude":-135.342241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"264 Katlian St",
     "sg:city":"Sitka",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.alaskaseafood.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835489,
+        85688573,
         85633793,
         85916107,
         102081405,
-        85688573
+        85835489
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102164005",
-    "wof:lastmodified":1449068092,
+    "wof:lastmodified":1466313658,
     "wof:name":"Alaska Hook & Line Seafood",
     "wof:parent_id":85835489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.342241,57.051884,-135.342241,57.051884],
+  "bbox": [
+    -135.342241,
+    57.051884,
+    -135.342241,
+    57.051884
+],
   "geometry": {"coordinates":[-135.342241,57.051884],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173133",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.426243,58.292353,-134.426243,58.292353",
     "geom:latitude":58.292353,
     "geom:longitude":-134.426243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3070 Douglas Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102173133",
-    "wof:lastmodified":1449068266,
+    "wof:lastmodified":1466313878,
     "wof:name":"Image Centre",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.426243,58.292353,-134.426243,58.292353],
+  "bbox": [
+    -134.426243,
+    58.292353,
+    -134.426243,
+    58.292353
+],
   "geometry": {"coordinates":[-134.426243,58.292353],"type":"Point"}
 }

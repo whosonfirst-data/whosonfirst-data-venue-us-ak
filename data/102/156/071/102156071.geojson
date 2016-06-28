@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102156071",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.525672,61.3152,-149.525672,61.3152",
     "geom:latitude":61.3152,
     "geom:longitude":-149.525672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18508 Man O War Rd",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102156071",
-    "wof:lastmodified":1449068281,
+    "wof:lastmodified":1466314100,
     "wof:name":"Ras Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.525672,61.3152,-149.525672,61.3152],
-  "geometry": {"coordinates":[-149.525672,61.3152],"type":"Point"}
+  "bbox": [
+    -149.525672,
+    61.3152,
+    -149.525672,
+    61.3152
+],
+  "geometry": {"coordinates":[-149.52567199999999,61.3152],"type":"Point"}
 }

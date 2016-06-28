@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166447",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.808157,55.467058,-131.808157,55.467058",
     "geom:latitude":55.467058,
     "geom:longitude":-131.808157,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"193 Yeoman Rd",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102166447",
-    "wof:lastmodified":1449069085,
+    "wof:lastmodified":1466313753,
     "wof:name":"J M Vermilyea Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.808157,55.467058,-131.808157,55.467058],
-  "geometry": {"coordinates":[-131.808157,55.467058],"type":"Point"}
+  "bbox": [
+    -131.808157,
+    55.467058,
+    -131.808157,
+    55.467058
+],
+  "geometry": {"coordinates":[-131.80815699999999,55.467058],"type":"Point"}
 }

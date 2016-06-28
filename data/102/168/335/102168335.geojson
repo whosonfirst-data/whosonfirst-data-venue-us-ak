@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102168335",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-161.765061,60.798928,-161.765061,60.798928",
     "geom:latitude":60.798928,
     "geom:longitude":-161.765061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"840 7th Ave",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102168335",
-    "wof:lastmodified":1449069007,
+    "wof:lastmodified":1466313738,
     "wof:name":"Casey's Carpet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-161.765061,60.798928,-161.765061,60.798928],
+  "bbox": [
+    -161.765061,
+    60.798928,
+    -161.765061,
+    60.798928
+],
   "geometry": {"coordinates":[-161.765061,60.798928],"type":"Point"}
 }

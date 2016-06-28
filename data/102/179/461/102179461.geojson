@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102179461",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.661623,61.576725,-149.661623,61.576725",
     "geom:latitude":61.576725,
     "geom:longitude":-149.661623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8141 Swan Dr",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102179461",
-    "wof:lastmodified":1449069942,
+    "wof:lastmodified":1466313966,
     "wof:name":"Quick Silver",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.661623,61.576725,-149.661623,61.576725],
-  "geometry": {"coordinates":[-149.661623,61.576725],"type":"Point"}
+  "bbox": [
+    -149.661623,
+    61.576725,
+    -149.661623,
+    61.576725
+],
+  "geometry": {"coordinates":[-149.66162299999999,61.576725],"type":"Point"}
 }

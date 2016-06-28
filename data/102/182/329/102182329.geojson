@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102182329",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.740698,64.811287,-147.740698,64.811287",
     "geom:latitude":64.811287,
     "geom:longitude":-147.740698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3621 Royal Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.bigstatelogistics.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102182329",
-    "wof:lastmodified":1449069280,
+    "wof:lastmodified":1466314088,
     "wof:name":"Big State Logistics",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.740698,64.811287,-147.740698,64.811287],
-  "geometry": {"coordinates":[-147.740698,64.811287],"type":"Point"}
+  "bbox": [
+    -147.740698,
+    64.811287,
+    -147.740698,
+    64.811287
+],
+  "geometry": {"coordinates":[-147.74069800000001,64.81128699999999],"type":"Point"}
 }

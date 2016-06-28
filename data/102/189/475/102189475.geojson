@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102189475",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.900302,59.400144,-135.900302,59.400144",
     "geom:latitude":59.400144,
     "geom:longitude":-135.900302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Falconer Ave",
     "sg:city":"Haines",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102189475",
-    "wof:lastmodified":1449069496,
+    "wof:lastmodified":1466313743,
     "wof:name":"Warren General Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.900302,59.400144,-135.900302,59.400144],
-  "geometry": {"coordinates":[-135.900302,59.400144],"type":"Point"}
+  "bbox": [
+    -135.900302,
+    59.400144,
+    -135.900302,
+    59.400144
+],
+  "geometry": {"coordinates":[-135.90030200000001,59.400144],"type":"Point"}
 }

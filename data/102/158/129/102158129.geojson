@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102158129",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.718003,64.852789,-147.718003,64.852789",
     "geom:latitude":64.852789,
     "geom:longitude":-147.718003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"758 Illinois St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.gvea.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848979,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85848979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102158129",
-    "wof:lastmodified":1449069396,
+    "wof:lastmodified":1466313532,
     "wof:name":"Golden Valley Electric Assoc",
     "wof:parent_id":85848979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.718003,64.852789,-147.718003,64.852789],
-  "geometry": {"coordinates":[-147.718003,64.852789],"type":"Point"}
+  "bbox": [
+    -147.718003,
+    64.852789,
+    -147.718003,
+    64.852789
+],
+  "geometry": {"coordinates":[-147.71800300000001,64.852789],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102167779",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.643031,64.937723,-147.643031,64.937723",
     "geom:latitude":64.937723,
     "geom:longitude":-147.643031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1890 Steese Hwy",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102167779",
-    "wof:lastmodified":1449069001,
+    "wof:lastmodified":1466313830,
     "wof:name":"ACE General Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.643031,64.937723,-147.643031,64.937723],
-  "geometry": {"coordinates":[-147.643031,64.937723],"type":"Point"}
+  "bbox": [
+    -147.643031,
+    64.937723,
+    -147.643031,
+    64.937723
+],
+  "geometry": {"coordinates":[-147.64303100000001,64.93772300000001],"type":"Point"}
 }

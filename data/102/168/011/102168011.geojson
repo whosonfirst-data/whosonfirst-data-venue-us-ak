@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102168011",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.862101,61.144809,-149.862101,61.144809",
     "geom:latitude":61.144809,
     "geom:longitude":-149.862101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 E Dimond Blvd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809155,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85809155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102168011",
-    "wof:lastmodified":1449069008,
+    "wof:lastmodified":1466313672,
     "wof:name":"Alaska Hearing Help Ctr",
     "wof:parent_id":85809155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.862101,61.144809,-149.862101,61.144809],
+  "bbox": [
+    -149.862101,
+    61.144809,
+    -149.862101,
+    61.144809
+],
   "geometry": {"coordinates":[-149.862101,61.144809],"type":"Point"}
 }

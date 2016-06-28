@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102182309",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.3818,56.461455,-132.3818,56.461455",
     "geom:latitude":56.461455,
     "geom:longitude":-132.3818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 Peninsula St",
     "sg:city":"Wrangell",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102182309",
-    "wof:lastmodified":1449069279,
+    "wof:lastmodified":1466314085,
     "wof:name":"Harding's Old Sourdough Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.3818,56.461455,-132.3818,56.461455],
+  "bbox": [
+    -132.3818,
+    56.461455,
+    -132.3818,
+    56.461455
+],
   "geometry": {"coordinates":[-132.3818,56.461455],"type":"Point"}
 }

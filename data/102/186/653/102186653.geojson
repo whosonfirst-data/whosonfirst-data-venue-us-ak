@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102186653",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.403323,58.298791,-134.403323,58.298791",
     "geom:latitude":58.298791,
     "geom:longitude":-134.403323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"291 S Franklin St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.theedgeoftown.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102186653",
-    "wof:lastmodified":1449069654,
+    "wof:lastmodified":1466314223,
     "wof:name":"Alaska Kinife Works",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.403323,58.298791,-134.403323,58.298791],
+  "bbox": [
+    -134.403323,
+    58.298791,
+    -134.403323,
+    58.298791
+],
   "geometry": {"coordinates":[-134.403323,58.298791],"type":"Point"}
 }

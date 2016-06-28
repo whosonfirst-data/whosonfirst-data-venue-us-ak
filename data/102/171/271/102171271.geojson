@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171271",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.402562,57.790232,-152.402562,57.790232",
     "geom:latitude":57.790232,
     "geom:longitude":-152.402562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 E Rezanof Dr",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102171271",
-    "wof:lastmodified":1449070224,
+    "wof:lastmodified":1466313856,
     "wof:name":"Bear & The Bay Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.402562,57.790232,-152.402562,57.790232],
-  "geometry": {"coordinates":[-152.402562,57.790232],"type":"Point"}
+  "bbox": [
+    -152.402562,
+    57.790232,
+    -152.402562,
+    57.790232
+],
+  "geometry": {"coordinates":[-152.40256199999999,57.790232],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102152103",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.671144,55.349379,-131.671144,55.349379",
     "geom:latitude":55.349379,
     "geom:longitude":-131.671144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Austin St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102152103",
-    "wof:lastmodified":1449069635,
+    "wof:lastmodified":1466313479,
     "wof:name":"Tongass Tower Condo Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.671144,55.349379,-131.671144,55.349379],
+  "bbox": [
+    -131.671144,
+    55.349379,
+    -131.671144,
+    55.349379
+],
   "geometry": {"coordinates":[-131.671144,55.349379],"type":"Point"}
 }

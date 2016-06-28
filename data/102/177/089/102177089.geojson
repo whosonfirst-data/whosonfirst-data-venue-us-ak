@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102177089",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.869521,64.846959,-147.869521,64.846959",
     "geom:latitude":64.846959,
     "geom:longitude":-147.869521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"448 Old Chena Pump Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102177089",
-    "wof:lastmodified":1449070204,
+    "wof:lastmodified":1466313888,
     "wof:name":"Justa Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.869521,64.846959,-147.869521,64.846959],
-  "geometry": {"coordinates":[-147.869521,64.846959],"type":"Point"}
+  "bbox": [
+    -147.869521,
+    64.846959,
+    -147.869521,
+    64.846959
+],
+  "geometry": {"coordinates":[-147.86952099999999,64.846959],"type":"Point"}
 }

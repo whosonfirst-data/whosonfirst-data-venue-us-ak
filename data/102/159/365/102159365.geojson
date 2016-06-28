@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102159365",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.320878,64.729777,-147.320878,64.729777",
     "geom:latitude":64.729777,
     "geom:longitude":-147.320878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3180 Marneet Ln",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102159365",
-    "wof:lastmodified":1449068092,
+    "wof:lastmodified":1466313596,
     "wof:name":"Bk Enterprise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.320878,64.729777,-147.320878,64.729777],
-  "geometry": {"coordinates":[-147.320878,64.729777],"type":"Point"}
+  "bbox": [
+    -147.320878,
+    64.729777,
+    -147.320878,
+    64.729777
+],
+  "geometry": {"coordinates":[-147.32087799999999,64.729777],"type":"Point"}
 }

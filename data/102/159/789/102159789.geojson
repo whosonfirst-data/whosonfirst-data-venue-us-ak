@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102159789",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.489184,59.638993,-151.489184,59.638993",
     "geom:latitude":59.638993,
     "geom:longitude":-151.489184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2214 Kachemak Dr",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102159789",
-    "wof:lastmodified":1449068093,
+    "wof:lastmodified":1466313679,
     "wof:name":"Cal Alaska Helicopters Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.489184,59.638993,-151.489184,59.638993],
-  "geometry": {"coordinates":[-151.489184,59.638993],"type":"Point"}
+  "bbox": [
+    -151.489184,
+    59.638993,
+    -151.489184,
+    59.638993
+],
+  "geometry": {"coordinates":[-151.48918399999999,59.638993],"type":"Point"}
 }

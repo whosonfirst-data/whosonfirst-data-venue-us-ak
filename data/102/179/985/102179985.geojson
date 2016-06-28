@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102179985",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.953881,61.161027,-149.953881,61.161027",
     "geom:latitude":61.161027,
     "geom:longitude":-149.953881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6504 Lakeway Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873737,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102179985",
-    "wof:lastmodified":1449069942,
+    "wof:lastmodified":1466314177,
     "wof:name":"Alaska Online Job Network",
     "wof:parent_id":85873737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.953881,61.161027,-149.953881,61.161027],
+  "bbox": [
+    -149.953881,
+    61.161027,
+    -149.953881,
+    61.161027
+],
   "geometry": {"coordinates":[-149.953881,61.161027],"type":"Point"}
 }

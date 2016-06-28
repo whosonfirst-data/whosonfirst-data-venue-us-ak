@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153499",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.43688,59.607495,-151.43688,59.607495",
     "geom:latitude":59.607495,
     "geom:longitude":-151.43688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4287 Homer Spit Rd",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102153499",
-    "wof:lastmodified":1449069461,
+    "wof:lastmodified":1466313553,
     "wof:name":"Red Mountain Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.43688,59.607495,-151.43688,59.607495],
+  "bbox": [
+    -151.43688,
+    59.607495,
+    -151.43688,
+    59.607495
+],
   "geometry": {"coordinates":[-151.43688,59.607495],"type":"Point"}
 }

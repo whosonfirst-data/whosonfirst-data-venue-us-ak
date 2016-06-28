@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102164729",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.800491,64.896552,-147.800491,64.896552",
     "geom:latitude":64.896552,
     "geom:longitude":-147.800491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1598 Wolverine Ln",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102164729",
-    "wof:lastmodified":1449068089,
+    "wof:lastmodified":1466313805,
     "wof:name":"Pet Pride",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.800491,64.896552,-147.800491,64.896552],
-  "geometry": {"coordinates":[-147.800491,64.896552],"type":"Point"}
+  "bbox": [
+    -147.800491,
+    64.896552,
+    -147.800491,
+    64.896552
+],
+  "geometry": {"coordinates":[-147.80049099999999,64.896552],"type":"Point"}
 }

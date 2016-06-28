@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102157333",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.349403,60.353282,-149.349403,60.353282",
     "geom:latitude":60.353282,
     "geom:longitude":-149.349403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27066 Seward Hwy",
     "sg:city":"Seward",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102157333",
-    "wof:lastmodified":1449069833,
+    "wof:lastmodified":1466313533,
     "wof:name":"Alaska Viewpoint Publishing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.349403,60.353282,-149.349403,60.353282],
+  "bbox": [
+    -149.349403,
+    60.353282,
+    -149.349403,
+    60.353282
+],
   "geometry": {"coordinates":[-149.349403,60.353282],"type":"Point"}
 }

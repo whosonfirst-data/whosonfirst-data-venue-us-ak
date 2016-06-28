@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172531",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.838748,61.208953,-149.838748,61.208953",
     "geom:latitude":61.208953,
     "geom:longitude":-149.838748,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Merrill Field Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"www.nlavionics.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873729,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":"102172531",
-    "wof:lastmodified":1449068734,
+    "wof:lastmodified":1466313957,
     "wof:name":"Northern Lights Avionics",
     "wof:parent_id":85873729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.838748,61.208953,-149.838748,61.208953],
-  "geometry": {"coordinates":[-149.838748,61.208953],"type":"Point"}
+  "bbox": [
+    -149.838748,
+    61.208953,
+    -149.838748,
+    61.208953
+],
+  "geometry": {"coordinates":[-149.83874800000001,61.208953],"type":"Point"}
 }

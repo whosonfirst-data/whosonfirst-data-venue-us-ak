@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185267",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-133.098061,55.555591,-133.098061,55.555591",
     "geom:latitude":55.555591,
     "geom:longitude":-133.098061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Bayview Blvd",
     "sg:city":"Klawock",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102185267",
-    "wof:lastmodified":1449068198,
+    "wof:lastmodified":1466314108,
     "wof:name":"Klawock IRA Pull Tabs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-133.098061,55.555591,-133.098061,55.555591],
+  "bbox": [
+    -133.098061,
+    55.555591,
+    -133.098061,
+    55.555591
+],
   "geometry": {"coordinates":[-133.098061,55.555591],"type":"Point"}
 }

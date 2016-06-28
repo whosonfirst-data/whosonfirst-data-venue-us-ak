@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192891",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.535787,59.645853,-151.535787,59.645853",
     "geom:latitude":59.645853,
     "geom:longitude":-151.535787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Klondike Ave",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102192891",
-    "wof:lastmodified":1449069504,
+    "wof:lastmodified":1466314248,
     "wof:name":"O'Leary's Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.535787,59.645853,-151.535787,59.645853],
+  "bbox": [
+    -151.535787,
+    59.645853,
+    -151.535787,
+    59.645853
+],
   "geometry": {"coordinates":[-151.535787,59.645853],"type":"Point"}
 }

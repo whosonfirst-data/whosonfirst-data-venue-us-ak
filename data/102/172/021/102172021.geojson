@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172021",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.561294,64.816919,-147.561294,64.816919",
     "geom:latitude":64.816919,
     "geom:longitude":-147.561294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"857 Faultline Ave",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102172021",
-    "wof:lastmodified":1449068735,
+    "wof:lastmodified":1466313856,
     "wof:name":"Dave Mc Carter Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.561294,64.816919,-147.561294,64.816919],
+  "bbox": [
+    -147.561294,
+    64.816919,
+    -147.561294,
+    64.816919
+],
   "geometry": {"coordinates":[-147.561294,64.816919],"type":"Point"}
 }

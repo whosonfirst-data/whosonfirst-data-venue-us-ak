@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102181745",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.673872,64.843681,-147.673872,64.843681",
     "geom:latitude":64.843681,
     "geom:longitude":-147.673872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"422 Glacier Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.starconsultingcpa.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823671,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85823671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102181745",
-    "wof:lastmodified":1449069236,
+    "wof:lastmodified":1466314116,
     "wof:name":"Star Consulting LLC",
     "wof:parent_id":85823671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.673872,64.843681,-147.673872,64.843681],
-  "geometry": {"coordinates":[-147.673872,64.843681],"type":"Point"}
+  "bbox": [
+    -147.673872,
+    64.843681,
+    -147.673872,
+    64.843681
+],
+  "geometry": {"coordinates":[-147.67387199999999,64.843681],"type":"Point"}
 }

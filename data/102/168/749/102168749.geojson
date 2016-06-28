@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102168749",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.899535,61.210074,-149.899535,61.210074",
     "geom:latitude":61.210074,
     "geom:longitude":-149.899535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1239 I St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.alaska-wildflower-inn.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873721,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102168749",
-    "wof:lastmodified":1449069006,
+    "wof:lastmodified":1466313821,
     "wof:name":"A Wildflower Inn",
     "wof:parent_id":85873721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.899535,61.210074,-149.899535,61.210074],
-  "geometry": {"coordinates":[-149.899535,61.210074],"type":"Point"}
+  "bbox": [
+    -149.899535,
+    61.210074,
+    -149.899535,
+    61.210074
+],
+  "geometry": {"coordinates":[-149.89953499999999,61.210074],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102190589",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.114611,61.603853,-149.114611,61.603853",
     "geom:latitude":61.603853,
     "geom:longitude":-149.114611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"342 S Alaska St",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102190589",
-    "wof:lastmodified":1449070035,
+    "wof:lastmodified":1466313967,
     "wof:name":"Infinity Physical Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.114611,61.603853,-149.114611,61.603853],
+  "bbox": [
+    -149.114611,
+    61.603853,
+    -149.114611,
+    61.603853
+],
   "geometry": {"coordinates":[-149.114611,61.603853],"type":"Point"}
 }

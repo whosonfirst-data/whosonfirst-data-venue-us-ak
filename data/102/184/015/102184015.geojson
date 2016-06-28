@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184015",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.641555,58.361813,-134.641555,58.361813",
     "geom:latitude":58.361813,
     "geom:longitude":-134.641555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10495 Ann Coleman Rd",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102184015",
-    "wof:lastmodified":1449068216,
+    "wof:lastmodified":1466314180,
     "wof:name":"Serenity Inn Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.641555,58.361813,-134.641555,58.361813],
-  "geometry": {"coordinates":[-134.641555,58.361813],"type":"Point"}
+  "bbox": [
+    -134.641555,
+    58.361813,
+    -134.641555,
+    58.361813
+],
+  "geometry": {"coordinates":[-134.64155500000001,58.361813],"type":"Point"}
 }

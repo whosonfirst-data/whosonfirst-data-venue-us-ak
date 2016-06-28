@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102156091",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.672713,64.842638,-147.672713,64.842638",
     "geom:latitude":64.842638,
     "geom:longitude":-147.672713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 Haines Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823671,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85823671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102156091",
-    "wof:lastmodified":1449068281,
+    "wof:lastmodified":1466313483,
     "wof:name":"Aurora Sheet Metal Inc",
     "wof:parent_id":85823671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.672713,64.842638,-147.672713,64.842638],
-  "geometry": {"coordinates":[-147.672713,64.842638],"type":"Point"}
+  "bbox": [
+    -147.672713,
+    64.842638,
+    -147.672713,
+    64.842638
+],
+  "geometry": {"coordinates":[-147.67271299999999,64.84263799999999],"type":"Point"}
 }

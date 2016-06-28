@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102194187",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.435827,58.106418,-135.435827,58.106418",
     "geom:latitude":58.106418,
     "geom:longitude":-135.435827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"511 Lumbago Dr",
     "sg:city":"Hoonah",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102194187",
-    "wof:lastmodified":1449069828,
+    "wof:lastmodified":1466314253,
     "wof:name":"Janaggan Touring & Guiding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.435827,58.106418,-135.435827,58.106418],
-  "geometry": {"coordinates":[-135.435827,58.106418],"type":"Point"}
+  "bbox": [
+    -135.435827,
+    58.106418,
+    -135.435827,
+    58.106418
+],
+  "geometry": {"coordinates":[-135.43582699999999,58.106418],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102188517",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-148.013505,64.846583,-148.013505,64.846583",
     "geom:latitude":64.846583,
     "geom:longitude":-148.013505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3660 Main St",
     "sg:city":"Ester",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102188517",
-    "wof:lastmodified":1449068947,
+    "wof:lastmodified":1466313547,
     "wof:name":"Ester Gold Camp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-148.013505,64.846583,-148.013505,64.846583],
-  "geometry": {"coordinates":[-148.013505,64.846583],"type":"Point"}
+  "bbox": [
+    -148.013505,
+    64.846583,
+    -148.013505,
+    64.846583
+],
+  "geometry": {"coordinates":[-148.01350500000001,64.846583],"type":"Point"}
 }

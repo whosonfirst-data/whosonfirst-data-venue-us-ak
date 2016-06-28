@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102158367",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.356606,57.804475,-152.356606,57.804475",
     "geom:latitude":57.804475,
     "geom:longitude":-152.356606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2713 Spruce Cape Rd",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102158367",
-    "wof:lastmodified":1449069393,
+    "wof:lastmodified":1466313581,
     "wof:name":"Kodiak Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.356606,57.804475,-152.356606,57.804475],
+  "bbox": [
+    -152.356606,
+    57.804475,
+    -152.356606,
+    57.804475
+],
   "geometry": {"coordinates":[-152.356606,57.804475],"type":"Point"}
 }

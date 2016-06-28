@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102195197",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.391898,57.102969,-135.391898,57.102969",
     "geom:latitude":57.102969,
     "geom:longitude":-135.391898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Granite Creek Rd",
     "sg:city":"Sitka",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102195197",
-    "wof:lastmodified":1449069364,
+    "wof:lastmodified":1466314286,
     "wof:name":"LNS Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.391898,57.102969,-135.391898,57.102969],
+  "bbox": [
+    -135.391898,
+    57.102969,
+    -135.391898,
+    57.102969
+],
   "geometry": {"coordinates":[-135.391898,57.102969],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102177847",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.567222,64.90515,-147.567222,64.90515",
     "geom:latitude":64.90515,
     "geom:longitude":-147.567222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"893 Spudwood Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102177847",
-    "wof:lastmodified":1449070208,
+    "wof:lastmodified":1466314035,
     "wof:name":"Twin Springs Water",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.567222,64.90515,-147.567222,64.90515],
-  "geometry": {"coordinates":[-147.567222,64.90515],"type":"Point"}
+  "bbox": [
+    -147.567222,
+    64.90515,
+    -147.567222,
+    64.90515
+],
+  "geometry": {"coordinates":[-147.56722199999999,64.90515000000001],"type":"Point"}
 }

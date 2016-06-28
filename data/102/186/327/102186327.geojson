@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102186327",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.852701,64.842351,-147.852701,64.842351",
     "geom:latitude":64.842351,
     "geom:longitude":-147.852701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4475 Dartmouth Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102186327",
-    "wof:lastmodified":1449069654,
+    "wof:lastmodified":1466314122,
     "wof:name":"Tom Zastrow's Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.852701,64.842351,-147.852701,64.842351],
-  "geometry": {"coordinates":[-147.852701,64.842351],"type":"Point"}
+  "bbox": [
+    -147.852701,
+    64.842351,
+    -147.852701,
+    64.842351
+],
+  "geometry": {"coordinates":[-147.852701,64.84235099999999],"type":"Point"}
 }

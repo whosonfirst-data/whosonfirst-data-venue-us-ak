@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102150631",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.793209,61.08405,-149.793209,61.08405",
     "geom:latitude":61.08405,
     "geom:longitude":-149.793209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15245 Longbow Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873751,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102150631",
-    "wof:lastmodified":1449067791,
+    "wof:lastmodified":1466314056,
     "wof:name":"Straightline",
     "wof:parent_id":85873751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.793209,61.08405,-149.793209,61.08405],
-  "geometry": {"coordinates":[-149.793209,61.08405],"type":"Point"}
+  "bbox": [
+    -149.793209,
+    61.08405,
+    -149.793209,
+    61.08405
+],
+  "geometry": {"coordinates":[-149.79320899999999,61.08405],"type":"Point"}
 }

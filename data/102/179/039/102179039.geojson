@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102179039",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.570823,61.324435,-149.570823,61.324435",
     "geom:latitude":61.324435,
     "geom:longitude":-149.570823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11501 Old Glenn Hwy",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102179039",
-    "wof:lastmodified":1449069943,
+    "wof:lastmodified":1466313880,
     "wof:name":"North Slope Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.570823,61.324435,-149.570823,61.324435],
-  "geometry": {"coordinates":[-149.570823,61.324435],"type":"Point"}
+  "bbox": [
+    -149.570823,
+    61.324435,
+    -149.570823,
+    61.324435
+],
+  "geometry": {"coordinates":[-149.57082299999999,61.324435],"type":"Point"}
 }

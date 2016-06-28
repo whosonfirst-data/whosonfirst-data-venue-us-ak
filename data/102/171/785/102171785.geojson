@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171785",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.698091,64.838749,-147.698091,64.838749",
     "geom:latitude":64.838749,
     "geom:longitude":-147.698091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Kody Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823671,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85823671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102171785",
-    "wof:lastmodified":1449070223,
+    "wof:lastmodified":1466313957,
     "wof:name":"Commercial Cleaning Svc",
     "wof:parent_id":85823671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.698091,64.838749,-147.698091,64.838749],
-  "geometry": {"coordinates":[-147.698091,64.838749],"type":"Point"}
+  "bbox": [
+    -147.698091,
+    64.838749,
+    -147.698091,
+    64.838749
+],
+  "geometry": {"coordinates":[-147.69809100000001,64.83874900000001],"type":"Point"}
 }

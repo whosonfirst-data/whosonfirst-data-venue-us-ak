@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102195357",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.281777,57.042905,-135.281777,57.042905",
     "geom:latitude":57.042905,
     "geom:longitude":-135.281777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Knutson Dr",
     "sg:city":"Sitka",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102195357",
-    "wof:lastmodified":1449069365,
+    "wof:lastmodified":1466314289,
     "wof:name":"Holtkamp Enterprise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.281777,57.042905,-135.281777,57.042905],
-  "geometry": {"coordinates":[-135.281777,57.042905],"type":"Point"}
+  "bbox": [
+    -135.281777,
+    57.042905,
+    -135.281777,
+    57.042905
+],
+  "geometry": {"coordinates":[-135.28177700000001,57.042905],"type":"Point"}
 }

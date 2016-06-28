@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102159781",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.651441,61.612932,-149.651441,61.612932",
     "geom:latitude":61.612932,
     "geom:longitude":-149.651441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5105 Meadow Lakes Loop",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102159781",
-    "wof:lastmodified":1449068091,
+    "wof:lastmodified":1466313678,
     "wof:name":"Alaska Parts Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.651441,61.612932,-149.651441,61.612932],
-  "geometry": {"coordinates":[-149.651441,61.612932],"type":"Point"}
+  "bbox": [
+    -149.651441,
+    61.612932,
+    -149.651441,
+    61.612932
+],
+  "geometry": {"coordinates":[-149.65144100000001,61.612932],"type":"Point"}
 }

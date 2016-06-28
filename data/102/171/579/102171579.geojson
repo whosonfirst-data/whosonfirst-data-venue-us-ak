@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171579",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.133833,64.869391,-147.133833,64.869391",
     "geom:latitude":64.869391,
     "geom:longitude":-147.133833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4968 Chena Hot Springs Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102171579",
-    "wof:lastmodified":1449070223,
+    "wof:lastmodified":1466313917,
     "wof:name":"Two Rivers Lodge Fine Dining",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.133833,64.869391,-147.133833,64.869391],
-  "geometry": {"coordinates":[-147.133833,64.869391],"type":"Point"}
+  "bbox": [
+    -147.133833,
+    64.869391,
+    -147.133833,
+    64.869391
+],
+  "geometry": {"coordinates":[-147.13383300000001,64.86939099999999],"type":"Point"}
 }

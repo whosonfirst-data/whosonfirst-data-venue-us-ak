@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102175035",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.956043,61.128664,-149.956043,61.128664",
     "geom:latitude":61.128664,
     "geom:longitude":-149.956043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 Endeavour Cir",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873739,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102175035",
-    "wof:lastmodified":1449069470,
+    "wof:lastmodified":1466313866,
     "wof:name":"Arctic Enterprises",
     "wof:parent_id":85873739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.956043,61.128664,-149.956043,61.128664],
-  "geometry": {"coordinates":[-149.956043,61.128664],"type":"Point"}
+  "bbox": [
+    -149.956043,
+    61.128664,
+    -149.956043,
+    61.128664
+],
+  "geometry": {"coordinates":[-149.95604299999999,61.128664],"type":"Point"}
 }

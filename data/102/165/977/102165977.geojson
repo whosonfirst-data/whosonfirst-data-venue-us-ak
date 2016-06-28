@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102165977",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.249353,61.574375,-149.249353,61.574375",
     "geom:latitude":61.574375,
     "geom:longitude":-149.249353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"755 Baroness Ln",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102165977",
-    "wof:lastmodified":1449070217,
+    "wof:lastmodified":1466313853,
     "wof:name":"Mat Valley Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.249353,61.574375,-149.249353,61.574375],
-  "geometry": {"coordinates":[-149.249353,61.574375],"type":"Point"}
+  "bbox": [
+    -149.249353,
+    61.574375,
+    -149.249353,
+    61.574375
+],
+  "geometry": {"coordinates":[-149.24935300000001,61.574375],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102149875",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.639578,55.340483,-131.639578,55.340483",
     "geom:latitude":55.340483,
     "geom:longitude":-131.639578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Stedman St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102149875",
-    "wof:lastmodified":1449067770,
+    "wof:lastmodified":1466313608,
     "wof:name":"Shadow Mountain Trading Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.639578,55.340483,-131.639578,55.340483],
+  "bbox": [
+    -131.639578,
+    55.340483,
+    -131.639578,
+    55.340483
+],
   "geometry": {"coordinates":[-131.639578,55.340483],"type":"Point"}
 }

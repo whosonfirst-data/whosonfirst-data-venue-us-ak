@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185499",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.653364,64.904187,-147.653364,64.904187",
     "geom:latitude":64.904187,
     "geom:longitude":-147.653364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Marten Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102185499",
-    "wof:lastmodified":1449068195,
+    "wof:lastmodified":1466314211,
     "wof:name":"Bruce's Burner Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.653364,64.904187,-147.653364,64.904187],
-  "geometry": {"coordinates":[-147.653364,64.904187],"type":"Point"}
+  "bbox": [
+    -147.653364,
+    64.904187,
+    -147.653364,
+    64.904187
+],
+  "geometry": {"coordinates":[-147.65336400000001,64.90418699999999],"type":"Point"}
 }

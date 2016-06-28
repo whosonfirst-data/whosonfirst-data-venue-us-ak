@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102189095",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.301485,59.464029,-135.301485,59.464029",
     "geom:latitude":59.464029,
     "geom:longitude":-135.301485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1989 State St",
     "sg:city":"Skagway",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102189095",
-    "wof:lastmodified":1449069497,
+    "wof:lastmodified":1466313665,
     "wof:name":"Pine Country Crafts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.301485,59.464029,-135.301485,59.464029],
-  "geometry": {"coordinates":[-135.301485,59.464029],"type":"Point"}
+  "bbox": [
+    -135.301485,
+    59.464029,
+    -135.301485,
+    59.464029
+],
+  "geometry": {"coordinates":[-135.30148500000001,59.464029],"type":"Point"}
 }

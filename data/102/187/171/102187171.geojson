@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187171",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.810862,61.154749,-149.810862,61.154749",
     "geom:latitude":61.154749,
     "geom:longitude":-149.810862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7330 Christopher Cir",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102187171",
-    "wof:lastmodified":1449068160,
+    "wof:lastmodified":1466314198,
     "wof:name":"JDS Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.810862,61.154749,-149.810862,61.154749],
-  "geometry": {"coordinates":[-149.810862,61.154749],"type":"Point"}
+  "bbox": [
+    -149.810862,
+    61.154749,
+    -149.810862,
+    61.154749
+],
+  "geometry": {"coordinates":[-149.81086199999999,61.154749],"type":"Point"}
 }

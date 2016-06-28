@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102154919",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.29625,57.047426,-135.29625,57.047426",
     "geom:latitude":57.047426,
     "geom:longitude":-135.29625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1547 Sawmill Creek Rd",
     "sg:city":"Sitka",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102154919",
-    "wof:lastmodified":1449070244,
+    "wof:lastmodified":1466313631,
     "wof:name":"Mudry Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.29625,57.047426,-135.29625,57.047426],
-  "geometry": {"coordinates":[-135.29625,57.047426],"type":"Point"}
+  "bbox": [
+    -135.29625,
+    57.047426,
+    -135.29625,
+    57.047426
+],
+  "geometry": {"coordinates":[-135.29624999999999,57.047426],"type":"Point"}
 }

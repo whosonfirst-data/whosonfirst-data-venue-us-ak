@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166165",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.289252,60.404646,-151.289252,60.404646",
     "geom:latitude":60.404646,
     "geom:longitude":-151.289252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52709 Wendy Ct",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102166165",
-    "wof:lastmodified":1449069088,
+    "wof:lastmodified":1466313695,
     "wof:name":"Commercial Appliance & Refrig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.289252,60.404646,-151.289252,60.404646],
+  "bbox": [
+    -151.289252,
+    60.404646,
+    -151.289252,
+    60.404646
+],
   "geometry": {"coordinates":[-151.289252,60.404646],"type":"Point"}
 }

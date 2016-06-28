@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102188247",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.723344,55.374404,-131.723344,55.374404",
     "geom:latitude":55.374404,
     "geom:longitude":-131.723344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5559 N Tongass Hwy",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102188247",
-    "wof:lastmodified":1449068946,
+    "wof:lastmodified":1466313496,
     "wof:name":"North Tongass Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.723344,55.374404,-131.723344,55.374404],
+  "bbox": [
+    -131.723344,
+    55.374404,
+    -131.723344,
+    55.374404
+],
   "geometry": {"coordinates":[-131.723344,55.374404],"type":"Point"}
 }

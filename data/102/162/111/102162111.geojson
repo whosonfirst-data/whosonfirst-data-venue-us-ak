@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102162111",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.137013,60.459717,-151.137013,60.459717",
     "geom:latitude":60.459717,
     "geom:longitude":-151.137013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33055 Baylor St",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102162111",
-    "wof:lastmodified":1449069823,
+    "wof:lastmodified":1466313669,
     "wof:name":"Caribou Hills Accommodations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.137013,60.459717,-151.137013,60.459717],
+  "bbox": [
+    -151.137013,
+    60.459717,
+    -151.137013,
+    60.459717
+],
   "geometry": {"coordinates":[-151.137013,60.459717],"type":"Point"}
 }

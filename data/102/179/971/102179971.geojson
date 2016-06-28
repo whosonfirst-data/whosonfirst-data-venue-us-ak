@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102179971",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.379944,57.084204,-135.379944,57.084204",
     "geom:latitude":57.084204,
     "geom:longitude":-135.379944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Sharon Dr",
     "sg:city":"Sitka",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102179971",
-    "wof:lastmodified":1449069942,
+    "wof:lastmodified":1466314061,
     "wof:name":"Little Bit Heavy Eqp Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.379944,57.084204,-135.379944,57.084204],
-  "geometry": {"coordinates":[-135.379944,57.084204],"type":"Point"}
+  "bbox": [
+    -135.379944,
+    57.084204,
+    -135.379944,
+    57.084204
+],
+  "geometry": {"coordinates":[-135.37994399999999,57.084204],"type":"Point"}
 }

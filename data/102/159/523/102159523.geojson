@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102159523",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.353954,57.804495,-152.353954,57.804495",
     "geom:latitude":57.804495,
     "geom:longitude":-152.353954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2732 Spruce Cape Rd",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102159523",
-    "wof:lastmodified":1449068093,
+    "wof:lastmodified":1466313628,
     "wof:name":"Belarde Custom Concrete Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.353954,57.804495,-152.353954,57.804495],
-  "geometry": {"coordinates":[-152.353954,57.804495],"type":"Point"}
+  "bbox": [
+    -152.353954,
+    57.804495,
+    -152.353954,
+    57.804495
+],
+  "geometry": {"coordinates":[-152.35395399999999,57.804495],"type":"Point"}
 }

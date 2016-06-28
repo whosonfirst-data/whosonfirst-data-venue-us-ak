@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102174113",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.069649,60.482026,-151.069649,60.482026",
     "geom:latitude":60.482026,
     "geom:longitude":-151.069649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 Binkley Cir",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102174113",
-    "wof:lastmodified":1449068142,
+    "wof:lastmodified":1466313879,
     "wof:name":"Aspen Hotel Soldotna",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.069649,60.482026,-151.069649,60.482026],
+  "bbox": [
+    -151.069649,
+    60.482026,
+    -151.069649,
+    60.482026
+],
   "geometry": {"coordinates":[-151.069649,60.482026],"type":"Point"}
 }

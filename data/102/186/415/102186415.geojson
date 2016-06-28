@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102186415",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.39992,64.892392,-147.39992,64.892392",
     "geom:latitude":64.892392,
     "geom:longitude":-147.39992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2482 Chena Hot Springs Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102186415",
-    "wof:lastmodified":1449069654,
+    "wof:lastmodified":1466314134,
     "wof:name":"Track Man",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.39992,64.892392,-147.39992,64.892392],
-  "geometry": {"coordinates":[-147.39992,64.892392],"type":"Point"}
+  "bbox": [
+    -147.39992,
+    64.892392,
+    -147.39992,
+    64.892392
+],
+  "geometry": {"coordinates":[-147.39992000000001,64.892392],"type":"Point"}
 }

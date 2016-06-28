@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102165359",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-146.9831,64.521344,-146.9831,64.521344",
     "geom:latitude":64.521344,
     "geom:longitude":-146.9831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7647 Richardson Hwy",
     "sg:city":"Salcha",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102165359",
-    "wof:lastmodified":1449070212,
+    "wof:lastmodified":1466313729,
     "wof:name":"Salcha Marine Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-146.9831,64.521344,-146.9831,64.521344],
-  "geometry": {"coordinates":[-146.9831,64.521344],"type":"Point"}
+  "bbox": [
+    -146.9831,
+    64.521344,
+    -146.9831,
+    64.521344
+],
+  "geometry": {"coordinates":[-146.98310000000001,64.521344],"type":"Point"}
 }

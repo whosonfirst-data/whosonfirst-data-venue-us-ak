@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173669",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.349447,57.813687,-152.349447,57.813687",
     "geom:latitude":57.813687,
     "geom:longitude":-152.349447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3454 Puffin Dr",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102173669",
-    "wof:lastmodified":1449068263,
+    "wof:lastmodified":1466313982,
     "wof:name":"Tobias Maintenance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.349447,57.813687,-152.349447,57.813687],
+  "bbox": [
+    -152.349447,
+    57.813687,
+    -152.349447,
+    57.813687
+],
   "geometry": {"coordinates":[-152.349447,57.813687],"type":"Point"}
 }

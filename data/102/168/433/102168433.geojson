@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102168433",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.35617,61.578685,-149.35617,61.578685",
     "geom:latitude":61.578685,
     "geom:longitude":-149.35617,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3660 E Ruth Dr",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102168433",
-    "wof:lastmodified":1449069007,
+    "wof:lastmodified":1466313758,
     "wof:name":"Northland Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.35617,61.578685,-149.35617,61.578685],
-  "geometry": {"coordinates":[-149.35617,61.578685],"type":"Point"}
+  "bbox": [
+    -149.35617,
+    61.578685,
+    -149.35617,
+    61.578685
+],
+  "geometry": {"coordinates":[-149.35616999999999,61.578685],"type":"Point"}
 }

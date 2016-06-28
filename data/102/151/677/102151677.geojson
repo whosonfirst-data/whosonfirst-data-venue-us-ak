@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102151677",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.845052,61.136528,-149.845052,61.136528",
     "geom:latitude":61.136528,
     "geom:longitude":-149.845052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9370 Redcoat Pl",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809155,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85809155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102151677",
-    "wof:lastmodified":1449067781,
+    "wof:lastmodified":1466313524,
     "wof:name":"A Visible Difference",
     "wof:parent_id":85809155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.845052,61.136528,-149.845052,61.136528],
-  "geometry": {"coordinates":[-149.845052,61.136528],"type":"Point"}
+  "bbox": [
+    -149.845052,
+    61.136528,
+    -149.845052,
+    61.136528
+],
+  "geometry": {"coordinates":[-149.84505200000001,61.136528],"type":"Point"}
 }

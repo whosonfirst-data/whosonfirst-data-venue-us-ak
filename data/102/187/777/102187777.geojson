@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187777",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.915607,61.211738,-149.915607,61.211738",
     "geom:latitude":61.211738,
     "geom:longitude":-149.915607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1629 W 11th Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873721,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102187777",
-    "wof:lastmodified":1449068158,
+    "wof:lastmodified":1466314230,
     "wof:name":"East West Connections",
     "wof:parent_id":85873721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.915607,61.211738,-149.915607,61.211738],
-  "geometry": {"coordinates":[-149.915607,61.211738],"type":"Point"}
+  "bbox": [
+    -149.915607,
+    61.211738,
+    -149.915607,
+    61.211738
+],
+  "geometry": {"coordinates":[-149.91560699999999,61.211738],"type":"Point"}
 }

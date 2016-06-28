@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176351",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.550727,59.649447,-151.550727,59.649447",
     "geom:latitude":59.649447,
     "geom:longitude":-151.550727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 W Fairview Ave",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102176351",
-    "wof:lastmodified":1449069349,
+    "wof:lastmodified":1466313940,
     "wof:name":"Alaska Center-Tradtnl Chinese",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.550727,59.649447,-151.550727,59.649447],
-  "geometry": {"coordinates":[-151.550727,59.649447],"type":"Point"}
+  "bbox": [
+    -151.550727,
+    59.649447,
+    -151.550727,
+    59.649447
+],
+  "geometry": {"coordinates":[-151.55072699999999,59.649447],"type":"Point"}
 }

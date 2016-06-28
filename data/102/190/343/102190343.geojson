@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102190343",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.960709,61.197916,-149.960709,61.197916",
     "geom:latitude":61.197916,
     "geom:longitude":-149.960709,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4140 Tazlina Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852831,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85852831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102190343",
-    "wof:lastmodified":1449070036,
+    "wof:lastmodified":1466313921,
     "wof:name":"Valhalla Lodge",
     "wof:parent_id":85852831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.960709,61.197916,-149.960709,61.197916],
-  "geometry": {"coordinates":[-149.960709,61.197916],"type":"Point"}
+  "bbox": [
+    -149.960709,
+    61.197916,
+    -149.960709,
+    61.197916
+],
+  "geometry": {"coordinates":[-149.96070900000001,61.197916],"type":"Point"}
 }

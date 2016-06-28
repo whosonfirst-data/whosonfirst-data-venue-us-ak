@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102175963",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.834255,61.153917,-149.834255,61.153917",
     "geom:latitude":61.153917,
     "geom:longitude":-149.834255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7216 Lake Otis Pkwy",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809155,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85809155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102175963",
-    "wof:lastmodified":1449069464,
+    "wof:lastmodified":1466314044,
     "wof:name":"Thompson Printing Svc",
     "wof:parent_id":85809155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.834255,61.153917,-149.834255,61.153917],
-  "geometry": {"coordinates":[-149.834255,61.153917],"type":"Point"}
+  "bbox": [
+    -149.834255,
+    61.153917,
+    -149.834255,
+    61.153917
+],
+  "geometry": {"coordinates":[-149.83425500000001,61.153917],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102152735",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.346586,64.756431,-147.346586,64.756431",
     "geom:latitude":64.756431,
     "geom:longitude":-147.346586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Saint Nicholas Dr",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102152735",
-    "wof:lastmodified":1449069637,
+    "wof:lastmodified":1466313605,
     "wof:name":"North Pole Espresso Drive Thru",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.346586,64.756431,-147.346586,64.756431],
-  "geometry": {"coordinates":[-147.346586,64.756431],"type":"Point"}
+  "bbox": [
+    -147.346586,
+    64.756431,
+    -147.346586,
+    64.756431
+],
+  "geometry": {"coordinates":[-147.346586,64.75643100000001],"type":"Point"}
 }

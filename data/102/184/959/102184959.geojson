@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184959",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.446042,59.232717,-135.446042,59.232717",
     "geom:latitude":59.232717,
     "geom:longitude":-135.446042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"144 2nd Ave",
     "sg:city":"Haines",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842771,
+        85688573,
         85633793,
         85916629,
         102083767,
-        85688573
+        85842771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102184959",
-    "wof:lastmodified":1449068217,
+    "wof:lastmodified":1466314233,
     "wof:name":"Absolutely Alaskan Tours",
     "wof:parent_id":85842771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.446042,59.232717,-135.446042,59.232717],
-  "geometry": {"coordinates":[-135.446042,59.232717],"type":"Point"}
+  "bbox": [
+    -135.446042,
+    59.232717,
+    -135.446042,
+    59.232717
+],
+  "geometry": {"coordinates":[-135.44604200000001,59.232717],"type":"Point"}
 }

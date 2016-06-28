@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102190323",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.650301,55.344262,-131.650301,55.344262",
     "geom:latitude":55.344262,
     "geom:longitude":-131.650301,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Front St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102190323",
-    "wof:lastmodified":1449070035,
+    "wof:lastmodified":1466313916,
     "wof:name":"Nantucket House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.650301,55.344262,-131.650301,55.344262],
-  "geometry": {"coordinates":[-131.650301,55.344262],"type":"Point"}
+  "bbox": [
+    -131.650301,
+    55.344262,
+    -131.650301,
+    55.344262
+],
+  "geometry": {"coordinates":[-131.65030100000001,55.344262],"type":"Point"}
 }

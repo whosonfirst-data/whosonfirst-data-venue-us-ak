@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102151095",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.891479,61.194261,-149.891479,61.194261",
     "geom:latitude":61.194261,
     "geom:longitude":-149.891479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 W Benson Blvd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873713,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102151095",
-    "wof:lastmodified":1449067782,
+    "wof:lastmodified":1466314014,
     "wof:name":"Northern Skies Federal CU",
     "wof:parent_id":85873713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.891479,61.194261,-149.891479,61.194261],
+  "bbox": [
+    -149.891479,
+    61.194261,
+    -149.891479,
+    61.194261
+],
   "geometry": {"coordinates":[-149.891479,61.194261],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102160603",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.311062,61.617412,-149.311062,61.617412",
     "geom:latitude":61.617412,
     "geom:longitude":-149.311062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5500 E Porcupine Ave",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102160603",
-    "wof:lastmodified":1449069777,
+    "wof:lastmodified":1466313714,
     "wof:name":"Bolinder Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.311062,61.617412,-149.311062,61.617412],
-  "geometry": {"coordinates":[-149.311062,61.617412],"type":"Point"}
+  "bbox": [
+    -149.311062,
+    61.617412,
+    -149.311062,
+    61.617412
+],
+  "geometry": {"coordinates":[-149.31106199999999,61.617412],"type":"Point"}
 }

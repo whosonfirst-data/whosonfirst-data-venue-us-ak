@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173479",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.879262,61.215853,-149.879262,61.215853",
     "geom:latitude":61.215853,
     "geom:longitude":-149.879262,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"626 Cordova St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.akwildlife.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873719,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102173479",
-    "wof:lastmodified":1449068265,
+    "wof:lastmodified":1466314147,
     "wof:name":"Alaska Wildlife Alliance",
     "wof:parent_id":85873719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.879262,61.215853,-149.879262,61.215853],
-  "geometry": {"coordinates":[-149.879262,61.215853],"type":"Point"}
+  "bbox": [
+    -149.879262,
+    61.215853,
+    -149.879262,
+    61.215853
+],
+  "geometry": {"coordinates":[-149.87926200000001,61.215853],"type":"Point"}
 }

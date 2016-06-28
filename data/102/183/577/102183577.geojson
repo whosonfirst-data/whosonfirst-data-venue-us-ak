@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102183577",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.878789,61.145548,-149.878789,61.145548",
     "geom:latitude":61.145548,
     "geom:longitude":-149.878789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8300 King St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.nprha.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809155,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85809155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102183577",
-    "wof:lastmodified":1449069044,
+    "wof:lastmodified":1466314208,
     "wof:name":"North Pacific Rim Housing Auth",
     "wof:parent_id":85809155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.878789,61.145548,-149.878789,61.145548],
-  "geometry": {"coordinates":[-149.878789,61.145548],"type":"Point"}
+  "bbox": [
+    -149.878789,
+    61.145548,
+    -149.878789,
+    61.145548
+],
+  "geometry": {"coordinates":[-149.87878900000001,61.145548],"type":"Point"}
 }

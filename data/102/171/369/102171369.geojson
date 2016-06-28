@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171369",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.736392,64.83049,-147.736392,64.83049",
     "geom:latitude":64.83049,
     "geom:longitude":-147.736392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 19th Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102171369",
-    "wof:lastmodified":1449070228,
+    "wof:lastmodified":1466313874,
     "wof:name":"Tanana Chiefs Conference Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.736392,64.83049,-147.736392,64.83049],
+  "bbox": [
+    -147.736392,
+    64.83049,
+    -147.736392,
+    64.83049
+],
   "geometry": {"coordinates":[-147.736392,64.83049],"type":"Point"}
 }

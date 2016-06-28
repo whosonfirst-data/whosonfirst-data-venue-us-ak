@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102158439",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.69502,64.850498,-147.69502,64.850498",
     "geom:latitude":64.850498,
     "geom:longitude":-147.69502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"607 Old Steese Hwy",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823671,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85823671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102158439",
-    "wof:lastmodified":1449069393,
+    "wof:lastmodified":1466313595,
     "wof:name":"Dental Arts Unlimited",
     "wof:parent_id":85823671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.69502,64.850498,-147.69502,64.850498],
+  "bbox": [
+    -147.69502,
+    64.850498,
+    -147.69502,
+    64.850498
+],
   "geometry": {"coordinates":[-147.69502,64.850498],"type":"Point"}
 }

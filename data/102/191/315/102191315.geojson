@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191315",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.574753,61.32291,-149.574753,61.32291",
     "geom:latitude":61.32291,
     "geom:longitude":-149.574753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16515 Centerfield Dr",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102191315",
-    "wof:lastmodified":1449069203,
+    "wof:lastmodified":1466314085,
     "wof:name":"Chugiak Children's Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.574753,61.32291,-149.574753,61.32291],
-  "geometry": {"coordinates":[-149.574753,61.32291],"type":"Point"}
+  "bbox": [
+    -149.574753,
+    61.32291,
+    -149.574753,
+    61.32291
+],
+  "geometry": {"coordinates":[-149.57475299999999,61.32291],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171729",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.887602,64.830792,-147.887602,64.830792",
     "geom:latitude":64.830792,
     "geom:longitude":-147.887602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"890 Chena Pump Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102171729",
-    "wof:lastmodified":1449070223,
+    "wof:lastmodified":1466313947,
     "wof:name":"Set Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.887602,64.830792,-147.887602,64.830792],
-  "geometry": {"coordinates":[-147.887602,64.830792],"type":"Point"}
+  "bbox": [
+    -147.887602,
+    64.830792,
+    -147.887602,
+    64.830792
+],
+  "geometry": {"coordinates":[-147.88760199999999,64.830792],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173827",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.799804,64.88797,-147.799804,64.88797",
     "geom:latitude":64.88797,
     "geom:longitude":-147.799804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Eton Blvd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102173827",
-    "wof:lastmodified":1449068266,
+    "wof:lastmodified":1466314012,
     "wof:name":"Merrit Video Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.799804,64.88797,-147.799804,64.88797],
-  "geometry": {"coordinates":[-147.799804,64.88797],"type":"Point"}
+  "bbox": [
+    -147.799804,
+    64.88797,
+    -147.799804,
+    64.88797
+],
+  "geometry": {"coordinates":[-147.79980399999999,64.88797],"type":"Point"}
 }

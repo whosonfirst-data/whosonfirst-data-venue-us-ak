@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185591",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.776776,55.479185,-131.776776,55.479185",
     "geom:latitude":55.479185,
     "geom:longitude":-131.776776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15454 Pandora's Ln",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102185591",
-    "wof:lastmodified":1449068197,
+    "wof:lastmodified":1466314214,
     "wof:name":"Channel Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.776776,55.479185,-131.776776,55.479185],
-  "geometry": {"coordinates":[-131.776776,55.479185],"type":"Point"}
+  "bbox": [
+    -131.776776,
+    55.479185,
+    -131.776776,
+    55.479185
+],
+  "geometry": {"coordinates":[-131.77677600000001,55.479185],"type":"Point"}
 }

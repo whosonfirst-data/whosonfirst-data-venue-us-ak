@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172075",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.95879,64.852455,-147.95879,64.852455",
     "geom:latitude":64.852455,
     "geom:longitude":-147.95879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Yana Ct",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102172075",
-    "wof:lastmodified":1449068737,
+    "wof:lastmodified":1466314138,
     "wof:name":"Cloudberry Lookout B & B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.95879,64.852455,-147.95879,64.852455],
-  "geometry": {"coordinates":[-147.95879,64.852455],"type":"Point"}
+  "bbox": [
+    -147.95879,
+    64.852455,
+    -147.95879,
+    64.852455
+],
+  "geometry": {"coordinates":[-147.95878999999999,64.85245500000001],"type":"Point"}
 }

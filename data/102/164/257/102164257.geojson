@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102164257",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.405189,61.571662,-149.405189,61.571662",
     "geom:latitude":61.571662,
     "geom:longitude":-149.405189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1061 Enterprise St",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102164257",
-    "wof:lastmodified":1449068090,
+    "wof:lastmodified":1466313710,
     "wof:name":"4 Star Construction Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.405189,61.571662,-149.405189,61.571662],
-  "geometry": {"coordinates":[-149.405189,61.571662],"type":"Point"}
+  "bbox": [
+    -149.405189,
+    61.571662,
+    -149.405189,
+    61.571662
+],
+  "geometry": {"coordinates":[-149.40518900000001,61.571662],"type":"Point"}
 }

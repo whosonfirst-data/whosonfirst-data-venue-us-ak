@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102177197",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-161.769221,60.793342,-161.769221,60.793342",
     "geom:latitude":60.793342,
     "geom:longitude":-161.769221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 State Hwy",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102177197",
-    "wof:lastmodified":1449070209,
+    "wof:lastmodified":1466313911,
     "wof:name":"Environmental Conservation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-161.769221,60.793342,-161.769221,60.793342],
-  "geometry": {"coordinates":[-161.769221,60.793342],"type":"Point"}
+  "bbox": [
+    -161.769221,
+    60.793342,
+    -161.769221,
+    60.793342
+],
+  "geometry": {"coordinates":[-161.76922099999999,60.793342],"type":"Point"}
 }

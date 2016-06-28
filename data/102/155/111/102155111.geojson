@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155111",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.652527,60.039667,-151.652527,60.039667",
     "geom:latitude":60.039667,
     "geom:longitude":-151.652527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15960 Cecelia St",
     "sg:city":"Ninilchik",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102155111",
-    "wof:lastmodified":1449069745,
+    "wof:lastmodified":1466314101,
     "wof:name":"National Property Inspections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.652527,60.039667,-151.652527,60.039667],
-  "geometry": {"coordinates":[-151.652527,60.039667],"type":"Point"}
+  "bbox": [
+    -151.652527,
+    60.039667,
+    -151.652527,
+    60.039667
+],
+  "geometry": {"coordinates":[-151.65252699999999,60.039667],"type":"Point"}
 }

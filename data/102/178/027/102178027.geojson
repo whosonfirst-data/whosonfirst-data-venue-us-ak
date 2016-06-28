@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178027",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.73722,61.21695,-149.73722,61.21695",
     "geom:latitude":61.21695,
     "geom:longitude":-149.73722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7500 E 6th Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873731,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102178027",
-    "wof:lastmodified":1449069528,
+    "wof:lastmodified":1466313878,
     "wof:name":"Creekside Park Elementary",
     "wof:parent_id":85873731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.73722,61.21695,-149.73722,61.21695],
-  "geometry": {"coordinates":[-149.73722,61.21695],"type":"Point"}
+  "bbox": [
+    -149.73722,
+    61.21695,
+    -149.73722,
+    61.21695
+],
+  "geometry": {"coordinates":[-149.73722000000001,61.21695],"type":"Point"}
 }

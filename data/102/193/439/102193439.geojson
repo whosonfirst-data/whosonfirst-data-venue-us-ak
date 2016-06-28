@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102193439",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.246049,60.558261,-151.246049,60.558261",
     "geom:latitude":60.558261,
     "geom:longitude":-151.246049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Bidarka St",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102193439",
-    "wof:lastmodified":1449068192,
+    "wof:lastmodified":1466314274,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.246049,60.558261,-151.246049,60.558261],
+  "bbox": [
+    -151.246049,
+    60.558261,
+    -151.246049,
+    60.558261
+],
   "geometry": {"coordinates":[-151.246049,60.558261],"type":"Point"}
 }

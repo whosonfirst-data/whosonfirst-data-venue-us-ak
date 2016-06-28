@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102159539",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-161.778428,60.795303,-161.778428,60.795303",
     "geom:latitude":60.795303,
     "geom:longitude":-161.778428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 Mission Dr",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102159539",
-    "wof:lastmodified":1449068096,
+    "wof:lastmodified":1466313631,
     "wof:name":"Lake View Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-161.778428,60.795303,-161.778428,60.795303],
-  "geometry": {"coordinates":[-161.778428,60.795303],"type":"Point"}
+  "bbox": [
+    -161.778428,
+    60.795303,
+    -161.778428,
+    60.795303
+],
+  "geometry": {"coordinates":[-161.77842799999999,60.795303],"type":"Point"}
 }

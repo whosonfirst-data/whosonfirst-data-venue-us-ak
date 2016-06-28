@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102151831",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.784984,64.859551,-147.784984,64.859551",
     "geom:latitude":64.859551,
     "geom:longitude":-147.784984,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2825 Mack Blvd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869043,
+        85688573,
         85633793,
         85916609,
         102081397,
-        85688573
+        85869043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102151831",
-    "wof:lastmodified":1449067782,
+    "wof:lastmodified":1466313556,
     "wof:name":"Golden Daze Shop",
     "wof:parent_id":85869043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.784984,64.859551,-147.784984,64.859551],
-  "geometry": {"coordinates":[-147.784984,64.859551],"type":"Point"}
+  "bbox": [
+    -147.784984,
+    64.859551,
+    -147.784984,
+    64.859551
+],
+  "geometry": {"coordinates":[-147.78498400000001,64.859551],"type":"Point"}
 }

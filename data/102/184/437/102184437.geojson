@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184437",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-150.732899,60.530093,-150.732899,60.530093",
     "geom:latitude":60.530093,
     "geom:longitude":-150.732899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32995 Sterling Hwy",
     "sg:city":"Sterling",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102184437",
-    "wof:lastmodified":1449068218,
+    "wof:lastmodified":1466314125,
     "wof:name":"Bolstridge & Bolstridge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-150.732899,60.530093,-150.732899,60.530093],
+  "bbox": [
+    -150.732899,
+    60.530093,
+    -150.732899,
+    60.530093
+],
   "geometry": {"coordinates":[-150.732899,60.530093],"type":"Point"}
 }

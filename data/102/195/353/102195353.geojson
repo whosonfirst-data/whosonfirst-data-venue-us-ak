@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102195353",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-156.781528,71.288194,-156.781528,71.288194",
     "geom:latitude":71.288194,
     "geom:longitude":-156.781528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1721 Ahkovak St",
     "sg:city":"Barrow",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102195353",
-    "wof:lastmodified":1449069364,
+    "wof:lastmodified":1466314289,
     "wof:name":"Cape Smythe Air Freight",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-156.781528,71.288194,-156.781528,71.288194],
-  "geometry": {"coordinates":[-156.781528,71.288194],"type":"Point"}
+  "bbox": [
+    -156.781528,
+    71.288194,
+    -156.781528,
+    71.288194
+],
+  "geometry": {"coordinates":[-156.78152800000001,71.288194],"type":"Point"}
 }

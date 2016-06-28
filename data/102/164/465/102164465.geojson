@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102164465",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.381194,57.803527,-152.381194,57.803527",
     "geom:latitude":57.803527,
     "geom:longitude":-152.381194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1620 Larch St",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102164465",
-    "wof:lastmodified":1449068089,
+    "wof:lastmodified":1466313751,
     "wof:name":"Seafresh Alaska",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.381194,57.803527,-152.381194,57.803527],
-  "geometry": {"coordinates":[-152.381194,57.803527],"type":"Point"}
+  "bbox": [
+    -152.381194,
+    57.803527,
+    -152.381194,
+    57.803527
+],
+  "geometry": {"coordinates":[-152.38119399999999,57.803527],"type":"Point"}
 }

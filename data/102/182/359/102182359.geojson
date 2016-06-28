@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102182359",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.693997,64.841932,-147.693997,64.841932",
     "geom:latitude":64.841932,
     "geom:longitude":-147.693997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Hamilton Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823671,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85823671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102182359",
-    "wof:lastmodified":1449069279,
+    "wof:lastmodified":1466314194,
     "wof:name":"Jrs Stewart's Fabrication",
     "wof:parent_id":85823671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.693997,64.841932,-147.693997,64.841932],
+  "bbox": [
+    -147.693997,
+    64.841932,
+    -147.693997,
+    64.841932
+],
   "geometry": {"coordinates":[-147.693997,64.841932],"type":"Point"}
 }

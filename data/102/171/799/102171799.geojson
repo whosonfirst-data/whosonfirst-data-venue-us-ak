@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171799",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.406206,57.788999,-152.406206,57.788999",
     "geom:latitude":57.788999,
     "geom:longitude":-152.406206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Center St",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102171799",
-    "wof:lastmodified":1449070228,
+    "wof:lastmodified":1466313960,
     "wof:name":"George R Rieth Tax & Acctg Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.406206,57.788999,-152.406206,57.788999],
+  "bbox": [
+    -152.406206,
+    57.788999,
+    -152.406206,
+    57.788999
+],
   "geometry": {"coordinates":[-152.406206,57.788999],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185583",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.755279,64.813375,-147.755279,64.813375",
     "geom:latitude":64.813375,
     "geom:longitude":-147.755279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3524 Industrial Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":"102185583",
-    "wof:lastmodified":1449068198,
+    "wof:lastmodified":1466314214,
     "wof:name":"Comtec Business Systems Inc",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.755279,64.813375,-147.755279,64.813375],
-  "geometry": {"coordinates":[-147.755279,64.813375],"type":"Point"}
+  "bbox": [
+    -147.755279,
+    64.813375,
+    -147.755279,
+    64.813375
+],
+  "geometry": {"coordinates":[-147.755279,64.81337499999999],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102162355",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.302712,61.579123,-149.302712,61.579123",
     "geom:latitude":61.579123,
     "geom:longitude":-149.302712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5875 Hideaway Cir",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102162355",
-    "wof:lastmodified":1449069822,
+    "wof:lastmodified":1466313720,
     "wof:name":"World Paving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.302712,61.579123,-149.302712,61.579123],
-  "geometry": {"coordinates":[-149.302712,61.579123],"type":"Point"}
+  "bbox": [
+    -149.302712,
+    61.579123,
+    -149.302712,
+    61.579123
+],
+  "geometry": {"coordinates":[-149.30271200000001,61.579123],"type":"Point"}
 }

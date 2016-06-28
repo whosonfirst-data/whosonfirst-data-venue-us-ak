@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166127",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-156.774015,71.28831,-156.774015,71.28831",
     "geom:latitude":71.28831,
     "geom:longitude":-156.774015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1752 Ahkovak St",
     "sg:city":"Barrow",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102166127",
-    "wof:lastmodified":1449069086,
+    "wof:lastmodified":1466313687,
     "wof:name":"King Eider Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-156.774015,71.28831,-156.774015,71.28831],
-  "geometry": {"coordinates":[-156.774015,71.28831],"type":"Point"}
+  "bbox": [
+    -156.774015,
+    71.28831,
+    -156.774015,
+    71.28831
+],
+  "geometry": {"coordinates":[-156.77401499999999,71.28831],"type":"Point"}
 }

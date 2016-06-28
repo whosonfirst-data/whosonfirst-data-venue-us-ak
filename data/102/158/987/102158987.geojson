@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102158987",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.390108,57.802219,-152.390108,57.802219",
     "geom:latitude":57.802219,
     "geom:longitude":-152.390108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1616 Selief Ln",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102158987",
-    "wof:lastmodified":1449069392,
+    "wof:lastmodified":1466313707,
     "wof:name":"Berry Patch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.390108,57.802219,-152.390108,57.802219],
+  "bbox": [
+    -152.390108,
+    57.802219,
+    -152.390108,
+    57.802219
+],
   "geometry": {"coordinates":[-152.390108,57.802219],"type":"Point"}
 }

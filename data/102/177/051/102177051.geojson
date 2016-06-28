@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102177051",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.685367,55.352703,-131.685367,55.352703",
     "geom:latitude":55.352703,
     "geom:longitude":-131.685367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 Tongass Ave",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102177051",
-    "wof:lastmodified":1449070209,
+    "wof:lastmodified":1466313881,
     "wof:name":"Peacehealth Psychiatry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.685367,55.352703,-131.685367,55.352703],
-  "geometry": {"coordinates":[-131.685367,55.352703],"type":"Point"}
+  "bbox": [
+    -131.685367,
+    55.352703,
+    -131.685367,
+    55.352703
+],
+  "geometry": {"coordinates":[-131.68536700000001,55.352703],"type":"Point"}
 }

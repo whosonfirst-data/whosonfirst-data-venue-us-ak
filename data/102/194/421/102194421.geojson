@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102194421",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.694497,64.850911,-147.694497,64.850911",
     "geom:latitude":64.850911,
     "geom:longitude":-147.694497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 Old Steese Hwy",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823671,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85823671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102194421",
-    "wof:lastmodified":1449069827,
+    "wof:lastmodified":1466314257,
     "wof:name":"PAR 4 Family Fun Ctr",
     "wof:parent_id":85823671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.694497,64.850911,-147.694497,64.850911],
-  "geometry": {"coordinates":[-147.694497,64.850911],"type":"Point"}
+  "bbox": [
+    -147.694497,
+    64.850911,
+    -147.694497,
+    64.850911
+],
+  "geometry": {"coordinates":[-147.69449700000001,64.850911],"type":"Point"}
 }

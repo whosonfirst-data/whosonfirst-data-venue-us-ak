@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102186447",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.26927,60.523935,-151.26927,60.523935",
     "geom:latitude":60.523935,
     "geom:longitude":-151.26927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37306 Cetacea Ln",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102186447",
-    "wof:lastmodified":1449069655,
+    "wof:lastmodified":1466314139,
     "wof:name":"Horizon Mediation Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.26927,60.523935,-151.26927,60.523935],
-  "geometry": {"coordinates":[-151.26927,60.523935],"type":"Point"}
+  "bbox": [
+    -151.26927,
+    60.523935,
+    -151.26927,
+    60.523935
+],
+  "geometry": {"coordinates":[-151.26927000000001,60.523935],"type":"Point"}
 }

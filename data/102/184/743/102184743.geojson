@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184743",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.739926,64.812876,-147.739926,64.812876",
     "geom:latitude":64.812876,
     "geom:longitude":-147.739926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1471 Van Horn Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102184743",
-    "wof:lastmodified":1449068217,
+    "wof:lastmodified":1466314221,
     "wof:name":"U S Bearings",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.739926,64.812876,-147.739926,64.812876],
+  "bbox": [
+    -147.739926,
+    64.812876,
+    -147.739926,
+    64.812876
+],
   "geometry": {"coordinates":[-147.739926,64.812876],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176065",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.951826,61.152142,-149.951826,61.152142",
     "geom:latitude":61.152142,
     "geom:longitude":-149.951826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7423 Jewel Lake Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873737,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102176065",
-    "wof:lastmodified":1449069350,
+    "wof:lastmodified":1466313881,
     "wof:name":"Children's World Montessori",
     "wof:parent_id":85873737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.951826,61.152142,-149.951826,61.152142],
-  "geometry": {"coordinates":[-149.951826,61.152142],"type":"Point"}
+  "bbox": [
+    -149.951826,
+    61.152142,
+    -149.951826,
+    61.152142
+],
+  "geometry": {"coordinates":[-149.95182600000001,61.152142],"type":"Point"}
 }

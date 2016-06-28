@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102183353",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.406581,58.303048,-134.406581,58.303048",
     "geom:latitude":58.303048,
     "geom:longitude":-134.406581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 Harris St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.mcdowellgroup.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102183353",
-    "wof:lastmodified":1449069041,
+    "wof:lastmodified":1466314104,
     "wof:name":"Mc Dowell Group",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.406581,58.303048,-134.406581,58.303048],
-  "geometry": {"coordinates":[-134.406581,58.303048],"type":"Point"}
+  "bbox": [
+    -134.406581,
+    58.303048,
+    -134.406581,
+    58.303048
+],
+  "geometry": {"coordinates":[-134.40658099999999,58.303048],"type":"Point"}
 }

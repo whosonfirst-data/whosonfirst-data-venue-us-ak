@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102147809",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.76731,61.216332,-149.76731,61.216332",
     "geom:latitude":61.216332,
     "geom:longitude":-149.76731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6048 E 6th Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873731,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102147809",
-    "wof:lastmodified":1449069927,
+    "wof:lastmodified":1466313463,
     "wof:name":"Wellness Unlimited",
     "wof:parent_id":85873731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.76731,61.216332,-149.76731,61.216332],
-  "geometry": {"coordinates":[-149.76731,61.216332],"type":"Point"}
+  "bbox": [
+    -149.76731,
+    61.216332,
+    -149.76731,
+    61.216332
+],
+  "geometry": {"coordinates":[-149.76731000000001,61.216332],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171435",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.440907,58.110257,-135.440907,58.110257",
     "geom:latitude":58.110257,
     "geom:longitude":-135.440907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Hemlock St",
     "sg:city":"Hoonah",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102171435",
-    "wof:lastmodified":1449070228,
+    "wof:lastmodified":1466313887,
     "wof:name":"Sealaska Timber Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.440907,58.110257,-135.440907,58.110257],
-  "geometry": {"coordinates":[-135.440907,58.110257],"type":"Point"}
+  "bbox": [
+    -135.440907,
+    58.110257,
+    -135.440907,
+    58.110257
+],
+  "geometry": {"coordinates":[-135.44090700000001,58.110257],"type":"Point"}
 }

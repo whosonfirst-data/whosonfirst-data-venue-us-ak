@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192517",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.951836,61.156728,-149.951836,61.156728",
     "geom:latitude":61.156728,
     "geom:longitude":-149.951836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6861 Jewel Lake Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873737,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102192517",
-    "wof:lastmodified":1449069504,
+    "wof:lastmodified":1466314242,
     "wof:name":"Video City",
     "wof:parent_id":85873737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.951836,61.156728,-149.951836,61.156728],
-  "geometry": {"coordinates":[-149.951836,61.156728],"type":"Point"}
+  "bbox": [
+    -149.951836,
+    61.156728,
+    -149.951836,
+    61.156728
+],
+  "geometry": {"coordinates":[-149.95183599999999,61.156728],"type":"Point"}
 }

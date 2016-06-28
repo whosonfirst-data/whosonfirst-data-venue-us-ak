@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153579",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.446291,59.238395,-135.446291,59.238395",
     "geom:latitude":59.238395,
     "geom:longitude":-135.446291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 3rd Ave",
     "sg:city":"Haines",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842771,
+        85688573,
         85633793,
         85916629,
         102083767,
-        85688573
+        85842771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102153579",
-    "wof:lastmodified":1449069460,
+    "wof:lastmodified":1466313569,
     "wof:name":"Seams Like Yesterday",
     "wof:parent_id":85842771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.446291,59.238395,-135.446291,59.238395],
+  "bbox": [
+    -135.446291,
+    59.238395,
+    -135.446291,
+    59.238395
+],
   "geometry": {"coordinates":[-135.446291,59.238395],"type":"Point"}
 }

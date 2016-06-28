@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102170667",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.568,61.329537,-149.568,61.329537",
     "geom:latitude":61.329537,
     "geom:longitude":-149.568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12021 Old Glenn Hwy",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102170667",
-    "wof:lastmodified":1449068019,
+    "wof:lastmodified":1466313866,
     "wof:name":"Holiday Alaska Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.568,61.329537,-149.568,61.329537],
-  "geometry": {"coordinates":[-149.568,61.329537],"type":"Point"}
+  "bbox": [
+    -149.568,
+    61.329537,
+    -149.568,
+    61.329537
+],
+  "geometry": {"coordinates":[-149.56800000000001,61.329537],"type":"Point"}
 }

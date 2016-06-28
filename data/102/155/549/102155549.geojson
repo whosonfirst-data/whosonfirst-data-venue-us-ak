@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155549",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.171091,61.637532,-149.171091,61.637532",
     "geom:latitude":61.637532,
     "geom:longitude":-149.171091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11201 Center St",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102155549",
-    "wof:lastmodified":1449069744,
+    "wof:lastmodified":1466313561,
     "wof:name":"Harry M Campbell Jr Surveyor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.171091,61.637532,-149.171091,61.637532],
-  "geometry": {"coordinates":[-149.171091,61.637532],"type":"Point"}
+  "bbox": [
+    -149.171091,
+    61.637532,
+    -149.171091,
+    61.637532
+],
+  "geometry": {"coordinates":[-149.17109099999999,61.637532],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184741",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.792733,61.081139,-149.792733,61.081139",
     "geom:latitude":61.081139,
     "geom:longitude":-149.792733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4540 Rabbit Creek Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.arabbitcreekbandb.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873751,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102184741",
-    "wof:lastmodified":1449068216,
+    "wof:lastmodified":1466314221,
     "wof:name":"Rabbit Creek Bed & Breakfast",
     "wof:parent_id":85873751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.792733,61.081139,-149.792733,61.081139],
+  "bbox": [
+    -149.792733,
+    61.081139,
+    -149.792733,
+    61.081139
+],
   "geometry": {"coordinates":[-149.792733,61.081139],"type":"Point"}
 }

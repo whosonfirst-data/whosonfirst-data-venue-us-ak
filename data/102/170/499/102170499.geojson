@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102170499",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.437114,60.104933,-149.437114,60.104933",
     "geom:latitude":60.104933,
     "geom:longitude":-149.437114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 6th Ave",
     "sg:city":"Seward",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102170499",
-    "wof:lastmodified":1449068016,
+    "wof:lastmodified":1466313831,
     "wof:name":"Seward City Animal Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.437114,60.104933,-149.437114,60.104933],
-  "geometry": {"coordinates":[-149.437114,60.104933],"type":"Point"}
+  "bbox": [
+    -149.437114,
+    60.104933,
+    -149.437114,
+    60.104933
+],
+  "geometry": {"coordinates":[-149.43711400000001,60.104933],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102149273",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.82965,61.111435,-149.82965,61.111435",
     "geom:latitude":61.111435,
     "geom:longitude":-149.82965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12115 Woodchase Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873753,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102149273",
-    "wof:lastmodified":1449067769,
+    "wof:lastmodified":1466313489,
     "wof:name":"12 Star Pntg & Drywall Repr",
     "wof:parent_id":85873753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.82965,61.111435,-149.82965,61.111435],
-  "geometry": {"coordinates":[-149.82965,61.111435],"type":"Point"}
+  "bbox": [
+    -149.82965,
+    61.111435,
+    -149.82965,
+    61.111435
+],
+  "geometry": {"coordinates":[-149.82964999999999,61.111435],"type":"Point"}
 }

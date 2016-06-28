@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102159473",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.799961,61.183697,-149.799961,61.183697",
     "geom:latitude":61.183697,
     "geom:longitude":-149.799961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4055 Tudor Centre Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873727,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102159473",
-    "wof:lastmodified":1449068093,
+    "wof:lastmodified":1466313618,
     "wof:name":"US Disease Control Ctr",
     "wof:parent_id":85873727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.799961,61.183697,-149.799961,61.183697],
+  "bbox": [
+    -149.799961,
+    61.183697,
+    -149.799961,
+    61.183697
+],
   "geometry": {"coordinates":[-149.799961,61.183697],"type":"Point"}
 }

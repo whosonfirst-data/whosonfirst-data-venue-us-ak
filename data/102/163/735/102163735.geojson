@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102163735",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.574109,58.398733,-134.574109,58.398733",
     "geom:latitude":58.398733,
     "geom:longitude":-134.574109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8517 Mendenhall Loop Rd",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833767,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85833767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102163735",
-    "wof:lastmodified":1449070163,
+    "wof:lastmodified":1466313797,
     "wof:name":"K B J Contractors",
     "wof:parent_id":85833767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.574109,58.398733,-134.574109,58.398733],
-  "geometry": {"coordinates":[-134.574109,58.398733],"type":"Point"}
+  "bbox": [
+    -134.574109,
+    58.398733,
+    -134.574109,
+    58.398733
+],
+  "geometry": {"coordinates":[-134.57410899999999,58.398733],"type":"Point"}
 }

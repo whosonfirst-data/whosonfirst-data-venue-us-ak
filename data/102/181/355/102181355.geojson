@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102181355",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.521743,55.68349,-132.521743,55.68349",
     "geom:latitude":55.68349,
     "geom:longitude":-132.521743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1224 Shoreline Dr",
     "sg:city":"Thorne Bay",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102181355",
-    "wof:lastmodified":1449069235,
+    "wof:lastmodified":1466314061,
     "wof:name":"Boyer Alaska Barge Line Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.521743,55.68349,-132.521743,55.68349],
-  "geometry": {"coordinates":[-132.521743,55.68349],"type":"Point"}
+  "bbox": [
+    -132.521743,
+    55.68349,
+    -132.521743,
+    55.68349
+],
+  "geometry": {"coordinates":[-132.52174299999999,55.68349],"type":"Point"}
 }

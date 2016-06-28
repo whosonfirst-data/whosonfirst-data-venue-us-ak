@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102174193",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.712213,59.436792,-151.712213,59.436792",
     "geom:latitude":59.436792,
     "geom:longitude":-151.712213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"273 Main St",
     "sg:city":"Seldovia",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102174193",
-    "wof:lastmodified":1449068139,
+    "wof:lastmodified":1466313895,
     "wof:name":"Seldovia Harbor Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.712213,59.436792,-151.712213,59.436792],
-  "geometry": {"coordinates":[-151.712213,59.436792],"type":"Point"}
+  "bbox": [
+    -151.712213,
+    59.436792,
+    -151.712213,
+    59.436792
+],
+  "geometry": {"coordinates":[-151.71221299999999,59.436792],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102151621",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.924281,61.197482,-149.924281,61.197482",
     "geom:latitude":61.197482,
     "geom:longitude":-149.924281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2054 Arlington Dr N",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850461,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85850461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102151621",
-    "wof:lastmodified":1449067781,
+    "wof:lastmodified":1466313513,
     "wof:name":"Golden View Fisheries Inc",
     "wof:parent_id":85850461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.924281,61.197482,-149.924281,61.197482],
-  "geometry": {"coordinates":[-149.924281,61.197482],"type":"Point"}
+  "bbox": [
+    -149.924281,
+    61.197482,
+    -149.924281,
+    61.197482
+],
+  "geometry": {"coordinates":[-149.92428100000001,61.197482],"type":"Point"}
 }

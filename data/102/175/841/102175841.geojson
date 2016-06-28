@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102175841",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-150.852042,60.502328,-150.852042,60.502328",
     "geom:latitude":60.502328,
     "geom:longitude":-150.852042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37020 Funny River Rd",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102175841",
-    "wof:lastmodified":1449069465,
+    "wof:lastmodified":1466314019,
     "wof:name":"Slash E Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-150.852042,60.502328,-150.852042,60.502328],
-  "geometry": {"coordinates":[-150.852042,60.502328],"type":"Point"}
+  "bbox": [
+    -150.852042,
+    60.502328,
+    -150.852042,
+    60.502328
+],
+  "geometry": {"coordinates":[-150.85204200000001,60.502328],"type":"Point"}
 }

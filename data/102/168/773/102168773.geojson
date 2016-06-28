@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102168773",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.8798,57.867197,-152.8798,57.867197",
     "geom:latitude":57.867197,
     "geom:longitude":-152.8798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 Main St",
     "sg:city":"Port Lions",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102168773",
-    "wof:lastmodified":1449069007,
+    "wof:lastmodified":1466313826,
     "wof:name":"Wilderness Beach Condo's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.8798,57.867197,-152.8798,57.867197],
-  "geometry": {"coordinates":[-152.8798,57.867197],"type":"Point"}
+  "bbox": [
+    -152.8798,
+    57.867197,
+    -152.8798,
+    57.867197
+],
+  "geometry": {"coordinates":[-152.87979999999999,57.867197],"type":"Point"}
 }

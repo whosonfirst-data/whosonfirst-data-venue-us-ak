@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102174947",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-161.735956,60.79151,-161.735956,60.79151",
     "geom:latitude":60.79151,
     "geom:longitude":-161.735956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"238 East Ave",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102174947",
-    "wof:lastmodified":1449068139,
+    "wof:lastmodified":1466314043,
     "wof:name":"Corina's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-161.735956,60.79151,-161.735956,60.79151],
-  "geometry": {"coordinates":[-161.735956,60.79151],"type":"Point"}
+  "bbox": [
+    -161.735956,
+    60.79151,
+    -161.735956,
+    60.79151
+],
+  "geometry": {"coordinates":[-161.73595599999999,60.79151],"type":"Point"}
 }

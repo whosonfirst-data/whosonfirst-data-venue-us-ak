@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172199",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.668802,64.838782,-147.668802,64.838782",
     "geom:latitude":64.838782,
     "geom:longitude":-147.668802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"514 Lignite Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823671,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85823671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102172199",
-    "wof:lastmodified":1449068733,
+    "wof:lastmodified":1466313889,
     "wof:name":"Rose's Kids Svc",
     "wof:parent_id":85823671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.668802,64.838782,-147.668802,64.838782],
-  "geometry": {"coordinates":[-147.668802,64.838782],"type":"Point"}
+  "bbox": [
+    -147.668802,
+    64.838782,
+    -147.668802,
+    64.838782
+],
+  "geometry": {"coordinates":[-147.668802,64.83878199999999],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184935",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.575685,61.320832,-149.575685,61.320832",
     "geom:latitude":61.320832,
     "geom:longitude":-149.575685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11120 Chugiak Dr",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102184935",
-    "wof:lastmodified":1449068218,
+    "wof:lastmodified":1466314231,
     "wof:name":"Wilby's Greenhouse & Nursery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.575685,61.320832,-149.575685,61.320832],
-  "geometry": {"coordinates":[-149.575685,61.320832],"type":"Point"}
+  "bbox": [
+    -149.575685,
+    61.320832,
+    -149.575685,
+    61.320832
+],
+  "geometry": {"coordinates":[-149.57568499999999,61.320832],"type":"Point"}
 }

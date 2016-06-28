@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191673",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-146.947826,64.470336,-146.947826,64.470336",
     "geom:latitude":64.470336,
     "geom:longitude":-146.947826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8830 Richardson Hwy",
     "sg:city":"Salcha",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102191673",
-    "wof:lastmodified":1449069201,
+    "wof:lastmodified":1466314127,
     "wof:name":"Salcha Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-146.947826,64.470336,-146.947826,64.470336],
-  "geometry": {"coordinates":[-146.947826,64.470336],"type":"Point"}
+  "bbox": [
+    -146.947826,
+    64.470336,
+    -146.947826,
+    64.470336
+],
+  "geometry": {"coordinates":[-146.94782599999999,64.470336],"type":"Point"}
 }

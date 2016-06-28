@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102190195",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.864166,64.819526,-147.864166,64.819526",
     "geom:latitude":64.819526,
     "geom:longitude":-147.864166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6475 Airport Way",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102190195",
-    "wof:lastmodified":1449070035,
+    "wof:lastmodified":1466313891,
     "wof:name":"Fairbanks Intl Airport Parking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.864166,64.819526,-147.864166,64.819526],
-  "geometry": {"coordinates":[-147.864166,64.819526],"type":"Point"}
+  "bbox": [
+    -147.864166,
+    64.819526,
+    -147.864166,
+    64.819526
+],
+  "geometry": {"coordinates":[-147.86416600000001,64.819526],"type":"Point"}
 }

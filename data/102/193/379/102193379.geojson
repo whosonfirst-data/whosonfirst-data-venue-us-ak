@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102193379",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.867362,64.839322,-147.867362,64.839322",
     "geom:latitude":64.839322,
     "geom:longitude":-147.867362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Trinidad Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102193379",
-    "wof:lastmodified":1449068193,
+    "wof:lastmodified":1466314273,
     "wof:name":"University West Educare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.867362,64.839322,-147.867362,64.839322],
-  "geometry": {"coordinates":[-147.867362,64.839322],"type":"Point"}
+  "bbox": [
+    -147.867362,
+    64.839322,
+    -147.867362,
+    64.839322
+],
+  "geometry": {"coordinates":[-147.86736200000001,64.839322],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102164719",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.095677,61.59943,-149.095677,61.59943",
     "geom:latitude":61.59943,
     "geom:longitude":-149.095677,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 E Evergreen Ave",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102164719",
-    "wof:lastmodified":1449068085,
+    "wof:lastmodified":1466313803,
     "wof:name":"Psenak Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.095677,61.59943,-149.095677,61.59943],
-  "geometry": {"coordinates":[-149.095677,61.59943],"type":"Point"}
+  "bbox": [
+    -149.095677,
+    61.59943,
+    -149.095677,
+    61.59943
+],
+  "geometry": {"coordinates":[-149.09567699999999,61.59943],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102194637",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.238104,64.745598,-147.238104,64.745598",
     "geom:latitude":64.745598,
     "geom:longitude":-147.238104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3960 Trent Ave",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102194637",
-    "wof:lastmodified":1449069824,
+    "wof:lastmodified":1466314260,
     "wof:name":"Big Mikes Garage Doors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.238104,64.745598,-147.238104,64.745598],
-  "geometry": {"coordinates":[-147.238104,64.745598],"type":"Point"}
+  "bbox": [
+    -147.238104,
+    64.745598,
+    -147.238104,
+    64.745598
+],
+  "geometry": {"coordinates":[-147.23810399999999,64.745598],"type":"Point"}
 }

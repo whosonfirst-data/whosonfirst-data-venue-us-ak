@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102168917",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.40109,58.296908,-134.40109,58.296908",
     "geom:latitude":58.296908,
     "geom:longitude":-134.40109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Peoples Wharf",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102168917",
-    "wof:lastmodified":1449069008,
+    "wof:lastmodified":1466313855,
     "wof:name":"Capital Cab",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.40109,58.296908,-134.40109,58.296908],
-  "geometry": {"coordinates":[-134.40109,58.296908],"type":"Point"}
+  "bbox": [
+    -134.40109,
+    58.296908,
+    -134.40109,
+    58.296908
+],
+  "geometry": {"coordinates":[-134.40109000000001,58.296908],"type":"Point"}
 }

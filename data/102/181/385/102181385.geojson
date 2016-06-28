@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102181385",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.873436,61.231299,-149.873436,61.231299",
     "geom:latitude":61.231299,
     "geom:longitude":-149.873436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"566 E Bluff Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873711,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102181385",
-    "wof:lastmodified":1449069234,
+    "wof:lastmodified":1466314065,
     "wof:name":"Anchorage Detail Shop",
     "wof:parent_id":85873711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.873436,61.231299,-149.873436,61.231299],
+  "bbox": [
+    -149.873436,
+    61.231299,
+    -149.873436,
+    61.231299
+],
   "geometry": {"coordinates":[-149.873436,61.231299],"type":"Point"}
 }

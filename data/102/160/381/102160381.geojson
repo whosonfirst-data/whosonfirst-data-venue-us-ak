@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102160381",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.064739,60.491173,-151.064739,60.491173",
     "geom:latitude":60.491173,
     "geom:longitude":-151.064739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35251 Kenai Spur Hwy",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102160381",
-    "wof:lastmodified":1449069775,
+    "wof:lastmodified":1466313668,
     "wof:name":"Regina Sutton Chennault PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.064739,60.491173,-151.064739,60.491173],
+  "bbox": [
+    -151.064739,
+    60.491173,
+    -151.064739,
+    60.491173
+],
   "geometry": {"coordinates":[-151.064739,60.491173],"type":"Point"}
 }

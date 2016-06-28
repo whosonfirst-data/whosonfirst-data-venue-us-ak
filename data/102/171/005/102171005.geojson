@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171005",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.114989,61.598372,-149.114989,61.598372",
     "geom:latitude":61.598372,
     "geom:longitude":-149.114989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"918 S Colony Way",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102171005",
-    "wof:lastmodified":1449070227,
+    "wof:lastmodified":1466313800,
     "wof:name":"Gold Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.114989,61.598372,-149.114989,61.598372],
-  "geometry": {"coordinates":[-149.114989,61.598372],"type":"Point"}
+  "bbox": [
+    -149.114989,
+    61.598372,
+    -149.114989,
+    61.598372
+],
+  "geometry": {"coordinates":[-149.11498900000001,61.598372],"type":"Point"}
 }

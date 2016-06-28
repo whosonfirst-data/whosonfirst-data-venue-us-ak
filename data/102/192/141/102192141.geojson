@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192141",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.864014,61.157302,-149.864014,61.157302",
     "geom:latitude":61.157302,
     "geom:longitude":-149.864014,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6927 Old Seward Hwy",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809155,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85809155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102192141",
-    "wof:lastmodified":1449069502,
+    "wof:lastmodified":1466314184,
     "wof:name":"BJ Services Company",
     "wof:parent_id":85809155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.864014,61.157302,-149.864014,61.157302],
+  "bbox": [
+    -149.864014,
+    61.157302,
+    -149.864014,
+    61.157302
+],
   "geometry": {"coordinates":[-149.864014,61.157302],"type":"Point"}
 }

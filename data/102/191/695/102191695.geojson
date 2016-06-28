@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191695",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.569753,61.324282,-149.569753,61.324282",
     "geom:latitude":61.324282,
     "geom:longitude":-149.569753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11535 Market St",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102191695",
-    "wof:lastmodified":1449069200,
+    "wof:lastmodified":1466314209,
     "wof:name":"Chepo's Fiesta Mexican Rstrnt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.569753,61.324282,-149.569753,61.324282],
-  "geometry": {"coordinates":[-149.569753,61.324282],"type":"Point"}
+  "bbox": [
+    -149.569753,
+    61.324282,
+    -149.569753,
+    61.324282
+],
+  "geometry": {"coordinates":[-149.56975299999999,61.324282],"type":"Point"}
 }

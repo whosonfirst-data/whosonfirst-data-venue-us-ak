@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102152785",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.725746,64.844124,-147.725746,64.844124",
     "geom:latitude":64.844124,
     "geom:longitude":-147.725746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Wickersham St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848979,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85848979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102152785",
-    "wof:lastmodified":1449069636,
+    "wof:lastmodified":1466313615,
     "wof:name":"Uptown Car Wash",
     "wof:parent_id":85848979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.725746,64.844124,-147.725746,64.844124],
-  "geometry": {"coordinates":[-147.725746,64.844124],"type":"Point"}
+  "bbox": [
+    -147.725746,
+    64.844124,
+    -147.725746,
+    64.844124
+],
+  "geometry": {"coordinates":[-147.72574599999999,64.84412399999999],"type":"Point"}
 }

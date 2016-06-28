@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102186839",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.331096,64.78806,-147.331096,64.78806",
     "geom:latitude":64.78806,
     "geom:longitude":-147.331096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2474 Pool St",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102186839",
-    "wof:lastmodified":1449069654,
+    "wof:lastmodified":1466314233,
     "wof:name":"Brice Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.331096,64.78806,-147.331096,64.78806],
+  "bbox": [
+    -147.331096,
+    64.78806,
+    -147.331096,
+    64.78806
+],
   "geometry": {"coordinates":[-147.331096,64.78806],"type":"Point"}
 }

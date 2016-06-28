@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102164169",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.868129,61.16915,-149.868129,61.16915",
     "geom:latitude":61.16915,
     "geom:longitude":-149.868129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5610 Old Seward Hwy",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873715,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102164169",
-    "wof:lastmodified":1449068089,
+    "wof:lastmodified":1466313692,
     "wof:name":"Eagle Mechanical Plbg & Htg",
     "wof:parent_id":85873715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.868129,61.16915,-149.868129,61.16915],
-  "geometry": {"coordinates":[-149.868129,61.16915],"type":"Point"}
+  "bbox": [
+    -149.868129,
+    61.16915,
+    -149.868129,
+    61.16915
+],
+  "geometry": {"coordinates":[-149.86812900000001,61.16915],"type":"Point"}
 }

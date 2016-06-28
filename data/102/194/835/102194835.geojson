@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102194835",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-145.142305,63.965907,-145.142305,63.965907",
     "geom:latitude":63.965907,
     "geom:longitude":-145.142305,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11959 Rapeseed Way",
     "sg:city":"Delta Junction",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102194835",
-    "wof:lastmodified":1449069828,
+    "wof:lastmodified":1466314263,
     "wof:name":"Sawmill Creek Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-145.142305,63.965907,-145.142305,63.965907],
-  "geometry": {"coordinates":[-145.142305,63.965907],"type":"Point"}
+  "bbox": [
+    -145.142305,
+    63.965907,
+    -145.142305,
+    63.965907
+],
+  "geometry": {"coordinates":[-145.14230499999999,63.965907],"type":"Point"}
 }

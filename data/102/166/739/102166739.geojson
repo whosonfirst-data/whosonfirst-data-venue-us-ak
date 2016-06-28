@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166739",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.905514,61.196287,-149.905514,61.196287",
     "geom:latitude":61.196287,
     "geom:longitude":-149.905514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2610 Spenard Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.organicoasis.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873713,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102166739",
-    "wof:lastmodified":1449069086,
+    "wof:lastmodified":1466313813,
     "wof:name":"Organic Oasis Health Foods",
     "wof:parent_id":85873713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.905514,61.196287,-149.905514,61.196287],
-  "geometry": {"coordinates":[-149.905514,61.196287],"type":"Point"}
+  "bbox": [
+    -149.905514,
+    61.196287,
+    -149.905514,
+    61.196287
+],
+  "geometry": {"coordinates":[-149.90551400000001,61.196287],"type":"Point"}
 }

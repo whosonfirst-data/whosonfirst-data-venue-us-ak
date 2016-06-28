@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166031",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.425447,58.302299,-134.425447,58.302299",
     "geom:latitude":58.302299,
     "geom:longitude":-134.425447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"895 W 12th St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102166031",
-    "wof:lastmodified":1449069084,
+    "wof:lastmodified":1466313668,
     "wof:name":"Mountain View Apartments",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.425447,58.302299,-134.425447,58.302299],
-  "geometry": {"coordinates":[-134.425447,58.302299],"type":"Point"}
+  "bbox": [
+    -134.425447,
+    58.302299,
+    -134.425447,
+    58.302299
+],
+  "geometry": {"coordinates":[-134.42544699999999,58.302299],"type":"Point"}
 }

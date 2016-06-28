@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102175717",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.69079,55.362423,-131.69079,55.362423",
     "geom:latitude":55.362423,
     "geom:longitude":-131.69079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3857 Fairview Ave",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102175717",
-    "wof:lastmodified":1449069463,
+    "wof:lastmodified":1466313997,
     "wof:name":"Alaska Wilderness Outfitting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.69079,55.362423,-131.69079,55.362423],
-  "geometry": {"coordinates":[-131.69079,55.362423],"type":"Point"}
+  "bbox": [
+    -131.69079,
+    55.362423,
+    -131.69079,
+    55.362423
+],
+  "geometry": {"coordinates":[-131.69078999999999,55.362423],"type":"Point"}
 }

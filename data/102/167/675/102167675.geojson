@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102167675",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.886533,61.141417,-149.886533,61.141417",
     "geom:latitude":61.141417,
     "geom:longitude":-149.886533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 W 88th Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809155,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85809155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102167675",
-    "wof:lastmodified":1449069001,
+    "wof:lastmodified":1466313808,
     "wof:name":"Dreamcatcher Cruises",
     "wof:parent_id":85809155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.886533,61.141417,-149.886533,61.141417],
-  "geometry": {"coordinates":[-149.886533,61.141417],"type":"Point"}
+  "bbox": [
+    -149.886533,
+    61.141417,
+    -149.886533,
+    61.141417
+],
+  "geometry": {"coordinates":[-149.88653299999999,61.141417],"type":"Point"}
 }

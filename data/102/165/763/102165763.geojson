@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102165763",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.411331,61.577582,-149.411331,61.577582",
     "geom:latitude":61.577582,
     "geom:longitude":-149.411331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 E Parks Hwy",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102165763",
-    "wof:lastmodified":1449070217,
+    "wof:lastmodified":1466313811,
     "wof:name":"2-Go Tesoro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.411331,61.577582,-149.411331,61.577582],
-  "geometry": {"coordinates":[-149.411331,61.577582],"type":"Point"}
+  "bbox": [
+    -149.411331,
+    61.577582,
+    -149.411331,
+    61.577582
+],
+  "geometry": {"coordinates":[-149.41133099999999,61.577582],"type":"Point"}
 }

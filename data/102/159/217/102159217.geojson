@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102159217",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.358386,61.570419,-149.358386,61.570419",
     "geom:latitude":61.570419,
     "geom:longitude":-149.358386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3700 E Parks Hwy",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102159217",
-    "wof:lastmodified":1449068094,
+    "wof:lastmodified":1466313565,
     "wof:name":"Chevrolet Of Wasilla",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.358386,61.570419,-149.358386,61.570419],
+  "bbox": [
+    -149.358386,
+    61.570419,
+    -149.358386,
+    61.570419
+],
   "geometry": {"coordinates":[-149.358386,61.570419],"type":"Point"}
 }

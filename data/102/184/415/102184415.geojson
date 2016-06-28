@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184415",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.772481,64.814707,-147.772481,64.814707",
     "geom:latitude":64.814707,
     "geom:longitude":-147.772481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2260 Standard Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102184415",
-    "wof:lastmodified":1449068218,
+    "wof:lastmodified":1466314122,
     "wof:name":"Alsco Inc",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.772481,64.814707,-147.772481,64.814707],
+  "bbox": [
+    -147.772481,
+    64.814707,
+    -147.772481,
+    64.814707
+],
   "geometry": {"coordinates":[-147.772481,64.814707],"type":"Point"}
 }

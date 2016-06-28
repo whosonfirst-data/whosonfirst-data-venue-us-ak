@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102160587",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.087412,60.524425,-151.087412,60.524425",
     "geom:latitude":60.524425,
     "geom:longitude":-151.087412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37512 Aloft St",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102160587",
-    "wof:lastmodified":1449069776,
+    "wof:lastmodified":1466313711,
     "wof:name":"Wade's Plumbing Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.087412,60.524425,-151.087412,60.524425],
+  "bbox": [
+    -151.087412,
+    60.524425,
+    -151.087412,
+    60.524425
+],
   "geometry": {"coordinates":[-151.087412,60.524425],"type":"Point"}
 }

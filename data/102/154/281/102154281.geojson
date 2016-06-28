@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102154281",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.520716,61.381336,-149.520716,61.381336",
     "geom:latitude":61.381336,
     "geom:longitude":-149.520716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19497 Klondike Dr",
     "sg:city":"Chugiak",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102154281",
-    "wof:lastmodified":1449070248,
+    "wof:lastmodified":1466313505,
     "wof:name":"A & P Plumbing & Heating Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.520716,61.381336,-149.520716,61.381336],
-  "geometry": {"coordinates":[-149.520716,61.381336],"type":"Point"}
+  "bbox": [
+    -149.520716,
+    61.381336,
+    -149.520716,
+    61.381336
+],
+  "geometry": {"coordinates":[-149.52071599999999,61.381336],"type":"Point"}
 }

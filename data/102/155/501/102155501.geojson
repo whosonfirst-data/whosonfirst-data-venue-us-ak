@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155501",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.14716,61.570614,-149.14716,61.570614",
     "geom:latitude":61.570614,
     "geom:longitude":-149.14716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Inner Springer Loop",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102155501",
-    "wof:lastmodified":1449069745,
+    "wof:lastmodified":1466313551,
     "wof:name":"Sally Of The Valley Real Est",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.14716,61.570614,-149.14716,61.570614],
-  "geometry": {"coordinates":[-149.14716,61.570614],"type":"Point"}
+  "bbox": [
+    -149.14716,
+    61.570614,
+    -149.14716,
+    61.570614
+],
+  "geometry": {"coordinates":[-149.14716000000001,61.570614],"type":"Point"}
 }

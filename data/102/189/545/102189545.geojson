@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102189545",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-150.882408,60.545518,-150.882408,60.545518",
     "geom:latitude":60.545518,
     "geom:longitude":-150.882408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39920 Higher Ground St",
     "sg:city":"Sterling",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102189545",
-    "wof:lastmodified":1449069497,
+    "wof:lastmodified":1466313757,
     "wof:name":"Higher Ground Baptist Bible",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-150.882408,60.545518,-150.882408,60.545518],
+  "bbox": [
+    -150.882408,
+    60.545518,
+    -150.882408,
+    60.545518
+],
   "geometry": {"coordinates":[-150.882408,60.545518],"type":"Point"}
 }

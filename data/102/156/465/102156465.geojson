@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102156465",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.479777,61.38883,-149.479777,61.38883",
     "geom:latitude":61.38883,
     "geom:longitude":-149.479777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18619 Old Glenn Hwy",
     "sg:city":"Chugiak",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806187,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85806187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102156465",
-    "wof:lastmodified":1449068282,
+    "wof:lastmodified":1466313553,
     "wof:name":"Golden Wheel Amusements",
     "wof:parent_id":85806187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.479777,61.38883,-149.479777,61.38883],
-  "geometry": {"coordinates":[-149.479777,61.38883],"type":"Point"}
+  "bbox": [
+    -149.479777,
+    61.38883,
+    -149.479777,
+    61.38883
+],
+  "geometry": {"coordinates":[-149.47977700000001,61.38883],"type":"Point"}
 }

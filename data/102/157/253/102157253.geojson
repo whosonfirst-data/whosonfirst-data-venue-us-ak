@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102157253",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.646497,55.342316,-131.646497,55.342316",
     "geom:latitude":55.342316,
     "geom:longitude":-131.646497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"361 Main St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102157253",
-    "wof:lastmodified":1449069832,
+    "wof:lastmodified":1466313517,
     "wof:name":"Crime Stoppers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.646497,55.342316,-131.646497,55.342316],
-  "geometry": {"coordinates":[-131.646497,55.342316],"type":"Point"}
+  "bbox": [
+    -131.646497,
+    55.342316,
+    -131.646497,
+    55.342316
+],
+  "geometry": {"coordinates":[-131.64649700000001,55.342316],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184751",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.515434,61.394224,-149.515434,61.394224",
     "geom:latitude":61.394224,
     "geom:longitude":-149.515434,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19437 Inlet View Dr",
     "sg:city":"Chugiak",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806187,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85806187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102184751",
-    "wof:lastmodified":1449068216,
+    "wof:lastmodified":1466314164,
     "wof:name":"G M Co",
     "wof:parent_id":85806187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.515434,61.394224,-149.515434,61.394224],
+  "bbox": [
+    -149.515434,
+    61.394224,
+    -149.515434,
+    61.394224
+],
   "geometry": {"coordinates":[-149.515434,61.394224],"type":"Point"}
 }

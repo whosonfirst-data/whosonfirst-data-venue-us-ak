@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192697",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.954369,61.1374,-149.954369,61.1374",
     "geom:latitude":61.1374,
     "geom:longitude":-149.954369,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 W Dimond Blvd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.cgprop.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873739,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102192697",
-    "wof:lastmodified":1449069503,
+    "wof:lastmodified":1466314245,
     "wof:name":"Denali Commercial Management",
     "wof:parent_id":85873739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.954369,61.1374,-149.954369,61.1374],
-  "geometry": {"coordinates":[-149.954369,61.1374],"type":"Point"}
+  "bbox": [
+    -149.954369,
+    61.1374,
+    -149.954369,
+    61.1374
+],
+  "geometry": {"coordinates":[-149.95436900000001,61.1374],"type":"Point"}
 }

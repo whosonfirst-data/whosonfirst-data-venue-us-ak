@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102152433",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.954929,56.815387,-132.954929,56.815387",
     "geom:latitude":56.815387,
     "geom:longitude":-132.954929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 2nd St",
     "sg:city":"Petersburg",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102152433",
-    "wof:lastmodified":1449069633,
+    "wof:lastmodified":1466313544,
     "wof:name":"Das Hagedorn Haus B & B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.954929,56.815387,-132.954929,56.815387],
-  "geometry": {"coordinates":[-132.954929,56.815387],"type":"Point"}
+  "bbox": [
+    -132.954929,
+    56.815387,
+    -132.954929,
+    56.815387
+],
+  "geometry": {"coordinates":[-132.95492899999999,56.815387],"type":"Point"}
 }

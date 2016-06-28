@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102150269",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.801427,61.241672,-149.801427,61.241672",
     "geom:latitude":61.241672,
     "geom:longitude":-149.801427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8517 20th St",
     "sg:city":"Elmendorf Afb",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869051,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85869051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102150269",
-    "wof:lastmodified":1449067790,
+    "wof:lastmodified":1466313972,
     "wof:name":"Sato Travel",
     "wof:parent_id":85869051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.801427,61.241672,-149.801427,61.241672],
-  "geometry": {"coordinates":[-149.801427,61.241672],"type":"Point"}
+  "bbox": [
+    -149.801427,
+    61.241672,
+    -149.801427,
+    61.241672
+],
+  "geometry": {"coordinates":[-149.80142699999999,61.241672],"type":"Point"}
 }

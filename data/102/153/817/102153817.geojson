@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153817",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.668759,55.349649,-131.668759,55.349649",
     "geom:latitude":55.349649,
     "geom:longitude":-131.668759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2002 1st Ave",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102153817",
-    "wof:lastmodified":1449069463,
+    "wof:lastmodified":1466313619,
     "wof:name":"Orca Parenting Program",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.668759,55.349649,-131.668759,55.349649],
-  "geometry": {"coordinates":[-131.668759,55.349649],"type":"Point"}
+  "bbox": [
+    -131.668759,
+    55.349649,
+    -131.668759,
+    55.349649
+],
+  "geometry": {"coordinates":[-131.66875899999999,55.349649],"type":"Point"}
 }

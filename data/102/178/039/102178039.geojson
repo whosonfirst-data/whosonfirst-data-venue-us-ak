@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178039",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.9511,56.81108,-132.9511,56.81108",
     "geom:latitude":56.81108,
     "geom:longitude":-132.9511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Haugen Dr",
     "sg:city":"Petersburg",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102178039",
-    "wof:lastmodified":1449069532,
+    "wof:lastmodified":1466313880,
     "wof:name":"Northwest Mutual Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.9511,56.81108,-132.9511,56.81108],
+  "bbox": [
+    -132.9511,
+    56.81108,
+    -132.9511,
+    56.81108
+],
   "geometry": {"coordinates":[-132.9511,56.81108],"type":"Point"}
 }

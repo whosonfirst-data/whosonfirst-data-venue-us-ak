@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102148601",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.377869,56.469601,-132.377869,56.469601",
     "geom:latitude":56.469601,
     "geom:longitude":-132.377869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 Alaska Ave",
     "sg:city":"Wrangell",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102148601",
-    "wof:lastmodified":1449069784,
+    "wof:lastmodified":1466313564,
     "wof:name":"Avenues",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.377869,56.469601,-132.377869,56.469601],
+  "bbox": [
+    -132.377869,
+    56.469601,
+    -132.377869,
+    56.469601
+],
   "geometry": {"coordinates":[-132.377869,56.469601],"type":"Point"}
 }

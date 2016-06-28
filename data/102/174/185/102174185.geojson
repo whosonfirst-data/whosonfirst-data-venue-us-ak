@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102174185",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.428219,61.568993,-149.428219,61.568993",
     "geom:latitude":61.568993,
     "geom:longitude":-149.428219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Creekside Dr",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102174185",
-    "wof:lastmodified":1449068137,
+    "wof:lastmodified":1466313893,
     "wof:name":"Toy Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.428219,61.568993,-149.428219,61.568993],
-  "geometry": {"coordinates":[-149.428219,61.568993],"type":"Point"}
+  "bbox": [
+    -149.428219,
+    61.568993,
+    -149.428219,
+    61.568993
+],
+  "geometry": {"coordinates":[-149.42821900000001,61.568993],"type":"Point"}
 }

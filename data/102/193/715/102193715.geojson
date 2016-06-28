@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102193715",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-141.725259,62.999901,-141.725259,62.999901",
     "geom:latitude":62.999901,
     "geom:longitude":-141.725259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1264 Alaska Hwy",
     "sg:city":"Northway",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102193715",
-    "wof:lastmodified":1449068194,
+    "wof:lastmodified":1466314278,
     "wof:name":"Alcan Satellite Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-141.725259,62.999901,-141.725259,62.999901],
-  "geometry": {"coordinates":[-141.725259,62.999901],"type":"Point"}
+  "bbox": [
+    -141.725259,
+    62.999901,
+    -141.725259,
+    62.999901
+],
+  "geometry": {"coordinates":[-141.72525899999999,62.999901],"type":"Point"}
 }

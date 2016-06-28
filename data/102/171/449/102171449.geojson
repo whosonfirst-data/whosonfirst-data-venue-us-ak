@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171449",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.820972,61.189689,-149.820972,61.189689",
     "geom:latitude":61.189689,
     "geom:longitude":-149.820972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3340 Providence Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873727,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102171449",
-    "wof:lastmodified":1449070228,
+    "wof:lastmodified":1466313890,
     "wof:name":"Providence Imaging Ctr",
     "wof:parent_id":85873727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.820972,61.189689,-149.820972,61.189689],
-  "geometry": {"coordinates":[-149.820972,61.189689],"type":"Point"}
+  "bbox": [
+    -149.820972,
+    61.189689,
+    -149.820972,
+    61.189689
+],
+  "geometry": {"coordinates":[-149.82097200000001,61.189689],"type":"Point"}
 }

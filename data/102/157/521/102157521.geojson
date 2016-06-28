@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102157521",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.684719,64.899764,-147.684719,64.899764",
     "geom:latitude":64.899764,
     "geom:longitude":-147.684719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"841 Skyline Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102157521",
-    "wof:lastmodified":1449069834,
+    "wof:lastmodified":1466313572,
     "wof:name":"L & A Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.684719,64.899764,-147.684719,64.899764],
+  "bbox": [
+    -147.684719,
+    64.899764,
+    -147.684719,
+    64.899764
+],
   "geometry": {"coordinates":[-147.684719,64.899764],"type":"Point"}
 }

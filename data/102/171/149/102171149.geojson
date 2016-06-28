@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171149",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.773283,61.217907,-149.773283,61.217907",
     "geom:latitude":61.217907,
     "geom:longitude":-149.773283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5841 Rocky Mountain Ct",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873731,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102171149",
-    "wof:lastmodified":1449070222,
+    "wof:lastmodified":1466313830,
     "wof:name":"Lucas Automotive",
     "wof:parent_id":85873731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.773283,61.217907,-149.773283,61.217907],
-  "geometry": {"coordinates":[-149.773283,61.217907],"type":"Point"}
+  "bbox": [
+    -149.773283,
+    61.217907,
+    -149.773283,
+    61.217907
+],
+  "geometry": {"coordinates":[-149.77328299999999,61.217907],"type":"Point"}
 }

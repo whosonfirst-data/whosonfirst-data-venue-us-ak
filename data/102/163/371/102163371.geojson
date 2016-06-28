@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102163371",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-148.209101,64.840329,-148.209101,64.840329",
     "geom:latitude":64.840329,
     "geom:longitude":-148.209101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5595 Old Ridge Trl",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102163371",
-    "wof:lastmodified":1449070163,
+    "wof:lastmodified":1466313722,
     "wof:name":"Old Ridge Wood Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-148.209101,64.840329,-148.209101,64.840329],
+  "bbox": [
+    -148.209101,
+    64.840329,
+    -148.209101,
+    64.840329
+],
   "geometry": {"coordinates":[-148.209101,64.840329],"type":"Point"}
 }

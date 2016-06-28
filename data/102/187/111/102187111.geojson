@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187111",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.490736,61.310657,-149.490736,61.310657",
     "geom:latitude":61.310657,
     "geom:longitude":-149.490736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20922 Eagle River Rd",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102187111",
-    "wof:lastmodified":1449068160,
+    "wof:lastmodified":1466314094,
     "wof:name":"Camp Creek Mining",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.490736,61.310657,-149.490736,61.310657],
+  "bbox": [
+    -149.490736,
+    61.310657,
+    -149.490736,
+    61.310657
+],
   "geometry": {"coordinates":[-149.490736,61.310657],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102148935",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.868145,61.18307,-149.868145,61.18307",
     "geom:latitude":61.18307,
     "geom:longitude":-149.868145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 Old Seward Hwy",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.aleutianhousing.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873723,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102148935",
-    "wof:lastmodified":1449069787,
+    "wof:lastmodified":1466313632,
     "wof:name":"Aleutian Housing Authority",
     "wof:parent_id":85873723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.868145,61.18307,-149.868145,61.18307],
+  "bbox": [
+    -149.868145,
+    61.18307,
+    -149.868145,
+    61.18307
+],
   "geometry": {"coordinates":[-149.868145,61.18307],"type":"Point"}
 }

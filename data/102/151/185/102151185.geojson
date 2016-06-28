@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102151185",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-150.910007,60.507839,-150.910007,60.507839",
     "geom:latitude":60.507839,
     "geom:longitude":-150.910007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38675 Longmere Lk Ct",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102151185",
-    "wof:lastmodified":1449067780,
+    "wof:lastmodified":1466314060,
     "wof:name":"High Adventure Air Charter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-150.910007,60.507839,-150.910007,60.507839],
-  "geometry": {"coordinates":[-150.910007,60.507839],"type":"Point"}
+  "bbox": [
+    -150.910007,
+    60.507839,
+    -150.910007,
+    60.507839
+],
+  "geometry": {"coordinates":[-150.91000700000001,60.507839],"type":"Point"}
 }

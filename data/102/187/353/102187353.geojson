@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187353",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.768181,58.442202,-134.768181,58.442202",
     "geom:latitude":58.442202,
     "geom:longitude":-134.768181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20180 Cohen Dr",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102187353",
-    "wof:lastmodified":1449068158,
+    "wof:lastmodified":1466314131,
     "wof:name":"Glacier Scents L L C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.768181,58.442202,-134.768181,58.442202],
+  "bbox": [
+    -134.768181,
+    58.442202,
+    -134.768181,
+    58.442202
+],
   "geometry": {"coordinates":[-134.768181,58.442202],"type":"Point"}
 }

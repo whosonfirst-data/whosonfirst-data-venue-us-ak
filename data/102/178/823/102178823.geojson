@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178823",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.777967,55.427571,-131.777967,55.427571",
     "geom:latitude":55.427571,
     "geom:longitude":-131.777967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"442 D-1 Loop Rd",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102178823",
-    "wof:lastmodified":1449069536,
+    "wof:lastmodified":1466314038,
     "wof:name":"Dolly's Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.777967,55.427571,-131.777967,55.427571],
-  "geometry": {"coordinates":[-131.777967,55.427571],"type":"Point"}
+  "bbox": [
+    -131.777967,
+    55.427571,
+    -131.777967,
+    55.427571
+],
+  "geometry": {"coordinates":[-131.77796699999999,55.427571],"type":"Point"}
 }

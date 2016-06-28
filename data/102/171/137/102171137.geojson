@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171137",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.384018,61.571795,-149.384018,61.571795",
     "geom:latitude":61.571795,
     "geom:longitude":-149.384018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2650 E Parks Hwy",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102171137",
-    "wof:lastmodified":1449070224,
+    "wof:lastmodified":1466313828,
     "wof:name":"Alaskan View Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.384018,61.571795,-149.384018,61.571795],
+  "bbox": [
+    -149.384018,
+    61.571795,
+    -149.384018,
+    61.571795
+],
   "geometry": {"coordinates":[-149.384018,61.571795],"type":"Point"}
 }

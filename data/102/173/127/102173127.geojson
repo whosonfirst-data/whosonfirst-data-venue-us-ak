@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173127",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.443148,64.895204,-147.443148,64.895204",
     "geom:latitude":64.895204,
     "geom:longitude":-147.443148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1994 Camomile Ln",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102173127",
-    "wof:lastmodified":1449068272,
+    "wof:lastmodified":1466313877,
     "wof:name":"C & C Research Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.443148,64.895204,-147.443148,64.895204],
-  "geometry": {"coordinates":[-147.443148,64.895204],"type":"Point"}
+  "bbox": [
+    -147.443148,
+    64.895204,
+    -147.443148,
+    64.895204
+],
+  "geometry": {"coordinates":[-147.44314800000001,64.89520400000001],"type":"Point"}
 }

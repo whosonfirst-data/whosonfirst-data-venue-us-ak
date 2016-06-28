@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102188227",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.645756,55.341713,-131.645756,55.341713",
     "geom:latitude":55.341713,
     "geom:longitude":-131.645756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Mission St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102188227",
-    "wof:lastmodified":1449068945,
+    "wof:lastmodified":1466313492,
     "wof:name":"Coliseum Twin Theatre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.645756,55.341713,-131.645756,55.341713],
-  "geometry": {"coordinates":[-131.645756,55.341713],"type":"Point"}
+  "bbox": [
+    -131.645756,
+    55.341713,
+    -131.645756,
+    55.341713
+],
+  "geometry": {"coordinates":[-131.64575600000001,55.341713],"type":"Point"}
 }

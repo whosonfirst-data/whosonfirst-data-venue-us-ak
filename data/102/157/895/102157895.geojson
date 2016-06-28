@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102157895",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.762106,55.41354,-131.762106,55.41354",
     "geom:latitude":55.41354,
     "geom:longitude":-131.762106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"417 Ohlson Ln",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102157895",
-    "wof:lastmodified":1449069831,
+    "wof:lastmodified":1466313648,
     "wof:name":"Latitude 50' Custom Canvas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.762106,55.41354,-131.762106,55.41354],
-  "geometry": {"coordinates":[-131.762106,55.41354],"type":"Point"}
+  "bbox": [
+    -131.762106,
+    55.41354,
+    -131.762106,
+    55.41354
+],
+  "geometry": {"coordinates":[-131.76210599999999,55.41354],"type":"Point"}
 }

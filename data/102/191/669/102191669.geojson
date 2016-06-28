@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191669",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.408059,57.788199,-152.408059,57.788199",
     "geom:latitude":57.788199,
     "geom:longitude":-152.408059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Marine Way W",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102191669",
-    "wof:lastmodified":1449069201,
+    "wof:lastmodified":1466314126,
     "wof:name":"Kodiak Electric Assn Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.408059,57.788199,-152.408059,57.788199],
-  "geometry": {"coordinates":[-152.408059,57.788199],"type":"Point"}
+  "bbox": [
+    -152.408059,
+    57.788199,
+    -152.408059,
+    57.788199
+],
+  "geometry": {"coordinates":[-152.40805900000001,57.788199],"type":"Point"}
 }

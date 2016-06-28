@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153733",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.660787,58.384265,-134.660787,58.384265",
     "geom:latitude":58.384265,
     "geom:longitude":-134.660787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12480 Glacier Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102153733",
-    "wof:lastmodified":1449069461,
+    "wof:lastmodified":1466313602,
     "wof:name":"L'Ecole De Ballet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.660787,58.384265,-134.660787,58.384265],
+  "bbox": [
+    -134.660787,
+    58.384265,
+    -134.660787,
+    58.384265
+],
   "geometry": {"coordinates":[-134.660787,58.384265],"type":"Point"}
 }

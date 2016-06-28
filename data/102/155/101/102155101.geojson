@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155101",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.935605,61.116781,-149.935605,61.116781",
     "geom:latitude":61.116781,
     "geom:longitude":-149.935605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11552 Discovery Heights Cir",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873739,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102155101",
-    "wof:lastmodified":1449069744,
+    "wof:lastmodified":1466313480,
     "wof:name":"Ironwood Inc",
     "wof:parent_id":85873739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.935605,61.116781,-149.935605,61.116781],
-  "geometry": {"coordinates":[-149.935605,61.116781],"type":"Point"}
+  "bbox": [
+    -149.935605,
+    61.116781,
+    -149.935605,
+    61.116781
+],
+  "geometry": {"coordinates":[-149.93560500000001,61.116781],"type":"Point"}
 }

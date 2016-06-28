@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184063",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.307641,64.755131,-147.307641,64.755131",
     "geom:latitude":64.755131,
     "geom:longitude":-147.307641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3329 Lineman Ave",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102184063",
-    "wof:lastmodified":1449068216,
+    "wof:lastmodified":1466314185,
     "wof:name":"Fairbanks Foam Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.307641,64.755131,-147.307641,64.755131],
-  "geometry": {"coordinates":[-147.307641,64.755131],"type":"Point"}
+  "bbox": [
+    -147.307641,
+    64.755131,
+    -147.307641,
+    64.755131
+],
+  "geometry": {"coordinates":[-147.30764099999999,64.75513100000001],"type":"Point"}
 }

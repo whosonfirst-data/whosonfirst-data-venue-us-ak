@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102186031",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.480821,61.417066,-149.480821,61.417066",
     "geom:latitude":61.417066,
     "geom:longitude":-149.480821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21439 Torkelson Cir",
     "sg:city":"Chugiak",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806187,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85806187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102186031",
-    "wof:lastmodified":1449069653,
+    "wof:lastmodified":1466314076,
     "wof:name":"DBS Enterprises",
     "wof:parent_id":85806187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.480821,61.417066,-149.480821,61.417066],
-  "geometry": {"coordinates":[-149.480821,61.417066],"type":"Point"}
+  "bbox": [
+    -149.480821,
+    61.417066,
+    -149.480821,
+    61.417066
+],
+  "geometry": {"coordinates":[-149.48082099999999,61.417066],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191131",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.394184,57.795443,-152.394184,57.795443",
     "geom:latitude":57.795443,
     "geom:longitude":-152.394184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"917 Mill Bay Rd",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102191131",
-    "wof:lastmodified":1449069200,
+    "wof:lastmodified":1466314176,
     "wof:name":"Castle Rock Arts & Crafts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.394184,57.795443,-152.394184,57.795443],
+  "bbox": [
+    -152.394184,
+    57.795443,
+    -152.394184,
+    57.795443
+],
   "geometry": {"coordinates":[-152.394184,57.795443],"type":"Point"}
 }

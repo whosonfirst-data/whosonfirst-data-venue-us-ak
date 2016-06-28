@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185119",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.964658,61.136652,-149.964658,61.136652",
     "geom:latitude":61.136652,
     "geom:longitude":-149.964658,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 Edinburgh Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873737,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102185119",
-    "wof:lastmodified":1449068196,
+    "wof:lastmodified":1466314086,
     "wof:name":"Far North Landscaping & Cnstr",
     "wof:parent_id":85873737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.964658,61.136652,-149.964658,61.136652],
-  "geometry": {"coordinates":[-149.964658,61.136652],"type":"Point"}
+  "bbox": [
+    -149.964658,
+    61.136652,
+    -149.964658,
+    61.136652
+],
+  "geometry": {"coordinates":[-149.96465799999999,61.136652],"type":"Point"}
 }

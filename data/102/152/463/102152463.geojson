@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102152463",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.520559,64.89346,-147.520559,64.89346",
     "geom:latitude":64.89346,
     "geom:longitude":-147.520559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1242 Silverberry Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102152463",
-    "wof:lastmodified":1449069637,
+    "wof:lastmodified":1466313550,
     "wof:name":"ICI Maintenance Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.520559,64.89346,-147.520559,64.89346],
-  "geometry": {"coordinates":[-147.520559,64.89346],"type":"Point"}
+  "bbox": [
+    -147.520559,
+    64.89346,
+    -147.520559,
+    64.89346
+],
+  "geometry": {"coordinates":[-147.52055899999999,64.89346],"type":"Point"}
 }

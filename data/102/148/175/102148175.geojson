@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102148175",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.6373,55.343261,-131.6373,55.343261",
     "geom:latitude":55.343261,
     "geom:longitude":-131.6373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"628 Park Ave",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102148175",
-    "wof:lastmodified":1449069785,
+    "wof:lastmodified":1466313477,
     "wof:name":"Ketchikan Homeless Shelter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.6373,55.343261,-131.6373,55.343261],
-  "geometry": {"coordinates":[-131.6373,55.343261],"type":"Point"}
+  "bbox": [
+    -131.6373,
+    55.343261,
+    -131.6373,
+    55.343261
+],
+  "geometry": {"coordinates":[-131.63730000000001,55.343261],"type":"Point"}
 }

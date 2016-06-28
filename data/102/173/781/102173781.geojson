@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173781",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.405521,58.300593,-134.405521,58.300593",
     "geom:latitude":58.300593,
     "geom:longitude":-134.405521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"244 Front St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102173781",
-    "wof:lastmodified":1449068263,
+    "wof:lastmodified":1466314003,
     "wof:name":"Annie Kaill's",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.405521,58.300593,-134.405521,58.300593],
-  "geometry": {"coordinates":[-134.405521,58.300593],"type":"Point"}
+  "bbox": [
+    -134.405521,
+    58.300593,
+    -134.405521,
+    58.300593
+],
+  "geometry": {"coordinates":[-134.40552099999999,58.300593],"type":"Point"}
 }

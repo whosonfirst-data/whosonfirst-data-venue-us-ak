@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102160583",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.857679,64.948308,-147.857679,64.948308",
     "geom:latitude":64.948308,
     "geom:longitude":-147.857679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1948 Pine Wood Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102160583",
-    "wof:lastmodified":1449069778,
+    "wof:lastmodified":1466313710,
     "wof:name":"Laughing Husky Ent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.857679,64.948308,-147.857679,64.948308],
-  "geometry": {"coordinates":[-147.857679,64.948308],"type":"Point"}
+  "bbox": [
+    -147.857679,
+    64.948308,
+    -147.857679,
+    64.948308
+],
+  "geometry": {"coordinates":[-147.85767899999999,64.948308],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102152995",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.561963,59.643278,-151.561963,59.643278",
     "geom:latitude":59.643278,
     "geom:longitude":-151.561963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3772 Forest Glen Dr",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102152995",
-    "wof:lastmodified":1449069636,
+    "wof:lastmodified":1466313657,
     "wof:name":"Hands On Massage Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.561963,59.643278,-151.561963,59.643278],
-  "geometry": {"coordinates":[-151.561963,59.643278],"type":"Point"}
+  "bbox": [
+    -151.561963,
+    59.643278,
+    -151.561963,
+    59.643278
+],
+  "geometry": {"coordinates":[-151.56196299999999,59.643278],"type":"Point"}
 }

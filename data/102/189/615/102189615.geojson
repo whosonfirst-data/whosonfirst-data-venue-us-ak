@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102189615",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.573993,58.360523,-134.573993,58.360523",
     "geom:latitude":58.360523,
     "geom:longitude":-134.573993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1850 Crest St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -36,11 +37,11 @@
     "sg:website":"www.cameronplumbing.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833767,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85833767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":"102189615",
-    "wof:lastmodified":1449069497,
+    "wof:lastmodified":1466313773,
     "wof:name":"Cameron Plumbing and Heating",
     "wof:parent_id":85833767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.573993,58.360523,-134.573993,58.360523],
+  "bbox": [
+    -134.573993,
+    58.360523,
+    -134.573993,
+    58.360523
+],
   "geometry": {"coordinates":[-134.573993,58.360523],"type":"Point"}
 }

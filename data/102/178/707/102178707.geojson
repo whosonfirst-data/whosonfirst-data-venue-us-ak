@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178707",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.504634,58.360839,-134.504634,58.360839",
     "geom:latitude":58.360839,
     "geom:longitude":-134.504634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1845 Alaska Ave",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830251,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85830251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102178707",
-    "wof:lastmodified":1449069530,
+    "wof:lastmodified":1466314162,
     "wof:name":"Bill Lockhart",
     "wof:parent_id":85830251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.504634,58.360839,-134.504634,58.360839],
-  "geometry": {"coordinates":[-134.504634,58.360839],"type":"Point"}
+  "bbox": [
+    -134.504634,
+    58.360839,
+    -134.504634,
+    58.360839
+],
+  "geometry": {"coordinates":[-134.50463400000001,58.360839],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192631",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.569884,61.325117,-149.569884,61.325117",
     "geom:latitude":61.325117,
     "geom:longitude":-149.569884,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11417 Market St",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102192631",
-    "wof:lastmodified":1449069502,
+    "wof:lastmodified":1466314244,
     "wof:name":"St Pierre Master Jewelers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.569884,61.325117,-149.569884,61.325117],
+  "bbox": [
+    -149.569884,
+    61.325117,
+    -149.569884,
+    61.325117
+],
   "geometry": {"coordinates":[-149.569884,61.325117],"type":"Point"}
 }

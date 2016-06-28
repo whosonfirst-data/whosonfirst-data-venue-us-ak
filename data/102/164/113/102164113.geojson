@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102164113",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.354267,57.815775,-152.354267,57.815775",
     "geom:latitude":57.815775,
     "geom:longitude":-152.354267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3689 E Rezanof Dr",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102164113",
-    "wof:lastmodified":1449068091,
+    "wof:lastmodified":1466313680,
     "wof:name":"Eggemeyers Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.354267,57.815775,-152.354267,57.815775],
-  "geometry": {"coordinates":[-152.354267,57.815775],"type":"Point"}
+  "bbox": [
+    -152.354267,
+    57.815775,
+    -152.354267,
+    57.815775
+],
+  "geometry": {"coordinates":[-152.35426699999999,57.815775],"type":"Point"}
 }

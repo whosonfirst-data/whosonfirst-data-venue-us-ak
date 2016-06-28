@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102148107",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.54389,58.338579,-134.54389,58.338579",
     "geom:latitude":58.338579,
     "geom:longitude":-134.54389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8529 N Douglas Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102148107",
-    "wof:lastmodified":1449069780,
+    "wof:lastmodified":1466313466,
     "wof:name":"Martin Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.54389,58.338579,-134.54389,58.338579],
+  "bbox": [
+    -134.54389,
+    58.338579,
+    -134.54389,
+    58.338579
+],
   "geometry": {"coordinates":[-134.54389,58.338579],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102175665",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.081478,60.50535,-151.081478,60.50535",
     "geom:latitude":60.50535,
     "geom:longitude":-151.081478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36211 Kenai Spur Hwy",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102175665",
-    "wof:lastmodified":1449069464,
+    "wof:lastmodified":1466314157,
     "wof:name":"AAA Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.081478,60.50535,-151.081478,60.50535],
+  "bbox": [
+    -151.081478,
+    60.50535,
+    -151.081478,
+    60.50535
+],
   "geometry": {"coordinates":[-151.081478,60.50535],"type":"Point"}
 }

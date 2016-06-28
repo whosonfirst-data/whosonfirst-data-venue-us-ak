@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102170353",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.381476,56.466224,-132.381476,56.466224",
     "geom:latitude":56.466224,
     "geom:longitude":-132.381476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"274 Shakes St",
     "sg:city":"Wrangell",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102170353",
-    "wof:lastmodified":1449068018,
+    "wof:lastmodified":1466313801,
     "wof:name":"Marine Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.381476,56.466224,-132.381476,56.466224],
-  "geometry": {"coordinates":[-132.381476,56.466224],"type":"Point"}
+  "bbox": [
+    -132.381476,
+    56.466224,
+    -132.381476,
+    56.466224
+],
+  "geometry": {"coordinates":[-132.38147599999999,56.466224],"type":"Point"}
 }

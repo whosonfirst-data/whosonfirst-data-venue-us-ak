@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191621",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.80508,61.224024,-149.80508,61.224024",
     "geom:latitude":61.224024,
     "geom:longitude":-149.80508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4035 Mountain View Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835847,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85835847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102191621",
-    "wof:lastmodified":1449069203,
+    "wof:lastmodified":1466314118,
     "wof:name":"Hamburger House",
     "wof:parent_id":85835847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.80508,61.224024,-149.80508,61.224024],
+  "bbox": [
+    -149.80508,
+    61.224024,
+    -149.80508,
+    61.224024
+],
   "geometry": {"coordinates":[-149.80508,61.224024],"type":"Point"}
 }

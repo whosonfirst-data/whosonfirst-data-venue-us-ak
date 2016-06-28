@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153155",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.676344,64.870698,-147.676344,64.870698",
     "geom:latitude":64.870698,
     "geom:longitude":-147.676344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"255 Farmers Loop Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823671,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85823671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102153155",
-    "wof:lastmodified":1449069463,
+    "wof:lastmodified":1466313486,
     "wof:name":"Aversa Enterprises",
     "wof:parent_id":85823671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.676344,64.870698,-147.676344,64.870698],
+  "bbox": [
+    -147.676344,
+    64.870698,
+    -147.676344,
+    64.870698
+],
   "geometry": {"coordinates":[-147.676344,64.870698],"type":"Point"}
 }

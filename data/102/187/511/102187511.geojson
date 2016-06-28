@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187511",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.402698,58.298224,-134.402698,58.298224",
     "geom:latitude":58.298224,
     "geom:longitude":-134.402698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"359 S Franklin St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102187511",
-    "wof:lastmodified":1449068158,
+    "wof:lastmodified":1466314215,
     "wof:name":"Alaska Fur Gallery",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.402698,58.298224,-134.402698,58.298224],
-  "geometry": {"coordinates":[-134.402698,58.298224],"type":"Point"}
+  "bbox": [
+    -134.402698,
+    58.298224,
+    -134.402698,
+    58.298224
+],
+  "geometry": {"coordinates":[-134.40269799999999,58.298224],"type":"Point"}
 }

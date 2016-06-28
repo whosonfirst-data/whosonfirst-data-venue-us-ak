@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172927",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.955847,56.809799,-132.955847,56.809799",
     "geom:latitude":56.809799,
     "geom:longitude":-132.955847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Birch St",
     "sg:city":"Petersburg",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102172927",
-    "wof:lastmodified":1449068737,
+    "wof:lastmodified":1466314030,
     "wof:name":"Heather & Rose Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.955847,56.809799,-132.955847,56.809799],
-  "geometry": {"coordinates":[-132.955847,56.809799],"type":"Point"}
+  "bbox": [
+    -132.955847,
+    56.809799,
+    -132.955847,
+    56.809799
+],
+  "geometry": {"coordinates":[-132.95584700000001,56.809799],"type":"Point"}
 }

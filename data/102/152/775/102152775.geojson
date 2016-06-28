@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102152775",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.440438,60.101181,-149.440438,60.101181",
     "geom:latitude":60.101181,
     "geom:longitude":-149.440438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 4th Ave",
     "sg:city":"Seward",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102152775",
-    "wof:lastmodified":1449069638,
+    "wof:lastmodified":1466313613,
     "wof:name":"Alaska Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.440438,60.101181,-149.440438,60.101181],
+  "bbox": [
+    -149.440438,
+    60.101181,
+    -149.440438,
+    60.101181
+],
   "geometry": {"coordinates":[-149.440438,60.101181],"type":"Point"}
 }

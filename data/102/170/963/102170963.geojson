@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102170963",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-145.752399,60.544517,-145.752399,60.544517",
     "geom:latitude":60.544517,
     "geom:longitude":-145.752399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 5th St",
     "sg:city":"Cordova",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839707,
+        85688573,
         85633793,
         85915567,
         102081911,
-        85688573
+        85839707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102170963",
-    "wof:lastmodified":1449068017,
+    "wof:lastmodified":1466313925,
     "wof:name":"Kritchen Furs",
     "wof:parent_id":85839707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-145.752399,60.544517,-145.752399,60.544517],
+  "bbox": [
+    -145.752399,
+    60.544517,
+    -145.752399,
+    60.544517
+],
   "geometry": {"coordinates":[-145.752399,60.544517],"type":"Point"}
 }

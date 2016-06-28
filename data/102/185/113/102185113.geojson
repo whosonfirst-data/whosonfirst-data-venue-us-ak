@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185113",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.763843,55.414045,-131.763843,55.414045",
     "geom:latitude":55.414045,
     "geom:longitude":-131.763843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"486 Barbara Ln",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102185113",
-    "wof:lastmodified":1449068199,
+    "wof:lastmodified":1466314085,
     "wof:name":"Gateway Courier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.763843,55.414045,-131.763843,55.414045],
-  "geometry": {"coordinates":[-131.763843,55.414045],"type":"Point"}
+  "bbox": [
+    -131.763843,
+    55.414045,
+    -131.763843,
+    55.414045
+],
+  "geometry": {"coordinates":[-131.76384300000001,55.414045],"type":"Point"}
 }

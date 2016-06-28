@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102180027",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.524664,61.329257,-149.524664,61.329257",
     "geom:latitude":61.329257,
     "geom:longitude":-149.524664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19220 McCrary Rd",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102180027",
-    "wof:lastmodified":1449067871,
+    "wof:lastmodified":1466313921,
     "wof:name":"Anderson Dawayne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.524664,61.329257,-149.524664,61.329257],
+  "bbox": [
+    -149.524664,
+    61.329257,
+    -149.524664,
+    61.329257
+],
   "geometry": {"coordinates":[-149.524664,61.329257],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173763",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.722285,55.409383,-131.722285,55.409383",
     "geom:latitude":55.409383,
     "geom:longitude":-131.722285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7559 N Tongass Hwy",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102173763",
-    "wof:lastmodified":1449068270,
+    "wof:lastmodified":1466314000,
     "wof:name":"Ty-Matt Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.722285,55.409383,-131.722285,55.409383],
+  "bbox": [
+    -131.722285,
+    55.409383,
+    -131.722285,
+    55.409383
+],
   "geometry": {"coordinates":[-131.722285,55.409383],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102167629",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.37571,61.585169,-149.37571,61.585169",
     "geom:latitude":61.585169,
     "geom:longitude":-149.37571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3035 E Palmer-Wasilla Hwy",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102167629",
-    "wof:lastmodified":1449069003,
+    "wof:lastmodified":1466313798,
     "wof:name":"Capwest Securities Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.37571,61.585169,-149.37571,61.585169],
+  "bbox": [
+    -149.37571,
+    61.585169,
+    -149.37571,
+    61.585169
+],
   "geometry": {"coordinates":[-149.37571,61.585169],"type":"Point"}
 }

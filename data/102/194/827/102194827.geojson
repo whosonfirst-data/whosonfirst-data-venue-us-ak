@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102194827",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-145.547492,64.040905,-145.547492,64.040905",
     "geom:latitude":64.040905,
     "geom:longitude":-145.547492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1649 Souhrada Rd",
     "sg:city":"Delta Junction",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102194827",
-    "wof:lastmodified":1449069828,
+    "wof:lastmodified":1466314263,
     "wof:name":"Delta Sanitation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-145.547492,64.040905,-145.547492,64.040905],
-  "geometry": {"coordinates":[-145.547492,64.040905],"type":"Point"}
+  "bbox": [
+    -145.547492,
+    64.040905,
+    -145.547492,
+    64.040905
+],
+  "geometry": {"coordinates":[-145.54749200000001,64.040905],"type":"Point"}
 }

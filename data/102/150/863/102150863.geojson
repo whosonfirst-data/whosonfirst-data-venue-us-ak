@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102150863",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.398698,58.279532,-134.398698,58.279532",
     "geom:latitude":58.279532,
     "geom:longitude":-134.398698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1514 2nd St",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102150863",
-    "wof:lastmodified":1449067791,
+    "wof:lastmodified":1466314071,
     "wof:name":"Alaska Fjord View",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.398698,58.279532,-134.398698,58.279532],
+  "bbox": [
+    -134.398698,
+    58.279532,
+    -134.398698,
+    58.279532
+],
   "geometry": {"coordinates":[-134.398698,58.279532],"type":"Point"}
 }

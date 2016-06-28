@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102154939",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.716116,64.916806,-147.716116,64.916806",
     "geom:latitude":64.916806,
     "geom:longitude":-147.716116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1061 Summit Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102154939",
-    "wof:lastmodified":1449070243,
+    "wof:lastmodified":1466313635,
     "wof:name":"Brian Phillips Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.716116,64.916806,-147.716116,64.916806],
-  "geometry": {"coordinates":[-147.716116,64.916806],"type":"Point"}
+  "bbox": [
+    -147.716116,
+    64.916806,
+    -147.716116,
+    64.916806
+],
+  "geometry": {"coordinates":[-147.716116,64.91680599999999],"type":"Point"}
 }

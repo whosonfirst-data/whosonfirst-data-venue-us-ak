@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102151561",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-161.76916,60.796024,-161.76916,60.796024",
     "geom:latitude":60.796024,
     "geom:longitude":-161.76916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"380 Willow St",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102151561",
-    "wof:lastmodified":1449067782,
+    "wof:lastmodified":1466313504,
     "wof:name":"Sew What",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-161.76916,60.796024,-161.76916,60.796024],
+  "bbox": [
+    -161.76916,
+    60.796024,
+    -161.76916,
+    60.796024
+],
   "geometry": {"coordinates":[-161.76916,60.796024],"type":"Point"}
 }

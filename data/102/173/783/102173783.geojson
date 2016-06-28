@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173783",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.867483,64.845794,-147.867483,64.845794",
     "geom:latitude":64.845794,
     "geom:longitude":-147.867483,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5004 Dartmouth Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102173783",
-    "wof:lastmodified":1449068263,
+    "wof:lastmodified":1466314004,
     "wof:name":"Duffy Infodesign",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.867483,64.845794,-147.867483,64.845794],
-  "geometry": {"coordinates":[-147.867483,64.845794],"type":"Point"}
+  "bbox": [
+    -147.867483,
+    64.845794,
+    -147.867483,
+    64.845794
+],
+  "geometry": {"coordinates":[-147.86748299999999,64.845794],"type":"Point"}
 }

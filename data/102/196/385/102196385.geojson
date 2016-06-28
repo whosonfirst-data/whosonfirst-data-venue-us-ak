@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102196385",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.329699,61.570577,-149.329699,61.570577",
     "geom:latitude":61.570577,
     "geom:longitude":-149.329699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Hay St",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102196385",
-    "wof:lastmodified":1449068338,
+    "wof:lastmodified":1466314267,
     "wof:name":"Alaska Sales & Svc Inc-Valley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.329699,61.570577,-149.329699,61.570577],
-  "geometry": {"coordinates":[-149.329699,61.570577],"type":"Point"}
+  "bbox": [
+    -149.329699,
+    61.570577,
+    -149.329699,
+    61.570577
+],
+  "geometry": {"coordinates":[-149.32969900000001,61.570577],"type":"Point"}
 }

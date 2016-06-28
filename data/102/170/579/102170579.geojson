@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102170579",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.864009,64.839201,-147.864009,64.839201",
     "geom:latitude":64.839201,
     "geom:longitude":-147.864009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"174 Berkeley Ct",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102170579",
-    "wof:lastmodified":1449068018,
+    "wof:lastmodified":1466313848,
     "wof:name":"Nebel Business Computing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.864009,64.839201,-147.864009,64.839201],
-  "geometry": {"coordinates":[-147.864009,64.839201],"type":"Point"}
+  "bbox": [
+    -147.864009,
+    64.839201,
+    -147.864009,
+    64.839201
+],
+  "geometry": {"coordinates":[-147.86400900000001,64.839201],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172481",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.739207,64.858726,-147.739207,64.858726",
     "geom:latitude":64.858726,
     "geom:longitude":-147.739207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1303 Oconnor Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830247,
+        85688573,
         85633793,
         85916559,
         102081397,
-        85688573
+        85830247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102172481",
-    "wof:lastmodified":1449068737,
+    "wof:lastmodified":1466313947,
     "wof:name":"C and S Mining Inc",
     "wof:parent_id":85830247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.739207,64.858726,-147.739207,64.858726],
-  "geometry": {"coordinates":[-147.739207,64.858726],"type":"Point"}
+  "bbox": [
+    -147.739207,
+    64.858726,
+    -147.739207,
+    64.858726
+],
+  "geometry": {"coordinates":[-147.73920699999999,64.858726],"type":"Point"}
 }

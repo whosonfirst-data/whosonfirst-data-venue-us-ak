@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172973",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.79007,55.43358,-131.79007,55.43358",
     "geom:latitude":55.43358,
     "geom:longitude":-131.79007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10964 Brentwood Ln",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102172973",
-    "wof:lastmodified":1449068736,
+    "wof:lastmodified":1466314038,
     "wof:name":"Eastham's Carpentry & Floor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.79007,55.43358,-131.79007,55.43358],
-  "geometry": {"coordinates":[-131.79007,55.43358],"type":"Point"}
+  "bbox": [
+    -131.79007,
+    55.43358,
+    -131.79007,
+    55.43358
+],
+  "geometry": {"coordinates":[-131.79006999999999,55.43358],"type":"Point"}
 }

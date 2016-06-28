@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155189",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.834523,61.149096,-149.834523,61.149096",
     "geom:latitude":61.149096,
     "geom:longitude":-149.834523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2040 E 79th Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102155189",
-    "wof:lastmodified":1449069743,
+    "wof:lastmodified":1466314108,
     "wof:name":"Midnight Sun Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.834523,61.149096,-149.834523,61.149096],
-  "geometry": {"coordinates":[-149.834523,61.149096],"type":"Point"}
+  "bbox": [
+    -149.834523,
+    61.149096,
+    -149.834523,
+    61.149096
+],
+  "geometry": {"coordinates":[-149.83452299999999,61.149096],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102174917",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.644388,55.342375,-131.644388,55.342375",
     "geom:latitude":55.342375,
     "geom:longitude":-131.644388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Bawden St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102174917",
-    "wof:lastmodified":1449068140,
+    "wof:lastmodified":1466314037,
     "wof:name":"HERE",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.644388,55.342375,-131.644388,55.342375],
-  "geometry": {"coordinates":[-131.644388,55.342375],"type":"Point"}
+  "bbox": [
+    -131.644388,
+    55.342375,
+    -131.644388,
+    55.342375
+],
+  "geometry": {"coordinates":[-131.64438799999999,55.342375],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102174341",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.795689,64.88349,-147.795689,64.88349",
     "geom:latitude":64.88349,
     "geom:longitude":-147.795689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 Scenic Loop",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102174341",
-    "wof:lastmodified":1449068142,
+    "wof:lastmodified":1466313925,
     "wof:name":"Royal Alaska Contractors LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.795689,64.88349,-147.795689,64.88349],
-  "geometry": {"coordinates":[-147.795689,64.88349],"type":"Point"}
+  "bbox": [
+    -147.795689,
+    64.88349,
+    -147.795689,
+    64.88349
+],
+  "geometry": {"coordinates":[-147.79568900000001,64.88348999999999],"type":"Point"}
 }

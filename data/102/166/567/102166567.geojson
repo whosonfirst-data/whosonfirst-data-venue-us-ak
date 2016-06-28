@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166567",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.640282,55.340727,-131.640282,55.340727",
     "geom:latitude":55.340727,
     "geom:longitude":-131.640282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Creek St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102166567",
-    "wof:lastmodified":1449069089,
+    "wof:lastmodified":1466313778,
     "wof:name":"Alaska Eagle Arts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.640282,55.340727,-131.640282,55.340727],
-  "geometry": {"coordinates":[-131.640282,55.340727],"type":"Point"}
+  "bbox": [
+    -131.640282,
+    55.340727,
+    -131.640282,
+    55.340727
+],
+  "geometry": {"coordinates":[-131.64028200000001,55.340727],"type":"Point"}
 }

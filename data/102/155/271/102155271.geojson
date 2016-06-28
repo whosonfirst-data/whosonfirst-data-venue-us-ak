@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155271",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.3862,56.465354,-132.3862,56.465354",
     "geom:latitude":56.465354,
     "geom:longitude":-132.3862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Ocean View Dr",
     "sg:city":"Wrangell",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102155271",
-    "wof:lastmodified":1449069744,
+    "wof:lastmodified":1466314113,
     "wof:name":"Wrangell Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.3862,56.465354,-132.3862,56.465354],
+  "bbox": [
+    -132.3862,
+    56.465354,
+    -132.3862,
+    56.465354
+],
   "geometry": {"coordinates":[-132.3862,56.465354],"type":"Point"}
 }

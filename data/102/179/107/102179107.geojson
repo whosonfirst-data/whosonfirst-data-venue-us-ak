@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102179107",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.68919,61.162506,-149.68919,61.162506",
     "geom:latitude":61.162506,
     "geom:longitude":-149.68919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9921 Nearpoint Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873749,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102179107",
-    "wof:lastmodified":1449069940,
+    "wof:lastmodified":1466313895,
     "wof:name":"Joseph R Henri",
     "wof:parent_id":85873749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.68919,61.162506,-149.68919,61.162506],
+  "bbox": [
+    -149.68919,
+    61.162506,
+    -149.68919,
+    61.162506
+],
   "geometry": {"coordinates":[-149.68919,61.162506],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102194803",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.784717,61.137586,-149.784717,61.137586",
     "geom:latitude":61.137586,
     "geom:longitude":-149.784717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5155 Abbott Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873745,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873745
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102194803",
-    "wof:lastmodified":1449069831,
+    "wof:lastmodified":1466314263,
     "wof:name":"Worldwide Church Of God",
     "wof:parent_id":85873745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.784717,61.137586,-149.784717,61.137586],
+  "bbox": [
+    -149.784717,
+    61.137586,
+    -149.784717,
+    61.137586
+],
   "geometry": {"coordinates":[-149.784717,61.137586],"type":"Point"}
 }

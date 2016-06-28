@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102149831",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.579296,58.36469,-134.579296,58.36469",
     "geom:latitude":58.36469,
     "geom:longitude":-134.579296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2239 Jordan Ave",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833767,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85833767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102149831",
-    "wof:lastmodified":1449067770,
+    "wof:lastmodified":1466313599,
     "wof:name":"Alaska Psychiatric Concepts",
     "wof:parent_id":85833767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.579296,58.36469,-134.579296,58.36469],
+  "bbox": [
+    -134.579296,
+    58.36469,
+    -134.579296,
+    58.36469
+],
   "geometry": {"coordinates":[-134.579296,58.36469],"type":"Point"}
 }

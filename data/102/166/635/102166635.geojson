@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166635",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.867969,61.168255,-149.867969,61.168255",
     "geom:latitude":61.168255,
     "geom:longitude":-149.867969,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5955 Old Seward Hwy",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.gatorglass.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873723,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102166635",
-    "wof:lastmodified":1449069086,
+    "wof:lastmodified":1466313792,
     "wof:name":"Gator Glass Co",
     "wof:parent_id":85873723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.867969,61.168255,-149.867969,61.168255],
-  "geometry": {"coordinates":[-149.867969,61.168255],"type":"Point"}
+  "bbox": [
+    -149.867969,
+    61.168255,
+    -149.867969,
+    61.168255
+],
+  "geometry": {"coordinates":[-149.86796899999999,61.168255],"type":"Point"}
 }

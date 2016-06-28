@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185645",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.108514,61.606776,-149.108514,61.606776",
     "geom:latitude":61.606776,
     "geom:longitude":-149.108514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"349 E Arctic Ave",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102185645",
-    "wof:lastmodified":1449068195,
+    "wof:lastmodified":1466314153,
     "wof:name":"Palmer Highway Church Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.108514,61.606776,-149.108514,61.606776],
-  "geometry": {"coordinates":[-149.108514,61.606776],"type":"Point"}
+  "bbox": [
+    -149.108514,
+    61.606776,
+    -149.108514,
+    61.606776
+],
+  "geometry": {"coordinates":[-149.10851400000001,61.606776],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102169181",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.726423,64.836762,-147.726423,64.836762",
     "geom:latitude":64.836762,
     "geom:longitude":-147.726423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1416 Gillam Way",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848979,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85848979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102169181",
-    "wof:lastmodified":1449069246,
+    "wof:lastmodified":1466313746,
     "wof:name":"Golden North Archery Assn",
     "wof:parent_id":85848979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.726423,64.836762,-147.726423,64.836762],
-  "geometry": {"coordinates":[-147.726423,64.836762],"type":"Point"}
+  "bbox": [
+    -147.726423,
+    64.836762,
+    -147.726423,
+    64.836762
+],
+  "geometry": {"coordinates":[-147.72642300000001,64.83676199999999],"type":"Point"}
 }

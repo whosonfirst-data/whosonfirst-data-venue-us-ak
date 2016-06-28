@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185099",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.510991,61.579029,-149.510991,61.579029",
     "geom:latitude":61.579029,
     "geom:longitude":-149.510991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1830 W Parks Hwy",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102185099",
-    "wof:lastmodified":1449068196,
+    "wof:lastmodified":1466314082,
     "wof:name":"Treeforms Of Alaska Amish Furn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.510991,61.579029,-149.510991,61.579029],
-  "geometry": {"coordinates":[-149.510991,61.579029],"type":"Point"}
+  "bbox": [
+    -149.510991,
+    61.579029,
+    -149.510991,
+    61.579029
+],
+  "geometry": {"coordinates":[-149.51099099999999,61.579029],"type":"Point"}
 }

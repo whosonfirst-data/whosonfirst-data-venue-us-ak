@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102175725",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.453848,59.670425,-151.453848,59.670425",
     "geom:latitude":59.670425,
     "geom:longitude":-151.453848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41561 Stellars Jay Dr",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834363,
+        85688573,
         85633793,
         85915739,
         102081909,
-        85688573
+        85834363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102175725",
-    "wof:lastmodified":1449069465,
+    "wof:lastmodified":1466313998,
     "wof:name":"Birdhouse B & B",
     "wof:parent_id":85834363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.453848,59.670425,-151.453848,59.670425],
-  "geometry": {"coordinates":[-151.453848,59.670425],"type":"Point"}
+  "bbox": [
+    -151.453848,
+    59.670425,
+    -151.453848,
+    59.670425
+],
+  "geometry": {"coordinates":[-151.45384799999999,59.670425],"type":"Point"}
 }

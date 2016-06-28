@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102162119",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.760435,61.180891,-149.760435,61.180891",
     "geom:latitude":61.180891,
     "geom:longitude":-149.760435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4316 Kingston Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873735,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102162119",
-    "wof:lastmodified":1449069824,
+    "wof:lastmodified":1466313671,
     "wof:name":"Jon Ashbrook",
     "wof:parent_id":85873735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.760435,61.180891,-149.760435,61.180891],
+  "bbox": [
+    -149.760435,
+    61.180891,
+    -149.760435,
+    61.180891
+],
   "geometry": {"coordinates":[-149.760435,61.180891],"type":"Point"}
 }

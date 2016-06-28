@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153765",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.644719,58.383485,-134.644719,58.383485",
     "geom:latitude":58.383485,
     "geom:longitude":-134.644719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11521 Glacier Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102153765",
-    "wof:lastmodified":1449069461,
+    "wof:lastmodified":1466313608,
     "wof:name":"Alaska Boat & Kayak",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.644719,58.383485,-134.644719,58.383485],
-  "geometry": {"coordinates":[-134.644719,58.383485],"type":"Point"}
+  "bbox": [
+    -134.644719,
+    58.383485,
+    -134.644719,
+    58.383485
+],
+  "geometry": {"coordinates":[-134.64471900000001,58.383485],"type":"Point"}
 }

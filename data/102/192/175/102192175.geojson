@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192175",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.587312,58.375632,-134.587312,58.375632",
     "geom:latitude":58.375632,
     "geom:longitude":-134.587312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2929 Linda Ave",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833767,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85833767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102192175",
-    "wof:lastmodified":1449069502,
+    "wof:lastmodified":1466314232,
     "wof:name":"L J Alarm Monitoring",
     "wof:parent_id":85833767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.587312,58.375632,-134.587312,58.375632],
+  "bbox": [
+    -134.587312,
+    58.375632,
+    -134.587312,
+    58.375632
+],
   "geometry": {"coordinates":[-134.587312,58.375632],"type":"Point"}
 }

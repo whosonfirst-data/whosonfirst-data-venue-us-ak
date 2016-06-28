@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102182849",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.395174,57.794859,-152.395174,57.794859",
     "geom:latitude":57.794859,
     "geom:longitude":-152.395174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Mill Bay Rd",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102182849",
-    "wof:lastmodified":1449069279,
+    "wof:lastmodified":1466314220,
     "wof:name":"Borough Building Inspection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.395174,57.794859,-152.395174,57.794859],
+  "bbox": [
+    -152.395174,
+    57.794859,
+    -152.395174,
+    57.794859
+],
   "geometry": {"coordinates":[-152.395174,57.794859],"type":"Point"}
 }

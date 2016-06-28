@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102157321",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.504081,59.6398,-151.504081,59.6398",
     "geom:latitude":59.6398,
     "geom:longitude":-151.504081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1532 Ocean Dr",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102157321",
-    "wof:lastmodified":1449069830,
+    "wof:lastmodified":1466313530,
     "wof:name":"Homer Saw & Cycle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.504081,59.6398,-151.504081,59.6398],
-  "geometry": {"coordinates":[-151.504081,59.6398],"type":"Point"}
+  "bbox": [
+    -151.504081,
+    59.6398,
+    -151.504081,
+    59.6398
+],
+  "geometry": {"coordinates":[-151.50408100000001,59.6398],"type":"Point"}
 }

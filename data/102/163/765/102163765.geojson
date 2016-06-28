@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102163765",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.43882,61.417749,-149.43882,61.417749",
     "geom:latitude":61.417749,
     "geom:longitude":-149.43882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23819 Immelman Cir",
     "sg:city":"Chugiak",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869049,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85869049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102163765",
-    "wof:lastmodified":1449070165,
+    "wof:lastmodified":1466313803,
     "wof:name":"Bering Sea Animal Clinic",
     "wof:parent_id":85869049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.43882,61.417749,-149.43882,61.417749],
-  "geometry": {"coordinates":[-149.43882,61.417749],"type":"Point"}
+  "bbox": [
+    -149.43882,
+    61.417749,
+    -149.43882,
+    61.417749
+],
+  "geometry": {"coordinates":[-149.43881999999999,61.417749],"type":"Point"}
 }

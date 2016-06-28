@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153383",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-160.023574,70.643655,-160.023574,70.643655",
     "geom:latitude":70.643655,
     "geom:longitude":-160.023574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 Main St",
     "sg:city":"Wainwright",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102153383",
-    "wof:lastmodified":1449069461,
+    "wof:lastmodified":1466313529,
     "wof:name":"Oes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-160.023574,70.643655,-160.023574,70.643655],
+  "bbox": [
+    -160.023574,
+    70.643655,
+    -160.023574,
+    70.643655
+],
   "geometry": {"coordinates":[-160.023574,70.643655],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191813",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.744794,61.190988,-149.744794,61.190988",
     "geom:latitude":61.190988,
     "geom:longitude":-149.744794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3328 Hiland Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873735,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102191813",
-    "wof:lastmodified":1449069201,
+    "wof:lastmodified":1466314148,
     "wof:name":"BMM Expediting Svc",
     "wof:parent_id":85873735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.744794,61.190988,-149.744794,61.190988],
-  "geometry": {"coordinates":[-149.744794,61.190988],"type":"Point"}
+  "bbox": [
+    -149.744794,
+    61.190988,
+    -149.744794,
+    61.190988
+],
+  "geometry": {"coordinates":[-149.74479400000001,61.190988],"type":"Point"}
 }

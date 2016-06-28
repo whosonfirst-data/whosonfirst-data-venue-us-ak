@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102161995",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.705016,64.850556,-147.705016,64.850556",
     "geom:latitude":64.850556,
     "geom:longitude":-147.705016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 College Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823671,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85823671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102161995",
-    "wof:lastmodified":1449068712,
+    "wof:lastmodified":1466313847,
     "wof:name":"Great Alaska Pizza Co",
     "wof:parent_id":85823671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.705016,64.850556,-147.705016,64.850556],
+  "bbox": [
+    -147.705016,
+    64.850556,
+    -147.705016,
+    64.850556
+],
   "geometry": {"coordinates":[-147.705016,64.850556],"type":"Point"}
 }

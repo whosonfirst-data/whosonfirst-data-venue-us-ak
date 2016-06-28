@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102163477",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.896992,61.219866,-149.896992,61.219866",
     "geom:latitude":61.219866,
     "geom:longitude":-149.896992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"725 Christensen Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873719,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102163477",
-    "wof:lastmodified":1449070160,
+    "wof:lastmodified":1466313744,
     "wof:name":"Custom Foil Printing",
     "wof:parent_id":85873719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.896992,61.219866,-149.896992,61.219866],
-  "geometry": {"coordinates":[-149.896992,61.219866],"type":"Point"}
+  "bbox": [
+    -149.896992,
+    61.219866,
+    -149.896992,
+    61.219866
+],
+  "geometry": {"coordinates":[-149.89699200000001,61.219866],"type":"Point"}
 }

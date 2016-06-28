@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166041",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.634852,55.346102,-131.634852,55.346102",
     "geom:latitude":55.346102,
     "geom:longitude":-131.634852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"660 S Yorktown Dr",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102166041",
-    "wof:lastmodified":1449069086,
+    "wof:lastmodified":1466313670,
     "wof:name":"Glacier Park Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.634852,55.346102,-131.634852,55.346102],
+  "bbox": [
+    -131.634852,
+    55.346102,
+    -131.634852,
+    55.346102
+],
   "geometry": {"coordinates":[-131.634852,55.346102],"type":"Point"}
 }

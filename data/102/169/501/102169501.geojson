@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102169501",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-150.944869,60.507569,-150.944869,60.507569",
     "geom:latitude":60.507569,
     "geom:longitude":-150.944869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40440 Iliamna Loop",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102169501",
-    "wof:lastmodified":1449069248,
+    "wof:lastmodified":1466313812,
     "wof:name":"Pioneer Fire & Safety Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-150.944869,60.507569,-150.944869,60.507569],
-  "geometry": {"coordinates":[-150.944869,60.507569],"type":"Point"}
+  "bbox": [
+    -150.944869,
+    60.507569,
+    -150.944869,
+    60.507569
+],
+  "geometry": {"coordinates":[-150.94486900000001,60.507569],"type":"Point"}
 }

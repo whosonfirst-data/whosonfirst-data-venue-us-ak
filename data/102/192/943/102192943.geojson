@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192943",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.567474,61.33027,-149.567474,61.33027",
     "geom:latitude":61.33027,
     "geom:longitude":-149.567474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12155 Old Glenn Hwy",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102192943",
-    "wof:lastmodified":1449069502,
+    "wof:lastmodified":1466314249,
     "wof:name":"Alaska USA Federal CU",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.567474,61.33027,-149.567474,61.33027],
+  "bbox": [
+    -149.567474,
+    61.33027,
+    -149.567474,
+    61.33027
+],
   "geometry": {"coordinates":[-149.567474,61.33027],"type":"Point"}
 }

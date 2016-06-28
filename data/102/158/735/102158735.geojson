@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102158735",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-146.353612,61.134751,-146.353612,61.134751",
     "geom:latitude":61.134751,
     "geom:longitude":-146.353612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Eklutna St",
     "sg:city":"Valdez",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102158735",
-    "wof:lastmodified":1449069395,
+    "wof:lastmodified":1466313656,
     "wof:name":"IBU Longshore Unit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-146.353612,61.134751,-146.353612,61.134751],
+  "bbox": [
+    -146.353612,
+    61.134751,
+    -146.353612,
+    61.134751
+],
   "geometry": {"coordinates":[-146.353612,61.134751],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166691",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.103654,60.474968,-151.103654,60.474968",
     "geom:latitude":60.474968,
     "geom:longitude":-151.103654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 Arena Ave",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102166691",
-    "wof:lastmodified":1449069083,
+    "wof:lastmodified":1466313803,
     "wof:name":"Red Line Sports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.103654,60.474968,-151.103654,60.474968],
-  "geometry": {"coordinates":[-151.103654,60.474968],"type":"Point"}
+  "bbox": [
+    -151.103654,
+    60.474968,
+    -151.103654,
+    60.474968
+],
+  "geometry": {"coordinates":[-151.10365400000001,60.474968],"type":"Point"}
 }

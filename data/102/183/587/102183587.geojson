@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102183587",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.972139,56.786115,-132.972139,56.786115",
     "geom:latitude":56.786115,
     "geom:longitude":-132.972139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 S Hungerford Hill Rd",
     "sg:city":"Petersburg",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847465,
+        85688573,
         85633793,
         85916033,
         102081899,
-        85688573
+        85847465
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102183587",
-    "wof:lastmodified":1449069042,
+    "wof:lastmodified":1466314131,
     "wof:name":"Aliberti Construction Inc",
     "wof:parent_id":85847465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.972139,56.786115,-132.972139,56.786115],
+  "bbox": [
+    -132.972139,
+    56.786115,
+    -132.972139,
+    56.786115
+],
   "geometry": {"coordinates":[-132.972139,56.786115],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171761",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.579016,58.387928,-134.579016,58.387928",
     "geom:latitude":58.387928,
     "geom:longitude":-134.579016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3722 Portage Blvd",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833767,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85833767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102171761",
-    "wof:lastmodified":1449070224,
+    "wof:lastmodified":1466313953,
     "wof:name":"Shallies Construction",
     "wof:parent_id":85833767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.579016,58.387928,-134.579016,58.387928],
+  "bbox": [
+    -134.579016,
+    58.387928,
+    -134.579016,
+    58.387928
+],
   "geometry": {"coordinates":[-134.579016,58.387928],"type":"Point"}
 }

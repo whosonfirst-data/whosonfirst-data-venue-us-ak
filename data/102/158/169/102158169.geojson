@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102158169",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.604806,58.364498,-134.604806,58.364498",
     "geom:latitude":58.364498,
     "geom:longitude":-134.604806,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2281 Industrial Blvd",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102158169",
-    "wof:lastmodified":1449069393,
+    "wof:lastmodified":1466313540,
     "wof:name":"Willie's Marine Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.604806,58.364498,-134.604806,58.364498],
+  "bbox": [
+    -134.604806,
+    58.364498,
+    -134.604806,
+    58.364498
+],
   "geometry": {"coordinates":[-134.604806,58.364498],"type":"Point"}
 }

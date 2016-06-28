@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102175627",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.842819,61.097057,-149.842819,61.097057",
     "geom:latitude":61.097057,
     "geom:longitude":-149.842819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13665 Karen Cir",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873755,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102175627",
-    "wof:lastmodified":1449069469,
+    "wof:lastmodified":1466313980,
     "wof:name":"Angels Inc",
     "wof:parent_id":85873755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.842819,61.097057,-149.842819,61.097057],
-  "geometry": {"coordinates":[-149.842819,61.097057],"type":"Point"}
+  "bbox": [
+    -149.842819,
+    61.097057,
+    -149.842819,
+    61.097057
+],
+  "geometry": {"coordinates":[-149.84281899999999,61.097057],"type":"Point"}
 }

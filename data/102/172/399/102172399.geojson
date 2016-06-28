@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172399",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.244841,60.560894,-151.244841,60.560894",
     "geom:latitude":60.560894,
     "geom:longitude":-151.244841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Trading Bay Dr",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102172399",
-    "wof:lastmodified":1449068735,
+    "wof:lastmodified":1466313931,
     "wof:name":"Kluge & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.244841,60.560894,-151.244841,60.560894],
-  "geometry": {"coordinates":[-151.244841,60.560894],"type":"Point"}
+  "bbox": [
+    -151.244841,
+    60.560894,
+    -151.244841,
+    60.560894
+],
+  "geometry": {"coordinates":[-151.24484100000001,60.560894],"type":"Point"}
 }

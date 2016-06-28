@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102181643",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.82392,64.844079,-147.82392,64.844079",
     "geom:latitude":64.844079,
     "geom:longitude":-147.82392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4031 Marsha Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856935,
+        85688573,
         85633793,
         85916609,
         102081397,
-        85688573
+        85856935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102181643",
-    "wof:lastmodified":1449069235,
+    "wof:lastmodified":1466314100,
     "wof:name":"Nethercot Construction",
     "wof:parent_id":85856935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.82392,64.844079,-147.82392,64.844079],
-  "geometry": {"coordinates":[-147.82392,64.844079],"type":"Point"}
+  "bbox": [
+    -147.82392,
+    64.844079,
+    -147.82392,
+    64.844079
+],
+  "geometry": {"coordinates":[-147.82391999999999,64.84407899999999],"type":"Point"}
 }

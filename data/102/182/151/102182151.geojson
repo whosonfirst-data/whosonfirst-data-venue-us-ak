@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102182151",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.804219,59.783163,-151.804219,59.783163",
     "geom:latitude":59.783163,
     "geom:longitude":-151.804219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71465 Ester Ave",
     "sg:city":"Anchor Point",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102182151",
-    "wof:lastmodified":1449069278,
+    "wof:lastmodified":1466314063,
     "wof:name":"Paradise Custom Picture Frames",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.804219,59.783163,-151.804219,59.783163],
-  "geometry": {"coordinates":[-151.804219,59.783163],"type":"Point"}
+  "bbox": [
+    -151.804219,
+    59.783163,
+    -151.804219,
+    59.783163
+],
+  "geometry": {"coordinates":[-151.80421899999999,59.783163],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102182053",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.376784,56.464315,-132.376784,56.464315",
     "geom:latitude":56.464315,
     "geom:longitude":-132.376784,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1043 Case Ave",
     "sg:city":"Wrangell",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102182053",
-    "wof:lastmodified":1449069279,
+    "wof:lastmodified":1466314047,
     "wof:name":"Wrangell Light & Power Supt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.376784,56.464315,-132.376784,56.464315],
-  "geometry": {"coordinates":[-132.376784,56.464315],"type":"Point"}
+  "bbox": [
+    -132.376784,
+    56.464315,
+    -132.376784,
+    56.464315
+],
+  "geometry": {"coordinates":[-132.37678399999999,56.464315],"type":"Point"}
 }

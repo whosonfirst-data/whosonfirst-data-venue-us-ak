@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102180935",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.331097,64.787911,-147.331097,64.787911",
     "geom:latitude":64.787911,
     "geom:longitude":-147.331097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2145 Pool St",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102180935",
-    "wof:lastmodified":1449067878,
+    "wof:lastmodified":1466314083,
     "wof:name":"B & D Sheet Metal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.331097,64.787911,-147.331097,64.787911],
-  "geometry": {"coordinates":[-147.331097,64.787911],"type":"Point"}
+  "bbox": [
+    -147.331097,
+    64.787911,
+    -147.331097,
+    64.787911
+],
+  "geometry": {"coordinates":[-147.331097,64.78791099999999],"type":"Point"}
 }

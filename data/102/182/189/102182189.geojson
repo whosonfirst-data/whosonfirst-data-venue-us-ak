@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102182189",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.275678,60.574376,-151.275678,60.574376",
     "geom:latitude":60.574376,
     "geom:longitude":-151.275678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 Redoubt Ave",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102182189",
-    "wof:lastmodified":1449069280,
+    "wof:lastmodified":1466314069,
     "wof:name":"TIFCO Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.275678,60.574376,-151.275678,60.574376],
+  "bbox": [
+    -151.275678,
+    60.574376,
+    -151.275678,
+    60.574376
+],
   "geometry": {"coordinates":[-151.275678,60.574376],"type":"Point"}
 }

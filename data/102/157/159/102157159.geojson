@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102157159",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.521882,59.643326,-151.521882,59.643326",
     "geom:latitude":59.643326,
     "geom:longitude":-151.521882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3732 Ben Walters Ln",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102157159",
-    "wof:lastmodified":1449069829,
+    "wof:lastmodified":1466313498,
     "wof:name":"Edward B Todd DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.521882,59.643326,-151.521882,59.643326],
-  "geometry": {"coordinates":[-151.521882,59.643326],"type":"Point"}
+  "bbox": [
+    -151.521882,
+    59.643326,
+    -151.521882,
+    59.643326
+],
+  "geometry": {"coordinates":[-151.52188200000001,59.643326],"type":"Point"}
 }

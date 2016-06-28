@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102180043",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.664306,55.347286,-131.664306,55.347286",
     "geom:latitude":55.347286,
     "geom:longitude":-131.664306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1705 Tongass Ave",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102180043",
-    "wof:lastmodified":1449067878,
+    "wof:lastmodified":1466313925,
     "wof:name":"Silver Lining/Norquest Seafood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.664306,55.347286,-131.664306,55.347286],
-  "geometry": {"coordinates":[-131.664306,55.347286],"type":"Point"}
+  "bbox": [
+    -131.664306,
+    55.347286,
+    -131.664306,
+    55.347286
+],
+  "geometry": {"coordinates":[-131.66430600000001,55.347286],"type":"Point"}
 }

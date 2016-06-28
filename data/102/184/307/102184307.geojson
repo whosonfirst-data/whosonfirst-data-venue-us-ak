@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184307",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.236141,60.571769,-151.236141,60.571769",
     "geom:latitude":60.571769,
     "geom:longitude":-151.236141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 N Willow St",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102184307",
-    "wof:lastmodified":1449068216,
+    "wof:lastmodified":1466314107,
     "wof:name":"ERA Aviation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.236141,60.571769,-151.236141,60.571769],
+  "bbox": [
+    -151.236141,
+    60.571769,
+    -151.236141,
+    60.571769
+],
   "geometry": {"coordinates":[-151.236141,60.571769],"type":"Point"}
 }

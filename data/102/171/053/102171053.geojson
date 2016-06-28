@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171053",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.660888,55.34643,-131.660888,55.34643",
     "geom:latitude":55.34643,
     "geom:longitude":-131.660888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1471 Tongass Ave",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102171053",
-    "wof:lastmodified":1449070221,
+    "wof:lastmodified":1466313810,
     "wof:name":"Cedars Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.660888,55.34643,-131.660888,55.34643],
+  "bbox": [
+    -131.660888,
+    55.34643,
+    -131.660888,
+    55.34643
+],
   "geometry": {"coordinates":[-131.660888,55.34643],"type":"Point"}
 }

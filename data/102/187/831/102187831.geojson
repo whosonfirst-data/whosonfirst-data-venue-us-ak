@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187831",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.56103,64.908263,-147.56103,64.908263",
     "geom:latitude":64.908263,
     "geom:longitude":-147.56103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1089 Violet Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102187831",
-    "wof:lastmodified":1449068159,
+    "wof:lastmodified":1466314233,
     "wof:name":"SCR Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.56103,64.908263,-147.56103,64.908263],
-  "geometry": {"coordinates":[-147.56103,64.908263],"type":"Point"}
+  "bbox": [
+    -147.56103,
+    64.908263,
+    -147.56103,
+    64.908263
+],
+  "geometry": {"coordinates":[-147.56102999999999,64.90826300000001],"type":"Point"}
 }

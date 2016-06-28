@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102150377",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.352183,64.757901,-147.352183,64.757901",
     "geom:latitude":64.757901,
     "geom:longitude":-147.352183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"431 N Santa Claus Ln",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102150377",
-    "wof:lastmodified":1449067790,
+    "wof:lastmodified":1466313998,
     "wof:name":"Pagoda Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.352183,64.757901,-147.352183,64.757901],
+  "bbox": [
+    -147.352183,
+    64.757901,
+    -147.352183,
+    64.757901
+],
   "geometry": {"coordinates":[-147.352183,64.757901],"type":"Point"}
 }

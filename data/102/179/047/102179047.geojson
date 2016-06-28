@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102179047",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.845429,61.145896,-149.845429,61.145896",
     "geom:latitude":61.145896,
     "geom:longitude":-149.845429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8220 Petersburg St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809155,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85809155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102179047",
-    "wof:lastmodified":1449069941,
+    "wof:lastmodified":1466313882,
     "wof:name":"Swanson General Contractors",
     "wof:parent_id":85809155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.845429,61.145896,-149.845429,61.145896],
+  "bbox": [
+    -149.845429,
+    61.145896,
+    -149.845429,
+    61.145896
+],
   "geometry": {"coordinates":[-149.845429,61.145896],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102161645",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.076251,60.54548,-151.076251,60.54548",
     "geom:latitude":60.54548,
     "geom:longitude":-151.076251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5220 Strawberry Rd",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102161645",
-    "wof:lastmodified":1449068706,
+    "wof:lastmodified":1466313774,
     "wof:name":"Ridgeway Farms Stables",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.076251,60.54548,-151.076251,60.54548],
-  "geometry": {"coordinates":[-151.076251,60.54548],"type":"Point"}
+  "bbox": [
+    -151.076251,
+    60.54548,
+    -151.076251,
+    60.54548
+],
+  "geometry": {"coordinates":[-151.07625100000001,60.54548],"type":"Point"}
 }

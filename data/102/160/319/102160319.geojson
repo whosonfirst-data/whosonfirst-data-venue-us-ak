@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102160319",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.694093,55.361037,-131.694093,55.361037",
     "geom:latitude":55.361037,
     "geom:longitude":-131.694093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Canyon Rd",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102160319",
-    "wof:lastmodified":1449069774,
+    "wof:lastmodified":1466313656,
     "wof:name":"Ketchikan Dog Training Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.694093,55.361037,-131.694093,55.361037],
-  "geometry": {"coordinates":[-131.694093,55.361037],"type":"Point"}
+  "bbox": [
+    -131.694093,
+    55.361037,
+    -131.694093,
+    55.361037
+],
+  "geometry": {"coordinates":[-131.69409300000001,55.361037],"type":"Point"}
 }

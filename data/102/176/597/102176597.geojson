@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176597",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.573941,58.358451,-134.573941,58.358451",
     "geom:latitude":58.358451,
     "geom:longitude":-134.573941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8995 Yandukin Dr",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102176597",
-    "wof:lastmodified":1449069350,
+    "wof:lastmodified":1466313987,
     "wof:name":"Coastal Helicopters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.573941,58.358451,-134.573941,58.358451],
-  "geometry": {"coordinates":[-134.573941,58.358451],"type":"Point"}
+  "bbox": [
+    -134.573941,
+    58.358451,
+    -134.573941,
+    58.358451
+],
+  "geometry": {"coordinates":[-134.57394099999999,58.358451],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102164191",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.669804,55.349114,-131.669804,55.349114",
     "geom:latitude":55.349114,
     "geom:longitude":-131.669804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2098 Tongass Ave",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102164191",
-    "wof:lastmodified":1449068091,
+    "wof:lastmodified":1466313697,
     "wof:name":"Donna's Sun Chasers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.669804,55.349114,-131.669804,55.349114],
+  "bbox": [
+    -131.669804,
+    55.349114,
+    -131.669804,
+    55.349114
+],
   "geometry": {"coordinates":[-131.669804,55.349114],"type":"Point"}
 }

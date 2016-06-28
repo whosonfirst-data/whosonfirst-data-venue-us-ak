@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102162657",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.779084,61.195172,-149.779084,61.195172",
     "geom:latitude":61.195172,
     "geom:longitude":-149.779084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5440 E Northern Lights Blvd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806647,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85806647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102162657",
-    "wof:lastmodified":1449069821,
+    "wof:lastmodified":1466313781,
     "wof:name":"J B Hair Cutters Intl",
     "wof:parent_id":85806647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.779084,61.195172,-149.779084,61.195172],
-  "geometry": {"coordinates":[-149.779084,61.195172],"type":"Point"}
+  "bbox": [
+    -149.779084,
+    61.195172,
+    -149.779084,
+    61.195172
+],
+  "geometry": {"coordinates":[-149.77908400000001,61.195172],"type":"Point"}
 }

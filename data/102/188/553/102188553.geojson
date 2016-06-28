@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102188553",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.884256,61.121121,-149.884256,61.121121",
     "geom:latitude":61.121121,
     "geom:longitude":-149.884256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11151 Calaska Cir",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873739,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102188553",
-    "wof:lastmodified":1449068945,
+    "wof:lastmodified":1466313555,
     "wof:name":"3M Co",
     "wof:parent_id":85873739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.884256,61.121121,-149.884256,61.121121],
-  "geometry": {"coordinates":[-149.884256,61.121121],"type":"Point"}
+  "bbox": [
+    -149.884256,
+    61.121121,
+    -149.884256,
+    61.121121
+],
+  "geometry": {"coordinates":[-149.88425599999999,61.121121],"type":"Point"}
 }

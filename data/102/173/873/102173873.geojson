@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173873",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.550029,59.641564,-151.550029,59.641564",
     "geom:latitude":59.641564,
     "geom:longitude":-151.550029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Sterling Hwy",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102173873",
-    "wof:lastmodified":1449068262,
+    "wof:lastmodified":1466314163,
     "wof:name":"Homer Chamber Of Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.550029,59.641564,-151.550029,59.641564],
-  "geometry": {"coordinates":[-151.550029,59.641564],"type":"Point"}
+  "bbox": [
+    -151.550029,
+    59.641564,
+    -151.550029,
+    59.641564
+],
+  "geometry": {"coordinates":[-151.55002899999999,59.641564],"type":"Point"}
 }

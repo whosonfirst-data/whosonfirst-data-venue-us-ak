@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102169515",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.970558,61.134736,-149.970558,61.134736",
     "geom:latitude":61.134736,
     "geom:longitude":-149.970558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9200 Emerald St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873737,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102169515",
-    "wof:lastmodified":1449069247,
+    "wof:lastmodified":1466313815,
     "wof:name":"Emerald Herbs",
     "wof:parent_id":85873737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.970558,61.134736,-149.970558,61.134736],
-  "geometry": {"coordinates":[-149.970558,61.134736],"type":"Point"}
+  "bbox": [
+    -149.970558,
+    61.134736,
+    -149.970558,
+    61.134736
+],
+  "geometry": {"coordinates":[-149.97055800000001,61.134736],"type":"Point"}
 }

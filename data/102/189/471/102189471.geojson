@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102189471",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.326824,61.604747,-149.326824,61.604747",
     "geom:latitude":61.604747,
     "geom:longitude":-149.326824,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 Cottonwood Loop",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102189471",
-    "wof:lastmodified":1449069497,
+    "wof:lastmodified":1466313742,
     "wof:name":"Preston Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.326824,61.604747,-149.326824,61.604747],
-  "geometry": {"coordinates":[-149.326824,61.604747],"type":"Point"}
+  "bbox": [
+    -149.326824,
+    61.604747,
+    -149.326824,
+    61.604747
+],
+  "geometry": {"coordinates":[-149.32682399999999,61.604747],"type":"Point"}
 }

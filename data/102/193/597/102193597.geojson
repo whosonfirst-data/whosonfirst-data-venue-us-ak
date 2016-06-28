@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102193597",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.954855,56.81117,-132.954855,56.81117",
     "geom:latitude":56.81117,
     "geom:longitude":-132.954855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Haugen Dr",
     "sg:city":"Petersburg",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102193597",
-    "wof:lastmodified":1449068195,
+    "wof:lastmodified":1466314276,
     "wof:name":"Mike's Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.954855,56.81117,-132.954855,56.81117],
-  "geometry": {"coordinates":[-132.954855,56.81117],"type":"Point"}
+  "bbox": [
+    -132.954855,
+    56.81117,
+    -132.954855,
+    56.81117
+],
+  "geometry": {"coordinates":[-132.95485500000001,56.81117],"type":"Point"}
 }

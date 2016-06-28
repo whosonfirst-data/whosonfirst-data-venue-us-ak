@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102164343",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.870794,61.178115,-149.870794,61.178115",
     "geom:latitude":61.178115,
     "geom:longitude":-149.870794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4725 Gambell St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.alaskasafety.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873723,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102164343",
-    "wof:lastmodified":1449068089,
+    "wof:lastmodified":1466313726,
     "wof:name":"Alaska Safety Inc",
     "wof:parent_id":85873723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.870794,61.178115,-149.870794,61.178115],
-  "geometry": {"coordinates":[-149.870794,61.178115],"type":"Point"}
+  "bbox": [
+    -149.870794,
+    61.178115,
+    -149.870794,
+    61.178115
+],
+  "geometry": {"coordinates":[-149.87079399999999,61.178115],"type":"Point"}
 }

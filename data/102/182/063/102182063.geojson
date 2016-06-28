@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102182063",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.571382,55.307165,-131.571382,55.307165",
     "geom:latitude":55.307165,
     "geom:longitude":-131.571382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3988 S Tongass Hwy",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102182063",
-    "wof:lastmodified":1449069278,
+    "wof:lastmodified":1466314049,
     "wof:name":"Jacobson Heating & Rfrgrtn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.571382,55.307165,-131.571382,55.307165],
+  "bbox": [
+    -131.571382,
+    55.307165,
+    -131.571382,
+    55.307165
+],
   "geometry": {"coordinates":[-131.571382,55.307165],"type":"Point"}
 }

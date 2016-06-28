@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185713",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.536498,61.304771,-149.536498,61.304771",
     "geom:latitude":61.304771,
     "geom:longitude":-149.536498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18530 Walrus Cir",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102185713",
-    "wof:lastmodified":1449068198,
+    "wof:lastmodified":1466314161,
     "wof:name":"R William Lovern CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.536498,61.304771,-149.536498,61.304771],
-  "geometry": {"coordinates":[-149.536498,61.304771],"type":"Point"}
+  "bbox": [
+    -149.536498,
+    61.304771,
+    -149.536498,
+    61.304771
+],
+  "geometry": {"coordinates":[-149.53649799999999,61.304771],"type":"Point"}
 }

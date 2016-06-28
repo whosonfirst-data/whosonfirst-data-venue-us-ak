@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102149751",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.719411,64.839493,-147.719411,64.839493",
     "geom:latitude":64.839493,
     "geom:longitude":-147.719411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 Cushman St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848979,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85848979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102149751",
-    "wof:lastmodified":1449067768,
+    "wof:lastmodified":1466313583,
     "wof:name":"A Special Touch Therapeutic",
     "wof:parent_id":85848979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.719411,64.839493,-147.719411,64.839493],
-  "geometry": {"coordinates":[-147.719411,64.839493],"type":"Point"}
+  "bbox": [
+    -147.719411,
+    64.839493,
+    -147.719411,
+    64.839493
+],
+  "geometry": {"coordinates":[-147.71941100000001,64.839493],"type":"Point"}
 }

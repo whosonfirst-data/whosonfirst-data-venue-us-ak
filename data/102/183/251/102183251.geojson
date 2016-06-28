@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102183251",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.191019,61.600872,-149.191019,61.600872",
     "geom:latitude":61.600872,
     "geom:longitude":-149.191019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1800 Arabian Ln",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102183251",
-    "wof:lastmodified":1449069041,
+    "wof:lastmodified":1466314087,
     "wof:name":"Alaska Best Pawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.191019,61.600872,-149.191019,61.600872],
-  "geometry": {"coordinates":[-149.191019,61.600872],"type":"Point"}
+  "bbox": [
+    -149.191019,
+    61.600872,
+    -149.191019,
+    61.600872
+],
+  "geometry": {"coordinates":[-149.19101900000001,61.600872],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102189707",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.521134,59.645661,-151.521134,59.645661",
     "geom:latitude":59.645661,
     "geom:longitude":-151.521134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3808 Ben Walters Ln",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102189707",
-    "wof:lastmodified":1449069498,
+    "wof:lastmodified":1466313791,
     "wof:name":"Tammy Ackerman CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.521134,59.645661,-151.521134,59.645661],
-  "geometry": {"coordinates":[-151.521134,59.645661],"type":"Point"}
+  "bbox": [
+    -151.521134,
+    59.645661,
+    -151.521134,
+    59.645661
+],
+  "geometry": {"coordinates":[-151.52113399999999,59.645661],"type":"Point"}
 }

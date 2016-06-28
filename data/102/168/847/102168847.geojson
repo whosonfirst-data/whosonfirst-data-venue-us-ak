@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102168847",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.620838,64.88751,-147.620838,64.88751",
     "geom:latitude":64.88751,
     "geom:longitude":-147.620838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 Old Chena-Hot Springs Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102168847",
-    "wof:lastmodified":1449069006,
+    "wof:lastmodified":1466313841,
     "wof:name":"Country Bible Chapel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.620838,64.88751,-147.620838,64.88751],
-  "geometry": {"coordinates":[-147.620838,64.88751],"type":"Point"}
+  "bbox": [
+    -147.620838,
+    64.88751,
+    -147.620838,
+    64.88751
+],
+  "geometry": {"coordinates":[-147.62083799999999,64.88751000000001],"type":"Point"}
 }

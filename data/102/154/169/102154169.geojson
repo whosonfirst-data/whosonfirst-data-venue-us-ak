@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102154169",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.710744,64.892343,-147.710744,64.892343",
     "geom:latitude":64.892343,
     "geom:longitude":-147.710744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"667 Fideler Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":"102154169",
-    "wof:lastmodified":1449070244,
+    "wof:lastmodified":1466314105,
     "wof:name":"Tom's Woodshop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.710744,64.892343,-147.710744,64.892343],
-  "geometry": {"coordinates":[-147.710744,64.892343],"type":"Point"}
+  "bbox": [
+    -147.710744,
+    64.892343,
+    -147.710744,
+    64.892343
+],
+  "geometry": {"coordinates":[-147.71074400000001,64.892343],"type":"Point"}
 }

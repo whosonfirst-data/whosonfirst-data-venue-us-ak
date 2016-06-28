@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102154881",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.468875,61.581442,-149.468875,61.581442",
     "geom:latitude":61.581442,
     "geom:longitude":-149.468875,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"711 W Parks Hwy",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102154881",
-    "wof:lastmodified":1449070244,
+    "wof:lastmodified":1466313624,
     "wof:name":"E Z Clippers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.468875,61.581442,-149.468875,61.581442],
+  "bbox": [
+    -149.468875,
+    61.581442,
+    -149.468875,
+    61.581442
+],
   "geometry": {"coordinates":[-149.468875,61.581442],"type":"Point"}
 }

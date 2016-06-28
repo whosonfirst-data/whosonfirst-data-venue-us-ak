@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102190031",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.400223,57.795215,-152.400223,57.795215",
     "geom:latitude":57.795215,
     "geom:longitude":-152.400223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"914 Hemlock St",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102190031",
-    "wof:lastmodified":1449070035,
+    "wof:lastmodified":1466313857,
     "wof:name":"Lester Brothers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.400223,57.795215,-152.400223,57.795215],
-  "geometry": {"coordinates":[-152.400223,57.795215],"type":"Point"}
+  "bbox": [
+    -152.400223,
+    57.795215,
+    -152.400223,
+    57.795215
+],
+  "geometry": {"coordinates":[-152.40022300000001,57.795215],"type":"Point"}
 }

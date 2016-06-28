@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102150291",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.44482,59.236526,-135.44482,59.236526",
     "geom:latitude":59.236526,
     "geom:longitude":-135.44482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 2nd Ave",
     "sg:city":"Haines",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842771,
+        85688573,
         85633793,
         85916629,
         102083767,
-        85688573
+        85842771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102150291",
-    "wof:lastmodified":1449067791,
+    "wof:lastmodified":1466313977,
     "wof:name":"Summer Inn Bed & Breakfast",
     "wof:parent_id":85842771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.44482,59.236526,-135.44482,59.236526],
-  "geometry": {"coordinates":[-135.44482,59.236526],"type":"Point"}
+  "bbox": [
+    -135.44482,
+    59.236526,
+    -135.44482,
+    59.236526
+],
+  "geometry": {"coordinates":[-135.44481999999999,59.236526],"type":"Point"}
 }

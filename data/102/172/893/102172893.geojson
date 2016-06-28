@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172893",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.873817,64.840788,-147.873817,64.840788",
     "geom:latitude":64.840788,
     "geom:longitude":-147.873817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Clarkson Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102172893",
-    "wof:lastmodified":1449068737,
+    "wof:lastmodified":1466314023,
     "wof:name":"Northern Call Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.873817,64.840788,-147.873817,64.840788],
+  "bbox": [
+    -147.873817,
+    64.840788,
+    -147.873817,
+    64.840788
+],
   "geometry": {"coordinates":[-147.873817,64.840788],"type":"Point"}
 }

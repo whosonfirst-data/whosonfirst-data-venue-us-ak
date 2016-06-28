@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102163031",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-146.262089,61.123168,-146.262089,61.123168",
     "geom:latitude":61.123168,
     "geom:longitude":-146.262089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2340 Richardson Hwy",
     "sg:city":"Valdez",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839473,
+        85688573,
         85633793,
         85915585,
         102081911,
-        85688573
+        85839473
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102163031",
-    "wof:lastmodified":1449070160,
+    "wof:lastmodified":1466314123,
     "wof:name":"Peak Oilfield Svc Co",
     "wof:parent_id":85839473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-146.262089,61.123168,-146.262089,61.123168],
+  "bbox": [
+    -146.262089,
+    61.123168,
+    -146.262089,
+    61.123168
+],
   "geometry": {"coordinates":[-146.262089,61.123168],"type":"Point"}
 }

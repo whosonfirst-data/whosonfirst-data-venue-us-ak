@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187649",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.593034,58.41321,-134.593034,58.41321",
     "geom:latitude":58.41321,
     "geom:longitude":-134.593034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1081 Arctic Cir",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102187649",
-    "wof:lastmodified":1449068158,
+    "wof:lastmodified":1466314165,
     "wof:name":"Glacier Trail Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.593034,58.41321,-134.593034,58.41321],
-  "geometry": {"coordinates":[-134.593034,58.41321],"type":"Point"}
+  "bbox": [
+    -134.593034,
+    58.41321,
+    -134.593034,
+    58.41321
+],
+  "geometry": {"coordinates":[-134.59303399999999,58.41321],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102148845",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.873634,61.180725,-149.873634,61.180725",
     "geom:latitude":61.180725,
     "geom:longitude":-149.873634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 E Tudor Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873723,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":"102148845",
-    "wof:lastmodified":1449069784,
+    "wof:lastmodified":1466313613,
     "wof:name":"Phone Directories Company Inc",
     "wof:parent_id":85873723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.873634,61.180725,-149.873634,61.180725],
-  "geometry": {"coordinates":[-149.873634,61.180725],"type":"Point"}
+  "bbox": [
+    -149.873634,
+    61.180725,
+    -149.873634,
+    61.180725
+],
+  "geometry": {"coordinates":[-149.87363400000001,61.180725],"type":"Point"}
 }

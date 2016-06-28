@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102149375",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.751148,64.816233,-147.751148,64.816233",
     "geom:latitude":64.816233,
     "geom:longitude":-147.751148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3408 International St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     "sg:website":"www.fngas.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":"102149375",
-    "wof:lastmodified":1449067767,
+    "wof:lastmodified":1466313508,
     "wof:name":"Fairbanks Natural Gas",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.751148,64.816233,-147.751148,64.816233],
+  "bbox": [
+    -147.751148,
+    64.816233,
+    -147.751148,
+    64.816233
+],
   "geometry": {"coordinates":[-147.751148,64.816233],"type":"Point"}
 }

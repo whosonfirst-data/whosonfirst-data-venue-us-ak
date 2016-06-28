@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102168763",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.714583,61.077919,-149.714583,61.077919",
     "geom:latitude":61.077919,
     "geom:longitude":-149.714583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15623 Kings Way Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873741,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102168763",
-    "wof:lastmodified":1449069008,
+    "wof:lastmodified":1466313824,
     "wof:name":"Kingsview Bed & Breakfast",
     "wof:parent_id":85873741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.714583,61.077919,-149.714583,61.077919],
+  "bbox": [
+    -149.714583,
+    61.077919,
+    -149.714583,
+    61.077919
+],
   "geometry": {"coordinates":[-149.714583,61.077919],"type":"Point"}
 }

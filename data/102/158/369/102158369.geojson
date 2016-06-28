@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102158369",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.511013,57.63935,-152.511013,57.63935",
     "geom:latitude":57.63935,
     "geom:longitude":-152.511013,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Chiniak Hwy",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102158369",
-    "wof:lastmodified":1449069395,
+    "wof:lastmodified":1466313581,
     "wof:name":"Kalsin Bay Inn Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.511013,57.63935,-152.511013,57.63935],
-  "geometry": {"coordinates":[-152.511013,57.63935],"type":"Point"}
+  "bbox": [
+    -152.511013,
+    57.63935,
+    -152.511013,
+    57.63935
+],
+  "geometry": {"coordinates":[-152.51101299999999,57.63935],"type":"Point"}
 }

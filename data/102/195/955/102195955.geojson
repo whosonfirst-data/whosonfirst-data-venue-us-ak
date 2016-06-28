@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102195955",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-150.908185,60.511226,-150.908185,60.511226",
     "geom:latitude":60.511226,
     "geom:longitude":-150.908185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38776 Sterling Hwy",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102195955",
-    "wof:lastmodified":1449069364,
+    "wof:lastmodified":1466314299,
     "wof:name":"North Star Dance Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-150.908185,60.511226,-150.908185,60.511226],
+  "bbox": [
+    -150.908185,
+    60.511226,
+    -150.908185,
+    60.511226
+],
   "geometry": {"coordinates":[-150.908185,60.511226],"type":"Point"}
 }

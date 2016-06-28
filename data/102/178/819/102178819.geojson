@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178819",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.962091,56.807711,-132.962091,56.807711",
     "geom:latitude":56.807711,
     "geom:longitude":-132.962091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Baranof St",
     "sg:city":"Sitka",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102178819",
-    "wof:lastmodified":1449069530,
+    "wof:lastmodified":1466314037,
     "wof:name":"Baranof Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.962091,56.807711,-132.962091,56.807711],
-  "geometry": {"coordinates":[-132.962091,56.807711],"type":"Point"}
+  "bbox": [
+    -132.962091,
+    56.807711,
+    -132.962091,
+    56.807711
+],
+  "geometry": {"coordinates":[-132.96209099999999,56.807711],"type":"Point"}
 }

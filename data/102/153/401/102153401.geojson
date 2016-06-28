@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153401",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.364683,57.815808,-152.364683,57.815808",
     "geom:latitude":57.815808,
     "geom:longitude":-152.364683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3185 Ptarmigan Pass",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102153401",
-    "wof:lastmodified":1449069463,
+    "wof:lastmodified":1466313533,
     "wof:name":"Energy Plus Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.364683,57.815808,-152.364683,57.815808],
-  "geometry": {"coordinates":[-152.364683,57.815808],"type":"Point"}
+  "bbox": [
+    -152.364683,
+    57.815808,
+    -152.364683,
+    57.815808
+],
+  "geometry": {"coordinates":[-152.36468300000001,57.815808],"type":"Point"}
 }

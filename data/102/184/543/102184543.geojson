@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184543",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.203146,60.563545,-151.203146,60.563545",
     "geom:latitude":60.563545,
     "geom:longitude":-151.203146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 Kaknu Way",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102184543",
-    "wof:lastmodified":1449068216,
+    "wof:lastmodified":1466314141,
     "wof:name":"Professional Carpet Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.203146,60.563545,-151.203146,60.563545],
+  "bbox": [
+    -151.203146,
+    60.563545,
+    -151.203146,
+    60.563545
+],
   "geometry": {"coordinates":[-151.203146,60.563545],"type":"Point"}
 }

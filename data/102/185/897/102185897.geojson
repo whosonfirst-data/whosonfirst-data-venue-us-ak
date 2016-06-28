@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185897",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.461133,61.582274,-149.461133,61.582274",
     "geom:latitude":61.582274,
     "geom:longitude":-149.461133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"543 W Parks Hwy",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102185897",
-    "wof:lastmodified":1449068197,
+    "wof:lastmodified":1466314183,
     "wof:name":"Denali Steak House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.461133,61.582274,-149.461133,61.582274],
-  "geometry": {"coordinates":[-149.461133,61.582274],"type":"Point"}
+  "bbox": [
+    -149.461133,
+    61.582274,
+    -149.461133,
+    61.582274
+],
+  "geometry": {"coordinates":[-149.46113299999999,61.582274],"type":"Point"}
 }

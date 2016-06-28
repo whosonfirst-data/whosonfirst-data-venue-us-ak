@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178983",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.262684,61.617667,-149.262684,61.617667",
     "geom:latitude":61.617667,
     "geom:longitude":-149.262684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7620 Sebastian Dr",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102178983",
-    "wof:lastmodified":1449069536,
+    "wof:lastmodified":1466314065,
     "wof:name":"Mechanical Contractors Alaska",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.262684,61.617667,-149.262684,61.617667],
-  "geometry": {"coordinates":[-149.262684,61.617667],"type":"Point"}
+  "bbox": [
+    -149.262684,
+    61.617667,
+    -149.262684,
+    61.617667
+],
+  "geometry": {"coordinates":[-149.26268400000001,61.617667],"type":"Point"}
 }

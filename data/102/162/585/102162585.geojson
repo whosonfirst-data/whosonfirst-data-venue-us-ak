@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102162585",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.803148,64.831554,-147.803148,64.831554",
     "geom:latitude":64.831554,
     "geom:longitude":-147.803148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1630 Washington Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856935,
+        85688573,
         85633793,
         85916609,
         102081397,
-        85688573
+        85856935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":"102162585",
-    "wof:lastmodified":1449069823,
+    "wof:lastmodified":1466313766,
     "wof:name":"Ben Lomond Inc",
     "wof:parent_id":85856935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.803148,64.831554,-147.803148,64.831554],
-  "geometry": {"coordinates":[-147.803148,64.831554],"type":"Point"}
+  "bbox": [
+    -147.803148,
+    64.831554,
+    -147.803148,
+    64.831554
+],
+  "geometry": {"coordinates":[-147.80314799999999,64.831554],"type":"Point"}
 }

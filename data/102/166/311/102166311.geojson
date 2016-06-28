@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166311",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-146.260818,61.12248,-146.260818,61.12248",
     "geom:latitude":61.12248,
     "geom:longitude":-146.260818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2310 Richardson Hwy",
     "sg:city":"Valdez",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839473,
+        85688573,
         85633793,
         85915585,
         102081911,
-        85688573
+        85839473
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102166311",
-    "wof:lastmodified":1449069084,
+    "wof:lastmodified":1466313725,
     "wof:name":"Marks Repair",
     "wof:parent_id":85839473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-146.260818,61.12248,-146.260818,61.12248],
+  "bbox": [
+    -146.260818,
+    61.12248,
+    -146.260818,
+    61.12248
+],
   "geometry": {"coordinates":[-146.260818,61.12248],"type":"Point"}
 }

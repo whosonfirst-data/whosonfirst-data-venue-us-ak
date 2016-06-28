@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102195841",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-160.013088,70.648528,-160.013088,70.648528",
     "geom:latitude":70.648528,
     "geom:longitude":-160.013088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Summer Rd",
     "sg:city":"Wainwright",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102195841",
-    "wof:lastmodified":1449069362,
+    "wof:lastmodified":1466314297,
     "wof:name":"North Slope County O & M Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-160.013088,70.648528,-160.013088,70.648528],
-  "geometry": {"coordinates":[-160.013088,70.648528],"type":"Point"}
+  "bbox": [
+    -160.013088,
+    70.648528,
+    -160.013088,
+    70.648528
+],
+  "geometry": {"coordinates":[-160.01308800000001,70.648528],"type":"Point"}
 }

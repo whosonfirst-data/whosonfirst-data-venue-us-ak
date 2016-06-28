@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102182539",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.409184,58.301579,-134.409184,58.301579",
     "geom:latitude":58.301579,
     "geom:longitude":-134.409184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 3rd St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102182539",
-    "wof:lastmodified":1449069282,
+    "wof:lastmodified":1466314203,
     "wof:name":"Davis Log Cabin Visitor Info",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.409184,58.301579,-134.409184,58.301579],
-  "geometry": {"coordinates":[-134.409184,58.301579],"type":"Point"}
+  "bbox": [
+    -134.409184,
+    58.301579,
+    -134.409184,
+    58.301579
+],
+  "geometry": {"coordinates":[-134.40918400000001,58.301579],"type":"Point"}
 }

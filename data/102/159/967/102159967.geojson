@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102159967",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.788578,64.827307,-147.788578,64.827307",
     "geom:latitude":64.827307,
     "geom:longitude":-147.788578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3021 Davis Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.ami.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856935,
+        85688573,
         85633793,
         85916609,
         102081397,
-        85688573
+        85856935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102159967",
-    "wof:lastmodified":1449068095,
+    "wof:lastmodified":1466313715,
     "wof:name":"Alaska Mechanical Inc",
     "wof:parent_id":85856935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.788578,64.827307,-147.788578,64.827307],
+  "bbox": [
+    -147.788578,
+    64.827307,
+    -147.788578,
+    64.827307
+],
   "geometry": {"coordinates":[-147.788578,64.827307],"type":"Point"}
 }

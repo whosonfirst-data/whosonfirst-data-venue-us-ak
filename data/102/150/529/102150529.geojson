@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102150529",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.358248,59.697478,-151.358248,59.697478",
     "geom:latitude":59.697478,
     "geom:longitude":-151.358248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39340 Brenmark Rd",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102150529",
-    "wof:lastmodified":1449067791,
+    "wof:lastmodified":1466314035,
     "wof:name":"Kachemak Bay Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.358248,59.697478,-151.358248,59.697478],
+  "bbox": [
+    -151.358248,
+    59.697478,
+    -151.358248,
+    59.697478
+],
   "geometry": {"coordinates":[-151.358248,59.697478],"type":"Point"}
 }

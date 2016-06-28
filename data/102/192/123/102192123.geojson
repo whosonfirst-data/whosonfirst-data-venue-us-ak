@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192123",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.121217,60.475702,-151.121217,60.475702",
     "geom:latitude":60.475702,
     "geom:longitude":-151.121217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"436 Endicott Dr",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102192123",
-    "wof:lastmodified":1449069504,
+    "wof:lastmodified":1466314230,
     "wof:name":"Johnsons Landing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.121217,60.475702,-151.121217,60.475702],
+  "bbox": [
+    -151.121217,
+    60.475702,
+    -151.121217,
+    60.475702
+],
   "geometry": {"coordinates":[-151.121217,60.475702],"type":"Point"}
 }

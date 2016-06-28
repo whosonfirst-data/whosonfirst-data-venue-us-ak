@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102158021",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.008648,60.497438,-151.008648,60.497438",
     "geom:latitude":60.497438,
     "geom:longitude":-151.008648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 Fairway Cir",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102158021",
-    "wof:lastmodified":1449069393,
+    "wof:lastmodified":1466313510,
     "wof:name":"Golf Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.008648,60.497438,-151.008648,60.497438],
-  "geometry": {"coordinates":[-151.008648,60.497438],"type":"Point"}
+  "bbox": [
+    -151.008648,
+    60.497438,
+    -151.008648,
+    60.497438
+],
+  "geometry": {"coordinates":[-151.00864799999999,60.497438],"type":"Point"}
 }

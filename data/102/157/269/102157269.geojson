@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102157269",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-150.799537,60.535581,-150.799537,60.535581",
     "geom:latitude":60.535581,
     "geom:longitude":-150.799537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35045 Greenwood Ct",
     "sg:city":"Sterling",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102157269",
-    "wof:lastmodified":1449069832,
+    "wof:lastmodified":1466313520,
     "wof:name":"Jim Reynolds Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-150.799537,60.535581,-150.799537,60.535581],
-  "geometry": {"coordinates":[-150.799537,60.535581],"type":"Point"}
+  "bbox": [
+    -150.799537,
+    60.535581,
+    -150.799537,
+    60.535581
+],
+  "geometry": {"coordinates":[-150.79953699999999,60.535581],"type":"Point"}
 }

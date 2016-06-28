@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192113",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-166.551663,53.879067,-166.551663,53.879067",
     "geom:latitude":53.879067,
     "geom:longitude":-166.551663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"179 Gilman Rd",
     "sg:city":"Dutch Harbor",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102192113",
-    "wof:lastmodified":1449069506,
+    "wof:lastmodified":1466314230,
     "wof:name":"Priest Rock Maritime Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-166.551663,53.879067,-166.551663,53.879067],
-  "geometry": {"coordinates":[-166.551663,53.879067],"type":"Point"}
+  "bbox": [
+    -166.551663,
+    53.879067,
+    -166.551663,
+    53.879067
+],
+  "geometry": {"coordinates":[-166.55166299999999,53.879067],"type":"Point"}
 }

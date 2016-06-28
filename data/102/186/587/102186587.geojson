@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102186587",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.403817,58.299055,-134.403817,58.299055",
     "geom:latitude":58.299055,
     "geom:longitude":-134.403817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"258 S Franklin St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102186587",
-    "wof:lastmodified":1449069654,
+    "wof:lastmodified":1466314161,
     "wof:name":"Celebrity Jewelers",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.403817,58.299055,-134.403817,58.299055],
+  "bbox": [
+    -134.403817,
+    58.299055,
+    -134.403817,
+    58.299055
+],
   "geometry": {"coordinates":[-134.403817,58.299055],"type":"Point"}
 }

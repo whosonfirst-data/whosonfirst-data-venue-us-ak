@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102188255",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.374994,57.804124,-152.374994,57.804124",
     "geom:latitude":57.804124,
     "geom:longitude":-152.374994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2191 Mill Bay Rd",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102188255",
-    "wof:lastmodified":1449068946,
+    "wof:lastmodified":1466313497,
     "wof:name":"Island Air Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.374994,57.804124,-152.374994,57.804124],
-  "geometry": {"coordinates":[-152.374994,57.804124],"type":"Point"}
+  "bbox": [
+    -152.374994,
+    57.804124,
+    -152.374994,
+    57.804124
+],
+  "geometry": {"coordinates":[-152.37499399999999,57.804124],"type":"Point"}
 }

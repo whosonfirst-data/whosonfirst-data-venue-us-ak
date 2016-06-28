@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102159763",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.737691,61.18993,-149.737691,61.18993",
     "geom:latitude":61.18993,
     "geom:longitude":-149.737691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7621 E 34th Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873735,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102159763",
-    "wof:lastmodified":1449068096,
+    "wof:lastmodified":1466313674,
     "wof:name":"Raven Arts",
     "wof:parent_id":85873735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.737691,61.18993,-149.737691,61.18993],
-  "geometry": {"coordinates":[-149.737691,61.18993],"type":"Point"}
+  "bbox": [
+    -149.737691,
+    61.18993,
+    -149.737691,
+    61.18993
+],
+  "geometry": {"coordinates":[-149.73769100000001,61.18993],"type":"Point"}
 }

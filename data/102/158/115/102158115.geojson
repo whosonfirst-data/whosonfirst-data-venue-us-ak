@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102158115",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.664224,64.8639,-147.664224,64.8639",
     "geom:latitude":64.8639,
     "geom:longitude":-147.664224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Kniffen Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823671,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85823671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102158115",
-    "wof:lastmodified":1449069388,
+    "wof:lastmodified":1466313529,
     "wof:name":"Fairhill Inc",
     "wof:parent_id":85823671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.664224,64.8639,-147.664224,64.8639],
-  "geometry": {"coordinates":[-147.664224,64.8639],"type":"Point"}
+  "bbox": [
+    -147.664224,
+    64.8639,
+    -147.664224,
+    64.8639
+],
+  "geometry": {"coordinates":[-147.66422399999999,64.8639],"type":"Point"}
 }

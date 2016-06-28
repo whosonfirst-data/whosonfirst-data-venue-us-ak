@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102193413",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.396163,61.573218,-149.396163,61.573218",
     "geom:latitude":61.573218,
     "geom:longitude":-149.396163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2133 E Parks Hwy",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102193413",
-    "wof:lastmodified":1449068191,
+    "wof:lastmodified":1466314273,
     "wof:name":"Craig Taylor Equipment Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.396163,61.573218,-149.396163,61.573218],
+  "bbox": [
+    -149.396163,
+    61.573218,
+    -149.396163,
+    61.573218
+],
   "geometry": {"coordinates":[-149.396163,61.573218],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102193259",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.445236,60.103199,-149.445236,60.103199",
     "geom:latitude":60.103199,
     "geom:longitude":-149.445236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"318 1st Ave",
     "sg:city":"Seward",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102193259",
-    "wof:lastmodified":1449068191,
+    "wof:lastmodified":1466314270,
     "wof:name":"Alaskan Safari & Trading Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.445236,60.103199,-149.445236,60.103199],
-  "geometry": {"coordinates":[-149.445236,60.103199],"type":"Point"}
+  "bbox": [
+    -149.445236,
+    60.103199,
+    -149.445236,
+    60.103199
+],
+  "geometry": {"coordinates":[-149.44523599999999,60.103199],"type":"Point"}
 }

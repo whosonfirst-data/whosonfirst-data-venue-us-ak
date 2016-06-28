@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185367",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.545486,61.319774,-149.545486,61.319774",
     "geom:latitude":61.319774,
     "geom:longitude":-149.545486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11031 Gulkana Cir",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102185367",
-    "wof:lastmodified":1449068197,
+    "wof:lastmodified":1466314119,
     "wof:name":"Alaska Chalet Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.545486,61.319774,-149.545486,61.319774],
-  "geometry": {"coordinates":[-149.545486,61.319774],"type":"Point"}
+  "bbox": [
+    -149.545486,
+    61.319774,
+    -149.545486,
+    61.319774
+],
+  "geometry": {"coordinates":[-149.54548600000001,61.319774],"type":"Point"}
 }

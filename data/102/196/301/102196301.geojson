@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102196301",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-158.464795,59.039076,-158.464795,59.039076",
     "geom:latitude":59.039076,
     "geom:longitude":-158.464795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Main St E",
     "sg:city":"Dillingham",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102196301",
-    "wof:lastmodified":1449068337,
+    "wof:lastmodified":1466314305,
     "wof:name":"Ekuk Village Council",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-158.464795,59.039076,-158.464795,59.039076],
-  "geometry": {"coordinates":[-158.464795,59.039076],"type":"Point"}
+  "bbox": [
+    -158.464795,
+    59.039076,
+    -158.464795,
+    59.039076
+],
+  "geometry": {"coordinates":[-158.46479500000001,59.039076],"type":"Point"}
 }

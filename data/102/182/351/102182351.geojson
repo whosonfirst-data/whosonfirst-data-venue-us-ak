@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102182351",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.652652,58.387584,-134.652652,58.387584",
     "geom:latitude":58.387584,
     "geom:longitude":-134.652652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3869 Bayview Ave",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102182351",
-    "wof:lastmodified":1449069282,
+    "wof:lastmodified":1466314092,
     "wof:name":"Sea Level Transport LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.652652,58.387584,-134.652652,58.387584],
-  "geometry": {"coordinates":[-134.652652,58.387584],"type":"Point"}
+  "bbox": [
+    -134.652652,
+    58.387584,
+    -134.652652,
+    58.387584
+],
+  "geometry": {"coordinates":[-134.65265199999999,58.387584],"type":"Point"}
 }

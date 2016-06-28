@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102157251",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.542717,61.312412,-149.542717,61.312412",
     "geom:latitude":61.312412,
     "geom:longitude":-149.542717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10209 Colville St",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102157251",
-    "wof:lastmodified":1449069830,
+    "wof:lastmodified":1466313516,
     "wof:name":"Universal Sign & Lighting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.542717,61.312412,-149.542717,61.312412],
-  "geometry": {"coordinates":[-149.542717,61.312412],"type":"Point"}
+  "bbox": [
+    -149.542717,
+    61.312412,
+    -149.542717,
+    61.312412
+],
+  "geometry": {"coordinates":[-149.54271700000001,61.312412],"type":"Point"}
 }

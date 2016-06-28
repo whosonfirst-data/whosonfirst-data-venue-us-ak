@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102151757",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.454843,59.669801,-151.454843,59.669801",
     "geom:latitude":59.669801,
     "geom:longitude":-151.454843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60203 Bear Creek Dr",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834363,
+        85688573,
         85633793,
         85915739,
         102081909,
-        85688573
+        85834363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102151757",
-    "wof:lastmodified":1449067782,
+    "wof:lastmodified":1466313540,
     "wof:name":"Bear Creek Winery LLC",
     "wof:parent_id":85834363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.454843,59.669801,-151.454843,59.669801],
-  "geometry": {"coordinates":[-151.454843,59.669801],"type":"Point"}
+  "bbox": [
+    -151.454843,
+    59.669801,
+    -151.454843,
+    59.669801
+],
+  "geometry": {"coordinates":[-151.45484300000001,59.669801],"type":"Point"}
 }

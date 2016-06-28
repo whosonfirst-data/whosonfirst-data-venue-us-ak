@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176409",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.623179,61.504282,-149.623179,61.504282",
     "geom:latitude":61.504282,
     "geom:longitude":-149.623179,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6850 Rasmussen Pl",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102176409",
-    "wof:lastmodified":1449069348,
+    "wof:lastmodified":1466313952,
     "wof:name":"Valley Framing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.623179,61.504282,-149.623179,61.504282],
-  "geometry": {"coordinates":[-149.623179,61.504282],"type":"Point"}
+  "bbox": [
+    -149.623179,
+    61.504282,
+    -149.623179,
+    61.504282
+],
+  "geometry": {"coordinates":[-149.62317899999999,61.504282],"type":"Point"}
 }

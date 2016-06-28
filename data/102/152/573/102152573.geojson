@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102152573",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.806509,61.105578,-149.806509,61.105578",
     "geom:latitude":61.105578,
     "geom:longitude":-149.806509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4140 Furrow Creek Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873753,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102152573",
-    "wof:lastmodified":1449069637,
+    "wof:lastmodified":1466313572,
     "wof:name":"C & J Sports Cards",
     "wof:parent_id":85873753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.806509,61.105578,-149.806509,61.105578],
-  "geometry": {"coordinates":[-149.806509,61.105578],"type":"Point"}
+  "bbox": [
+    -149.806509,
+    61.105578,
+    -149.806509,
+    61.105578
+],
+  "geometry": {"coordinates":[-149.80650900000001,61.105578],"type":"Point"}
 }

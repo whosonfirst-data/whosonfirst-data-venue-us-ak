@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102160167",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.681897,64.896168,-147.681897,64.896168",
     "geom:latitude":64.896168,
     "geom:longitude":-147.681897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"485 Panorama Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102160167",
-    "wof:lastmodified":1449069777,
+    "wof:lastmodified":1466313627,
     "wof:name":"Mary Kay Cosmetics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.681897,64.896168,-147.681897,64.896168],
-  "geometry": {"coordinates":[-147.681897,64.896168],"type":"Point"}
+  "bbox": [
+    -147.681897,
+    64.896168,
+    -147.681897,
+    64.896168
+],
+  "geometry": {"coordinates":[-147.68189699999999,64.896168],"type":"Point"}
 }

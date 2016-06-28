@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176339",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.542565,61.367028,-149.542565,61.367028",
     "geom:latitude":61.367028,
     "geom:longitude":-149.542565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16243 Shims St",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102176339",
-    "wof:lastmodified":1449069347,
+    "wof:lastmodified":1466313938,
     "wof:name":"Call's Eagle River Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.542565,61.367028,-149.542565,61.367028],
+  "bbox": [
+    -149.542565,
+    61.367028,
+    -149.542565,
+    61.367028
+],
   "geometry": {"coordinates":[-149.542565,61.367028],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102163283",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.727248,55.377453,-131.727248,55.377453",
     "geom:latitude":55.377453,
     "geom:longitude":-131.727248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5497 N Tongass Hwy",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102163283",
-    "wof:lastmodified":1449070160,
+    "wof:lastmodified":1466313703,
     "wof:name":"Seley Family Partnerships",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.727248,55.377453,-131.727248,55.377453],
+  "bbox": [
+    -131.727248,
+    55.377453,
+    -131.727248,
+    55.377453
+],
   "geometry": {"coordinates":[-131.727248,55.377453],"type":"Point"}
 }

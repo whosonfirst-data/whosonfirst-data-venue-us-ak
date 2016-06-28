@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102150343",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.929931,61.186578,-149.929931,61.186578",
     "geom:latitude":61.186578,
     "geom:longitude":-149.929931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 Arkansas Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850461,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85850461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102150343",
-    "wof:lastmodified":1449067790,
+    "wof:lastmodified":1466313989,
     "wof:name":"Nedland Design & Illustrations",
     "wof:parent_id":85850461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.929931,61.186578,-149.929931,61.186578],
-  "geometry": {"coordinates":[-149.929931,61.186578],"type":"Point"}
+  "bbox": [
+    -149.929931,
+    61.186578,
+    -149.929931,
+    61.186578
+],
+  "geometry": {"coordinates":[-149.92993100000001,61.186578],"type":"Point"}
 }

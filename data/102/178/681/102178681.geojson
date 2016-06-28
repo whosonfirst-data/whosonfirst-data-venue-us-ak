@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178681",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.35965,61.575292,-149.35965,61.575292",
     "geom:latitude":61.575292,
     "geom:longitude":-149.35965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Seward Meridian Rd",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102178681",
-    "wof:lastmodified":1449069530,
+    "wof:lastmodified":1466314010,
     "wof:name":"Wasilla Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.35965,61.575292,-149.35965,61.575292],
-  "geometry": {"coordinates":[-149.35965,61.575292],"type":"Point"}
+  "bbox": [
+    -149.35965,
+    61.575292,
+    -149.35965,
+    61.575292
+],
+  "geometry": {"coordinates":[-149.35964999999999,61.575292],"type":"Point"}
 }

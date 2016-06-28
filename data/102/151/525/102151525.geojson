@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102151525",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.069998,60.495526,-151.069998,60.495526",
     "geom:latitude":60.495526,
     "geom:longitude":-151.069998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35563 Kenai Spur Hwy",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102151525",
-    "wof:lastmodified":1449067782,
+    "wof:lastmodified":1466313498,
     "wof:name":"Audio Concepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.069998,60.495526,-151.069998,60.495526],
+  "bbox": [
+    -151.069998,
+    60.495526,
+    -151.069998,
+    60.495526
+],
   "geometry": {"coordinates":[-151.069998,60.495526],"type":"Point"}
 }

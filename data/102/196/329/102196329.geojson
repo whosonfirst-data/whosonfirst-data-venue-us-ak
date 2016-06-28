@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102196329",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.382854,56.471178,-132.382854,56.471178",
     "geom:latitude":56.471178,
     "geom:longitude":-132.382854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Front St",
     "sg:city":"Wrangell",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102196329",
-    "wof:lastmodified":1449068336,
+    "wof:lastmodified":1466314266,
     "wof:name":"Jitterbugs Espresso To Go",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.382854,56.471178,-132.382854,56.471178],
-  "geometry": {"coordinates":[-132.382854,56.471178],"type":"Point"}
+  "bbox": [
+    -132.382854,
+    56.471178,
+    -132.382854,
+    56.471178
+],
+  "geometry": {"coordinates":[-132.38285400000001,56.471178],"type":"Point"}
 }

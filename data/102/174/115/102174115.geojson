@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102174115",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.940567,56.742998,-132.940567,56.742998",
     "geom:latitude":56.742998,
     "geom:longitude":-132.940567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"668 Mitkof Hwy",
     "sg:city":"Petersburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102174115",
-    "wof:lastmodified":1449068136,
+    "wof:lastmodified":1466313879,
     "wof:name":"Talon Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.940567,56.742998,-132.940567,56.742998],
-  "geometry": {"coordinates":[-132.940567,56.742998],"type":"Point"}
+  "bbox": [
+    -132.940567,
+    56.742998,
+    -132.940567,
+    56.742998
+],
+  "geometry": {"coordinates":[-132.94056699999999,56.742998],"type":"Point"}
 }

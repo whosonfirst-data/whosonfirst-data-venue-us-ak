@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102169289",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.73231,64.859494,-147.73231,64.859494",
     "geom:latitude":64.859494,
     "geom:longitude":-147.73231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 College Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.radio-fairbanks.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830247,
+        85688573,
         85633793,
         85916559,
         102081397,
-        85688573
+        85830247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102169289",
-    "wof:lastmodified":1449069249,
+    "wof:lastmodified":1466313768,
     "wof:name":"Communications Equipment & Svc",
     "wof:parent_id":85830247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.73231,64.859494,-147.73231,64.859494],
-  "geometry": {"coordinates":[-147.73231,64.859494],"type":"Point"}
+  "bbox": [
+    -147.73231,
+    64.859494,
+    -147.73231,
+    64.859494
+],
+  "geometry": {"coordinates":[-147.73231000000001,64.859494],"type":"Point"}
 }

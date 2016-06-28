@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184279",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.107854,61.601114,-149.107854,61.601114",
     "geom:latitude":61.601114,
     "geom:longitude":-149.107854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"564 S Denali St",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102184279",
-    "wof:lastmodified":1449068218,
+    "wof:lastmodified":1466314199,
     "wof:name":"Alaskana Books",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.107854,61.601114,-149.107854,61.601114],
+  "bbox": [
+    -149.107854,
+    61.601114,
+    -149.107854,
+    61.601114
+],
   "geometry": {"coordinates":[-149.107854,61.601114],"type":"Point"}
 }

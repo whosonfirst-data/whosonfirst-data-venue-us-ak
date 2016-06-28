@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184485",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.647724,55.34332,-131.647724,55.34332",
     "geom:latitude":55.34332,
     "geom:longitude":-131.647724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"436 Main St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102184485",
-    "wof:lastmodified":1449068218,
+    "wof:lastmodified":1466314209,
     "wof:name":"Southeast Alaska Investment Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.647724,55.34332,-131.647724,55.34332],
-  "geometry": {"coordinates":[-131.647724,55.34332],"type":"Point"}
+  "bbox": [
+    -131.647724,
+    55.34332,
+    -131.647724,
+    55.34332
+],
+  "geometry": {"coordinates":[-131.64772400000001,55.34332],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102167179",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.939871,61.178237,-149.939871,61.178237",
     "geom:latitude":61.178237,
     "geom:longitude":-149.939871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4619 Spenard Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.alaskavisitorscenter.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850461,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85850461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102167179",
-    "wof:lastmodified":1449069004,
+    "wof:lastmodified":1466313705,
     "wof:name":"Alaska Visitors Ctr & Tours",
     "wof:parent_id":85850461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.939871,61.178237,-149.939871,61.178237],
-  "geometry": {"coordinates":[-149.939871,61.178237],"type":"Point"}
+  "bbox": [
+    -149.939871,
+    61.178237,
+    -149.939871,
+    61.178237
+],
+  "geometry": {"coordinates":[-149.93987100000001,61.178237],"type":"Point"}
 }

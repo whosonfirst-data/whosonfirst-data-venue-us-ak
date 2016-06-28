@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102190099",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.90971,64.813652,-147.90971,64.813652",
     "geom:latitude":64.813652,
     "geom:longitude":-147.90971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1180 Chena Pump Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102190099",
-    "wof:lastmodified":1449070037,
+    "wof:lastmodified":1466314141,
     "wof:name":"M & M Constructors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.90971,64.813652,-147.90971,64.813652],
-  "geometry": {"coordinates":[-147.90971,64.813652],"type":"Point"}
+  "bbox": [
+    -147.90971,
+    64.813652,
+    -147.90971,
+    64.813652
+],
+  "geometry": {"coordinates":[-147.90970999999999,64.813652],"type":"Point"}
 }

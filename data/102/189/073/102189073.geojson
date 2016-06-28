@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102189073",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-150.994363,70.214602,-150.994363,70.214602",
     "geom:latitude":70.214602,
     "geom:longitude":-150.994363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1114 1st St",
     "sg:city":"Nuiqsut",
     "sg:classifiers":[
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":"102189073",
-    "wof:lastmodified":1449069497,
+    "wof:lastmodified":1466313660,
     "wof:name":"Kuukpik Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-150.994363,70.214602,-150.994363,70.214602],
-  "geometry": {"coordinates":[-150.994363,70.214602],"type":"Point"}
+  "bbox": [
+    -150.994363,
+    70.214602,
+    -150.994363,
+    70.214602
+],
+  "geometry": {"coordinates":[-150.99436299999999,70.214602],"type":"Point"}
 }

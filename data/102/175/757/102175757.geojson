@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102175757",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.207453,61.619339,-149.207453,61.619339",
     "geom:latitude":61.619339,
     "geom:longitude":-149.207453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3471 Seagull Dr",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102175757",
-    "wof:lastmodified":1449069464,
+    "wof:lastmodified":1466314160,
     "wof:name":"Piatt Michael & Shawna D",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.207453,61.619339,-149.207453,61.619339],
-  "geometry": {"coordinates":[-149.207453,61.619339],"type":"Point"}
+  "bbox": [
+    -149.207453,
+    61.619339,
+    -149.207453,
+    61.619339
+],
+  "geometry": {"coordinates":[-149.20745299999999,61.619339],"type":"Point"}
 }

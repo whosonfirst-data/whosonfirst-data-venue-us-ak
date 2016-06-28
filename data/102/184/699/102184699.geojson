@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184699",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.324536,60.583642,-151.324536,60.583642",
     "geom:latitude":60.583642,
     "geom:longitude":-151.324536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14704 Kenai Spur Hwy",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102184699",
-    "wof:lastmodified":1449068215,
+    "wof:lastmodified":1466314219,
     "wof:name":"Baker Petrolite Chemicals Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.324536,60.583642,-151.324536,60.583642],
-  "geometry": {"coordinates":[-151.324536,60.583642],"type":"Point"}
+  "bbox": [
+    -151.324536,
+    60.583642,
+    -151.324536,
+    60.583642
+],
+  "geometry": {"coordinates":[-151.32453599999999,60.583642],"type":"Point"}
 }

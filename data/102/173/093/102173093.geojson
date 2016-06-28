@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173093",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.794388,64.891573,-147.794388,64.891573",
     "geom:latitude":64.891573,
     "geom:longitude":-147.794388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"921 Eton Blvd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102173093",
-    "wof:lastmodified":1449068263,
+    "wof:lastmodified":1466313870,
     "wof:name":"Promise Keepers Of Alaska",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.794388,64.891573,-147.794388,64.891573],
-  "geometry": {"coordinates":[-147.794388,64.891573],"type":"Point"}
+  "bbox": [
+    -147.794388,
+    64.891573,
+    -147.794388,
+    64.891573
+],
+  "geometry": {"coordinates":[-147.794388,64.89157299999999],"type":"Point"}
 }

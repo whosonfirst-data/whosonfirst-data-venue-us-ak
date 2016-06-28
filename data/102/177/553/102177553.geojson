@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102177553",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-150.794912,60.512436,-150.794912,60.512436",
     "geom:latitude":60.512436,
     "geom:longitude":-150.794912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35610 Betty Lou Dr",
     "sg:city":"Sterling",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102177553",
-    "wof:lastmodified":1449070204,
+    "wof:lastmodified":1466313980,
     "wof:name":"Silver Bullet Kenai River Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-150.794912,60.512436,-150.794912,60.512436],
-  "geometry": {"coordinates":[-150.794912,60.512436],"type":"Point"}
+  "bbox": [
+    -150.794912,
+    60.512436,
+    -150.794912,
+    60.512436
+],
+  "geometry": {"coordinates":[-150.79491200000001,60.512436],"type":"Point"}
 }

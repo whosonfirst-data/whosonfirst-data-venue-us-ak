@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102151781",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.926952,61.114265,-149.926952,61.114265",
     "geom:latitude":61.114265,
     "geom:longitude":-149.926952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 Brookstone Loop",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873739,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102151781",
-    "wof:lastmodified":1449067779,
+    "wof:lastmodified":1466313545,
     "wof:name":"Innovative Computer & Cabling",
     "wof:parent_id":85873739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.926952,61.114265,-149.926952,61.114265],
+  "bbox": [
+    -149.926952,
+    61.114265,
+    -149.926952,
+    61.114265
+],
   "geometry": {"coordinates":[-149.926952,61.114265],"type":"Point"}
 }

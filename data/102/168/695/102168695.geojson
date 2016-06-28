@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102168695",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.722793,64.859074,-147.722793,64.859074",
     "geom:latitude":64.859074,
     "geom:longitude":-147.722793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"720 College Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830247,
+        85688573,
         85633793,
         85916559,
         102081397,
-        85688573
+        85830247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102168695",
-    "wof:lastmodified":1449069007,
+    "wof:lastmodified":1466313810,
     "wof:name":"Overhead Door Co Fairbanks",
     "wof:parent_id":85830247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.722793,64.859074,-147.722793,64.859074],
-  "geometry": {"coordinates":[-147.722793,64.859074],"type":"Point"}
+  "bbox": [
+    -147.722793,
+    64.859074,
+    -147.722793,
+    64.859074
+],
+  "geometry": {"coordinates":[-147.722793,64.85907400000001],"type":"Point"}
 }

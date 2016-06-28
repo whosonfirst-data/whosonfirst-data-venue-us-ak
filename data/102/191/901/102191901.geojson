@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191901",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.410959,58.301829,-134.410959,58.301829",
     "geom:latitude":58.301829,
     "geom:longitude":-134.410959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"426 Main St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.ashnha.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102191901",
-    "wof:lastmodified":1449069202,
+    "wof:lastmodified":1466314159,
     "wof:name":"Alaska State Hospital",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.410959,58.301829,-134.410959,58.301829],
-  "geometry": {"coordinates":[-134.410959,58.301829],"type":"Point"}
+  "bbox": [
+    -134.410959,
+    58.301829,
+    -134.410959,
+    58.301829
+],
+  "geometry": {"coordinates":[-134.41095899999999,58.301829],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184881",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.858998,64.843372,-147.858998,64.843372",
     "geom:latitude":64.843372,
     "geom:longitude":-147.858998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4619 Harvard Cir",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102184881",
-    "wof:lastmodified":1449068217,
+    "wof:lastmodified":1466314229,
     "wof:name":"Sledguard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.858998,64.843372,-147.858998,64.843372],
-  "geometry": {"coordinates":[-147.858998,64.843372],"type":"Point"}
+  "bbox": [
+    -147.858998,
+    64.843372,
+    -147.858998,
+    64.843372
+],
+  "geometry": {"coordinates":[-147.85899800000001,64.843372],"type":"Point"}
 }

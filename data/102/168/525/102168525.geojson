@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102168525",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-155.574056,62.941283,-155.574056,62.941283",
     "geom:latitude":62.941283,
     "geom:longitude":-155.574056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Joaquin St",
     "sg:city":"Mc Grath",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102168525",
-    "wof:lastmodified":1449069009,
+    "wof:lastmodified":1466313777,
     "wof:name":"Stricks General Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-155.574056,62.941283,-155.574056,62.941283],
-  "geometry": {"coordinates":[-155.574056,62.941283],"type":"Point"}
+  "bbox": [
+    -155.574056,
+    62.941283,
+    -155.574056,
+    62.941283
+],
+  "geometry": {"coordinates":[-155.57405600000001,62.941283],"type":"Point"}
 }

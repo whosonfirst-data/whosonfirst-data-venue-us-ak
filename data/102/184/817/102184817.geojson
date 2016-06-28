@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184817",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.838603,61.195301,-149.838603,61.195301",
     "geom:latitude":61.195301,
     "geom:longitude":-149.838603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2036 E Northern Lights Blvd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873729,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873729
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102184817",
-    "wof:lastmodified":1449068218,
+    "wof:lastmodified":1466314225,
     "wof:name":"College Village Animal Clinic",
     "wof:parent_id":85873729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.838603,61.195301,-149.838603,61.195301],
-  "geometry": {"coordinates":[-149.838603,61.195301],"type":"Point"}
+  "bbox": [
+    -149.838603,
+    61.195301,
+    -149.838603,
+    61.195301
+],
+  "geometry": {"coordinates":[-149.83860300000001,61.195301],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102175441",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.531997,61.305882,-149.531997,61.305882",
     "geom:latitude":61.305882,
     "geom:longitude":-149.531997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18725 Sarichef Loop",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102175441",
-    "wof:lastmodified":1449069465,
+    "wof:lastmodified":1466313947,
     "wof:name":"Cyber Tutor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.531997,61.305882,-149.531997,61.305882],
-  "geometry": {"coordinates":[-149.531997,61.305882],"type":"Point"}
+  "bbox": [
+    -149.531997,
+    61.305882,
+    -149.531997,
+    61.305882
+],
+  "geometry": {"coordinates":[-149.53199699999999,61.305882],"type":"Point"}
 }

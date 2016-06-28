@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102189433",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.589553,55.313669,-131.589553,55.313669",
     "geom:latitude":55.313669,
     "geom:longitude":-131.589553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2868 S Tongass Hwy",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102189433",
-    "wof:lastmodified":1449069496,
+    "wof:lastmodified":1466313735,
     "wof:name":"Floyd's On-Site Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.589553,55.313669,-131.589553,55.313669],
+  "bbox": [
+    -131.589553,
+    55.313669,
+    -131.589553,
+    55.313669
+],
   "geometry": {"coordinates":[-131.589553,55.313669],"type":"Point"}
 }

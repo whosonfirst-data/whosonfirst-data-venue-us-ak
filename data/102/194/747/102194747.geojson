@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102194747",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.442094,60.103712,-149.442094,60.103712",
     "geom:latitude":60.103712,
     "geom:longitude":-149.442094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 3rd Ave",
     "sg:city":"Seward",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102194747",
-    "wof:lastmodified":1449069829,
+    "wof:lastmodified":1466314262,
     "wof:name":"Resurrect Art Coffee House Gal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.442094,60.103712,-149.442094,60.103712],
+  "bbox": [
+    -149.442094,
+    60.103712,
+    -149.442094,
+    60.103712
+],
   "geometry": {"coordinates":[-149.442094,60.103712],"type":"Point"}
 }

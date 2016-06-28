@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185081",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-166.517985,53.907411,-166.517985,53.907411",
     "geom:latitude":53.907411,
     "geom:longitude":-166.517985,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"991 Ballyhoo Rd",
     "sg:city":"Dutch Harbor",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102185081",
-    "wof:lastmodified":1449068196,
+    "wof:lastmodified":1466314079,
     "wof:name":"Magone Marine Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-166.517985,53.907411,-166.517985,53.907411],
-  "geometry": {"coordinates":[-166.517985,53.907411],"type":"Point"}
+  "bbox": [
+    -166.517985,
+    53.907411,
+    -166.517985,
+    53.907411
+],
+  "geometry": {"coordinates":[-166.51798500000001,53.907411],"type":"Point"}
 }

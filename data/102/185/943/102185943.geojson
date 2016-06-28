@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185943",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.615768,58.372408,-134.615768,58.372408",
     "geom:latitude":58.372408,
     "geom:longitude":-134.615768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10301 Glacier Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102185943",
-    "wof:lastmodified":1449068196,
+    "wof:lastmodified":1466314232,
     "wof:name":"Southeast Foot & Ankle Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.615768,58.372408,-134.615768,58.372408],
+  "bbox": [
+    -134.615768,
+    58.372408,
+    -134.615768,
+    58.372408
+],
   "geometry": {"coordinates":[-134.615768,58.372408],"type":"Point"}
 }

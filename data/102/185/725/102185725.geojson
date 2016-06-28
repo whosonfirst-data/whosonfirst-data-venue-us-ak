@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185725",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.798909,64.884123,-147.798909,64.884123",
     "geom:latitude":64.884123,
     "geom:longitude":-147.798909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"562 Hilltop Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102185725",
-    "wof:lastmodified":1449068197,
+    "wof:lastmodified":1466314163,
     "wof:name":"Rod V Wakefield Realtor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.798909,64.884123,-147.798909,64.884123],
-  "geometry": {"coordinates":[-147.798909,64.884123],"type":"Point"}
+  "bbox": [
+    -147.798909,
+    64.884123,
+    -147.798909,
+    64.884123
+],
+  "geometry": {"coordinates":[-147.79890900000001,64.884123],"type":"Point"}
 }

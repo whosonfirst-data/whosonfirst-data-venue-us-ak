@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102182327",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.590255,58.374484,-134.590255,58.374484",
     "geom:latitude":58.374484,
     "geom:longitude":-134.590255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2841 Riverside Dr",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"www.thealaskaclub.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833767,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85833767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":"102182327",
-    "wof:lastmodified":1449069277,
+    "wof:lastmodified":1466314087,
     "wof:name":"JRC The Alaska Club",
     "wof:parent_id":85833767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.590255,58.374484,-134.590255,58.374484],
-  "geometry": {"coordinates":[-134.590255,58.374484],"type":"Point"}
+  "bbox": [
+    -134.590255,
+    58.374484,
+    -134.590255,
+    58.374484
+],
+  "geometry": {"coordinates":[-134.59025500000001,58.374484],"type":"Point"}
 }

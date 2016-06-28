@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173299",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.408297,58.301195,-134.408297,58.301195",
     "geom:latitude":58.301195,
     "geom:longitude":-134.408297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Seward St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102173299",
-    "wof:lastmodified":1449068263,
+    "wof:lastmodified":1466313912,
     "wof:name":"Pacific Seafoods Processors",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.408297,58.301195,-134.408297,58.301195],
+  "bbox": [
+    -134.408297,
+    58.301195,
+    -134.408297,
+    58.301195
+],
   "geometry": {"coordinates":[-134.408297,58.301195],"type":"Point"}
 }

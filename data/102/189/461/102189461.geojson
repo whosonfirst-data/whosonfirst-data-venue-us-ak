@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102189461",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.71417,55.366833,-131.71417,55.366833",
     "geom:latitude":55.366833,
     "geom:longitude":-131.71417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4831 N Tongass Hwy",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102189461",
-    "wof:lastmodified":1449069497,
+    "wof:lastmodified":1466313741,
     "wof:name":"More Than Carpets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.71417,55.366833,-131.71417,55.366833],
+  "bbox": [
+    -131.71417,
+    55.366833,
+    -131.71417,
+    55.366833
+],
   "geometry": {"coordinates":[-131.71417,55.366833],"type":"Point"}
 }

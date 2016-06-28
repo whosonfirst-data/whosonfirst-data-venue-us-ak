@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102168937",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.784891,64.861863,-147.784891,64.861863",
     "geom:latitude":64.861863,
     "geom:longitude":-147.784891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2757 College Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.fsaf.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869043,
+        85688573,
         85633793,
         85916609,
         102081397,
-        85688573
+        85869043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102168937",
-    "wof:lastmodified":1449069007,
+    "wof:lastmodified":1466313858,
     "wof:name":"Fairbanks Summer Arts Festival",
     "wof:parent_id":85869043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.784891,64.861863,-147.784891,64.861863],
-  "geometry": {"coordinates":[-147.784891,64.861863],"type":"Point"}
+  "bbox": [
+    -147.784891,
+    64.861863,
+    -147.784891,
+    64.861863
+],
+  "geometry": {"coordinates":[-147.78489099999999,64.861863],"type":"Point"}
 }

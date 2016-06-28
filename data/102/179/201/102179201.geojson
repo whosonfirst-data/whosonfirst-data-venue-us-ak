@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102179201",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.41581,61.578509,-149.41581,61.578509",
     "geom:latitude":61.578509,
     "geom:longitude":-149.41581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 E Parks Hwy",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102179201",
-    "wof:lastmodified":1449069943,
+    "wof:lastmodified":1466313914,
     "wof:name":"Safe & Sound",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.41581,61.578509,-149.41581,61.578509],
-  "geometry": {"coordinates":[-149.41581,61.578509],"type":"Point"}
+  "bbox": [
+    -149.41581,
+    61.578509,
+    -149.41581,
+    61.578509
+],
+  "geometry": {"coordinates":[-149.41580999999999,61.578509],"type":"Point"}
 }

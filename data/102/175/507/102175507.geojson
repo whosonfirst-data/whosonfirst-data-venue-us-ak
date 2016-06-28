@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102175507",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.592764,58.368276,-134.592764,58.368276",
     "geom:latitude":58.368276,
     "geom:longitude":-134.592764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9406 Glacier Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833767,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85833767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102175507",
-    "wof:lastmodified":1449069464,
+    "wof:lastmodified":1466313960,
     "wof:name":"Floral Treasures",
     "wof:parent_id":85833767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.592764,58.368276,-134.592764,58.368276],
-  "geometry": {"coordinates":[-134.592764,58.368276],"type":"Point"}
+  "bbox": [
+    -134.592764,
+    58.368276,
+    -134.592764,
+    58.368276
+],
+  "geometry": {"coordinates":[-134.59276399999999,58.368276],"type":"Point"}
 }

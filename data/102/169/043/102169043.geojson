@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102169043",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.410953,58.303704,-134.410953,58.303704",
     "geom:latitude":58.303704,
     "geom:longitude":-134.410953,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 7th St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102169043",
-    "wof:lastmodified":1449069249,
+    "wof:lastmodified":1466313718,
     "wof:name":"House Of Wickersham",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.410953,58.303704,-134.410953,58.303704],
-  "geometry": {"coordinates":[-134.410953,58.303704],"type":"Point"}
+  "bbox": [
+    -134.410953,
+    58.303704,
+    -134.410953,
+    58.303704
+],
+  "geometry": {"coordinates":[-134.41095300000001,58.303704],"type":"Point"}
 }

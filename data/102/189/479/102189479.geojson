@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102189479",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-150.873482,60.505814,-150.873482,60.505814",
     "geom:latitude":60.505814,
     "geom:longitude":-150.873482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37725 Hall Rd",
     "sg:city":"Sterling",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102189479",
-    "wof:lastmodified":1449069498,
+    "wof:lastmodified":1466313744,
     "wof:name":"Alaska Mountain View Cabins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-150.873482,60.505814,-150.873482,60.505814],
+  "bbox": [
+    -150.873482,
+    60.505814,
+    -150.873482,
+    60.505814
+],
   "geometry": {"coordinates":[-150.873482,60.505814],"type":"Point"}
 }

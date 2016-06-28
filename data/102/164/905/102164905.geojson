@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102164905",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.778298,61.195811,-149.778298,61.195811",
     "geom:latitude":61.195811,
     "geom:longitude":-149.778298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2639 Boniface Pkwy",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806647,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85806647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102164905",
-    "wof:lastmodified":1449068091,
+    "wof:lastmodified":1466313841,
     "wof:name":"Mario Townsend Dvm",
     "wof:parent_id":85806647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.778298,61.195811,-149.778298,61.195811],
-  "geometry": {"coordinates":[-149.778298,61.195811],"type":"Point"}
+  "bbox": [
+    -149.778298,
+    61.195811,
+    -149.778298,
+    61.195811
+],
+  "geometry": {"coordinates":[-149.77829800000001,61.195811],"type":"Point"}
 }

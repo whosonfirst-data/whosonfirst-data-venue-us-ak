@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102158965",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-161.811791,60.791074,-161.811791,60.791074",
     "geom:latitude":60.791074,
     "geom:longitude":-161.811791,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Cranberry St",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102158965",
-    "wof:lastmodified":1449069394,
+    "wof:lastmodified":1466313703,
     "wof:name":"Cranberry Cottage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-161.811791,60.791074,-161.811791,60.791074],
+  "bbox": [
+    -161.811791,
+    60.791074,
+    -161.811791,
+    60.791074
+],
   "geometry": {"coordinates":[-161.811791,60.791074],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102183863",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.858821,61.219995,-149.858821,61.219995",
     "geom:latitude":61.219995,
     "geom:longitude":-149.858821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"251 Post Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873717,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102183863",
-    "wof:lastmodified":1449069042,
+    "wof:lastmodified":1466314225,
     "wof:name":"Walsky Construction Inc",
     "wof:parent_id":85873717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.858821,61.219995,-149.858821,61.219995],
-  "geometry": {"coordinates":[-149.858821,61.219995],"type":"Point"}
+  "bbox": [
+    -149.858821,
+    61.219995,
+    -149.858821,
+    61.219995
+],
+  "geometry": {"coordinates":[-149.85882100000001,61.219995],"type":"Point"}
 }

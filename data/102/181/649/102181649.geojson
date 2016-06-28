@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102181649",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.884069,61.180732,-149.884069,61.180732",
     "geom:latitude":61.180732,
     "geom:longitude":-149.884069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"140 W Tudor Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873723,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102181649",
-    "wof:lastmodified":1449069235,
+    "wof:lastmodified":1466314101,
     "wof:name":"Homewood Suites By Hilton",
     "wof:parent_id":85873723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.884069,61.180732,-149.884069,61.180732],
-  "geometry": {"coordinates":[-149.884069,61.180732],"type":"Point"}
+  "bbox": [
+    -149.884069,
+    61.180732,
+    -149.884069,
+    61.180732
+],
+  "geometry": {"coordinates":[-149.88406900000001,61.180732],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102160833",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-165.403563,64.497113,-165.403563,64.497113",
     "geom:latitude":64.497113,
     "geom:longitude":-165.403563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 Front St",
     "sg:city":"Nome",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102160833",
-    "wof:lastmodified":1449069776,
+    "wof:lastmodified":1466313761,
     "wof:name":"Northern Delights",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-165.403563,64.497113,-165.403563,64.497113],
-  "geometry": {"coordinates":[-165.403563,64.497113],"type":"Point"}
+  "bbox": [
+    -165.403563,
+    64.497113,
+    -165.403563,
+    64.497113
+],
+  "geometry": {"coordinates":[-165.40356299999999,64.497113],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102156137",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.638282,55.339828,-131.638282,55.339828",
     "geom:latitude":55.339828,
     "geom:longitude":-131.638282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 Stedman St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102156137",
-    "wof:lastmodified":1449068283,
+    "wof:lastmodified":1466313488,
     "wof:name":"Piledrivers & Divers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.638282,55.339828,-131.638282,55.339828],
+  "bbox": [
+    -131.638282,
+    55.339828,
+    -131.638282,
+    55.339828
+],
   "geometry": {"coordinates":[-131.638282,55.339828],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153025",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.086966,64.564509,-149.086966,64.564509",
     "geom:latitude":64.564509,
     "geom:longitude":-149.086966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Front St",
     "sg:city":"Nenana",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102153025",
-    "wof:lastmodified":1449069462,
+    "wof:lastmodified":1466313465,
     "wof:name":"Yukon Fuel Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.086966,64.564509,-149.086966,64.564509],
-  "geometry": {"coordinates":[-149.086966,64.564509],"type":"Point"}
+  "bbox": [
+    -149.086966,
+    64.564509,
+    -149.086966,
+    64.564509
+],
+  "geometry": {"coordinates":[-149.08696599999999,64.564509],"type":"Point"}
 }

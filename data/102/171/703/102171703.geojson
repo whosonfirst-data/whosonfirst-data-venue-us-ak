@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171703",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.416926,58.300919,-134.416926,58.300919",
     "geom:latitude":58.300919,
     "geom:longitude":-134.416926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 W Willoughby Ave",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.seconference.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102171703",
-    "wof:lastmodified":1449070221,
+    "wof:lastmodified":1466314146,
     "wof:name":"Southeast Conference",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.416926,58.300919,-134.416926,58.300919],
-  "geometry": {"coordinates":[-134.416926,58.300919],"type":"Point"}
+  "bbox": [
+    -134.416926,
+    58.300919,
+    -134.416926,
+    58.300919
+],
+  "geometry": {"coordinates":[-134.41692599999999,58.300919],"type":"Point"}
 }

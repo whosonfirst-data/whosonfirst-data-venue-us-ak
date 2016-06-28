@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102180903",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.088742,60.482915,-151.088742,60.482915",
     "geom:latitude":60.482915,
     "geom:longitude":-151.088742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"339 Porcupine Ct",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102180903",
-    "wof:lastmodified":1449067873,
+    "wof:lastmodified":1466314077,
     "wof:name":"Kenai River Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.088742,60.482915,-151.088742,60.482915],
+  "bbox": [
+    -151.088742,
+    60.482915,
+    -151.088742,
+    60.482915
+],
   "geometry": {"coordinates":[-151.088742,60.482915],"type":"Point"}
 }

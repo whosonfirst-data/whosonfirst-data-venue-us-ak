@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102181357",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-148.061687,64.940162,-148.061687,64.940162",
     "geom:latitude":64.940162,
     "geom:longitude":-148.061687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3773 Spinach Creek Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102181357",
-    "wof:lastmodified":1449069236,
+    "wof:lastmodified":1466314062,
     "wof:name":"H C Contractors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-148.061687,64.940162,-148.061687,64.940162],
-  "geometry": {"coordinates":[-148.061687,64.940162],"type":"Point"}
+  "bbox": [
+    -148.061687,
+    64.940162,
+    -148.061687,
+    64.940162
+],
+  "geometry": {"coordinates":[-148.06168700000001,64.940162],"type":"Point"}
 }

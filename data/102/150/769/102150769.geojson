@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102150769",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.506942,58.3348,-134.506942,58.3348",
     "geom:latitude":58.3348,
     "geom:longitude":-134.506942,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7800 N Douglas Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853509,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85853509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102150769",
-    "wof:lastmodified":1449067790,
+    "wof:lastmodified":1466314067,
     "wof:name":"Michael A D Stanley",
     "wof:parent_id":85853509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.506942,58.3348,-134.506942,58.3348],
-  "geometry": {"coordinates":[-134.506942,58.3348],"type":"Point"}
+  "bbox": [
+    -134.506942,
+    58.3348,
+    -134.506942,
+    58.3348
+],
+  "geometry": {"coordinates":[-134.50694200000001,58.3348],"type":"Point"}
 }

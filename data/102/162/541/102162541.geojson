@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102162541",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.837848,61.147779,-149.837848,61.147779",
     "geom:latitude":61.147779,
     "geom:longitude":-149.837848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2321 Cinnabar Loop",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102162541",
-    "wof:lastmodified":1449069821,
+    "wof:lastmodified":1466313756,
     "wof:name":"Alaska Concrete Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.837848,61.147779,-149.837848,61.147779],
-  "geometry": {"coordinates":[-149.837848,61.147779],"type":"Point"}
+  "bbox": [
+    -149.837848,
+    61.147779,
+    -149.837848,
+    61.147779
+],
+  "geometry": {"coordinates":[-149.83784800000001,61.147779],"type":"Point"}
 }

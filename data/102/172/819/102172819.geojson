@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172819",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.778313,61.216952,-149.778313,61.216952",
     "geom:latitude":61.216952,
     "geom:longitude":-149.778313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Boniface Pkwy",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.djsrentals.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835847,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85835847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102172819",
-    "wof:lastmodified":1449068735,
+    "wof:lastmodified":1466314010,
     "wof:name":"D J's Alaska Rentals & Sales",
     "wof:parent_id":85835847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.778313,61.216952,-149.778313,61.216952],
+  "bbox": [
+    -149.778313,
+    61.216952,
+    -149.778313,
+    61.216952
+],
   "geometry": {"coordinates":[-149.778313,61.216952],"type":"Point"}
 }

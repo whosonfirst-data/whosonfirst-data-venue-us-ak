@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192203",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.378362,64.775789,-147.378362,64.775789",
     "geom:latitude":64.775789,
     "geom:longitude":-147.378362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2609 N Goldenrod Cir",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102192203",
-    "wof:lastmodified":1449069503,
+    "wof:lastmodified":1466314191,
     "wof:name":"Bigfoot Pumping & Thawing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.378362,64.775789,-147.378362,64.775789],
-  "geometry": {"coordinates":[-147.378362,64.775789],"type":"Point"}
+  "bbox": [
+    -147.378362,
+    64.775789,
+    -147.378362,
+    64.775789
+],
+  "geometry": {"coordinates":[-147.37836200000001,64.775789],"type":"Point"}
 }

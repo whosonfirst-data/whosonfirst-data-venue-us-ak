@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102175435",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.437501,60.139025,-149.437501,60.139025",
     "geom:latitude":60.139025,
     "geom:longitude":-149.437501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2503 Cedar St",
     "sg:city":"Seward",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102175435",
-    "wof:lastmodified":1449069470,
+    "wof:lastmodified":1466313946,
     "wof:name":"Portage Distributing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.437501,60.139025,-149.437501,60.139025],
+  "bbox": [
+    -149.437501,
+    60.139025,
+    -149.437501,
+    60.139025
+],
   "geometry": {"coordinates":[-149.437501,60.139025],"type":"Point"}
 }

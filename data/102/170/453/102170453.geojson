@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102170453",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.685244,64.846681,-147.685244,64.846681",
     "geom:latitude":64.846681,
     "geom:longitude":-147.685244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Dunbar Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823671,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85823671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102170453",
-    "wof:lastmodified":1449068018,
+    "wof:lastmodified":1466313822,
     "wof:name":"Mutual Of Omaha Insurance Co",
     "wof:parent_id":85823671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.685244,64.846681,-147.685244,64.846681],
-  "geometry": {"coordinates":[-147.685244,64.846681],"type":"Point"}
+  "bbox": [
+    -147.685244,
+    64.846681,
+    -147.685244,
+    64.846681
+],
+  "geometry": {"coordinates":[-147.68524400000001,64.846681],"type":"Point"}
 }

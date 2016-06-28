@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102183437",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.570187,61.327149,-149.570187,61.327149",
     "geom:latitude":61.327149,
     "geom:longitude":-149.570187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11823 Old Glenn Hwy",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102183437",
-    "wof:lastmodified":1449069042,
+    "wof:lastmodified":1466314203,
     "wof:name":"Sunsation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.570187,61.327149,-149.570187,61.327149],
+  "bbox": [
+    -149.570187,
+    61.327149,
+    -149.570187,
+    61.327149
+],
   "geometry": {"coordinates":[-149.570187,61.327149],"type":"Point"}
 }

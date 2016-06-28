@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102195399",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.157001,60.459027,-151.157001,60.459027",
     "geom:latitude":60.459027,
     "geom:longitude":-151.157001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48040 Rustic Ave",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102195399",
-    "wof:lastmodified":1449069362,
+    "wof:lastmodified":1466314290,
     "wof:name":"Lisa's Hair Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.157001,60.459027,-151.157001,60.459027],
-  "geometry": {"coordinates":[-151.157001,60.459027],"type":"Point"}
+  "bbox": [
+    -151.157001,
+    60.459027,
+    -151.157001,
+    60.459027
+],
+  "geometry": {"coordinates":[-151.15700100000001,60.459027],"type":"Point"}
 }

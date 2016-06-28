@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192127",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.732457,64.89932,-147.732457,64.89932",
     "geom:latitude":64.89932,
     "geom:longitude":-147.732457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 Farmers Loop Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102192127",
-    "wof:lastmodified":1449069507,
+    "wof:lastmodified":1466314230,
     "wof:name":"Alaska Dog Mushers Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.732457,64.89932,-147.732457,64.89932],
-  "geometry": {"coordinates":[-147.732457,64.89932],"type":"Point"}
+  "bbox": [
+    -147.732457,
+    64.89932,
+    -147.732457,
+    64.89932
+],
+  "geometry": {"coordinates":[-147.73245700000001,64.89932],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102195275",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.561207,58.398093,-134.561207,58.398093",
     "geom:latitude":58.398093,
     "geom:longitude":-134.561207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4455 Dredge Lake Rd",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833767,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85833767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102195275",
-    "wof:lastmodified":1449069364,
+    "wof:lastmodified":1466314287,
     "wof:name":"Roger Stidolph",
     "wof:parent_id":85833767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.561207,58.398093,-134.561207,58.398093],
+  "bbox": [
+    -134.561207,
+    58.398093,
+    -134.561207,
+    58.398093
+],
   "geometry": {"coordinates":[-134.561207,58.398093],"type":"Point"}
 }

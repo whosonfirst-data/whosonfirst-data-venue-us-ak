@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102180955",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.821189,64.843295,-147.821189,64.843295",
     "geom:latitude":64.843295,
     "geom:longitude":-147.821189,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"504 Ramola St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856935,
+        85688573,
         85633793,
         85916609,
         102081397,
-        85688573
+        85856935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102180955",
-    "wof:lastmodified":1449067877,
+    "wof:lastmodified":1466314085,
     "wof:name":"Comforting Touch Massage Thrpy",
     "wof:parent_id":85856935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.821189,64.843295,-147.821189,64.843295],
+  "bbox": [
+    -147.821189,
+    64.843295,
+    -147.821189,
+    64.843295
+],
   "geometry": {"coordinates":[-147.821189,64.843295],"type":"Point"}
 }

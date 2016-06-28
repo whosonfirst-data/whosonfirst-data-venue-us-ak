@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185383",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.588089,58.364084,-134.588089,58.364084",
     "geom:latitude":58.364084,
     "geom:longitude":-134.588089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9309 Glacier Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.ermcpa.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833767,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85833767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102185383",
-    "wof:lastmodified":1449068195,
+    "wof:lastmodified":1466314121,
     "wof:name":"Elgee Rehfeld & Mertz Barrett",
     "wof:parent_id":85833767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.588089,58.364084,-134.588089,58.364084],
+  "bbox": [
+    -134.588089,
+    58.364084,
+    -134.588089,
+    58.364084
+],
   "geometry": {"coordinates":[-134.588089,58.364084],"type":"Point"}
 }

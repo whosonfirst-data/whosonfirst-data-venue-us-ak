@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155721",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.646348,55.340957,-131.646348,55.340957",
     "geom:latitude":55.340957,
     "geom:longitude":-131.646348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Front St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102155721",
-    "wof:lastmodified":1449069745,
+    "wof:lastmodified":1466313596,
     "wof:name":"Pruell's Tom Sawyer's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.646348,55.340957,-131.646348,55.340957],
-  "geometry": {"coordinates":[-131.646348,55.340957],"type":"Point"}
+  "bbox": [
+    -131.646348,
+    55.340957,
+    -131.646348,
+    55.340957
+],
+  "geometry": {"coordinates":[-131.64634799999999,55.340957],"type":"Point"}
 }

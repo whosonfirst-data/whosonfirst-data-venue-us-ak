@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184671",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-166.51224,53.862037,-166.51224,53.862037",
     "geom:latitude":53.862037,
     "geom:longitude":-166.51224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1035 E Broadway Ave",
     "sg:city":"Unalaska",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102184671",
-    "wof:lastmodified":1449068216,
+    "wof:lastmodified":1466314217,
     "wof:name":"Unalaska Public Works Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-166.51224,53.862037,-166.51224,53.862037],
-  "geometry": {"coordinates":[-166.51224,53.862037],"type":"Point"}
+  "bbox": [
+    -166.51224,
+    53.862037,
+    -166.51224,
+    53.862037
+],
+  "geometry": {"coordinates":[-166.51223999999999,53.862037],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102159219",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.901649,61.216582,-149.901649,61.216582",
     "geom:latitude":61.216582,
     "geom:longitude":-149.901649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"501 K St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.voyagerhotel.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873719,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102159219",
-    "wof:lastmodified":1449068094,
+    "wof:lastmodified":1466313566,
     "wof:name":"Voyager Hotel",
     "wof:parent_id":85873719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.901649,61.216582,-149.901649,61.216582],
-  "geometry": {"coordinates":[-149.901649,61.216582],"type":"Point"}
+  "bbox": [
+    -149.901649,
+    61.216582,
+    -149.901649,
+    61.216582
+],
+  "geometry": {"coordinates":[-149.90164899999999,61.216582],"type":"Point"}
 }

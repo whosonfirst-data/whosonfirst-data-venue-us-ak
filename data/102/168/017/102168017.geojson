@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102168017",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.975621,64.786131,-147.975621,64.786131",
     "geom:latitude":64.786131,
     "geom:longitude":-147.975621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3240 Rosie Creek Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102168017",
-    "wof:lastmodified":1449069007,
+    "wof:lastmodified":1466313673,
     "wof:name":"Epilepsy-Seizure Support Ntwk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.975621,64.786131,-147.975621,64.786131],
-  "geometry": {"coordinates":[-147.975621,64.786131],"type":"Point"}
+  "bbox": [
+    -147.975621,
+    64.786131,
+    -147.975621,
+    64.786131
+],
+  "geometry": {"coordinates":[-147.97562099999999,64.786131],"type":"Point"}
 }

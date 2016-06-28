@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102195839",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.337552,57.814049,-152.337552,57.814049",
     "geom:latitude":57.814049,
     "geom:longitude":-152.337552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3434 Spruce Cape Rd",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102195839",
-    "wof:lastmodified":1449069364,
+    "wof:lastmodified":1466314297,
     "wof:name":"Mill Bay Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.337552,57.814049,-152.337552,57.814049],
-  "geometry": {"coordinates":[-152.337552,57.814049],"type":"Point"}
+  "bbox": [
+    -152.337552,
+    57.814049,
+    -152.337552,
+    57.814049
+],
+  "geometry": {"coordinates":[-152.33755199999999,57.814049],"type":"Point"}
 }

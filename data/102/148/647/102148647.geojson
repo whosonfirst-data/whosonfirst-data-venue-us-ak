@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102148647",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-148.187082,64.81819,-148.187082,64.81819",
     "geom:latitude":64.81819,
     "geom:longitude":-148.187082,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4780 Old Nenana Hwy",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102148647",
-    "wof:lastmodified":1449069785,
+    "wof:lastmodified":1466313573,
     "wof:name":"Calypso Farm & Ecology Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-148.187082,64.81819,-148.187082,64.81819],
+  "bbox": [
+    -148.187082,
+    64.81819,
+    -148.187082,
+    64.81819
+],
   "geometry": {"coordinates":[-148.187082,64.81819],"type":"Point"}
 }

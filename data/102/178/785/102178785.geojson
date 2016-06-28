@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178785",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.380263,57.794452,-152.380263,57.794452",
     "geom:latitude":57.794452,
     "geom:longitude":-152.380263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1513 Kouskov St",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102178785",
-    "wof:lastmodified":1449069531,
+    "wof:lastmodified":1466314031,
     "wof:name":"Frontier Micro Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.380263,57.794452,-152.380263,57.794452],
-  "geometry": {"coordinates":[-152.380263,57.794452],"type":"Point"}
+  "bbox": [
+    -152.380263,
+    57.794452,
+    -152.380263,
+    57.794452
+],
+  "geometry": {"coordinates":[-152.38026300000001,57.794452],"type":"Point"}
 }

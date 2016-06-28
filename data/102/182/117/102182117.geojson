@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102182117",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.8272,56.012563,-132.8272,56.012563",
     "geom:latitude":56.012563,
     "geom:longitude":-132.8272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Bayview Ave",
     "sg:city":"Coffman Cove",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102182117",
-    "wof:lastmodified":1449069281,
+    "wof:lastmodified":1466314173,
     "wof:name":"Coffman Cove Wilderness Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.8272,56.012563,-132.8272,56.012563],
+  "bbox": [
+    -132.8272,
+    56.012563,
+    -132.8272,
+    56.012563
+],
   "geometry": {"coordinates":[-132.8272,56.012563],"type":"Point"}
 }

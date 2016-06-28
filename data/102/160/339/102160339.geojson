@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102160339",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.755136,61.114927,-149.755136,61.114927",
     "geom:latitude":61.114927,
     "geom:longitude":-149.755136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11800 Rockridge Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873745,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873745
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102160339",
-    "wof:lastmodified":1449069775,
+    "wof:lastmodified":1466313659,
     "wof:name":"Smythe Equipment Svc Co",
     "wof:parent_id":85873745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.755136,61.114927,-149.755136,61.114927],
-  "geometry": {"coordinates":[-149.755136,61.114927],"type":"Point"}
+  "bbox": [
+    -149.755136,
+    61.114927,
+    -149.755136,
+    61.114927
+],
+  "geometry": {"coordinates":[-149.75513599999999,61.114927],"type":"Point"}
 }

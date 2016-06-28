@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153461",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.689719,55.361496,-131.689719,55.361496",
     "geom:latitude":55.361496,
     "geom:longitude":-131.689719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3870 Evergreen Ave",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102153461",
-    "wof:lastmodified":1449069460,
+    "wof:lastmodified":1466313545,
     "wof:name":"Corner Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.689719,55.361496,-131.689719,55.361496],
+  "bbox": [
+    -131.689719,
+    55.361496,
+    -131.689719,
+    55.361496
+],
   "geometry": {"coordinates":[-131.689719,55.361496],"type":"Point"}
 }

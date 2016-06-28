@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102181965",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.392242,57.102942,-135.392242,57.102942",
     "geom:latitude":57.102942,
     "geom:longitude":-135.392242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Granite Creek Rd",
     "sg:city":"Sitka",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102181965",
-    "wof:lastmodified":1449069233,
+    "wof:lastmodified":1466314149,
     "wof:name":"Aggregate Construction Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.392242,57.102942,-135.392242,57.102942],
-  "geometry": {"coordinates":[-135.392242,57.102942],"type":"Point"}
+  "bbox": [
+    -135.392242,
+    57.102942,
+    -135.392242,
+    57.102942
+],
+  "geometry": {"coordinates":[-135.39224200000001,57.102942],"type":"Point"}
 }

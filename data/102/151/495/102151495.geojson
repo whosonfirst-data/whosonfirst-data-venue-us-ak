@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102151495",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.691919,55.361828,-131.691919,55.361828",
     "geom:latitude":55.361828,
     "geom:longitude":-131.691919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3855 Evergreen Ave",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102151495",
-    "wof:lastmodified":1449067779,
+    "wof:lastmodified":1466313492,
     "wof:name":"Wendte Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.691919,55.361828,-131.691919,55.361828],
-  "geometry": {"coordinates":[-131.691919,55.361828],"type":"Point"}
+  "bbox": [
+    -131.691919,
+    55.361828,
+    -131.691919,
+    55.361828
+],
+  "geometry": {"coordinates":[-131.69191900000001,55.361828],"type":"Point"}
 }

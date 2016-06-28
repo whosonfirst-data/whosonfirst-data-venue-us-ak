@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176871",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.183736,60.567309,-151.183736,60.567309",
     "geom:latitude":60.567309,
     "geom:longitude":-151.183736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1615 E Aliak Dr",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102176871",
-    "wof:lastmodified":1449069346,
+    "wof:lastmodified":1466314039,
     "wof:name":"Peninsula Marketing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.183736,60.567309,-151.183736,60.567309],
-  "geometry": {"coordinates":[-151.183736,60.567309],"type":"Point"}
+  "bbox": [
+    -151.183736,
+    60.567309,
+    -151.183736,
+    60.567309
+],
+  "geometry": {"coordinates":[-151.18373600000001,60.567309],"type":"Point"}
 }

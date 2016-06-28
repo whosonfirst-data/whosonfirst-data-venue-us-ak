@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192501",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.944983,61.181648,-149.944983,61.181648",
     "geom:latitude":61.181648,
     "geom:longitude":-149.944983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3250 Lake Park Cir",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850461,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85850461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102192501",
-    "wof:lastmodified":1449069506,
+    "wof:lastmodified":1466314242,
     "wof:name":"Sportman's Air Serivce",
     "wof:parent_id":85850461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.944983,61.181648,-149.944983,61.181648],
-  "geometry": {"coordinates":[-149.944983,61.181648],"type":"Point"}
+  "bbox": [
+    -149.944983,
+    61.181648,
+    -149.944983,
+    61.181648
+],
+  "geometry": {"coordinates":[-149.94498300000001,61.181648],"type":"Point"}
 }

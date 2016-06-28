@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102181523",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.356422,61.566903,-149.356422,61.566903",
     "geom:latitude":61.566903,
     "geom:longitude":-149.356422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 Carefree Dr",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102181523",
-    "wof:lastmodified":1449069235,
+    "wof:lastmodified":1466314082,
     "wof:name":"Onzarah",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.356422,61.566903,-149.356422,61.566903],
-  "geometry": {"coordinates":[-149.356422,61.566903],"type":"Point"}
+  "bbox": [
+    -149.356422,
+    61.566903,
+    -149.356422,
+    61.566903
+],
+  "geometry": {"coordinates":[-149.35642200000001,61.566903],"type":"Point"}
 }

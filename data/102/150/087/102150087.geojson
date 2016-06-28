@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102150087",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.921277,61.18561,-149.921277,61.18561",
     "geom:latitude":61.18561,
     "geom:longitude":-149.921277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3904 Spenard Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850461,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85850461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102150087",
-    "wof:lastmodified":1449067790,
+    "wof:lastmodified":1466313872,
     "wof:name":"Brown Jug Famous Liquor Stores",
     "wof:parent_id":85850461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.921277,61.18561,-149.921277,61.18561],
+  "bbox": [
+    -149.921277,
+    61.18561,
+    -149.921277,
+    61.18561
+],
   "geometry": {"coordinates":[-149.921277,61.18561],"type":"Point"}
 }

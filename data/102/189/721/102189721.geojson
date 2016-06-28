@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102189721",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.818759,55.471814,-131.818759,55.471814",
     "geom:latitude":55.471814,
     "geom:longitude":-131.818759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Beacon Hill Ln",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102189721",
-    "wof:lastmodified":1449069499,
+    "wof:lastmodified":1466313794,
     "wof:name":"Beacon Hill Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.818759,55.471814,-131.818759,55.471814],
+  "bbox": [
+    -131.818759,
+    55.471814,
+    -131.818759,
+    55.471814
+],
   "geometry": {"coordinates":[-131.818759,55.471814],"type":"Point"}
 }

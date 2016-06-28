@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102151693",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.272094,61.599492,-149.272094,61.599492",
     "geom:latitude":61.599492,
     "geom:longitude":-149.272094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7125 Finger Lake Ave",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102151693",
-    "wof:lastmodified":1449067778,
+    "wof:lastmodified":1466313527,
     "wof:name":"Railbelt Handyman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.272094,61.599492,-149.272094,61.599492],
-  "geometry": {"coordinates":[-149.272094,61.599492],"type":"Point"}
+  "bbox": [
+    -149.272094,
+    61.599492,
+    -149.272094,
+    61.599492
+],
+  "geometry": {"coordinates":[-149.27209400000001,61.599492],"type":"Point"}
 }

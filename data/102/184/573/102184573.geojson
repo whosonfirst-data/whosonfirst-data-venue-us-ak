@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184573",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.672076,55.349403,-131.672076,55.349403",
     "geom:latitude":55.349403,
     "geom:longitude":-131.672076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Washington St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102184573",
-    "wof:lastmodified":1449068217,
+    "wof:lastmodified":1466314144,
     "wof:name":"Child Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.672076,55.349403,-131.672076,55.349403],
+  "bbox": [
+    -131.672076,
+    55.349403,
+    -131.672076,
+    55.349403
+],
   "geometry": {"coordinates":[-131.672076,55.349403],"type":"Point"}
 }

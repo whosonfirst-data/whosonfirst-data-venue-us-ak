@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185993",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.866757,61.166466,-149.866757,61.166466",
     "geom:latitude":61.166466,
     "geom:longitude":-149.866757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"941 E Dowling Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.alliancebiblechurchak.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873723,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102185993",
-    "wof:lastmodified":1449068196,
+    "wof:lastmodified":1466314235,
     "wof:name":"Alliance Bible Church",
     "wof:parent_id":85873723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.866757,61.166466,-149.866757,61.166466],
-  "geometry": {"coordinates":[-149.866757,61.166466],"type":"Point"}
+  "bbox": [
+    -149.866757,
+    61.166466,
+    -149.866757,
+    61.166466
+],
+  "geometry": {"coordinates":[-149.86675700000001,61.166466],"type":"Point"}
 }

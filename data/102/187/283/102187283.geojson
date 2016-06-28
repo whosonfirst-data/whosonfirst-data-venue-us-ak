@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187283",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.072386,60.493898,-151.072386,60.493898",
     "geom:latitude":60.493898,
     "geom:longitude":-151.072386,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"265 N Binkley St",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102187283",
-    "wof:lastmodified":1449068159,
+    "wof:lastmodified":1466314205,
     "wof:name":"Peninsula Medical Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.072386,60.493898,-151.072386,60.493898],
-  "geometry": {"coordinates":[-151.072386,60.493898],"type":"Point"}
+  "bbox": [
+    -151.072386,
+    60.493898,
+    -151.072386,
+    60.493898
+],
+  "geometry": {"coordinates":[-151.07238599999999,60.493898],"type":"Point"}
 }

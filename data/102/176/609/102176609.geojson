@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176609",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.822017,61.094268,-149.822017,61.094268",
     "geom:latitude":61.094268,
     "geom:longitude":-149.822017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3243 de Armoun Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873753,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102176609",
-    "wof:lastmodified":1449069347,
+    "wof:lastmodified":1466313989,
     "wof:name":"Pacific Surveying Instruments",
     "wof:parent_id":85873753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.822017,61.094268,-149.822017,61.094268],
-  "geometry": {"coordinates":[-149.822017,61.094268],"type":"Point"}
+  "bbox": [
+    -149.822017,
+    61.094268,
+    -149.822017,
+    61.094268
+],
+  "geometry": {"coordinates":[-149.82201699999999,61.094268],"type":"Point"}
 }

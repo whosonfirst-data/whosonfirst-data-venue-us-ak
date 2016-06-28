@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102167663",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.353734,57.83553,-152.353734,57.83553",
     "geom:latitude":57.83553,
     "geom:longitude":-152.353734,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Abercrombie Dr",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102167663",
-    "wof:lastmodified":1449069002,
+    "wof:lastmodified":1466313805,
     "wof:name":"Detail Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.353734,57.83553,-152.353734,57.83553],
+  "bbox": [
+    -152.353734,
+    57.83553,
+    -152.353734,
+    57.83553
+],
   "geometry": {"coordinates":[-152.353734,57.83553],"type":"Point"}
 }

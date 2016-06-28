@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102149261",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.262956,60.553748,-151.262956,60.553748",
     "geom:latitude":60.553748,
     "geom:longitude":-151.262956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Overland Ave",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102149261",
-    "wof:lastmodified":1449067768,
+    "wof:lastmodified":1466313487,
     "wof:name":"Video Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.262956,60.553748,-151.262956,60.553748],
+  "bbox": [
+    -151.262956,
+    60.553748,
+    -151.262956,
+    60.553748
+],
   "geometry": {"coordinates":[-151.262956,60.553748],"type":"Point"}
 }

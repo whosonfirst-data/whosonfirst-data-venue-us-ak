@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185763",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.565513,64.895152,-147.565513,64.895152",
     "geom:latitude":64.895152,
     "geom:longitude":-147.565513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"741 Bennett Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102185763",
-    "wof:lastmodified":1449068198,
+    "wof:lastmodified":1466314167,
     "wof:name":"Saw Co Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.565513,64.895152,-147.565513,64.895152],
-  "geometry": {"coordinates":[-147.565513,64.895152],"type":"Point"}
+  "bbox": [
+    -147.565513,
+    64.895152,
+    -147.565513,
+    64.895152
+],
+  "geometry": {"coordinates":[-147.56551300000001,64.895152],"type":"Point"}
 }

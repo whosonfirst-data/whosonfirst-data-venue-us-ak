@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102193127",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.712911,64.822298,-147.712911,64.822298",
     "geom:latitude":64.822298,
     "geom:longitude":-147.712911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2712 Jesse St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102193127",
-    "wof:lastmodified":1449068193,
+    "wof:lastmodified":1466314268,
     "wof:name":"Club Manchu",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.712911,64.822298,-147.712911,64.822298],
-  "geometry": {"coordinates":[-147.712911,64.822298],"type":"Point"}
+  "bbox": [
+    -147.712911,
+    64.822298,
+    -147.712911,
+    64.822298
+],
+  "geometry": {"coordinates":[-147.71291099999999,64.822298],"type":"Point"}
 }

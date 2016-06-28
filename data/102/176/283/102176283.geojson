@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176283",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.73355,61.216583,-149.73355,61.216583",
     "geom:latitude":61.216583,
     "geom:longitude":-149.73355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"624 Muldoon Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873731,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102176283",
-    "wof:lastmodified":1449069346,
+    "wof:lastmodified":1466313927,
     "wof:name":"J J's Lounge Inc",
     "wof:parent_id":85873731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.73355,61.216583,-149.73355,61.216583],
-  "geometry": {"coordinates":[-149.73355,61.216583],"type":"Point"}
+  "bbox": [
+    -149.73355,
+    61.216583,
+    -149.73355,
+    61.216583
+],
+  "geometry": {"coordinates":[-149.73355000000001,61.216583],"type":"Point"}
 }

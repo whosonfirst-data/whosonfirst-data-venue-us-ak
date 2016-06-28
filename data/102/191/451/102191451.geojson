@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191451",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.755199,64.817555,-147.755199,64.817555",
     "geom:latitude":64.817555,
     "geom:longitude":-147.755199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3210 Industrial Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.nationalauto.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102191451",
-    "wof:lastmodified":1449069201,
+    "wof:lastmodified":1466314104,
     "wof:name":"National Auto & Truck Svc",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.755199,64.817555,-147.755199,64.817555],
+  "bbox": [
+    -147.755199,
+    64.817555,
+    -147.755199,
+    64.817555
+],
   "geometry": {"coordinates":[-147.755199,64.817555],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102181565",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.419319,58.30225,-134.419319,58.30225",
     "geom:latitude":58.30225,
     "geom:longitude":-134.419319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 C St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102181565",
-    "wof:lastmodified":1449069236,
+    "wof:lastmodified":1466314090,
     "wof:name":"Haffner's Sharp All",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.419319,58.30225,-134.419319,58.30225],
+  "bbox": [
+    -134.419319,
+    58.30225,
+    -134.419319,
+    58.30225
+],
   "geometry": {"coordinates":[-134.419319,58.30225],"type":"Point"}
 }

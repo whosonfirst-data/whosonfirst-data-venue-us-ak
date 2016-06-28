@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153509",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.284979,60.560421,-151.284979,60.560421",
     "geom:latitude":60.560421,
     "geom:longitude":-151.284979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12498 Kenai Spur Hwy",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102153509",
-    "wof:lastmodified":1449069461,
+    "wof:lastmodified":1466313555,
     "wof:name":"Trapper Johns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.284979,60.560421,-151.284979,60.560421],
-  "geometry": {"coordinates":[-151.284979,60.560421],"type":"Point"}
+  "bbox": [
+    -151.284979,
+    60.560421,
+    -151.284979,
+    60.560421
+],
+  "geometry": {"coordinates":[-151.28497899999999,60.560421],"type":"Point"}
 }

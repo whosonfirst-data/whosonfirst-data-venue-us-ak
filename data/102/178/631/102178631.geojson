@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178631",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.11642,61.600351,-149.11642,61.600351",
     "geom:latitude":61.600351,
     "geom:longitude":-149.11642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 S Bailey St",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102178631",
-    "wof:lastmodified":1449069530,
+    "wof:lastmodified":1466313999,
     "wof:name":"Young Bookkeeping Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.11642,61.600351,-149.11642,61.600351],
-  "geometry": {"coordinates":[-149.11642,61.600351],"type":"Point"}
+  "bbox": [
+    -149.11642,
+    61.600351,
+    -149.11642,
+    61.600351
+],
+  "geometry": {"coordinates":[-149.11642000000001,61.600351],"type":"Point"}
 }

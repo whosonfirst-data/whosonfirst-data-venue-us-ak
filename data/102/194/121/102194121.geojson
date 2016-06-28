@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102194121",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.83745,64.816407,-147.83745,64.816407",
     "geom:latitude":64.816407,
     "geom:longitude":-147.83745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3616 University Ave S",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102194121",
-    "wof:lastmodified":1449069829,
+    "wof:lastmodified":1466314211,
     "wof:name":"Hangar No 1",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.83745,64.816407,-147.83745,64.816407],
-  "geometry": {"coordinates":[-147.83745,64.816407],"type":"Point"}
+  "bbox": [
+    -147.83745,
+    64.816407,
+    -147.83745,
+    64.816407
+],
+  "geometry": {"coordinates":[-147.83744999999999,64.816407],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102182339",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.443496,59.24265,-135.443496,59.24265",
     "geom:latitude":59.24265,
     "geom:longitude":-135.443496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"949 Oslund Dr E",
     "sg:city":"Haines",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842771,
+        85688573,
         85633793,
         85916629,
         102083767,
-        85688573
+        85842771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102182339",
-    "wof:lastmodified":1449069281,
+    "wof:lastmodified":1466314089,
     "wof:name":"Dead Tree Design",
     "wof:parent_id":85842771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.443496,59.24265,-135.443496,59.24265],
-  "geometry": {"coordinates":[-135.443496,59.24265],"type":"Point"}
+  "bbox": [
+    -135.443496,
+    59.24265,
+    -135.443496,
+    59.24265
+],
+  "geometry": {"coordinates":[-135.44349600000001,59.24265],"type":"Point"}
 }

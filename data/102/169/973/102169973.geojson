@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102169973",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.733405,61.217458,-149.733405,61.217458",
     "geom:latitude":61.217458,
     "geom:longitude":-149.733405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"545 Muldoon Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873731,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102169973",
-    "wof:lastmodified":1449069247,
+    "wof:lastmodified":1466313904,
     "wof:name":"2-Go Tesoro",
     "wof:parent_id":85873731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.733405,61.217458,-149.733405,61.217458],
+  "bbox": [
+    -149.733405,
+    61.217458,
+    -149.733405,
+    61.217458
+],
   "geometry": {"coordinates":[-149.733405,61.217458],"type":"Point"}
 }

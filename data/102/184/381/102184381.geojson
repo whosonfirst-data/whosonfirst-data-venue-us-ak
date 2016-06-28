@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184381",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.407087,57.789908,-152.407087,57.789908",
     "geom:latitude":57.789908,
     "geom:longitude":-152.407087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Lower Mill Bay Rd",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102184381",
-    "wof:lastmodified":1449068216,
+    "wof:lastmodified":1466314119,
     "wof:name":"Cy's Sporting Goods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.407087,57.789908,-152.407087,57.789908],
-  "geometry": {"coordinates":[-152.407087,57.789908],"type":"Point"}
+  "bbox": [
+    -152.407087,
+    57.789908,
+    -152.407087,
+    57.789908
+],
+  "geometry": {"coordinates":[-152.40708699999999,57.789908],"type":"Point"}
 }

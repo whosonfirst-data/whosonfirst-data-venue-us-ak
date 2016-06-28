@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102161395",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.18946,60.56546,-151.18946,60.56546",
     "geom:latitude":60.56546,
     "geom:longitude":-151.18946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Baker St",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102161395",
-    "wof:lastmodified":1449068714,
+    "wof:lastmodified":1466314129,
     "wof:name":"Darc Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.18946,60.56546,-151.18946,60.56546],
+  "bbox": [
+    -151.18946,
+    60.56546,
+    -151.18946,
+    60.56546
+],
   "geometry": {"coordinates":[-151.18946,60.56546],"type":"Point"}
 }

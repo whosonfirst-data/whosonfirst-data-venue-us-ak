@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102183247",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-158.464244,59.039139,-158.464244,59.039139",
     "geom:latitude":59.039139,
     "geom:longitude":-158.464244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Main St E",
     "sg:city":"Dillingham",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102183247",
-    "wof:lastmodified":1449069043,
+    "wof:lastmodified":1466314086,
     "wof:name":"Bush Outfitters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-158.464244,59.039139,-158.464244,59.039139],
-  "geometry": {"coordinates":[-158.464244,59.039139],"type":"Point"}
+  "bbox": [
+    -158.464244,
+    59.039139,
+    -158.464244,
+    59.039139
+],
+  "geometry": {"coordinates":[-158.46424400000001,59.039139],"type":"Point"}
 }

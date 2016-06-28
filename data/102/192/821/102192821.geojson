@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192821",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.739046,64.834608,-147.739046,64.834608",
     "geom:latitude":64.834608,
     "geom:longitude":-147.739046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1650 Cowles St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848979,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85848979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":"102192821",
-    "wof:lastmodified":1449069503,
+    "wof:lastmodified":1466314247,
     "wof:name":"Family Recovery Ctr",
     "wof:parent_id":85848979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.739046,64.834608,-147.739046,64.834608],
+  "bbox": [
+    -147.739046,
+    64.834608,
+    -147.739046,
+    64.834608
+],
   "geometry": {"coordinates":[-147.739046,64.834608],"type":"Point"}
 }

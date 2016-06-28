@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102159337",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.871095,61.212941,-149.871095,61.212941",
     "geom:latitude":61.212941,
     "geom:longitude":-149.871095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 Gambell St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873717,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102159337",
-    "wof:lastmodified":1449068094,
+    "wof:lastmodified":1466313590,
     "wof:name":"Golden Fry Chicken & Burger",
     "wof:parent_id":85873717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.871095,61.212941,-149.871095,61.212941],
+  "bbox": [
+    -149.871095,
+    61.212941,
+    -149.871095,
+    61.212941
+],
   "geometry": {"coordinates":[-149.871095,61.212941],"type":"Point"}
 }

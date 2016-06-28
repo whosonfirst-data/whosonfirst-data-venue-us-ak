@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102162707",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.969513,61.183029,-149.969513,61.183029",
     "geom:latitude":61.183029,
     "geom:longitude":-149.969513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4131 Floatplane Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.akaircraftsales.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852831,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85852831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102162707",
-    "wof:lastmodified":1449069823,
+    "wof:lastmodified":1466313791,
     "wof:name":"Alaska Aircraft Sales & Mntnc",
     "wof:parent_id":85852831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.969513,61.183029,-149.969513,61.183029],
-  "geometry": {"coordinates":[-149.969513,61.183029],"type":"Point"}
+  "bbox": [
+    -149.969513,
+    61.183029,
+    -149.969513,
+    61.183029
+],
+  "geometry": {"coordinates":[-149.96951300000001,61.183029],"type":"Point"}
 }

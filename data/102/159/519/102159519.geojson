@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102159519",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.872724,64.83,-147.872724,64.83",
     "geom:latitude":64.83,
     "geom:longitude":-147.872724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5125 Hardland Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102159519",
-    "wof:lastmodified":1449068096,
+    "wof:lastmodified":1466313627,
     "wof:name":"Galena Avionics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.872724,64.83,-147.872724,64.83],
-  "geometry": {"coordinates":[-147.872724,64.83],"type":"Point"}
+  "bbox": [
+    -147.872724,
+    64.83,
+    -147.872724,
+    64.83
+],
+  "geometry": {"coordinates":[-147.87272400000001,64.83],"type":"Point"}
 }

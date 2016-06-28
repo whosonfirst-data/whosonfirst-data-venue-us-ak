@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102154551",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.866127,61.114017,-149.866127,61.114017",
     "geom:latitude":61.114017,
     "geom:longitude":-149.866127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11801 Gambell St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.quessak.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873755,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102154551",
-    "wof:lastmodified":1449070243,
+    "wof:lastmodified":1466313559,
     "wof:name":"Quality Equipment Sales & Svc",
     "wof:parent_id":85873755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.866127,61.114017,-149.866127,61.114017],
-  "geometry": {"coordinates":[-149.866127,61.114017],"type":"Point"}
+  "bbox": [
+    -149.866127,
+    61.114017,
+    -149.866127,
+    61.114017
+],
+  "geometry": {"coordinates":[-149.86612700000001,61.114017],"type":"Point"}
 }

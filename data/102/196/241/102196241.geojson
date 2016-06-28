@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102196241",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.723834,64.846316,-147.723834,64.846316",
     "geom:latitude":64.846316,
     "geom:longitude":-147.723834,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"809 Pioneer Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848979,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85848979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102196241",
-    "wof:lastmodified":1449068339,
+    "wof:lastmodified":1466314304,
     "wof:name":"Fairbanks Public Works Dept",
     "wof:parent_id":85848979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.723834,64.846316,-147.723834,64.846316],
-  "geometry": {"coordinates":[-147.723834,64.846316],"type":"Point"}
+  "bbox": [
+    -147.723834,
+    64.846316,
+    -147.723834,
+    64.846316
+],
+  "geometry": {"coordinates":[-147.72383400000001,64.846316],"type":"Point"}
 }

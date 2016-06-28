@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191037",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.28142,64.767597,-147.28142,64.767597",
     "geom:latitude":64.767597,
     "geom:longitude":-147.28142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2186 Onyx Rd",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102191037",
-    "wof:lastmodified":1449069203,
+    "wof:lastmodified":1466314048,
     "wof:name":"T & D Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.28142,64.767597,-147.28142,64.767597],
-  "geometry": {"coordinates":[-147.28142,64.767597],"type":"Point"}
+  "bbox": [
+    -147.28142,
+    64.767597,
+    -147.28142,
+    64.767597
+],
+  "geometry": {"coordinates":[-147.28142,64.76759699999999],"type":"Point"}
 }

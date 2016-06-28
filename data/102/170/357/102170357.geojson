@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102170357",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.438586,59.608072,-151.438586,59.608072",
     "geom:latitude":59.608072,
     "geom:longitude":-151.438586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4350 Homer Spit Rd",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102170357",
-    "wof:lastmodified":1449068019,
+    "wof:lastmodified":1466313802,
     "wof:name":"City Of Homer Port & Harbor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.438586,59.608072,-151.438586,59.608072],
-  "geometry": {"coordinates":[-151.438586,59.608072],"type":"Point"}
+  "bbox": [
+    -151.438586,
+    59.608072,
+    -151.438586,
+    59.608072
+],
+  "geometry": {"coordinates":[-151.43858599999999,59.608072],"type":"Point"}
 }

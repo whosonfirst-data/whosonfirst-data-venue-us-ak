@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171193",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.246928,60.559193,-151.246928,60.559193",
     "geom:latitude":60.559193,
     "geom:longitude":-151.246928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Main St Lp",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102171193",
-    "wof:lastmodified":1449070221,
+    "wof:lastmodified":1466313839,
     "wof:name":"Kenai Peninsula Youth Court",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.246928,60.559193,-151.246928,60.559193],
+  "bbox": [
+    -151.246928,
+    60.559193,
+    -151.246928,
+    60.559193
+],
   "geometry": {"coordinates":[-151.246928,60.559193],"type":"Point"}
 }

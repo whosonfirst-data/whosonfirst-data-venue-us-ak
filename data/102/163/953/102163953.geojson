@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102163953",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.555598,61.323561,-149.555598,61.323561",
     "geom:latitude":61.323561,
     "geom:longitude":-149.555598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11416 Echo St",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102163953",
-    "wof:lastmodified":1449070165,
+    "wof:lastmodified":1466313842,
     "wof:name":"Hunter's Horns Taxidermy Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.555598,61.323561,-149.555598,61.323561],
+  "bbox": [
+    -149.555598,
+    61.323561,
+    -149.555598,
+    61.323561
+],
   "geometry": {"coordinates":[-149.555598,61.323561],"type":"Point"}
 }

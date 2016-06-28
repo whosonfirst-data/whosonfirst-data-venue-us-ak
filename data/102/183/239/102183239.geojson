@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102183239",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.75446,64.854391,-147.75446,64.854391",
     "geom:latitude":64.854391,
     "geom:longitude":-147.75446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1007 Evergreen St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869043,
+        85688573,
         85633793,
         85916609,
         102081397,
-        85688573
+        85869043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102183239",
-    "wof:lastmodified":1449069041,
+    "wof:lastmodified":1466314085,
     "wof:name":"Kid'n Around",
     "wof:parent_id":85869043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.75446,64.854391,-147.75446,64.854391],
-  "geometry": {"coordinates":[-147.75446,64.854391],"type":"Point"}
+  "bbox": [
+    -147.75446,
+    64.854391,
+    -147.75446,
+    64.854391
+],
+  "geometry": {"coordinates":[-147.75445999999999,64.85439100000001],"type":"Point"}
 }

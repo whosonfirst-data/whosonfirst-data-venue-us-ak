@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184687",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.902315,61.196146,-149.902315,61.196146",
     "geom:latitude":61.196146,
     "geom:longitude":-149.902315,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1058 W 27th Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.puffininn.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873713,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102184687",
-    "wof:lastmodified":1449068215,
+    "wof:lastmodified":1466314218,
     "wof:name":"Chandler Inn",
     "wof:parent_id":85873713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.902315,61.196146,-149.902315,61.196146],
-  "geometry": {"coordinates":[-149.902315,61.196146],"type":"Point"}
+  "bbox": [
+    -149.902315,
+    61.196146,
+    -149.902315,
+    61.196146
+],
+  "geometry": {"coordinates":[-149.90231499999999,61.196146],"type":"Point"}
 }

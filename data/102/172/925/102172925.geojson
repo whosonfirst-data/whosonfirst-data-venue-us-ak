@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172925",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.953699,56.810001,-132.953699,56.810001",
     "geom:latitude":56.810001,
     "geom:longitude":-132.953699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 S 3rd St",
     "sg:city":"Petersburg",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102172925",
-    "wof:lastmodified":1449068735,
+    "wof:lastmodified":1466314029,
     "wof:name":"Steppin Out",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.953699,56.810001,-132.953699,56.810001],
+  "bbox": [
+    -132.953699,
+    56.810001,
+    -132.953699,
+    56.810001
+],
   "geometry": {"coordinates":[-132.953699,56.810001],"type":"Point"}
 }

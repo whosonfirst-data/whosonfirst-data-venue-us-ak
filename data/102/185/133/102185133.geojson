@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185133",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.120954,60.471273,-151.120954,60.471273",
     "geom:latitude":60.471273,
     "geom:longitude":-151.120954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34870 Polar St",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102185133",
-    "wof:lastmodified":1449068198,
+    "wof:lastmodified":1466314088,
     "wof:name":"Stay Well Chiropractic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.120954,60.471273,-151.120954,60.471273],
-  "geometry": {"coordinates":[-151.120954,60.471273],"type":"Point"}
+  "bbox": [
+    -151.120954,
+    60.471273,
+    -151.120954,
+    60.471273
+],
+  "geometry": {"coordinates":[-151.12095400000001,60.471273],"type":"Point"}
 }

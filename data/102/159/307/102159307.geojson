@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102159307",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.32113,64.750487,-147.32113,64.750487",
     "geom:latitude":64.750487,
     "geom:longitude":-147.32113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3220 Kris Kringle Dr",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102159307",
-    "wof:lastmodified":1449068092,
+    "wof:lastmodified":1466313584,
     "wof:name":"Data Resource Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.32113,64.750487,-147.32113,64.750487],
-  "geometry": {"coordinates":[-147.32113,64.750487],"type":"Point"}
+  "bbox": [
+    -147.32113,
+    64.750487,
+    -147.32113,
+    64.750487
+],
+  "geometry": {"coordinates":[-147.32113000000001,64.75048700000001],"type":"Point"}
 }

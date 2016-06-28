@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102151763",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.64541,55.342144,-131.64541,55.342144",
     "geom:latitude":55.342144,
     "geom:longitude":-131.64541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"435 Dock St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102151763",
-    "wof:lastmodified":1449067782,
+    "wof:lastmodified":1466313541,
     "wof:name":"Chico's Mexican Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.64541,55.342144,-131.64541,55.342144],
+  "bbox": [
+    -131.64541,
+    55.342144,
+    -131.64541,
+    55.342144
+],
   "geometry": {"coordinates":[-131.64541,55.342144],"type":"Point"}
 }

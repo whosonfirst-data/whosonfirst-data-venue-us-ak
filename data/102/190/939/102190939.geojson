@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102190939",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.885659,64.814912,-147.885659,64.814912",
     "geom:latitude":64.814912,
     "geom:longitude":-147.885659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5400 Mail Trl",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102190939",
-    "wof:lastmodified":1449070033,
+    "wof:lastmodified":1466314031,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.885659,64.814912,-147.885659,64.814912],
-  "geometry": {"coordinates":[-147.885659,64.814912],"type":"Point"}
+  "bbox": [
+    -147.885659,
+    64.814912,
+    -147.885659,
+    64.814912
+],
+  "geometry": {"coordinates":[-147.885659,64.81491200000001],"type":"Point"}
 }

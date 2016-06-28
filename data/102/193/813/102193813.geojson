@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102193813",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.583874,64.930353,-147.583874,64.930353",
     "geom:latitude":64.930353,
     "geom:longitude":-147.583874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"690 Hardrock Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102193813",
-    "wof:lastmodified":1449068193,
+    "wof:lastmodified":1466314280,
     "wof:name":"Snowed In Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.583874,64.930353,-147.583874,64.930353],
-  "geometry": {"coordinates":[-147.583874,64.930353],"type":"Point"}
+  "bbox": [
+    -147.583874,
+    64.930353,
+    -147.583874,
+    64.930353
+],
+  "geometry": {"coordinates":[-147.58387400000001,64.930353],"type":"Point"}
 }

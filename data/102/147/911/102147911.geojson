@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102147911",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.683198,64.816543,-147.683198,64.816543",
     "geom:latitude":64.816543,
     "geom:longitude":-147.683198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Williams Gate Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102147911",
-    "wof:lastmodified":1449069928,
+    "wof:lastmodified":1466313480,
     "wof:name":"AAA Lundeen's Body Shop",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.683198,64.816543,-147.683198,64.816543],
+  "bbox": [
+    -147.683198,
+    64.816543,
+    -147.683198,
+    64.816543
+],
   "geometry": {"coordinates":[-147.683198,64.816543],"type":"Point"}
 }

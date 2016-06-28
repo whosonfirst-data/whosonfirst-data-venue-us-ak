@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102158151",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.845339,61.232368,-149.845339,61.232368",
     "geom:latitude":61.232368,
     "geom:longitude":-149.845339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4241 Finletter Ave",
     "sg:city":"Elmendorf Afb",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873711,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102158151",
-    "wof:lastmodified":1449069389,
+    "wof:lastmodified":1466313537,
     "wof:name":"Elmendorf Housing Svc Calls",
     "wof:parent_id":85873711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.845339,61.232368,-149.845339,61.232368],
+  "bbox": [
+    -149.845339,
+    61.232368,
+    -149.845339,
+    61.232368
+],
   "geometry": {"coordinates":[-149.845339,61.232368],"type":"Point"}
 }

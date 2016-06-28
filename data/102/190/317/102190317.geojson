@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102190317",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.830967,64.842342,-147.830967,64.842342",
     "geom:latitude":64.842342,
     "geom:longitude":-147.830967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4101 Willys Ln",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856935,
+        85688573,
         85633793,
         85916609,
         102081397,
-        85688573
+        85856935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102190317",
-    "wof:lastmodified":1449070034,
+    "wof:lastmodified":1466313915,
     "wof:name":"Summit General Contractor",
     "wof:parent_id":85856935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.830967,64.842342,-147.830967,64.842342],
-  "geometry": {"coordinates":[-147.830967,64.842342],"type":"Point"}
+  "bbox": [
+    -147.830967,
+    64.842342,
+    -147.830967,
+    64.842342
+],
+  "geometry": {"coordinates":[-147.83096699999999,64.842342],"type":"Point"}
 }

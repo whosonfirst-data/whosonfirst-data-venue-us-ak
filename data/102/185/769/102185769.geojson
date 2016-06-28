@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185769",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.445738,59.234962,-135.445738,59.234962",
     "geom:latitude":59.234962,
     "geom:longitude":-135.445738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Main St",
     "sg:city":"Haines",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842771,
+        85688573,
         85633793,
         85916629,
         102083767,
-        85688573
+        85842771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102185769",
-    "wof:lastmodified":1449068195,
+    "wof:lastmodified":1466314223,
     "wof:name":"Tlingit Haida",
     "wof:parent_id":85842771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.445738,59.234962,-135.445738,59.234962],
-  "geometry": {"coordinates":[-135.445738,59.234962],"type":"Point"}
+  "bbox": [
+    -135.445738,
+    59.234962,
+    -135.445738,
+    59.234962
+],
+  "geometry": {"coordinates":[-135.44573800000001,59.234962],"type":"Point"}
 }

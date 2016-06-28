@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176545",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.884522,61.181177,-149.884522,61.181177",
     "geom:latitude":61.181177,
     "geom:longitude":-149.884522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4040 B St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.dowl.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873723,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102176545",
-    "wof:lastmodified":1449069347,
+    "wof:lastmodified":1466313977,
     "wof:name":"Dowl Engineers/Alaska Testlab",
     "wof:parent_id":85873723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.884522,61.181177,-149.884522,61.181177],
+  "bbox": [
+    -149.884522,
+    61.181177,
+    -149.884522,
+    61.181177
+],
   "geometry": {"coordinates":[-149.884522,61.181177],"type":"Point"}
 }

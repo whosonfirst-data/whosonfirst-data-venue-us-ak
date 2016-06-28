@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102188179",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.664451,55.347333,-131.664451,55.347333",
     "geom:latitude":55.347333,
     "geom:longitude":-131.664451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1638 Tongass Ave",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102188179",
-    "wof:lastmodified":1449068949,
+    "wof:lastmodified":1466313484,
     "wof:name":"Dick's Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.664451,55.347333,-131.664451,55.347333],
-  "geometry": {"coordinates":[-131.664451,55.347333],"type":"Point"}
+  "bbox": [
+    -131.664451,
+    55.347333,
+    -131.664451,
+    55.347333
+],
+  "geometry": {"coordinates":[-131.66445100000001,55.347333],"type":"Point"}
 }

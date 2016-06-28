@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166979",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-165.414627,64.499063,-165.414627,64.499063",
     "geom:latitude":64.499063,
     "geom:longitude":-165.414627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 W 1st Ave",
     "sg:city":"Nome",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102166979",
-    "wof:lastmodified":1449069085,
+    "wof:lastmodified":1466313861,
     "wof:name":"Johnson CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-165.414627,64.499063,-165.414627,64.499063],
-  "geometry": {"coordinates":[-165.414627,64.499063],"type":"Point"}
+  "bbox": [
+    -165.414627,
+    64.499063,
+    -165.414627,
+    64.499063
+],
+  "geometry": {"coordinates":[-165.414627,64.49906300000001],"type":"Point"}
 }

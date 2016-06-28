@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102148215",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.878828,61.138274,-149.878828,61.138274",
     "geom:latitude":61.138274,
     "geom:longitude":-149.878828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9135 King St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809155,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85809155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":"102148215",
-    "wof:lastmodified":1449069787,
+    "wof:lastmodified":1466313484,
     "wof:name":"Stgeorge Chadux Corporation",
     "wof:parent_id":85809155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.878828,61.138274,-149.878828,61.138274],
+  "bbox": [
+    -149.878828,
+    61.138274,
+    -149.878828,
+    61.138274
+],
   "geometry": {"coordinates":[-149.878828,61.138274],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102167275",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.686276,64.843561,-147.686276,64.843561",
     "geom:latitude":64.843561,
     "geom:longitude":-147.686276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Glacier Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823671,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85823671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102167275",
-    "wof:lastmodified":1449069001,
+    "wof:lastmodified":1466313725,
     "wof:name":"Pingo Books",
     "wof:parent_id":85823671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.686276,64.843561,-147.686276,64.843561],
-  "geometry": {"coordinates":[-147.686276,64.843561],"type":"Point"}
+  "bbox": [
+    -147.686276,
+    64.843561,
+    -147.686276,
+    64.843561
+],
+  "geometry": {"coordinates":[-147.68627599999999,64.84356099999999],"type":"Point"}
 }

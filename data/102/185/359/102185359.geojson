@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185359",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.309257,61.583026,-149.309257,61.583026",
     "geom:latitude":61.583026,
     "geom:longitude":-149.309257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5600 Yadon Dr",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102185359",
-    "wof:lastmodified":1449068195,
+    "wof:lastmodified":1466314118,
     "wof:name":"Roaring River Logging Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.309257,61.583026,-149.309257,61.583026],
+  "bbox": [
+    -149.309257,
+    61.583026,
+    -149.309257,
+    61.583026
+],
   "geometry": {"coordinates":[-149.309257,61.583026],"type":"Point"}
 }

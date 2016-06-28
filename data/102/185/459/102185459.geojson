@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185459",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.755318,64.862575,-147.755318,64.862575",
     "geom:latitude":64.862575,
     "geom:longitude":-147.755318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Spruce St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.pyounker.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869043,
+        85688573,
         85633793,
         85916609,
         102081397,
-        85688573
+        85869043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102185459",
-    "wof:lastmodified":1449068197,
+    "wof:lastmodified":1466314132,
     "wof:name":"Phil A Younker & Assoc LTD",
     "wof:parent_id":85869043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.755318,64.862575,-147.755318,64.862575],
-  "geometry": {"coordinates":[-147.755318,64.862575],"type":"Point"}
+  "bbox": [
+    -147.755318,
+    64.862575,
+    -147.755318,
+    64.862575
+],
+  "geometry": {"coordinates":[-147.75531799999999,64.86257500000001],"type":"Point"}
 }

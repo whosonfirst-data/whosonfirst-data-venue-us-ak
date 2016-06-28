@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102169189",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.829524,64.845335,-147.829524,64.845335",
     "geom:latitude":64.845335,
     "geom:longitude":-147.829524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"557 Fairbanks St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856935,
+        85688573,
         85633793,
         85916609,
         102081397,
-        85688573
+        85856935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102169189",
-    "wof:lastmodified":1449069249,
+    "wof:lastmodified":1466313748,
     "wof:name":"AAAA Care Bed & Breakfast",
     "wof:parent_id":85856935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.829524,64.845335,-147.829524,64.845335],
-  "geometry": {"coordinates":[-147.829524,64.845335],"type":"Point"}
+  "bbox": [
+    -147.829524,
+    64.845335,
+    -147.829524,
+    64.845335
+],
+  "geometry": {"coordinates":[-147.82952399999999,64.84533500000001],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102160855",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.072199,60.485382,-151.072199,60.485382",
     "geom:latitude":60.485382,
     "geom:longitude":-151.072199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"158 S Binkley St",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102160855",
-    "wof:lastmodified":1449069778,
+    "wof:lastmodified":1466313766,
     "wof:name":"Soldotna United Methodist Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.072199,60.485382,-151.072199,60.485382],
-  "geometry": {"coordinates":[-151.072199,60.485382],"type":"Point"}
+  "bbox": [
+    -151.072199,
+    60.485382,
+    -151.072199,
+    60.485382
+],
+  "geometry": {"coordinates":[-151.07219900000001,60.485382],"type":"Point"}
 }

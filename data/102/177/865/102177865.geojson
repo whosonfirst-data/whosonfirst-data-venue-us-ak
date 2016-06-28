@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102177865",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.446084,59.233023,-135.446084,59.233023",
     "geom:latitude":59.233023,
     "geom:longitude":-135.446084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 2nd Ave",
     "sg:city":"Haines",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842771,
+        85688573,
         85633793,
         85916629,
         102083767,
-        85688573
+        85842771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102177865",
-    "wof:lastmodified":1449070208,
+    "wof:lastmodified":1466314039,
     "wof:name":"Far North",
     "wof:parent_id":85842771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.446084,59.233023,-135.446084,59.233023],
-  "geometry": {"coordinates":[-135.446084,59.233023],"type":"Point"}
+  "bbox": [
+    -135.446084,
+    59.233023,
+    -135.446084,
+    59.233023
+],
+  "geometry": {"coordinates":[-135.44608400000001,59.233023],"type":"Point"}
 }

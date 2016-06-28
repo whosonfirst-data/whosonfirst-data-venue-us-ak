@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185409",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.733743,61.195369,-149.733743,61.195369",
     "geom:latitude":61.195369,
     "geom:longitude":-149.733743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7525 E Northern Lights Blvd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873735,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102185409",
-    "wof:lastmodified":1449068197,
+    "wof:lastmodified":1466314206,
     "wof:name":"Jewish Education Ctr",
     "wof:parent_id":85873735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.733743,61.195369,-149.733743,61.195369],
+  "bbox": [
+    -149.733743,
+    61.195369,
+    -149.733743,
+    61.195369
+],
   "geometry": {"coordinates":[-149.733743,61.195369],"type":"Point"}
 }

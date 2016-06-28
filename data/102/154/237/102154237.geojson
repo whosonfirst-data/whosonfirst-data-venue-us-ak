@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102154237",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.765898,64.814566,-147.765898,64.814566",
     "geom:latitude":64.814566,
     "geom:longitude":-147.765898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2143 Standard Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102154237",
-    "wof:lastmodified":1449070242,
+    "wof:lastmodified":1466313497,
     "wof:name":"Aaron Plumbing & Heating",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.765898,64.814566,-147.765898,64.814566],
-  "geometry": {"coordinates":[-147.765898,64.814566],"type":"Point"}
+  "bbox": [
+    -147.765898,
+    64.814566,
+    -147.765898,
+    64.814566
+],
+  "geometry": {"coordinates":[-147.76589799999999,64.814566],"type":"Point"}
 }

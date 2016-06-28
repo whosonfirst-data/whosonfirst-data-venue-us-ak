@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102164287",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.740544,61.19822,-149.740544,61.19822",
     "geom:latitude":61.19822,
     "geom:longitude":-149.740544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7500 Tyone Ct",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873735,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102164287",
-    "wof:lastmodified":1449068085,
+    "wof:lastmodified":1466313716,
     "wof:name":"Camp Fire Alaska Council",
     "wof:parent_id":85873735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.740544,61.19822,-149.740544,61.19822],
+  "bbox": [
+    -149.740544,
+    61.19822,
+    -149.740544,
+    61.19822
+],
   "geometry": {"coordinates":[-149.740544,61.19822],"type":"Point"}
 }

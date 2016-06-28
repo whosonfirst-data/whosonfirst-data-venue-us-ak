@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155071",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.469328,58.329585,-134.469328,58.329585",
     "geom:latitude":58.329585,
     "geom:longitude":-134.469328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3239 Hospital Dr",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.ccthita-vtrc.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853509,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85853509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102155071",
-    "wof:lastmodified":1449069743,
+    "wof:lastmodified":1466313474,
     "wof:name":"Vocational Training & Resource",
     "wof:parent_id":85853509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.469328,58.329585,-134.469328,58.329585],
-  "geometry": {"coordinates":[-134.469328,58.329585],"type":"Point"}
+  "bbox": [
+    -134.469328,
+    58.329585,
+    -134.469328,
+    58.329585
+],
+  "geometry": {"coordinates":[-134.46932799999999,58.329585],"type":"Point"}
 }

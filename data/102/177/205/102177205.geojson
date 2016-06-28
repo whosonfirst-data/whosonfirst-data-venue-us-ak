@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102177205",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-161.778522,60.795939,-161.778522,60.795939",
     "geom:latitude":60.795939,
     "geom:longitude":-161.778522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"519 Mission Dr",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102177205",
-    "wof:lastmodified":1449070208,
+    "wof:lastmodified":1466314142,
     "wof:name":"Bethel Youth Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-161.778522,60.795939,-161.778522,60.795939],
-  "geometry": {"coordinates":[-161.778522,60.795939],"type":"Point"}
+  "bbox": [
+    -161.778522,
+    60.795939,
+    -161.778522,
+    60.795939
+],
+  "geometry": {"coordinates":[-161.77852200000001,60.795939],"type":"Point"}
 }

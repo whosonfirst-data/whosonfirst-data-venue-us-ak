@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102188667",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.890525,61.189752,-149.890525,61.189752",
     "geom:latitude":61.189752,
     "geom:longitude":-149.890525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3321 Eureka St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873723,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102188667",
-    "wof:lastmodified":1449068947,
+    "wof:lastmodified":1466313578,
     "wof:name":"Continental Apartments",
     "wof:parent_id":85873723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.890525,61.189752,-149.890525,61.189752],
+  "bbox": [
+    -149.890525,
+    61.189752,
+    -149.890525,
+    61.189752
+],
   "geometry": {"coordinates":[-149.890525,61.189752],"type":"Point"}
 }

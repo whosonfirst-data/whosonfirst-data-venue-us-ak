@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102175675",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.331093,64.788281,-147.331093,64.788281",
     "geom:latitude":64.788281,
     "geom:longitude":-147.331093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2960 Pool St",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102175675",
-    "wof:lastmodified":1449069464,
+    "wof:lastmodified":1466313989,
     "wof:name":"Rainbows End Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.331093,64.788281,-147.331093,64.788281],
-  "geometry": {"coordinates":[-147.331093,64.788281],"type":"Point"}
+  "bbox": [
+    -147.331093,
+    64.788281,
+    -147.331093,
+    64.788281
+],
+  "geometry": {"coordinates":[-147.33109300000001,64.788281],"type":"Point"}
 }

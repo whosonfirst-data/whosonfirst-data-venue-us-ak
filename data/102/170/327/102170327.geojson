@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102170327",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.927925,64.810198,-147.927925,64.810198",
     "geom:latitude":64.810198,
     "geom:longitude":-147.927925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1268 Dolphin Way",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102170327",
-    "wof:lastmodified":1449068016,
+    "wof:lastmodified":1466313796,
     "wof:name":"Mac Tools Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.927925,64.810198,-147.927925,64.810198],
-  "geometry": {"coordinates":[-147.927925,64.810198],"type":"Point"}
+  "bbox": [
+    -147.927925,
+    64.810198,
+    -147.927925,
+    64.810198
+],
+  "geometry": {"coordinates":[-147.92792499999999,64.810198],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102180581",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.926812,64.934745,-147.926812,64.934745",
     "geom:latitude":64.934745,
     "geom:longitude":-147.926812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1665 Howling Dog Trl",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102180581",
-    "wof:lastmodified":1449067871,
+    "wof:lastmodified":1466314165,
     "wof:name":"V F Grace Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.926812,64.934745,-147.926812,64.934745],
-  "geometry": {"coordinates":[-147.926812,64.934745],"type":"Point"}
+  "bbox": [
+    -147.926812,
+    64.934745,
+    -147.926812,
+    64.934745
+],
+  "geometry": {"coordinates":[-147.92681200000001,64.93474500000001],"type":"Point"}
 }

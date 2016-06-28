@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102167927",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.943518,64.931641,-147.943518,64.931641",
     "geom:latitude":64.931641,
     "geom:longitude":-147.943518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1740 Coyote Trl",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102167927",
-    "wof:lastmodified":1449069003,
+    "wof:lastmodified":1466314136,
     "wof:name":"Ravens Ridge Brewing Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.943518,64.931641,-147.943518,64.931641],
-  "geometry": {"coordinates":[-147.943518,64.931641],"type":"Point"}
+  "bbox": [
+    -147.943518,
+    64.931641,
+    -147.943518,
+    64.931641
+],
+  "geometry": {"coordinates":[-147.94351800000001,64.931641],"type":"Point"}
 }

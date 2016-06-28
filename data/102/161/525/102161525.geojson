@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102161525",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.621131,64.895741,-147.621131,64.895741",
     "geom:latitude":64.895741,
     "geom:longitude":-147.621131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Golf Club Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102161525",
-    "wof:lastmodified":1449068712,
+    "wof:lastmodified":1466313750,
     "wof:name":"North Star Golf Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.621131,64.895741,-147.621131,64.895741],
-  "geometry": {"coordinates":[-147.621131,64.895741],"type":"Point"}
+  "bbox": [
+    -147.621131,
+    64.895741,
+    -147.621131,
+    64.895741
+],
+  "geometry": {"coordinates":[-147.62113099999999,64.895741],"type":"Point"}
 }

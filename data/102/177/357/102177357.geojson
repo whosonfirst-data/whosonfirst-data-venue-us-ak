@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102177357",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-148.044042,64.79516,-148.044042,64.79516",
     "geom:latitude":64.79516,
     "geom:longitude":-148.044042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1703 Fiddle Way",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102177357",
-    "wof:lastmodified":1449070209,
+    "wof:lastmodified":1466313942,
     "wof:name":"School-Integrating Shaitsu Ak",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-148.044042,64.79516,-148.044042,64.79516],
-  "geometry": {"coordinates":[-148.044042,64.79516],"type":"Point"}
+  "bbox": [
+    -148.044042,
+    64.79516,
+    -148.044042,
+    64.79516
+],
+  "geometry": {"coordinates":[-148.04404199999999,64.79516],"type":"Point"}
 }

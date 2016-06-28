@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178667",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-166.516279,53.908175,-166.516279,53.908175",
     "geom:latitude":53.908175,
     "geom:longitude":-166.516279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1561 Ballyhoo Rd",
     "sg:city":"Dutch Harbor",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102178667",
-    "wof:lastmodified":1449069530,
+    "wof:lastmodified":1466314007,
     "wof:name":"Western Pioneer Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-166.516279,53.908175,-166.516279,53.908175],
+  "bbox": [
+    -166.516279,
+    53.908175,
+    -166.516279,
+    53.908175
+],
   "geometry": {"coordinates":[-166.516279,53.908175],"type":"Point"}
 }

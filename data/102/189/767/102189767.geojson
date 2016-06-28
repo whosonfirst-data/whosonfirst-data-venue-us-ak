@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102189767",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.355946,57.825818,-152.355946,57.825818",
     "geom:latitude":57.825818,
     "geom:longitude":-152.355946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4673 E Rezanof Dr",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102189767",
-    "wof:lastmodified":1449069497,
+    "wof:lastmodified":1466313804,
     "wof:name":"Alaska Credit Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.355946,57.825818,-152.355946,57.825818],
-  "geometry": {"coordinates":[-152.355946,57.825818],"type":"Point"}
+  "bbox": [
+    -152.355946,
+    57.825818,
+    -152.355946,
+    57.825818
+],
+  "geometry": {"coordinates":[-152.35594599999999,57.825818],"type":"Point"}
 }

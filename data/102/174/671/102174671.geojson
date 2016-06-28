@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102174671",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.28914,64.739692,-147.28914,64.739692",
     "geom:latitude":64.739692,
     "geom:longitude":-147.28914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3470 Silverleaf Ave",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102174671",
-    "wof:lastmodified":1449068139,
+    "wof:lastmodified":1466313988,
     "wof:name":"North Pole Christian School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.28914,64.739692,-147.28914,64.739692],
-  "geometry": {"coordinates":[-147.28914,64.739692],"type":"Point"}
+  "bbox": [
+    -147.28914,
+    64.739692,
+    -147.28914,
+    64.739692
+],
+  "geometry": {"coordinates":[-147.28914,64.73969200000001],"type":"Point"}
 }

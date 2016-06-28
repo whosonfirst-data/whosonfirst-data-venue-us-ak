@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102182743",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.719344,61.220382,-149.719344,61.220382",
     "geom:latitude":61.220382,
     "geom:longitude":-149.719344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"371 Bolin St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873731,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":"102182743",
-    "wof:lastmodified":1449069281,
+    "wof:lastmodified":1466314146,
     "wof:name":"Teen Challenge Of Alaska",
     "wof:parent_id":85873731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.719344,61.220382,-149.719344,61.220382],
-  "geometry": {"coordinates":[-149.719344,61.220382],"type":"Point"}
+  "bbox": [
+    -149.719344,
+    61.220382,
+    -149.719344,
+    61.220382
+],
+  "geometry": {"coordinates":[-149.71934400000001,61.220382],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166291",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.578949,58.365025,-134.578949,58.365025",
     "geom:latitude":58.365025,
     "geom:longitude":-134.578949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2203 Jordan Ave",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833767,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85833767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102166291",
-    "wof:lastmodified":1449069086,
+    "wof:lastmodified":1466313721,
     "wof:name":"Alaska Chiropractic Rehab",
     "wof:parent_id":85833767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.578949,58.365025,-134.578949,58.365025],
-  "geometry": {"coordinates":[-134.578949,58.365025],"type":"Point"}
+  "bbox": [
+    -134.578949,
+    58.365025,
+    -134.578949,
+    58.365025
+],
+  "geometry": {"coordinates":[-134.57894899999999,58.365025],"type":"Point"}
 }

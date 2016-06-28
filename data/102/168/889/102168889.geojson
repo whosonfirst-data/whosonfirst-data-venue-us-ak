@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102168889",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-150.935079,60.501396,-150.935079,60.501396",
     "geom:latitude":60.501396,
     "geom:longitude":-150.935079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39898 Grouse Dr",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102168889",
-    "wof:lastmodified":1449069002,
+    "wof:lastmodified":1466313850,
     "wof:name":"Mechanical Insulation Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-150.935079,60.501396,-150.935079,60.501396],
+  "bbox": [
+    -150.935079,
+    60.501396,
+    -150.935079,
+    60.501396
+],
   "geometry": {"coordinates":[-150.935079,60.501396],"type":"Point"}
 }

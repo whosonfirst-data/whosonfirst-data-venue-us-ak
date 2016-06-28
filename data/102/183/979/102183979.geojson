@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102183979",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.579059,58.364839,-134.579059,58.364839",
     "geom:latitude":58.364839,
     "geom:longitude":-134.579059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2223 Jordan Ave",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833767,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85833767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102183979",
-    "wof:lastmodified":1449069041,
+    "wof:lastmodified":1466314231,
     "wof:name":"Channel Construction Inc",
     "wof:parent_id":85833767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.579059,58.364839,-134.579059,58.364839],
+  "bbox": [
+    -134.579059,
+    58.364839,
+    -134.579059,
+    58.364839
+],
   "geometry": {"coordinates":[-134.579059,58.364839],"type":"Point"}
 }

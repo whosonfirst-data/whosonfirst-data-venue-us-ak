@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102163691",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-145.528081,63.979455,-145.528081,63.979455",
     "geom:latitude":63.979455,
     "geom:longitude":-145.528081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1414 Alaska Hwy",
     "sg:city":"Delta Junction",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102163691",
-    "wof:lastmodified":1449070159,
+    "wof:lastmodified":1466313788,
     "wof:name":"Big Valley Cmmnty Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-145.528081,63.979455,-145.528081,63.979455],
-  "geometry": {"coordinates":[-145.528081,63.979455],"type":"Point"}
+  "bbox": [
+    -145.528081,
+    63.979455,
+    -145.528081,
+    63.979455
+],
+  "geometry": {"coordinates":[-145.52808099999999,63.979455],"type":"Point"}
 }

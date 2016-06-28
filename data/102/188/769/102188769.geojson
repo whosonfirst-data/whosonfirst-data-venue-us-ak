@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102188769",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.888702,61.188797,-149.888702,61.188797",
     "geom:latitude":61.188797,
     "geom:longitude":-149.888702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3500 Eide St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.cu1.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873723,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102188769",
-    "wof:lastmodified":1449068947,
+    "wof:lastmodified":1466313599,
     "wof:name":"Credit Union 1",
     "wof:parent_id":85873723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.888702,61.188797,-149.888702,61.188797],
-  "geometry": {"coordinates":[-149.888702,61.188797],"type":"Point"}
+  "bbox": [
+    -149.888702,
+    61.188797,
+    -149.888702,
+    61.188797
+],
+  "geometry": {"coordinates":[-149.88870199999999,61.188797],"type":"Point"}
 }

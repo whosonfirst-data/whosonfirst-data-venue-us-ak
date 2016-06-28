@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191747",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.970099,64.823779,-147.970099,64.823779",
     "geom:latitude":64.823779,
     "geom:longitude":-147.970099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1070 Ellesmere Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102191747",
-    "wof:lastmodified":1449069200,
+    "wof:lastmodified":1466314138,
     "wof:name":"Gypsum Solutions Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.970099,64.823779,-147.970099,64.823779],
+  "bbox": [
+    -147.970099,
+    64.823779,
+    -147.970099,
+    64.823779
+],
   "geometry": {"coordinates":[-147.970099,64.823779],"type":"Point"}
 }

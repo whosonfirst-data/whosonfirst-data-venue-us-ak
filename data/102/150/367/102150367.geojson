@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102150367",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-133.140341,55.478032,-133.140341,55.478032",
     "geom:latitude":55.478032,
     "geom:longitude":-133.140341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Cold Storage Rd",
     "sg:city":"Craig",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102150367",
-    "wof:lastmodified":1449067790,
+    "wof:lastmodified":1466313994,
     "wof:name":"Alaska Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-133.140341,55.478032,-133.140341,55.478032],
-  "geometry": {"coordinates":[-133.140341,55.478032],"type":"Point"}
+  "bbox": [
+    -133.140341,
+    55.478032,
+    -133.140341,
+    55.478032
+],
+  "geometry": {"coordinates":[-133.14034100000001,55.478032],"type":"Point"}
 }

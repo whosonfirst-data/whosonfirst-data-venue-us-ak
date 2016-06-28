@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102162381",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.799624,64.904688,-147.799624,64.904688",
     "geom:latitude":64.904688,
     "geom:longitude":-147.799624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1040 Meadow Mouse Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102162381",
-    "wof:lastmodified":1449069821,
+    "wof:lastmodified":1466313724,
     "wof:name":"Alaska Medical Psychology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.799624,64.904688,-147.799624,64.904688],
-  "geometry": {"coordinates":[-147.799624,64.904688],"type":"Point"}
+  "bbox": [
+    -147.799624,
+    64.904688,
+    -147.799624,
+    64.904688
+],
+  "geometry": {"coordinates":[-147.79962399999999,64.90468799999999],"type":"Point"}
 }

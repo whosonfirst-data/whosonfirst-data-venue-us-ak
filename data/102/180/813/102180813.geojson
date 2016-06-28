@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102180813",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.850894,64.809267,-147.850894,64.809267",
     "geom:latitude":64.809267,
     "geom:longitude":-147.850894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3842 University Ave S",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102180813",
-    "wof:lastmodified":1449067871,
+    "wof:lastmodified":1466314181,
     "wof:name":"Wright Air Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.850894,64.809267,-147.850894,64.809267],
-  "geometry": {"coordinates":[-147.850894,64.809267],"type":"Point"}
+  "bbox": [
+    -147.850894,
+    64.809267,
+    -147.850894,
+    64.809267
+],
+  "geometry": {"coordinates":[-147.85089400000001,64.80926700000001],"type":"Point"}
 }

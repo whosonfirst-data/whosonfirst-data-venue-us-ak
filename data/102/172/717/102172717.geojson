@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172717",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-148.044163,64.797472,-148.044163,64.797472",
     "geom:latitude":64.797472,
     "geom:longitude":-148.044163,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1772 Fiddle Way",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102172717",
-    "wof:lastmodified":1449068734,
+    "wof:lastmodified":1466313992,
     "wof:name":"Covington Mill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-148.044163,64.797472,-148.044163,64.797472],
+  "bbox": [
+    -148.044163,
+    64.797472,
+    -148.044163,
+    64.797472
+],
   "geometry": {"coordinates":[-148.044163,64.797472],"type":"Point"}
 }

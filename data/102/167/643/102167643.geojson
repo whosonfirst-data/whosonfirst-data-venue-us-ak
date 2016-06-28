@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102167643",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.641625,55.342379,-131.641625,55.342379",
     "geom:latitude":55.342379,
     "geom:longitude":-131.641625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Creek St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102167643",
-    "wof:lastmodified":1449069004,
+    "wof:lastmodified":1466313801,
     "wof:name":"Good Fortune Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.641625,55.342379,-131.641625,55.342379],
+  "bbox": [
+    -131.641625,
+    55.342379,
+    -131.641625,
+    55.342379
+],
   "geometry": {"coordinates":[-131.641625,55.342379],"type":"Point"}
 }

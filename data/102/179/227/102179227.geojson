@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102179227",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.755599,64.813039,-147.755599,64.813039",
     "geom:latitude":64.813039,
     "geom:longitude":-147.755599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1980 Van Horn Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.northernpowersports.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102179227",
-    "wof:lastmodified":1449069942,
+    "wof:lastmodified":1466313919,
     "wof:name":"Northern Power Sports",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.755599,64.813039,-147.755599,64.813039],
-  "geometry": {"coordinates":[-147.755599,64.813039],"type":"Point"}
+  "bbox": [
+    -147.755599,
+    64.813039,
+    -147.755599,
+    64.813039
+],
+  "geometry": {"coordinates":[-147.75559899999999,64.813039],"type":"Point"}
 }

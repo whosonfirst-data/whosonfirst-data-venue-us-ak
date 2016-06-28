@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102149017",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.53657,59.653674,-151.53657,59.653674",
     "geom:latitude":59.653674,
     "geom:longitude":-151.53657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"374 Elderberry Ct",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102149017",
-    "wof:lastmodified":1449067770,
+    "wof:lastmodified":1466313654,
     "wof:name":"Ugly Moose Glass Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.53657,59.653674,-151.53657,59.653674],
-  "geometry": {"coordinates":[-151.53657,59.653674],"type":"Point"}
+  "bbox": [
+    -151.53657,
+    59.653674,
+    -151.53657,
+    59.653674
+],
+  "geometry": {"coordinates":[-151.53657000000001,59.653674],"type":"Point"}
 }

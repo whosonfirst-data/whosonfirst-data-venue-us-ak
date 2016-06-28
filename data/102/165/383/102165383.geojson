@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102165383",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.336937,57.050481,-135.336937,57.050481",
     "geom:latitude":57.050481,
     "geom:longitude":-135.336937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Lincoln St",
     "sg:city":"Sitka",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835489,
+        85688573,
         85633793,
         85916107,
         102081405,
-        85688573
+        85835489
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102165383",
-    "wof:lastmodified":1449070214,
+    "wof:lastmodified":1466313733,
     "wof:name":"Log Cache Gifts & Jewelry",
     "wof:parent_id":85835489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.336937,57.050481,-135.336937,57.050481],
-  "geometry": {"coordinates":[-135.336937,57.050481],"type":"Point"}
+  "bbox": [
+    -135.336937,
+    57.050481,
+    -135.336937,
+    57.050481
+],
+  "geometry": {"coordinates":[-135.33693700000001,57.050481],"type":"Point"}
 }

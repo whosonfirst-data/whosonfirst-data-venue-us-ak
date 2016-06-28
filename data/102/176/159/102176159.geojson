@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176159",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.958192,61.155713,-149.958192,61.155713",
     "geom:latitude":61.155713,
     "geom:longitude":-149.958192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4207 W 72nd Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873737,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102176159",
-    "wof:lastmodified":1449069343,
+    "wof:lastmodified":1466313901,
     "wof:name":"R-Factor Insulation",
     "wof:parent_id":85873737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.958192,61.155713,-149.958192,61.155713],
+  "bbox": [
+    -149.958192,
+    61.155713,
+    -149.958192,
+    61.155713
+],
   "geometry": {"coordinates":[-149.958192,61.155713],"type":"Point"}
 }

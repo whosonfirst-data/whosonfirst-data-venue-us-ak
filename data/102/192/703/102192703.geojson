@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192703",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.334436,60.597393,-151.334436,60.597393",
     "geom:latitude":60.597393,
     "geom:longitude":-151.334436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53495 Thunder Rd",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102192703",
-    "wof:lastmodified":1449069502,
+    "wof:lastmodified":1466314245,
     "wof:name":"Kent & Sullivan Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.334436,60.597393,-151.334436,60.597393],
-  "geometry": {"coordinates":[-151.334436,60.597393],"type":"Point"}
+  "bbox": [
+    -151.334436,
+    60.597393,
+    -151.334436,
+    60.597393
+],
+  "geometry": {"coordinates":[-151.33443600000001,60.597393],"type":"Point"}
 }

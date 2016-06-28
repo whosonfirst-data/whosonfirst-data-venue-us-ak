@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102195867",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.746339,61.183579,-149.746339,61.183579",
     "geom:latitude":61.183579,
     "geom:longitude":-149.746339,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4124 Irene Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873735,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102195867",
-    "wof:lastmodified":1449069364,
+    "wof:lastmodified":1466314297,
     "wof:name":"Chuck Booher Real Estate",
     "wof:parent_id":85873735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.746339,61.183579,-149.746339,61.183579],
-  "geometry": {"coordinates":[-149.746339,61.183579],"type":"Point"}
+  "bbox": [
+    -149.746339,
+    61.183579,
+    -149.746339,
+    61.183579
+],
+  "geometry": {"coordinates":[-149.74633900000001,61.183579],"type":"Point"}
 }

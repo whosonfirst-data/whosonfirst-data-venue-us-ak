@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102188649",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.867526,61.215662,-149.867526,61.215662",
     "geom:latitude":61.215662,
     "geom:longitude":-149.867526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"839 E 7th Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873717,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102188649",
-    "wof:lastmodified":1449068947,
+    "wof:lastmodified":1466313575,
     "wof:name":"Anchorage Homes",
     "wof:parent_id":85873717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.867526,61.215662,-149.867526,61.215662],
+  "bbox": [
+    -149.867526,
+    61.215662,
+    -149.867526,
+    61.215662
+],
   "geometry": {"coordinates":[-149.867526,61.215662],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102160501",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.175749,60.466112,-151.175749,60.466112",
     "geom:latitude":60.466112,
     "geom:longitude":-151.175749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"48703 Fireweed Ave",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102160501",
-    "wof:lastmodified":1449069778,
+    "wof:lastmodified":1466313693,
     "wof:name":"Ames Specialty Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.175749,60.466112,-151.175749,60.466112],
+  "bbox": [
+    -151.175749,
+    60.466112,
+    -151.175749,
+    60.466112
+],
   "geometry": {"coordinates":[-151.175749,60.466112],"type":"Point"}
 }

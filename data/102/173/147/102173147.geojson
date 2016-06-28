@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173147",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.954922,56.810434,-132.954922,56.810434",
     "geom:latitude":56.810434,
     "geom:longitude":-132.954922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 S 2nd St",
     "sg:city":"Petersburg",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102173147",
-    "wof:lastmodified":1449068272,
+    "wof:lastmodified":1466313881,
     "wof:name":"Cubby Hole",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.954922,56.810434,-132.954922,56.810434],
-  "geometry": {"coordinates":[-132.954922,56.810434],"type":"Point"}
+  "bbox": [
+    -132.954922,
+    56.810434,
+    -132.954922,
+    56.810434
+],
+  "geometry": {"coordinates":[-132.95492200000001,56.810434],"type":"Point"}
 }

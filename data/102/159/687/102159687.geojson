@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102159687",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.441556,61.58402,-149.441556,61.58402",
     "geom:latitude":61.58402,
     "geom:longitude":-149.441556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"490 Main St",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":"102159687",
-    "wof:lastmodified":1449068092,
+    "wof:lastmodified":1466314125,
     "wof:name":"Business Computer Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.441556,61.58402,-149.441556,61.58402],
-  "geometry": {"coordinates":[-149.441556,61.58402],"type":"Point"}
+  "bbox": [
+    -149.441556,
+    61.58402,
+    -149.441556,
+    61.58402
+],
+  "geometry": {"coordinates":[-149.44155599999999,61.58402],"type":"Point"}
 }

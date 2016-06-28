@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102165101",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.947732,56.816864,-132.947732,56.816864",
     "geom:latitude":56.816864,
     "geom:longitude":-132.947732,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Lake St",
     "sg:city":"Sitka",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102165101",
-    "wof:lastmodified":1449070213,
+    "wof:lastmodified":1466313675,
     "wof:name":"Sitka High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.947732,56.816864,-132.947732,56.816864],
+  "bbox": [
+    -132.947732,
+    56.816864,
+    -132.947732,
+    56.816864
+],
   "geometry": {"coordinates":[-132.947732,56.816864],"type":"Point"}
 }

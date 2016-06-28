@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102159039",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.730822,61.220299,-149.730822,61.220299",
     "geom:latitude":61.220299,
     "geom:longitude":-149.730822,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8215 E 2nd Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873731,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102159039",
-    "wof:lastmodified":1449068094,
+    "wof:lastmodified":1466313529,
     "wof:name":"Fireweed Lodge At Lake Creek",
     "wof:parent_id":85873731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.730822,61.220299,-149.730822,61.220299],
-  "geometry": {"coordinates":[-149.730822,61.220299],"type":"Point"}
+  "bbox": [
+    -149.730822,
+    61.220299,
+    -149.730822,
+    61.220299
+],
+  "geometry": {"coordinates":[-149.73082199999999,61.220299],"type":"Point"}
 }

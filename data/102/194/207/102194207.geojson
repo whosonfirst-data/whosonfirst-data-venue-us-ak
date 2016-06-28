@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102194207",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.755522,61.099335,-149.755522,61.099335",
     "geom:latitude":61.099335,
     "geom:longitude":-149.755522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6820 Gunnison Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102194207",
-    "wof:lastmodified":1449069828,
+    "wof:lastmodified":1466314253,
     "wof:name":"Ashwater-Burns Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.755522,61.099335,-149.755522,61.099335],
-  "geometry": {"coordinates":[-149.755522,61.099335],"type":"Point"}
+  "bbox": [
+    -149.755522,
+    61.099335,
+    -149.755522,
+    61.099335
+],
+  "geometry": {"coordinates":[-149.75552200000001,61.099335],"type":"Point"}
 }

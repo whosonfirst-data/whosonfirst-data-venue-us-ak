@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102174781",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.870881,61.229994,-149.870881,61.229994",
     "geom:latitude":61.229994,
     "geom:longitude":-149.870881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Hollywood Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873711,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102174781",
-    "wof:lastmodified":1449068138,
+    "wof:lastmodified":1466314011,
     "wof:name":"Safe Haven Child Care Ed Ctr",
     "wof:parent_id":85873711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.870881,61.229994,-149.870881,61.229994],
+  "bbox": [
+    -149.870881,
+    61.229994,
+    -149.870881,
+    61.229994
+],
   "geometry": {"coordinates":[-149.870881,61.229994],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102195785",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.406974,61.576298,-149.406974,61.576298",
     "geom:latitude":61.576298,
     "geom:longitude":-149.406974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1801 E Parks Hwy",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102195785",
-    "wof:lastmodified":1449069364,
+    "wof:lastmodified":1466314296,
     "wof:name":"Mid-Valley Tabs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.406974,61.576298,-149.406974,61.576298],
-  "geometry": {"coordinates":[-149.406974,61.576298],"type":"Point"}
+  "bbox": [
+    -149.406974,
+    61.576298,
+    -149.406974,
+    61.576298
+],
+  "geometry": {"coordinates":[-149.40697399999999,61.576298],"type":"Point"}
 }

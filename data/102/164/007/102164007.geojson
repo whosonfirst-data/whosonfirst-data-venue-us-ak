@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102164007",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.199542,61.653385,-149.199542,61.653385",
     "geom:latitude":61.653385,
     "geom:longitude":-149.199542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6205 Weltin Way",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102164007",
-    "wof:lastmodified":1449068089,
+    "wof:lastmodified":1466313658,
     "wof:name":"Dove Real Estate & Property",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.199542,61.653385,-149.199542,61.653385],
-  "geometry": {"coordinates":[-149.199542,61.653385],"type":"Point"}
+  "bbox": [
+    -149.199542,
+    61.653385,
+    -149.199542,
+    61.653385
+],
+  "geometry": {"coordinates":[-149.19954200000001,61.653385],"type":"Point"}
 }

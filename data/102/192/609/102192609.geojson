@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192609",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-150.954498,60.504228,-150.954498,60.504228",
     "geom:latitude":60.504228,
     "geom:longitude":-150.954498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40485 Sterling Hwy",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102192609",
-    "wof:lastmodified":1449069503,
+    "wof:lastmodified":1466314244,
     "wof:name":"Sturgeon Accounting & Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-150.954498,60.504228,-150.954498,60.504228],
+  "bbox": [
+    -150.954498,
+    60.504228,
+    -150.954498,
+    60.504228
+],
   "geometry": {"coordinates":[-150.954498,60.504228],"type":"Point"}
 }

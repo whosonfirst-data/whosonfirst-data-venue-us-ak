@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102186707",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-133.94967,56.976929,-133.94967,56.976929",
     "geom:latitude":56.976929,
     "geom:longitude":-133.94967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"437 Totem Way",
     "sg:city":"Kake",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102186707",
-    "wof:lastmodified":1449069655,
+    "wof:lastmodified":1466314227,
     "wof:name":"Kake Ems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-133.94967,56.976929,-133.94967,56.976929],
+  "bbox": [
+    -133.94967,
+    56.976929,
+    -133.94967,
+    56.976929
+],
   "geometry": {"coordinates":[-133.94967,56.976929],"type":"Point"}
 }

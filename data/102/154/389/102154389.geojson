@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102154389",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-146.828461,64.879391,-146.828461,64.879391",
     "geom:latitude":64.879391,
     "geom:longitude":-146.828461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7795 Chena Hot Springs Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102154389",
-    "wof:lastmodified":1449070244,
+    "wof:lastmodified":1466313526,
     "wof:name":"Hipas OBSERVATORY-Ucla",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-146.828461,64.879391,-146.828461,64.879391],
+  "bbox": [
+    -146.828461,
+    64.879391,
+    -146.828461,
+    64.879391
+],
   "geometry": {"coordinates":[-146.828461,64.879391],"type":"Point"}
 }

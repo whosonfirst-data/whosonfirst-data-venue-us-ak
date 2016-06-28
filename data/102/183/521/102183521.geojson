@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102183521",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.441482,61.584102,-149.441482,61.584102",
     "geom:latitude":61.584102,
     "geom:longitude":-149.441482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Main St",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102183521",
-    "wof:lastmodified":1449069043,
+    "wof:lastmodified":1466314124,
     "wof:name":"Steven G Gianopoulos DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.441482,61.584102,-149.441482,61.584102],
-  "geometry": {"coordinates":[-149.441482,61.584102],"type":"Point"}
+  "bbox": [
+    -149.441482,
+    61.584102,
+    -149.441482,
+    61.584102
+],
+  "geometry": {"coordinates":[-149.44148200000001,61.584102],"type":"Point"}
 }

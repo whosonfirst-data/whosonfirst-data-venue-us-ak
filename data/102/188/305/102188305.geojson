@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102188305",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.922887,61.18683,-149.922887,61.18683",
     "geom:latitude":61.18683,
     "geom:longitude":-149.922887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3710 Woodland Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.larsen-anc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850461,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85850461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102188305",
-    "wof:lastmodified":1449068944,
+    "wof:lastmodified":1466313505,
     "wof:name":"Larsen Consulting Group",
     "wof:parent_id":85850461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.922887,61.18683,-149.922887,61.18683],
+  "bbox": [
+    -149.922887,
+    61.18683,
+    -149.922887,
+    61.18683
+],
   "geometry": {"coordinates":[-149.922887,61.18683],"type":"Point"}
 }

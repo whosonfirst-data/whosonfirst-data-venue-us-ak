@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102154141",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.344705,57.811729,-152.344705,57.811729",
     "geom:latitude":57.811729,
     "geom:longitude":-152.344705,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3652 Sharatin Rd",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102154141",
-    "wof:lastmodified":1449070244,
+    "wof:lastmodified":1466313484,
     "wof:name":"Deveau Building Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.344705,57.811729,-152.344705,57.811729],
+  "bbox": [
+    -152.344705,
+    57.811729,
+    -152.344705,
+    57.811729
+],
   "geometry": {"coordinates":[-152.344705,57.811729],"type":"Point"}
 }

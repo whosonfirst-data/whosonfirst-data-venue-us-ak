@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102156459",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.767065,61.216209,-149.767065,61.216209",
     "geom:latitude":61.216209,
     "geom:longitude":-149.767065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6208 Staedem Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873731,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":"102156459",
-    "wof:lastmodified":1449068282,
+    "wof:lastmodified":1466313552,
     "wof:name":"Mayflower Home Sales",
     "wof:parent_id":85873731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.767065,61.216209,-149.767065,61.216209],
+  "bbox": [
+    -149.767065,
+    61.216209,
+    -149.767065,
+    61.216209
+],
   "geometry": {"coordinates":[-149.767065,61.216209],"type":"Point"}
 }

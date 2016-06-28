@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102152593",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.446173,59.232392,-135.446173,59.232392",
     "geom:latitude":59.232392,
     "geom:longitude":-135.446173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 2nd Ave",
     "sg:city":"Haines",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842771,
+        85688573,
         85633793,
         85916629,
         102083767,
-        85688573
+        85842771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102152593",
-    "wof:lastmodified":1449069637,
+    "wof:lastmodified":1466313576,
     "wof:name":"Windspirit Inc",
     "wof:parent_id":85842771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.446173,59.232392,-135.446173,59.232392],
-  "geometry": {"coordinates":[-135.446173,59.232392],"type":"Point"}
+  "bbox": [
+    -135.446173,
+    59.232392,
+    -135.446173,
+    59.232392
+],
+  "geometry": {"coordinates":[-135.44617299999999,59.232392],"type":"Point"}
 }

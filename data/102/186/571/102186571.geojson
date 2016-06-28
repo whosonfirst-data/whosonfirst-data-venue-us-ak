@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102186571",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.483967,58.338193,-134.483967,58.338193",
     "geom:latitude":58.338193,
     "geom:longitude":-134.483967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4011 Ridge Way",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853509,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85853509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102186571",
-    "wof:lastmodified":1449069654,
+    "wof:lastmodified":1466314219,
     "wof:name":"Inteliant Corp",
     "wof:parent_id":85853509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.483967,58.338193,-134.483967,58.338193],
-  "geometry": {"coordinates":[-134.483967,58.338193],"type":"Point"}
+  "bbox": [
+    -134.483967,
+    58.338193,
+    -134.483967,
+    58.338193
+],
+  "geometry": {"coordinates":[-134.48396700000001,58.338193],"type":"Point"}
 }

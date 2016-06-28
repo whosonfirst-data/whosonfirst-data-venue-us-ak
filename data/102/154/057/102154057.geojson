@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102154057",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.943076,61.149292,-149.943076,61.149292",
     "geom:latitude":61.149292,
     "geom:longitude":-149.943076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3343 W 79th Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873737,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102154057",
-    "wof:lastmodified":1449070244,
+    "wof:lastmodified":1466313471,
     "wof:name":"Alaska Micro Systems",
     "wof:parent_id":85873737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.943076,61.149292,-149.943076,61.149292],
-  "geometry": {"coordinates":[-149.943076,61.149292],"type":"Point"}
+  "bbox": [
+    -149.943076,
+    61.149292,
+    -149.943076,
+    61.149292
+],
+  "geometry": {"coordinates":[-149.94307599999999,61.149292],"type":"Point"}
 }

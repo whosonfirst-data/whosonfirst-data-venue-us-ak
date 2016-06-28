@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102186461",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.396274,57.098082,-135.396274,57.098082",
     "geom:latitude":57.098082,
     "geom:longitude":-135.396274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2305 Halibut Point Rd",
     "sg:city":"Sitka",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102186461",
-    "wof:lastmodified":1449069654,
+    "wof:lastmodified":1466314141,
     "wof:name":"3-B's Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.396274,57.098082,-135.396274,57.098082],
-  "geometry": {"coordinates":[-135.396274,57.098082],"type":"Point"}
+  "bbox": [
+    -135.396274,
+    57.098082,
+    -135.396274,
+    57.098082
+],
+  "geometry": {"coordinates":[-135.39627400000001,57.098082],"type":"Point"}
 }

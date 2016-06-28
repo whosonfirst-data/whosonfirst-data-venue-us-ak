@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185405",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.866233,61.113119,-149.866233,61.113119",
     "geom:latitude":61.113119,
     "geom:longitude":-149.866233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11900 Gambell St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873755,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102185405",
-    "wof:lastmodified":1449068199,
+    "wof:lastmodified":1466314123,
     "wof:name":"Alaska Crane LTD",
     "wof:parent_id":85873755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.866233,61.113119,-149.866233,61.113119],
-  "geometry": {"coordinates":[-149.866233,61.113119],"type":"Point"}
+  "bbox": [
+    -149.866233,
+    61.113119,
+    -149.866233,
+    61.113119
+],
+  "geometry": {"coordinates":[-149.86623299999999,61.113119],"type":"Point"}
 }

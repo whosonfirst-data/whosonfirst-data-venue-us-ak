@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191845",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.118114,61.589364,-149.118114,61.589364",
     "geom:latitude":61.589364,
     "geom:longitude":-149.118114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1617 S Industrial Way",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102191845",
-    "wof:lastmodified":1449069202,
+    "wof:lastmodified":1466314153,
     "wof:name":"Alaska Builders Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.118114,61.589364,-149.118114,61.589364],
-  "geometry": {"coordinates":[-149.118114,61.589364],"type":"Point"}
+  "bbox": [
+    -149.118114,
+    61.589364,
+    -149.118114,
+    61.589364
+],
+  "geometry": {"coordinates":[-149.11811399999999,61.589364],"type":"Point"}
 }

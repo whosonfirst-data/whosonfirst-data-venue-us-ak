@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102152199",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-150.89696,60.515542,-150.89696,60.515542",
     "geom:latitude":60.515542,
     "geom:longitude":-150.89696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"36885 Beau Cir",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102152199",
-    "wof:lastmodified":1449069635,
+    "wof:lastmodified":1466313497,
     "wof:name":"J C's Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-150.89696,60.515542,-150.89696,60.515542],
-  "geometry": {"coordinates":[-150.89696,60.515542],"type":"Point"}
+  "bbox": [
+    -150.89696,
+    60.515542,
+    -150.89696,
+    60.515542
+],
+  "geometry": {"coordinates":[-150.89696000000001,60.515542],"type":"Point"}
 }

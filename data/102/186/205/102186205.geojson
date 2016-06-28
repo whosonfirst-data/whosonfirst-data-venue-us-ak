@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102186205",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.819216,61.121278,-149.819216,61.121278",
     "geom:latitude":61.121278,
     "geom:longitude":-149.819216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11000 Cange St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873753,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102186205",
-    "wof:lastmodified":1449069654,
+    "wof:lastmodified":1466314198,
     "wof:name":"Health For Life",
     "wof:parent_id":85873753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.819216,61.121278,-149.819216,61.121278],
-  "geometry": {"coordinates":[-149.819216,61.121278],"type":"Point"}
+  "bbox": [
+    -149.819216,
+    61.121278,
+    -149.819216,
+    61.121278
+],
+  "geometry": {"coordinates":[-149.81921600000001,61.121278],"type":"Point"}
 }

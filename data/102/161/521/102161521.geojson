@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102161521",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.718432,64.837226,-147.718432,64.837226",
     "geom:latitude":64.837226,
     "geom:longitude":-147.718432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Gaffney Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848979,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85848979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102161521",
-    "wof:lastmodified":1449068712,
+    "wof:lastmodified":1466313749,
     "wof:name":"Native Spirits Wellness Ctr",
     "wof:parent_id":85848979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.718432,64.837226,-147.718432,64.837226],
-  "geometry": {"coordinates":[-147.718432,64.837226],"type":"Point"}
+  "bbox": [
+    -147.718432,
+    64.837226,
+    -147.718432,
+    64.837226
+],
+  "geometry": {"coordinates":[-147.71843200000001,64.837226],"type":"Point"}
 }

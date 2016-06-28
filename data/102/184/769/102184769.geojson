@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184769",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.595249,58.362248,-134.595249,58.362248",
     "geom:latitude":58.362248,
     "geom:longitude":-134.595249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2114 Radcliffe Rd",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":"102184769",
-    "wof:lastmodified":1449068216,
+    "wof:lastmodified":1466314222,
     "wof:name":"F & R Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.595249,58.362248,-134.595249,58.362248],
+  "bbox": [
+    -134.595249,
+    58.362248,
+    -134.595249,
+    58.362248
+],
   "geometry": {"coordinates":[-134.595249,58.362248],"type":"Point"}
 }

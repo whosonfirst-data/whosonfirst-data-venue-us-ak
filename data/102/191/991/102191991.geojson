@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191991",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.718934,65.091019,-147.718934,65.091019",
     "geom:latitude":65.091019,
     "geom:longitude":-147.718934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"793 Bardel Ct",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102191991",
-    "wof:lastmodified":1449069201,
+    "wof:lastmodified":1466314225,
     "wof:name":"Milbrook Ventures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.718934,65.091019,-147.718934,65.091019],
-  "geometry": {"coordinates":[-147.718934,65.091019],"type":"Point"}
+  "bbox": [
+    -147.718934,
+    65.091019,
+    -147.718934,
+    65.091019
+],
+  "geometry": {"coordinates":[-147.71893399999999,65.091019],"type":"Point"}
 }

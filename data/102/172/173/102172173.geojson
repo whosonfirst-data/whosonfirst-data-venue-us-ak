@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172173",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.689184,55.354117,-131.689184,55.354117",
     "geom:latitude":55.354117,
     "geom:longitude":-131.689184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Carlanna Lake Rd",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102172173",
-    "wof:lastmodified":1449068734,
+    "wof:lastmodified":1466313883,
     "wof:name":"A Woman's Place For Birthing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.689184,55.354117,-131.689184,55.354117],
-  "geometry": {"coordinates":[-131.689184,55.354117],"type":"Point"}
+  "bbox": [
+    -131.689184,
+    55.354117,
+    -131.689184,
+    55.354117
+],
+  "geometry": {"coordinates":[-131.68918400000001,55.354117],"type":"Point"}
 }

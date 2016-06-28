@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102181461",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.18637,60.415649,-151.18637,60.415649",
     "geom:latitude":60.415649,
     "geom:longitude":-151.18637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49160 Tote Rd",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102181461",
-    "wof:lastmodified":1449069233,
+    "wof:lastmodified":1466314187,
     "wof:name":"Angler's Anchor Bed & Breakfst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.18637,60.415649,-151.18637,60.415649],
-  "geometry": {"coordinates":[-151.18637,60.415649],"type":"Point"}
+  "bbox": [
+    -151.18637,
+    60.415649,
+    -151.18637,
+    60.415649
+],
+  "geometry": {"coordinates":[-151.18637000000001,60.415649],"type":"Point"}
 }

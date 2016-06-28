@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102177953",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.690414,64.852035,-147.690414,64.852035",
     "geom:latitude":64.852035,
     "geom:longitude":-147.690414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"927 Old Steese Hwy",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.twistedstitches.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823671,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85823671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102177953",
-    "wof:lastmodified":1449070208,
+    "wof:lastmodified":1466314055,
     "wof:name":"Twisted Stitches",
     "wof:parent_id":85823671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.690414,64.852035,-147.690414,64.852035],
+  "bbox": [
+    -147.690414,
+    64.852035,
+    -147.690414,
+    64.852035
+],
   "geometry": {"coordinates":[-147.690414,64.852035],"type":"Point"}
 }

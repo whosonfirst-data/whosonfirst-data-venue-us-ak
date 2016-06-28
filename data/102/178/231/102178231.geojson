@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178231",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.891348,61.218626,-149.891348,61.218626",
     "geom:latitude":61.218626,
     "geom:longitude":-149.891348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 W 4th Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873719,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102178231",
-    "wof:lastmodified":1449069531,
+    "wof:lastmodified":1466313919,
     "wof:name":"Alaska General Alarm",
     "wof:parent_id":85873719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.891348,61.218626,-149.891348,61.218626],
-  "geometry": {"coordinates":[-149.891348,61.218626],"type":"Point"}
+  "bbox": [
+    -149.891348,
+    61.218626,
+    -149.891348,
+    61.218626
+],
+  "geometry": {"coordinates":[-149.89134799999999,61.218626],"type":"Point"}
 }

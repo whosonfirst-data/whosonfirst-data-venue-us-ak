@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192071",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.650596,55.343585,-131.650596,55.343585",
     "geom:latitude":55.343585,
     "geom:longitude":-131.650596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 Water St",
     "sg:city":"Craig",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102192071",
-    "wof:lastmodified":1449069503,
+    "wof:lastmodified":1466314228,
     "wof:name":"Sunnahae Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.650596,55.343585,-131.650596,55.343585],
-  "geometry": {"coordinates":[-131.650596,55.343585],"type":"Point"}
+  "bbox": [
+    -131.650596,
+    55.343585,
+    -131.650596,
+    55.343585
+],
+  "geometry": {"coordinates":[-131.65059600000001,55.343585],"type":"Point"}
 }

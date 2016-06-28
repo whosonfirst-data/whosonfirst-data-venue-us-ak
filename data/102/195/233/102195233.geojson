@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102195233",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.579275,58.364727,-134.579275,58.364727",
     "geom:latitude":58.364727,
     "geom:longitude":-134.579275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2235 Jordan Ave",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833767,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85833767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102195233",
-    "wof:lastmodified":1449069365,
+    "wof:lastmodified":1466314287,
     "wof:name":"Cher's Hair Care",
     "wof:parent_id":85833767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.579275,58.364727,-134.579275,58.364727],
+  "bbox": [
+    -134.579275,
+    58.364727,
+    -134.579275,
+    58.364727
+],
   "geometry": {"coordinates":[-134.579275,58.364727],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102168533",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.755666,58.407254,-134.755666,58.407254",
     "geom:latitude":58.407254,
     "geom:longitude":-134.755666,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17725 Glacier Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851901,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85851901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102168533",
-    "wof:lastmodified":1449069003,
+    "wof:lastmodified":1466313778,
     "wof:name":"Alsek Freight",
     "wof:parent_id":85851901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.755666,58.407254,-134.755666,58.407254],
-  "geometry": {"coordinates":[-134.755666,58.407254],"type":"Point"}
+  "bbox": [
+    -134.755666,
+    58.407254,
+    -134.755666,
+    58.407254
+],
+  "geometry": {"coordinates":[-134.75566599999999,58.407254],"type":"Point"}
 }

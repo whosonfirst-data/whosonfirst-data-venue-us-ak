@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102170971",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.702136,64.812945,-147.702136,64.812945",
     "geom:latitude":64.812945,
     "geom:longitude":-147.702136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 E Van Horn Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":"102170971",
-    "wof:lastmodified":1449068018,
+    "wof:lastmodified":1466313928,
     "wof:name":"Alaska Electric Rebuilders Inc",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.702136,64.812945,-147.702136,64.812945],
+  "bbox": [
+    -147.702136,
+    64.812945,
+    -147.702136,
+    64.812945
+],
   "geometry": {"coordinates":[-147.702136,64.812945],"type":"Point"}
 }

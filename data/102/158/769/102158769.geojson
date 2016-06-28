@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102158769",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-150.797894,60.535492,-150.797894,60.535492",
     "geom:latitude":60.535492,
     "geom:longitude":-150.797894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35184 Greenwood Ct",
     "sg:city":"Sterling",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102158769",
-    "wof:lastmodified":1449069394,
+    "wof:lastmodified":1466313663,
     "wof:name":"Smith Well Drilling Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-150.797894,60.535492,-150.797894,60.535492],
-  "geometry": {"coordinates":[-150.797894,60.535492],"type":"Point"}
+  "bbox": [
+    -150.797894,
+    60.535492,
+    -150.797894,
+    60.535492
+],
+  "geometry": {"coordinates":[-150.79789400000001,60.535492],"type":"Point"}
 }

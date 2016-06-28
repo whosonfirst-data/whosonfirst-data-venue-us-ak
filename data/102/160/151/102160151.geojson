@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102160151",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.406361,57.789211,-152.406361,57.789211",
     "geom:latitude":57.789211,
     "geom:longitude":-152.406361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Center St",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102160151",
-    "wof:lastmodified":1449069774,
+    "wof:lastmodified":1466313624,
     "wof:name":"Kodiak Motors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.406361,57.789211,-152.406361,57.789211],
+  "bbox": [
+    -152.406361,
+    57.789211,
+    -152.406361,
+    57.789211
+],
   "geometry": {"coordinates":[-152.406361,57.789211],"type":"Point"}
 }

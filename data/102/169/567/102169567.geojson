@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102169567",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.582564,58.362716,-134.582564,58.362716",
     "geom:latitude":58.362716,
     "geom:longitude":-134.582564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9121 Glacier Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833767,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85833767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102169567",
-    "wof:lastmodified":1449069248,
+    "wof:lastmodified":1466313826,
     "wof:name":"Northern Echoes Bible Shoppe",
     "wof:parent_id":85833767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.582564,58.362716,-134.582564,58.362716],
-  "geometry": {"coordinates":[-134.582564,58.362716],"type":"Point"}
+  "bbox": [
+    -134.582564,
+    58.362716,
+    -134.582564,
+    58.362716
+],
+  "geometry": {"coordinates":[-134.58256399999999,58.362716],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185895",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.603518,58.366122,-134.603518,58.366122",
     "geom:latitude":58.366122,
     "geom:longitude":-134.603518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9976 Crazy Horse Dr",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833767,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85833767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102185895",
-    "wof:lastmodified":1449068196,
+    "wof:lastmodified":1466314182,
     "wof:name":"Outboard Shop",
     "wof:parent_id":85833767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.603518,58.366122,-134.603518,58.366122],
-  "geometry": {"coordinates":[-134.603518,58.366122],"type":"Point"}
+  "bbox": [
+    -134.603518,
+    58.366122,
+    -134.603518,
+    58.366122
+],
+  "geometry": {"coordinates":[-134.60351800000001,58.366122],"type":"Point"}
 }

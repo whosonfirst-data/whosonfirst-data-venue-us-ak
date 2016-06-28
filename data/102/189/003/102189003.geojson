@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102189003",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.907712,61.209784,-149.907712,61.209784",
     "geom:latitude":61.209784,
     "geom:longitude":-149.907712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1219 N St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873721,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102189003",
-    "wof:lastmodified":1449069499,
+    "wof:lastmodified":1466314122,
     "wof:name":"Inlet View Elementary School",
     "wof:parent_id":85873721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.907712,61.209784,-149.907712,61.209784],
+  "bbox": [
+    -149.907712,
+    61.209784,
+    -149.907712,
+    61.209784
+],
   "geometry": {"coordinates":[-149.907712,61.209784],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102152131",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.827073,61.180762,-149.827073,61.180762",
     "geom:latitude":61.180762,
     "geom:longitude":-149.827073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2710 E Tudor Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.filmalaska.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873715,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102152131",
-    "wof:lastmodified":1449069633,
+    "wof:lastmodified":1466313485,
     "wof:name":"Connections",
     "wof:parent_id":85873715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.827073,61.180762,-149.827073,61.180762],
-  "geometry": {"coordinates":[-149.827073,61.180762],"type":"Point"}
+  "bbox": [
+    -149.827073,
+    61.180762,
+    -149.827073,
+    61.180762
+],
+  "geometry": {"coordinates":[-149.82707300000001,61.180762],"type":"Point"}
 }

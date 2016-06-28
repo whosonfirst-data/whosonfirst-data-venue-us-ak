@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102149377",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.984154,61.181118,-149.984154,61.181118",
     "geom:latitude":61.181118,
     "geom:longitude":-149.984154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4340 Postmark Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852831,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85852831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102149377",
-    "wof:lastmodified":1449067769,
+    "wof:lastmodified":1466313508,
     "wof:name":"A V Alaska Inc",
     "wof:parent_id":85852831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.984154,61.181118,-149.984154,61.181118],
-  "geometry": {"coordinates":[-149.984154,61.181118],"type":"Point"}
+  "bbox": [
+    -149.984154,
+    61.181118,
+    -149.984154,
+    61.181118
+],
+  "geometry": {"coordinates":[-149.98415399999999,61.181118],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102190983",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.462581,61.582193,-149.462581,61.582193",
     "geom:latitude":61.582193,
     "geom:longitude":-149.462581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 W Parks Hwy",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102190983",
-    "wof:lastmodified":1449070036,
+    "wof:lastmodified":1466314038,
     "wof:name":"Brown Jug Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.462581,61.582193,-149.462581,61.582193],
+  "bbox": [
+    -149.462581,
+    61.582193,
+    -149.462581,
+    61.582193
+],
   "geometry": {"coordinates":[-149.462581,61.582193],"type":"Point"}
 }

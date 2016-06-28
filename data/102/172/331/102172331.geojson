@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172331",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.834237,61.149515,-149.834237,61.149515",
     "geom:latitude":61.149515,
     "geom:longitude":-149.834237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7828 Lake Otis Pkwy",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102172331",
-    "wof:lastmodified":1449068736,
+    "wof:lastmodified":1466313916,
     "wof:name":"Arctic Builders Source",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.834237,61.149515,-149.834237,61.149515],
+  "bbox": [
+    -149.834237,
+    61.149515,
+    -149.834237,
+    61.149515
+],
   "geometry": {"coordinates":[-149.834237,61.149515],"type":"Point"}
 }

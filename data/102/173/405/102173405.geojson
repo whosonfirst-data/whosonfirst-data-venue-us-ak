@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173405",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.86373,64.92357,-147.86373,64.92357",
     "geom:latitude":64.92357,
     "geom:longitude":-147.86373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2210 Franklin St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102173405",
-    "wof:lastmodified":1449068271,
+    "wof:lastmodified":1466313934,
     "wof:name":"Fox Statistical Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.86373,64.92357,-147.86373,64.92357],
+  "bbox": [
+    -147.86373,
+    64.92357,
+    -147.86373,
+    64.92357
+],
   "geometry": {"coordinates":[-147.86373,64.92357],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166297",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.685232,64.84366,-147.685232,64.84366",
     "geom:latitude":64.84366,
     "geom:longitude":-147.685232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 B St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823671,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85823671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102166297",
-    "wof:lastmodified":1449069086,
+    "wof:lastmodified":1466313722,
     "wof:name":"Carpentry Plus",
     "wof:parent_id":85823671,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.685232,64.84366,-147.685232,64.84366],
-  "geometry": {"coordinates":[-147.685232,64.84366],"type":"Point"}
+  "bbox": [
+    -147.685232,
+    64.84366,
+    -147.685232,
+    64.84366
+],
+  "geometry": {"coordinates":[-147.68523200000001,64.84366],"type":"Point"}
 }

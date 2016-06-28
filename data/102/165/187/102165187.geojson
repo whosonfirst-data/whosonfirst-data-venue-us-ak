@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102165187",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.904959,61.186386,-149.904959,61.186386",
     "geom:latitude":61.186386,
     "geom:longitude":-149.904959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1115 Chugach Way",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873723,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102165187",
-    "wof:lastmodified":1449070213,
+    "wof:lastmodified":1466313693,
     "wof:name":"Hunter Pipe & Tank",
     "wof:parent_id":85873723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.904959,61.186386,-149.904959,61.186386],
-  "geometry": {"coordinates":[-149.904959,61.186386],"type":"Point"}
+  "bbox": [
+    -149.904959,
+    61.186386,
+    -149.904959,
+    61.186386
+],
+  "geometry": {"coordinates":[-149.90495899999999,61.186386],"type":"Point"}
 }

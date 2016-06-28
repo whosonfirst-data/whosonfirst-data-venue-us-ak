@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102164423",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.860237,61.152067,-149.860237,61.152067",
     "geom:latitude":61.152067,
     "geom:longitude":-149.860237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7520 Briarwood St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809155,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85809155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102164423",
-    "wof:lastmodified":1449068085,
+    "wof:lastmodified":1466313742,
     "wof:name":"J & H Auto Detailing",
     "wof:parent_id":85809155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.860237,61.152067,-149.860237,61.152067],
-  "geometry": {"coordinates":[-149.860237,61.152067],"type":"Point"}
+  "bbox": [
+    -149.860237,
+    61.152067,
+    -149.860237,
+    61.152067
+],
+  "geometry": {"coordinates":[-149.86023700000001,61.152067],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176491",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-165.403075,64.497006,-165.403075,64.497006",
     "geom:latitude":64.497006,
     "geom:longitude":-165.403075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Front St",
     "sg:city":"Nome",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102176491",
-    "wof:lastmodified":1449069341,
+    "wof:lastmodified":1466313966,
     "wof:name":"US Land Management Bureau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-165.403075,64.497006,-165.403075,64.497006],
+  "bbox": [
+    -165.403075,
+    64.497006,
+    -165.403075,
+    64.497006
+],
   "geometry": {"coordinates":[-165.403075,64.497006],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178151",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.876771,61.197508,-149.876771,61.197508",
     "geom:latitude":61.197508,
     "geom:longitude":-149.876771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2550 Denali St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873713,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102178151",
-    "wof:lastmodified":1449069529,
+    "wof:lastmodified":1466313904,
     "wof:name":"Alaska Senior Resources",
     "wof:parent_id":85873713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.876771,61.197508,-149.876771,61.197508],
-  "geometry": {"coordinates":[-149.876771,61.197508],"type":"Point"}
+  "bbox": [
+    -149.876771,
+    61.197508,
+    -149.876771,
+    61.197508
+],
+  "geometry": {"coordinates":[-149.87677099999999,61.197508],"type":"Point"}
 }

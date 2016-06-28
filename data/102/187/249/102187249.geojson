@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187249",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.481512,61.640992,-149.481512,61.640992",
     "geom:latitude":61.640992,
     "geom:longitude":-149.481512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5300 N Salvage Way",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102187249",
-    "wof:lastmodified":1449068154,
+    "wof:lastmodified":1466314116,
     "wof:name":"Alaska Truck Salvage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.481512,61.640992,-149.481512,61.640992],
-  "geometry": {"coordinates":[-149.481512,61.640992],"type":"Point"}
+  "bbox": [
+    -149.481512,
+    61.640992,
+    -149.481512,
+    61.640992
+],
+  "geometry": {"coordinates":[-149.48151200000001,61.640992],"type":"Point"}
 }

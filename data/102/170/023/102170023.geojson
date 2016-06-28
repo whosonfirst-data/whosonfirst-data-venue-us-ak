@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102170023",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.530255,64.94691,-147.530255,64.94691",
     "geom:latitude":64.94691,
     "geom:longitude":-147.530255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1912 Gilmore Trl",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102170023",
-    "wof:lastmodified":1449068019,
+    "wof:lastmodified":1466313734,
     "wof:name":"Dome Studios",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.530255,64.94691,-147.530255,64.94691],
-  "geometry": {"coordinates":[-147.530255,64.94691],"type":"Point"}
+  "bbox": [
+    -147.530255,
+    64.94691,
+    -147.530255,
+    64.94691
+],
+  "geometry": {"coordinates":[-147.53025500000001,64.94691],"type":"Point"}
 }

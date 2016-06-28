@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102152121",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.820114,61.147459,-149.820114,61.147459",
     "geom:latitude":61.147459,
     "geom:longitude":-149.820114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8071 Pinebrook Cir",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102152121",
-    "wof:lastmodified":1449069637,
+    "wof:lastmodified":1466313483,
     "wof:name":"Class Janitorial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.820114,61.147459,-149.820114,61.147459],
-  "geometry": {"coordinates":[-149.820114,61.147459],"type":"Point"}
+  "bbox": [
+    -149.820114,
+    61.147459,
+    -149.820114,
+    61.147459
+],
+  "geometry": {"coordinates":[-149.82011399999999,61.147459],"type":"Point"}
 }

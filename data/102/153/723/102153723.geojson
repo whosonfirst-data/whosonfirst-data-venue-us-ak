@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153723",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.881393,61.16453,-149.881393,61.16453",
     "geom:latitude":61.16453,
     "geom:longitude":-149.881393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 A St Lp",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873723,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102153723",
-    "wof:lastmodified":1449069462,
+    "wof:lastmodified":1466313599,
     "wof:name":"Heusser Construction",
     "wof:parent_id":85873723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.881393,61.16453,-149.881393,61.16453],
+  "bbox": [
+    -149.881393,
+    61.16453,
+    -149.881393,
+    61.16453
+],
   "geometry": {"coordinates":[-149.881393,61.16453],"type":"Point"}
 }

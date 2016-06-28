@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166793",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.719408,64.84111,-147.719408,64.84111",
     "geom:latitude":64.84111,
     "geom:longitude":-147.719408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 6th Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848979,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85848979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102166793",
-    "wof:lastmodified":1449069086,
+    "wof:lastmodified":1466313825,
     "wof:name":"Pewter Barn",
     "wof:parent_id":85848979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.719408,64.84111,-147.719408,64.84111],
-  "geometry": {"coordinates":[-147.719408,64.84111],"type":"Point"}
+  "bbox": [
+    -147.719408,
+    64.84111,
+    -147.719408,
+    64.84111
+],
+  "geometry": {"coordinates":[-147.71940799999999,64.84111],"type":"Point"}
 }

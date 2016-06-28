@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184265",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.629017,55.335597,-131.629017,55.335597",
     "geom:latitude":55.335597,
     "geom:longitude":-131.629017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"636 Stedman St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102184265",
-    "wof:lastmodified":1449068216,
+    "wof:lastmodified":1466314101,
     "wof:name":"Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.629017,55.335597,-131.629017,55.335597],
+  "bbox": [
+    -131.629017,
+    55.335597,
+    -131.629017,
+    55.335597
+],
   "geometry": {"coordinates":[-131.629017,55.335597],"type":"Point"}
 }

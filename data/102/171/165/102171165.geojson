@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171165",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.083966,60.502151,-151.083966,60.502151",
     "geom:latitude":60.502151,
     "geom:longitude":-151.083966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44875 Spruce Ave",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102171165",
-    "wof:lastmodified":1449070227,
+    "wof:lastmodified":1466313833,
     "wof:name":"Ridgeway Montessori",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.083966,60.502151,-151.083966,60.502151],
+  "bbox": [
+    -151.083966,
+    60.502151,
+    -151.083966,
+    60.502151
+],
   "geometry": {"coordinates":[-151.083966,60.502151],"type":"Point"}
 }

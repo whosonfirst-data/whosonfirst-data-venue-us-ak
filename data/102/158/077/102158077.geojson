@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102158077",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.57461,61.326609,-149.57461,61.326609",
     "geom:latitude":61.326609,
     "geom:longitude":-149.57461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11700 Business Blvd",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102158077",
-    "wof:lastmodified":1449069392,
+    "wof:lastmodified":1466313521,
     "wof:name":"Publix Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.57461,61.326609,-149.57461,61.326609],
-  "geometry": {"coordinates":[-149.57461,61.326609],"type":"Point"}
+  "bbox": [
+    -149.57461,
+    61.326609,
+    -149.57461,
+    61.326609
+],
+  "geometry": {"coordinates":[-149.57461000000001,61.326609],"type":"Point"}
 }

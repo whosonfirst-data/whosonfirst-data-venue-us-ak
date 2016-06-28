@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102183153",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.564447,61.328565,-149.564447,61.328565",
     "geom:latitude":61.328565,
     "geom:longitude":-149.564447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11915 Lazy St",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102183153",
-    "wof:lastmodified":1449069042,
+    "wof:lastmodified":1466314187,
     "wof:name":"Stacey D Seitz Counseling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.564447,61.328565,-149.564447,61.328565],
+  "bbox": [
+    -149.564447,
+    61.328565,
+    -149.564447,
+    61.328565
+],
   "geometry": {"coordinates":[-149.564447,61.328565],"type":"Point"}
 }

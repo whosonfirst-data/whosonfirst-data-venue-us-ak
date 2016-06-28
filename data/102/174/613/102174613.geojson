@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102174613",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.453318,59.675889,-151.453318,59.675889",
     "geom:latitude":59.675889,
     "geom:longitude":-151.453318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59800 Tern Ct",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834363,
+        85688573,
         85633793,
         85915739,
         102081909,
-        85688573
+        85834363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102174613",
-    "wof:lastmodified":1449068137,
+    "wof:lastmodified":1466313977,
     "wof:name":"Brigitte's Bavarian B & B",
     "wof:parent_id":85834363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.453318,59.675889,-151.453318,59.675889],
+  "bbox": [
+    -151.453318,
+    59.675889,
+    -151.453318,
+    59.675889
+],
   "geometry": {"coordinates":[-151.453318,59.675889],"type":"Point"}
 }

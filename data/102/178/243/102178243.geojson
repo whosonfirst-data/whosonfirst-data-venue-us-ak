@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178243",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.85779,61.159314,-149.85779,61.159314",
     "geom:latitude":61.159314,
     "geom:longitude":-149.85779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 E 68th Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809155,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85809155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":"102178243",
-    "wof:lastmodified":1449069530,
+    "wof:lastmodified":1466313922,
     "wof:name":"Rite Way Roofing Inc",
     "wof:parent_id":85809155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.85779,61.159314,-149.85779,61.159314],
-  "geometry": {"coordinates":[-149.85779,61.159314],"type":"Point"}
+  "bbox": [
+    -149.85779,
+    61.159314,
+    -149.85779,
+    61.159314
+],
+  "geometry": {"coordinates":[-149.85778999999999,61.159314],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166507",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.343035,57.814264,-152.343035,57.814264",
     "geom:latitude":57.814264,
     "geom:longitude":-152.343035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"498 Shearwater Dr",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102166507",
-    "wof:lastmodified":1449069086,
+    "wof:lastmodified":1466313766,
     "wof:name":"Alaskan Wilderness Wines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.343035,57.814264,-152.343035,57.814264],
-  "geometry": {"coordinates":[-152.343035,57.814264],"type":"Point"}
+  "bbox": [
+    -152.343035,
+    57.814264,
+    -152.343035,
+    57.814264
+],
+  "geometry": {"coordinates":[-152.34303499999999,57.814264],"type":"Point"}
 }

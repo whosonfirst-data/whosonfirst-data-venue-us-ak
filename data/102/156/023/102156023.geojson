@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102156023",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.850526,64.809497,-147.850526,64.809497",
     "geom:latitude":64.809497,
     "geom:longitude":-147.850526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3855 University Ave S",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102156023",
-    "wof:lastmodified":1449068283,
+    "wof:lastmodified":1466313472,
     "wof:name":"Civil Air Patrol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.850526,64.809497,-147.850526,64.809497],
-  "geometry": {"coordinates":[-147.850526,64.809497],"type":"Point"}
+  "bbox": [
+    -147.850526,
+    64.809497,
+    -147.850526,
+    64.809497
+],
+  "geometry": {"coordinates":[-147.850526,64.80949699999999],"type":"Point"}
 }

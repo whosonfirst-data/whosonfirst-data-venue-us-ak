@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191921",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.89757,61.213632,-149.89757,61.213632",
     "geom:latitude":61.213632,
     "geom:longitude":-149.89757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 H St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.skinnyraven.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873721,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102191921",
-    "wof:lastmodified":1449069202,
+    "wof:lastmodified":1466314162,
     "wof:name":"Skinny Raven Sports",
     "wof:parent_id":85873721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.89757,61.213632,-149.89757,61.213632],
+  "bbox": [
+    -149.89757,
+    61.213632,
+    -149.89757,
+    61.213632
+],
   "geometry": {"coordinates":[-149.89757,61.213632],"type":"Point"}
 }

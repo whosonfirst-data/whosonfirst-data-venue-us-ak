@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102186007",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.439248,64.89375,-147.439248,64.89375",
     "geom:latitude":64.89375,
     "geom:longitude":-147.439248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"810 Amanita Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102186007",
-    "wof:lastmodified":1449069655,
+    "wof:lastmodified":1466314073,
     "wof:name":"10th Planet Records",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.439248,64.89375,-147.439248,64.89375],
-  "geometry": {"coordinates":[-147.439248,64.89375],"type":"Point"}
+  "bbox": [
+    -147.439248,
+    64.89375,
+    -147.439248,
+    64.89375
+],
+  "geometry": {"coordinates":[-147.43924799999999,64.89375],"type":"Point"}
 }

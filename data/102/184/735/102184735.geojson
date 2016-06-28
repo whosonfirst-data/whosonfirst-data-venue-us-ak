@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184735",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.76861,64.836844,-147.76861,64.836844",
     "geom:latitude":64.836844,
     "geom:longitude":-147.76861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2142 Airport Way",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.twoltersagency.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856935,
+        85688573,
         85633793,
         85916609,
         102081397,
-        85688573
+        85856935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102184735",
-    "wof:lastmodified":1449068218,
+    "wof:lastmodified":1466314221,
     "wof:name":"Allstate Insurance",
     "wof:parent_id":85856935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.76861,64.836844,-147.76861,64.836844],
+  "bbox": [
+    -147.76861,
+    64.836844,
+    -147.76861,
+    64.836844
+],
   "geometry": {"coordinates":[-147.76861,64.836844],"type":"Point"}
 }

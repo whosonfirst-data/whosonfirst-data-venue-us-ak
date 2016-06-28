@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102194003",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.075097,60.47993,-151.075097,60.47993",
     "geom:latitude":60.47993,
     "geom:longitude":-151.075097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44611 Sterling Hwy",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102194003",
-    "wof:lastmodified":1449069830,
+    "wof:lastmodified":1466314209,
     "wof:name":"Riverside House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.075097,60.47993,-151.075097,60.47993],
+  "bbox": [
+    -151.075097,
+    60.47993,
+    -151.075097,
+    60.47993
+],
   "geometry": {"coordinates":[-151.075097,60.47993],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102179535",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.317412,64.748834,-147.317412,64.748834",
     "geom:latitude":64.748834,
     "geom:longitude":-147.317412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3088 Kris Kringle Dr",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102179535",
-    "wof:lastmodified":1449069941,
+    "wof:lastmodified":1466313980,
     "wof:name":"Expressway Auto Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.317412,64.748834,-147.317412,64.748834],
-  "geometry": {"coordinates":[-147.317412,64.748834],"type":"Point"}
+  "bbox": [
+    -147.317412,
+    64.748834,
+    -147.317412,
+    64.748834
+],
+  "geometry": {"coordinates":[-147.31741199999999,64.748834],"type":"Point"}
 }

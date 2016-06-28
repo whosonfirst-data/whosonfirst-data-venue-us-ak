@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102159335",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.359498,61.599067,-149.359498,61.599067",
     "geom:latitude":61.599067,
     "geom:longitude":-149.359498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 Seward Meridian Rd",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102159335",
-    "wof:lastmodified":1449068094,
+    "wof:lastmodified":1466313589,
     "wof:name":"Stepping Stone Childcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.359498,61.599067,-149.359498,61.599067],
+  "bbox": [
+    -149.359498,
+    61.599067,
+    -149.359498,
+    61.599067
+],
   "geometry": {"coordinates":[-149.359498,61.599067],"type":"Point"}
 }

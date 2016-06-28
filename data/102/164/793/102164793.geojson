@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102164793",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.678294,55.354958,-131.678294,55.354958",
     "geom:latitude":55.354958,
     "geom:longitude":-131.678294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2721 7th Ave",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102164793",
-    "wof:lastmodified":1449068090,
+    "wof:lastmodified":1466313818,
     "wof:name":"Ketchikan Youth Soccer League",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.678294,55.354958,-131.678294,55.354958],
-  "geometry": {"coordinates":[-131.678294,55.354958],"type":"Point"}
+  "bbox": [
+    -131.678294,
+    55.354958,
+    -131.678294,
+    55.354958
+],
+  "geometry": {"coordinates":[-131.67829399999999,55.354958],"type":"Point"}
 }

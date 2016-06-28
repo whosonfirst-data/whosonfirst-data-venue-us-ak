@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187189",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.386555,58.273572,-134.386555,58.273572",
     "geom:latitude":58.273572,
     "geom:longitude":-134.386555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Savikko Rd",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102187189",
-    "wof:lastmodified":1449068158,
+    "wof:lastmodified":1466314105,
     "wof:name":"Treadwell Ice Arena",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.386555,58.273572,-134.386555,58.273572],
-  "geometry": {"coordinates":[-134.386555,58.273572],"type":"Point"}
+  "bbox": [
+    -134.386555,
+    58.273572,
+    -134.386555,
+    58.273572
+],
+  "geometry": {"coordinates":[-134.38655499999999,58.273572],"type":"Point"}
 }

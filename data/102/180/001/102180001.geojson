@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102180001",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.773155,64.85602,-147.773155,64.85602",
     "geom:latitude":64.85602,
     "geom:longitude":-147.773155,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"926 Aspen St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856935,
+        85688573,
         85633793,
         85916609,
         102081397,
-        85688573
+        85856935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102180001",
-    "wof:lastmodified":1449067872,
+    "wof:lastmodified":1466314143,
     "wof:name":"Halco Enterprises",
     "wof:parent_id":85856935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.773155,64.85602,-147.773155,64.85602],
+  "bbox": [
+    -147.773155,
+    64.85602,
+    -147.773155,
+    64.85602
+],
   "geometry": {"coordinates":[-147.773155,64.85602],"type":"Point"}
 }

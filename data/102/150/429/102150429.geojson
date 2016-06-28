@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102150429",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.674343,64.913937,-147.674343,64.913937",
     "geom:latitude":64.913937,
     "geom:longitude":-147.674343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"448 Eagle Ridge Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102150429",
-    "wof:lastmodified":1449067792,
+    "wof:lastmodified":1466314010,
     "wof:name":"Eagle Ridge Stables",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.674343,64.913937,-147.674343,64.913937],
-  "geometry": {"coordinates":[-147.674343,64.913937],"type":"Point"}
+  "bbox": [
+    -147.674343,
+    64.913937,
+    -147.674343,
+    64.913937
+],
+  "geometry": {"coordinates":[-147.67434299999999,64.913937],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155129",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.572429,58.391838,-134.572429,58.391838",
     "geom:latitude":58.391838,
     "geom:longitude":-134.572429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8133 Pinewood Dr",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.alaskawedding.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833767,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85833767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102155129",
-    "wof:lastmodified":1449069744,
+    "wof:lastmodified":1466313484,
     "wof:name":"Sitka Rose Studio",
     "wof:parent_id":85833767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.572429,58.391838,-134.572429,58.391838],
+  "bbox": [
+    -134.572429,
+    58.391838,
+    -134.572429,
+    58.391838
+],
   "geometry": {"coordinates":[-134.572429,58.391838],"type":"Point"}
 }

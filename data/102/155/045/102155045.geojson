@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155045",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.412034,61.577778,-149.412034,61.577778",
     "geom:latitude":61.577778,
     "geom:longitude":-149.412034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1561 E Parks Hwy",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102155045",
-    "wof:lastmodified":1449069745,
+    "wof:lastmodified":1466314095,
     "wof:name":"Brew Bakers Espresso",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.412034,61.577778,-149.412034,61.577778],
-  "geometry": {"coordinates":[-149.412034,61.577778],"type":"Point"}
+  "bbox": [
+    -149.412034,
+    61.577778,
+    -149.412034,
+    61.577778
+],
+  "geometry": {"coordinates":[-149.41203400000001,61.577778],"type":"Point"}
 }

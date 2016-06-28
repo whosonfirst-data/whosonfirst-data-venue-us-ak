@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171575",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.400561,57.791915,-152.400561,57.791915",
     "geom:latitude":57.791915,
     "geom:longitude":-152.400561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Upper Mill Bay Rd",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102171575",
-    "wof:lastmodified":1449070222,
+    "wof:lastmodified":1466313916,
     "wof:name":"Swan's Touch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.400561,57.791915,-152.400561,57.791915],
-  "geometry": {"coordinates":[-152.400561,57.791915],"type":"Point"}
+  "bbox": [
+    -152.400561,
+    57.791915,
+    -152.400561,
+    57.791915
+],
+  "geometry": {"coordinates":[-152.40056100000001,57.791915],"type":"Point"}
 }

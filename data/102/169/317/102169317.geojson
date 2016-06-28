@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102169317",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.370913,60.48798,-149.370913,60.48798",
     "geom:latitude":60.48798,
     "geom:longitude":-149.370913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35168 Seward Hwy",
     "sg:city":"Moose Pass",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102169317",
-    "wof:lastmodified":1449069247,
+    "wof:lastmodified":1466313774,
     "wof:name":"Trail Lake Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.370913,60.48798,-149.370913,60.48798],
+  "bbox": [
+    -149.370913,
+    60.48798,
+    -149.370913,
+    60.48798
+],
   "geometry": {"coordinates":[-149.370913,60.48798],"type":"Point"}
 }

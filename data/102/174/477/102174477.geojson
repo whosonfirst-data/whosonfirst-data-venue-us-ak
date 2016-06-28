@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102174477",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.926032,64.804278,-147.926032,64.804278",
     "geom:latitude":64.804278,
     "geom:longitude":-147.926032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2625 Tall Spruce Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102174477",
-    "wof:lastmodified":1449068137,
+    "wof:lastmodified":1466313951,
     "wof:name":"Bliss Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.926032,64.804278,-147.926032,64.804278],
-  "geometry": {"coordinates":[-147.926032,64.804278],"type":"Point"}
+  "bbox": [
+    -147.926032,
+    64.804278,
+    -147.926032,
+    64.804278
+],
+  "geometry": {"coordinates":[-147.92603199999999,64.804278],"type":"Point"}
 }

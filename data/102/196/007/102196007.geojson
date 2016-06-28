@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102196007",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.519261,59.64786,-151.519261,59.64786",
     "geom:latitude":59.64786,
     "geom:longitude":-151.519261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"996 Hillfair Ct",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102196007",
-    "wof:lastmodified":1449068338,
+    "wof:lastmodified":1466314300,
     "wof:name":"Sea More Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.519261,59.64786,-151.519261,59.64786],
+  "bbox": [
+    -151.519261,
+    59.64786,
+    -151.519261,
+    59.64786
+],
   "geometry": {"coordinates":[-151.519261,59.64786],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102164369",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.679955,64.818173,-147.679955,64.818173",
     "geom:latitude":64.818173,
     "geom:longitude":-147.679955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"751 Old Richardson Hwy",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102164369",
-    "wof:lastmodified":1449068091,
+    "wof:lastmodified":1466313731,
     "wof:name":"Doctors Co",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.679955,64.818173,-147.679955,64.818173],
-  "geometry": {"coordinates":[-147.679955,64.818173],"type":"Point"}
+  "bbox": [
+    -147.679955,
+    64.818173,
+    -147.679955,
+    64.818173
+],
+  "geometry": {"coordinates":[-147.67995500000001,64.818173],"type":"Point"}
 }

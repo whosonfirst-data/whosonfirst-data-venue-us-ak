@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102149389",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-133.132207,55.475147,-133.132207,55.475147",
     "geom:latitude":55.475147,
     "geom:longitude":-133.132207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1617 Sunnahae Ct",
     "sg:city":"Craig",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102149389",
-    "wof:lastmodified":1449067770,
+    "wof:lastmodified":1466313511,
     "wof:name":"Ikes Building Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-133.132207,55.475147,-133.132207,55.475147],
-  "geometry": {"coordinates":[-133.132207,55.475147],"type":"Point"}
+  "bbox": [
+    -133.132207,
+    55.475147,
+    -133.132207,
+    55.475147
+],
+  "geometry": {"coordinates":[-133.13220699999999,55.475147],"type":"Point"}
 }

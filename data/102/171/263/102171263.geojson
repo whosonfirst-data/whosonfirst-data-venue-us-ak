@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171263",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.819356,64.871996,-147.819356,64.871996",
     "geom:latitude":64.871996,
     "geom:longitude":-147.819356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1798 Iniakuk Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102171263",
-    "wof:lastmodified":1449070227,
+    "wof:lastmodified":1466313854,
     "wof:name":"Christ Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.819356,64.871996,-147.819356,64.871996],
+  "bbox": [
+    -147.819356,
+    64.871996,
+    -147.819356,
+    64.871996
+],
   "geometry": {"coordinates":[-147.819356,64.871996],"type":"Point"}
 }

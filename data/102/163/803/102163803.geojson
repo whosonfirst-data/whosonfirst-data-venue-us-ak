@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102163803",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.816476,61.103745,-149.816476,61.103745",
     "geom:latitude":61.103745,
     "geom:longitude":-149.816476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3601 Taiga Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873753,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102163803",
-    "wof:lastmodified":1449070164,
+    "wof:lastmodified":1466313811,
     "wof:name":"Kodiak Electric & Builders",
     "wof:parent_id":85873753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.816476,61.103745,-149.816476,61.103745],
-  "geometry": {"coordinates":[-149.816476,61.103745],"type":"Point"}
+  "bbox": [
+    -149.816476,
+    61.103745,
+    -149.816476,
+    61.103745
+],
+  "geometry": {"coordinates":[-149.81647599999999,61.103745],"type":"Point"}
 }

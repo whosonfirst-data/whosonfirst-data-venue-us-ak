@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102186227",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.525176,59.64555,-151.525176,59.64555",
     "geom:latitude":59.64555,
     "geom:longitude":-151.525176,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3798 Lake St",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102186227",
-    "wof:lastmodified":1449069653,
+    "wof:lastmodified":1466314104,
     "wof:name":"China Grill 24",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.525176,59.64555,-151.525176,59.64555],
-  "geometry": {"coordinates":[-151.525176,59.64555],"type":"Point"}
+  "bbox": [
+    -151.525176,
+    59.64555,
+    -151.525176,
+    59.64555
+],
+  "geometry": {"coordinates":[-151.52517599999999,59.64555],"type":"Point"}
 }

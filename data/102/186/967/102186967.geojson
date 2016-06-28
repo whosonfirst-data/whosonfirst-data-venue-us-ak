@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102186967",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.745427,64.963002,-147.745427,64.963002",
     "geom:latitude":64.963002,
     "geom:longitude":-147.745427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2324 Waterford Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102186967",
-    "wof:lastmodified":1449069655,
+    "wof:lastmodified":1466314238,
     "wof:name":"Inksworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.745427,64.963002,-147.745427,64.963002],
-  "geometry": {"coordinates":[-147.745427,64.963002],"type":"Point"}
+  "bbox": [
+    -147.745427,
+    64.963002,
+    -147.745427,
+    64.963002
+],
+  "geometry": {"coordinates":[-147.74542700000001,64.963002],"type":"Point"}
 }

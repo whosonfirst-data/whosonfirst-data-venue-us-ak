@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102177331",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.069904,60.495416,-151.069904,60.495416",
     "geom:latitude":60.495416,
     "geom:longitude":-151.069904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35555 Kenai Spur Hwy",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102177331",
-    "wof:lastmodified":1449070208,
+    "wof:lastmodified":1466313937,
     "wof:name":"George M Kapolchok Law Offices",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.069904,60.495416,-151.069904,60.495416],
-  "geometry": {"coordinates":[-151.069904,60.495416],"type":"Point"}
+  "bbox": [
+    -151.069904,
+    60.495416,
+    -151.069904,
+    60.495416
+],
+  "geometry": {"coordinates":[-151.06990400000001,60.495416],"type":"Point"}
 }

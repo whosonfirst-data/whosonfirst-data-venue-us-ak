@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187621",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.674221,55.351173,-131.674221,55.351173",
     "geom:latitude":55.351173,
     "geom:longitude":-131.674221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2428 2nd Ave",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102187621",
-    "wof:lastmodified":1449068160,
+    "wof:lastmodified":1466314221,
     "wof:name":"Bergeron Construction Co LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.674221,55.351173,-131.674221,55.351173],
-  "geometry": {"coordinates":[-131.674221,55.351173],"type":"Point"}
+  "bbox": [
+    -131.674221,
+    55.351173,
+    -131.674221,
+    55.351173
+],
+  "geometry": {"coordinates":[-131.67422099999999,55.351173],"type":"Point"}
 }

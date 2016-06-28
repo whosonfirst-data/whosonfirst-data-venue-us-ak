@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102194337",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.807571,61.073377,-149.807571,61.073377",
     "geom:latitude":61.073377,
     "geom:longitude":-149.807571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16200 Old Seward Hwy",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873755,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102194337",
-    "wof:lastmodified":1449069828,
+    "wof:lastmodified":1466314255,
     "wof:name":"Returnagain Bed & Breakfast",
     "wof:parent_id":85873755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.807571,61.073377,-149.807571,61.073377],
+  "bbox": [
+    -149.807571,
+    61.073377,
+    -149.807571,
+    61.073377
+],
   "geometry": {"coordinates":[-149.807571,61.073377],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102194425",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.898407,61.142944,-149.898407,61.142944",
     "geom:latitude":61.142944,
     "geom:longitude":-149.898407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1160 W Dimond Blvd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809155,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85809155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102194425",
-    "wof:lastmodified":1449069828,
+    "wof:lastmodified":1466314257,
     "wof:name":"Bar-B-Que Pit",
     "wof:parent_id":85809155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.898407,61.142944,-149.898407,61.142944],
-  "geometry": {"coordinates":[-149.898407,61.142944],"type":"Point"}
+  "bbox": [
+    -149.898407,
+    61.142944,
+    -149.898407,
+    61.142944
+],
+  "geometry": {"coordinates":[-149.89840699999999,61.142944],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102182177",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.808448,61.218323,-149.808448,61.218323",
     "geom:latitude":61.218323,
     "geom:longitude":-149.808448,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"550 S Bragaw St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.pacificnorthern.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835847,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85835847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102182177",
-    "wof:lastmodified":1449069282,
+    "wof:lastmodified":1466314180,
     "wof:name":"Pacific Northern Academy",
     "wof:parent_id":85835847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.808448,61.218323,-149.808448,61.218323],
+  "bbox": [
+    -149.808448,
+    61.218323,
+    -149.808448,
+    61.218323
+],
   "geometry": {"coordinates":[-149.808448,61.218323],"type":"Point"}
 }

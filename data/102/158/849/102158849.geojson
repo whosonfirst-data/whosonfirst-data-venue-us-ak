@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102158849",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-161.759858,60.793648,-161.759858,60.793648",
     "geom:latitude":60.793648,
     "geom:longitude":-161.759858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Kilbuck St",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102158849",
-    "wof:lastmodified":1449069394,
+    "wof:lastmodified":1466313678,
     "wof:name":"Hair Cuts Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-161.759858,60.793648,-161.759858,60.793648],
-  "geometry": {"coordinates":[-161.759858,60.793648],"type":"Point"}
+  "bbox": [
+    -161.759858,
+    60.793648,
+    -161.759858,
+    60.793648
+],
+  "geometry": {"coordinates":[-161.75985800000001,60.793648],"type":"Point"}
 }

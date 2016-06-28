@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102159199",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.974125,56.806968,-132.974125,56.806968",
     "geom:latitude":56.806968,
     "geom:longitude":-132.974125,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"916 S Nordic Dr",
     "sg:city":"Petersburg",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102159199",
-    "wof:lastmodified":1449068091,
+    "wof:lastmodified":1466313561,
     "wof:name":"Petersburg Shipwrights Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.974125,56.806968,-132.974125,56.806968],
-  "geometry": {"coordinates":[-132.974125,56.806968],"type":"Point"}
+  "bbox": [
+    -132.974125,
+    56.806968,
+    -132.974125,
+    56.806968
+],
+  "geometry": {"coordinates":[-132.97412499999999,56.806968],"type":"Point"}
 }

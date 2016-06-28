@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102169907",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.946391,61.161212,-149.946391,61.161212",
     "geom:latitude":61.161212,
     "geom:longitude":-149.946391,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6625 Chevigny St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873737,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102169907",
-    "wof:lastmodified":1449069250,
+    "wof:lastmodified":1466313891,
     "wof:name":"Amco Appliance Repair",
     "wof:parent_id":85873737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.946391,61.161212,-149.946391,61.161212],
-  "geometry": {"coordinates":[-149.946391,61.161212],"type":"Point"}
+  "bbox": [
+    -149.946391,
+    61.161212,
+    -149.946391,
+    61.161212
+],
+  "geometry": {"coordinates":[-149.94639100000001,61.161212],"type":"Point"}
 }

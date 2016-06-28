@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166805",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.780474,61.195317,-149.780474,61.195317",
     "geom:latitude":61.195317,
     "geom:longitude":-149.780474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5497 E Northern Lights Blvd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806647,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85806647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102166805",
-    "wof:lastmodified":1449069086,
+    "wof:lastmodified":1466313827,
     "wof:name":"Holiday",
     "wof:parent_id":85806647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.780474,61.195317,-149.780474,61.195317],
+  "bbox": [
+    -149.780474,
+    61.195317,
+    -149.780474,
+    61.195317
+],
   "geometry": {"coordinates":[-149.780474,61.195317],"type":"Point"}
 }

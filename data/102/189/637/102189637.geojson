@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102189637",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.353268,64.75575,-147.353268,64.75575",
     "geom:latitude":64.75575,
     "geom:longitude":-147.353268,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 N Santa Claus Ln",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102189637",
-    "wof:lastmodified":1449069497,
+    "wof:lastmodified":1466313777,
     "wof:name":"Polar Dental Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.353268,64.75575,-147.353268,64.75575],
-  "geometry": {"coordinates":[-147.353268,64.75575],"type":"Point"}
+  "bbox": [
+    -147.353268,
+    64.75575,
+    -147.353268,
+    64.75575
+],
+  "geometry": {"coordinates":[-147.35326800000001,64.75575000000001],"type":"Point"}
 }

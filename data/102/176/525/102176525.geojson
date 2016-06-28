@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176525",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.92076,64.816591,-147.92076,64.816591",
     "geom:latitude":64.816591,
     "geom:longitude":-147.92076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1124 Dolphin Way",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102176525",
-    "wof:lastmodified":1449069347,
+    "wof:lastmodified":1466313973,
     "wof:name":"Lee's Tube & Fabric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.92076,64.816591,-147.92076,64.816591],
+  "bbox": [
+    -147.92076,
+    64.816591,
+    -147.92076,
+    64.816591
+],
   "geometry": {"coordinates":[-147.92076,64.816591],"type":"Point"}
 }

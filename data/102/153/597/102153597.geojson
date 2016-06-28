@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153597",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.944186,64.891246,-147.944186,64.891246",
     "geom:latitude":64.891246,
     "geom:longitude":-147.944186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2960 Ester Dome Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102153597",
-    "wof:lastmodified":1449069463,
+    "wof:lastmodified":1466313573,
     "wof:name":"Happy Creek Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.944186,64.891246,-147.944186,64.891246],
+  "bbox": [
+    -147.944186,
+    64.891246,
+    -147.944186,
+    64.891246
+],
   "geometry": {"coordinates":[-147.944186,64.891246],"type":"Point"}
 }

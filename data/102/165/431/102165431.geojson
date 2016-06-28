@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102165431",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.569785,61.316086,-149.569785,61.316086",
     "geom:latitude":61.316086,
     "geom:longitude":-149.569785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16716 Fire House Ln",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102165431",
-    "wof:lastmodified":1449070213,
+    "wof:lastmodified":1466313743,
     "wof:name":"Eagle River Street Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.569785,61.316086,-149.569785,61.316086],
+  "bbox": [
+    -149.569785,
+    61.316086,
+    -149.569785,
+    61.316086
+],
   "geometry": {"coordinates":[-149.569785,61.316086],"type":"Point"}
 }

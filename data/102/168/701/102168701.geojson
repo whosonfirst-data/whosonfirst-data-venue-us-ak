@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102168701",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.86527,64.828103,-147.86527,64.828103",
     "geom:latitude":64.828103,
     "geom:longitude":-147.86527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1975 Discovery Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102168701",
-    "wof:lastmodified":1449069009,
+    "wof:lastmodified":1466313811,
     "wof:name":"Riverboat Discovery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.86527,64.828103,-147.86527,64.828103],
-  "geometry": {"coordinates":[-147.86527,64.828103],"type":"Point"}
+  "bbox": [
+    -147.86527,
+    64.828103,
+    -147.86527,
+    64.828103
+],
+  "geometry": {"coordinates":[-147.86527000000001,64.828103],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155015",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.884111,61.162784,-149.884111,61.162784",
     "geom:latitude":61.162784,
     "geom:longitude":-149.884111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"299 W 64th Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809155,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85809155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102155015",
-    "wof:lastmodified":1449069744,
+    "wof:lastmodified":1466313466,
     "wof:name":"Bekins Moving & Storage",
     "wof:parent_id":85809155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.884111,61.162784,-149.884111,61.162784],
-  "geometry": {"coordinates":[-149.884111,61.162784],"type":"Point"}
+  "bbox": [
+    -149.884111,
+    61.162784,
+    -149.884111,
+    61.162784
+],
+  "geometry": {"coordinates":[-149.88411099999999,61.162784],"type":"Point"}
 }

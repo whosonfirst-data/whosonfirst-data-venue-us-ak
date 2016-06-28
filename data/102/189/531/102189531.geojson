@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102189531",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-165.394071,64.497151,-165.394071,64.497151",
     "geom:latitude":64.497151,
     "geom:longitude":-165.394071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 E 3rd Ave",
     "sg:city":"Nome",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102189531",
-    "wof:lastmodified":1449069497,
+    "wof:lastmodified":1466313755,
     "wof:name":"Nome Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-165.394071,64.497151,-165.394071,64.497151],
+  "bbox": [
+    -165.394071,
+    64.497151,
+    -165.394071,
+    64.497151
+],
   "geometry": {"coordinates":[-165.394071,64.497151],"type":"Point"}
 }

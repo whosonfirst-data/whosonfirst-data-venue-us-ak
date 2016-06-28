@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102160721",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.862841,61.216573,-149.862841,61.216573",
     "geom:latitude":61.216573,
     "geom:longitude":-149.862841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 E 6th Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.mbalaska.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873717,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102160721",
-    "wof:lastmodified":1449069779,
+    "wof:lastmodified":1466313738,
     "wof:name":"Mercedes-Benz Of Anchorage",
     "wof:parent_id":85873717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.862841,61.216573,-149.862841,61.216573],
+  "bbox": [
+    -149.862841,
+    61.216573,
+    -149.862841,
+    61.216573
+],
   "geometry": {"coordinates":[-149.862841,61.216573],"type":"Point"}
 }

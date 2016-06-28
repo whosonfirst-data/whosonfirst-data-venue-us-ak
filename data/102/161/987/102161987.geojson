@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102161987",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.407402,57.787734,-152.407402,57.787734",
     "geom:latitude":57.787734,
     "geom:longitude":-152.407402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 Marine Way W",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102161987",
-    "wof:lastmodified":1449068710,
+    "wof:lastmodified":1466313846,
     "wof:name":"United Fishermen's Marketing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.407402,57.787734,-152.407402,57.787734],
-  "geometry": {"coordinates":[-152.407402,57.787734],"type":"Point"}
+  "bbox": [
+    -152.407402,
+    57.787734,
+    -152.407402,
+    57.787734
+],
+  "geometry": {"coordinates":[-152.40740199999999,57.787734],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102193651",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.791196,64.812944,-147.791196,64.812944",
     "geom:latitude":64.812944,
     "geom:longitude":-147.791196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2890 Van Horn Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102193651",
-    "wof:lastmodified":1449068192,
+    "wof:lastmodified":1466314277,
     "wof:name":"Northwest Mining",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.791196,64.812944,-147.791196,64.812944],
-  "geometry": {"coordinates":[-147.791196,64.812944],"type":"Point"}
+  "bbox": [
+    -147.791196,
+    64.812944,
+    -147.791196,
+    64.812944
+],
+  "geometry": {"coordinates":[-147.79119600000001,64.812944],"type":"Point"}
 }

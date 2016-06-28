@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171359",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-148.185034,64.819412,-148.185034,64.819412",
     "geom:latitude":64.819412,
     "geom:longitude":-148.185034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4437 Old Nenana Hwy",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102171359",
-    "wof:lastmodified":1449070221,
+    "wof:lastmodified":1466314141,
     "wof:name":"Jamieson Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-148.185034,64.819412,-148.185034,64.819412],
+  "bbox": [
+    -148.185034,
+    64.819412,
+    -148.185034,
+    64.819412
+],
   "geometry": {"coordinates":[-148.185034,64.819412],"type":"Point"}
 }

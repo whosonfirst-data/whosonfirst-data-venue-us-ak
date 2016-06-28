@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102193153",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.816576,61.180911,-149.816576,61.180911",
     "geom:latitude":61.180911,
     "geom:longitude":-149.816576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3405 E Tudor Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873727,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102193153",
-    "wof:lastmodified":1449068195,
+    "wof:lastmodified":1466314269,
     "wof:name":"Express Market",
     "wof:parent_id":85873727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.816576,61.180911,-149.816576,61.180911],
+  "bbox": [
+    -149.816576,
+    61.180911,
+    -149.816576,
+    61.180911
+],
   "geometry": {"coordinates":[-149.816576,61.180911],"type":"Point"}
 }

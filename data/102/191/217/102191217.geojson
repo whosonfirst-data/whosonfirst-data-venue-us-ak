@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191217",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.577123,58.361705,-134.577123,58.361705",
     "geom:latitude":58.361705,
     "geom:longitude":-134.577123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8895 Mallard St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.evergreenmotorsjuneau.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833767,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85833767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102191217",
-    "wof:lastmodified":1449069202,
+    "wof:lastmodified":1466314070,
     "wof:name":"Evergreen Motors Inc",
     "wof:parent_id":85833767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.577123,58.361705,-134.577123,58.361705],
+  "bbox": [
+    -134.577123,
+    58.361705,
+    -134.577123,
+    58.361705
+],
   "geometry": {"coordinates":[-134.577123,58.361705],"type":"Point"}
 }

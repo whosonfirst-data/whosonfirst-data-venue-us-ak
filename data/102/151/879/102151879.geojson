@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102151879",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.567897,58.359885,-134.567897,58.359885",
     "geom:latitude":58.359885,
     "geom:longitude":-134.567897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8375 Old Dairy Rd",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102151879",
-    "wof:lastmodified":1449067780,
+    "wof:lastmodified":1466313566,
     "wof:name":"Perseverance Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.567897,58.359885,-134.567897,58.359885],
-  "geometry": {"coordinates":[-134.567897,58.359885],"type":"Point"}
+  "bbox": [
+    -134.567897,
+    58.359885,
+    -134.567897,
+    58.359885
+],
+  "geometry": {"coordinates":[-134.56789699999999,58.359885],"type":"Point"}
 }

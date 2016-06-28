@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102183915",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.824398,55.447201,-131.824398,55.447201",
     "geom:latitude":55.447201,
     "geom:longitude":-131.824398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"651 Deerberry Ct",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102183915",
-    "wof:lastmodified":1449069044,
+    "wof:lastmodified":1466314178,
     "wof:name":"Stahl Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.824398,55.447201,-131.824398,55.447201],
+  "bbox": [
+    -131.824398,
+    55.447201,
+    -131.824398,
+    55.447201
+],
   "geometry": {"coordinates":[-131.824398,55.447201],"type":"Point"}
 }

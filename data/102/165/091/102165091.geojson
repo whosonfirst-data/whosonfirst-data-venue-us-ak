@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102165091",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.447441,59.235259,-135.447441,59.235259",
     "geom:latitude":59.235259,
     "geom:longitude":-135.447441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Main St",
     "sg:city":"Haines",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85842771,
+        85688573,
         85633793,
         85916629,
         102083767,
-        85688573
+        85842771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102165091",
-    "wof:lastmodified":1449070213,
+    "wof:lastmodified":1466313673,
     "wof:name":"Haines Real Estate",
     "wof:parent_id":85842771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.447441,59.235259,-135.447441,59.235259],
+  "bbox": [
+    -135.447441,
+    59.235259,
+    -135.447441,
+    59.235259
+],
   "geometry": {"coordinates":[-135.447441,59.235259],"type":"Point"}
 }

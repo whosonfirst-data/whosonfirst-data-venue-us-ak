@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153545",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.277659,60.557338,-151.277659,60.557338",
     "geom:latitude":60.557338,
     "geom:longitude":-151.277659,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 S Forest Dr",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102153545",
-    "wof:lastmodified":1449069461,
+    "wof:lastmodified":1466313562,
     "wof:name":"North Country Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.277659,60.557338,-151.277659,60.557338],
+  "bbox": [
+    -151.277659,
+    60.557338,
+    -151.277659,
+    60.557338
+],
   "geometry": {"coordinates":[-151.277659,60.557338],"type":"Point"}
 }

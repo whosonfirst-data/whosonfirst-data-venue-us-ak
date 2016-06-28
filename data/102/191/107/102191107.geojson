@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191107",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.678789,64.88945,-147.678789,64.88945",
     "geom:latitude":64.88945,
     "geom:longitude":-147.678789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 Hempel St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102191107",
-    "wof:lastmodified":1449069197,
+    "wof:lastmodified":1466314059,
     "wof:name":"Del Norte Multi Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.678789,64.88945,-147.678789,64.88945],
-  "geometry": {"coordinates":[-147.678789,64.88945],"type":"Point"}
+  "bbox": [
+    -147.678789,
+    64.88945,
+    -147.678789,
+    64.88945
+],
+  "geometry": {"coordinates":[-147.67878899999999,64.88945],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187327",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.868112,61.128461,-149.868112,61.128461",
     "geom:latitude":61.128461,
     "geom:longitude":-149.868112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10361 Nigh Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873739,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102187327",
-    "wof:lastmodified":1449068153,
+    "wof:lastmodified":1466314207,
     "wof:name":"Triangle Marketing",
     "wof:parent_id":85873739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.868112,61.128461,-149.868112,61.128461],
+  "bbox": [
+    -149.868112,
+    61.128461,
+    -149.868112,
+    61.128461
+],
   "geometry": {"coordinates":[-149.868112,61.128461],"type":"Point"}
 }

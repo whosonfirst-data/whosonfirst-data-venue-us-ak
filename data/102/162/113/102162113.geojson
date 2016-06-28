@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102162113",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.778378,64.805806,-147.778378,64.805806",
     "geom:latitude":64.805806,
     "geom:longitude":-147.778378,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4075 Peger Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102162113",
-    "wof:lastmodified":1449069824,
+    "wof:lastmodified":1466313670,
     "wof:name":"Greater Fairbanks Racing Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.778378,64.805806,-147.778378,64.805806],
+  "bbox": [
+    -147.778378,
+    64.805806,
+    -147.778378,
+    64.805806
+],
   "geometry": {"coordinates":[-147.778378,64.805806],"type":"Point"}
 }

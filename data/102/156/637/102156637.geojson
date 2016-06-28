@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102156637",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-150.996119,60.536913,-150.996119,60.536913",
     "geom:latitude":60.536913,
     "geom:longitude":-150.996119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38410 Salmon Cir",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102156637",
-    "wof:lastmodified":1449068277,
+    "wof:lastmodified":1466313589,
     "wof:name":"Highrisk Photo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-150.996119,60.536913,-150.996119,60.536913],
-  "geometry": {"coordinates":[-150.996119,60.536913],"type":"Point"}
+  "bbox": [
+    -150.996119,
+    60.536913,
+    -150.996119,
+    60.536913
+],
+  "geometry": {"coordinates":[-150.99611899999999,60.536913],"type":"Point"}
 }

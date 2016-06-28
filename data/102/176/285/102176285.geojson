@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176285",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.490644,58.343203,-134.490644,58.343203",
     "geom:latitude":58.343203,
     "geom:longitude":-134.490644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 Abby Ct",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853509,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85853509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102176285",
-    "wof:lastmodified":1449069342,
+    "wof:lastmodified":1466313927,
     "wof:name":"Stephens Passage Dev Co",
     "wof:parent_id":85853509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.490644,58.343203,-134.490644,58.343203],
+  "bbox": [
+    -134.490644,
+    58.343203,
+    -134.490644,
+    58.343203
+],
   "geometry": {"coordinates":[-134.490644,58.343203],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102147875",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.49411,61.5794,-149.49411,61.5794",
     "geom:latitude":61.5794,
     "geom:longitude":-149.49411,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 W Parks Hwy",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102147875",
-    "wof:lastmodified":1449069929,
+    "wof:lastmodified":1466313472,
     "wof:name":"Hair Effects",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.49411,61.5794,-149.49411,61.5794],
-  "geometry": {"coordinates":[-149.49411,61.5794],"type":"Point"}
+  "bbox": [
+    -149.49411,
+    61.5794,
+    -149.49411,
+    61.5794
+],
+  "geometry": {"coordinates":[-149.49411000000001,61.5794],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102174535",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.561735,58.3398,-134.561735,58.3398",
     "geom:latitude":58.3398,
     "geom:longitude":-134.561735,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9371 N Douglas Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102174535",
-    "wof:lastmodified":1449068138,
+    "wof:lastmodified":1466313962,
     "wof:name":"Western Marine Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.561735,58.3398,-134.561735,58.3398],
+  "bbox": [
+    -134.561735,
+    58.3398,
+    -134.561735,
+    58.3398
+],
   "geometry": {"coordinates":[-134.561735,58.3398],"type":"Point"}
 }

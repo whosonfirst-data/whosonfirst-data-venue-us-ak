@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102183483",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.319581,59.45425,-135.319581,59.45425",
     "geom:latitude":59.45425,
     "geom:longitude":-135.319581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"363 2nd",
     "sg:city":"Skagway",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102183483",
-    "wof:lastmodified":1449069043,
+    "wof:lastmodified":1466314120,
     "wof:name":"Alaska Fur Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.319581,59.45425,-135.319581,59.45425],
+  "bbox": [
+    -135.319581,
+    59.45425,
+    -135.319581,
+    59.45425
+],
   "geometry": {"coordinates":[-135.319581,59.45425],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102180113",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.491214,58.351955,-134.491214,58.351955",
     "geom:latitude":58.351955,
     "geom:longitude":-134.491214,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5234 Glacier Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830251,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85830251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102180113",
-    "wof:lastmodified":1449067877,
+    "wof:lastmodified":1466313938,
     "wof:name":"Liquor Barrel & Deli",
     "wof:parent_id":85830251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.491214,58.351955,-134.491214,58.351955],
-  "geometry": {"coordinates":[-134.491214,58.351955],"type":"Point"}
+  "bbox": [
+    -134.491214,
+    58.351955,
+    -134.491214,
+    58.351955
+],
+  "geometry": {"coordinates":[-134.49121400000001,58.351955],"type":"Point"}
 }

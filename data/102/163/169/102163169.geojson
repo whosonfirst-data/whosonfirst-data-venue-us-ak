@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102163169",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.808891,61.1014,-149.808891,61.1014",
     "geom:latitude":61.1014,
     "geom:longitude":-149.808891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3751 Leyden Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873753,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102163169",
-    "wof:lastmodified":1449070165,
+    "wof:lastmodified":1466313679,
     "wof:name":"Tons Of Fun Entertainment",
     "wof:parent_id":85873753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.808891,61.1014,-149.808891,61.1014],
-  "geometry": {"coordinates":[-149.808891,61.1014],"type":"Point"}
+  "bbox": [
+    -149.808891,
+    61.1014,
+    -149.808891,
+    61.1014
+],
+  "geometry": {"coordinates":[-149.80889099999999,61.1014],"type":"Point"}
 }

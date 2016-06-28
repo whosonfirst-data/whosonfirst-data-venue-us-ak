@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102186699",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.301497,59.714483,-151.301497,59.714483",
     "geom:latitude":59.714483,
     "geom:longitude":-151.301497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54455 Wilderness Ln",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102186699",
-    "wof:lastmodified":1449069653,
+    "wof:lastmodified":1466314176,
     "wof:name":"Fisherman's Friend Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.301497,59.714483,-151.301497,59.714483],
-  "geometry": {"coordinates":[-151.301497,59.714483],"type":"Point"}
+  "bbox": [
+    -151.301497,
+    59.714483,
+    -151.301497,
+    59.714483
+],
+  "geometry": {"coordinates":[-151.30149700000001,59.714483],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102164027",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.565055,58.399388,-134.565055,58.399388",
     "geom:latitude":58.399388,
     "geom:longitude":-134.565055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4525 Klondike Way",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833767,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85833767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102164027",
-    "wof:lastmodified":1449068086,
+    "wof:lastmodified":1466313663,
     "wof:name":"Home Recycler The",
     "wof:parent_id":85833767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.565055,58.399388,-134.565055,58.399388],
+  "bbox": [
+    -134.565055,
+    58.399388,
+    -134.565055,
+    58.399388
+],
   "geometry": {"coordinates":[-134.565055,58.399388],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187293",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.82657,61.09256,-149.82657,61.09256",
     "geom:latitude":61.09256,
     "geom:longitude":-149.82657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14020 Sabine St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873753,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102187293",
-    "wof:lastmodified":1449068157,
+    "wof:lastmodified":1466314121,
     "wof:name":"15 Chandeliers Bed & Breakfast",
     "wof:parent_id":85873753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.82657,61.09256,-149.82657,61.09256],
+  "bbox": [
+    -149.82657,
+    61.09256,
+    -149.82657,
+    61.09256
+],
   "geometry": {"coordinates":[-149.82657,61.09256],"type":"Point"}
 }

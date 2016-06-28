@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102149419",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.81755,64.84587,-147.81755,64.84587",
     "geom:latitude":64.84587,
     "geom:longitude":-147.81755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"532 Lee Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856935,
+        85688573,
         85633793,
         85916609,
         102081397,
-        85688573
+        85856935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102149419",
-    "wof:lastmodified":1449067770,
+    "wof:lastmodified":1466313515,
     "wof:name":"Electrolysis Clinic",
     "wof:parent_id":85856935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.81755,64.84587,-147.81755,64.84587],
-  "geometry": {"coordinates":[-147.81755,64.84587],"type":"Point"}
+  "bbox": [
+    -147.81755,
+    64.84587,
+    -147.81755,
+    64.84587
+],
+  "geometry": {"coordinates":[-147.81755000000001,64.84587000000001],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102160477",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.543282,58.338527,-134.543282,58.338527",
     "geom:latitude":58.338527,
     "geom:longitude":-134.543282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8561 N Douglas Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102160477",
-    "wof:lastmodified":1449069775,
+    "wof:lastmodified":1466313688,
     "wof:name":"Ecklund Neon Signs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.543282,58.338527,-134.543282,58.338527],
+  "bbox": [
+    -134.543282,
+    58.338527,
+    -134.543282,
+    58.338527
+],
   "geometry": {"coordinates":[-134.543282,58.338527],"type":"Point"}
 }

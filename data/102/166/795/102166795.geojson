@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166795",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.53218,61.305738,-149.53218,61.305738",
     "geom:latitude":61.305738,
     "geom:longitude":-149.53218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18749 Sarichef Loop",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102166795",
-    "wof:lastmodified":1449069085,
+    "wof:lastmodified":1466313825,
     "wof:name":"George's Roof Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.53218,61.305738,-149.53218,61.305738],
-  "geometry": {"coordinates":[-149.53218,61.305738],"type":"Point"}
+  "bbox": [
+    -149.53218,
+    61.305738,
+    -149.53218,
+    61.305738
+],
+  "geometry": {"coordinates":[-149.53218000000001,61.305738],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102174605",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.379717,57.794209,-152.379717,57.794209",
     "geom:latitude":57.794209,
     "geom:longitude":-152.379717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1512 Yanovsky St",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102174605",
-    "wof:lastmodified":1449068138,
+    "wof:lastmodified":1466313975,
     "wof:name":"Salty Fly Safaris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.379717,57.794209,-152.379717,57.794209],
+  "bbox": [
+    -152.379717,
+    57.794209,
+    -152.379717,
+    57.794209
+],
   "geometry": {"coordinates":[-152.379717,57.794209],"type":"Point"}
 }

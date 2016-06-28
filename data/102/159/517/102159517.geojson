@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102159517",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-161.76555,60.797554,-161.76555,60.797554",
     "geom:latitude":60.797554,
     "geom:longitude":-161.76555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 6th Ave",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102159517",
-    "wof:lastmodified":1449068095,
+    "wof:lastmodified":1466313627,
     "wof:name":"Involved Parents Pre-School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-161.76555,60.797554,-161.76555,60.797554],
-  "geometry": {"coordinates":[-161.76555,60.797554],"type":"Point"}
+  "bbox": [
+    -161.76555,
+    60.797554,
+    -161.76555,
+    60.797554
+],
+  "geometry": {"coordinates":[-161.76554999999999,60.797554],"type":"Point"}
 }

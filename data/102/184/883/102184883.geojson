@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184883",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-145.758644,60.546708,-145.758644,60.546708",
     "geom:latitude":60.546708,
     "geom:longitude":-145.758644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 1st St",
     "sg:city":"Cordova",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839707,
+        85688573,
         85633793,
         85915567,
         102081911,
-        85688573
+        85839707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102184883",
-    "wof:lastmodified":1449068218,
+    "wof:lastmodified":1466314229,
     "wof:name":"Ready Care",
     "wof:parent_id":85839707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-145.758644,60.546708,-145.758644,60.546708],
+  "bbox": [
+    -145.758644,
+    60.546708,
+    -145.758644,
+    60.546708
+],
   "geometry": {"coordinates":[-145.758644,60.546708],"type":"Point"}
 }

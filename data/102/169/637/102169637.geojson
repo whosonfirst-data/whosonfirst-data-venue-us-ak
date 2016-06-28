@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102169637",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.736338,64.829382,-147.736338,64.829382",
     "geom:latitude":64.829382,
     "geom:longitude":-147.736338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 20th Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102169637",
-    "wof:lastmodified":1449069244,
+    "wof:lastmodified":1466313840,
     "wof:name":"Channie's Beauty Salon",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.736338,64.829382,-147.736338,64.829382],
-  "geometry": {"coordinates":[-147.736338,64.829382],"type":"Point"}
+  "bbox": [
+    -147.736338,
+    64.829382,
+    -147.736338,
+    64.829382
+],
+  "geometry": {"coordinates":[-147.73633799999999,64.829382],"type":"Point"}
 }

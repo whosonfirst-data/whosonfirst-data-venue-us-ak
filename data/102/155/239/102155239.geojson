@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155239",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.861954,64.821585,-147.861954,64.821585",
     "geom:latitude":64.821585,
     "geom:longitude":-147.861954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6302 Old Airport Way",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102155239",
-    "wof:lastmodified":1449069741,
+    "wof:lastmodified":1466313501,
     "wof:name":"Omni Logistics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.861954,64.821585,-147.861954,64.821585],
+  "bbox": [
+    -147.861954,
+    64.821585,
+    -147.861954,
+    64.821585
+],
   "geometry": {"coordinates":[-147.861954,64.821585],"type":"Point"}
 }

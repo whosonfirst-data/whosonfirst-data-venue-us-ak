@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172243",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.758414,58.428804,-134.758414,58.428804",
     "geom:latitude":58.428804,
     "geom:longitude":-134.758414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19153 Bonnie Pl",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851901,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85851901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102172243",
-    "wof:lastmodified":1449068736,
+    "wof:lastmodified":1466313898,
     "wof:name":"Zoic Resources Inc",
     "wof:parent_id":85851901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.758414,58.428804,-134.758414,58.428804],
-  "geometry": {"coordinates":[-134.758414,58.428804],"type":"Point"}
+  "bbox": [
+    -134.758414,
+    58.428804,
+    -134.758414,
+    58.428804
+],
+  "geometry": {"coordinates":[-134.75841399999999,58.428804],"type":"Point"}
 }

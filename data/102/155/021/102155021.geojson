@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155021",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.672158,64.88038,-147.672158,64.88038",
     "geom:latitude":64.88038,
     "geom:longitude":-147.672158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"394 Farmers Loop Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102155021",
-    "wof:lastmodified":1449069743,
+    "wof:lastmodified":1466314093,
     "wof:name":"Fairbanks Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.672158,64.88038,-147.672158,64.88038],
+  "bbox": [
+    -147.672158,
+    64.88038,
+    -147.672158,
+    64.88038
+],
   "geometry": {"coordinates":[-147.672158,64.88038],"type":"Point"}
 }

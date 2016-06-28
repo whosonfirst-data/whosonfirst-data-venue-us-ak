@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102193197",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-165.398682,64.501358,-165.398682,64.501358",
     "geom:latitude":64.501358,
     "geom:longitude":-165.398682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 Steadman St",
     "sg:city":"Nome",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102193197",
-    "wof:lastmodified":1449068195,
+    "wof:lastmodified":1466314269,
     "wof:name":"Munaqsri Senior Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-165.398682,64.501358,-165.398682,64.501358],
-  "geometry": {"coordinates":[-165.398682,64.501358],"type":"Point"}
+  "bbox": [
+    -165.398682,
+    64.501358,
+    -165.398682,
+    64.501358
+],
+  "geometry": {"coordinates":[-165.39868200000001,64.501358],"type":"Point"}
 }

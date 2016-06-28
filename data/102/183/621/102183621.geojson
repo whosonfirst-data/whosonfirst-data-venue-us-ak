@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102183621",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.77311,58.457185,-134.77311,58.457185",
     "geom:latitude":58.457185,
     "geom:longitude":-134.77311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21425 Glacier Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102183621",
-    "wof:lastmodified":1449069042,
+    "wof:lastmodified":1466314137,
     "wof:name":"Shrine Of St Therese",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.77311,58.457185,-134.77311,58.457185],
+  "bbox": [
+    -134.77311,
+    58.457185,
+    -134.77311,
+    58.457185
+],
   "geometry": {"coordinates":[-134.77311,58.457185],"type":"Point"}
 }

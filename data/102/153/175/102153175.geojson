@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153175",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-166.553432,53.857641,-166.553432,53.857641",
     "geom:latitude":53.857641,
     "geom:longitude":-166.553432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2158 Captains Bay Rd",
     "sg:city":"Dutch Harbor",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102153175",
-    "wof:lastmodified":1449069461,
+    "wof:lastmodified":1466313490,
     "wof:name":"West Construction Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-166.553432,53.857641,-166.553432,53.857641],
-  "geometry": {"coordinates":[-166.553432,53.857641],"type":"Point"}
+  "bbox": [
+    -166.553432,
+    53.857641,
+    -166.553432,
+    53.857641
+],
+  "geometry": {"coordinates":[-166.55343199999999,53.857641],"type":"Point"}
 }

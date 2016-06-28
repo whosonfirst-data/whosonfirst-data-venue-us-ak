@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102151309",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.777869,61.071758,-149.777869,61.071758",
     "geom:latitude":61.071758,
     "geom:longitude":-149.777869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16440 Saint James Cir",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873751,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102151309",
-    "wof:lastmodified":1449067779,
+    "wof:lastmodified":1466314082,
     "wof:name":"Ward Construction Inc",
     "wof:parent_id":85873751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.777869,61.071758,-149.777869,61.071758],
-  "geometry": {"coordinates":[-149.777869,61.071758],"type":"Point"}
+  "bbox": [
+    -149.777869,
+    61.071758,
+    -149.777869,
+    61.071758
+],
+  "geometry": {"coordinates":[-149.77786900000001,61.071758],"type":"Point"}
 }

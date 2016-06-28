@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102150173",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.863976,61.150631,-149.863976,61.150631",
     "geom:latitude":61.150631,
     "geom:longitude":-149.863976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7725 Old Seward Hwy",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809155,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85809155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102150173",
-    "wof:lastmodified":1449067790,
+    "wof:lastmodified":1466313952,
     "wof:name":"Giant Don's Flooring America",
     "wof:parent_id":85809155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.863976,61.150631,-149.863976,61.150631],
-  "geometry": {"coordinates":[-149.863976,61.150631],"type":"Point"}
+  "bbox": [
+    -149.863976,
+    61.150631,
+    -149.863976,
+    61.150631
+],
+  "geometry": {"coordinates":[-149.86397600000001,61.150631],"type":"Point"}
 }

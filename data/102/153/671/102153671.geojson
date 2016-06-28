@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153671",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-148.090344,64.750354,-148.090344,64.750354",
     "geom:latitude":64.750354,
     "geom:longitude":-148.090344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2641 Livingston Loop",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102153671",
-    "wof:lastmodified":1449069461,
+    "wof:lastmodified":1466313588,
     "wof:name":"Rosie Creek Flower Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-148.090344,64.750354,-148.090344,64.750354],
-  "geometry": {"coordinates":[-148.090344,64.750354],"type":"Point"}
+  "bbox": [
+    -148.090344,
+    64.750354,
+    -148.090344,
+    64.750354
+],
+  "geometry": {"coordinates":[-148.09034399999999,64.750354],"type":"Point"}
 }

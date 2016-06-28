@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102163973",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.802663,55.442064,-131.802663,55.442064",
     "geom:latitude":55.442064,
     "geom:longitude":-131.802663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11852 N Tongass Hwy",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102163973",
-    "wof:lastmodified":1449070164,
+    "wof:lastmodified":1466313846,
     "wof:name":"Hals Equipment & Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.802663,55.442064,-131.802663,55.442064],
+  "bbox": [
+    -131.802663,
+    55.442064,
+    -131.802663,
+    55.442064
+],
   "geometry": {"coordinates":[-131.802663,55.442064],"type":"Point"}
 }

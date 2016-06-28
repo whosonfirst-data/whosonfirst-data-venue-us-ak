@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102188019",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.739153,61.188165,-149.739153,61.188165",
     "geom:latitude":61.188165,
     "geom:longitude":-149.739153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3512 Robin St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873735,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102188019",
-    "wof:lastmodified":1449068947,
+    "wof:lastmodified":1466314086,
     "wof:name":"St Paul Evangelical CME Ch",
     "wof:parent_id":85873735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.739153,61.188165,-149.739153,61.188165],
-  "geometry": {"coordinates":[-149.739153,61.188165],"type":"Point"}
+  "bbox": [
+    -149.739153,
+    61.188165,
+    -149.739153,
+    61.188165
+],
+  "geometry": {"coordinates":[-149.73915299999999,61.188165],"type":"Point"}
 }

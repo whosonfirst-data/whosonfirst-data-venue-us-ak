@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172505",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-146.351888,61.130896,-146.351888,61.130896",
     "geom:latitude":61.130896,
     "geom:longitude":-146.351888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Pioneer Dr",
     "sg:city":"Valdez",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102172505",
-    "wof:lastmodified":1449068737,
+    "wof:lastmodified":1466313952,
     "wof:name":"Subway Sandwiches & Salads",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-146.351888,61.130896,-146.351888,61.130896],
+  "bbox": [
+    -146.351888,
+    61.130896,
+    -146.351888,
+    61.130896
+],
   "geometry": {"coordinates":[-146.351888,61.130896],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184827",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.920911,61.146504,-149.920911,61.146504",
     "geom:latitude":61.146504,
     "geom:longitude":-149.920911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2212 Country Brook Cir",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809155,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85809155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102184827",
-    "wof:lastmodified":1449068216,
+    "wof:lastmodified":1466314172,
     "wof:name":"Robbins Productions",
     "wof:parent_id":85809155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.920911,61.146504,-149.920911,61.146504],
-  "geometry": {"coordinates":[-149.920911,61.146504],"type":"Point"}
+  "bbox": [
+    -149.920911,
+    61.146504,
+    -149.920911,
+    61.146504
+],
+  "geometry": {"coordinates":[-149.92091099999999,61.146504],"type":"Point"}
 }

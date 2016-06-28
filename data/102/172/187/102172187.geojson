@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172187",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.891565,64.836246,-147.891565,64.836246",
     "geom:latitude":64.836246,
     "geom:longitude":-147.891565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"570 Kentshire Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102172187",
-    "wof:lastmodified":1449068734,
+    "wof:lastmodified":1466313886,
     "wof:name":"Sweet Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.891565,64.836246,-147.891565,64.836246],
-  "geometry": {"coordinates":[-147.891565,64.836246],"type":"Point"}
+  "bbox": [
+    -147.891565,
+    64.836246,
+    -147.891565,
+    64.836246
+],
+  "geometry": {"coordinates":[-147.89156500000001,64.836246],"type":"Point"}
 }

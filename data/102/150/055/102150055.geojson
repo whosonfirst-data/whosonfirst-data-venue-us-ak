@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102150055",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.75185,61.214474,-149.75185,61.214474",
     "geom:latitude":61.214474,
     "geom:longitude":-149.75185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 Winter Haven St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873731,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102150055",
-    "wof:lastmodified":1449067790,
+    "wof:lastmodified":1466313849,
     "wof:name":"Nordby Photography",
     "wof:parent_id":85873731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.75185,61.214474,-149.75185,61.214474],
-  "geometry": {"coordinates":[-149.75185,61.214474],"type":"Point"}
+  "bbox": [
+    -149.75185,
+    61.214474,
+    -149.75185,
+    61.214474
+],
+  "geometry": {"coordinates":[-149.75184999999999,61.214474],"type":"Point"}
 }

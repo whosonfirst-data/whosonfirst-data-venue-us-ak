@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191375",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.644452,55.349694,-131.644452,55.349694",
     "geom:latitude":55.349694,
     "geom:longitude":-131.644452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"855 E Sesame St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102191375",
-    "wof:lastmodified":1449069197,
+    "wof:lastmodified":1466314195,
     "wof:name":"Lester's Alaska Seafood Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.644452,55.349694,-131.644452,55.349694],
+  "bbox": [
+    -131.644452,
+    55.349694,
+    -131.644452,
+    55.349694
+],
   "geometry": {"coordinates":[-131.644452,55.349694],"type":"Point"}
 }

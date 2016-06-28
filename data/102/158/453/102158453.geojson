@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102158453",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.109564,61.598895,-149.109564,61.598895",
     "geom:latitude":61.598895,
     "geom:longitude":-149.109564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"325 E Elmwood Ave",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102158453",
-    "wof:lastmodified":1449069395,
+    "wof:lastmodified":1466313598,
     "wof:name":"Inn Cafe'",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.109564,61.598895,-149.109564,61.598895],
-  "geometry": {"coordinates":[-149.109564,61.598895],"type":"Point"}
+  "bbox": [
+    -149.109564,
+    61.598895,
+    -149.109564,
+    61.598895
+],
+  "geometry": {"coordinates":[-149.10956400000001,61.598895],"type":"Point"}
 }

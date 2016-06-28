@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178879",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.114967,61.598643,-149.114967,61.598643",
     "geom:latitude":61.598643,
     "geom:longitude":-149.114967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"824 S Colony Way",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102178879",
-    "wof:lastmodified":1449069529,
+    "wof:lastmodified":1466314049,
     "wof:name":"Wildfire Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.114967,61.598643,-149.114967,61.598643],
-  "geometry": {"coordinates":[-149.114967,61.598643],"type":"Point"}
+  "bbox": [
+    -149.114967,
+    61.598643,
+    -149.114967,
+    61.598643
+],
+  "geometry": {"coordinates":[-149.11496700000001,61.598643],"type":"Point"}
 }

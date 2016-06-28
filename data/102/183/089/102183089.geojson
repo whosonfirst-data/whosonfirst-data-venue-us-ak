@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102183089",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.779278,61.19809,-149.779278,61.19809",
     "geom:latitude":61.19809,
     "geom:longitude":-149.779278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2451 Cloverwood Loop",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806647,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85806647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":"102183089",
-    "wof:lastmodified":1449069041,
+    "wof:lastmodified":1466314066,
     "wof:name":"Hamilton Sykes Construction Co",
     "wof:parent_id":85806647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.779278,61.19809,-149.779278,61.19809],
-  "geometry": {"coordinates":[-149.779278,61.19809],"type":"Point"}
+  "bbox": [
+    -149.779278,
+    61.19809,
+    -149.779278,
+    61.19809
+],
+  "geometry": {"coordinates":[-149.77927800000001,61.19809],"type":"Point"}
 }

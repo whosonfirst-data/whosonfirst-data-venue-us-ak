@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102154931",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.506403,59.640355,-151.506403,59.640355",
     "geom:latitude":59.640355,
     "geom:longitude":-151.506403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1411 Lake Shore Dr",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102154931",
-    "wof:lastmodified":1449070248,
+    "wof:lastmodified":1466313633,
     "wof:name":"Homer Brewing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.506403,59.640355,-151.506403,59.640355],
-  "geometry": {"coordinates":[-151.506403,59.640355],"type":"Point"}
+  "bbox": [
+    -151.506403,
+    59.640355,
+    -151.506403,
+    59.640355
+],
+  "geometry": {"coordinates":[-151.50640300000001,59.640355],"type":"Point"}
 }

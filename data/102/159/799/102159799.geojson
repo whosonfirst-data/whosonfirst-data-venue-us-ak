@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102159799",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.607964,55.323413,-131.607964,55.323413",
     "geom:latitude":55.323413,
     "geom:longitude":-131.607964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1716 S Tongass Hwy",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102159799",
-    "wof:lastmodified":1449068095,
+    "wof:lastmodified":1466313681,
     "wof:name":"Misty Fjords Air & Outfitting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.607964,55.323413,-131.607964,55.323413],
-  "geometry": {"coordinates":[-131.607964,55.323413],"type":"Point"}
+  "bbox": [
+    -131.607964,
+    55.323413,
+    -131.607964,
+    55.323413
+],
+  "geometry": {"coordinates":[-131.60796400000001,55.323413],"type":"Point"}
 }

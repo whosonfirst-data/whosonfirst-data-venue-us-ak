@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102150545",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.959167,64.898435,-147.959167,64.898435",
     "geom:latitude":64.898435,
     "geom:longitude":-147.959167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3060 Little Dome Ct",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102150545",
-    "wof:lastmodified":1449067791,
+    "wof:lastmodified":1466314044,
     "wof:name":"Fairbanks Crft & Homebrew Supl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.959167,64.898435,-147.959167,64.898435],
-  "geometry": {"coordinates":[-147.959167,64.898435],"type":"Point"}
+  "bbox": [
+    -147.959167,
+    64.898435,
+    -147.959167,
+    64.898435
+],
+  "geometry": {"coordinates":[-147.95916700000001,64.89843500000001],"type":"Point"}
 }

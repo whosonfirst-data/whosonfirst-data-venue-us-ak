@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184805",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-146.352885,61.12815,-146.352885,61.12815",
     "geom:latitude":61.12815,
     "geom:longitude":-146.352885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Galena Dr",
     "sg:city":"Valdez",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102184805",
-    "wof:lastmodified":1449068216,
+    "wof:lastmodified":1466314170,
     "wof:name":"Valdez Prospector Outfitters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-146.352885,61.12815,-146.352885,61.12815],
-  "geometry": {"coordinates":[-146.352885,61.12815],"type":"Point"}
+  "bbox": [
+    -146.352885,
+    61.12815,
+    -146.352885,
+    61.12815
+],
+  "geometry": {"coordinates":[-146.35288499999999,61.12815],"type":"Point"}
 }

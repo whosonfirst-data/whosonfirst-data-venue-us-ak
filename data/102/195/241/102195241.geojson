@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102195241",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.190201,60.514606,-151.190201,60.514606",
     "geom:latitude":60.514606,
     "geom:longitude":-151.190201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40960 Kalifornsky Beach Rd",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102195241",
-    "wof:lastmodified":1449069366,
+    "wof:lastmodified":1466314287,
     "wof:name":"KKIS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.190201,60.514606,-151.190201,60.514606],
+  "bbox": [
+    -151.190201,
+    60.514606,
+    -151.190201,
+    60.514606
+],
   "geometry": {"coordinates":[-151.190201,60.514606],"type":"Point"}
 }

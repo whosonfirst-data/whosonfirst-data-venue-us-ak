@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102156555",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.858517,64.885123,-147.858517,64.885123",
     "geom:latitude":64.885123,
     "geom:longitude":-147.858517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2199 Nottingham Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102156555",
-    "wof:lastmodified":1449068284,
+    "wof:lastmodified":1466313572,
     "wof:name":"Coyote Air Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.858517,64.885123,-147.858517,64.885123],
-  "geometry": {"coordinates":[-147.858517,64.885123],"type":"Point"}
+  "bbox": [
+    -147.858517,
+    64.885123,
+    -147.858517,
+    64.885123
+],
+  "geometry": {"coordinates":[-147.85851700000001,64.88512299999999],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171081",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.394293,57.098185,-135.394293,57.098185",
     "geom:latitude":57.098185,
     "geom:longitude":-135.394293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Shuler Dr",
     "sg:city":"Sitka",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102171081",
-    "wof:lastmodified":1449070222,
+    "wof:lastmodified":1466313816,
     "wof:name":"Bear Point Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.394293,57.098185,-135.394293,57.098185],
+  "bbox": [
+    -135.394293,
+    57.098185,
+    -135.394293,
+    57.098185
+],
   "geometry": {"coordinates":[-135.394293,57.098185],"type":"Point"}
 }

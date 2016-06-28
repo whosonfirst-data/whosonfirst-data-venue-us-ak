@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102154211",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.713836,59.438718,-151.713836,59.438718",
     "geom:latitude":59.438718,
     "geom:longitude":-151.713836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"263 Lipke Ln",
     "sg:city":"Seldovia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102154211",
-    "wof:lastmodified":1449070243,
+    "wof:lastmodified":1466314107,
     "wof:name":"City Ambulance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.713836,59.438718,-151.713836,59.438718],
-  "geometry": {"coordinates":[-151.713836,59.438718],"type":"Point"}
+  "bbox": [
+    -151.713836,
+    59.438718,
+    -151.713836,
+    59.438718
+],
+  "geometry": {"coordinates":[-151.71383599999999,59.438718],"type":"Point"}
 }

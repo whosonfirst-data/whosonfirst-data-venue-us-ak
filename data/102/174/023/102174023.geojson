@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102174023",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.632146,58.392675,-134.632146,58.392675",
     "geom:latitude":58.392675,
     "geom:longitude":-134.632146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11820 Mendenhall Loop Rd",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102174023",
-    "wof:lastmodified":1449068141,
+    "wof:lastmodified":1466313862,
     "wof:name":"Clear Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.632146,58.392675,-134.632146,58.392675],
-  "geometry": {"coordinates":[-134.632146,58.392675],"type":"Point"}
+  "bbox": [
+    -134.632146,
+    58.392675,
+    -134.632146,
+    58.392675
+],
+  "geometry": {"coordinates":[-134.63214600000001,58.392675],"type":"Point"}
 }

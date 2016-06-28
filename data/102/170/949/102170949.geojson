@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102170949",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.811647,55.438417,-131.811647,55.438417",
     "geom:latitude":55.438417,
     "geom:longitude":-131.811647,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 Pond Reef Rd",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102170949",
-    "wof:lastmodified":1449068019,
+    "wof:lastmodified":1466313923,
     "wof:name":"Homestead Development Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.811647,55.438417,-131.811647,55.438417],
-  "geometry": {"coordinates":[-131.811647,55.438417],"type":"Point"}
+  "bbox": [
+    -131.811647,
+    55.438417,
+    -131.811647,
+    55.438417
+],
+  "geometry": {"coordinates":[-131.81164699999999,55.438417],"type":"Point"}
 }

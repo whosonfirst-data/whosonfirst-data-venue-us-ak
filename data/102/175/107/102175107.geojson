@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102175107",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.95518,61.144044,-149.95518,61.144044",
     "geom:latitude":61.144044,
     "geom:longitude":-149.95518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8576 Moorland St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873739,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102175107",
-    "wof:lastmodified":1449069463,
+    "wof:lastmodified":1466313880,
     "wof:name":"CALGIX Internet",
     "wof:parent_id":85873739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.95518,61.144044,-149.95518,61.144044],
-  "geometry": {"coordinates":[-149.95518,61.144044],"type":"Point"}
+  "bbox": [
+    -149.95518,
+    61.144044,
+    -149.95518,
+    61.144044
+],
+  "geometry": {"coordinates":[-149.95518000000001,61.144044],"type":"Point"}
 }

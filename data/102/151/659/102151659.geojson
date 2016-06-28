@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102151659",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.341235,57.051678,-135.341235,57.051678",
     "geom:latitude":57.051678,
     "geom:longitude":-135.341235,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Kogwonton St",
     "sg:city":"Sitka",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835489,
+        85688573,
         85633793,
         85916107,
         102081405,
-        85688573
+        85835489
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102151659",
-    "wof:lastmodified":1449067779,
+    "wof:lastmodified":1466313520,
     "wof:name":"Karras Bed & Breakfast",
     "wof:parent_id":85835489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.341235,57.051678,-135.341235,57.051678],
-  "geometry": {"coordinates":[-135.341235,57.051678],"type":"Point"}
+  "bbox": [
+    -135.341235,
+    57.051678,
+    -135.341235,
+    57.051678
+],
+  "geometry": {"coordinates":[-135.34123500000001,57.051678],"type":"Point"}
 }

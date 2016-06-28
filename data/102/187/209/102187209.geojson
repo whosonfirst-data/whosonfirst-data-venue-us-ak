@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187209",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-148.090457,64.934898,-148.090457,64.934898",
     "geom:latitude":64.934898,
     "geom:longitude":-148.090457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4320 Moose Berry Ln",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102187209",
-    "wof:lastmodified":1449068159,
+    "wof:lastmodified":1466314109,
     "wof:name":"Calliope Design & Editing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-148.090457,64.934898,-148.090457,64.934898],
-  "geometry": {"coordinates":[-148.090457,64.934898],"type":"Point"}
+  "bbox": [
+    -148.090457,
+    64.934898,
+    -148.090457,
+    64.934898
+],
+  "geometry": {"coordinates":[-148.09045699999999,64.934898],"type":"Point"}
 }

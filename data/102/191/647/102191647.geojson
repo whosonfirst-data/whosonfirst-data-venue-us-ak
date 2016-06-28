@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191647",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-145.709581,64.031632,-145.709581,64.031632",
     "geom:latitude":64.031632,
     "geom:longitude":-145.709581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1421 Alaska Hwy",
     "sg:city":"Delta Junction",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102191647",
-    "wof:lastmodified":1449069201,
+    "wof:lastmodified":1466314123,
     "wof:name":"State Trooper Business",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-145.709581,64.031632,-145.709581,64.031632],
-  "geometry": {"coordinates":[-145.709581,64.031632],"type":"Point"}
+  "bbox": [
+    -145.709581,
+    64.031632,
+    -145.709581,
+    64.031632
+],
+  "geometry": {"coordinates":[-145.70958099999999,64.031632],"type":"Point"}
 }

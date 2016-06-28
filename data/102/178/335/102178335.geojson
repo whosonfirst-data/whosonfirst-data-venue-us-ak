@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178335",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-166.550673,53.882311,-166.550673,53.882311",
     "geom:latitude":53.882311,
     "geom:longitude":-166.550673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Salmon Way",
     "sg:city":"Dutch Harbor",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102178335",
-    "wof:lastmodified":1449069531,
+    "wof:lastmodified":1466314145,
     "wof:name":"Rosalinda's Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-166.550673,53.882311,-166.550673,53.882311],
-  "geometry": {"coordinates":[-166.550673,53.882311],"type":"Point"}
+  "bbox": [
+    -166.550673,
+    53.882311,
+    -166.550673,
+    53.882311
+],
+  "geometry": {"coordinates":[-166.55067299999999,53.882311],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102175649",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-150.990474,60.501056,-150.990474,60.501056",
     "geom:latitude":60.501056,
     "geom:longitude":-150.990474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41735 Sterling Hwy",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102175649",
-    "wof:lastmodified":1449069470,
+    "wof:lastmodified":1466313984,
     "wof:name":"Wilderness Way",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-150.990474,60.501056,-150.990474,60.501056],
-  "geometry": {"coordinates":[-150.990474,60.501056],"type":"Point"}
+  "bbox": [
+    -150.990474,
+    60.501056,
+    -150.990474,
+    60.501056
+],
+  "geometry": {"coordinates":[-150.99047400000001,60.501056],"type":"Point"}
 }

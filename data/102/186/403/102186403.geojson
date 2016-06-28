@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102186403",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.365328,61.570943,-149.365328,61.570943",
     "geom:latitude":61.570943,
     "geom:longitude":-149.365328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3401 E Parks Hwy",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102186403",
-    "wof:lastmodified":1449069654,
+    "wof:lastmodified":1466314133,
     "wof:name":"King's Chapel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.365328,61.570943,-149.365328,61.570943],
-  "geometry": {"coordinates":[-149.365328,61.570943],"type":"Point"}
+  "bbox": [
+    -149.365328,
+    61.570943,
+    -149.365328,
+    61.570943
+],
+  "geometry": {"coordinates":[-149.36532800000001,61.570943],"type":"Point"}
 }

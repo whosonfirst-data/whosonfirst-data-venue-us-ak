@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102165133",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.118206,61.600912,-149.118206,61.600912",
     "geom:latitude":61.600912,
     "geom:longitude":-149.118206,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"650 S Cobb St",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102165133",
-    "wof:lastmodified":1449070217,
+    "wof:lastmodified":1466313681,
     "wof:name":"Fred Meyer One Shop Stopping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.118206,61.600912,-149.118206,61.600912],
-  "geometry": {"coordinates":[-149.118206,61.600912],"type":"Point"}
+  "bbox": [
+    -149.118206,
+    61.600912,
+    -149.118206,
+    61.600912
+],
+  "geometry": {"coordinates":[-149.11820599999999,61.600912],"type":"Point"}
 }

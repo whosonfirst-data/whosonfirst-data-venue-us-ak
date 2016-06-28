@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166951",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.860258,61.148418,-149.860258,61.148418",
     "geom:latitude":61.148418,
     "geom:longitude":-149.860258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 E 80th Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809155,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85809155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102166951",
-    "wof:lastmodified":1449069083,
+    "wof:lastmodified":1466313855,
     "wof:name":"Alas-Co General Cnstr Co",
     "wof:parent_id":85809155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.860258,61.148418,-149.860258,61.148418],
-  "geometry": {"coordinates":[-149.860258,61.148418],"type":"Point"}
+  "bbox": [
+    -149.860258,
+    61.148418,
+    -149.860258,
+    61.148418
+],
+  "geometry": {"coordinates":[-149.86025799999999,61.148418],"type":"Point"}
 }

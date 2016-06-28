@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102148141",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.402017,64.887497,-147.402017,64.887497",
     "geom:latitude":64.887497,
     "geom:longitude":-147.402017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"630 Tanglewood Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102148141",
-    "wof:lastmodified":1449069785,
+    "wof:lastmodified":1466313472,
     "wof:name":"Hopper Creek Snowplowing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.402017,64.887497,-147.402017,64.887497],
+  "bbox": [
+    -147.402017,
+    64.887497,
+    -147.402017,
+    64.887497
+],
   "geometry": {"coordinates":[-147.402017,64.887497],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102196463",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-161.774461,60.796704,-161.774461,60.796704",
     "geom:latitude":60.796704,
     "geom:longitude":-161.774461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"445 Ridgecrest Dr",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102196463",
-    "wof:lastmodified":1449068339,
+    "wof:lastmodified":1466314307,
     "wof:name":"Judy's Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-161.774461,60.796704,-161.774461,60.796704],
+  "bbox": [
+    -161.774461,
+    60.796704,
+    -161.774461,
+    60.796704
+],
   "geometry": {"coordinates":[-161.774461,60.796704],"type":"Point"}
 }

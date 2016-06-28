@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192557",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.436668,61.581019,-149.436668,61.581019",
     "geom:latitude":61.581019,
     "geom:longitude":-149.436668,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"595 E Parks Hwy",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102192557",
-    "wof:lastmodified":1449069504,
+    "wof:lastmodified":1466314243,
     "wof:name":"Oaken Keg Spirit Shops",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.436668,61.581019,-149.436668,61.581019],
+  "bbox": [
+    -149.436668,
+    61.581019,
+    -149.436668,
+    61.581019
+],
   "geometry": {"coordinates":[-149.436668,61.581019],"type":"Point"}
 }

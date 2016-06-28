@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102147817",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.487828,61.585787,-149.487828,61.585787",
     "geom:latitude":61.585787,
     "geom:longitude":-149.487828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1660 W Vaunda Ave",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102147817",
-    "wof:lastmodified":1449069927,
+    "wof:lastmodified":1466313464,
     "wof:name":"Berg Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.487828,61.585787,-149.487828,61.585787],
-  "geometry": {"coordinates":[-149.487828,61.585787],"type":"Point"}
+  "bbox": [
+    -149.487828,
+    61.585787,
+    -149.487828,
+    61.585787
+],
+  "geometry": {"coordinates":[-149.48782800000001,61.585787],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102193555",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.840216,61.228277,-149.840216,61.228277",
     "geom:latitude":61.228277,
     "geom:longitude":-149.840216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1907 N Post Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820221,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85820221
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102193555",
-    "wof:lastmodified":1449068193,
+    "wof:lastmodified":1466314275,
     "wof:name":"Alaska Container Cache",
     "wof:parent_id":85820221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.840216,61.228277,-149.840216,61.228277],
+  "bbox": [
+    -149.840216,
+    61.228277,
+    -149.840216,
+    61.228277
+],
   "geometry": {"coordinates":[-149.840216,61.228277],"type":"Point"}
 }

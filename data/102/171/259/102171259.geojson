@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171259",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.723795,64.860602,-147.723795,64.860602",
     "geom:latitude":64.860602,
     "geom:longitude":-147.723795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Margaret Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830247,
+        85688573,
         85633793,
         85916559,
         102081397,
-        85688573
+        85830247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102171259",
-    "wof:lastmodified":1449070221,
+    "wof:lastmodified":1466313853,
     "wof:name":"Joy Elementary",
     "wof:parent_id":85830247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.723795,64.860602,-147.723795,64.860602],
+  "bbox": [
+    -147.723795,
+    64.860602,
+    -147.723795,
+    64.860602
+],
   "geometry": {"coordinates":[-147.723795,64.860602],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102189611",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.55139,59.641902,-151.55139,59.641902",
     "geom:latitude":59.641902,
     "geom:longitude":-151.55139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 W Pioneer Ave",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102189611",
-    "wof:lastmodified":1449069497,
+    "wof:lastmodified":1466313772,
     "wof:name":"Hostel Homer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.55139,59.641902,-151.55139,59.641902],
+  "bbox": [
+    -151.55139,
+    59.641902,
+    -151.55139,
+    59.641902
+],
   "geometry": {"coordinates":[-151.55139,59.641902],"type":"Point"}
 }

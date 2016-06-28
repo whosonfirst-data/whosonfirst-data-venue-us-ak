@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102190319",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-133.144562,55.475568,-133.144562,55.475568",
     "geom:latitude":55.475568,
     "geom:longitude":-133.144562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 9th St",
     "sg:city":"Craig",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102190319",
-    "wof:lastmodified":1449070033,
+    "wof:lastmodified":1466313915,
     "wof:name":"Inn Of The Little Blue Heron",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-133.144562,55.475568,-133.144562,55.475568],
-  "geometry": {"coordinates":[-133.144562,55.475568],"type":"Point"}
+  "bbox": [
+    -133.144562,
+    55.475568,
+    -133.144562,
+    55.475568
+],
+  "geometry": {"coordinates":[-133.14456200000001,55.475568],"type":"Point"}
 }

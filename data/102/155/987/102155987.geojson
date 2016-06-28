@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155987",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.462972,64.831223,-147.462972,64.831223",
     "geom:latitude":64.831223,
     "geom:longitude":-147.462972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1796 Loose Moose Loop",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102155987",
-    "wof:lastmodified":1449069744,
+    "wof:lastmodified":1466313650,
     "wof:name":"Ron's Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.462972,64.831223,-147.462972,64.831223],
-  "geometry": {"coordinates":[-147.462972,64.831223],"type":"Point"}
+  "bbox": [
+    -147.462972,
+    64.831223,
+    -147.462972,
+    64.831223
+],
+  "geometry": {"coordinates":[-147.46297200000001,64.83122299999999],"type":"Point"}
 }

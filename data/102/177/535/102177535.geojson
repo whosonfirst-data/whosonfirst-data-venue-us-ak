@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102177535",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.544197,59.641443,-151.544197,59.641443",
     "geom:latitude":59.641443,
     "geom:longitude":-151.544197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3582 Main St",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102177535",
-    "wof:lastmodified":1449070203,
+    "wof:lastmodified":1466314154,
     "wof:name":"Ronald Drathman Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.544197,59.641443,-151.544197,59.641443],
+  "bbox": [
+    -151.544197,
+    59.641443,
+    -151.544197,
+    59.641443
+],
   "geometry": {"coordinates":[-151.544197,59.641443],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172949",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-146.905624,64.543258,-146.905624,64.543258",
     "geom:latitude":64.543258,
     "geom:longitude":-146.905624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7250 de Halden Ln",
     "sg:city":"Salcha",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102172949",
-    "wof:lastmodified":1449068737,
+    "wof:lastmodified":1466314034,
     "wof:name":"Salcha Pet & Kennel Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-146.905624,64.543258,-146.905624,64.543258],
-  "geometry": {"coordinates":[-146.905624,64.543258],"type":"Point"}
+  "bbox": [
+    -146.905624,
+    64.543258,
+    -146.905624,
+    64.543258
+],
+  "geometry": {"coordinates":[-146.90562399999999,64.54325799999999],"type":"Point"}
 }

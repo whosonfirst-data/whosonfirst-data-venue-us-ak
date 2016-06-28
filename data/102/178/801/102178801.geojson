@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178801",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.295926,61.611427,-149.295926,61.611427",
     "geom:latitude":61.611427,
     "geom:longitude":-149.295926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5662 Fireweed Dr",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102178801",
-    "wof:lastmodified":1449069530,
+    "wof:lastmodified":1466314034,
     "wof:name":"Shamrock Septic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.295926,61.611427,-149.295926,61.611427],
-  "geometry": {"coordinates":[-149.295926,61.611427],"type":"Point"}
+  "bbox": [
+    -149.295926,
+    61.611427,
+    -149.295926,
+    61.611427
+],
+  "geometry": {"coordinates":[-149.29592600000001,61.611427],"type":"Point"}
 }

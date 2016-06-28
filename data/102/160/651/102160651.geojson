@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102160651",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.770164,64.834561,-147.770164,64.834561",
     "geom:latitude":64.834561,
     "geom:longitude":-147.770164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2221 Eagan Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -25,11 +26,11 @@
     "sg:website":"www.state.ak.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856935,
+        85688573,
         85633793,
         85916609,
         102081397,
-        85688573
+        85856935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102160651",
-    "wof:lastmodified":1449069775,
+    "wof:lastmodified":1466313724,
     "wof:name":"Pioneers Home",
     "wof:parent_id":85856935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.770164,64.834561,-147.770164,64.834561],
-  "geometry": {"coordinates":[-147.770164,64.834561],"type":"Point"}
+  "bbox": [
+    -147.770164,
+    64.834561,
+    -147.770164,
+    64.834561
+],
+  "geometry": {"coordinates":[-147.77016399999999,64.83456099999999],"type":"Point"}
 }

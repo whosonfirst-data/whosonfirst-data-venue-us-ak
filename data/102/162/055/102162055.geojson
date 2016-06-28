@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102162055",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.685433,55.352568,-131.685433,55.352568",
     "geom:latitude":55.352568,
     "geom:longitude":-131.685433,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3101 Tongass Ave",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102162055",
-    "wof:lastmodified":1449069821,
+    "wof:lastmodified":1466313657,
     "wof:name":"B & R Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.685433,55.352568,-131.685433,55.352568],
-  "geometry": {"coordinates":[-131.685433,55.352568],"type":"Point"}
+  "bbox": [
+    -131.685433,
+    55.352568,
+    -131.685433,
+    55.352568
+],
+  "geometry": {"coordinates":[-131.68543299999999,55.352568],"type":"Point"}
 }

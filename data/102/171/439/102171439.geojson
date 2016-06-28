@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171439",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.784823,61.19763,-149.784823,61.19763",
     "geom:latitude":61.19763,
     "geom:longitude":-149.784823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5121 Hatcher Cir",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869053,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85869053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102171439",
-    "wof:lastmodified":1449070221,
+    "wof:lastmodified":1466313888,
     "wof:name":"Garry's Bullets & Handgun",
     "wof:parent_id":85869053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.784823,61.19763,-149.784823,61.19763],
-  "geometry": {"coordinates":[-149.784823,61.19763],"type":"Point"}
+  "bbox": [
+    -149.784823,
+    61.19763,
+    -149.784823,
+    61.19763
+],
+  "geometry": {"coordinates":[-149.78482299999999,61.19763],"type":"Point"}
 }

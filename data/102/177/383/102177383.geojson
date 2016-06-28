@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102177383",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.064568,60.491366,-151.064568,60.491366",
     "geom:latitude":60.491366,
     "geom:longitude":-151.064568,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35202 Kenai Spur Hwy",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102177383",
-    "wof:lastmodified":1449070208,
+    "wof:lastmodified":1466313947,
     "wof:name":"Stampin Pad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.064568,60.491366,-151.064568,60.491366],
-  "geometry": {"coordinates":[-151.064568,60.491366],"type":"Point"}
+  "bbox": [
+    -151.064568,
+    60.491366,
+    -151.064568,
+    60.491366
+],
+  "geometry": {"coordinates":[-151.06456800000001,60.491366],"type":"Point"}
 }

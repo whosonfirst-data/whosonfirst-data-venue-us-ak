@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102158657",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.333508,57.052889,-135.333508,57.052889",
     "geom:latitude":57.052889,
     "geom:longitude":-135.333508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 Lake St",
     "sg:city":"Sitka",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835489,
+        85688573,
         85633793,
         85916107,
         102081405,
-        85688573
+        85835489
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102158657",
-    "wof:lastmodified":1449069394,
+    "wof:lastmodified":1466313640,
     "wof:name":"GCI",
     "wof:parent_id":85835489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.333508,57.052889,-135.333508,57.052889],
-  "geometry": {"coordinates":[-135.333508,57.052889],"type":"Point"}
+  "bbox": [
+    -135.333508,
+    57.052889,
+    -135.333508,
+    57.052889
+],
+  "geometry": {"coordinates":[-135.33350799999999,57.052889],"type":"Point"}
 }

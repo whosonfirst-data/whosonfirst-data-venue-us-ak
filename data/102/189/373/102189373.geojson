@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102189373",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.331097,64.787918,-147.331097,64.787918",
     "geom:latitude":64.787918,
     "geom:longitude":-147.331097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2160 Pool St",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102189373",
-    "wof:lastmodified":1449069497,
+    "wof:lastmodified":1466313723,
     "wof:name":"Arctic Drilling Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.331097,64.787918,-147.331097,64.787918],
+  "bbox": [
+    -147.331097,
+    64.787918,
+    -147.331097,
+    64.787918
+],
   "geometry": {"coordinates":[-147.331097,64.787918],"type":"Point"}
 }

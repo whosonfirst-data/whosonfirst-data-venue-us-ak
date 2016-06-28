@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102165231",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-145.535374,62.107396,-145.535374,62.107396",
     "geom:latitude":62.107396,
     "geom:longitude":-145.535374,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"187 Glenn Hwy",
     "sg:city":"Glennallen",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102165231",
-    "wof:lastmodified":1449070214,
+    "wof:lastmodified":1466313702,
     "wof:name":"Fireweed Hill Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-145.535374,62.107396,-145.535374,62.107396],
-  "geometry": {"coordinates":[-145.535374,62.107396],"type":"Point"}
+  "bbox": [
+    -145.535374,
+    62.107396,
+    -145.535374,
+    62.107396
+],
+  "geometry": {"coordinates":[-145.53537399999999,62.107396],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102158179",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.639199,55.340274,-131.639199,55.340274",
     "geom:latitude":55.340274,
     "geom:longitude":-131.639199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Stedman St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102158179",
-    "wof:lastmodified":1449069394,
+    "wof:lastmodified":1466313543,
     "wof:name":"Ketchikan Coffee Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.639199,55.340274,-131.639199,55.340274],
-  "geometry": {"coordinates":[-131.639199,55.340274],"type":"Point"}
+  "bbox": [
+    -131.639199,
+    55.340274,
+    -131.639199,
+    55.340274
+],
+  "geometry": {"coordinates":[-131.63919899999999,55.340274],"type":"Point"}
 }

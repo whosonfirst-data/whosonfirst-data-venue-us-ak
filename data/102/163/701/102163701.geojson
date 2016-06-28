@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102163701",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.579578,58.36306,-134.579578,58.36306",
     "geom:latitude":58.36306,
     "geom:longitude":-134.579578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8800 Glacier Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833767,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85833767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102163701",
-    "wof:lastmodified":1449070164,
+    "wof:lastmodified":1466313791,
     "wof:name":"Forrest Messerschmidt OD",
     "wof:parent_id":85833767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.579578,58.36306,-134.579578,58.36306],
+  "bbox": [
+    -134.579578,
+    58.36306,
+    -134.579578,
+    58.36306
+],
   "geometry": {"coordinates":[-134.579578,58.36306],"type":"Point"}
 }

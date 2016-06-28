@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102160337",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.970296,56.779909,-132.970296,56.779909",
     "geom:latitude":56.779909,
     "geom:longitude":-132.970296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Scow Bay Loop Rd",
     "sg:city":"Petersburg",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847465,
+        85688573,
         85633793,
         85916033,
         102081899,
-        85688573
+        85847465
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102160337",
-    "wof:lastmodified":1449069777,
+    "wof:lastmodified":1466313659,
     "wof:name":"Personal Services",
     "wof:parent_id":85847465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.970296,56.779909,-132.970296,56.779909],
-  "geometry": {"coordinates":[-132.970296,56.779909],"type":"Point"}
+  "bbox": [
+    -132.970296,
+    56.779909,
+    -132.970296,
+    56.779909
+],
+  "geometry": {"coordinates":[-132.97029599999999,56.779909],"type":"Point"}
 }

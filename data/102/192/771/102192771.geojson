@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192771",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.716151,64.859793,-147.716151,64.859793",
     "geom:latitude":64.859793,
     "geom:longitude":-147.716151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Harriet Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830247,
+        85688573,
         85633793,
         85916559,
         102081397,
-        85688573
+        85830247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102192771",
-    "wof:lastmodified":1449069503,
+    "wof:lastmodified":1466314247,
     "wof:name":"Michael R Ahern DC",
     "wof:parent_id":85830247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.716151,64.859793,-147.716151,64.859793],
+  "bbox": [
+    -147.716151,
+    64.859793,
+    -147.716151,
+    64.859793
+],
   "geometry": {"coordinates":[-147.716151,64.859793],"type":"Point"}
 }

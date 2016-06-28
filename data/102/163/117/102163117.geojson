@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102163117",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.333521,57.052896,-135.333521,57.052896",
     "geom:latitude":57.052896,
     "geom:longitude":-135.333521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Lake St",
     "sg:city":"Sitka",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835489,
+        85688573,
         85633793,
         85916107,
         102081405,
-        85688573
+        85835489
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102163117",
-    "wof:lastmodified":1449070164,
+    "wof:lastmodified":1466314128,
     "wof:name":"O'Neill Survey & Engineering",
     "wof:parent_id":85835489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.333521,57.052896,-135.333521,57.052896],
-  "geometry": {"coordinates":[-135.333521,57.052896],"type":"Point"}
+  "bbox": [
+    -135.333521,
+    57.052896,
+    -135.333521,
+    57.052896
+],
+  "geometry": {"coordinates":[-135.33352099999999,57.052896],"type":"Point"}
 }

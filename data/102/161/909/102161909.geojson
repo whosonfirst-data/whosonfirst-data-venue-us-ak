@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102161909",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.868113,64.835665,-147.868113,64.835665",
     "geom:latitude":64.835665,
     "geom:longitude":-147.868113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Trinidad Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102161909",
-    "wof:lastmodified":1449068709,
+    "wof:lastmodified":1466313828,
     "wof:name":"BKH Paralegal Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.868113,64.835665,-147.868113,64.835665],
-  "geometry": {"coordinates":[-147.868113,64.835665],"type":"Point"}
+  "bbox": [
+    -147.868113,
+    64.835665,
+    -147.868113,
+    64.835665
+],
+  "geometry": {"coordinates":[-147.86811299999999,64.83566500000001],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102193681",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.367096,57.814459,-152.367096,57.814459",
     "geom:latitude":57.814459,
     "geom:longitude":-152.367096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"445 Shahafka Cir",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102193681",
-    "wof:lastmodified":1449068193,
+    "wof:lastmodified":1466314277,
     "wof:name":"Joycrafts Marine Safety Equip",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.367096,57.814459,-152.367096,57.814459],
+  "bbox": [
+    -152.367096,
+    57.814459,
+    -152.367096,
+    57.814459
+],
   "geometry": {"coordinates":[-152.367096,57.814459],"type":"Point"}
 }

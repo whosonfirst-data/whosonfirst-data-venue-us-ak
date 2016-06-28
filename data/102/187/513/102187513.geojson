@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187513",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.508213,59.640061,-151.508213,59.640061",
     "geom:latitude":59.640061,
     "geom:longitude":-151.508213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1371 Lake Shore Dr",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102187513",
-    "wof:lastmodified":1449068159,
+    "wof:lastmodified":1466314149,
     "wof:name":"Lakeshore Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.508213,59.640061,-151.508213,59.640061],
-  "geometry": {"coordinates":[-151.508213,59.640061],"type":"Point"}
+  "bbox": [
+    -151.508213,
+    59.640061,
+    -151.508213,
+    59.640061
+],
+  "geometry": {"coordinates":[-151.50821300000001,59.640061],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191093",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.638432,55.339933,-131.638432,55.339933",
     "geom:latitude":55.339933,
     "geom:longitude":-131.638432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"337 Stedman St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102191093",
-    "wof:lastmodified":1449069197,
+    "wof:lastmodified":1466314173,
     "wof:name":"Mt Mc Kinley Security",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.638432,55.339933,-131.638432,55.339933],
-  "geometry": {"coordinates":[-131.638432,55.339933],"type":"Point"}
+  "bbox": [
+    -131.638432,
+    55.339933,
+    -131.638432,
+    55.339933
+],
+  "geometry": {"coordinates":[-131.63843199999999,55.339933],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102152289",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.461224,58.325504,-134.461224,58.325504",
     "geom:latitude":58.325504,
     "geom:longitude":-134.461224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2680 Channel Vista Dr",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853509,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85853509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102152289",
-    "wof:lastmodified":1449069636,
+    "wof:lastmodified":1466314116,
     "wof:name":"Last Frontier Forestry & Tree",
     "wof:parent_id":85853509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.461224,58.325504,-134.461224,58.325504],
-  "geometry": {"coordinates":[-134.461224,58.325504],"type":"Point"}
+  "bbox": [
+    -134.461224,
+    58.325504,
+    -134.461224,
+    58.325504
+],
+  "geometry": {"coordinates":[-134.46122399999999,58.325504],"type":"Point"}
 }

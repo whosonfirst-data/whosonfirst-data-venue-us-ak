@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102169551",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.727213,64.922164,-147.727213,64.922164",
     "geom:latitude":64.922164,
     "geom:longitude":-147.727213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1073 Mia St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102169551",
-    "wof:lastmodified":1449069247,
+    "wof:lastmodified":1466313822,
     "wof:name":"Work In Progress",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.727213,64.922164,-147.727213,64.922164],
-  "geometry": {"coordinates":[-147.727213,64.922164],"type":"Point"}
+  "bbox": [
+    -147.727213,
+    64.922164,
+    -147.727213,
+    64.922164
+],
+  "geometry": {"coordinates":[-147.72721300000001,64.922164],"type":"Point"}
 }

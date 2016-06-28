@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102165557",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.432424,61.395514,-149.432424,61.395514",
     "geom:latitude":61.395514,
     "geom:longitude":-149.432424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24149 Platsek Dr",
     "sg:city":"Chugiak",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869049,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85869049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102165557",
-    "wof:lastmodified":1449070217,
+    "wof:lastmodified":1466313769,
     "wof:name":"Kids Corner Child Care",
     "wof:parent_id":85869049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.432424,61.395514,-149.432424,61.395514],
+  "bbox": [
+    -149.432424,
+    61.395514,
+    -149.432424,
+    61.395514
+],
   "geometry": {"coordinates":[-149.432424,61.395514],"type":"Point"}
 }

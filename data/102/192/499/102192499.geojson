@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192499",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.774493,61.200989,-149.774493,61.200989",
     "geom:latitude":61.200989,
     "geom:longitude":-149.774493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5612 College Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806647,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85806647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102192499",
-    "wof:lastmodified":1449069504,
+    "wof:lastmodified":1466314242,
     "wof:name":"ABT Taekwondo/Hapkitdo",
     "wof:parent_id":85806647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.774493,61.200989,-149.774493,61.200989],
-  "geometry": {"coordinates":[-149.774493,61.200989],"type":"Point"}
+  "bbox": [
+    -149.774493,
+    61.200989,
+    -149.774493,
+    61.200989
+],
+  "geometry": {"coordinates":[-149.77449300000001,61.200989],"type":"Point"}
 }

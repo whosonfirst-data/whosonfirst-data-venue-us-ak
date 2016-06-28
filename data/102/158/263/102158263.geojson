@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102158263",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.415577,57.786179,-152.415577,57.786179",
     "geom:latitude":57.786179,
     "geom:longitude":-152.415577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Shelikof St",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102158263",
-    "wof:lastmodified":1449069394,
+    "wof:lastmodified":1466313559,
     "wof:name":"Sutliff's True Value Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.415577,57.786179,-152.415577,57.786179],
-  "geometry": {"coordinates":[-152.415577,57.786179],"type":"Point"}
+  "bbox": [
+    -152.415577,
+    57.786179,
+    -152.415577,
+    57.786179
+],
+  "geometry": {"coordinates":[-152.41557700000001,57.786179],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102180919",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.407935,57.788283,-152.407935,57.788283",
     "geom:latitude":57.788283,
     "geom:longitude":-152.407935,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 Marine Way W",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102180919",
-    "wof:lastmodified":1449067877,
+    "wof:lastmodified":1466314080,
     "wof:name":"Henry's Great Alaskan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.407935,57.788283,-152.407935,57.788283],
-  "geometry": {"coordinates":[-152.407935,57.788283],"type":"Point"}
+  "bbox": [
+    -152.407935,
+    57.788283,
+    -152.407935,
+    57.788283
+],
+  "geometry": {"coordinates":[-152.40793500000001,57.788283],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102151663",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-156.748048,71.299578,-156.748048,71.299578",
     "geom:latitude":71.299578,
     "geom:longitude":-156.748048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5421 N Star St",
     "sg:city":"Barrow",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102151663",
-    "wof:lastmodified":1449067781,
+    "wof:lastmodified":1466313521,
     "wof:name":"Tuzzy Consortium Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-156.748048,71.299578,-156.748048,71.299578],
-  "geometry": {"coordinates":[-156.748048,71.299578],"type":"Point"}
+  "bbox": [
+    -156.748048,
+    71.299578,
+    -156.748048,
+    71.299578
+],
+  "geometry": {"coordinates":[-156.74804800000001,71.299578],"type":"Point"}
 }

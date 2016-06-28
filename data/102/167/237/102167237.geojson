@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102167237",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.720007,64.837217,-147.720007,64.837217",
     "geom:latitude":64.837217,
     "geom:longitude":-147.720007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Gaffney Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848979,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85848979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102167237",
-    "wof:lastmodified":1449069001,
+    "wof:lastmodified":1466313717,
     "wof:name":"R J's Lounge",
     "wof:parent_id":85848979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.720007,64.837217,-147.720007,64.837217],
-  "geometry": {"coordinates":[-147.720007,64.837217],"type":"Point"}
+  "bbox": [
+    -147.720007,
+    64.837217,
+    -147.720007,
+    64.837217
+],
+  "geometry": {"coordinates":[-147.72000700000001,64.837217],"type":"Point"}
 }

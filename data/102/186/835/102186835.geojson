@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102186835",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-150.794462,60.512519,-150.794462,60.512519",
     "geom:latitude":60.512519,
     "geom:longitude":-150.794462,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35975 Betty Lou Dr",
     "sg:city":"Sterling",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102186835",
-    "wof:lastmodified":1449069653,
+    "wof:lastmodified":1466314233,
     "wof:name":"Arctic Tern Charters & Fish",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-150.794462,60.512519,-150.794462,60.512519],
-  "geometry": {"coordinates":[-150.794462,60.512519],"type":"Point"}
+  "bbox": [
+    -150.794462,
+    60.512519,
+    -150.794462,
+    60.512519
+],
+  "geometry": {"coordinates":[-150.79446200000001,60.512519],"type":"Point"}
 }

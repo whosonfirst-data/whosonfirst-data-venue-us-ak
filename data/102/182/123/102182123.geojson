@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102182123",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.281311,60.558422,-151.281311,60.558422",
     "geom:latitude":60.558422,
     "geom:longitude":-151.281311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1504 Fathom Dr",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102182123",
-    "wof:lastmodified":1449069279,
+    "wof:lastmodified":1466314058,
     "wof:name":"Futuramic Computer Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.281311,60.558422,-151.281311,60.558422],
-  "geometry": {"coordinates":[-151.281311,60.558422],"type":"Point"}
+  "bbox": [
+    -151.281311,
+    60.558422,
+    -151.281311,
+    60.558422
+],
+  "geometry": {"coordinates":[-151.28131099999999,60.558422],"type":"Point"}
 }

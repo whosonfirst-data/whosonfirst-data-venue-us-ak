@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102182367",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.923257,64.814288,-147.923257,64.814288",
     "geom:latitude":64.814288,
     "geom:longitude":-147.923257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1188 Dolphin Way",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102182367",
-    "wof:lastmodified":1449069281,
+    "wof:lastmodified":1466314195,
     "wof:name":"T K Aviation Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.923257,64.814288,-147.923257,64.814288],
-  "geometry": {"coordinates":[-147.923257,64.814288],"type":"Point"}
+  "bbox": [
+    -147.923257,
+    64.814288,
+    -147.923257,
+    64.814288
+],
+  "geometry": {"coordinates":[-147.92325700000001,64.814288],"type":"Point"}
 }

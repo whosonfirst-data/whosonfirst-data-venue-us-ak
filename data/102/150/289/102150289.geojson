@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102150289",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-161.760727,60.794407,-161.760727,60.794407",
     "geom:latitude":60.794407,
     "geom:longitude":-161.760727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Main St",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102150289",
-    "wof:lastmodified":1449067793,
+    "wof:lastmodified":1466313976,
     "wof:name":"Faulkner Walsh Constructors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-161.760727,60.794407,-161.760727,60.794407],
+  "bbox": [
+    -161.760727,
+    60.794407,
+    -161.760727,
+    60.794407
+],
   "geometry": {"coordinates":[-161.760727,60.794407],"type":"Point"}
 }

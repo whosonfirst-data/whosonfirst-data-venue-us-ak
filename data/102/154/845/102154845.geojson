@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102154845",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.826636,56.015512,-132.826636,56.015512",
     "geom:latitude":56.015512,
     "geom:longitude":-132.826636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Crestview",
     "sg:city":"Coffman Cove",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102154845",
-    "wof:lastmodified":1449070243,
+    "wof:lastmodified":1466313616,
     "wof:name":"Island Septic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.826636,56.015512,-132.826636,56.015512],
-  "geometry": {"coordinates":[-132.826636,56.015512],"type":"Point"}
+  "bbox": [
+    -132.826636,
+    56.015512,
+    -132.826636,
+    56.015512
+],
+  "geometry": {"coordinates":[-132.82663600000001,56.015512],"type":"Point"}
 }

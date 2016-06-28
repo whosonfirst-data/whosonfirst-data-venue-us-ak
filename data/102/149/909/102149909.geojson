@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102149909",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.429414,59.694161,-151.429414,59.694161",
     "geom:latitude":59.694161,
     "geom:longitude":-151.429414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61030 Skyline Dr",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102149909",
-    "wof:lastmodified":1449067770,
+    "wof:lastmodified":1466313616,
     "wof:name":"Acme Carpet Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.429414,59.694161,-151.429414,59.694161],
-  "geometry": {"coordinates":[-151.429414,59.694161],"type":"Point"}
+  "bbox": [
+    -151.429414,
+    59.694161,
+    -151.429414,
+    59.694161
+],
+  "geometry": {"coordinates":[-151.42941400000001,59.694161],"type":"Point"}
 }

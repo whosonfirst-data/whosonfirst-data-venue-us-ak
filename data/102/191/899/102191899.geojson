@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191899",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.86317,64.84434,-147.86317,64.84434",
     "geom:latitude":64.84434,
     "geom:longitude":-147.86317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4764 Glasgow Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102191899",
-    "wof:lastmodified":1449069203,
+    "wof:lastmodified":1466314219,
     "wof:name":"Mechanical Systems Of Alaska",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.86317,64.84434,-147.86317,64.84434],
+  "bbox": [
+    -147.86317,
+    64.84434,
+    -147.86317,
+    64.84434
+],
   "geometry": {"coordinates":[-147.86317,64.84434],"type":"Point"}
 }

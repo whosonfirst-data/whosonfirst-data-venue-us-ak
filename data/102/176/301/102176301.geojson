@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176301",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.973515,56.782839,-132.973515,56.782839",
     "geom:latitude":56.782839,
     "geom:longitude":-132.973515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"288 Mitkof Hwy",
     "sg:city":"Petersburg",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847465,
+        85688573,
         85633793,
         85916033,
         102081899,
-        85688573
+        85847465
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102176301",
-    "wof:lastmodified":1449069346,
+    "wof:lastmodified":1466313930,
     "wof:name":"Highway Maintenance",
     "wof:parent_id":85847465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.973515,56.782839,-132.973515,56.782839],
-  "geometry": {"coordinates":[-132.973515,56.782839],"type":"Point"}
+  "bbox": [
+    -132.973515,
+    56.782839,
+    -132.973515,
+    56.782839
+],
+  "geometry": {"coordinates":[-132.97351499999999,56.782839],"type":"Point"}
 }

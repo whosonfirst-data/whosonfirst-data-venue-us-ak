@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102164411",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.575093,61.331175,-149.575093,61.331175",
     "geom:latitude":61.331175,
     "geom:longitude":-149.575093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12332 End St",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102164411",
-    "wof:lastmodified":1449068085,
+    "wof:lastmodified":1466313740,
     "wof:name":"Sherwood Arms Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.575093,61.331175,-149.575093,61.331175],
-  "geometry": {"coordinates":[-149.575093,61.331175],"type":"Point"}
+  "bbox": [
+    -149.575093,
+    61.331175,
+    -149.575093,
+    61.331175
+],
+  "geometry": {"coordinates":[-149.57509300000001,61.331175],"type":"Point"}
 }

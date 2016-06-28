@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155675",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.555454,61.322869,-149.555454,61.322869",
     "geom:latitude":61.322869,
     "geom:longitude":-149.555454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11341 Echo St",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102155675",
-    "wof:lastmodified":1449069744,
+    "wof:lastmodified":1466313587,
     "wof:name":"Alaska Welding Specialists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.555454,61.322869,-149.555454,61.322869],
+  "bbox": [
+    -149.555454,
+    61.322869,
+    -149.555454,
+    61.322869
+],
   "geometry": {"coordinates":[-149.555454,61.322869],"type":"Point"}
 }

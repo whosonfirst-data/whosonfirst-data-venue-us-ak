@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176411",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.487804,61.403723,-149.487804,61.403723",
     "geom:latitude":61.403723,
     "geom:longitude":-149.487804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20313 Scenic Dr",
     "sg:city":"Chugiak",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806187,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85806187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102176411",
-    "wof:lastmodified":1449069343,
+    "wof:lastmodified":1466313953,
     "wof:name":"Computer Networking & Cnsltng",
     "wof:parent_id":85806187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.487804,61.403723,-149.487804,61.403723],
-  "geometry": {"coordinates":[-149.487804,61.403723],"type":"Point"}
+  "bbox": [
+    -149.487804,
+    61.403723,
+    -149.487804,
+    61.403723
+],
+  "geometry": {"coordinates":[-149.48780400000001,61.403723],"type":"Point"}
 }

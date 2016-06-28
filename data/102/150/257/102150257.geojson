@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102150257",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-148.106968,64.926462,-148.106968,64.926462",
     "geom:latitude":64.926462,
     "geom:longitude":-148.106968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4465 Murphy Dome Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102150257",
-    "wof:lastmodified":1449067790,
+    "wof:lastmodified":1466313970,
     "wof:name":"Costello Custom Home Imprv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-148.106968,64.926462,-148.106968,64.926462],
-  "geometry": {"coordinates":[-148.106968,64.926462],"type":"Point"}
+  "bbox": [
+    -148.106968,
+    64.926462,
+    -148.106968,
+    64.926462
+],
+  "geometry": {"coordinates":[-148.10696799999999,64.926462],"type":"Point"}
 }

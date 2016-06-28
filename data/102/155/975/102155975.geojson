@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155975",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.451766,61.573909,-149.451766,61.573909",
     "geom:latitude":61.573909,
     "geom:longitude":-149.451766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Easy St",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102155975",
-    "wof:lastmodified":1449069745,
+    "wof:lastmodified":1466313648,
     "wof:name":"Shady Acres Inn B & B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.451766,61.573909,-149.451766,61.573909],
-  "geometry": {"coordinates":[-149.451766,61.573909],"type":"Point"}
+  "bbox": [
+    -149.451766,
+    61.573909,
+    -149.451766,
+    61.573909
+],
+  "geometry": {"coordinates":[-149.45176599999999,61.573909],"type":"Point"}
 }

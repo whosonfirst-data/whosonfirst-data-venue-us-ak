@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102152755",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.953557,56.813314,-132.953557,56.813314",
     "geom:latitude":56.813314,
     "geom:longitude":-132.953557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 N 3rd St",
     "sg:city":"Petersburg",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102152755",
-    "wof:lastmodified":1449069634,
+    "wof:lastmodified":1466313609,
     "wof:name":"St Andrews Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.953557,56.813314,-132.953557,56.813314],
-  "geometry": {"coordinates":[-132.953557,56.813314],"type":"Point"}
+  "bbox": [
+    -132.953557,
+    56.813314,
+    -132.953557,
+    56.813314
+],
+  "geometry": {"coordinates":[-132.95355699999999,56.813314],"type":"Point"}
 }

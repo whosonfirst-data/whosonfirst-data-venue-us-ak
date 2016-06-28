@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102148143",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.807674,61.147902,-149.807674,61.147902",
     "geom:latitude":61.147902,
     "geom:longitude":-149.807674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4015 Iona Cir",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873745,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873745
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102148143",
-    "wof:lastmodified":1449069785,
+    "wof:lastmodified":1466313472,
     "wof:name":"Bear Paw Productions",
     "wof:parent_id":85873745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.807674,61.147902,-149.807674,61.147902],
-  "geometry": {"coordinates":[-149.807674,61.147902],"type":"Point"}
+  "bbox": [
+    -149.807674,
+    61.147902,
+    -149.807674,
+    61.147902
+],
+  "geometry": {"coordinates":[-149.80767399999999,61.147902],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102188045",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.55051,59.641533,-151.55051,59.641533",
     "geom:latitude":59.641533,
     "geom:longitude":-151.55051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"331 Sterling Hwy",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102188045",
-    "wof:lastmodified":1449068948,
+    "wof:lastmodified":1466313466,
     "wof:name":"Homer Tire & Auto Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.55051,59.641533,-151.55051,59.641533],
+  "bbox": [
+    -151.55051,
+    59.641533,
+    -151.55051,
+    59.641533
+],
   "geometry": {"coordinates":[-151.55051,59.641533],"type":"Point"}
 }

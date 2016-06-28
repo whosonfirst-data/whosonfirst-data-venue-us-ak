@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102160461",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-161.766616,60.797234,-161.766616,60.797234",
     "geom:latitude":60.797234,
     "geom:longitude":-161.766616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"542 6th Ave",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102160461",
-    "wof:lastmodified":1449069774,
+    "wof:lastmodified":1466313685,
     "wof:name":"Celeration/Winterset Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-161.766616,60.797234,-161.766616,60.797234],
+  "bbox": [
+    -161.766616,
+    60.797234,
+    -161.766616,
+    60.797234
+],
   "geometry": {"coordinates":[-161.766616,60.797234],"type":"Point"}
 }

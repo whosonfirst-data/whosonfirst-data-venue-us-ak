@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102165395",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.954145,61.192418,-149.954145,61.192418",
     "geom:latitude":61.192418,
     "geom:longitude":-149.954145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3072 Leighton St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852831,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85852831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102165395",
-    "wof:lastmodified":1449070217,
+    "wof:lastmodified":1466313736,
     "wof:name":"Princess House Inc",
     "wof:parent_id":85852831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.954145,61.192418,-149.954145,61.192418],
-  "geometry": {"coordinates":[-149.954145,61.192418],"type":"Point"}
+  "bbox": [
+    -149.954145,
+    61.192418,
+    -149.954145,
+    61.192418
+],
+  "geometry": {"coordinates":[-149.95414500000001,61.192418],"type":"Point"}
 }

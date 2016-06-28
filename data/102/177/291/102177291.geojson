@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102177291",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.872893,61.207637,-149.872893,61.207637",
     "geom:latitude":61.207637,
     "geom:longitude":-149.872893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"612 E 15th Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873717,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102177291",
-    "wof:lastmodified":1449070204,
+    "wof:lastmodified":1466313929,
     "wof:name":"Twin Dragon Mongolian Bar-B-Q",
     "wof:parent_id":85873717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.872893,61.207637,-149.872893,61.207637],
+  "bbox": [
+    -149.872893,
+    61.207637,
+    -149.872893,
+    61.207637
+],
   "geometry": {"coordinates":[-149.872893,61.207637],"type":"Point"}
 }

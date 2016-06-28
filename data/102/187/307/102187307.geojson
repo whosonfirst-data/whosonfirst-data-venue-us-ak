@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187307",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.550091,59.643349,-151.550091,59.643349",
     "geom:latitude":59.643349,
     "geom:longitude":-151.550091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"248 W Pioneer Ave",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102187307",
-    "wof:lastmodified":1449068159,
+    "wof:lastmodified":1466314123,
     "wof:name":"Smoky Bay Natural Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.550091,59.643349,-151.550091,59.643349],
-  "geometry": {"coordinates":[-151.550091,59.643349],"type":"Point"}
+  "bbox": [
+    -151.550091,
+    59.643349,
+    -151.550091,
+    59.643349
+],
+  "geometry": {"coordinates":[-151.55009100000001,59.643349],"type":"Point"}
 }

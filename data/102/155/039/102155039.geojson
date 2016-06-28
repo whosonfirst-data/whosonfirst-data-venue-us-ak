@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155039",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.750845,58.399697,-134.750845,58.399697",
     "geom:latitude":58.399697,
     "geom:longitude":-134.750845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17212 Andreanoff Dr",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869055,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85869055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102155039",
-    "wof:lastmodified":1449069744,
+    "wof:lastmodified":1466314094,
     "wof:name":"Bowman Distribution",
     "wof:parent_id":85869055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.750845,58.399697,-134.750845,58.399697],
+  "bbox": [
+    -134.750845,
+    58.399697,
+    -134.750845,
+    58.399697
+],
   "geometry": {"coordinates":[-134.750845,58.399697],"type":"Point"}
 }

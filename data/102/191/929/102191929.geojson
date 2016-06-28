@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191929",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.146096,61.594259,-149.146096,61.594259",
     "geom:latitude":61.594259,
     "geom:longitude":-149.146096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12100 Woodstock Dr",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102191929",
-    "wof:lastmodified":1449069200,
+    "wof:lastmodified":1466314163,
     "wof:name":"Iditarod House Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.146096,61.594259,-149.146096,61.594259],
+  "bbox": [
+    -149.146096,
+    61.594259,
+    -149.146096,
+    61.594259
+],
   "geometry": {"coordinates":[-149.146096,61.594259],"type":"Point"}
 }

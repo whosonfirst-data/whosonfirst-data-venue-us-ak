@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102180571",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.622665,65.119251,-147.622665,65.119251",
     "geom:latitude":65.119251,
     "geom:longitude":-147.622665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Leuthold Dr W",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102180571",
-    "wof:lastmodified":1449067877,
+    "wof:lastmodified":1466314029,
     "wof:name":"Arborists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.622665,65.119251,-147.622665,65.119251],
-  "geometry": {"coordinates":[-147.622665,65.119251],"type":"Point"}
+  "bbox": [
+    -147.622665,
+    65.119251,
+    -147.622665,
+    65.119251
+],
+  "geometry": {"coordinates":[-147.62266500000001,65.11925100000001],"type":"Point"}
 }

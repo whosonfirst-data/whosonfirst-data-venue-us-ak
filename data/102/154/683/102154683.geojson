@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102154683",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.824866,61.155576,-149.824866,61.155576",
     "geom:latitude":61.155576,
     "geom:longitude":-149.824866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3115 E 72nd Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809155,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85809155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102154683",
-    "wof:lastmodified":1449070244,
+    "wof:lastmodified":1466313587,
     "wof:name":"Green Acres",
     "wof:parent_id":85809155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.824866,61.155576,-149.824866,61.155576],
-  "geometry": {"coordinates":[-149.824866,61.155576],"type":"Point"}
+  "bbox": [
+    -149.824866,
+    61.155576,
+    -149.824866,
+    61.155576
+],
+  "geometry": {"coordinates":[-149.82486599999999,61.155576],"type":"Point"}
 }

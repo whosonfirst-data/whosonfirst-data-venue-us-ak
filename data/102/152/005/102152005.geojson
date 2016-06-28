@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102152005",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.563869,61.33482,-149.563869,61.33482",
     "geom:latitude":61.33482,
     "geom:longitude":-149.563869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12621 Old Glenn Hwy",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102152005",
-    "wof:lastmodified":1449069637,
+    "wof:lastmodified":1466314085,
     "wof:name":"Hands Off Touchless Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.563869,61.33482,-149.563869,61.33482],
-  "geometry": {"coordinates":[-149.563869,61.33482],"type":"Point"}
+  "bbox": [
+    -149.563869,
+    61.33482,
+    -149.563869,
+    61.33482
+],
+  "geometry": {"coordinates":[-149.56386900000001,61.33482],"type":"Point"}
 }

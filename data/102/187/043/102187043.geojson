@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187043",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.694809,64.892292,-147.694809,64.892292",
     "geom:latitude":64.892292,
     "geom:longitude":-147.694809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Fideler Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102187043",
-    "wof:lastmodified":1449068159,
+    "wof:lastmodified":1466314191,
     "wof:name":"Plant Kingdom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.694809,64.892292,-147.694809,64.892292],
-  "geometry": {"coordinates":[-147.694809,64.892292],"type":"Point"}
+  "bbox": [
+    -147.694809,
+    64.892292,
+    -147.694809,
+    64.892292
+],
+  "geometry": {"coordinates":[-147.69480899999999,64.892292],"type":"Point"}
 }

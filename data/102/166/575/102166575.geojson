@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166575",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.653062,64.937901,-147.653062,64.937901",
     "geom:latitude":64.937901,
     "geom:longitude":-147.653062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1818 Old Steese Hwy N",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102166575",
-    "wof:lastmodified":1449069084,
+    "wof:lastmodified":1466313780,
     "wof:name":"Precision Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.653062,64.937901,-147.653062,64.937901],
-  "geometry": {"coordinates":[-147.653062,64.937901],"type":"Point"}
+  "bbox": [
+    -147.653062,
+    64.937901,
+    -147.653062,
+    64.937901
+],
+  "geometry": {"coordinates":[-147.65306200000001,64.937901],"type":"Point"}
 }

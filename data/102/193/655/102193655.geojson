@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102193655",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.719693,64.827378,-147.719693,64.827378",
     "geom:latitude":64.827378,
     "geom:longitude":-147.719693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"827 22nd Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102193655",
-    "wof:lastmodified":1449068193,
+    "wof:lastmodified":1466314277,
     "wof:name":"Hearts That Care",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.719693,64.827378,-147.719693,64.827378],
-  "geometry": {"coordinates":[-147.719693,64.827378],"type":"Point"}
+  "bbox": [
+    -147.719693,
+    64.827378,
+    -147.719693,
+    64.827378
+],
+  "geometry": {"coordinates":[-147.71969300000001,64.827378],"type":"Point"}
 }

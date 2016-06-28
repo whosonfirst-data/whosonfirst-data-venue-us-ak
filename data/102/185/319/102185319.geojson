@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185319",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.463161,61.579017,-149.463161,61.579017",
     "geom:latitude":61.579017,
     "geom:longitude":-149.463161,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"455 Pioneer Dr",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102185319",
-    "wof:lastmodified":1449068197,
+    "wof:lastmodified":1466314203,
     "wof:name":"Aurora Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.463161,61.579017,-149.463161,61.579017],
-  "geometry": {"coordinates":[-149.463161,61.579017],"type":"Point"}
+  "bbox": [
+    -149.463161,
+    61.579017,
+    -149.463161,
+    61.579017
+],
+  "geometry": {"coordinates":[-149.46316100000001,61.579017],"type":"Point"}
 }

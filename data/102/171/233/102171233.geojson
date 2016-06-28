@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171233",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.39757,61.581976,-149.39757,61.581976",
     "geom:latitude":61.581976,
     "geom:longitude":-149.39757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2061 E Palmer-Wasilla Hwy",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102171233",
-    "wof:lastmodified":1449070226,
+    "wof:lastmodified":1466313848,
     "wof:name":"Rogers Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.39757,61.581976,-149.39757,61.581976],
+  "bbox": [
+    -149.39757,
+    61.581976,
+    -149.39757,
+    61.581976
+],
   "geometry": {"coordinates":[-149.39757,61.581976],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102161397",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.288826,57.046696,-135.288826,57.046696",
     "geom:latitude":57.046696,
     "geom:longitude":-135.288826,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1707 Sawmill Creek Rd",
     "sg:city":"Sitka",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102161397",
-    "wof:lastmodified":1449068711,
+    "wof:lastmodified":1466313723,
     "wof:name":"Sitka Sewing Machines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.288826,57.046696,-135.288826,57.046696],
+  "bbox": [
+    -135.288826,
+    57.046696,
+    -135.288826,
+    57.046696
+],
   "geometry": {"coordinates":[-135.288826,57.046696],"type":"Point"}
 }

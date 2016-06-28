@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192259",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.435764,60.10175,-149.435764,60.10175",
     "geom:latitude":60.10175,
     "geom:longitude":-149.435764,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 Ballaine Blvd",
     "sg:city":"Seward",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102192259",
-    "wof:lastmodified":1449069502,
+    "wof:lastmodified":1466314237,
     "wof:name":"Alaska Oceanographic Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.435764,60.10175,-149.435764,60.10175],
-  "geometry": {"coordinates":[-149.435764,60.10175],"type":"Point"}
+  "bbox": [
+    -149.435764,
+    60.10175,
+    -149.435764,
+    60.10175
+],
+  "geometry": {"coordinates":[-149.43576400000001,60.10175],"type":"Point"}
 }

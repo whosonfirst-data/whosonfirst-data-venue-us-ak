@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102169775",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.574393,61.335642,-149.574393,61.335642",
     "geom:latitude":61.335642,
     "geom:longitude":-149.574393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16541 Marcus St",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102169775",
-    "wof:lastmodified":1449069249,
+    "wof:lastmodified":1466313864,
     "wof:name":"Little Foot Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.574393,61.335642,-149.574393,61.335642],
-  "geometry": {"coordinates":[-149.574393,61.335642],"type":"Point"}
+  "bbox": [
+    -149.574393,
+    61.335642,
+    -149.574393,
+    61.335642
+],
+  "geometry": {"coordinates":[-149.57439299999999,61.335642],"type":"Point"}
 }

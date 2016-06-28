@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102164943",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.405457,58.300509,-134.405457,58.300509",
     "geom:latitude":58.300509,
     "geom:longitude":-134.405457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 S Franklin St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102164943",
-    "wof:lastmodified":1449068090,
+    "wof:lastmodified":1466313849,
     "wof:name":"Gallery Of The North",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.405457,58.300509,-134.405457,58.300509],
-  "geometry": {"coordinates":[-134.405457,58.300509],"type":"Point"}
+  "bbox": [
+    -134.405457,
+    58.300509,
+    -134.405457,
+    58.300509
+],
+  "geometry": {"coordinates":[-134.40545700000001,58.300509],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102182707",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.812142,61.145631,-149.812142,61.145631",
     "geom:latitude":61.145631,
     "geom:longitude":-149.812142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3733 Coventry Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102182707",
-    "wof:lastmodified":1449069282,
+    "wof:lastmodified":1466314141,
     "wof:name":"Buhler Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.812142,61.145631,-149.812142,61.145631],
-  "geometry": {"coordinates":[-149.812142,61.145631],"type":"Point"}
+  "bbox": [
+    -149.812142,
+    61.145631,
+    -149.812142,
+    61.145631
+],
+  "geometry": {"coordinates":[-149.81214199999999,61.145631],"type":"Point"}
 }

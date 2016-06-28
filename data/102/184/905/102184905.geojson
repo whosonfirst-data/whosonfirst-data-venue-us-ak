@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184905",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.785115,64.858559,-147.785115,64.858559",
     "geom:latitude":64.858559,
     "geom:longitude":-147.785115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2821 Totem Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869043,
+        85688573,
         85633793,
         85916609,
         102081397,
-        85688573
+        85869043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102184905",
-    "wof:lastmodified":1449068216,
+    "wof:lastmodified":1466314229,
     "wof:name":"Security Heating & Maintenance",
     "wof:parent_id":85869043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.785115,64.858559,-147.785115,64.858559],
-  "geometry": {"coordinates":[-147.785115,64.858559],"type":"Point"}
+  "bbox": [
+    -147.785115,
+    64.858559,
+    -147.785115,
+    64.858559
+],
+  "geometry": {"coordinates":[-147.78511499999999,64.858559],"type":"Point"}
 }

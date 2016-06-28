@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102181029",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.391162,64.805066,-147.391162,64.805066",
     "geom:latitude":64.805066,
     "geom:longitude":-147.391162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1392 Benshoof Dr",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102181029",
-    "wof:lastmodified":1449069234,
+    "wof:lastmodified":1466314001,
     "wof:name":"Poco's Custom Engraving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.391162,64.805066,-147.391162,64.805066],
-  "geometry": {"coordinates":[-147.391162,64.805066],"type":"Point"}
+  "bbox": [
+    -147.391162,
+    64.805066,
+    -147.391162,
+    64.805066
+],
+  "geometry": {"coordinates":[-147.39116200000001,64.805066],"type":"Point"}
 }

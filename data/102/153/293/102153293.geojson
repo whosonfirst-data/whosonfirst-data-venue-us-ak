@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153293",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.901724,61.215031,-149.901724,61.215031",
     "geom:latitude":61.215031,
     "geom:longitude":-149.901724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"742 K St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873721,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102153293",
-    "wof:lastmodified":1449069461,
+    "wof:lastmodified":1466313511,
     "wof:name":"Intuitions Day Spa & Salon",
     "wof:parent_id":85873721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.901724,61.215031,-149.901724,61.215031],
+  "bbox": [
+    -149.901724,
+    61.215031,
+    -149.901724,
+    61.215031
+],
   "geometry": {"coordinates":[-149.901724,61.215031],"type":"Point"}
 }

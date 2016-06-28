@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102148577",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.072202,60.487495,-151.072202,60.487495",
     "geom:latitude":60.487495,
     "geom:longitude":-151.072202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 S Binkley St",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102148577",
-    "wof:lastmodified":1449069786,
+    "wof:lastmodified":1466313559,
     "wof:name":"Eternal Life Research Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.072202,60.487495,-151.072202,60.487495],
+  "bbox": [
+    -151.072202,
+    60.487495,
+    -151.072202,
+    60.487495
+],
   "geometry": {"coordinates":[-151.072202,60.487495],"type":"Point"}
 }

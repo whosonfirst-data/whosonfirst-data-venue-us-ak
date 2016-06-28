@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153295",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.540263,55.293714,-131.540263,55.293714",
     "geom:latitude":55.293714,
     "geom:longitude":-131.540263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5972 Roosevelt Dr",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102153295",
-    "wof:lastmodified":1449069460,
+    "wof:lastmodified":1466313512,
     "wof:name":"Nathan Jackson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.540263,55.293714,-131.540263,55.293714],
-  "geometry": {"coordinates":[-131.540263,55.293714],"type":"Point"}
+  "bbox": [
+    -131.540263,
+    55.293714,
+    -131.540263,
+    55.293714
+],
+  "geometry": {"coordinates":[-131.54026300000001,55.293714],"type":"Point"}
 }

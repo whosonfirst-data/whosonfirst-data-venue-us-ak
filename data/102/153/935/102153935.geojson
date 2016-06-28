@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153935",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.456194,64.886554,-147.456194,64.886554",
     "geom:latitude":64.886554,
     "geom:longitude":-147.456194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"551 Eberhardt Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102153935",
-    "wof:lastmodified":1449069462,
+    "wof:lastmodified":1466313642,
     "wof:name":"A Taste Of Alaska Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.456194,64.886554,-147.456194,64.886554],
-  "geometry": {"coordinates":[-147.456194,64.886554],"type":"Point"}
+  "bbox": [
+    -147.456194,
+    64.886554,
+    -147.456194,
+    64.886554
+],
+  "geometry": {"coordinates":[-147.45619400000001,64.886554],"type":"Point"}
 }

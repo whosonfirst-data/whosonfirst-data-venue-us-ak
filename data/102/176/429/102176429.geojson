@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176429",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.918522,64.818339,-147.918522,64.818339",
     "geom:latitude":64.818339,
     "geom:longitude":-147.918522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1092 Dolphin Way",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102176429",
-    "wof:lastmodified":1449069349,
+    "wof:lastmodified":1466313955,
     "wof:name":"Northstar Aero LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.918522,64.818339,-147.918522,64.818339],
-  "geometry": {"coordinates":[-147.918522,64.818339],"type":"Point"}
+  "bbox": [
+    -147.918522,
+    64.818339,
+    -147.918522,
+    64.818339
+],
+  "geometry": {"coordinates":[-147.918522,64.81833899999999],"type":"Point"}
 }

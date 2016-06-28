@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172989",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.706445,64.811372,-147.706445,64.811372",
     "geom:latitude":64.811372,
     "geom:longitude":-147.706445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3702 Leasure St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102172989",
-    "wof:lastmodified":1449068737,
+    "wof:lastmodified":1466314041,
     "wof:name":"Petersen Equipment",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.706445,64.811372,-147.706445,64.811372],
-  "geometry": {"coordinates":[-147.706445,64.811372],"type":"Point"}
+  "bbox": [
+    -147.706445,
+    64.811372,
+    -147.706445,
+    64.811372
+],
+  "geometry": {"coordinates":[-147.706445,64.81137200000001],"type":"Point"}
 }

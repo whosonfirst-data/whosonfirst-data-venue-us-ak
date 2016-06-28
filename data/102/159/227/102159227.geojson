@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102159227",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.070345,60.496423,-151.070345,60.496423",
     "geom:latitude":60.496423,
     "geom:longitude":-151.070345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35670 Kenai Spur Hwy",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102159227",
-    "wof:lastmodified":1449068091,
+    "wof:lastmodified":1466313567,
     "wof:name":"Alaska Open Imaging Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.070345,60.496423,-151.070345,60.496423],
+  "bbox": [
+    -151.070345,
+    60.496423,
+    -151.070345,
+    60.496423
+],
   "geometry": {"coordinates":[-151.070345,60.496423],"type":"Point"}
 }

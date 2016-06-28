@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176843",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.583064,58.368357,-134.583064,58.368357",
     "geom:latitude":58.368357,
     "geom:longitude":-134.583064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9077 Hurlock Ave",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833767,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85833767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102176843",
-    "wof:lastmodified":1449069341,
+    "wof:lastmodified":1466314034,
     "wof:name":"Gumdrop House",
     "wof:parent_id":85833767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.583064,58.368357,-134.583064,58.368357],
-  "geometry": {"coordinates":[-134.583064,58.368357],"type":"Point"}
+  "bbox": [
+    -134.583064,
+    58.368357,
+    -134.583064,
+    58.368357
+],
+  "geometry": {"coordinates":[-134.58306400000001,58.368357],"type":"Point"}
 }

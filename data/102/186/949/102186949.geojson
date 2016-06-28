@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102186949",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.766867,64.904117,-147.766867,64.904117",
     "geom:latitude":64.904117,
     "geom:longitude":-147.766867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1272 Spring Glade Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102186949",
-    "wof:lastmodified":1449069655,
+    "wof:lastmodified":1466314237,
     "wof:name":"Zuu Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.766867,64.904117,-147.766867,64.904117],
-  "geometry": {"coordinates":[-147.766867,64.904117],"type":"Point"}
+  "bbox": [
+    -147.766867,
+    64.904117,
+    -147.766867,
+    64.904117
+],
+  "geometry": {"coordinates":[-147.76686699999999,64.904117],"type":"Point"}
 }

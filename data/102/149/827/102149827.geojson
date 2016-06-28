@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102149827",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.881555,61.161995,-149.881555,61.161995",
     "geom:latitude":61.161995,
     "geom:longitude":-149.881555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6401 A St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809155,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85809155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102149827",
-    "wof:lastmodified":1449067768,
+    "wof:lastmodified":1466313598,
     "wof:name":"Carr-Gottstein Foods Co",
     "wof:parent_id":85809155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.881555,61.161995,-149.881555,61.161995],
-  "geometry": {"coordinates":[-149.881555,61.161995],"type":"Point"}
+  "bbox": [
+    -149.881555,
+    61.161995,
+    -149.881555,
+    61.161995
+],
+  "geometry": {"coordinates":[-149.88155499999999,61.161995],"type":"Point"}
 }

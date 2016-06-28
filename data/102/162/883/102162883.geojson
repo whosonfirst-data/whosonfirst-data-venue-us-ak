@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102162883",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.418441,61.578643,-149.418441,61.578643",
     "geom:latitude":61.578643,
     "geom:longitude":-149.418441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1365 E Parks Hwy",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102162883",
-    "wof:lastmodified":1449069824,
+    "wof:lastmodified":1466313827,
     "wof:name":"SRL Appraisals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.418441,61.578643,-149.418441,61.578643],
+  "bbox": [
+    -149.418441,
+    61.578643,
+    -149.418441,
+    61.578643
+],
   "geometry": {"coordinates":[-149.418441,61.578643],"type":"Point"}
 }

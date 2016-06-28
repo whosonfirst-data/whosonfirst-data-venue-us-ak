@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185283",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.712376,64.842147,-147.712376,64.842147",
     "geom:latitude":64.842147,
     "geom:longitude":-147.712376,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 5th Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848979,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85848979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102185283",
-    "wof:lastmodified":1449068195,
+    "wof:lastmodified":1466314201,
     "wof:name":"New Life Pentecostal Church",
     "wof:parent_id":85848979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.712376,64.842147,-147.712376,64.842147],
-  "geometry": {"coordinates":[-147.712376,64.842147],"type":"Point"}
+  "bbox": [
+    -147.712376,
+    64.842147,
+    -147.712376,
+    64.842147
+],
+  "geometry": {"coordinates":[-147.71237600000001,64.842147],"type":"Point"}
 }

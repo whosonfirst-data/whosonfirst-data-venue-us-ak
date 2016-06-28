@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102164135",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.893886,61.221561,-149.893886,61.221561",
     "geom:latitude":61.221561,
     "geom:longitude":-149.893886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 W 1st Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873719,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102164135",
-    "wof:lastmodified":1449068090,
+    "wof:lastmodified":1466313685,
     "wof:name":"Arnett Truck Repair",
     "wof:parent_id":85873719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.893886,61.221561,-149.893886,61.221561],
-  "geometry": {"coordinates":[-149.893886,61.221561],"type":"Point"}
+  "bbox": [
+    -149.893886,
+    61.221561,
+    -149.893886,
+    61.221561
+],
+  "geometry": {"coordinates":[-149.89388600000001,61.221561],"type":"Point"}
 }

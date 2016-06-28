@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102156005",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.918146,61.186152,-149.918146,61.186152",
     "geom:latitude":61.186152,
     "geom:longitude":-149.918146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3706 Oregon Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850461,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85850461
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102156005",
-    "wof:lastmodified":1449068284,
+    "wof:lastmodified":1466313469,
     "wof:name":"First Maintenance Co",
     "wof:parent_id":85850461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.918146,61.186152,-149.918146,61.186152],
-  "geometry": {"coordinates":[-149.918146,61.186152],"type":"Point"}
+  "bbox": [
+    -149.918146,
+    61.186152,
+    -149.918146,
+    61.186152
+],
+  "geometry": {"coordinates":[-149.91814600000001,61.186152],"type":"Point"}
 }

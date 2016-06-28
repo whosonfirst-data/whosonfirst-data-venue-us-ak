@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166337",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.07156,60.497001,-151.07156,60.497001",
     "geom:latitude":60.497001,
     "geom:longitude":-151.07156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35671 Kenai Spur Hwy",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102166337",
-    "wof:lastmodified":1449069086,
+    "wof:lastmodified":1466313730,
     "wof:name":"Stub's Office Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.07156,60.497001,-151.07156,60.497001],
-  "geometry": {"coordinates":[-151.07156,60.497001],"type":"Point"}
+  "bbox": [
+    -151.07156,
+    60.497001,
+    -151.07156,
+    60.497001
+],
+  "geometry": {"coordinates":[-151.07156000000001,60.497001],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176621",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.710809,64.81178,-147.710809,64.81178",
     "geom:latitude":64.81178,
     "geom:longitude":-147.710809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3908 S Cushman St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.landmarkalaska.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102176621",
-    "wof:lastmodified":1449069350,
+    "wof:lastmodified":1466313991,
     "wof:name":"Landmark Inc",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.710809,64.81178,-147.710809,64.81178],
-  "geometry": {"coordinates":[-147.710809,64.81178],"type":"Point"}
+  "bbox": [
+    -147.710809,
+    64.81178,
+    -147.710809,
+    64.81178
+],
+  "geometry": {"coordinates":[-147.71080900000001,64.81178],"type":"Point"}
 }

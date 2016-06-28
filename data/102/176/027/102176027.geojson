@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176027",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.932004,61.114363,-149.932004,61.114363",
     "geom:latitude":61.114363,
     "geom:longitude":-149.932004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2815 Diligence Cir",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873739,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102176027",
-    "wof:lastmodified":1449069342,
+    "wof:lastmodified":1466313873,
     "wof:name":"Prudoe Hotel Ice Svc",
     "wof:parent_id":85873739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.932004,61.114363,-149.932004,61.114363],
-  "geometry": {"coordinates":[-149.932004,61.114363],"type":"Point"}
+  "bbox": [
+    -149.932004,
+    61.114363,
+    -149.932004,
+    61.114363
+],
+  "geometry": {"coordinates":[-149.93200400000001,61.114363],"type":"Point"}
 }

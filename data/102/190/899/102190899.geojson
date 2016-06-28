@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102190899",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.074475,60.499541,-151.074475,60.499541",
     "geom:latitude":60.499541,
     "geom:longitude":-151.074475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35770 Kenai Spur Hwy",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102190899",
-    "wof:lastmodified":1449070036,
+    "wof:lastmodified":1466314023,
     "wof:name":"Ron's Honda",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.074475,60.499541,-151.074475,60.499541],
-  "geometry": {"coordinates":[-151.074475,60.499541],"type":"Point"}
+  "bbox": [
+    -151.074475,
+    60.499541,
+    -151.074475,
+    60.499541
+],
+  "geometry": {"coordinates":[-151.07447500000001,60.499541],"type":"Point"}
 }

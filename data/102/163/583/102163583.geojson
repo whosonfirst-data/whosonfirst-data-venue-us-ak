@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102163583",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.236231,60.51824,-151.236231,60.51824",
     "geom:latitude":60.51824,
     "geom:longitude":-151.236231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2835 Watergate Way",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102163583",
-    "wof:lastmodified":1449070164,
+    "wof:lastmodified":1466313766,
     "wof:name":"Asphalt Marking Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.236231,60.51824,-151.236231,60.51824],
+  "bbox": [
+    -151.236231,
+    60.51824,
+    -151.236231,
+    60.51824
+],
   "geometry": {"coordinates":[-151.236231,60.51824],"type":"Point"}
 }

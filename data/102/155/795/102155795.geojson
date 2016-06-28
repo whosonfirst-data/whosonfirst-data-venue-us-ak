@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155795",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.072401,60.481622,-151.072401,60.481622",
     "geom:latitude":60.481622,
     "geom:longitude":-151.072401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44501 Sterling Hwy",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102155795",
-    "wof:lastmodified":1449069743,
+    "wof:lastmodified":1466313611,
     "wof:name":"Dale Dolifka Attorney At Law",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.072401,60.481622,-151.072401,60.481622],
-  "geometry": {"coordinates":[-151.072401,60.481622],"type":"Point"}
+  "bbox": [
+    -151.072401,
+    60.481622,
+    -151.072401,
+    60.481622
+],
+  "geometry": {"coordinates":[-151.07240100000001,60.481622],"type":"Point"}
 }

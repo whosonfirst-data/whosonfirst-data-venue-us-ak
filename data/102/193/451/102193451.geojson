@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102193451",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.424577,64.892419,-147.424577,64.892419",
     "geom:latitude":64.892419,
     "geom:longitude":-147.424577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2074 Chena Hot Springs Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102193451",
-    "wof:lastmodified":1449068191,
+    "wof:lastmodified":1466314274,
     "wof:name":"Erk's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.424577,64.892419,-147.424577,64.892419],
+  "bbox": [
+    -147.424577,
+    64.892419,
+    -147.424577,
+    64.892419
+],
   "geometry": {"coordinates":[-147.424577,64.892419],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176581",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.761394,61.127645,-149.761394,61.127645",
     "geom:latitude":61.127645,
     "geom:longitude":-149.761394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10625 Main Tree Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873745,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873745
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102176581",
-    "wof:lastmodified":1449069348,
+    "wof:lastmodified":1466313984,
     "wof:name":"Worldwide Oilfield Consultants",
     "wof:parent_id":85873745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.761394,61.127645,-149.761394,61.127645],
+  "bbox": [
+    -149.761394,
+    61.127645,
+    -149.761394,
+    61.127645
+],
   "geometry": {"coordinates":[-149.761394,61.127645],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102182555",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.89788,61.191448,-149.89788,61.191448",
     "geom:latitude":61.191448,
     "geom:longitude":-149.89788,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3335 Arctic Blvd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.perplus.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873713,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102182555",
-    "wof:lastmodified":1449069283,
+    "wof:lastmodified":1466314118,
     "wof:name":"Personnel Plus Inc",
     "wof:parent_id":85873713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.89788,61.191448,-149.89788,61.191448],
-  "geometry": {"coordinates":[-149.89788,61.191448],"type":"Point"}
+  "bbox": [
+    -149.89788,
+    61.191448,
+    -149.89788,
+    61.191448
+],
+  "geometry": {"coordinates":[-149.89787999999999,61.191448],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102151435",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.690941,55.356146,-131.690941,55.356146",
     "geom:latitude":55.356146,
     "geom:longitude":-131.690941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Bryant St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102151435",
-    "wof:lastmodified":1449067781,
+    "wof:lastmodified":1466313481,
     "wof:name":"Alaska Housing Finance Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.690941,55.356146,-131.690941,55.356146],
-  "geometry": {"coordinates":[-131.690941,55.356146],"type":"Point"}
+  "bbox": [
+    -131.690941,
+    55.356146,
+    -131.690941,
+    55.356146
+],
+  "geometry": {"coordinates":[-131.69094100000001,55.356146],"type":"Point"}
 }

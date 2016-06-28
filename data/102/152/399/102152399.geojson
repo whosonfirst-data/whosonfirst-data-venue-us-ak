@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102152399",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.736417,64.830341,-147.736417,64.830341",
     "geom:latitude":64.830341,
     "geom:longitude":-147.736417,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1411 19th Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102152399",
-    "wof:lastmodified":1449069634,
+    "wof:lastmodified":1466313537,
     "wof:name":"John W Joosse MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.736417,64.830341,-147.736417,64.830341],
-  "geometry": {"coordinates":[-147.736417,64.830341],"type":"Point"}
+  "bbox": [
+    -147.736417,
+    64.830341,
+    -147.736417,
+    64.830341
+],
+  "geometry": {"coordinates":[-147.73641699999999,64.830341],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102175145",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.33454,61.579633,-149.33454,61.579633",
     "geom:latitude":61.579633,
     "geom:longitude":-149.33454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"495 S Begich Dr",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102175145",
-    "wof:lastmodified":1449069464,
+    "wof:lastmodified":1466313888,
     "wof:name":"Pops Woodshop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.33454,61.579633,-149.33454,61.579633],
+  "bbox": [
+    -149.33454,
+    61.579633,
+    -149.33454,
+    61.579633
+],
   "geometry": {"coordinates":[-149.33454,61.579633],"type":"Point"}
 }

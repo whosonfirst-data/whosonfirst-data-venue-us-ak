@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102168899",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.777054,64.812879,-147.777054,64.812879",
     "geom:latitude":64.812879,
     "geom:longitude":-147.777054,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2333 Van Horn Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102168899",
-    "wof:lastmodified":1449069009,
+    "wof:lastmodified":1466314133,
     "wof:name":"Bowers Office Products Inc",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.777054,64.812879,-147.777054,64.812879],
-  "geometry": {"coordinates":[-147.777054,64.812879],"type":"Point"}
+  "bbox": [
+    -147.777054,
+    64.812879,
+    -147.777054,
+    64.812879
+],
+  "geometry": {"coordinates":[-147.77705399999999,64.812879],"type":"Point"}
 }

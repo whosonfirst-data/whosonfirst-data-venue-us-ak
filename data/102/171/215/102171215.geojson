@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171215",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.869649,64.848678,-147.869649,64.848678",
     "geom:latitude":64.848678,
     "geom:longitude":-147.869649,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"398 Old Chena Pump Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102171215",
-    "wof:lastmodified":1449070223,
+    "wof:lastmodified":1466313844,
     "wof:name":"Red Fox Bar & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.869649,64.848678,-147.869649,64.848678],
-  "geometry": {"coordinates":[-147.869649,64.848678],"type":"Point"}
+  "bbox": [
+    -147.869649,
+    64.848678,
+    -147.869649,
+    64.848678
+],
+  "geometry": {"coordinates":[-147.86964900000001,64.84867800000001],"type":"Point"}
 }

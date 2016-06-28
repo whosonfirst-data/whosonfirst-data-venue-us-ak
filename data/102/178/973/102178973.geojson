@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178973",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.754047,61.205304,-149.754047,61.205304",
     "geom:latitude":61.205304,
     "geom:longitude":-149.754047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1620 Otter St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869053,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85869053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102178973",
-    "wof:lastmodified":1449069531,
+    "wof:lastmodified":1466314063,
     "wof:name":"Galle's Communication Cnsltng",
     "wof:parent_id":85869053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.754047,61.205304,-149.754047,61.205304],
-  "geometry": {"coordinates":[-149.754047,61.205304],"type":"Point"}
+  "bbox": [
+    -149.754047,
+    61.205304,
+    -149.754047,
+    61.205304
+],
+  "geometry": {"coordinates":[-149.75404700000001,61.205304],"type":"Point"}
 }

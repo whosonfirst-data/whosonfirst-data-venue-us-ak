@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102168561",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.544694,59.639819,-151.544694,59.639819",
     "geom:latitude":59.639819,
     "geom:longitude":-151.544694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 W Bunnell Ave",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102168561",
-    "wof:lastmodified":1449069007,
+    "wof:lastmodified":1466313784,
     "wof:name":"Duggan's Waterfront Pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.544694,59.639819,-151.544694,59.639819],
-  "geometry": {"coordinates":[-151.544694,59.639819],"type":"Point"}
+  "bbox": [
+    -151.544694,
+    59.639819,
+    -151.544694,
+    59.639819
+],
+  "geometry": {"coordinates":[-151.54469399999999,59.639819],"type":"Point"}
 }

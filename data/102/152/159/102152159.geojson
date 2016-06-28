@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102152159",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.895016,64.810952,-147.895016,64.810952",
     "geom:latitude":64.810952,
     "geom:longitude":-147.895016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5690 Supply Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102152159",
-    "wof:lastmodified":1449069633,
+    "wof:lastmodified":1466313489,
     "wof:name":"Fairbanks Excavation Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.895016,64.810952,-147.895016,64.810952],
+  "bbox": [
+    -147.895016,
+    64.810952,
+    -147.895016,
+    64.810952
+],
   "geometry": {"coordinates":[-147.895016,64.810952],"type":"Point"}
 }

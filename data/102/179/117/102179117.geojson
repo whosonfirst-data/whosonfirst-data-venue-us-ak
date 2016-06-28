@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102179117",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.242071,60.693544,-151.242071,60.693544",
     "geom:latitude":60.693544,
     "geom:longitude":-151.242071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"50411 Parsons Ave",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102179117",
-    "wof:lastmodified":1449069942,
+    "wof:lastmodified":1466313897,
     "wof:name":"Beauty Vans Of Alaska",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.242071,60.693544,-151.242071,60.693544],
-  "geometry": {"coordinates":[-151.242071,60.693544],"type":"Point"}
+  "bbox": [
+    -151.242071,
+    60.693544,
+    -151.242071,
+    60.693544
+],
+  "geometry": {"coordinates":[-151.24207100000001,60.693544],"type":"Point"}
 }

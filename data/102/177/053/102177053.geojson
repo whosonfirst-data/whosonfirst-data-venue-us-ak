@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102177053",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.538019,59.646325,-151.538019,59.646325",
     "geom:latitude":59.646325,
     "geom:longitude":-151.538019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"331 E Pioneer Ave",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102177053",
-    "wof:lastmodified":1449070203,
+    "wof:lastmodified":1466313881,
     "wof:name":"Tempest Media Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.538019,59.646325,-151.538019,59.646325],
-  "geometry": {"coordinates":[-151.538019,59.646325],"type":"Point"}
+  "bbox": [
+    -151.538019,
+    59.646325,
+    -151.538019,
+    59.646325
+],
+  "geometry": {"coordinates":[-151.53801899999999,59.646325],"type":"Point"}
 }

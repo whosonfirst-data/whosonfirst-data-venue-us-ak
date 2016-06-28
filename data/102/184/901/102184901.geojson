@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184901",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.844618,61.177087,-149.844618,61.177087",
     "geom:latitude":61.177087,
     "geom:longitude":-149.844618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1620 Dimond Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873715,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102184901",
-    "wof:lastmodified":1449068217,
+    "wof:lastmodified":1466314229,
     "wof:name":"Blei Plumbing/Htg",
     "wof:parent_id":85873715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.844618,61.177087,-149.844618,61.177087],
+  "bbox": [
+    -149.844618,
+    61.177087,
+    -149.844618,
+    61.177087
+],
   "geometry": {"coordinates":[-149.844618,61.177087],"type":"Point"}
 }

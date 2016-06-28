@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171445",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.537896,59.646513,-151.537896,59.646513",
     "geom:latitude":59.646513,
     "geom:longitude":-151.537896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"332 E Pioneer Ave",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102171445",
-    "wof:lastmodified":1449070222,
+    "wof:lastmodified":1466313890,
     "wof:name":"Job Ready Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.537896,59.646513,-151.537896,59.646513],
-  "geometry": {"coordinates":[-151.537896,59.646513],"type":"Point"}
+  "bbox": [
+    -151.537896,
+    59.646513,
+    -151.537896,
+    59.646513
+],
+  "geometry": {"coordinates":[-151.53789599999999,59.646513],"type":"Point"}
 }

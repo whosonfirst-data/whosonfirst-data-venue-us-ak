@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102160525",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.954842,56.809038,-132.954842,56.809038",
     "geom:latitude":56.809038,
     "geom:longitude":-132.954842,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 S 2nd St",
     "sg:city":"Petersburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102160525",
-    "wof:lastmodified":1449069778,
+    "wof:lastmodified":1466313698,
     "wof:name":"Petersburg Building Official",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.954842,56.809038,-132.954842,56.809038],
-  "geometry": {"coordinates":[-132.954842,56.809038],"type":"Point"}
+  "bbox": [
+    -132.954842,
+    56.809038,
+    -132.954842,
+    56.809038
+],
+  "geometry": {"coordinates":[-132.95484200000001,56.809038],"type":"Point"}
 }

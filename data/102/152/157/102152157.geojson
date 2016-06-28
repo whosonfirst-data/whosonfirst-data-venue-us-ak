@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102152157",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.729138,64.859329,-147.729138,64.859329",
     "geom:latitude":64.859329,
     "geom:longitude":-147.729138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 College Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830247,
+        85688573,
         85633793,
         85916559,
         102081397,
-        85688573
+        85830247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102152157",
-    "wof:lastmodified":1449069636,
+    "wof:lastmodified":1466313489,
     "wof:name":"J & L Sports",
     "wof:parent_id":85830247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.729138,64.859329,-147.729138,64.859329],
-  "geometry": {"coordinates":[-147.729138,64.859329],"type":"Point"}
+  "bbox": [
+    -147.729138,
+    64.859329,
+    -147.729138,
+    64.859329
+],
+  "geometry": {"coordinates":[-147.72913800000001,64.859329],"type":"Point"}
 }

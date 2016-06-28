@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102168469",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.628356,64.953987,-147.628356,64.953987",
     "geom:latitude":64.953987,
     "geom:longitude":-147.628356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 Old Steese Hwy N",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102168469",
-    "wof:lastmodified":1449069008,
+    "wof:lastmodified":1466313765,
     "wof:name":"Howes Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.628356,64.953987,-147.628356,64.953987],
+  "bbox": [
+    -147.628356,
+    64.953987,
+    -147.628356,
+    64.953987
+],
   "geometry": {"coordinates":[-147.628356,64.953987],"type":"Point"}
 }

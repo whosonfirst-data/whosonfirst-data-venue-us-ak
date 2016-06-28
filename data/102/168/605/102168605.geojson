@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102168605",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.676569,64.905267,-147.676569,64.905267",
     "geom:latitude":64.905267,
     "geom:longitude":-147.676569,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1041 Upper Ct",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102168605",
-    "wof:lastmodified":1449069007,
+    "wof:lastmodified":1466313793,
     "wof:name":"Eureka Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.676569,64.905267,-147.676569,64.905267],
-  "geometry": {"coordinates":[-147.676569,64.905267],"type":"Point"}
+  "bbox": [
+    -147.676569,
+    64.905267,
+    -147.676569,
+    64.905267
+],
+  "geometry": {"coordinates":[-147.676569,64.90526699999999],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102162371",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.687869,55.357916,-131.687869,55.357916",
     "geom:latitude":55.357916,
     "geom:longitude":-131.687869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3520 Baranof Ave",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102162371",
-    "wof:lastmodified":1449069824,
+    "wof:lastmodified":1466314129,
     "wof:name":"Ernie's Dental Lab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.687869,55.357916,-131.687869,55.357916],
-  "geometry": {"coordinates":[-131.687869,55.357916],"type":"Point"}
+  "bbox": [
+    -131.687869,
+    55.357916,
+    -131.687869,
+    55.357916
+],
+  "geometry": {"coordinates":[-131.68786900000001,55.357916],"type":"Point"}
 }

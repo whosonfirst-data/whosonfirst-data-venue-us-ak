@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102169057",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.953696,56.810081,-132.953696,56.810081",
     "geom:latitude":56.810081,
     "geom:longitude":-132.953696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 S 3rd St",
     "sg:city":"Petersburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102169057",
-    "wof:lastmodified":1449069246,
+    "wof:lastmodified":1466313721,
     "wof:name":"Alaska Housing Finance Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.953696,56.810081,-132.953696,56.810081],
-  "geometry": {"coordinates":[-132.953696,56.810081],"type":"Point"}
+  "bbox": [
+    -132.953696,
+    56.810081,
+    -132.953696,
+    56.810081
+],
+  "geometry": {"coordinates":[-132.95369600000001,56.810081],"type":"Point"}
 }

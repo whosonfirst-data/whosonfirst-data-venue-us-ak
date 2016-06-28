@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172379",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.50695,61.371944,-149.50695,61.371944",
     "geom:latitude":61.371944,
     "geom:longitude":-149.50695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16623 Old Glenn Hwy",
     "sg:city":"Chugiak",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102172379",
-    "wof:lastmodified":1449068737,
+    "wof:lastmodified":1466313926,
     "wof:name":"TNT Painting & Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.50695,61.371944,-149.50695,61.371944],
-  "geometry": {"coordinates":[-149.50695,61.371944],"type":"Point"}
+  "bbox": [
+    -149.50695,
+    61.371944,
+    -149.50695,
+    61.371944
+],
+  "geometry": {"coordinates":[-149.50694999999999,61.371944],"type":"Point"}
 }

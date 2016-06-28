@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172555",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.339203,57.049573,-135.339203,57.049573",
     "geom:latitude":57.049573,
     "geom:longitude":-135.339203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Lincoln St",
     "sg:city":"Sitka",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835489,
+        85688573,
         85633793,
         85916107,
         102081405,
-        85688573
+        85835489
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102172555",
-    "wof:lastmodified":1449068736,
+    "wof:lastmodified":1466313960,
     "wof:name":"Ernie's Old Time Saloon",
     "wof:parent_id":85835489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.339203,57.049573,-135.339203,57.049573],
+  "bbox": [
+    -135.339203,
+    57.049573,
+    -135.339203,
+    57.049573
+],
   "geometry": {"coordinates":[-135.339203,57.049573],"type":"Point"}
 }

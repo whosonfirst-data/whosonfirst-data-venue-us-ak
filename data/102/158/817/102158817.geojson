@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102158817",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.289876,60.565486,-151.289876,60.565486",
     "geom:latitude":60.565486,
     "geom:longitude":-151.289876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1802 4th Ave",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102158817",
-    "wof:lastmodified":1449069396,
+    "wof:lastmodified":1466313672,
     "wof:name":"Groomingdales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.289876,60.565486,-151.289876,60.565486],
-  "geometry": {"coordinates":[-151.289876,60.565486],"type":"Point"}
+  "bbox": [
+    -151.289876,
+    60.565486,
+    -151.289876,
+    60.565486
+],
+  "geometry": {"coordinates":[-151.28987599999999,60.565486],"type":"Point"}
 }

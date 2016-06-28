@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173151",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.594454,58.384824,-134.594454,58.384824",
     "geom:latitude":58.384824,
     "geom:longitude":-134.594454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3494 Meander Way",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833767,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85833767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102173151",
-    "wof:lastmodified":1449068264,
+    "wof:lastmodified":1466313882,
     "wof:name":"Country Maid Enterprises Inc",
     "wof:parent_id":85833767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.594454,58.384824,-134.594454,58.384824],
-  "geometry": {"coordinates":[-134.594454,58.384824],"type":"Point"}
+  "bbox": [
+    -134.594454,
+    58.384824,
+    -134.594454,
+    58.384824
+],
+  "geometry": {"coordinates":[-134.59445400000001,58.384824],"type":"Point"}
 }

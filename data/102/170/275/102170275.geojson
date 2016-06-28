@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102170275",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.173866,60.569218,-151.173866,60.569218",
     "geom:latitude":60.569218,
     "geom:longitude":-151.173866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8047 Kenai Spur Hwy",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102170275",
-    "wof:lastmodified":1449068018,
+    "wof:lastmodified":1466313786,
     "wof:name":"Zubeck Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.173866,60.569218,-151.173866,60.569218],
+  "bbox": [
+    -151.173866,
+    60.569218,
+    -151.173866,
+    60.569218
+],
   "geometry": {"coordinates":[-151.173866,60.569218],"type":"Point"}
 }

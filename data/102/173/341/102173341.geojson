@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173341",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.51145,64.834811,-147.51145,64.834811",
     "geom:latitude":64.834811,
     "geom:longitude":-147.51145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1310 Fickes Loop",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102173341",
-    "wof:lastmodified":1449068272,
+    "wof:lastmodified":1466313920,
     "wof:name":"Lost Nugget Lodging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.51145,64.834811,-147.51145,64.834811],
+  "bbox": [
+    -147.51145,
+    64.834811,
+    -147.51145,
+    64.834811
+],
   "geometry": {"coordinates":[-147.51145,64.834811],"type":"Point"}
 }

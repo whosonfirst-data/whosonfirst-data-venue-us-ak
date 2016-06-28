@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102183179",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.745427,64.961604,-147.745427,64.961604",
     "geom:latitude":64.961604,
     "geom:longitude":-147.745427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2286 Waterford Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102183179",
-    "wof:lastmodified":1449069042,
+    "wof:lastmodified":1466314189,
     "wof:name":"Interior Exploration Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.745427,64.961604,-147.745427,64.961604],
-  "geometry": {"coordinates":[-147.745427,64.961604],"type":"Point"}
+  "bbox": [
+    -147.745427,
+    64.961604,
+    -147.745427,
+    64.961604
+],
+  "geometry": {"coordinates":[-147.74542700000001,64.96160399999999],"type":"Point"}
 }

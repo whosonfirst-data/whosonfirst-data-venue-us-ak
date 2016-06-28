@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172801",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.31443,59.455661,-135.31443,59.455661",
     "geom:latitude":59.455661,
     "geom:longitude":-135.31443,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"684 Broadway",
     "sg:city":"Skagway",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102172801",
-    "wof:lastmodified":1449068736,
+    "wof:lastmodified":1466314008,
     "wof:name":"Legacy Jewelers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.31443,59.455661,-135.31443,59.455661],
-  "geometry": {"coordinates":[-135.31443,59.455661],"type":"Point"}
+  "bbox": [
+    -135.31443,
+    59.455661,
+    -135.31443,
+    59.455661
+],
+  "geometry": {"coordinates":[-135.31442999999999,59.455661],"type":"Point"}
 }

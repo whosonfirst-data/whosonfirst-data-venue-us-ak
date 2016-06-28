@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102150575",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.539275,64.825208,-147.539275,64.825208",
     "geom:latitude":64.825208,
     "geom:longitude":-147.539275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"953 Stol Dr",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102150575",
-    "wof:lastmodified":1449067789,
+    "wof:lastmodified":1466314050,
     "wof:name":"Security Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.539275,64.825208,-147.539275,64.825208],
+  "bbox": [
+    -147.539275,
+    64.825208,
+    -147.539275,
+    64.825208
+],
   "geometry": {"coordinates":[-147.539275,64.825208],"type":"Point"}
 }

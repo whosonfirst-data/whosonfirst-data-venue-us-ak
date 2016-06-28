@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102179553",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.609188,55.323574,-131.609188,55.323574",
     "geom:latitude":55.323574,
     "geom:longitude":-131.609188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2093 S Tongass Hwy",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102179553",
-    "wof:lastmodified":1449069940,
+    "wof:lastmodified":1466313983,
     "wof:name":"Quality Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.609188,55.323574,-131.609188,55.323574],
-  "geometry": {"coordinates":[-131.609188,55.323574],"type":"Point"}
+  "bbox": [
+    -131.609188,
+    55.323574,
+    -131.609188,
+    55.323574
+],
+  "geometry": {"coordinates":[-131.60918799999999,55.323574],"type":"Point"}
 }

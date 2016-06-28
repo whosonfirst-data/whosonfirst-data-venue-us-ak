@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102157297",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.39394,58.277233,-134.39394,58.277233",
     "geom:latitude":58.277233,
     "geom:longitude":-134.39394,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1012 2nd St",
     "sg:city":"Douglas",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102157297",
-    "wof:lastmodified":1449069831,
+    "wof:lastmodified":1466313526,
     "wof:name":"John Jensen PHD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.39394,58.277233,-134.39394,58.277233],
-  "geometry": {"coordinates":[-134.39394,58.277233],"type":"Point"}
+  "bbox": [
+    -134.39394,
+    58.277233,
+    -134.39394,
+    58.277233
+],
+  "geometry": {"coordinates":[-134.39393999999999,58.277233],"type":"Point"}
 }

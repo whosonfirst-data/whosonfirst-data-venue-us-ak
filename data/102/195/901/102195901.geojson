@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102195901",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.271502,60.553431,-151.271502,60.553431",
     "geom:latitude":60.553431,
     "geom:longitude":-151.271502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 S Spruce St",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102195901",
-    "wof:lastmodified":1449069363,
+    "wof:lastmodified":1466314298,
     "wof:name":"Our Lady Of The Angels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.271502,60.553431,-151.271502,60.553431],
+  "bbox": [
+    -151.271502,
+    60.553431,
+    -151.271502,
+    60.553431
+],
   "geometry": {"coordinates":[-151.271502,60.553431],"type":"Point"}
 }

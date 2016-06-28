@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102152609",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.65038,58.387365,-134.65038,58.387365",
     "geom:latitude":58.387365,
     "geom:longitude":-134.65038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12055 Glacier Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102152609",
-    "wof:lastmodified":1449069635,
+    "wof:lastmodified":1466313579,
     "wof:name":"Lighthouse Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.65038,58.387365,-134.65038,58.387365],
-  "geometry": {"coordinates":[-134.65038,58.387365],"type":"Point"}
+  "bbox": [
+    -134.65038,
+    58.387365,
+    -134.65038,
+    58.387365
+],
+  "geometry": {"coordinates":[-134.65038000000001,58.387365],"type":"Point"}
 }

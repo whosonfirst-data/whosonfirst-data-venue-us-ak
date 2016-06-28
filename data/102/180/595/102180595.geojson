@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102180595",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.879106,61.220976,-149.879106,61.220976",
     "geom:latitude":61.220976,
     "geom:longitude":-149.879106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Cordova St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.linfordofalaska.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873719,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102180595",
-    "wof:lastmodified":1449067878,
+    "wof:lastmodified":1466314033,
     "wof:name":"Linford Of Alaska Inc",
     "wof:parent_id":85873719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.879106,61.220976,-149.879106,61.220976],
-  "geometry": {"coordinates":[-149.879106,61.220976],"type":"Point"}
+  "bbox": [
+    -149.879106,
+    61.220976,
+    -149.879106,
+    61.220976
+],
+  "geometry": {"coordinates":[-149.87910600000001,61.220976],"type":"Point"}
 }

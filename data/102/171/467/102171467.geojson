@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171467",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.681032,55.351315,-131.681032,55.351315",
     "geom:latitude":55.351315,
     "geom:longitude":-131.681032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2853 Tongass Ave",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102171467",
-    "wof:lastmodified":1449070224,
+    "wof:lastmodified":1466313894,
     "wof:name":"C & O Marine LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.681032,55.351315,-131.681032,55.351315],
-  "geometry": {"coordinates":[-131.681032,55.351315],"type":"Point"}
+  "bbox": [
+    -131.681032,
+    55.351315,
+    -131.681032,
+    55.351315
+],
+  "geometry": {"coordinates":[-131.68103199999999,55.351315],"type":"Point"}
 }

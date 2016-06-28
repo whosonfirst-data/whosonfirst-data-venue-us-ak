@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102192067",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.981091,56.793737,-132.981091,56.793737",
     "geom:latitude":56.793737,
     "geom:longitude":-132.981091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"291 Mitkof Hwy",
     "sg:city":"Petersburg",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102192067",
-    "wof:lastmodified":1449069498,
+    "wof:lastmodified":1466314178,
     "wof:name":"Robert Olsen Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.981091,56.793737,-132.981091,56.793737],
-  "geometry": {"coordinates":[-132.981091,56.793737],"type":"Point"}
+  "bbox": [
+    -132.981091,
+    56.793737,
+    -132.981091,
+    56.793737
+],
+  "geometry": {"coordinates":[-132.98109099999999,56.793737],"type":"Point"}
 }

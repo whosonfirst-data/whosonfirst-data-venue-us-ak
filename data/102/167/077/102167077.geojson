@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102167077",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.686521,55.360324,-131.686521,55.360324",
     "geom:latitude":55.360324,
     "geom:longitude":-131.686521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"832 Buren Rd",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102167077",
-    "wof:lastmodified":1449069002,
+    "wof:lastmodified":1466313684,
     "wof:name":"Polar Insulation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.686521,55.360324,-131.686521,55.360324],
+  "bbox": [
+    -131.686521,
+    55.360324,
+    -131.686521,
+    55.360324
+],
   "geometry": {"coordinates":[-131.686521,55.360324],"type":"Point"}
 }

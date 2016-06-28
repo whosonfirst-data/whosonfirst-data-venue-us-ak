@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102193557",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.527615,58.338803,-134.527615,58.338803",
     "geom:latitude":58.338803,
     "geom:longitude":-134.527615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8470 N Douglas Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853509,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85853509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102193557",
-    "wof:lastmodified":1449068194,
+    "wof:lastmodified":1466314275,
     "wof:name":"Jacks Handyman Services",
     "wof:parent_id":85853509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.527615,58.338803,-134.527615,58.338803],
+  "bbox": [
+    -134.527615,
+    58.338803,
+    -134.527615,
+    58.338803
+],
   "geometry": {"coordinates":[-134.527615,58.338803],"type":"Point"}
 }

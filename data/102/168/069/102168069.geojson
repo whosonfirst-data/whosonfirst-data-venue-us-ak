@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102168069",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.732358,64.859576,-147.732358,64.859576",
     "geom:latitude":64.859576,
     "geom:longitude":-147.732358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1018 College Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830247,
+        85688573,
         85633793,
         85916559,
         102081397,
-        85688573
+        85830247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102168069",
-    "wof:lastmodified":1449069006,
+    "wof:lastmodified":1466313684,
     "wof:name":"Denali Chiropractic Clinic",
     "wof:parent_id":85830247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.732358,64.859576,-147.732358,64.859576],
+  "bbox": [
+    -147.732358,
+    64.859576,
+    -147.732358,
+    64.859576
+],
   "geometry": {"coordinates":[-147.732358,64.859576],"type":"Point"}
 }

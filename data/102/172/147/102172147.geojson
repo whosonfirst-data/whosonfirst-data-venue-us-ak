@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172147",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.115064,61.599345,-149.115064,61.599345",
     "geom:latitude":61.599345,
     "geom:longitude":-149.115064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 W Evergreen Ave",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102172147",
-    "wof:lastmodified":1449068737,
+    "wof:lastmodified":1466313878,
     "wof:name":"LA Fiesta Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.115064,61.599345,-149.115064,61.599345],
-  "geometry": {"coordinates":[-149.115064,61.599345],"type":"Point"}
+  "bbox": [
+    -149.115064,
+    61.599345,
+    -149.115064,
+    61.599345
+],
+  "geometry": {"coordinates":[-149.11506399999999,61.599345],"type":"Point"}
 }

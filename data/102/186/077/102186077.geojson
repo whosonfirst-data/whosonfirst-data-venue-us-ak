@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102186077",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.89837,64.812438,-147.89837,64.812438",
     "geom:latitude":64.812438,
     "geom:longitude":-147.89837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1232 Crown Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102186077",
-    "wof:lastmodified":1449069654,
+    "wof:lastmodified":1466314084,
     "wof:name":"Buchanan David Cnstr & Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.89837,64.812438,-147.89837,64.812438],
+  "bbox": [
+    -147.89837,
+    64.812438,
+    -147.89837,
+    64.812438
+],
   "geometry": {"coordinates":[-147.89837,64.812438],"type":"Point"}
 }

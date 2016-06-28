@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102182835",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.439051,58.109853,-135.439051,58.109853",
     "geom:latitude":58.109853,
     "geom:longitude":-135.439051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"566 Hemlock St",
     "sg:city":"Hoonah",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102182835",
-    "wof:lastmodified":1449069279,
+    "wof:lastmodified":1466314219,
     "wof:name":"Tlingit Haida Regional Housing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.439051,58.109853,-135.439051,58.109853],
-  "geometry": {"coordinates":[-135.439051,58.109853],"type":"Point"}
+  "bbox": [
+    -135.439051,
+    58.109853,
+    -135.439051,
+    58.109853
+],
+  "geometry": {"coordinates":[-135.43905100000001,58.109853],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102154369",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.861773,64.84367,-147.861773,64.84367",
     "geom:latitude":64.84367,
     "geom:longitude":-147.861773,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Kelsan Way",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102154369",
-    "wof:lastmodified":1449070248,
+    "wof:lastmodified":1466313522,
     "wof:name":"Mrs White Glove Janitorial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.861773,64.84367,-147.861773,64.84367],
+  "bbox": [
+    -147.861773,
+    64.84367,
+    -147.861773,
+    64.84367
+],
   "geometry": {"coordinates":[-147.861773,64.84367],"type":"Point"}
 }

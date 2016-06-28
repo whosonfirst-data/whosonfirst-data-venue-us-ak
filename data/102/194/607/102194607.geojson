@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102194607",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.628759,55.335379,-131.628759,55.335379",
     "geom:latitude":55.335379,
     "geom:longitude":-131.628759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Stedman St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102194607",
-    "wof:lastmodified":1449069828,
+    "wof:lastmodified":1466314260,
     "wof:name":"Southeast Business Machines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.628759,55.335379,-131.628759,55.335379],
+  "bbox": [
+    -131.628759,
+    55.335379,
+    -131.628759,
+    55.335379
+],
   "geometry": {"coordinates":[-131.628759,55.335379],"type":"Point"}
 }

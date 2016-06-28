@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102194511",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-161.814066,60.788327,-161.814066,60.788327",
     "geom:latitude":60.788327,
     "geom:longitude":-161.814066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"168 Cranberry St",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102194511",
-    "wof:lastmodified":1449069828,
+    "wof:lastmodified":1466314258,
     "wof:name":"T & H Leveling Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-161.814066,60.788327,-161.814066,60.788327],
+  "bbox": [
+    -161.814066,
+    60.788327,
+    -161.814066,
+    60.788327
+],
   "geometry": {"coordinates":[-161.814066,60.788327],"type":"Point"}
 }

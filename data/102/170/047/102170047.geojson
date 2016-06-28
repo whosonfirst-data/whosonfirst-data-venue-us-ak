@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102170047",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.702901,64.847162,-147.702901,64.847162",
     "geom:latitude":64.847162,
     "geom:longitude":-147.702901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"229 Forty Mile Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848979,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85848979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102170047",
-    "wof:lastmodified":1449068019,
+    "wof:lastmodified":1466313738,
     "wof:name":"Novus Windshield Repair",
     "wof:parent_id":85848979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.702901,64.847162,-147.702901,64.847162],
+  "bbox": [
+    -147.702901,
+    64.847162,
+    -147.702901,
+    64.847162
+],
   "geometry": {"coordinates":[-147.702901,64.847162],"type":"Point"}
 }

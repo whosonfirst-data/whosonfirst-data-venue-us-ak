@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102179249",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.351187,57.813827,-152.351187,57.813827",
     "geom:latitude":57.813827,
     "geom:longitude":-152.351187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3514 Sean Cir",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102179249",
-    "wof:lastmodified":1449069940,
+    "wof:lastmodified":1466313924,
     "wof:name":"Thissen & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.351187,57.813827,-152.351187,57.813827],
-  "geometry": {"coordinates":[-152.351187,57.813827],"type":"Point"}
+  "bbox": [
+    -152.351187,
+    57.813827,
+    -152.351187,
+    57.813827
+],
+  "geometry": {"coordinates":[-152.35118700000001,57.813827],"type":"Point"}
 }

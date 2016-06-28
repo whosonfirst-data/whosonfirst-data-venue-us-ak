@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102167437",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.773156,64.855906,-147.773156,64.855906",
     "geom:latitude":64.855906,
     "geom:longitude":-147.773156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"938 Aspen St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85856935,
+        85688573,
         85633793,
         85916609,
         102081397,
-        85688573
+        85856935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102167437",
-    "wof:lastmodified":1449069004,
+    "wof:lastmodified":1466313759,
     "wof:name":"Sauer Electric",
     "wof:parent_id":85856935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.773156,64.855906,-147.773156,64.855906],
+  "bbox": [
+    -147.773156,
+    64.855906,
+    -147.773156,
+    64.855906
+],
   "geometry": {"coordinates":[-147.773156,64.855906],"type":"Point"}
 }

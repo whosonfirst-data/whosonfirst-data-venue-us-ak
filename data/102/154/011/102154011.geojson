@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102154011",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.609106,55.325377,-131.609106,55.325377",
     "geom:latitude":55.325377,
     "geom:longitude":-131.609106,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Huckleberry Cir",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102154011",
-    "wof:lastmodified":1449070247,
+    "wof:lastmodified":1466314089,
     "wof:name":"Oliver's Trophies & Engraving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.609106,55.325377,-131.609106,55.325377],
+  "bbox": [
+    -131.609106,
+    55.325377,
+    -131.609106,
+    55.325377
+],
   "geometry": {"coordinates":[-131.609106,55.325377],"type":"Point"}
 }

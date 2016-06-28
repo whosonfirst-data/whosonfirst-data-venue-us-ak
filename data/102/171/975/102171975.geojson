@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102171975",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.148632,61.602523,-149.148632,61.602523",
     "geom:latitude":61.602523,
     "geom:longitude":-149.148632,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2050 Hemmer Rd",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102171975",
-    "wof:lastmodified":1449070224,
+    "wof:lastmodified":1466313993,
     "wof:name":"Daybreak Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.148632,61.602523,-149.148632,61.602523],
-  "geometry": {"coordinates":[-149.148632,61.602523],"type":"Point"}
+  "bbox": [
+    -149.148632,
+    61.602523,
+    -149.148632,
+    61.602523
+],
+  "geometry": {"coordinates":[-149.14863199999999,61.602523],"type":"Point"}
 }

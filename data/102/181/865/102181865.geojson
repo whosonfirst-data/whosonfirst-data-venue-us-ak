@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102181865",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.427652,61.584127,-149.427652,61.584127",
     "geom:latitude":61.584127,
     "geom:longitude":-149.427652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 E Usa Cir",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102181865",
-    "wof:lastmodified":1449069235,
+    "wof:lastmodified":1466314209,
     "wof:name":"Valley Orthodontics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.427652,61.584127,-149.427652,61.584127],
-  "geometry": {"coordinates":[-149.427652,61.584127],"type":"Point"}
+  "bbox": [
+    -149.427652,
+    61.584127,
+    -149.427652,
+    61.584127
+],
+  "geometry": {"coordinates":[-149.42765199999999,61.584127],"type":"Point"}
 }

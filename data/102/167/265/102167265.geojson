@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102167265",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.422525,58.305341,-134.422525,58.305341",
     "geom:latitude":58.305341,
     "geom:longitude":-134.422525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"592 Seater St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102167265",
-    "wof:lastmodified":1449069002,
+    "wof:lastmodified":1466313723,
     "wof:name":"Juneau Friends Worship Group",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.422525,58.305341,-134.422525,58.305341],
-  "geometry": {"coordinates":[-134.422525,58.305341],"type":"Point"}
+  "bbox": [
+    -134.422525,
+    58.305341,
+    -134.422525,
+    58.305341
+],
+  "geometry": {"coordinates":[-134.42252500000001,58.305341],"type":"Point"}
 }

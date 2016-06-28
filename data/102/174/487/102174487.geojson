@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102174487",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.57063,61.33425,-149.57063,61.33425",
     "geom:latitude":61.33425,
     "geom:longitude":-149.57063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12607 Iris Way",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102174487",
-    "wof:lastmodified":1449068138,
+    "wof:lastmodified":1466313953,
     "wof:name":"Three B's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.57063,61.33425,-149.57063,61.33425],
-  "geometry": {"coordinates":[-149.57063,61.33425],"type":"Point"}
+  "bbox": [
+    -149.57063,
+    61.33425,
+    -149.57063,
+    61.33425
+],
+  "geometry": {"coordinates":[-149.57062999999999,61.33425],"type":"Point"}
 }

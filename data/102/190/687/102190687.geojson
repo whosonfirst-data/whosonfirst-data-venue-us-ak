@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102190687",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.617725,58.370446,-134.617725,58.370446",
     "geom:latitude":58.370446,
     "geom:longitude":-134.617725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2760 Sherwood Ln",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102190687",
-    "wof:lastmodified":1449070035,
+    "wof:lastmodified":1466313986,
     "wof:name":"Fire Prevention",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.617725,58.370446,-134.617725,58.370446],
-  "geometry": {"coordinates":[-134.617725,58.370446],"type":"Point"}
+  "bbox": [
+    -134.617725,
+    58.370446,
+    -134.617725,
+    58.370446
+],
+  "geometry": {"coordinates":[-134.61772500000001,58.370446],"type":"Point"}
 }

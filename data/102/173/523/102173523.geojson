@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173523",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.422068,58.302011,-134.422068,58.302011",
     "geom:latitude":58.302011,
     "geom:longitude":-134.422068,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 W 10th St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102173523",
-    "wof:lastmodified":1449068266,
+    "wof:lastmodified":1466313955,
     "wof:name":"Alyeska Central School",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.422068,58.302011,-134.422068,58.302011],
+  "bbox": [
+    -134.422068,
+    58.302011,
+    -134.422068,
+    58.302011
+],
   "geometry": {"coordinates":[-134.422068,58.302011],"type":"Point"}
 }

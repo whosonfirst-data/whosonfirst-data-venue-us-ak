@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153549",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.514124,59.635785,-151.514124,59.635785",
     "geom:latitude":59.635785,
     "geom:longitude":-151.514124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1121 Seabreeze Ct",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102153549",
-    "wof:lastmodified":1449069461,
+    "wof:lastmodified":1466313563,
     "wof:name":"Beach House B & B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.514124,59.635785,-151.514124,59.635785],
-  "geometry": {"coordinates":[-151.514124,59.635785],"type":"Point"}
+  "bbox": [
+    -151.514124,
+    59.635785,
+    -151.514124,
+    59.635785
+],
+  "geometry": {"coordinates":[-151.51412400000001,59.635785],"type":"Point"}
 }

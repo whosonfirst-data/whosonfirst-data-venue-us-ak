@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184145",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.440398,60.11317,-149.440398,60.11317",
     "geom:latitude":60.11317,
     "geom:longitude":-149.440398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1319 4th Ave",
     "sg:city":"Seward",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102184145",
-    "wof:lastmodified":1449068216,
+    "wof:lastmodified":1466314191,
     "wof:name":"House Of Diamond Willow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.440398,60.11317,-149.440398,60.11317],
-  "geometry": {"coordinates":[-149.440398,60.11317],"type":"Point"}
+  "bbox": [
+    -149.440398,
+    60.11317,
+    -149.440398,
+    60.11317
+],
+  "geometry": {"coordinates":[-149.44039799999999,60.11317],"type":"Point"}
 }

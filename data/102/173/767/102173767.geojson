@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173767",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.499399,58.356579,-134.499399,58.356579",
     "geom:latitude":58.356579,
     "geom:longitude":-134.499399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5750 Glacier Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830251,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85830251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102173767",
-    "wof:lastmodified":1449068265,
+    "wof:lastmodified":1466314000,
     "wof:name":"KBJ Contractors",
     "wof:parent_id":85830251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.499399,58.356579,-134.499399,58.356579],
-  "geometry": {"coordinates":[-134.499399,58.356579],"type":"Point"}
+  "bbox": [
+    -134.499399,
+    58.356579,
+    -134.499399,
+    58.356579
+],
+  "geometry": {"coordinates":[-134.49939900000001,58.356579],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102191641",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.51049,64.834774,-147.51049,64.834774",
     "geom:latitude":64.834774,
     "geom:longitude":-147.51049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1316 Old Badger Rd",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102191641",
-    "wof:lastmodified":1449069203,
+    "wof:lastmodified":1466314205,
     "wof:name":"Riverview Quick Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.51049,64.834774,-147.51049,64.834774],
+  "bbox": [
+    -147.51049,
+    64.834774,
+    -147.51049,
+    64.834774
+],
   "geometry": {"coordinates":[-147.51049,64.834774],"type":"Point"}
 }

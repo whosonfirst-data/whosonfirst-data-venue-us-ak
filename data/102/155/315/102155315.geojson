@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155315",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.450951,59.672242,-151.450951,59.672242",
     "geom:latitude":59.672242,
     "geom:longitude":-151.450951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41416 Stellars Jay Dr",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834363,
+        85688573,
         85633793,
         85915739,
         102081909,
-        85688573
+        85834363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102155315",
-    "wof:lastmodified":1449069745,
+    "wof:lastmodified":1466313513,
     "wof:name":"Points West Surveyors",
     "wof:parent_id":85834363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.450951,59.672242,-151.450951,59.672242],
+  "bbox": [
+    -151.450951,
+    59.672242,
+    -151.450951,
+    59.672242
+],
   "geometry": {"coordinates":[-151.450951,59.672242],"type":"Point"}
 }

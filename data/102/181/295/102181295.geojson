@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102181295",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.123736,60.724504,-151.123736,60.724504",
     "geom:latitude":60.724504,
     "geom:longitude":-151.123736,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46430 Jake's Way",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102181295",
-    "wof:lastmodified":1449069235,
+    "wof:lastmodified":1466314051,
     "wof:name":"Espresso Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.123736,60.724504,-151.123736,60.724504],
-  "geometry": {"coordinates":[-151.123736,60.724504],"type":"Point"}
+  "bbox": [
+    -151.123736,
+    60.724504,
+    -151.123736,
+    60.724504
+],
+  "geometry": {"coordinates":[-151.12373600000001,60.724504],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102150417",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.449438,61.56742,-149.449438,61.56742",
     "geom:latitude":61.56742,
     "geom:longitude":-149.449438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 S Century Cir",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102150417",
-    "wof:lastmodified":1449067790,
+    "wof:lastmodified":1466314007,
     "wof:name":"Center For Community",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.449438,61.56742,-149.449438,61.56742],
-  "geometry": {"coordinates":[-149.449438,61.56742],"type":"Point"}
+  "bbox": [
+    -149.449438,
+    61.56742,
+    -149.449438,
+    61.56742
+],
+  "geometry": {"coordinates":[-149.44943799999999,61.56742],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102193545",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.468565,61.417869,-149.468565,61.417869",
     "geom:latitude":61.417869,
     "geom:longitude":-149.468565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22342 Woodcliff Ct",
     "sg:city":"Chugiak",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806187,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85806187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102193545",
-    "wof:lastmodified":1449068192,
+    "wof:lastmodified":1466314275,
     "wof:name":"Sticker Savers Of Alaska",
     "wof:parent_id":85806187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.468565,61.417869,-149.468565,61.417869],
-  "geometry": {"coordinates":[-149.468565,61.417869],"type":"Point"}
+  "bbox": [
+    -149.468565,
+    61.417869,
+    -149.468565,
+    61.417869
+],
+  "geometry": {"coordinates":[-149.46856500000001,61.417869],"type":"Point"}
 }

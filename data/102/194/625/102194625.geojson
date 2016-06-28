@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102194625",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.870399,61.104868,-149.870399,61.104868",
     "geom:latitude":61.104868,
     "geom:longitude":-149.870399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12841 Mariner Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873755,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102194625",
-    "wof:lastmodified":1449069829,
+    "wof:lastmodified":1466314220,
     "wof:name":"White Fox Heating & Air Cond",
     "wof:parent_id":85873755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.870399,61.104868,-149.870399,61.104868],
-  "geometry": {"coordinates":[-149.870399,61.104868],"type":"Point"}
+  "bbox": [
+    -149.870399,
+    61.104868,
+    -149.870399,
+    61.104868
+],
+  "geometry": {"coordinates":[-149.87039899999999,61.104868],"type":"Point"}
 }

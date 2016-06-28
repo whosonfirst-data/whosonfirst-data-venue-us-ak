@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102151759",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.747033,64.809156,-147.747033,64.809156",
     "geom:latitude":64.809156,
     "geom:longitude":-147.747033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1915 Donald Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102151759",
-    "wof:lastmodified":1449067782,
+    "wof:lastmodified":1466313540,
     "wof:name":"Air Logistics Of Alaska Inc",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.747033,64.809156,-147.747033,64.809156],
-  "geometry": {"coordinates":[-147.747033,64.809156],"type":"Point"}
+  "bbox": [
+    -147.747033,
+    64.809156,
+    -147.747033,
+    64.809156
+],
+  "geometry": {"coordinates":[-147.74703299999999,64.809156],"type":"Point"}
 }

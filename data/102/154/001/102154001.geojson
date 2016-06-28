@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102154001",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.889488,61.225652,-149.889488,61.225652",
     "geom:latitude":61.225652,
     "geom:longitude":-149.889488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"660 Western Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"www.northlandservicesinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873719,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102154001",
-    "wof:lastmodified":1449070244,
+    "wof:lastmodified":1466314087,
     "wof:name":"Northland Services",
     "wof:parent_id":85873719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.889488,61.225652,-149.889488,61.225652],
+  "bbox": [
+    -149.889488,
+    61.225652,
+    -149.889488,
+    61.225652
+],
   "geometry": {"coordinates":[-149.889488,61.225652],"type":"Point"}
 }

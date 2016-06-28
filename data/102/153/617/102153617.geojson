@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153617",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.356316,57.063707,-135.356316,57.063707",
     "geom:latitude":57.063707,
     "geom:longitude":-135.356316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 Halibut Point Rd",
     "sg:city":"Sitka",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835489,
+        85688573,
         85633793,
         85916107,
         102081405,
-        85688573
+        85835489
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102153617",
-    "wof:lastmodified":1449069461,
+    "wof:lastmodified":1466313577,
     "wof:name":"Sitka City Garage",
     "wof:parent_id":85835489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.356316,57.063707,-135.356316,57.063707],
-  "geometry": {"coordinates":[-135.356316,57.063707],"type":"Point"}
+  "bbox": [
+    -135.356316,
+    57.063707,
+    -135.356316,
+    57.063707
+],
+  "geometry": {"coordinates":[-135.35631599999999,57.063707],"type":"Point"}
 }

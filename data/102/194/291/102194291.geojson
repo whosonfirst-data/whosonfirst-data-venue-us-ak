@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102194291",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.334343,60.599788,-151.334343,60.599788",
     "geom:latitude":60.599788,
     "geom:longitude":-151.334343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42877 Kenai Spur Hwy",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102194291",
-    "wof:lastmodified":1449069828,
+    "wof:lastmodified":1466314255,
     "wof:name":"Kachemak Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.334343,60.599788,-151.334343,60.599788],
-  "geometry": {"coordinates":[-151.334343,60.599788],"type":"Point"}
+  "bbox": [
+    -151.334343,
+    60.599788,
+    -151.334343,
+    60.599788
+],
+  "geometry": {"coordinates":[-151.33434299999999,60.599788],"type":"Point"}
 }

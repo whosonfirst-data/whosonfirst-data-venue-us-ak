@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184675",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-161.774761,60.797977,-161.774761,60.797977",
     "geom:latitude":60.797977,
     "geom:longitude":-161.774761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"81 7th Ave",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102184675",
-    "wof:lastmodified":1449068218,
+    "wof:lastmodified":1466314217,
     "wof:name":"C & K Remodels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-161.774761,60.797977,-161.774761,60.797977],
-  "geometry": {"coordinates":[-161.774761,60.797977],"type":"Point"}
+  "bbox": [
+    -161.774761,
+    60.797977,
+    -161.774761,
+    60.797977
+],
+  "geometry": {"coordinates":[-161.77476100000001,60.797977],"type":"Point"}
 }

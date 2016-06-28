@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102180633",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.669537,55.349024,-131.669537,55.349024",
     "geom:latitude":55.349024,
     "geom:longitude":-131.669537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2000 Tongass Ave",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102180633",
-    "wof:lastmodified":1449067877,
+    "wof:lastmodified":1466314041,
     "wof:name":"Tongass Federal Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.669537,55.349024,-131.669537,55.349024],
-  "geometry": {"coordinates":[-131.669537,55.349024],"type":"Point"}
+  "bbox": [
+    -131.669537,
+    55.349024,
+    -131.669537,
+    55.349024
+],
+  "geometry": {"coordinates":[-131.66953699999999,55.349024],"type":"Point"}
 }

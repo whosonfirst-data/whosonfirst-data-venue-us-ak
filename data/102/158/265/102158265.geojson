@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102158265",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-146.890746,64.386986,-146.890746,64.386986",
     "geom:latitude":64.386986,
     "geom:longitude":-146.890746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10540 Wrong Way Ln",
     "sg:city":"Salcha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102158265",
-    "wof:lastmodified":1449069392,
+    "wof:lastmodified":1466313560,
     "wof:name":"Skip's Taxidermy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-146.890746,64.386986,-146.890746,64.386986],
-  "geometry": {"coordinates":[-146.890746,64.386986],"type":"Point"}
+  "bbox": [
+    -146.890746,
+    64.386986,
+    -146.890746,
+    64.386986
+],
+  "geometry": {"coordinates":[-146.89074600000001,64.38698599999999],"type":"Point"}
 }

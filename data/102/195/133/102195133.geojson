@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102195133",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.792419,61.082891,-149.792419,61.082891",
     "geom:latitude":61.082891,
     "geom:longitude":-149.792419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15149 Longbow Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873751,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102195133",
-    "wof:lastmodified":1449069363,
+    "wof:lastmodified":1466314285,
     "wof:name":"Jimmy J Enterprises",
     "wof:parent_id":85873751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.792419,61.082891,-149.792419,61.082891],
+  "bbox": [
+    -149.792419,
+    61.082891,
+    -149.792419,
+    61.082891
+],
   "geometry": {"coordinates":[-149.792419,61.082891],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187667",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.649857,55.344881,-131.649857,55.344881",
     "geom:latitude":55.344881,
     "geom:longitude":-131.649857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"777 Main St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102187667",
-    "wof:lastmodified":1449068159,
+    "wof:lastmodified":1466314224,
     "wof:name":"Western Dock & Bridge LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.649857,55.344881,-131.649857,55.344881],
+  "bbox": [
+    -131.649857,
+    55.344881,
+    -131.649857,
+    55.344881
+],
   "geometry": {"coordinates":[-131.649857,55.344881],"type":"Point"}
 }

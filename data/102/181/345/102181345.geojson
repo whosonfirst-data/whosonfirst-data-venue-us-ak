@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102181345",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-146.372993,61.135486,-146.372993,61.135486",
     "geom:latitude":61.135486,
     "geom:longitude":-146.372993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"705 N Glacier Dr",
     "sg:city":"Valdez",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102181345",
-    "wof:lastmodified":1449069236,
+    "wof:lastmodified":1466314060,
     "wof:name":"Brown's Bus Lines Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-146.372993,61.135486,-146.372993,61.135486],
-  "geometry": {"coordinates":[-146.372993,61.135486],"type":"Point"}
+  "bbox": [
+    -146.372993,
+    61.135486,
+    -146.372993,
+    61.135486
+],
+  "geometry": {"coordinates":[-146.37299300000001,61.135486],"type":"Point"}
 }

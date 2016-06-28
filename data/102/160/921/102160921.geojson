@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102160921",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.611078,58.397431,-134.611078,58.397431",
     "geom:latitude":58.397431,
     "geom:longitude":-134.611078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10200 Mendenhall Loop Rd",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102160921",
-    "wof:lastmodified":1449069777,
+    "wof:lastmodified":1466313780,
     "wof:name":"Spruce Meadow RV Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.611078,58.397431,-134.611078,58.397431],
-  "geometry": {"coordinates":[-134.611078,58.397431],"type":"Point"}
+  "bbox": [
+    -134.611078,
+    58.397431,
+    -134.611078,
+    58.397431
+],
+  "geometry": {"coordinates":[-134.61107799999999,58.397431],"type":"Point"}
 }

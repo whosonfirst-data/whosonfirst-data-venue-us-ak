@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102150455",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.644307,58.385061,-134.644307,58.385061",
     "geom:latitude":58.385061,
     "geom:longitude":-134.644307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11642 Glacier Hwy",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102150455",
-    "wof:lastmodified":1449067791,
+    "wof:lastmodified":1466314019,
     "wof:name":"Specialty Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.644307,58.385061,-134.644307,58.385061],
+  "bbox": [
+    -134.644307,
+    58.385061,
+    -134.644307,
+    58.385061
+],
   "geometry": {"coordinates":[-134.644307,58.385061],"type":"Point"}
 }

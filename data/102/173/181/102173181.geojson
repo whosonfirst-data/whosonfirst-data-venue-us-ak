@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173181",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-150.796352,60.502105,-150.796352,60.502105",
     "geom:latitude":60.502105,
     "geom:longitude":-150.796352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"35095 Funny River Rd",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102173181",
-    "wof:lastmodified":1449068266,
+    "wof:lastmodified":1466313888,
     "wof:name":"Paul's Wallside",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-150.796352,60.502105,-150.796352,60.502105],
-  "geometry": {"coordinates":[-150.796352,60.502105],"type":"Point"}
+  "bbox": [
+    -150.796352,
+    60.502105,
+    -150.796352,
+    60.502105
+],
+  "geometry": {"coordinates":[-150.79635200000001,60.502105],"type":"Point"}
 }

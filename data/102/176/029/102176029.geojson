@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176029",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.406964,61.294403,-149.406964,61.294403",
     "geom:latitude":61.294403,
     "geom:longitude":-149.406964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8344 Mary Esther Dr",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102176029",
-    "wof:lastmodified":1449069346,
+    "wof:lastmodified":1466313873,
     "wof:name":"Wayward Wind Seafoods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.406964,61.294403,-149.406964,61.294403],
-  "geometry": {"coordinates":[-149.406964,61.294403],"type":"Point"}
+  "bbox": [
+    -149.406964,
+    61.294403,
+    -149.406964,
+    61.294403
+],
+  "geometry": {"coordinates":[-149.40696399999999,61.294403],"type":"Point"}
 }

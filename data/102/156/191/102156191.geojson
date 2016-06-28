@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102156191",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.641967,55.34145,-131.641967,55.34145",
     "geom:latitude":55.34145,
     "geom:longitude":-131.641967,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 Mission St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102156191",
-    "wof:lastmodified":1449068282,
+    "wof:lastmodified":1466313499,
     "wof:name":"Rain Country Nutrition",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.641967,55.34145,-131.641967,55.34145],
-  "geometry": {"coordinates":[-131.641967,55.34145],"type":"Point"}
+  "bbox": [
+    -131.641967,
+    55.34145,
+    -131.641967,
+    55.34145
+],
+  "geometry": {"coordinates":[-131.64196699999999,55.34145],"type":"Point"}
 }

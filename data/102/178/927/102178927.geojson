@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178927",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.440216,60.101069,-149.440216,60.101069",
     "geom:latitude":60.101069,
     "geom:longitude":-149.440216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Washington St",
     "sg:city":"Seward",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102178927",
-    "wof:lastmodified":1449069535,
+    "wof:lastmodified":1466314057,
     "wof:name":"Seward's Visitor Information",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.440216,60.101069,-149.440216,60.101069],
-  "geometry": {"coordinates":[-149.440216,60.101069],"type":"Point"}
+  "bbox": [
+    -149.440216,
+    60.101069,
+    -149.440216,
+    60.101069
+],
+  "geometry": {"coordinates":[-149.44021599999999,60.101069],"type":"Point"}
 }

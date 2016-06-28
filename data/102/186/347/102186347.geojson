@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102186347",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.436038,58.107395,-135.436038,58.107395",
     "geom:latitude":58.107395,
     "geom:longitude":-135.436038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"541 Garteeni Hwy",
     "sg:city":"Hoonah",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102186347",
-    "wof:lastmodified":1449069654,
+    "wof:lastmodified":1466314125,
     "wof:name":"Wind N Sea Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.436038,58.107395,-135.436038,58.107395],
+  "bbox": [
+    -135.436038,
+    58.107395,
+    -135.436038,
+    58.107395
+],
   "geometry": {"coordinates":[-135.436038,58.107395],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102175771",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.339331,57.04904,-135.339331,57.04904",
     "geom:latitude":57.04904,
     "geom:longitude":-135.339331,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Lincoln St",
     "sg:city":"Sitka",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85835489,
+        85688573,
         85633793,
         85916107,
         102081405,
-        85688573
+        85835489
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102175771",
-    "wof:lastmodified":1449069465,
+    "wof:lastmodified":1466314006,
     "wof:name":"Sitka Fur Gallery",
     "wof:parent_id":85835489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.339331,57.04904,-135.339331,57.04904],
-  "geometry": {"coordinates":[-135.339331,57.04904],"type":"Point"}
+  "bbox": [
+    -135.339331,
+    57.04904,
+    -135.339331,
+    57.04904
+],
+  "geometry": {"coordinates":[-135.33933099999999,57.04904],"type":"Point"}
 }

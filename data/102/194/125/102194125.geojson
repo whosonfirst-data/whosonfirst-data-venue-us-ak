@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102194125",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.693707,64.844704,-147.693707,64.844704",
     "geom:latitude":64.844704,
     "geom:longitude":-147.693707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 3rd St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848979,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85848979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102194125",
-    "wof:lastmodified":1449069830,
+    "wof:lastmodified":1466314252,
     "wof:name":"Gold Rush",
     "wof:parent_id":85848979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.693707,64.844704,-147.693707,64.844704],
-  "geometry": {"coordinates":[-147.693707,64.844704],"type":"Point"}
+  "bbox": [
+    -147.693707,
+    64.844704,
+    -147.693707,
+    64.844704
+],
+  "geometry": {"coordinates":[-147.69370699999999,64.84470399999999],"type":"Point"}
 }

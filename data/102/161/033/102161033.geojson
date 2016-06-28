@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102161033",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.932905,61.138436,-149.932905,61.138436",
     "geom:latitude":61.138436,
     "geom:longitude":-149.932905,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9040 Amanda Cir",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873739,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102161033",
-    "wof:lastmodified":1449068711,
+    "wof:lastmodified":1466313652,
     "wof:name":"Scotts Heating & A/C Services",
     "wof:parent_id":85873739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.932905,61.138436,-149.932905,61.138436],
-  "geometry": {"coordinates":[-149.932905,61.138436],"type":"Point"}
+  "bbox": [
+    -149.932905,
+    61.138436,
+    -149.932905,
+    61.138436
+],
+  "geometry": {"coordinates":[-149.93290500000001,61.138436],"type":"Point"}
 }

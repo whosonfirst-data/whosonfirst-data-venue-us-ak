@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102159205",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.629042,55.335618,-131.629042,55.335618",
     "geom:latitude":55.335618,
     "geom:longitude":-131.629042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"638 Stedman St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102159205",
-    "wof:lastmodified":1449068095,
+    "wof:lastmodified":1466313563,
     "wof:name":"Coastal Fisheries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.629042,55.335618,-131.629042,55.335618],
+  "bbox": [
+    -131.629042,
+    55.335618,
+    -131.629042,
+    55.335618
+],
   "geometry": {"coordinates":[-131.629042,55.335618],"type":"Point"}
 }

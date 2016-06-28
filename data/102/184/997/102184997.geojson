@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184997",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.877936,61.146643,-149.877936,61.146643",
     "geom:latitude":61.146643,
     "geom:longitude":-149.877936,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Calista Ct",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809155,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85809155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":"102184997",
-    "wof:lastmodified":1449068218,
+    "wof:lastmodified":1466314235,
     "wof:name":"Calista Corporation",
     "wof:parent_id":85809155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.877936,61.146643,-149.877936,61.146643],
-  "geometry": {"coordinates":[-149.877936,61.146643],"type":"Point"}
+  "bbox": [
+    -149.877936,
+    61.146643,
+    -149.877936,
+    61.146643
+],
+  "geometry": {"coordinates":[-149.87793600000001,61.146643],"type":"Point"}
 }

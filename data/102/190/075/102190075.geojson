@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102190075",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.544322,61.306636,-149.544322,61.306636",
     "geom:latitude":61.306636,
     "geom:longitude":-149.544322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18144 N Parkview Ter Lp",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102190075",
-    "wof:lastmodified":1449070032,
+    "wof:lastmodified":1466313866,
     "wof:name":"Livingreen Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.544322,61.306636,-149.544322,61.306636],
-  "geometry": {"coordinates":[-149.544322,61.306636],"type":"Point"}
+  "bbox": [
+    -149.544322,
+    61.306636,
+    -149.544322,
+    61.306636
+],
+  "geometry": {"coordinates":[-149.54432199999999,61.306636],"type":"Point"}
 }

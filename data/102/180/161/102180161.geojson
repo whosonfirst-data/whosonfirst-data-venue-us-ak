@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102180161",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.383768,56.471579,-132.383768,56.471579",
     "geom:latitude":56.471579,
     "geom:longitude":-132.383768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Front St",
     "sg:city":"Wrangell",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102180161",
-    "wof:lastmodified":1449067873,
+    "wof:lastmodified":1466313948,
     "wof:name":"Wrangell Insurance Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.383768,56.471579,-132.383768,56.471579],
+  "bbox": [
+    -132.383768,
+    56.471579,
+    -132.383768,
+    56.471579
+],
   "geometry": {"coordinates":[-132.383768,56.471579],"type":"Point"}
 }

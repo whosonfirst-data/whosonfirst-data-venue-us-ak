@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102175777",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.835702,61.229653,-149.835702,61.229653",
     "geom:latitude":61.229653,
     "geom:longitude":-149.835702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2217 N Post Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820221,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85820221
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102175777",
-    "wof:lastmodified":1449069465,
+    "wof:lastmodified":1466314007,
     "wof:name":"Auto Electric Sales & Svc Inc",
     "wof:parent_id":85820221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.835702,61.229653,-149.835702,61.229653],
+  "bbox": [
+    -149.835702,
+    61.229653,
+    -149.835702,
+    61.229653
+],
   "geometry": {"coordinates":[-149.835702,61.229653],"type":"Point"}
 }

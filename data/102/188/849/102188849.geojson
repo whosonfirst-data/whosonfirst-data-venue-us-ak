@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102188849",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.752071,64.81457,-147.752071,64.81457",
     "geom:latitude":64.81457,
     "geom:longitude":-147.752071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1859 Standard Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102188849",
-    "wof:lastmodified":1449068944,
+    "wof:lastmodified":1466313616,
     "wof:name":"Glacier Refrigeration Svc Co",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.752071,64.81457,-147.752071,64.81457],
+  "bbox": [
+    -147.752071,
+    64.81457,
+    -147.752071,
+    64.81457
+],
   "geometry": {"coordinates":[-147.752071,64.81457],"type":"Point"}
 }

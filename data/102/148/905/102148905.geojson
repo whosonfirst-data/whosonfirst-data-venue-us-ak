@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102148905",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-158.587623,59.074355,-158.587623,59.074355",
     "geom:latitude":59.074355,
     "geom:longitude":-158.587623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5135 Blackberry Cir",
     "sg:city":"Dillingham",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102148905",
-    "wof:lastmodified":1449069784,
+    "wof:lastmodified":1466313626,
     "wof:name":"Southwest Salvage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-158.587623,59.074355,-158.587623,59.074355],
-  "geometry": {"coordinates":[-158.587623,59.074355],"type":"Point"}
+  "bbox": [
+    -158.587623,
+    59.074355,
+    -158.587623,
+    59.074355
+],
+  "geometry": {"coordinates":[-158.58762300000001,59.074355],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176275",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.38865,61.571976,-149.38865,61.571976",
     "geom:latitude":61.571976,
     "geom:longitude":-149.38865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2530 E Parks Hwy",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102176275",
-    "wof:lastmodified":1449069347,
+    "wof:lastmodified":1466313925,
     "wof:name":"Evangelo's Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.38865,61.571976,-149.38865,61.571976],
-  "geometry": {"coordinates":[-149.38865,61.571976],"type":"Point"}
+  "bbox": [
+    -149.38865,
+    61.571976,
+    -149.38865,
+    61.571976
+],
+  "geometry": {"coordinates":[-149.38865000000001,61.571976],"type":"Point"}
 }

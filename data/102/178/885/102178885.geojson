@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178885",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.462863,61.582147,-149.462863,61.582147",
     "geom:latitude":61.582147,
     "geom:longitude":-149.462863,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"491 W Parks Hwy",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102178885",
-    "wof:lastmodified":1449069530,
+    "wof:lastmodified":1466314050,
     "wof:name":"Alaska Family Resource Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.462863,61.582147,-149.462863,61.582147],
+  "bbox": [
+    -149.462863,
+    61.582147,
+    -149.462863,
+    61.582147
+],
   "geometry": {"coordinates":[-149.462863,61.582147],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184231",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.304578,57.048767,-135.304578,57.048767",
     "geom:latitude":57.048767,
     "geom:longitude":-135.304578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Burkhart Dr",
     "sg:city":"Sitka",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102184231",
-    "wof:lastmodified":1449068218,
+    "wof:lastmodified":1466314096,
     "wof:name":"Porky Bickar Equip & Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.304578,57.048767,-135.304578,57.048767],
-  "geometry": {"coordinates":[-135.304578,57.048767],"type":"Point"}
+  "bbox": [
+    -135.304578,
+    57.048767,
+    -135.304578,
+    57.048767
+],
+  "geometry": {"coordinates":[-135.30457799999999,57.048767],"type":"Point"}
 }

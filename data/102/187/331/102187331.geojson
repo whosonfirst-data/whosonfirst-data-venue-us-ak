@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187331",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.527365,61.300946,-149.527365,61.300946",
     "geom:latitude":61.300946,
     "geom:longitude":-149.527365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19201 Driftwood Bay Dr",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102187331",
-    "wof:lastmodified":1449068158,
+    "wof:lastmodified":1466314127,
     "wof:name":"Alpenglow Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.527365,61.300946,-149.527365,61.300946],
+  "bbox": [
+    -149.527365,
+    61.300946,
+    -149.527365,
+    61.300946
+],
   "geometry": {"coordinates":[-149.527365,61.300946],"type":"Point"}
 }

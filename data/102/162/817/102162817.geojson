@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102162817",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.868085,61.173617,-149.868085,61.173617",
     "geom:latitude":61.173617,
     "geom:longitude":-149.868085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4637 Old Seward Hwy",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873715,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102162817",
-    "wof:lastmodified":1449069824,
+    "wof:lastmodified":1466313813,
     "wof:name":"Mc Kinley Landscaping Inc",
     "wof:parent_id":85873715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.868085,61.173617,-149.868085,61.173617],
-  "geometry": {"coordinates":[-149.868085,61.173617],"type":"Point"}
+  "bbox": [
+    -149.868085,
+    61.173617,
+    -149.868085,
+    61.173617
+],
+  "geometry": {"coordinates":[-149.86808500000001,61.173617],"type":"Point"}
 }

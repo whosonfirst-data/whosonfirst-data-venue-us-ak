@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102185311",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.73381,64.857343,-147.73381,64.857343",
     "geom:latitude":64.857343,
     "geom:longitude":-147.73381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Oconnor Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830247,
+        85688573,
         85633793,
         85916559,
         102081397,
-        85688573
+        85830247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102185311",
-    "wof:lastmodified":1449068196,
+    "wof:lastmodified":1466314113,
     "wof:name":"Sisters Of St Joseph",
     "wof:parent_id":85830247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.73381,64.857343,-147.73381,64.857343],
-  "geometry": {"coordinates":[-147.73381,64.857343],"type":"Point"}
+  "bbox": [
+    -147.73381,
+    64.857343,
+    -147.73381,
+    64.857343
+],
+  "geometry": {"coordinates":[-147.73381000000001,64.857343],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187587",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.822086,61.154896,-149.822086,61.154896",
     "geom:latitude":61.154896,
     "geom:longitude":-149.822086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7321 Bulen Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809155,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85809155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102187587",
-    "wof:lastmodified":1449068158,
+    "wof:lastmodified":1466314220,
     "wof:name":"High RC",
     "wof:parent_id":85809155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.822086,61.154896,-149.822086,61.154896],
-  "geometry": {"coordinates":[-149.822086,61.154896],"type":"Point"}
+  "bbox": [
+    -149.822086,
+    61.154896,
+    -149.822086,
+    61.154896
+],
+  "geometry": {"coordinates":[-149.82208600000001,61.154896],"type":"Point"}
 }

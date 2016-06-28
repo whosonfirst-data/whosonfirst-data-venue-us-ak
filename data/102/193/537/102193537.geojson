@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102193537",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.913501,64.81542,-147.913501,64.81542",
     "geom:latitude":64.81542,
     "geom:longitude":-147.913501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1145 Shypoke Dr",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102193537",
-    "wof:lastmodified":1449068193,
+    "wof:lastmodified":1466314275,
     "wof:name":"Adventures In Alaska Rv Rental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.913501,64.81542,-147.913501,64.81542],
+  "bbox": [
+    -147.913501,
+    64.81542,
+    -147.913501,
+    64.81542
+],
   "geometry": {"coordinates":[-147.913501,64.81542],"type":"Point"}
 }

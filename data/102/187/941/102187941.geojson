@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187941",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.301533,57.046576,-135.301533,57.046576",
     "geom:latitude":57.046576,
     "geom:longitude":-135.301533,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1517 Sawmill Creek Rd",
     "sg:city":"Sitka",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102187941",
-    "wof:lastmodified":1449068158,
+    "wof:lastmodified":1466314197,
     "wof:name":"Arrowhead Transfer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.301533,57.046576,-135.301533,57.046576],
-  "geometry": {"coordinates":[-135.301533,57.046576],"type":"Point"}
+  "bbox": [
+    -135.301533,
+    57.046576,
+    -135.301533,
+    57.046576
+],
+  "geometry": {"coordinates":[-135.30153300000001,57.046576],"type":"Point"}
 }

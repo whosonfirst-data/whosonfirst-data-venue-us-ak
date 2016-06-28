@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102169813",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.973547,56.782874,-132.973547,56.782874",
     "geom:latitude":56.782874,
     "geom:longitude":-132.973547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Mitkof Hwy",
     "sg:city":"Petersburg",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85847465,
+        85688573,
         85633793,
         85916033,
         102081899,
-        85688573
+        85847465
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102169813",
-    "wof:lastmodified":1449069246,
+    "wof:lastmodified":1466314141,
     "wof:name":"B & G Heated Mini Storage",
     "wof:parent_id":85847465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.973547,56.782874,-132.973547,56.782874],
+  "bbox": [
+    -132.973547,
+    56.782874,
+    -132.973547,
+    56.782874
+],
   "geometry": {"coordinates":[-132.973547,56.782874],"type":"Point"}
 }

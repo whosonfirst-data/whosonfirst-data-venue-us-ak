@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102179299",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.403332,57.787227,-152.403332,57.787227",
     "geom:latitude":57.787227,
     "geom:longitude":-152.403332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Marine Way W",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102179299",
-    "wof:lastmodified":1449069942,
+    "wof:lastmodified":1466313934,
     "wof:name":"Alaska Fresh Seafoods Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.403332,57.787227,-152.403332,57.787227],
-  "geometry": {"coordinates":[-152.403332,57.787227],"type":"Point"}
+  "bbox": [
+    -152.403332,
+    57.787227,
+    -152.403332,
+    57.787227
+],
+  "geometry": {"coordinates":[-152.40333200000001,57.787227],"type":"Point"}
 }

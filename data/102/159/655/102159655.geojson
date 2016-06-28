@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102159655",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.958665,56.812144,-132.958665,56.812144",
     "geom:latitude":56.812144,
     "geom:longitude":-132.958665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Harbor Way",
     "sg:city":"Petersburg",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102159655",
-    "wof:lastmodified":1449068095,
+    "wof:lastmodified":1466313654,
     "wof:name":"Harbor Way Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.958665,56.812144,-132.958665,56.812144],
+  "bbox": [
+    -132.958665,
+    56.812144,
+    -132.958665,
+    56.812144
+],
   "geometry": {"coordinates":[-132.958665,56.812144],"type":"Point"}
 }

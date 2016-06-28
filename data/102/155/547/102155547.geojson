@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155547",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.739358,64.842751,-147.739358,64.842751",
     "geom:latitude":64.842751,
     "geom:longitude":-147.739358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1019 Smythe St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848979,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85848979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102155547",
-    "wof:lastmodified":1449069742,
+    "wof:lastmodified":1466313560,
     "wof:name":"Circle J Sports",
     "wof:parent_id":85848979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.739358,64.842751,-147.739358,64.842751],
-  "geometry": {"coordinates":[-147.739358,64.842751],"type":"Point"}
+  "bbox": [
+    -147.739358,
+    64.842751,
+    -147.739358,
+    64.842751
+],
+  "geometry": {"coordinates":[-147.73935800000001,64.84275100000001],"type":"Point"}
 }

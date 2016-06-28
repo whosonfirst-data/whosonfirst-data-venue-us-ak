@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102166303",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.991584,64.784697,-147.991584,64.784697",
     "geom:latitude":64.784697,
     "geom:longitude":-147.991584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3411 Lill's Way",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102166303",
-    "wof:lastmodified":1449069083,
+    "wof:lastmodified":1466313723,
     "wof:name":"Homestead Drilling Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.991584,64.784697,-147.991584,64.784697],
-  "geometry": {"coordinates":[-147.991584,64.784697],"type":"Point"}
+  "bbox": [
+    -147.991584,
+    64.784697,
+    -147.991584,
+    64.784697
+],
+  "geometry": {"coordinates":[-147.99158399999999,64.78469699999999],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102189281",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.744512,61.124065,-149.744512,61.124065",
     "geom:latitude":61.124065,
     "geom:longitude":-149.744512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10501 Hillside Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873747,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102189281",
-    "wof:lastmodified":1449069498,
+    "wof:lastmodified":1466313704,
     "wof:name":"Rocking K Ranch",
     "wof:parent_id":85873747,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.744512,61.124065,-149.744512,61.124065],
-  "geometry": {"coordinates":[-149.744512,61.124065],"type":"Point"}
+  "bbox": [
+    -149.744512,
+    61.124065,
+    -149.744512,
+    61.124065
+],
+  "geometry": {"coordinates":[-149.74451199999999,61.124065],"type":"Point"}
 }

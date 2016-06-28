@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102157829",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.632092,58.392449,-134.632092,58.392449",
     "geom:latitude":58.392449,
     "geom:longitude":-134.632092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4260 Lake Shore Dr",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102157829",
-    "wof:lastmodified":1449069833,
+    "wof:lastmodified":1466313636,
     "wof:name":"Spectrum Design & Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.632092,58.392449,-134.632092,58.392449],
+  "bbox": [
+    -134.632092,
+    58.392449,
+    -134.632092,
+    58.392449
+],
   "geometry": {"coordinates":[-134.632092,58.392449],"type":"Point"}
 }

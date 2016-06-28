@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102174697",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.397872,58.294999,-134.397872,58.294999",
     "geom:latitude":58.294999,
     "geom:longitude":-134.397872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"495 S Franklin St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.alaskawhalewatching.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102174697",
-    "wof:lastmodified":1449068138,
+    "wof:lastmodified":1466313994,
     "wof:name":"Orca Enterprises LLC",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.397872,58.294999,-134.397872,58.294999],
-  "geometry": {"coordinates":[-134.397872,58.294999],"type":"Point"}
+  "bbox": [
+    -134.397872,
+    58.294999,
+    -134.397872,
+    58.294999
+],
+  "geometry": {"coordinates":[-134.39787200000001,58.294999],"type":"Point"}
 }

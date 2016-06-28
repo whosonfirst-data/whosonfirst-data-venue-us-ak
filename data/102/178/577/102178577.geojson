@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102178577",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-134.407223,58.300756,-134.407223,58.300756",
     "geom:latitude":58.300756,
     "geom:longitude":-134.407223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Seward St",
     "sg:city":"Juneau",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855741,
+        85688573,
         85633793,
         85915729,
         102081399,
-        85688573
+        85855741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102178577",
-    "wof:lastmodified":1449069535,
+    "wof:lastmodified":1466313989,
     "wof:name":"Lisa Davidson's Boutique",
     "wof:parent_id":85855741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-134.407223,58.300756,-134.407223,58.300756],
-  "geometry": {"coordinates":[-134.407223,58.300756],"type":"Point"}
+  "bbox": [
+    -134.407223,
+    58.300756,
+    -134.407223,
+    58.300756
+],
+  "geometry": {"coordinates":[-134.40722299999999,58.300756],"type":"Point"}
 }

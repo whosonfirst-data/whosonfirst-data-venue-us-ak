@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102179405",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.244358,60.561603,-151.244358,60.561603",
     "geom:latitude":60.561603,
     "geom:longitude":-151.244358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Trading Bay Dr",
     "sg:city":"Kenai",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102179405",
-    "wof:lastmodified":1449069944,
+    "wof:lastmodified":1466313955,
     "wof:name":"Frontier Business Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.244358,60.561603,-151.244358,60.561603],
-  "geometry": {"coordinates":[-151.244358,60.561603],"type":"Point"}
+  "bbox": [
+    -151.244358,
+    60.561603,
+    -151.244358,
+    60.561603
+],
+  "geometry": {"coordinates":[-151.24435800000001,60.561603],"type":"Point"}
 }

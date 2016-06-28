@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102173451",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.718314,64.859543,-147.718314,64.859543",
     "geom:latitude":64.859543,
     "geom:longitude":-147.718314,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Blanche Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85830247,
+        85688573,
         85633793,
         85916559,
         102081397,
-        85688573
+        85830247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102173451",
-    "wof:lastmodified":1449068265,
+    "wof:lastmodified":1466314146,
     "wof:name":"Fly Hatch",
     "wof:parent_id":85830247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.718314,64.859543,-147.718314,64.859543],
-  "geometry": {"coordinates":[-147.718314,64.859543],"type":"Point"}
+  "bbox": [
+    -147.718314,
+    64.859543,
+    -147.718314,
+    64.859543
+],
+  "geometry": {"coordinates":[-147.71831399999999,64.859543],"type":"Point"}
 }

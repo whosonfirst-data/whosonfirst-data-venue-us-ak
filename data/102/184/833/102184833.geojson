@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102184833",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-152.405136,57.788269,-152.405136,57.788269",
     "geom:latitude":57.788269,
     "geom:longitude":-152.405136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"326 Center St",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102184833",
-    "wof:lastmodified":1449068216,
+    "wof:lastmodified":1466314174,
     "wof:name":"Costumes Are Us",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-152.405136,57.788269,-152.405136,57.788269],
+  "bbox": [
+    -152.405136,
+    57.788269,
+    -152.405136,
+    57.788269
+],
   "geometry": {"coordinates":[-152.405136,57.788269],"type":"Point"}
 }

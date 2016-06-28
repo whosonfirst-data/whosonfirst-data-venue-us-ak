@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102176443",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-148.078425,64.757205,-148.078425,64.757205",
     "geom:latitude":64.757205,
     "geom:longitude":-148.078425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4300 Tyler Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102176443",
-    "wof:lastmodified":1449069346,
+    "wof:lastmodified":1466313958,
     "wof:name":"Fairbanks Roofing & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-148.078425,64.757205,-148.078425,64.757205],
-  "geometry": {"coordinates":[-148.078425,64.757205],"type":"Point"}
+  "bbox": [
+    -148.078425,
+    64.757205,
+    -148.078425,
+    64.757205
+],
+  "geometry": {"coordinates":[-148.07842500000001,64.757205],"type":"Point"}
 }

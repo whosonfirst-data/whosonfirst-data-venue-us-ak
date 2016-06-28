@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102181451",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.83439,61.183607,-149.83439,61.183607",
     "geom:latitude":61.183607,
     "geom:longitude":-149.83439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4107 Laurel St",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873715,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102181451",
-    "wof:lastmodified":1449069235,
+    "wof:lastmodified":1466314073,
     "wof:name":"Alaska State Medical Assn",
     "wof:parent_id":85873715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.83439,61.183607,-149.83439,61.183607],
-  "geometry": {"coordinates":[-149.83439,61.183607],"type":"Point"}
+  "bbox": [
+    -149.83439,
+    61.183607,
+    -149.83439,
+    61.183607
+],
+  "geometry": {"coordinates":[-149.83439000000001,61.183607],"type":"Point"}
 }

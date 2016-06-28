@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102168367",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-148.039567,64.876166,-148.039567,64.876166",
     "geom:latitude":64.876166,
     "geom:longitude":-148.039567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3844 Ullrbahn Rd",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102168367",
-    "wof:lastmodified":1449069007,
+    "wof:lastmodified":1466313745,
     "wof:name":"Alaska Wilderness Gourmet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-148.039567,64.876166,-148.039567,64.876166],
-  "geometry": {"coordinates":[-148.039567,64.876166],"type":"Point"}
+  "bbox": [
+    -148.039567,
+    64.876166,
+    -148.039567,
+    64.876166
+],
+  "geometry": {"coordinates":[-148.03956700000001,64.876166],"type":"Point"}
 }

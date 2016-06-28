@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102169191",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-135.3919,57.102967,-135.3919,57.102967",
     "geom:latitude":57.102967,
     "geom:longitude":-135.3919,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Granite Creek Rd",
     "sg:city":"Sitka",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102169191",
-    "wof:lastmodified":1449069248,
+    "wof:lastmodified":1466313748,
     "wof:name":"Northern Sales Co Of Alaska",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-135.3919,57.102967,-135.3919,57.102967],
-  "geometry": {"coordinates":[-135.3919,57.102967],"type":"Point"}
+  "bbox": [
+    -135.3919,
+    57.102967,
+    -135.3919,
+    57.102967
+],
+  "geometry": {"coordinates":[-135.39189999999999,57.102967],"type":"Point"}
 }

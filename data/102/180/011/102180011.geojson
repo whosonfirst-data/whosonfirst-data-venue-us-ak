@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102180011",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.75492,55.407539,-131.75492,55.407539",
     "geom:latitude":55.407539,
     "geom:longitude":-131.75492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8570 N Tongass Hwy",
     "sg:city":"Ward Cove",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102180011",
-    "wof:lastmodified":1449067878,
+    "wof:lastmodified":1466313918,
     "wof:name":"P & T Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.75492,55.407539,-131.75492,55.407539],
+  "bbox": [
+    -131.75492,
+    55.407539,
+    -131.75492,
+    55.407539
+],
   "geometry": {"coordinates":[-131.75492,55.407539],"type":"Point"}
 }

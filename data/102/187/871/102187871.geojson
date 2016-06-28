@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102187871",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.051318,60.490028,-151.051318,60.490028",
     "geom:latitude":60.490028,
     "geom:longitude":-151.051318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43843 Sterling Hwy",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102187871",
-    "wof:lastmodified":1449068159,
+    "wof:lastmodified":1466314235,
     "wof:name":"Fred Meyer One Stop Shopping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.051318,60.490028,-151.051318,60.490028],
-  "geometry": {"coordinates":[-151.051318,60.490028],"type":"Point"}
+  "bbox": [
+    -151.051318,
+    60.490028,
+    -151.051318,
+    60.490028
+],
+  "geometry": {"coordinates":[-151.05131800000001,60.490028],"type":"Point"}
 }

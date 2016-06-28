@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102167021",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.981796,56.795808,-132.981796,56.795808",
     "geom:latitude":56.795808,
     "geom:longitude":-132.981796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Mitkof Hwy",
     "sg:city":"Petersburg",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102167021",
-    "wof:lastmodified":1449069003,
+    "wof:lastmodified":1466313672,
     "wof:name":"Boat RB",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.981796,56.795808,-132.981796,56.795808],
+  "bbox": [
+    -132.981796,
+    56.795808,
+    -132.981796,
+    56.795808
+],
   "geometry": {"coordinates":[-132.981796,56.795808],"type":"Point"}
 }

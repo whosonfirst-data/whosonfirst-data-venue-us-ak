@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102153131",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.785118,61.192544,-149.785118,61.192544",
     "geom:latitude":61.192544,
     "geom:longitude":-149.785118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5011 Garland Cir",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873727,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102153131",
-    "wof:lastmodified":1449069461,
+    "wof:lastmodified":1466314102,
     "wof:name":"Hydro Axe Service Smith Eqp",
     "wof:parent_id":85873727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.785118,61.192544,-149.785118,61.192544],
-  "geometry": {"coordinates":[-149.785118,61.192544],"type":"Point"}
+  "bbox": [
+    -149.785118,
+    61.192544,
+    -149.785118,
+    61.192544
+],
+  "geometry": {"coordinates":[-149.78511800000001,61.192544],"type":"Point"}
 }

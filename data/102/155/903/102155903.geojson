@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102155903",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-131.655003,55.344952,-131.655003,55.344952",
     "geom:latitude":55.344952,
     "geom:longitude":-131.655003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1010 Water St",
     "sg:city":"Ketchikan",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102155903",
-    "wof:lastmodified":1449069742,
+    "wof:lastmodified":1466313633,
     "wof:name":"49'Er Bar & Liquor Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-131.655003,55.344952,-131.655003,55.344952],
-  "geometry": {"coordinates":[-131.655003,55.344952],"type":"Point"}
+  "bbox": [
+    -131.655003,
+    55.344952,
+    -131.655003,
+    55.344952
+],
+  "geometry": {"coordinates":[-131.65500299999999,55.344952],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102169591",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.110605,61.605184,-149.110605,61.605184",
     "geom:latitude":61.605184,
     "geom:longitude":-149.110605,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 S Valley Way",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102169591",
-    "wof:lastmodified":1449069246,
+    "wof:lastmodified":1466313831,
     "wof:name":"HARVEYS Classic Motocylcles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.110605,61.605184,-149.110605,61.605184],
-  "geometry": {"coordinates":[-149.110605,61.605184],"type":"Point"}
+  "bbox": [
+    -149.110605,
+    61.605184,
+    -149.110605,
+    61.605184
+],
+  "geometry": {"coordinates":[-149.11060499999999,61.605184],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102188035",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.954872,56.81168,-132.954872,56.81168",
     "geom:latitude":56.81168,
     "geom:longitude":-132.954872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Gjoa St",
     "sg:city":"Petersburg",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102188035",
-    "wof:lastmodified":1449068947,
+    "wof:lastmodified":1466314089,
     "wof:name":"Leilani Kito",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.954872,56.81168,-132.954872,56.81168],
-  "geometry": {"coordinates":[-132.954872,56.81168],"type":"Point"}
+  "bbox": [
+    -132.954872,
+    56.81168,
+    -132.954872,
+    56.81168
+],
+  "geometry": {"coordinates":[-132.95487199999999,56.81168],"type":"Point"}
 }

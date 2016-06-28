@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172183",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-151.078358,60.478484,-151.078358,60.478484",
     "geom:latitude":60.478484,
     "geom:longitude":-151.078358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44712 Sterling Hwy",
     "sg:city":"Soldotna",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":"102172183",
-    "wof:lastmodified":1449068737,
+    "wof:lastmodified":1466313886,
     "wof:name":"Classy Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-151.078358,60.478484,-151.078358,60.478484],
-  "geometry": {"coordinates":[-151.078358,60.478484],"type":"Point"}
+  "bbox": [
+    -151.078358,
+    60.478484,
+    -151.078358,
+    60.478484
+],
+  "geometry": {"coordinates":[-151.07835800000001,60.478484],"type":"Point"}
 }

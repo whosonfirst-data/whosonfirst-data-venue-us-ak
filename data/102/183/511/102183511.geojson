@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102183511",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.817267,61.099543,-149.817267,61.099543",
     "geom:latitude":61.099543,
     "geom:longitude":-149.817267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13506 Mainsail Dr",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873753,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102183511",
-    "wof:lastmodified":1449069042,
+    "wof:lastmodified":1466314122,
     "wof:name":"R L Martin & Associates",
     "wof:parent_id":85873753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.817267,61.099543,-149.817267,61.099543],
-  "geometry": {"coordinates":[-149.817267,61.099543],"type":"Point"}
+  "bbox": [
+    -149.817267,
+    61.099543,
+    -149.817267,
+    61.099543
+],
+  "geometry": {"coordinates":[-149.81726699999999,61.099543],"type":"Point"}
 }

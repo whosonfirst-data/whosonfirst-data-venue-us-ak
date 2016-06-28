@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102152717",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.834071,61.144067,-149.834071,61.144067",
     "geom:latitude":61.144067,
     "geom:longitude":-149.834071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8427 Lake Otis Pkwy",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"AK",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873753,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102152717",
-    "wof:lastmodified":1449069633,
+    "wof:lastmodified":1466313601,
     "wof:name":"Abbott Loop Elementary School",
     "wof:parent_id":85873753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.834071,61.144067,-149.834071,61.144067],
-  "geometry": {"coordinates":[-149.834071,61.144067],"type":"Point"}
+  "bbox": [
+    -149.834071,
+    61.144067,
+    -149.834071,
+    61.144067
+],
+  "geometry": {"coordinates":[-149.83407099999999,61.144067],"type":"Point"}
 }

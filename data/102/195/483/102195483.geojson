@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102195483",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.226504,61.671774,-149.226504,61.671774",
     "geom:latitude":61.671774,
     "geom:longitude":-149.226504,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8311 New Hope St",
     "sg:city":"Palmer",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102195483",
-    "wof:lastmodified":1449069364,
+    "wof:lastmodified":1466314291,
     "wof:name":"Glacier Mountain Adventures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.226504,61.671774,-149.226504,61.671774],
-  "geometry": {"coordinates":[-149.226504,61.671774],"type":"Point"}
+  "bbox": [
+    -149.226504,
+    61.671774,
+    -149.226504,
+    61.671774
+],
+  "geometry": {"coordinates":[-149.22650400000001,61.671774],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172443",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.858762,64.827457,-147.858762,64.827457",
     "geom:latitude":64.827457,
     "geom:longitude":-147.858762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4570 Elliott Ln",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102172443",
-    "wof:lastmodified":1449068737,
+    "wof:lastmodified":1466313940,
     "wof:name":"Alaska Goldline Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.858762,64.827457,-147.858762,64.827457],
-  "geometry": {"coordinates":[-147.858762,64.827457],"type":"Point"}
+  "bbox": [
+    -147.858762,
+    64.827457,
+    -147.858762,
+    64.827457
+],
+  "geometry": {"coordinates":[-147.85876200000001,64.827457],"type":"Point"}
 }

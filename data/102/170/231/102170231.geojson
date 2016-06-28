@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102170231",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.41195,61.577729,-149.41195,61.577729",
     "geom:latitude":61.577729,
     "geom:longitude":-149.41195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1571 E Parks Hwy",
     "sg:city":"Wasilla",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102170231",
-    "wof:lastmodified":1449068018,
+    "wof:lastmodified":1466313776,
     "wof:name":"Perfect Look",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.41195,61.577729,-149.41195,61.577729],
-  "geometry": {"coordinates":[-149.41195,61.577729],"type":"Point"}
+  "bbox": [
+    -149.41195,
+    61.577729,
+    -149.41195,
+    61.577729
+],
+  "geometry": {"coordinates":[-149.41194999999999,61.577729],"type":"Point"}
 }

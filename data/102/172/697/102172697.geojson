@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102172697",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.704295,64.846759,-147.704295,64.846759",
     "geom:latitude":64.846759,
     "geom:longitude":-147.704295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 2nd St",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848979,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85848979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102172697",
-    "wof:lastmodified":1449068736,
+    "wof:lastmodified":1466313988,
     "wof:name":"Xerox Corp",
     "wof:parent_id":85848979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.704295,64.846759,-147.704295,64.846759],
-  "geometry": {"coordinates":[-147.704295,64.846759],"type":"Point"}
+  "bbox": [
+    -147.704295,
+    64.846759,
+    -147.704295,
+    64.846759
+],
+  "geometry": {"coordinates":[-147.704295,64.84675900000001],"type":"Point"}
 }

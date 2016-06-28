@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102196245",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-132.381316,56.470553,-132.381316,56.470553",
     "geom:latitude":56.470553,
     "geom:longitude":-132.381316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 Front St",
     "sg:city":"Wrangell",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102196245",
-    "wof:lastmodified":1449068338,
+    "wof:lastmodified":1466314304,
     "wof:name":"Sentry Hardware & Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-132.381316,56.470553,-132.381316,56.470553],
+  "bbox": [
+    -132.381316,
+    56.470553,
+    -132.381316,
+    56.470553
+],
   "geometry": {"coordinates":[-132.381316,56.470553],"type":"Point"}
 }

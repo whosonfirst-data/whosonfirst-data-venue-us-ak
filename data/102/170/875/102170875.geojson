@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102170875",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.436095,61.410535,-149.436095,61.410535",
     "geom:latitude":61.410535,
     "geom:longitude":-149.436095,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21111 Eastside Dr",
     "sg:city":"Chugiak",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     "sg:website":"www.alaskaoriginals.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869049,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85869049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102170875",
-    "wof:lastmodified":1449068020,
+    "wof:lastmodified":1466313908,
     "wof:name":"Alaska Originals Inc",
     "wof:parent_id":85869049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.436095,61.410535,-149.436095,61.410535],
-  "geometry": {"coordinates":[-149.436095,61.410535],"type":"Point"}
+  "bbox": [
+    -149.436095,
+    61.410535,
+    -149.436095,
+    61.410535
+],
+  "geometry": {"coordinates":[-149.43609499999999,61.410535],"type":"Point"}
 }

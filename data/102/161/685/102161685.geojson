@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102161685",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.782357,61.108694,-149.782357,61.108694",
     "geom:latitude":61.108694,
     "geom:longitude":-149.782357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5345 Huffman Rd",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102161685",
-    "wof:lastmodified":1449068713,
+    "wof:lastmodified":1466313783,
     "wof:name":"Fowler Gun & Machine Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.782357,61.108694,-149.782357,61.108694],
-  "geometry": {"coordinates":[-149.782357,61.108694],"type":"Point"}
+  "bbox": [
+    -149.782357,
+    61.108694,
+    -149.782357,
+    61.108694
+],
+  "geometry": {"coordinates":[-149.78235699999999,61.108694],"type":"Point"}
 }

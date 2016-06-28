@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102175363",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.575974,61.323875,-149.575974,61.323875",
     "geom:latitude":61.323875,
     "geom:longitude":-149.575974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11462 Business Blvd",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102175363",
-    "wof:lastmodified":1449069468,
+    "wof:lastmodified":1466313931,
     "wof:name":"Chugach Chiropractic Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.575974,61.323875,-149.575974,61.323875],
+  "bbox": [
+    -149.575974,
+    61.323875,
+    -149.575974,
+    61.323875
+],
   "geometry": {"coordinates":[-149.575974,61.323875],"type":"Point"}
 }

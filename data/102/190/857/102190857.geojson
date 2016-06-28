@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102190857",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-133.140346,55.477274,-133.140346,55.477274",
     "geom:latitude":55.477274,
     "geom:longitude":-133.140346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 Cold Storage Rd",
     "sg:city":"Craig",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102190857",
-    "wof:lastmodified":1449070037,
+    "wof:lastmodified":1466314015,
     "wof:name":"TLC Cab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-133.140346,55.477274,-133.140346,55.477274],
-  "geometry": {"coordinates":[-133.140346,55.477274],"type":"Point"}
+  "bbox": [
+    -133.140346,
+    55.477274,
+    -133.140346,
+    55.477274
+],
+  "geometry": {"coordinates":[-133.14034599999999,55.477274],"type":"Point"}
 }

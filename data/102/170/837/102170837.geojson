@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102170837",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.571718,61.329505,-149.571718,61.329505",
     "geom:latitude":61.329505,
     "geom:longitude":-149.571718,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12032 Business Blvd",
     "sg:city":"Eagle River",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":"102170837",
-    "wof:lastmodified":1449068018,
+    "wof:lastmodified":1466313900,
     "wof:name":"Blockbuster Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.571718,61.329505,-149.571718,61.329505],
+  "bbox": [
+    -149.571718,
+    61.329505,
+    -149.571718,
+    61.329505
+],
   "geometry": {"coordinates":[-149.571718,61.329505],"type":"Point"}
 }

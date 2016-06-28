@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102182987",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-149.85124,61.222547,-149.85124,61.222547",
     "geom:latitude":61.222547,
     "geom:longitude":-149.85124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1507 Spar Ave",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     "sg:website":"www.anchorageopera.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873711,
+        85688573,
         85633793,
         85915707,
         102085881,
-        85688573
+        85873711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":"102182987",
-    "wof:lastmodified":1449069279,
+    "wof:lastmodified":1466314175,
     "wof:name":"Anchorage Opera",
     "wof:parent_id":85873711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-149.85124,61.222547,-149.85124,61.222547],
-  "geometry": {"coordinates":[-149.85124,61.222547],"type":"Point"}
+  "bbox": [
+    -149.85124,
+    61.222547,
+    -149.85124,
+    61.222547
+],
+  "geometry": {"coordinates":[-149.85123999999999,61.222547],"type":"Point"}
 }

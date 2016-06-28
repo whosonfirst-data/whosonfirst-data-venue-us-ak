@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102163927",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.703114,64.819576,-147.703114,64.819576",
     "geom:latitude":64.819576,
     "geom:longitude":-147.703114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"285 Old Richardson Hwy",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869047,
+        85688573,
         85633793,
         85915635,
         102081397,
-        85688573
+        85869047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":"102163927",
-    "wof:lastmodified":1449070165,
+    "wof:lastmodified":1466313836,
     "wof:name":"Silverspur Night Club",
     "wof:parent_id":85869047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.703114,64.819576,-147.703114,64.819576],
+  "bbox": [
+    -147.703114,
+    64.819576,
+    -147.703114,
+    64.819576
+],
   "geometry": {"coordinates":[-147.703114,64.819576],"type":"Point"}
 }

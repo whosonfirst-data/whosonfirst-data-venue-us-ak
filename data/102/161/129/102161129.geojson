@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102161129",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.261926,64.739262,-147.261926,64.739262",
     "geom:latitude":64.739262,
     "geom:longitude":-147.261926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3745 Silverleaf Ave",
     "sg:city":"North Pole",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":"102161129",
-    "wof:lastmodified":1449068713,
+    "wof:lastmodified":1466313668,
     "wof:name":"Miller's Dog Grooming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.261926,64.739262,-147.261926,64.739262],
-  "geometry": {"coordinates":[-147.261926,64.739262],"type":"Point"}
+  "bbox": [
+    -147.261926,
+    64.739262,
+    -147.261926,
+    64.739262
+],
+  "geometry": {"coordinates":[-147.26192599999999,64.739262],"type":"Point"}
 }

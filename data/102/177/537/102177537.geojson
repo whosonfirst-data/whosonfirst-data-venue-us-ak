@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102177537",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-147.608912,64.84164,-147.608912,64.84164",
     "geom:latitude":64.84164,
     "geom:longitude":-147.608912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1060 Gaffney Rd",
     "sg:city":"Fort Wainwright",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":"102177537",
-    "wof:lastmodified":1449070203,
+    "wof:lastmodified":1466313977,
     "wof:name":"Bassett Army Hospital Med Libr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-147.608912,64.84164,-147.608912,64.84164],
+  "bbox": [
+    -147.608912,
+    64.84164,
+    -147.608912,
+    64.84164
+],
   "geometry": {"coordinates":[-147.608912,64.84164],"type":"Point"}
 }
