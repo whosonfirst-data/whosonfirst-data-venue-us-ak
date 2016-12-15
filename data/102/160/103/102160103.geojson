@@ -2,6 +2,10 @@
   "id": "102160103",
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 W 56th Ave Anchorage AK 99518",
+    "addr:housenumber":"1300",
+    "addr:postcode":"99518",
+    "addr:street":"W 56Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":"102160103",
-    "wof:lastmodified":1466313615,
+    "wof:lastmodified":1472597307,
     "wof:name":"AFF Distribution Svc",
     "wof:parent_id":85809155,
     "wof:placetype":"venue",

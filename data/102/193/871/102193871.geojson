@@ -2,6 +2,10 @@
   "id": "102193871",
   "type": "Feature",
   "properties": {
+    "addr:full":"3210 Racquet Cir Anchorage AK 99507",
+    "addr:housenumber":"3210",
+    "addr:postcode":"99507",
+    "addr:street":"Racquet Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":"102193871",
-    "wof:lastmodified":1466314280,
+    "wof:lastmodified":1472597393,
     "wof:name":"Airtech",
     "wof:parent_id":85809155,
     "wof:placetype":"venue",

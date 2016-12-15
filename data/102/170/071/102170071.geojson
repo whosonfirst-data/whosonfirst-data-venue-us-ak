@@ -2,6 +2,10 @@
   "id": "102170071",
   "type": "Feature",
   "properties": {
+    "addr:full":"4001 Lake St Homer AK 99603",
+    "addr:housenumber":"4001",
+    "addr:postcode":"99603",
+    "addr:street":"Lake St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":"102170071",
-    "wof:lastmodified":1466313743,
+    "wof:lastmodified":1472597335,
     "wof:name":"Homer Independent Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

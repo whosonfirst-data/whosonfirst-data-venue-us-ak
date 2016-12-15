@@ -2,6 +2,10 @@
   "id": "102171889",
   "type": "Feature",
   "properties": {
+    "addr:full":"1941 Mill Bay Rd Kodiak AK 99615",
+    "addr:housenumber":"1941;bay",
+    "addr:postcode":"99615",
+    "addr:street":"Mill;Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":"102171889",
-    "wof:lastmodified":1466313977,
+    "wof:lastmodified":1472597345,
     "wof:name":"King's Diner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

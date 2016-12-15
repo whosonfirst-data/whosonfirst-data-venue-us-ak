@@ -2,6 +2,10 @@
   "id": "102171973",
   "type": "Feature",
   "properties": {
+    "addr:full":"301 W Northern Lights Blvd Anchorage AK 99503",
+    "addr:housenumber":"301",
+    "addr:postcode":"99503",
+    "addr:street":"W Northern Lights Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":"102171973",
-    "wof:lastmodified":1466313992,
+    "wof:lastmodified":1472597345,
     "wof:name":"Wells Fargo Private Client Svc",
     "wof:parent_id":85873713,
     "wof:placetype":"venue",

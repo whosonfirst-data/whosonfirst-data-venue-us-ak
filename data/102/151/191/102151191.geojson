@@ -2,6 +2,10 @@
   "id": "102151191",
   "type": "Feature",
   "properties": {
+    "addr:full":"2411 Mill Bay Rd Kodiak AK 99615",
+    "addr:housenumber":"2411;bay",
+    "addr:postcode":"99615",
+    "addr:street":"Mill;Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":"102151191",
-    "wof:lastmodified":1466314061,
+    "wof:lastmodified":1472597317,
     "wof:name":"Civil Air Patrol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

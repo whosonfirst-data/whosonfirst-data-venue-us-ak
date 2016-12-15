@@ -2,6 +2,10 @@
   "id": "102184521",
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 Enterprise St Wasilla AK 99654",
+    "addr:housenumber":"1001",
+    "addr:postcode":"99654",
+    "addr:street":"Enterprise St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":"102184521",
-    "wof:lastmodified":1466314137,
+    "wof:lastmodified":1472597377,
     "wof:name":"Tri Valley Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

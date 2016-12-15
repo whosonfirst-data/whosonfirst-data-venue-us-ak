@@ -2,6 +2,10 @@
   "id": "102178535",
   "type": "Feature",
   "properties": {
+    "addr:full":"1712 Mill Bay Rd Kodiak AK 99615",
+    "addr:housenumber":"1712;bay",
+    "addr:postcode":"99615",
+    "addr:street":"Mill;Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":"102178535",
-    "wof:lastmodified":1466313981,
+    "wof:lastmodified":1472597371,
     "wof:name":"Cutting Edge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

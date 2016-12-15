@@ -2,6 +2,10 @@
   "id": "102183637",
   "type": "Feature",
   "properties": {
+    "addr:full":"2921 Mill Bay Rd Kodiak AK 99615",
+    "addr:housenumber":"2921;bay",
+    "addr:postcode":"99615",
+    "addr:street":"Mill;Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":"102183637",
-    "wof:lastmodified":1466314140,
+    "wof:lastmodified":1472597377,
     "wof:name":"Search & Rescue",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": "102165997",
   "type": "Feature",
   "properties": {
+    "addr:full":"5151 Fairbanks St Anchorage AK 99503",
+    "addr:housenumber":"5151",
+    "addr:postcode":"99503",
+    "addr:street":"Fairbanks St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":"102165997",
-    "wof:lastmodified":1466313857,
+    "wof:lastmodified":1472597345,
     "wof:name":"GCI Mobile Radio",
     "wof:parent_id":85873723,
     "wof:placetype":"venue",

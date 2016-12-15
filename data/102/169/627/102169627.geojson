@@ -2,6 +2,10 @@
   "id": "102169627",
   "type": "Feature",
   "properties": {
+    "addr:full":"440 E Benson Blvd Anchorage AK 99503",
+    "addr:housenumber":"440",
+    "addr:postcode":"99503",
+    "addr:street":"E Benson Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":"102169627",
-    "wof:lastmodified":1466313838,
+    "wof:lastmodified":1472597342,
     "wof:name":"KTBY TV Channel 4",
     "wof:parent_id":85873723,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": "102190521",
   "type": "Feature",
   "properties": {
+    "addr:full":"1614 Mill Bay Rd Kodiak AK 99615",
+    "addr:housenumber":"1614;bay",
+    "addr:postcode":"99615",
+    "addr:street":"Mill;Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":"102190521",
-    "wof:lastmodified":1466313954,
+    "wof:lastmodified":1472597367,
     "wof:name":"Lucky Money Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

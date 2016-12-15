@@ -2,6 +2,10 @@
   "id": "102154485",
   "type": "Feature",
   "properties": {
+    "addr:full":"3137 Mill Bay Rd Kodiak AK 99615",
+    "addr:housenumber":"3137;bay",
+    "addr:postcode":"99615",
+    "addr:street":"Mill;Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":"102154485",
-    "wof:lastmodified":1466313546,
+    "wof:lastmodified":1472597288,
     "wof:name":"Kodiak Island Housing Auth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

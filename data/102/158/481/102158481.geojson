@@ -2,6 +2,10 @@
   "id": "102158481",
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 O'Malley Rd Anchorage AK 99515",
+    "addr:housenumber":"1000",
+    "addr:postcode":"99515",
+    "addr:street":"O'Malley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":"102158481",
-    "wof:lastmodified":1466313604,
+    "wof:lastmodified":1472597325,
     "wof:name":"Baker Chiropractic Clinic",
     "wof:parent_id":85869053,
     "wof:placetype":"venue",

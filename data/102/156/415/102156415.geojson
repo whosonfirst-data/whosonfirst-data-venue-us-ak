@@ -2,6 +2,10 @@
   "id": "102156415",
   "type": "Feature",
   "properties": {
+    "addr:full":"5000 Shennum Dr Wasilla AK 99654",
+    "addr:housenumber":"5000",
+    "addr:postcode":"99654",
+    "addr:street":"Shennum Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":"102156415",
-    "wof:lastmodified":1466313542,
+    "wof:lastmodified":1472597313,
     "wof:name":"Mat-Su Svc-Children & Adults",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

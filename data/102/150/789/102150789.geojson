@@ -2,6 +2,10 @@
   "id": "102150789",
   "type": "Feature",
   "properties": {
+    "addr:full":"3650 E Tudor Rd Anchorage AK 99507",
+    "addr:housenumber":"3650",
+    "addr:postcode":"99507",
+    "addr:street":"E Tudor Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":"102150789",
-    "wof:lastmodified":1466314067,
+    "wof:lastmodified":1472597345,
     "wof:name":"Carpool Anchorage Share-A-Ride",
     "wof:parent_id":85873727,
     "wof:placetype":"venue",

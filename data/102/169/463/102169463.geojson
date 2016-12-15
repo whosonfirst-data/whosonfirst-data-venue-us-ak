@@ -2,6 +2,10 @@
   "id": "102169463",
   "type": "Feature",
   "properties": {
+    "addr:full":"1247 Mill Bay Rd Kodiak AK 99615",
+    "addr:housenumber":"1247;bay",
+    "addr:postcode":"99615",
+    "addr:street":"Mill;Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":"102169463",
-    "wof:lastmodified":1466313804,
+    "wof:lastmodified":1472597337,
     "wof:name":"Orion's Sports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

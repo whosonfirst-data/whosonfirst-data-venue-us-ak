@@ -2,6 +2,10 @@
   "id": "102163521",
   "type": "Feature",
   "properties": {
+    "addr:full":"2441 O'Malley Rd Anchorage AK 99507",
+    "addr:housenumber":"2441",
+    "addr:postcode":"99507",
+    "addr:street":"O'Malley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":"102163521",
-    "wof:lastmodified":1466313753,
+    "wof:lastmodified":1472597342,
     "wof:name":"Agre Maintenance Svc",
     "wof:parent_id":85869053,
     "wof:placetype":"venue",

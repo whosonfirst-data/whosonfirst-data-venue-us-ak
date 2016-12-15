@@ -2,6 +2,10 @@
   "id": "102160861",
   "type": "Feature",
   "properties": {
+    "addr:full":"1045 Fred Cir Anchorage AK 99515",
+    "addr:housenumber":"1045",
+    "addr:postcode":"99515",
+    "addr:street":"Fred Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":"102160861",
-    "wof:lastmodified":1466313768,
+    "wof:lastmodified":1472597328,
     "wof:name":"Jeanie's Janitorial Svc",
     "wof:parent_id":85873739,
     "wof:placetype":"venue",

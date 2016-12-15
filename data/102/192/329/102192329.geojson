@@ -2,6 +2,10 @@
   "id": "102192329",
   "type": "Feature",
   "properties": {
+    "addr:full":"1623 Mill Bay Rd Kodiak AK 99615",
+    "addr:housenumber":"1623;bay",
+    "addr:postcode":"99615",
+    "addr:street":"Mill;Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":"102192329",
-    "wof:lastmodified":1466314239,
+    "wof:lastmodified":1472597381,
     "wof:name":"Aksala Electronics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

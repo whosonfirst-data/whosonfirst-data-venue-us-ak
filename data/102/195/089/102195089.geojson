@@ -2,6 +2,10 @@
   "id": "102195089",
   "type": "Feature",
   "properties": {
+    "addr:full":"3333 Denali St Anchorage AK 99503",
+    "addr:housenumber":"3333",
+    "addr:postcode":"99503",
+    "addr:street":"Denali St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":"102195089",
-    "wof:lastmodified":1466314284,
+    "wof:lastmodified":1472597368,
     "wof:name":"IBEW",
     "wof:parent_id":85873723,
     "wof:placetype":"venue",

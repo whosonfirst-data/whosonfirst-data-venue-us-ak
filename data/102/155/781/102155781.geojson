@@ -2,6 +2,10 @@
   "id": "102155781",
   "type": "Feature",
   "properties": {
+    "addr:full":"2645 Mill Bay Rd Kodiak AK 99615",
+    "addr:housenumber":"2645;bay",
+    "addr:postcode":"99615",
+    "addr:street":"Mill;Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":"102155781",
-    "wof:lastmodified":1466313608,
+    "wof:lastmodified":1472597325,
     "wof:name":"Wells Fargo Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

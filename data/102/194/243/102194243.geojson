@@ -2,6 +2,10 @@
   "id": "102194243",
   "type": "Feature",
   "properties": {
+    "addr:full":"3240 Hospital Dr Juneau AK 99801",
+    "addr:housenumber":"3240",
+    "addr:postcode":"99801",
+    "addr:street":"Hospital Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":"102194243",
-    "wof:lastmodified":1466314254,
+    "wof:lastmodified":1472597384,
     "wof:name":"Bartlett Outpatient Svc",
     "wof:parent_id":85853509,
     "wof:placetype":"venue",

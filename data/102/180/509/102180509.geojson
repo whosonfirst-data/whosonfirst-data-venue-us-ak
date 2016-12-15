@@ -2,6 +2,10 @@
   "id": "102180509",
   "type": "Feature",
   "properties": {
+    "addr:full":"3210 Denali St Anchorage AK 99503",
+    "addr:housenumber":"",
+    "addr:postcode":"3210;99503",
+    "addr:street":"Denali St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":"102180509",
-    "wof:lastmodified":1466314017,
+    "wof:lastmodified":1472597369,
     "wof:name":"Curzie Chiropractic",
     "wof:parent_id":85873723,
     "wof:placetype":"venue",
