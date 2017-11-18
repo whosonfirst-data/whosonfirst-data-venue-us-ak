@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-149.820537,61.215563,-149.820537,61.215563",
     "geom:latitude":61.215563,
     "geom:longitude":-149.820537,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3101 Penland Pkwy",
     "sg:city":"Anchorage",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464220487,
-    "wof:geomhash":"3697881ffb0f6cdc522d2915b7523a4a",
+    "wof:geomhash":"042e2804a17f8467e56934cb5401b231",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":857683441,
-    "wof:lastmodified":1472597286,
+    "wof:lastmodified":1510943613,
     "wof:name":"Arby's",
     "wof:parent_id":85873729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ak",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        "102151703"
+    ],
     "wof:tags":[
         "burger",
         "american"
