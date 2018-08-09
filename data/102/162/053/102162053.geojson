@@ -2,18 +2,25 @@
   "id": "102162053",
   "type": "Feature",
   "properties": {
-    "addr:full":"215 Mission Rd Kodiak AK 99615",
+    "addr:city":"Kodiak",
+    "addr:full":"215 Mission Rd Ste 101 Kodiak, Ak 99615-7326",
+    "addr:house_number":"215",
     "addr:housenumber":"215",
-    "addr:postcode":"99615",
+    "addr:phone":"+1 907-486-7004",
+    "addr:postcode":"99615-7326",
+    "addr:road":"Mission Rd",
+    "addr:state":"AK",
     "addr:street":"Mission Rd",
+    "addr:unit":"Ste 101",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-152.402933,57.788563,-152.402933,57.788563",
-    "geom:latitude":57.788563,
-    "geom:longitude":-152.402933,
+    "geom:bbox":"-152.4025,57.78869,-152.4025,57.78869",
+    "geom:latitude":57.78869,
+    "geom:longitude":-152.4025,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"215 Mission Rd",
     "sg:city":"Kodiak",
     "sg:classifiers":[
@@ -27,7 +34,11 @@
     "sg:phone":"+1 907 486 7004",
     "sg:postcode":"99615",
     "sg:province":"AK",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526553,
+        102533041
+    ],
     "wof:belongsto":[
         85915867,
         85633793,
@@ -36,10 +47,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400200135,
         "sg:id":"SG_3YKLxEkWLbEaBbfVcb5TnX_57.788563_-152.402933@1293731153"
     },
     "wof:country":"US",
-    "wof:geomhash":"bb7ff1802a59633a07abc2fcdb880c5e",
+    "wof:geomhash":"3efe3ce82bb6a18c13dd76c647ba488e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,8 +62,8 @@
         }
     ],
     "wof:id":"102162053",
-    "wof:lastmodified":1472597315,
-    "wof:name":"Alutiiq Museum",
+    "wof:lastmodified":1533754257,
+    "wof:name":"Alutiiq Heritage Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ak",
@@ -60,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -152.402933,
-    57.788563,
-    -152.402933,
-    57.788563
+    -152.4025,
+    57.78869,
+    -152.4025,
+    57.78869
 ],
-  "geometry": {"coordinates":[-152.40293299999999,57.788563],"type":"Point"}
+  "geometry": {"coordinates":[-152.4025,57.78869],"type":"Point"}
 }

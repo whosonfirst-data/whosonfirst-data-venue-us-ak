@@ -2,17 +2,22 @@
   "id": "102181897",
   "type": "Feature",
   "properties": {
-    "addr:full":"8800 Heritage Center Dr Elmendorf Afb AK 99506",
+    "addr:city":"Anchorage",
+    "addr:full":"8800 Heritage Center Drive Anchorage, Ak 99504-6100",
+    "addr:house_number":"8800",
     "addr:housenumber":"8800",
-    "addr:postcode":"99506",
+    "addr:phone":"+1 907-330-8000",
+    "addr:postcode":"99504-6100",
+    "addr:road":"Heritage Center Drive",
+    "addr:state":"AK",
     "addr:street":"Heritage Center Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-149.718603,61.233121,-149.718603,61.233121",
-    "geom:latitude":61.233121,
-    "geom:longitude":-149.718603,
+    "geom:bbox":"-149.71566,61.23361,-149.71566,61.23361",
+    "geom:latitude":61.23361,
+    "geom:longitude":-149.71566,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -30,21 +35,26 @@
     "sg:postcode":"99506",
     "sg:province":"AK",
     "sg:website":"www.alaskanative.net",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531001,
+        102532693
+    ],
     "wof:belongsto":[
-        85688573,
+        85873731,
         85633793,
         85915707,
         102085881,
-        85873731
+        85688573
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400200123,
         "osm:way":29406233,
         "sg:id":"SG_0rNTs9vYf88maAntSoo82d_61.233121_-149.718603@1293731153"
     },
     "wof:country":"US",
-    "wof:geomhash":"f0d07bf74c150b6ec28c59db64acfb73",
+    "wof:geomhash":"253c153f4b00b94d1c69e879256302a1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,8 +66,8 @@
         }
     ],
     "wof:id":"102181897",
-    "wof:lastmodified":1510944151,
-    "wof:name":"Alaska Native Heritage Ctr",
+    "wof:lastmodified":1533754257,
+    "wof:name":"Alaska Native Heritage Center",
     "wof:parent_id":85873731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ak",
@@ -66,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -149.718603,
-    61.233121,
-    -149.718603,
-    61.233121
+    -149.71566,
+    61.23361,
+    -149.71566,
+    61.23361
 ],
-  "geometry": {"coordinates":[-149.718603,61.233121],"type":"Point"}
+  "geometry": {"coordinates":[-149.71566000000001,61.23361],"type":"Point"}
 }

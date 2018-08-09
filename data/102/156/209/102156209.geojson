@@ -2,18 +2,24 @@
   "id": "102156209",
   "type": "Feature",
   "properties": {
-    "addr:full":"106 W Bunnell Ave Homer AK 99603",
+    "addr:city":"Homer",
+    "addr:full":"106 W Bunnell Ave Homer, Ak 99603-7851",
+    "addr:house_number":"106",
     "addr:housenumber":"106",
-    "addr:postcode":"99603",
+    "addr:phone":"+1 907-235-2662",
+    "addr:postcode":"99603-7851",
+    "addr:road":"W Bunnell Ave",
+    "addr:state":"AK",
     "addr:street":"W Bunnell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-151.544309,59.639824,-151.544309,59.639824",
-    "geom:latitude":59.639824,
-    "geom:longitude":-151.544309,
+    "geom:bbox":"-151.54459,59.64002,-151.54459,59.64002",
+    "geom:latitude":59.64002,
+    "geom:longitude":-151.54459,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"106 W Bunnell Ave",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -32,7 +38,10 @@
         "gallery",
         "dealer"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533983
+    ],
     "wof:belongsto":[
         85915739,
         85633793,
@@ -41,10 +50,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400200168,
         "sg:id":"SG_4YUIaJPKlvkLEYcA92IaFv_59.639824_-151.544309@1293731153"
     },
     "wof:country":"US",
-    "wof:geomhash":"cc38db32465473aafd6795ae45e690f6",
+    "wof:geomhash":"6e2ad9fe7caad867d7eb8459aa22aa38",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":"102156209",
-    "wof:lastmodified":1472597309,
+    "wof:lastmodified":1533754257,
     "wof:name":"Bunnell Street Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -151.544309,
-    59.639824,
-    -151.544309,
-    59.639824
+    -151.54459,
+    59.64002,
+    -151.54459,
+    59.64002
 ],
-  "geometry": {"coordinates":[-151.544309,59.639824],"type":"Point"}
+  "geometry": {"coordinates":[-151.54459,59.64002],"type":"Point"}
 }

@@ -2,18 +2,24 @@
   "id": "102183043",
   "type": "Feature",
   "properties": {
-    "addr:full":"500 2nd Ave Fairbanks AK 99701",
+    "addr:city":"Fairbanks",
+    "addr:full":"500 2Nd Ave Fairbanks, Ak 99701",
+    "addr:house_number":"500",
     "addr:housenumber":"500",
+    "addr:phone":"+1 907-451-8222",
     "addr:postcode":"99701",
+    "addr:road":"2Nd Ave",
+    "addr:state":"AK",
     "addr:street":"2Nd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-147.721159,64.843285,-147.721159,64.843285",
-    "geom:latitude":64.843285,
-    "geom:longitude":-147.721159,
+    "geom:bbox":"-147.71794,64.84363,-147.71794,64.84363",
+    "geom:latitude":64.84363,
+    "geom:longitude":-147.71794,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"500 2nd Ave",
     "sg:city":"Fairbanks",
     "sg:classifiers":[
@@ -27,20 +33,25 @@
     "sg:phone":"+1 907 451 8222",
     "sg:postcode":"99701",
     "sg:province":"AK",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102524911,
+        102532093
+    ],
     "wof:belongsto":[
-        85688573,
+        85848979,
         85633793,
         85915635,
         102081397,
-        85848979
+        85688573
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400200019,
         "sg:id":"SG_3vKt95adGvUHvQ2sxgIro7_64.843285_-147.721159@1293731153"
     },
     "wof:country":"US",
-    "wof:geomhash":"fffb480982d7eae19d64c3cc30656041",
+    "wof:geomhash":"bbc695fafe4886e2b5b32efd8b906ea5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +63,7 @@
         }
     ],
     "wof:id":"102183043",
-    "wof:lastmodified":1472597355,
+    "wof:lastmodified":1533754257,
     "wof:name":"Fairbanks Ice Museum",
     "wof:parent_id":85848979,
     "wof:placetype":"venue",
@@ -62,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -147.721159,
-    64.843285,
-    -147.721159,
-    64.843285
+    -147.71794,
+    64.84363,
+    -147.71794,
+    64.84363
 ],
-  "geometry": {"coordinates":[-147.721159,64.84328499999999],"type":"Point"}
+  "geometry": {"coordinates":[-147.71794,64.84363],"type":"Point"}
 }
